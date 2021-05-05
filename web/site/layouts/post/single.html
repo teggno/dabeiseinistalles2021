@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+  <div class="mw6 center ph3 pv4">
+    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    <div class="flex justify-between grey-3">
+      <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+    </div>
+    <div class="cms mw6">
+      <p>{{ .Description }}</p>
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      {{ if .Params.players.goalie }}
+      <div>
+        <!-- <div class="relative" style="transform: translateY(-7rem) perspective(600px) rotateX(50deg) scale(0.75,0.75);"> -->
+          <div class="relative">
+            <img style="width: 100%;z-index:5;" src="img/players.svg" alt="Halbes Fussballfeld"/>
+          <div style="position: absolute; left: 50%;bottom: 9%; transform: translateX(-50%);color:white;">{{ .Params.players.goalie }}</div>
+          <div style="position: absolute; left: 15%;bottom: 34%; transform: translateX(-50%);color:white;text-align: center;">{{ replace .Params.players.v1 " " "<br/>" | safeHTML }}</div>
+          <div style="position: absolute; left: 39%;bottom: 34%; transform: translateX(-50%);color:white;text-align: center;">{{ replace .Params.players.v2 " " "<br/>" | safeHTML }}</div>
+          <div style="position: absolute; left: 63%;bottom: 34%; transform: translateX(-50%);color:white;text-align: center;">{{ replace .Params.players.v3 " " "<br/>" | safeHTML }}</div>
+          <div style="position: absolute; left: 88%;bottom: 34%; transform: translateX(-50%);color:white;text-align: center;">{{ replace .Params.players.v4 " " "<br/>" | safeHTML }}</div>
+          <div style="position: absolute; left: 25%;bottom: 59%; transform: translateX(-50%);color:white;text-align: center;">{{ replace .Params.players.m1 " " "<br/>" | safeHTML }}</div>
+          <div style="position: absolute; left: 50%;bottom: 59%; transform: translateX(-50%);color:white;text-align: center;">{{ replace .Params.players.m2 " " "<br/>" | safeHTML }}</div>
+          <div style="position: absolute; left: 75%;bottom: 59%; transform: translateX(-50%);color:white;text-align: center;">{{ replace .Params.players.m3 " " "<br/>" | safeHTML }}</div>
+          <div style="position: absolute; left: 25%;bottom: 84%; transform: translateX(-50%);color:white;text-align: center;">{{ replace .Params.players.s1 " " "<br/>" | safeHTML }}</div>
+          <div style="position: absolute; left: 50%;bottom: 84%; transform: translateX(-50%);color:white;text-align: center;">{{ replace .Params.players.s2 " " "<br/>" | safeHTML }}</div>
+          <div style="position: absolute; left: 75%;bottom: 84%; transform: translateX(-50%);color:white;text-align: center;">{{ replace .Params.players.s3 " " "<br/>" | safeHTML }}</div>
+        </div>
+      </div>
+        {{ if .Params.players.ersatz }}
+        <div class="pb3">
+          <strong>Ersatzbank:</strong> {{ .Params.players.ersatz }}
+        </div>
+        {{ end }}
+        {{ end }}
+      {{ .Content }}
+    </div>
+  </div>
+{{ end }}
