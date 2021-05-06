@@ -46,5 +46,6 @@ collections: # A list of collections the CMS should be able to edit
             required: true
             fields: 
             - { label: "Titel", name: "title", widget: "string", required: true }
+            - { label: "Beschreibung", name: "description", widget: "text", required: false }
             - { label: "Youtube-Link", name: "url", widget: "string", required: false }
             - { label: "Bild", name: image, widget: image, required: true }

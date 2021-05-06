@@ -6,34 +6,27 @@
 </div>
 
 {{ if .Params.image }}
-<div class="center"
-  ><img src="{{ .Params.image }}" alt="{{ .Title }}" /></div
->
-{{ end }}
-
-{{ if .Params.visible }}
-<div class="center"> 
-
+<div class="center"><img src="{{ .Params.image }}" alt="{{ .Title }}" /></div>
+{{ end }} {{ if .Params.visible }}
+<div class="center">
   {{ if .Params.song }}
   <article>
     <h2>Song des Tages</h2>
-    <a href="{{ .Params.song.url }}" target="_blank" referrerpolicy="no-referrer">{{ .Params.song.title }}</a>
+    <p>{{ .Params.song.description }}</p>
+    <a
+      href="{{ .Params.song.url }}"
+      target="_blank"
+      referrerpolicy="no-referrer"
+      >{{ .Params.song.title }}</a
+    >
     <div>
-      <img style="width: 200px;" src="{{ .Params.song.image }}" alt=""/>
+      <img style="width: 200px" src="{{ .Params.song.image }}" alt="" />
     </div>
   </article>
   {{ end }}
 
-  <div class="mt3">
-  Hier kommt dann die Rangliste hin
-  </div>
-  
-
-
-
+  <div class="mt3"> Hier kommt dann die Rangliste hin </div>
 </div>
-
-
 
 {{ else }}
 <div class="center tc"
