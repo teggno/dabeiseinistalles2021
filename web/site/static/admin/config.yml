@@ -3,13 +3,13 @@ backend:
 
 locale: "de"
 
-media_folder: "site/static/img" # Folder where user uploaded files should go
+media_folder: "web/site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Artikel" # Used in the UI, ie.: "New Post"
-    folder: "site/content/post" # The path to the folder where the documents are stored
+    folder: "web/site/content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: "Titel", name: "title", widget: "string" }
@@ -20,7 +20,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Seiten"
     files:
-      - file: "site/content/_index.md"
+      - file: "web/site/content/_index.md"
         label: "Startseite"
         name: "home"
         fields:
@@ -32,7 +32,7 @@ collections: # A list of collections the CMS should be able to edit
               required: false,
             }
           - { label: Bild, name: image, widget: image }
-      - file: "site/content/rangliste/_index.md"
+      - file: "web/site/content/rangliste/_index.md"
         label: "Rangliste"
         name: "rangliste"
         fields:
@@ -48,4 +48,3 @@ collections: # A list of collections the CMS should be able to edit
             - { label: "Titel", name: "title", widget: "string", required: true }
             - { label: "Youtube-Link", name: "url", widget: "string", required: false }
             - { label: "Bild", name: image, widget: image, required: true }
-
