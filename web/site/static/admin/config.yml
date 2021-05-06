@@ -17,23 +17,6 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Datum", name: "date", widget: "datetime" }
       - { label: "Bild", name: "image", widget: "image", required: false }
       - { label: "Inhalt", name: "body", widget: "markdown" }
-      - label: "Aufstellung"
-        name: "players"
-        widget: "object"
-        required: false
-        fields: 
-        - { label: "Goalie", name: "goalie", widget: "string", required: false }
-        - { label: "Verteidiger 1", name: "v1", widget: "string", required: false }
-        - { label: "Verteidiger 2", name: "v2", widget: "string", required: false }
-        - { label: "Verteidiger 3", name: "v3", widget: "string", required: false }
-        - { label: "Verteidiger 4", name: "v4", widget: "string", required: false }
-        - { label: "Mittelfeld 1", name: "m1", widget: "string", required: false }
-        - { label: "Mittelfeld 2", name: "m2", widget: "string", required: false }
-        - { label: "Mittelfeld 3", name: "m3", widget: "string", required: false }
-        - { label: "Stürmer 1", name: "s1", widget: "string", required: false }
-        - { label: "Stürmer 2", name: "s2", widget: "string", required: false }
-        - { label: "Stürmer 3", name: "s3", widget: "string", required: false }
-        - { label: "Ersatz", name: "ersatz", widget: "string", required: false }
   - name: "pages"
     label: "Seiten"
     files:
