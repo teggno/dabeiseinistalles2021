@@ -1,172 +1,45 @@
 {{ define "main" }}
 
+<h1 class="center tc f2 pa2">Rangliste</h1>
+<div class="center grey-3 tc">
+  <p class="center tc" id="latestIntegratedFileProducedAt"></p>
+</div>
 
-  <h1 class="center tc f2 pa2">Rangliste</h1>
-  <div class="center grey-3 tc">
-    <p class="center tc" id="latestIntegratedFileProducedAt"></p>
-  </div>
-  
-  {{ if .Params.image }}<div class="center"><img src="{{ .Params.image }}" alt="{{ .Title }}" /></div>{{ end }}
-
-  <div id="myBetContainer" class="pa2 fixed mw5 dn db-m right-1" style="top:4rem;background-color: rgb(250, 250, 250);box-shadow: 0px 0px 4px 2px rgba( 0, 0, 0, 0.2 );">
-    <div class="flex justify-between items-center">
-      <h2 class="tc">Mein Tipp</h2>
-      <button class="flex-right db dn-m f4" type="button" id="closeMyBetButton">x</button>
-    </div>
-    <div id="myBet"></div>
-  </div>
-  {{ if .Params.visible }}
-  <div id="autoRankingList" class="center">
-  </div>
-  {{ else }}
-  <div class="center tc">Noch ein wenig Geduld bitte. Bald ist die Rangliste fertig.</div>
-  {{ end }}
-  <div class="dn-m fixed" style="bottom:0;left:50%;transform: translateX(-50%);">
-    <button type="button" class="bg-primary white ph3 pv2 fw6 f5" style="box-shadow: 0px 0px 4px 2px rgba( 0, 0, 0, 0.2 )" id="myBetButton">Mein Tipp</button>
-  </div>
-
-  <script src="/game/game.js"></script>
-  <script>
-    (function() {
-      fetch("https://dabeiseinistalles.blob.core.windows.net/data/pricesV2.json")
-        .then(function(res){ return res.json() })
-        .then(function(contents){
-          document.getElementById("latestIntegratedFileProducedAt").innerHTML = new Date(contents
-            .latestIntegratedFileProducedAt)
-            .toLocaleString()
-            
-
-          var prices = contents.prices
-          var byValorSymbol = mapByValorSymbol(prices)
-          var referenceDate = "20200327"
-          initRankingList(referenceDate, byValorSymbol, getBets())
-          initMyBet(byValorSymbol, getValorSymbolsUsed(), referenceDate)
-        })
-
-        function initRankingList(referenceDate, prices, players) {
-          var rankingListData = calculateRankingList(referenceDate, prices, players)
-          var elem = document.getElementById("autoRankingList")
-          if (!elem) return
-          elem.innerHTML = rangkingListHtmlTable(rankingListData)
-        }
-
-        function initMyBet(byValorSymbol, valorSymbolsUsed, referenceDate) {
-          document.getElementById("myBetButton").addEventListener("click", function(){
-            toggleMyBet(document.getElementById("myBetContainer").style.display !== "block")
-          })
-          document.getElementById("closeMyBetButton").addEventListener("click", function() {
-            toggleMyBet(false)
-          })
-          function toggleMyBet(visible){
-            document.getElementById("myBetContainer").style.display = visible ? "block": ""
-          }
-
-          var container = document.getElementById("myBet")
-          var allStocks = valorSymbolsUsed
-            .map(function(valorSymbol){ 
-              return {
-                valorSymbol: valorSymbol, 
-                shortName: byValorSymbol[valorSymbol].shortName
-              }
-            })
-
-          var defaultSelection = getSelection() || (function(){
-            var firstValorSymbol = allStocks[0].valorSymbol
-            return [firstValorSymbol, firstValorSymbol, firstValorSymbol, firstValorSymbol]
-          })()
-
-          var totalDiv = document.createElement("div")
-          totalDiv.className="tc"
-          var controls = defaultSelection.map(function(valorSymbol) {
-            var stockContainer = document.createElement("div")
-            var stockSelector = createStockSelector(valorSymbol, allStocks, onChange)
-            var stockInfoControl = createStockInfoControl()
-            stockContainer.appendChild(stockSelector.element)
-            stockContainer.appendChild(stockInfoControl.element)
-            container.appendChild(stockContainer)
-            return {
-              stockSelector: stockSelector,
-              stockInfoControl: stockInfoControl
-            }
-          }) 
-          updateInfo()
-          container.appendChild(totalDiv)
-
-          function onChange(){
-            saveSelection()
-            updateInfo()
-          }
-
-          function saveSelection() {
-            var selection = controls.map(function(c) {
-              return c.stockSelector.selectedValorSymbol()
-            })
-            localStorage.setItem("selection", JSON.stringify(selection))
-          }
-
-          function getSelection() {
-            var raw = localStorage.getItem("selection")
-            return raw ? JSON.parse(raw) : null
-          }
-
-          function updateInfo() {
-            var totalPerformance = 0
-            controls.forEach(function(control){
-              var sourceStockData = byValorSymbol[control.stockSelector.selectedValorSymbol()]
-              var latestItem = sourceStockData.prices[0]
-
-              var stockData = {
-                reference: { closingPrice: sourceStockData.referenceDatePrice.toFixed(2), lastDate: formatDate(parseDate(referenceDate)) },
-                latest: { closingPrice: latestItem.closingPrice.toFixed(2), lastDate: formatDate(parseDate(latestItem.lastDate)) },
-                performance: calculatePerformance(sourceStockData.referenceDatePrice, latestItem.closingPrice)
-              }
-              totalPerformance += stockData.performance
-              control.stockInfoControl.update(stockData)
-            })
-            totalDiv.innerHTML = formatPercent(totalPerformance).toString() + "%"
-            totalDiv.style.color = totalPerformance < 0 ? "red" : "green"
-          }
-        }
-
-        function makeInfoHtml(stockData) {
-          var performanceColor = (stockData.performance < 0 ? 'red' : 'green')
-          return '<div class="flex justify-between"><div>' + stockData.reference.lastDate +'</div><div>' + stockData.reference.closingPrice + '</div></div>' +
-            '<div class="flex justify-between"><div>' + stockData.latest.lastDate +'</div><div>' + stockData.latest.closingPrice + '</div></div>' +
-            '<div class="tr" style="color:' + performanceColor + '">' + formatPercent(stockData.performance) + '%</div>'
-        }
-
-        function createStockSelector(defaultSelection, allStocks, onChange) {
-          var select = document.createElement("select")
-          allStocks.forEach(function(stock) {
-            var option = document.createElement("option")
-            option.value = stock.valorSymbol
-            option.innerHTML = stock.shortName
-            select.appendChild(option)
-          })
-          select.addEventListener("change", function(e) {
-            onChange(e.target.value)
-          })
-          select.value = defaultSelection
-          return {
-            element: select,
-            selectedValorSymbol: function() {
-              return select.value
-            }
-          }
-        }
-
-        function createStockInfoControl() {
-          var container = document.createElement("div")
-          container.style.fontSize = "0.75rem"
-          return {
-            update: function(stockData) {
-              container.innerHTML = makeInfoHtml(stockData)
-            },
-            element: container
-          }
-        }
-    })()
-  </script>
-
+{{ if .Params.image }}
+<div class="center"
+  ><img src="{{ .Params.image }}" alt="{{ .Title }}" /></div
+>
 {{ end }}
 
+{{ if .Params.visible }}
+<div class="center"> 
+
+  {{ if .Params.song }}
+  <article>
+    <h2>Song des Tages</h2>
+    <a href="{{ .Params.song.url }}" target="_blank" referrerpolicy="no-referrer">{{ .Params.song.title }}</a>
+  </article>
+  {{ end }}
+
+  <div class="mt3">
+  Hier kommt dann die Rangliste hin
+  </div>
+  
+
+
+
+</div>
+
+
+
+{{ else }}
+<div class="center tc"
+  >Noch ein wenig Geduld bitte. Bald ist die Rangliste fertig.</div
+>
+{{ end }}
+
+<script>
+  (function () {})();
+</script>
+
+{{ end }}
