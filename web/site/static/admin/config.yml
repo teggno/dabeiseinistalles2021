@@ -57,4 +57,12 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Datum", name: "date", widget: "datetime" }
           - { label: "Bild", name: "image", widget: "image", required: false }
           - { label: "Rangliste sichtbar", name: "visible", widget: "boolean", default: true }
+          - label: "Lied"
+            name: "song"
+            widget: "object"
+            required: true
+            fields: 
+            - { label: "Titel", name: "title", widget: "string", required: true }
+            - { label: "Youtube-Link", name: "url", widget: "string", required: false }
+            - { label: "Bild", name: image, widget: image, required: true }
 
