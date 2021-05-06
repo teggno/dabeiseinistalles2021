@@ -18,6 +18,9 @@
   <article>
     <h2>Song des Tages</h2>
     <a href="{{ .Params.song.url }}" target="_blank" referrerpolicy="no-referrer">{{ .Params.song.title }}</a>
+    <div>
+      <img style="width: 200px;" src="{{ .Params.song.image }}" alt=""/>
+    </div>
   </article>
   {{ end }}
 
