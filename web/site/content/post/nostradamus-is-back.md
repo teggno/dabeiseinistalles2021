@@ -1,5 +1,5 @@
 ---
-title: "Hokuspokus "
+title: Hokuspokus
 draft: true
 date: 2021-05-07T09:21:03.427Z
 image: img/df234d36-b2fe-4cda-aff4-cc7193de771f.jpeg
