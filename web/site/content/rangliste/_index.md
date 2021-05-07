@@ -6,7 +6,7 @@ image: ""
 visible: true
 song:
   title: ABBA - The winner takes it all
-  url: https://www.youtube.com/watch?v=_SN1UK8ghGw
+  url: https://www.youtube.com/watch?v=iyIOl-s7JTU
   image: img/jukebox.jpg
   description: ""
 ---
