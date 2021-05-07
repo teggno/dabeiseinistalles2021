@@ -2,7 +2,7 @@
 title: Steinigt ihn❗️
 draft: true
 date: 2021-05-07T09:40:25.051Z
-image: img/2624532b-8adb-4e3c-a5f9-eb12e6545e40.jpeg
+image: img/72c572bc-146c-45c8-953f-01a806ddd5ed.jpeg
 ---
 
 
