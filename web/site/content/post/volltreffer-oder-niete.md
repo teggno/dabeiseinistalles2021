@@ -1,5 +1,5 @@
 ---
-title: "Hui oder Pfui "
+title: Hui oder Pfiu
 draft: true
 date: 2021-05-07T10:07:47.924Z
 image: img/3899864c-5502-420b-9fe7-da430b4ac9ab.jpeg
