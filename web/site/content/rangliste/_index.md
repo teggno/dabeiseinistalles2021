@@ -8,5 +8,5 @@ song:
   title: The Ghost of Tom Joad
   url: https://www.youtube.com/watch?v=_SN1UK8ghGw
   image: img/jukebox.jpg
-  description: Xxxxxxx
+  description: ""
 ---
