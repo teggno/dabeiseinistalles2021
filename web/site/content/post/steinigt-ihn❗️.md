@@ -1,0 +1,15 @@
+---
+title: Steinigt ihn❗️
+draft: true
+date: 2021-05-07T09:40:25.051Z
+image: img/2624532b-8adb-4e3c-a5f9-eb12e6545e40.jpeg
+---
+
+
+Er hätte es wissen müssen! Sein Onkel der „Avvocato“, ein Mann der „Alten Schule“, hatte es ihm beim „pranzo della domenica“ immer wieder eingetrichtert. „Caro Andrea, verlass dich nur auf dich selbst, sonst bist du verlassen.“ Der Agnelli Sprössling, der in Oxford mit Bravour seine „laurea“ abgelegt hatte, hielt sich lange an die klugen Ratschläge seines „Übervaters“. Bis zu jenem fatalen Mittwoch im April! Da stand er plötzlich alleine mit abgesägten Hosen da. Seine „Kumpels“, allen voran die „Windfähnchen“ aus dem englischen Königreich, hatten ihn im Regen stehen lassen. Selbst „Pate“ Florentino Perez konnte nichts mehr für ihn tun. \
+\
+Was war passiert? Eine im Ansatz richtige aber unausgegorene Idee namens „Superleague“ war innert 48 Stunden am „Volksmehr“ gescheitert. Während die Deutschen im Schlepptau von Rummenigge mit taktischem Gespür den Einstieg „vertagt“ hatten, waren die 12 Gründungsmitglieder ins offene Messer gelaufen. Kaum hatten Staatspräsidenten, UEFA-Funktionäre, Trainer und Fans mit den Säbeln gerasselt, verschwanden milliardenschwere Pläne zurück in der untersten Schublade. Von diesem Zeitpunkt an lag der „Schwarze Peter“ in den Händen des Juve-Präsidenten. Verräter war noch das Schönste, was er zu hören bekam. \
+\
+Wer die nötige Geduld aufbringen kann weiss: „il tempo e galantuomo“! Nachdem die „Pharisäer“ rund um „Pontius Pilatus“ Aleksander Ceferin das Konkurrenzprodukt zur Strecke gebracht haben, müssen sie jetzt liefern. Das Auslaufmodell  „Champions League“ hat in dieser Form längst keine Überlebenschance mehr. Die UEFA will sie weiter aufstocken, statt das Gegenteil zu tun. Die Fussballfans warten sehnsüchtig auf eine Halbierung von Teilnehmern und Spielen. Nur so gewinnt der Fussball wieder an Attraktivität. Eines Tages in nicht allzu ferner Zeit wird Agnelli im Stile von Noah mit seiner Arche am Flussufer anlegen. Hoffentlich bleibt den „Pharisäern“ der Einlass verwehrt.\
+\
+Von meinem iPad gesendet
