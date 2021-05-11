@@ -14,9 +14,4 @@ Für den Schreiberling unvergessen bleibt das Jahr 2000. Der „Sack“ war scho
 \
 Nicht jeder Mensch hat solche Sternstunden in seiner Sammlung wie „König Otto von Rehhagel“. Nach seinem Sensations-Coup 2004 wurde er zum Ritter der griechischen Nation geschlagen. Er hatte es allen gezeigt. Auch wenn sein „Fussball-Ballett“ rein gar nichts mit leidenschaftlichem „Sirtaki“ zu tun hatte. 2008 läuteten Xavi und Iniesta die „Tiki-Taka-Ära“ aus dem Hause „Pep“ ein. Selbst „Neuzeit-Tarzan“ Mario Balotelli war gegen die spanische „Doublette“ machtlos. Als 2016 ein „Ausserirdischer“ mit der Aufschrift „CR7“ auf die Erde herabstieg und sich ausgerechnet im Finale die Adduktoren zerrte, schien die Suppe für die favorisierten Franzosen gelöffelt. Doch alle hatten die Rechnung ohne „One-Hit-Wonder“ Eder gemacht, der Portugal in den siebten Himmel katapultierte. \
 \
-Und 2021? Wie aus gut unterrichteten Kreisen verlautet, hat ein weit entfernter Verwandter von Nostradamus die „Helvetia“ ins  „Visier“ genommen 🤫. 700 Jahre nach Morgarten wäre die Zeit eigentlich reif.\
-\
-\
-\
-\
-Von meinem iPad gesendet
+So schön sie auch war, die Reise in die Vergangenheit, jetzt zählt nur noch die Aktualität! Und die hat es in sich! Wie aus gut unterrichteten Kreisen verlautet, hat ein weit entfernter Verwandter von Nostradamus den Griff in die Kristallkugel gewagt.
