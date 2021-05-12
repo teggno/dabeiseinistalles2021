@@ -1,7 +1,14 @@
+{{ define "header" }}
+{{ "" }}
+{{ end }}
+
 {{ define "main" }}
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
+<nav class="tr">
+    <a href="/rangliste" class="pt4 pr4 no-underline db primary b f4">Rangliste</a>
+</nav>
 {{ partial "blog" . }}
 
 {{ end }}
