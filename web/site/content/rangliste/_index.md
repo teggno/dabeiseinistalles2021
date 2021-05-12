@@ -9,4 +9,5 @@ song:
   url: https://www.youtube.com/watch?v=HCyzGuipTd4
   image: img/jukebox.jpg
   description: ""
+notReadyText: Noch ein wenig Geduld bitte. Bald ist die Rangliste fertig.
 ---

@@ -29,9 +29,9 @@
 </div>
 
 {{ else }}
-<div class="center tc"
-  >Noch ein wenig Geduld bitte. Bald ist die Rangliste fertig.</div
->
+<div class="center tc">
+  {{ .Params.notReadyText }}
+</div>
 {{ end }}
 
 <script>
