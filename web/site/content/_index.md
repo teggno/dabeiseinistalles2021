@@ -1,5 +1,5 @@
 ---
-title: ""
-subtitle: 
-image: /img/home-jumbotron.jpg
+title: Dabeisein ist alles
+subtitle: null
+image: img/kinder_strassenfussball.jpg
 ---
