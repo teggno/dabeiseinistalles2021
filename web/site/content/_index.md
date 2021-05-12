@@ -1,5 +1,5 @@
 ---
-title: Dabeisein ist alle
+title: D
 subtitle: null
 image: img/kinder_strassenfussball.jpg
 ---
