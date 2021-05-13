@@ -1,9 +1,10 @@
 ---
 title: Rangliste
 date: 2020-03-29T12:34:14.815Z
+image: ""
 showPlaceholder: true
 placeholder: |
-  Ab 11. Juni hier an diesem Platz
+  Demnächst auf diesem Kanal (11.6.)
   die Rangliste und Raffi’s Jukebox
 song:
   title: Adriano Celentano - Azzurro
@@ -11,5 +12,4 @@ song:
   image: img/jukebox.jpg
   description: ""
 type: rangliste
-image: ""
 ---
