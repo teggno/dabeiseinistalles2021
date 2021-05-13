@@ -6,9 +6,11 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-<nav class="tr">
-    <a href="/rangliste" class="pt4 pr4 no-underline db primary b f4">Rangliste</a>
-</nav>
+<div class="center mw7">
+    <nav class="tr pt4 pr3">
+        <a href="/rangliste" class="no-underline primary b f4">Rangliste</a>
+    </nav>
+</div>
 {{ partial "blog" . }}
 
 {{ end }}
