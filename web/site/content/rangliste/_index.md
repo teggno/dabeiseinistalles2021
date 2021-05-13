@@ -4,7 +4,7 @@ date: 2020-03-29T12:34:14.815Z
 image: ""
 showPlaceholder: true
 placeholder: |+
-  Demnächst auf diesem Kanal 
+  Ab 11. Juni auf diesem Kanal 
   Jukebox+Rangliste 
 
 song:
