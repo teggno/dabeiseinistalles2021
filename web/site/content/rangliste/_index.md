@@ -2,7 +2,7 @@
 draft: true
 title: Rangliste
 date: 2020-03-29T12:34:14.815Z
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "Ab 11. Juni auf dieser Seite die täglich aktualisierte Rangliste
   und Raffi’s Jukebox "
 song:
