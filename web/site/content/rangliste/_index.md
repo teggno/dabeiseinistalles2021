@@ -11,6 +11,7 @@ song:
   title: Adriano Celentano - Azzurro
   url: https://www.youtube.com/watch?v=HCyzGuipTd4
   image: img/jukebox.jpg
-  description: Yyyyy
+  description: "Beispieltext: Grazie Adriano, Grazie Roberto, Grazie Azzurri: Zur
+    Feier des Tages und dass wir im Konzert der Grossen wieder dabei sind."
 type: rangliste
 ---
