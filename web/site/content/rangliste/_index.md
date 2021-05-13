@@ -2,7 +2,7 @@
 draft: true
 title: Rangliste
 date: 2020-03-29T12:34:14.815Z
-showPlaceholder: true
+showPlaceholder: false
 placeholder: Demnächst
 song:
   title: Adriano Celentano - Azzurro
