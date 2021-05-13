@@ -9,9 +9,9 @@
 <div class="center"><img src="{{ .Params.image }}" alt="{{ .Title }}" /></div>
 {{ end }} 
 
-{{ if .Params.draft }}
+{{ if .Params.showPlaceholder }}
 <div class="center tc">
-  {{ .Params.notReadyText }}
+  {{ .Params.placeholder }}
 </div>
 {{ else }}
 <div class="center">
