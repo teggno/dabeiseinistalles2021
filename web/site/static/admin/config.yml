@@ -32,6 +32,7 @@ collections: # A list of collections the CMS should be able to edit
               required: false,
             }
           - { label: Bild, name: image, widget: image }
+          - { label: 'Bild-Hintergrundfarbe', name: 'color', widget: 'color', required: true }
       - file: "web/site/content/rangliste/_index.md"
         label: "Rangliste"
         name: "rangliste"
