@@ -7,7 +7,13 @@
 
 {{ if .Params.image }}
 <div class="center"><img src="{{ .Params.image }}" alt="{{ .Title }}" /></div>
-{{ end }} {{ if .Params.visible }}
+{{ end }} 
+
+{{ if .Params.draft }}
+<div class="center tc">
+  {{ .Params.notReadyText }}
+</div>
+{{ else }}
 <div class="center">
   {{ if .Params.song }}
   <article>
@@ -26,11 +32,6 @@
   {{ end }}
 
   <div class="mt3"> Hier kommt dann die Rangliste hin </div>
-</div>
-
-{{ else }}
-<div class="center tc">
-  {{ .Params.notReadyText }}
 </div>
 {{ end }}
 
