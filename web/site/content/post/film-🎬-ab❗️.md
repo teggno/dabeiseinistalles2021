@@ -1,7 +1,7 @@
 ---
 title: Film 🎥 ab❗️
 draft: false
-date: 2021-05-13T15:03:10.216Z
+date: 2021-05-14T03:40:54.192Z
 image: img/5e60ecc2-3136-4d94-b1ff-837939f553b8.jpeg
 ---
 „Play it again Sam“! Wer wollte da schon nein sagen, wenn Hollywood-Legende Ingrid Bergmann ihre weiblichen Attitüden ins Spiel bringt. Einen Moment lang hat er zwar gezögert, „Rick‘s“ Barpianist aus „Casablanca“. Doch dann ist er ihrem Verlangen erlegen. So oder ähnlich ist es mir ergangen, als mich das „Obdachlosen-Komitee“ inbrünstig anflehte: „Mach es noch einmal..... Raffi“❗️\
