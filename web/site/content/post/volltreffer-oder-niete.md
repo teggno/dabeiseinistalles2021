@@ -2,7 +2,7 @@
 title: Retromarcia
 draft: true
 date: 2021-05-07T10:07:47.924Z
-image: ""
+image: img/9775da83-0918-4e2c-96e0-bfa5e5b35e86.jpeg
 ---
 \
 ﻿Als er „die 3“ vor zwei Jahren eiskalt abservierte, war ringsherum von Stillosigkeit die Rede. Seither ist viel passiert im Fussball-Staat „Germania“. Der kurz vor seiner Pensionierun stehende Erfolgstrainer, der alles mit „links“ zu meistern schien, kam an seine Grenzen. Statt den Bettel nach der glanzvollen WM 2014 hinzuschmeissen, klebte er an seinem Sessel fest und begann mit sogenannten Perspektivspielern zu tüfteln. Sie sollten von heute auf morgen für die „Aussortierten“ in die Bresche springen. Das Experiment schlug fehl, Deutschland verlor nach und nach den Status der Unbesiegbarkeit. Als es gegen bescheidene Spaniet eine 0:6 Klatsche absetzte war die Öffentlichkeit bedient. Die ersten Stimmen wurden laut, Boateng, Hummels und vor allem Müllet müssten die Kohlen aus dem Feuer holen. Am Dienstag, den 18. Mai 2021 hat Jogi Löw seine Hosen runtergelassen und sich dem öffentlichen Druck gebeugt. Die 3 sind im Kader und fahren an die EM. Schade, dass sie kein Rückgrat gezeigt haben und auf die „Almosen„ verzichten. 
