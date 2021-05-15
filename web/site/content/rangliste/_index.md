@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2020-03-29T12:34:14.815Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: |+
   Ab 11. Juni auf diesem Kanal 
   Jukebox+Rangliste 
