@@ -1,7 +1,7 @@
 ---
 title: Steinigt ihn❗️
 draft: false
-date: 2021-05-07T09:40:25.051Z
+date: 2021-05-16T06:49:52.778Z
 image: img/72c572bc-146c-45c8-953f-01a806ddd5ed.jpeg
 ---
 Er hätte es wissen müssen! Sein Onkel der „Avvocato“, ein Mann der „Alten Schule“, hatte es ihm beim „pranzo della domenica“ immer wieder eingetrichtert. „Caro Andrea, verlass dich nur auf dich selbst, sonst bist du verlassen.“ Der Agnelli Sprössling, der in Oxford mit Bravour seine „laurea“ abgelegt hatte, hielt sich lange an die klugen Ratschläge seines „Übervaters“. Bis zu jenem fatalen Mittwoch im April! Da stand er plötzlich alleine mit abgesägten Hosen da. Seine „Kumpels“, allen voran die „Windfähnchen“ aus dem englischen Königreich, hatten ihn im Regen stehen lassen. Selbst „Pate“ Florentino Perez konnte nichts mehr für ihn tun. \
