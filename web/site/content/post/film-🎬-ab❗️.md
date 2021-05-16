@@ -1,5 +1,5 @@
 ---
-title: Film 🎥 ab❗️
+title: Film 🎥 ab
 draft: false
 date: 2021-05-14T05:49:00.000Z
 image: img/5e60ecc2-3136-4d94-b1ff-837939f553b8.jpeg
