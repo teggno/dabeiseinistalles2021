@@ -1,6 +1,6 @@
 ---
 title: Steinigt ihn❗️
-draft: true
+draft: false
 date: 2021-05-07T09:40:25.051Z
 image: img/72c572bc-146c-45c8-953f-01a806ddd5ed.jpeg
 ---
