@@ -2,6 +2,7 @@
 title: Gestohlenes Glück
 draft: true
 date: 2021-05-18T03:26:15.054Z
+image: img/93065c97-7225-4850-84ac-000783368838.jpeg
 ---
 Als Michel „le roi“ Platini einst verkündete: „Liebe Fussballfreunde, die Technologie macht diesen einzigartigen Sport kaputt“, wurde ich sauer. Wie kann ein ausgewiesener Fachmann wie er solchen „Stuss“ erzählen. Endlich hatte dieser „Lügendetektor“ namens VAR die Ungerechtigkeit besiegt und schon kam dieser begnadete „🔟“ daher und stellte alles in Frage.
 
