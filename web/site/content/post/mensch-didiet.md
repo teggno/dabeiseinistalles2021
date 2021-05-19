@@ -1,8 +1,9 @@
 ---
-title: Mensch Didiet
+title: Mensch Didier...
 draft: true
 date: 2021-05-19T03:39:47.457Z
+image: img/565c1f4e-4dbf-4c8e-bb4d-7bba8c20eba7.jpeg
 ---
-Gebetsmühlenartig hat er 5 Jahre lang wiederholt, dass dieser Typ da, der bei Real Madrid Tore am Laufband schoss, unter ihm nie mehr in der französischen Nationalmannschaft spielen würde. Die Gründe hat bis heute niemand verstanden. Die Rede war von irgendwelchen Sexvideos. Schnee von gestern, Heute zählen diese Schmuddelgeschichten aus der RegenbogenPresse nichts mehr.
+Gebetsmühlenartig hat er 5 Jahre lang wiederholt, dass dieser Typ da, der bei Real Madrid Tore am Laufband schiesst, unter ihm nie mehr in der französischen Nationalmannschaft spielen würde. Die Gründe hat bis heute niemand verstanden. Die Rede war von irgendwelchen Sexvideos. Schnee von gestern, Heute zählen diese Schmuddelgeschichten aus der RegenbogenPresse nichts mehr.
 
-Didiet Deschamps hat es sich leicht gemacht. 5 Jahre hat er Karim Benzema ins Abseits ge
+Didiet Deschamps hat es sich leicht gemacht. 5 Jahre hat er Karim Benzema ins Abseits laufen lassen und jetzt kurz vor der EM, wo er seine Schäfchen nominieren muss und nicht weiss ob sie in dieser Zusammensetzung für den EMTitel taugen, holt er ihn zurück. Unwissende werden abnicken und beiläufig bemerken, dass nur Idioten an dem Festhalten, was sie gestern gesagt haben. Doch der wahre Grund für Dechamps doppelte Rolle rückwärts könnte darin liegen, dass Giroud nicht mehr der Jüngste ist, Griezmann seine Aussetzer hat und Martialisch wegen einer Verletzung nicht zur Verfügung steht Das nennt man ganz einfach Opportnismus. Nicht mehr und nicht weniger Und das Wahnsinnige an der Geschichte, der Benzema sagt auch noch ja.
