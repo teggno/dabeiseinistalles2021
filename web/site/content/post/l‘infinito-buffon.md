@@ -1,6 +1,6 @@
 ---
 title: L‘infinito Buffon
-draft: true
+draft: false
 date: 2021-05-20T13:01:51.819Z
 image: img/7d7891eb-8d47-4dc3-8792-e854efa63ae8.jpeg
 ---
