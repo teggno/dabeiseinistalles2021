@@ -1,7 +1,7 @@
 ---
 title: Mensch Didier...
 draft: false
-date: 2021-05-19T03:39:47.457Z
+date: 2021-05-18T03:39:47.457Z
 image: img/071e421f-2e8f-4ce2-befd-53d1553719c3.jpeg
 ---
 Gebetsmühlenartig hat er 5 Jahre lang wiederholt, dass dieser Typ da, der bei Real Madrid Tore am Laufband schiesst, unter ihm nie mehr in der französischen Nationalmannschaft spielen würde. Die Gründe hat bis heute niemand verstanden. Es war ständig von irgendwelchen Sexvideos die Rede. Schnee von gestern. Heute zählen diese Geschichten  aus der Schmuddelecke plötzlich nicht mehr. 
