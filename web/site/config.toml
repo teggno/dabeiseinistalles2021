@@ -8,5 +8,4 @@ title = "Dabeisein ist alles"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
-googleAnalytics = "UA-75965774-2"
-summaryLength = 20
+summaryLength = 50
