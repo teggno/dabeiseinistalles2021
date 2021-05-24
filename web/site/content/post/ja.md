@@ -8,9 +8,7 @@ Was für ein Dusel❗Nach wochenlangen Kapriolen  darf sich Juve bei Verona beda
 
 Agnelli-Paratici-Pirlo! Der Kapitän, der 1. Offizier und der „Lehrling aus der Kombüse“ haben es fast geschafft, den Luxusdampfer gegen den Felsen zu fahren. Dem Hauptangeklagten Paratici ist es gelungen, eine überbezahlte Söldnertruppe zusammenzustellen, die sich im Juve-Dress gesundgestossen hat. Kein Wunder, dass Andrea Pirlo, der von heute auf morgen ins kalte Wasser geworfen wurde, zwei von drei Zielen verpasst hat
 
-Warum Pirlo ausgerechnet gestern den unersetzlichen Cristiano Ronaldo auf der Bank hat schmoren lassen, wird für immer sein Geheimnis bleiben. Die Mannschaft dankte es ihm und wirkte wie befreit. Ein Zeichen, dass seine Tage in Turin gezählt sind. Viele „Juventini“ würden es begrüssen.
-
-Das Schicksal des Trainers steht trotzdem in den Sternen. Laut Umfrage zaubert der Name Klopp den „Tifosi“ am ehesten ein Lächeln ins Gesicht. Zidane und Allegri folgen mit grossem Abstand. Die Chancen stehen allerdings schlecht, den Sympathieträger von „Anfield“ wegzulotsen. Trotz intensivster Abwerbe-Bemühungen scheint er von der piemontesischen Küche nicht angetan zu sein.
+Warum Pirlo ausgerechnet gestern den unersetzlichen Cristiano Ronaldo auf der Bank hat schmoren lassen, wird für immer sein Geheimnis bleiben. Die Mannschaft dankte es ihm und wirkte wie befreit. Das Schicksal des Trainers steht trotzdem in den Sternen. Laut Gerüchteküche steht der Name Klopp zuoberst auf der Einkaufsliste. Die Chancen stehen allerdings schlecht, den Sympathieträger von „Anfield“ wegzulotsen. Trotz intensivster Abwerbe-Bemühungen scheint er von der piemontesischen Küche nicht angetan zu sein.
 
 Wenn alle Stricke reissen, bleibt nur noch Plan B! Das Geheimdokument „Tabula Rasa“, entworfen von einem temporären Volontär, dürfte den geplanten Umbruch beschleunigen. Die Liste umfasst so bekannte Namen wie Szczesny, Bonucci, Danilo, Alex Sandro, Arthur, Bernardeschi, Ramsey, Dybala, Morata und Ronaldo. Praktisch das gesamte Team! Wie man aus gut unterrichteten Kreisen hört, sollen sie möglichst verlustfrei „verhökert“ werden.
 
