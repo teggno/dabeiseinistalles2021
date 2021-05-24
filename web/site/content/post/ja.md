@@ -4,11 +4,9 @@ draft: false
 date: 2021-05-24T01:04:38.660Z
 image: img/60597ca9-0d35-4240-9ff6-41d7bf340a0e.jpeg
 ---
-Was für ein Dusel❗️Juventus Turin zieht wenige Minuten vor Ladenschluss dank Hellas Verona den Kopf aus der Schlinge. Mannschaft und  Fans feiern Rang 4 wie einen Meistertitel. Eine Saison voller Kapriolen ist endlich vorüber. Freunde des Wettspiels sind auf dem falschen Fuss erwischt worden. Nur die Bayern wurden ihrer Favoritenrolle gerecht. Die restlichen „4“ haben die Erwartungen deutlich verfehlt. Real, Paris und Liverpool sind mit schweren Prellungen davongekommen, Juve hat’s noch schlimmer erwischt.
+Was für ein Dusel❗Nach wochenlangen Kapriolen  darf sich Juve bei Verona bedanken, dass es ein Ende mit Schrecken geworden ist. Gar nicht auszudenken, wenn nach dem Meistertitel auch die CL- Qualifikation vergeigt worden wäre. Laut Hochrechnungen hätten 50 Mio. in der Portokasse gefehlt. Der Jubel über Platz 4 ist vor diesem Hintergrund verständlich.
 
-Agnelli-Paratici-Pirlo! Der Kapitän, der 1. Offizier und der „Lehrling aus der Kombüse“ haben es fast geschafft, den Luxusdampfer gegen den Felsen zu fahren. Dem Hauptangeklagten Paratici ist es gelungen, eine überbezahlte Söldnertruppe zusammenzustellen, die sich im Juve-Dress gesundgestossen hat. Kein Wunder, dass Andrea Pirlo, der von heute auf morgen ins kalte Wasser geworfen wurde, zwei der drei Ziele verpasst hat.
-
-Mit einem mysteriösen Vabanque-Spiel, dessen wahre Hintergründe nur die Insider kennen, hat der unaufgeregte Schweiger die Fussball-Fachwelt verblüfft. Im Kampf um die CL-Qualifikation verbannte er keinen Geringeren als den „unersetzbaren“ Cristiano Ronaldo auf die Bank. Die Mannschaft wirkte wie befreit.
+Agnelli-Paratici-Pirlo! Der Kapitän, der 1. Offizier und der „Lehrling aus der Kombüse“ haben es fast geschafft, den Luxusdampfer gegen den Felsen zu fahren. Dem Hauptangeklagten Paratici ist es gelungen, eine überbezahlte Söldnertruppe zusammenzustellen, die sich im Juve-Dress gesundgestossen hat. Kein Wunder, dass Andrea Pirlo, der von heute auf morgen ins kalte Wasser geworfen wurde, zwei von drei Zielen verpasst hat
 
 Das Schicksal des Trainers steht trotzdem in den Sternen. Laut Umfrage zaubert der Name Klopp den „Tifosi“ am ehesten ein Lächeln ins Gesicht. Zidane und Allegri folgen mit Abstand. Die Chancen stehen allerdings schlecht, den Sympathieträger von „Anfield“ wegzulotsen. Trotz intensivster Abwerbe-Bemühungen scheint er von der piemontesischen Küche nicht angetan zu sein.
 
