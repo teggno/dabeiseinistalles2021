@@ -8,7 +8,7 @@ Was für ein Dusel❗️Juventus Turin zieht wenige Minuten vor Ladenschluss dan
 
 Agnelli-Paratici-Pirlo! Der Kapitän, der 1. Offizier und der „Lehrling aus der Kombüse“ haben es fast geschafft, den Luxusdampfer gegen den Felsen zu fahren. Dem Hauptangeklagten Paratici ist es gelungen, eine überbezahlte Söldnertruppe zusammenzustellen, die sich im Juve-Dress gesundgestossen hat. Kein Wunder, dass Andrea Pirlo, der von heute auf morgen ins kalte Wasser geworfen wurde, zwei der drei Ziele verpasste.
 
-Mit einem mysteriösen Vabanque-Spiel über dessen wahre Hintergründe nur die Insider Bescheid wisse, hat der unaufgeregte Schweiger die Fussball-Fachwelt verblüfft. Im Kampf um die CL-Qualifikation verbannte er keinen Geringeren als den „unersetzbaren“ Cristiano Ronaldo auf die Bank. Die Mannschaft wirkte wie befreit.
+Mit einem mysteriösen Vabanque-Spiel über dessen wahre Hintergründe nur die Insider kennen, hat der unaufgeregte Schweiger die Fussball-Fachwelt verblüfft. Im Kampf um die CL-Qualifikation verbannte er keinen Geringeren als den „unersetzbaren“ Cristiano Ronaldo auf die Bank. Die Mannschaft wirkte wie befreit.
 
 Das Schicksal des Trainers steht trotzdem in den Sternen. Laut Umfrage zaubert der Name Klopp den „Tifosi“ am ehesten ein Lächeln ins Gesicht. Zidane und Allegri folgen mit Abstand. Die Chancen stehen allerdings schlecht, den Sympathieträger von „Anfield“ wegzulotsen. Trotz intensivster Abwerbe-Bemühungen scheint er von der piemontesischen Küche nicht angetan zu sein.
 
