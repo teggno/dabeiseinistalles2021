@@ -4,7 +4,7 @@ draft: false
 date: 2021-05-24T01:04:38.660Z
 image: img/60597ca9-0d35-4240-9ff6-41d7bf340a0e.jpeg
 ---
-Dem Fussball-Tod von der Schippe gesprungen. Juventus Turin zieht wenige Minuten vor Ladenschluss dank Hellas Verona den Kopf aus der Schlinge. Die Fans feiern Rang 4 wie einen Meistertitel. Eine Saison voller Kapriolen ist endlich vorüber. Freunde des Wettspiels sind auf dem falschen Fuss erwischt worden. Nur die Bayern sind ihrer Favoritenrolle gerecht geworden. Alle anderen letztjährigen Meister aus Europas Eliteligen haben mehr oder weniger versagt. Paris, Real und Liverpool sind mit schweren Prellungen davongekommen, Juve hat’s schlimmer erwischt.
+Dem Fussball-Tod von der Schippe gesprungen. Juventus Turin zieht wenige Minuten vor Ladenschluss dank Hellas Verona den Kopf aus der Schlinge. Die Fans feiern Rang 4 wie einen Meistertitel. Eine Saison voller Kapriolen ist endlich vorüber. Freunde des Wettspiels sind auf dem falschen Fuss erwischt worden. Nur die Bayern wurden ihrer Favoritenrolle gerecht. Alle anderen letztjährigen Meister aus Europas Eliteligen haben mehr oder weniger versagt. Paris, Real und Liverpool sind mit schweren Prellungen davongekommen, Juve hat’s schlimmer erwischt.
 
 Agnelli-Paratici-Pirlo! Der Kapitän, der 1. Offizier und der „Lehrling aus der Kombüse“ haben es fast geschafft, den Luxusdampfer gegen den Felsen zu fahren. Dem Hauptangeklagten Fabio Paratici ist es gelungen, eine überbezahlte Söldnertruppe zusammenzustellen, die sich im Juve-Dress gesundgestossen hat. Kein Wunder, dass Andrea Pirlo, der von heute auf morgen ins kalte Wasser geworfen wurde, alle wichtigen Ziele verfehlt hat.
 
