@@ -8,7 +8,7 @@ Peppino di Capri, der wie sein Name schon verrät, am schönsten Ort auf dieser 
 
 Champagner gibt es heute auch bei mir. Nicht ein „Gespräch unter vier Augen“ ist der Grund dafür, nein, ein ganz anderes Motiv ist für mein ausschweifendes Tun verantwortlich. Seit wenigen Minuten ist es offiziel: Cristiano Ronaldo, für Nichtfussballästheten der beste Spieler der Welt, verlässt Juventus Turin. Ein schöneres Geschenk hätte mir diese Vor-EM-Zeit nicht machen können. Selbstkasteiungs-Gedanken waren in mir aufgekommen  falls dieser Schwiegermütter-Schwarm seine unvergleichlichen Freistösse bis Vertragsablauf weiter „versemmelt“ hätte. Abstruse Ideen, die soweit gingen, „die Liebe meines Lebens“ ein Jahr lang in Ruhe zu lassen.
 
-Gottseidank ist dieser Kelch an mir vorbeigegangen. Dreijahrelang gute Miene zum bösen Spiel sind genug. Er kam für ein „Butterbrot“ von den Königlichen aus Madrid mit seinem Privatjet dahergeflogen um uns die langersehnte CL🏆 ins VitrinenFenster zu stellen. Denkste, mitgebracht hat er nur seine lächerlichen Siegerposen, die höchstens pubertierenden Jungs zur Nachahmung dienen. 
+Gottseidank ist dieser Kelch an mir vorbeigegangen. Dreijahrelang gute Miene zum bösen Spiel sind genug. Er kam für ein „Butterbrot“ von den Königlichen aus Madrid mit seinem Privatjet dahergeflogen um uns die langersehnte CL🏆 ins Vitrinen-Fenster zu stellen. Denkste, mitgebracht hat er nur seine lächerlichen Siegerposen, die höchstens pubertierenden Jungs zur Nachahmung dienen. Er wird seinen Weg weitergehen. Manchester United ist in Nostalgie verfallen  und hat den verlorenen Sohn zurückgeholt. Cavani-Ronaldo, die Red Devils haben auf Jahre ausgesorgt.
 
 
 
