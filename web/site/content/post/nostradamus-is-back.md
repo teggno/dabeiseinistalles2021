@@ -1,7 +1,7 @@
 ---
 title: Hokuspokus
 draft: true
-date: 2021-05-11T15:05:02.616Z
+date: 2021-05-26T15:15:17.160Z
 image: img/df234d36-b2fe-4cda-aff4-cc7193de771f.jpeg
 ---
 \
