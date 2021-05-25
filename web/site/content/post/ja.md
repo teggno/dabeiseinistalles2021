@@ -4,7 +4,7 @@ draft: true
 date: 2021-05-24T01:04:38.660Z
 image: img/60597ca9-0d35-4240-9ff6-41d7bf340a0e.jpeg
 ---
-Was für ein Dusel❗Nach wochenlangen Kapriolen  darf sich Juve bei Verona bedanken, dass die Saison 20/21 einigermassen glimpflich ausgegangen ist.  Gar nicht auszudenken, wenn nach dem Meistertitel auch die CL- Qualifikation vergeigt worden wäre. Laut Hochrechnungen hätten 50 Mio. in der Portokasse gefehlt. Der Jubel über Platz 4 ist vor diesem Hintergrund verständlich.
+Was für ein Dusel❗Nach wochenlangen Kapriolen  darf sich Juve bei Verona bedanken, dass die Saison 20/21 einigermassen glimpflich ausgegangen ist.  Gar nicht auszudenken, wenn nach dem Meistertitel auch die CL- Qualifikation vergeigt worden wäre. Laut Hochrechnungen hätten 50 Mio. in der Portokasse gefehlt. Der grenzenlose Jubel über Platz 4 mit Amuse Bouche+Prosecco ist vor diesem Hintergrund  verständlich.
 
 Agnelli-Paratici-Pirlo! Der Kapitän, der 1. Offizier und der „Lehrling aus der Kombüse“ haben es fast geschafft, den Luxusdampfer gegen den Felsen zu fahren. Dem Hauptangeklagten Paratici ist es gelungen, eine überbezahlte Söldnertruppe zusammenzustellen, die sich im Juve-Dress gesundgestossen hat. Warum Agnelli seinem Sportchef nicht rechtzeitig den Riegel geschoben hat, bleibt ein Rätsel. In diesem Umfeld kam für den unerfahrenen „Maestro“ jede Hilfe zu spät.
 
