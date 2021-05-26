@@ -71,7 +71,7 @@ collections: # A list of collections the CMS should be able to edit
           - label: "Punkte"
             name: "score"
             widget: "list"
-            summary: "{{fields.country}}"
+            summary: "{{fields.country}} {{fields.victory}}"
             fields:
               - { label: "Land", name: "country", widget: "string" }
               - { label: "Sieg", name: "victory", widget: "boolean", hint: "Wenn nicht, ist unentschieden" }
