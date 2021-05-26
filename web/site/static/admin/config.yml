@@ -74,5 +74,5 @@ collections: # A list of collections the CMS should be able to edit
             summary: "{{fields.country}}"
             fields:
               - { label: "Land", name: "country", widget: "string" }
-              - { label: "Sieg", name: "victory", widget: "boolean", hint: "Wenn nicht, dann unentschieden" }
+              - { label: "Sieg", name: "victory", widget: "boolean", hint: "Wenn nicht, ist unentschieden" }
               - { label: "Beschreibung", name: "description", widget: "string", hint: "Text zur Erinnerung, damit nichts vergessen oder doppelt eingegeben wird." }
