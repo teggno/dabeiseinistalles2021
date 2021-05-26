@@ -64,6 +64,16 @@ collections: # A list of collections the CMS should be able to edit
             summary: "{{fields.name}}"
             fields:
               - { label: "Name", name: "name", widget: "string", required: true }
+      - file: "web/game/players.json"
+        label: "Spieler"
+        name: "players"
+        fields:
+          - label: "Spieler"
+            name: "players"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string", required: true }
       - file: "web/game/bets.json"
         label: "Tipps"
         name: "bets"
@@ -78,6 +88,8 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Land2", name: "country2", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
               - { label: "Land3", name: "country3", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
               - { label: "Land4", name: "country4", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
+              - { label: "Europameister", name: "champion", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
+              - { label: "Torschützenkönig", name: "topScorer", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
       - file: "web/game/score.json"
         label: "Punkte"
         name: "score"
@@ -90,3 +102,6 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Land", name: "country", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
               - { label: "Sieg", name: "victory", widget: "boolean", hint: "Wenn nicht, ist unentschieden" }
               - { label: "Beschreibung", name: "description", widget: "string", hint: "Text zur Erinnerung, damit nichts vergessen oder doppelt eingegeben wird." }
+          - { label: "Europameister", name: "champion", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], value_field: "countries.*.name", required: false }
+          - { label: "Torschützenkönig", name: "topScorer", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: false }
+
