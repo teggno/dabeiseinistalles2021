@@ -1,7 +1,7 @@
 ---
 title: Vollstrecker
 draft: false
-date: 2021-05-26T01:51:09.303Z
+date: 2021-05-26T07:54:41.795Z
 image: img/bae305c0-6cc5-4395-a818-09e3a9c6c41e.jpeg
 ---
 Wenn die Rückennummer 9️⃣ aufgerufen wird, fällt unweigerlich sein Name. Er ist und bleibt die Inkarnation des geborenen Mittelstürmers. Gerd Müller! Wie oft hat er in seiner Karriere dem runden Leder den entscheidenden Kick verpasst. Stellvertretend für all seine „Abstauber“ steht das Siegtor im WM-Finale 1974. Der „Bomber“ und sein „Killerinstinkt“. Viele wollten es ihm gleichtun, nur wenige konnten ihm Paroli bieten. Antizipation, Kaltschnäuzigkeit und eine Portion Egoismus bekommt schliesslich nicht jeder in die Wiege gelegt. Welche „Knipser der Gegenwart“ eine Überlegung für den „Lottoschein“ wert sein könnten, verrate ich euch hier. Doch aufgepasst! Die Qualitäts-Unterschiede sind teilweise enorm. Alle haben ihre Stärken, doch an „kleines, dickes Müller“ kommt keiner heran.
