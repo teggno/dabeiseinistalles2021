@@ -1,1 +1,13 @@
-{"bets": []}
+{
+  "bets": [
+    {
+      "name": "Heiri Müller",
+      "country1": "Schweiz",
+      "country2": "Deutschland",
+      "country3": "Italien",
+      "country4": "Wales",
+      "champion": "Italien",
+      "topScorer": "Ronaldo"
+    }
+  ]
+}
