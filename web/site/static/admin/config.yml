@@ -74,10 +74,10 @@ collections: # A list of collections the CMS should be able to edit
             summary: "{{fields.name}}"
             fields:
               - { label: "Name", name: "name", widget: "string" }
-              - { label: "Land1", name: "country1", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], display_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
-              - { label: "Land2", name: "country2", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], display_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
-              - { label: "Land3", name: "country3", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], display_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
-              - { label: "Land4", name: "country4", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], display_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
+              - { label: "Land1", name: "country1", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
+              - { label: "Land2", name: "country2", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
+              - { label: "Land3", name: "country3", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
+              - { label: "Land4", name: "country4", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
       - file: "web/game/score.json"
         label: "Punkte"
         name: "score"
@@ -87,6 +87,6 @@ collections: # A list of collections the CMS should be able to edit
             widget: "list"
             summary: "{{fields.country}} {{fields.victory}}"
             fields:
-              - { label: "Land", name: "country", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], display_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
+              - { label: "Land", name: "country", widget: "relation", collection: "game", file: "countries", search_fields: ["countries.*.name"], value_field: "countries.*.name", required: true }
               - { label: "Sieg", name: "victory", widget: "boolean", hint: "Wenn nicht, ist unentschieden" }
               - { label: "Beschreibung", name: "description", widget: "string", hint: "Text zur Erinnerung, damit nichts vergessen oder doppelt eingegeben wird." }
