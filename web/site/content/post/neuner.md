@@ -1,5 +1,5 @@
 ---
-title: Vollstrecker
+title: Knipser
 draft: false
 date: 2021-05-26T08:04:23.196Z
 image: img/bae305c0-6cc5-4395-a818-09e3a9c6c41e.jpeg
