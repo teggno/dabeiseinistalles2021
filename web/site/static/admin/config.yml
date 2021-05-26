@@ -51,3 +51,28 @@ collections: # A list of collections the CMS should be able to edit
             - { label: "Beschreibung", name: "description", widget: "text", required: false }
             - { label: "Youtube-Link", name: "url", widget: "string", required: false }
             - { label: "Bild", name: image, widget: image, required: true }
+  - name: "game"
+    label: "Tippspiel"
+    files:
+      - file: "web/game/bets.json"
+        label: "Tipps"
+        name: "bets"
+        fields:
+          - label: "Tipps"
+            name: "bets"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+      - file: "web/game/score.json"
+        label: "Punkte"
+        name: "score"
+        fields:
+          - label: "Punkte"
+            name: "score"
+            widget: "list"
+            summary: "{{fields.country}}"
+            fields:
+              - { label: "Land", name: "country", widget: "string" }
+              - { label: "Sieg", name: "victory", widget: "boolean", hint: "Wenn nicht, dann unentschieden" }
+              - { label: "Beschreibung", name: "description", widget: "string", hint: "Text zur Erinnerung, damit nichts vergessen oder doppelt eingegeben wird." }
