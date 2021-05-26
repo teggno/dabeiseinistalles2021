@@ -1,1 +1,16 @@
-{"countries": [{"name":"Schweiz"}, {"name":"Italien"}, {"name":"Deutschland"}]}
+{
+  "countries": [
+    {
+      "name": "Schweiz"
+    },
+    {
+      "name": "Italien"
+    },
+    {
+      "name": "Deutschland"
+    },
+    {
+      "name": "Wales"
+    }
+  ]
+}
