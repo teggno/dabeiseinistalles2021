@@ -1,7 +1,8 @@
 ---
-title: Trainer-🎡
+title: Trainerkarussell
 draft: true
 date: 2021-05-27T09:49:53.242Z
+image: img/e82527b8-94f4-4633-bf6f-5c271d446cfd.jpeg
 ---
 Iiischtigä, Platz neh bitte! Wer zu spät kommt, den bestraft das Fussball-Leben. Soviele Schleudersitze in dieser Preiskategorie waren schon lange nicht mehr zu haben. Die AS Roma hat José Mourinho, der nach all seinen Fiaskos immer noch den Adelstitel „Special One“ tragen darf, an Land gezogen. Gattuso hat nach seiner Abservierung in Neapel bei Florenz unterschrieben. Real und Zizou Zidane haben sich im gegenseitigen Einverständnis „ciao“ gesagt. Pirlo hat sein Volontariat auf Wunsch von Agnelli frühzeitig abgebrochen und „Cleverle“ Antonio Conte hat bei Inter, nachdem er gemerkt hat, dass die Zitrone ausgepresst ist, seine Abgangsentschädigung abgeholt. Verabschiedet sich im Morgengrauen und kassiert 7 Mio. Schmerzensgeld. Bravo❗️Man braucht nicht lange zu warten und der Schleifer aus Lecce sitzt irgendwo zwischen Paris, Tottenham und Madrid fest im Sattel. Das muss man ihm lassen. Er hat die Gabe, überall wo er seine Spuren hinterlassen hat, rechtzeitig die Reissleine zu ziehen.
 
