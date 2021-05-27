@@ -1,0 +1,10 @@
+---
+title: Trainer-🎡
+draft: true
+date: 2021-05-27T09:49:53.242Z
+---
+Iiischtigä, Platz neh bitte! Wer zu spät kommt, den bestraft das Fussball-Leben. Soviele Schleudersitze in dieser Preiskategorie waren schon lange nicht mehr zu haben. Die AS Roma hat José Mourinho, der nach all seinen Fiaskos immer noch den Adelstitel „Special One“ tragen darf, an Land gezogen. Gattuso hat nach seiner Abservierung in Neapel bei Florenz unterschrieben. Real und Zizou Zidane haben sich im gegenseitigen Einverständnis „ciao“ gesagt. Pirlo hat sein Volontariat auf Wunsch von Agnelli frühzeitig abgebrochen und „Cleverle“ Antonio Conte hat bei Inter, nachdem er gemerkt hat, dass die Zitrone ausgepresst ist, seine Abgangsentschädigung abgeholt. Verabschiedet sich im Morgengrauen und kassiert 7 Mio. Schmerzensgeld. Bravo❗️Man braucht nicht lange zu warten und der Schleifer aus Lecce sitzt irgendwo zwischen Paris, Tottenham und Madrid fest im Sattel. Das muss man ihm lassen. Er hat die Gabe, überall wo er seine Spuren hinterlassen hat, rechtzeitig die Reissleine zu ziehen.
+
+Wenn ihn Juve-Präsident Agnelli nicht für immer aus seinen Gedanken gestrichen hätte, würde der Ex-Inter-Trainer ohne Wimperzucken erneut bei der „Alten Dame“ anheuern. Dort dürfte stattdessen eine „minestra riscaldata“ aufgetischt werden. Schmeckt fantastisch. Max Allegri ist bereit seinen ehemaligen Vorgesetzten zu vergeben. Im  Nachhinein sind alle schlauer. Jetzt weiss man in Turin, was man an diesem genialen Pragmatiker hatte. Pirlo tut mir leid, er hat gleich bei seinem ersten Date die Schönste anvertraut bekommen. Nach dem Reinfall versucht er mit der „Mauerblume“ Mauerblümchen“ Sassuolo wieder auf die Beine zu kommen Viel Glück Andrea.
+
+Flick+Zidane brauchen sich mit derlei Problemen nicht rumschlagen. Der erste soll verlorengegangenes Territorium zurückerobern. Der Zweite wird nach Deschamps Rücktritt (mit oder ohne EM-Titel) in der französischen Nationalmannschaft eine ruhigere Kugel schieben. Die Zielvorgabe ist für beide gleich.  WM- Titel 2022 in Qatar.
