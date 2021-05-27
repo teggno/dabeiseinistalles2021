@@ -1,6 +1,6 @@
 ---
 title: Trainerkarussell
-draft: true
+draft: false
 date: 2021-05-27T09:49:53.242Z
 image: img/e82527b8-94f4-4633-bf6f-5c271d446cfd.jpeg
 ---
