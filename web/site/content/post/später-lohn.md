@@ -1,7 +1,7 @@
 ---
 title: "Lehrstunde "
 draft: true
-date: 2021-05-07T09:50:25.634Z
+date: 2021-05-30T05:28:05.725Z
 image: img/26df4e71-37f3-4005-8831-148189388bc7.jpeg
 ---
 \
