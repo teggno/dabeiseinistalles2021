@@ -1,5 +1,5 @@
 ---
-title: Gestohlenes Glück
+title: Sekunden-Glück
 draft: true
 date: 2021-05-18T03:26:15.054Z
 image: img/0af1ffc7-a83d-446d-9a75-2634120a2054.jpeg
