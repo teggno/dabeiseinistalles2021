@@ -1,5 +1,5 @@
 ---
-title: High Noon
+title: "Totenstille "
 draft: true
 date: 2021-05-28T06:59:14.758Z
 image: img/dcc36a31-9813-4c7e-b94f-b16d065fdcf6.jpeg
