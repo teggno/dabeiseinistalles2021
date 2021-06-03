@@ -1,5 +1,5 @@
 ---
-title: Träumen erlaubt
+title: High Noon
 draft: true
 date: 2021-05-28T06:59:14.758Z
 ---
