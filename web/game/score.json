@@ -1,9 +1,10 @@
 {
   "score": [
     {
-      "country": "Schweiz",
-      "victory": true,
-      "description": "Vorrunde gegen Italien"
+      "country1": "Schweiz",
+      "country2": "Italien",
+      "result": "2",
+      "note": "Vorrunde"
     }
   ]
 }
