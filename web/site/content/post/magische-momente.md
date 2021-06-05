@@ -1,7 +1,7 @@
 ---
 title: "Magische EM-Momente "
 draft: true
-date: 2021-05-11T13:19:31.495Z
+date: 2021-06-06T16:04:01.765Z
 image: img/2d5f077d-1b42-4583-b15a-ef2d97f19ee8.jpeg
 ---
 Von den Sowjets bis zu den Portugiesen! Eine kurzweilige Reise durch 60 Jahre EM. „Caro Gigi“, (Buffon) verzeih mir, wenn ich Lew Jaschin zur besten Nummer 1️⃣ aller Zeiten gekürt habe. Dank seinen Paraden trug sich die Sowjetunion 1960 als erstes Team in die EM-Annalen ein. Vier Jahre später konnte selbst die Sprungkraft des „Schwarzen Panthers“ gegen überlegene Spanier nichts mehr ausrichten. Der erste von insgesamt drei spanischen EM-Titeln war in trockenen Tüchern. Italien‘s einziger Triumph geht auf das Jahr 1968 zurück. Nachdem das Finale Unentschieden ausgegangen war, musste ein Wiederholungsspiel die Entscheidung bringen. In einer legendären Abwehrschlacht „mogelten“ sich die „Azzurri“ dank Toren von Pietro Anastasi und Gigi Riva gegen ebenbürtige Jugoslawen durch. \
