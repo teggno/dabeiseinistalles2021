@@ -1,61 +1,80 @@
 {
   "players": [
     {
-      "name": "Bruno Fernandes"
+      "name": "Bruno Fernandes",
+      "goals": 0
     },
     {
-      "name": "De Bruyne"
+      "name": "De Bruyne",
+      "goals": 0
     },
     {
-      "name": "Depay"
+      "name": "Depay",
+      "goals": 0
     },
     {
-      "name": "Gavranovic"
+      "name": "Gavranovic",
+      "goals": 0
     },
     {
-      "name": "Gnabry"
+      "name": "Gnabry",
+      "goals": 0
     },
     {
-      "name": "Immobile"
+      "name": "Immobile",
+      "goals": 0
     },
     {
-      "name": "Insigne"
+      "name": "Insigne",
+      "goals": 0
     },
     {
-      "name": "João Felix"
+      "name": "João Felix",
+      "goals": 0
     },
     {
-      "name": "Kane"
+      "name": "Kane",
+      "goals": 0
     },
     {
-      "name": "Lewandowski"
+      "name": "Lewandowski",
+      "goals": 0
     },
     {
-      "name": "Lukaku"
+      "name": "Lukaku",
+      "goals": 0
     },
     {
-      "name": "Mbappé"
+      "name": "Mbappé",
+      "goals": 0
     },
     {
-      "name": "Morata"
+      "name": "Morata",
+      "goals": 0
     },
     {
-      "name": "Müller"
+      "name": "Müller",
+      "goals": 0
     },
     {
-      "name": "Olmo"
+      "name": "Olmo",
+      "goals": 0
     },
     {
-      "name": "Ronaldo"
+      "name": "Ronaldo",
+      "goals": 0
     },
     {
-      "name": "Seferovic"
+      "name": "Seferovic",
+      "goals": 0
     },
     {
-      "name": "Sterling"
+      "name": "Sterling",
+      "goals": 0
     },
     {
-      "name": "Werner"
+      "name": "Werner",
+      "goals": 0
     }
   ]
 }
