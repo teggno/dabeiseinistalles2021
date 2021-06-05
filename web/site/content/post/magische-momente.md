@@ -1,7 +1,7 @@
 ---
 title: "Magische EM-Momente "
 draft: false
-date: 2021-06-05T22:39:47.409Z
+date: 2021-06-05T22:46:05.927Z
 image: img/2d5f077d-1b42-4583-b15a-ef2d97f19ee8.jpeg
 ---
 Als vor über 60 Jahren alles begann, stiess die Veranstaltung auf wenig Interesse. Lediglich vier Teams spielten innerhalb von fünf Tagen den Sieger unter sich aus. EM nein danke!  Die Grossen hielten gar nichts von diesem Turnier. Lieber Gigi Buffon, verzeih mir, wenn ich Lew Jaschin zur besten Nummer 1️⃣ aller Zeiten gekürt habe. Dank seinen Paraden trug sich die Sowjetunion 1960 als erstes Team in die EM-Annalen ein. Vier Jahre später konnte selbst die Sprungkraft des „Schwarzen Panthers“ gegen überlegene Spanier nichts mehr ausrichten. Der erste von insgesamt drei spanischen EM-Titeln war in trockenen Tüchern. Italien‘s einziger Triumph geht auf das Jahr 1968 zurück. Nachdem das Finale Unentschieden ausgegangen war, musste ein Wiederholungsspiel die Entscheidung bringen. In einer legendären Abwehrschlacht „mogelten“ sich die „Azzurri“ dank Toren von Pietro Anastasi und Gigi Riva gegen ebenbürtige Jugoslawen durch.
