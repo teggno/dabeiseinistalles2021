@@ -1,0 +1,20 @@
+name: leaderboard
+on:
+  schedule:
+    - cron: "0/2 * * * *"
+jobs:
+  calculate-leaderboard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+      - name: Calculate
+        run: |
+          cd leaderboard
+          node .
+      - name: Commit leaderboard.json
+        run: |
+          git config --global user.name 'Christian Bär'
+          git config --global user.email 'teggno@hotmail.com'
+          git commit -am "Update leaderboard.json"
+          git push
