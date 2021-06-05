@@ -1,16 +1,34 @@
 {
   "teams": [
     {
-      "name": "Schweiz"
-    },
-    {
-      "name": "Italien"
+      "name": "Belgien"
     },
     {
       "name": "Deutschland"
     },
     {
-      "name": "Wales"
+      "name": "England"
+    },
+    {
+      "name": "Frankreich"
+    },
+    {
+      "name": "Italien"
+    },
+    {
+      "name": "Kroatien"
+    },
+    {
+      "name": "Niederlande"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Schweiz"
+    },
+    {
+      "name": "Spanien"
     }
   ]
 }

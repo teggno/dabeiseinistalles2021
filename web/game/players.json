@@ -1,1 +1,61 @@
-{"players": [{"name":"Ronaldo"}, {"name":"Benzema"}]}
+{
+  "players": [
+    {
+      "name": "Bruno Fernandes"
+    },
+    {
+      "name": "De Bruyne"
+    },
+    {
+      "name": "Depay"
+    },
+    {
+      "name": "Gavranovic"
+    },
+    {
+      "name": "Gnabry"
+    },
+    {
+      "name": "Immobile"
+    },
+    {
+      "name": "Insigne"
+    },
+    {
+      "name": "João Felix"
+    },
+    {
+      "name": "Kane"
+    },
+    {
+      "name": "Lewandowski"
+    },
+    {
+      "name": "Lukaku"
+    },
+    {
+      "name": "Mbappé"
+    },
+    {
+      "name": "Morata"
+    },
+    {
+      "name": "Müller"
+    },
+    {
+      "name": "Olmo"
+    },
+    {
+      "name": "Ronaldo"
+    },
+    {
+      "name": "Seferovic"
+    },
+    {
+      "name": "Sterling"
+    },
+    {
+      "name": "Werner"
+    }
+  ]
+}
