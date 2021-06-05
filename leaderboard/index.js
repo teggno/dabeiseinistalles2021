@@ -4,6 +4,8 @@ const betsPath = "../game/bets.json";
 const playersPath = "../game/players.json";
 const resultsPath = "../game/results.json";
 
+const outputPath = "../web/site/data/leaderboard.json";
+
 const { bets } = JSON.parse(fs.readFileSync(betsPath).toString());
 const { players } = JSON.parse(fs.readFileSync(playersPath).toString());
 const { results, champion, topScorer } = JSON.parse(
@@ -30,10 +32,7 @@ const leaderboard = betsWithPoints.map((b) => ({
   ...b,
   rank: calculateRank(b.points.totalPoints, allTotalPoints),
 }));
-fs.writeFileSync(
-  "../web/site/data/leaderboard.json",
-  JSON.stringify(leaderboard, null, 2)
-);
+fs.writeFileSync(outputPath, JSON.stringify(leaderboard, null, 2));
 
 function calculateRank(totalPoints, allTotalPoints) {
   return allTotalPoints.filter((atp) => atp > totalPoints).length + 1;
