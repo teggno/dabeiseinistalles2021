@@ -95,12 +95,12 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Torschütze 3", name: "player3", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
               - { label: "Torschütze 4", name: "player4", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
               - { label: "Torschützenkönig", name: "topScorer", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
-      - file: "web/game/score.json"
+      - file: "web/game/results.json"
         label: "Spiele"
-        name: "score"
+        name: "results"
         fields:
           - label: "Spiele"
-            name: "score"
+            name: "results"
             widget: "list"
             summary: "{{fields.team1}} {{fields.2}} {{fields.result.value}}"
             fields:
