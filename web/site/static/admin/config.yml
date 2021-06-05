@@ -71,7 +71,7 @@ collections: # A list of collections the CMS should be able to edit
           - label: "Spieler"
             name: "players"
             widget: "list"
-            summary: "{{fields.name}}"
+            summary: "{{fields.name}} {{fields.goals}}"
             fields:
               - { label: "Name", name: "name", widget: "string", required: true }
               - { label: "Tore", name: "goals", widget: "number", default: 0, value_type: "int", min: 0, required: true }
@@ -82,9 +82,10 @@ collections: # A list of collections the CMS should be able to edit
           - label: "Tipps"
             name: "bets"
             widget: "list"
-            summary: "{{fields.name}}"
+            summary: "{{fields.lastName}} {{fields.firstName}}"
             fields:
-              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Nachname", name: "lastName", widget: "string", required: true }
+              - { label: "Vorname", name: "firstName", widget: "string" }
               - { label: "Mannschaft 1", name: "team1", widget: "relation", collection: "game", file: "teams", search_fields: ["teams.*.name"], value_field: "teams.*.name", required: true }
               - { label: "Mannschaft 2", name: "team2", widget: "relation", collection: "game", file: "teams", search_fields: ["teams.*.name"], value_field: "teams.*.name", required: true }
               - { label: "Mannschaft 3", name: "team3", widget: "relation", collection: "game", file: "teams", search_fields: ["teams.*.name"], value_field: "teams.*.name", required: true }
@@ -96,7 +97,7 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Torschütze 4", name: "player4", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
               - { label: "Torschützenkönig", name: "topScorer", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
       - file: "game/results.json"
-        label: "Spiele"
+        label: "Ergebnisse"
         name: "results"
         fields:
           - label: "Spiele"
@@ -111,9 +112,9 @@ collections: # A list of collections the CMS should be able to edit
                 widget: "select"
                 required: true
                 options:
-                  - { label: "Sieg Land1", value: "1" }
+                  - { label: "Sieg Mannschaft 1", value: "1" }
                   - { label: "Unentschieden", value: "x" }
-                  - { label: "Sieg Land2", value: "2" }
+                  - { label: "Sieg Mannschaft 2", value: "2" }
               - { label: "Notiz", name: "node", widget: "string", hint: "Notiz Erinnerung, damit nichts vergessen oder doppelt eingegeben wird." }
           - { label: "Europameister", name: "champion", widget: "relation", collection: "game", file: "teams", search_fields: ["teams.*.name"], value_field: "teams.*.name", required: false }
           - { label: "Torschützenkönig", name: "topScorer", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: false }
