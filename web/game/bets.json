@@ -2,11 +2,15 @@
   "bets": [
     {
       "name": "Heiri Müller",
-      "country1": "Schweiz",
-      "country2": "Deutschland",
-      "country3": "Italien",
-      "country4": "Wales",
+      "team1": "Schweiz",
+      "team2": "Deutschland",
+      "team3": "Italien",
+      "team4": "Wales",
       "champion": "Italien",
+      "player1": "Ronaldo",
+      "player2": "Ronaldo",
+      "player3": "Ronaldo",
+      "player4": "Ronaldo",
       "topScorer": "Ronaldo"
     }
   ]
