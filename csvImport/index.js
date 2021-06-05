@@ -13,8 +13,8 @@ const bets = allLines
   .map((parts) => parts.map((part) => part.trim()))
   .map(
     ([
-      firstName,
       lastName,
+      firstName,
       team1,
       team2,
       team3,
@@ -26,8 +26,8 @@ const bets = allLines
       topScorer,
       champion,
     ]) => ({
-      firstName,
       lastName,
+      firstName,
       team1,
       team2,
       team3,
@@ -63,5 +63,7 @@ const playersUnique = [
     ])
   ),
 ].sort((a, b) => a.localeCompare(b));
-const dataForPlayersFile = { players: playersUnique.map((name) => ({ name })) };
+const dataForPlayersFile = {
+  players: playersUnique.map((name) => ({ name, goals: 0 })),
+};
 fs.writeFileSync(playersPath, JSON.stringify(dataForPlayersFile, null, 2));
