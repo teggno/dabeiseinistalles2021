@@ -54,7 +54,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "game"
     label: "Tippspiel"
     files:
-      - file: "web/game/teams.json"
+      - file: "game/teams.json"
         label: "Länder"
         name: "teams"
         fields:
@@ -64,7 +64,7 @@ collections: # A list of collections the CMS should be able to edit
             summary: "{{fields.name}}"
             fields:
               - { label: "Name", name: "name", widget: "string", required: true }
-      - file: "web/game/players.json"
+      - file: "game/players.json"
         label: "Spieler"
         name: "players"
         fields:
@@ -75,7 +75,7 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: "Name", name: "name", widget: "string", required: true }
               - { label: "Tore", name: "goals", widget: "number", default: 0, value_type: "int", min: 0, required: true }
-      - file: "web/game/bets.json"
+      - file: "game/bets.json"
         label: "Tipps"
         name: "bets"
         fields:
@@ -95,7 +95,7 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Torschütze 3", name: "player3", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
               - { label: "Torschütze 4", name: "player4", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
               - { label: "Torschützenkönig", name: "topScorer", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
-      - file: "web/game/results.json"
+      - file: "game/results.json"
         label: "Spiele"
         name: "results"
         fields:

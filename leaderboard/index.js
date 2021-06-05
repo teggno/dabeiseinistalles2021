@@ -1,8 +1,8 @@
 const fs = require("fs");
 
-const betsPath = "../web/game/bets.json";
-const playersPath = "../web/game/players.json";
-const resultsPath = "../web/game/results.json";
+const betsPath = "../game/bets.json";
+const playersPath = "../game/players.json";
+const resultsPath = "../game/results.json";
 
 const { bets } = JSON.parse(fs.readFileSync(betsPath).toString());
 const { players } = JSON.parse(fs.readFileSync(playersPath).toString());
