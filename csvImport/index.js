@@ -1,9 +1,9 @@
 const fs = require("fs");
 
 const sourceFileName = "datav1.tsv";
-const betsPath = "../web/game/bets.json";
-const teamsPath = "../web/game/teams.json";
-const playersPath = "../web/game/players.json";
+const betsPath = "../game/bets.json";
+const teamsPath = "../game/teams.json";
+const playersPath = "../game/players.json";
 
 const allLines = fs.readFileSync(sourceFileName).toString();
 const bets = allLines
