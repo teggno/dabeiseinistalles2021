@@ -1,7 +1,8 @@
 name: leaderboard
 on:
   schedule:
-    - cron: "0/2 * * * *"
+    # 21 is UTC which is 23 CET
+    - cron: '5 21 * * *'
   workflow_dispatch:
 jobs:
   calculate-leaderboard:
