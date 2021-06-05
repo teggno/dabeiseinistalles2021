@@ -2,6 +2,7 @@ name: leaderboard
 on:
   schedule:
     - cron: "0/2 * * * *"
+  workflow_dispatch:
 jobs:
   calculate-leaderboard:
     runs-on: ubuntu-latest
