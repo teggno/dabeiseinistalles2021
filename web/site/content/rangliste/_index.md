@@ -7,8 +7,8 @@ placeholder: >
   Demnächst geht’s los 🥳. Nächster Termin 10. Juni. Offizielle Bekanntgabe der
   Legenden-Liste 🙈
 song:
-  title: Procol Harum - A Whiter Shade of Pal
-  url: https://www.youtube.com/watch?v=5em0sw4Hf_E
+  title: Procol Harum - A Whiter Shade of Pale
+  url: https://www.youtube.com/watch?v=KZQbS16Ui2s
   image: img/jukebox.jpg
   description: ""
 type: rangliste
