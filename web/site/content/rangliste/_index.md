@@ -5,7 +5,9 @@ image: ""
 showPlaceholder: true
 placeholder: |
   Demnächst geht’s los 🥳. 
+
   Nächster Termin 10. Juni. 
+
   Offizielle Bekanntgabe der Legenden-Liste 🙈
 song:
   title: Procol Harum - A Whiter Shade of Pale
