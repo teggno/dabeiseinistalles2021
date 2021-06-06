@@ -8,7 +8,7 @@ placeholder: >
   Legenden-Liste 🙈
 song:
   title: Adriano Celentano - Azzurro
-  url: https://www.youtube.com/watch?v=8OUyYh2ZY5g
+  url: https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiZp8mVh4PxAhWEy6QKHSFBC6MQ3ywwAHoECAQQAg&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMb3iPP-tHdA&usg=AOvVaw2O1T41a6SIAKrD3lFWIM9y
   image: img/jukebox.jpg
   description: ""
 type: rangliste
