@@ -8,7 +8,7 @@ placeholder: |
 
   Nächster Termin 10. Juni. 
 
-  Offizielle Bekanntgabe Spielerliste
+  Offizielle Bekanntgabe der Mitspieler-Liste
 song:
   title: Procol Harum - A Whiter Shade of Pale
   url: https://www.youtube.com/watch?v=KZQbS16Ui2s
