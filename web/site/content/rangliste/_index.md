@@ -8,7 +8,7 @@ placeholder: |
 
   Nächster Termin 10. Juni. 
 
-  Offizielle Bekanntgabe der Legenden-Liste 🙈
+  Offizielle Bekanntgabe Spielerliste
 song:
   title: Procol Harum - A Whiter Shade of Pale
   url: https://www.youtube.com/watch?v=KZQbS16Ui2s
