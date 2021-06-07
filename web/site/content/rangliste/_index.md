@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-06-06T13:26:52.334Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: |+
   Demnächst geht’s los 🥳. 
 
