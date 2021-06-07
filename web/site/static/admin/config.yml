@@ -19,6 +19,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Inhalt", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Seiten"
+    delete: false
     files:
       - file: "web/site/content/_index.md"
         label: "Startseite"
@@ -53,6 +54,7 @@ collections: # A list of collections the CMS should be able to edit
             - { label: "Bild", name: image, widget: image, required: true }
   - name: "game"
     label: "Tippspiel"
+    delete: false
     files:
       - file: "game/teams.json"
         label: "Teams"
