@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-06-06T13:26:52.334Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: |+
   Demnächst auf diesem Kanal (10. Juni) die ultimative Legenden-Liste 🤭 🙈 🤫
 
@@ -11,6 +11,8 @@ song:
   title: Raffis Nachtmelodie 🎼 Adriano Celentano- Azzurro
   url: https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiKz6Ws1IXxAhULrKQKHYa4AzoQwqsBMAl6BAgkEAE&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHCyzGuipTd4&usg=AOvVaw23c_qWfkuU3FqNoXFsQAcb
   image: img/jukebox.jpg
-  description: ""
+  description: "Bbbbbbbbb ist der Mann mit dem Verstand der Stadt in Deutschland
+    🇩🇪 in der Schweiz in der Türkei 🇹🇷 der Türkei und im Osten der Türkei
+    🇹🇷 in der Schweiz in den vergangenen Tagen im Jahr auf dem Papier "
 type: rangliste
 ---
