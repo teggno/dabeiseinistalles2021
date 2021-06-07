@@ -13,8 +13,8 @@ song:
   image: img/jukebox.jpg
   description: „Baby the Night is on Fire!“ Wenn wie heute Abend alle
     überlebenswichtigen Ingredienzien mit an Bord sind - La Musique - Le
-    Football - et La Femme, dann muss gefeiert werden. Nach dieser azurblauen
-    Symphonie hält uns nichts mehr auf den Stühlen. Grazie „Azzurri“.....Danke
+    Football - et La Femme, dann muss gefeiert werden. Nach dieser Symphonie in
+    azurblau hält uns nichts mehr auf den Stühlen. Grazie „Azzurri“.....Danke
     Roberto.....dai Zucchero....spiel......
 type: rangliste
 ---
