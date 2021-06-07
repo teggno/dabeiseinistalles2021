@@ -2,13 +2,15 @@ const fs = require("fs");
 
 const betsPath = "../game/bets.json";
 const playersPath = "../game/players.json";
+const teamsPath = "../game/teams.json";
 const resultsPath = "../game/results.json";
 
 const outputPath = "../web/site/data/leaderboard.json";
 
 const { bets } = JSON.parse(fs.readFileSync(betsPath).toString());
 const { players } = JSON.parse(fs.readFileSync(playersPath).toString());
-const { results, champion, topScorer } = JSON.parse(
+const { teams } = JSON.parse(fs.readFileSync(teamsPath).toString());
+const { champion, topScorer } = JSON.parse(
   fs.readFileSync(resultsPath).toString()
 );
 
@@ -22,7 +24,7 @@ const betsWithPoints = bets
   .map((bet) => {
     return {
       bet,
-      points: calculateBetPoints(bet, results, players, champion, topScorer),
+      points: calculateBetPoints(bet, teams, players, champion, topScorer),
     };
   })
   .sort((a, b) => b.points.totalPoints - a.points.totalPoints);
@@ -40,12 +42,12 @@ function calculateRank(totalPoints, allTotalPoints) {
 
 exports.calculateRank = calculateRank;
 
-function calculateBetPoints(bet, results, players, champion, topScorer) {
+function calculateBetPoints(bet, teams, players, champion, topScorer) {
   const betTeams = [bet.team1, bet.team2, bet.team3, bet.team4];
   const betPlayers = [bet.player1, bet.player2, bet.player3, bet.player4];
 
-  const teamsPoints = results.reduce(
-    (points, result) => points + teamPointsForResult(betTeams, result),
+  const teamsPoints = teams.reduce(
+    (points, team) => points + teamPointsForResult(betTeams, team),
     0
   );
   const playersPoints = players.reduce(
@@ -76,15 +78,15 @@ exports.pointsConfigs = {
   configTopScorerPoints,
 };
 
-function teamPointsForResult(betTeams, result) {
-  return betTeams.reduce((p, team) => {
-    if (result.team1 === team && result.result === "1") p += configWinnerPoints;
-    if (result.team2 === team && result.result === "2") p += configWinnerPoints;
-    if (result.team1 === team && result.result === "X") p += configDrawPoints;
-    if (result.team2 === team && result.result === "X") p += configDrawPoints;
-
-    return p;
-  }, 0);
+function teamPointsForResult(betTeams, team) {
+  return betTeams.reduce(
+    (p, betTeam) =>
+      p +
+      (betTeam === team.name
+        ? team.victories * configWinnerPoints + team.draws * configDrawPoints
+        : 0),
+    0
+  );
 }
 
 function playerPointsForPlayer(betPlayers, { name, goals }) {

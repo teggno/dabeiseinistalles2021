@@ -36,15 +36,16 @@ test("Test2", (t) => {
     champion: "b",
     topScorer: "3",
   };
-  const results = [
-    { team1: "a", team2: "y", result: "1" },
-    { team1: "m", team2: "a", result: "1" },
+  const teams = [
+    { name: "a", victories: 1, draws: 0 },
+    { name: "y", victories: 1, draws: 1 },
+    { name: "m", victories: 1, draws: 1 },
   ];
   const players = [
     { name: "1", goals: 4 },
     { name: "2", goals: 0 },
   ];
-  const actual = sut.calculateBetPoints(bet, results, players, "hans", "fritz");
+  const actual = sut.calculateBetPoints(bet, teams, players, "hans", "fritz");
   t.is(
     actual.totalPoints,
     sut.pointsConfigs.configWinnerPoints +
@@ -65,15 +66,16 @@ test("Test3", (t) => {
     champion: "b",
     topScorer: "3",
   };
-  const results = [
-    { team1: "a", team2: "y", result: "1" },
-    { team1: "m", team2: "a", result: "1" },
+  const teams = [
+    { name: "a", victories: 1, draws: 0 },
+    { name: "y", victories: 1, draws: 1 },
+    { name: "m", victories: 1, draws: 1 },
   ];
   const players = [
     { name: "1", goals: 4 },
     { name: "2", goals: 0 },
   ];
-  const actual = sut.calculateBetPoints(bet, results, players, "b", "3");
+  const actual = sut.calculateBetPoints(bet, teams, players, "b", "3");
   t.is(
     actual.totalPoints,
     sut.pointsConfigs.configWinnerPoints +
@@ -96,22 +98,23 @@ test("Test4", (t) => {
     champion: "a",
     topScorer: "3",
   };
-  const results = [
-    { team1: "a", team2: "y", result: "1" },
-    { team1: "m", team2: "a", result: "1" },
-    { team1: "b", team2: "a", result: "x" },
-    { team1: "a", team2: "c", result: "2" },
+  const teams = [
+    { name: "a", victories: 1, draws: 1 },
+    { name: "y", victories: 1, draws: 1 },
+    { name: "m", victories: 1, draws: 1 },
+    { name: "b", victories: 0, draws: 1 },
+    { name: "c", victories: 1, draws: 0 },
   ];
   const players = [
     { name: "1", goals: 4 },
     { name: "2", goals: 0 },
   ];
-  const actual = sut.calculateBetPoints(bet, results, players, "b", "3");
+  const actual = sut.calculateBetPoints(bet, teams, players, "b", "3");
   t.is(
     actual.totalPoints,
-    sut.pointsConfigs.configWinnerPoints +
-      5 * sut.pointsConfigs.configGoalPoints +
+    2 * sut.pointsConfigs.configWinnerPoints +
       2 * sut.pointsConfigs.configDrawPoints +
+      4 * sut.pointsConfigs.configGoalPoints +
       sut.pointsConfigs.configTopScorerPoints
   );
 });

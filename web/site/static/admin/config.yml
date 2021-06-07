@@ -64,6 +64,8 @@ collections: # A list of collections the CMS should be able to edit
             summary: "{{fields.name}}"
             fields:
               - { label: "Name", name: "name", widget: "string", required: true }
+              - { label: "Siege", name: "victories", widget: "number", default: 0, value_type: "int", min: 0, required: true }
+              - { label: "Unentschieden", name: "draws", widget: "number", default: 0, value_type: "int", min: 0, required: true }
       - file: "game/players.json"
         label: "Spieler"
         name: "players"
@@ -100,22 +102,6 @@ collections: # A list of collections the CMS should be able to edit
         label: "Ergebnisse"
         name: "results"
         fields:
-          - label: "Spiele"
-            name: "results"
-            widget: "list"
-            summary: "{{fields.team1}} {{fields.2}} {{fields.result.value}}"
-            fields:
-              - { label: "Mannschaft 1", name: "team1", widget: "relation", collection: "game", file: "teams", search_fields: ["teams.*.name"], value_field: "teams.*.name", required: true }
-              - { label: "Mannschaft 2", name: "team2", widget: "relation", collection: "game", file: "teams", search_fields: ["teams.*.name"], value_field: "teams.*.name", required: true }
-              - label: "Ergebnis"
-                name: "result"
-                widget: "select"
-                required: true
-                options:
-                  - { label: "Sieg Mannschaft 1", value: "1" }
-                  - { label: "Unentschieden", value: "x" }
-                  - { label: "Sieg Mannschaft 2", value: "2" }
-              - { label: "Notiz", name: "node", widget: "string", hint: "Notiz Erinnerung, damit nichts vergessen oder doppelt eingegeben wird." }
           - { label: "Europameister", name: "champion", widget: "relation", collection: "game", file: "teams", search_fields: ["teams.*.name"], value_field: "teams.*.name", required: false }
           - { label: "Torschützenkönig", name: "topScorer", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: false }
 

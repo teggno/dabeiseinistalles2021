@@ -1,34 +1,54 @@
 {
   "teams": [
     {
-      "name": "Belgien"
+      "name": "Belgien",
+      "victories": 0,
+      "draws": 0
     },
     {
-      "name": "Deutschland"
+      "name": "Deutschland",
+      "victories": 0,
+      "draws": 0
     },
     {
-      "name": "England"
+      "name": "England",
+      "victories": 0,
+      "draws": 0
     },
     {
-      "name": "Frankreich"
+      "name": "Frankreich",
+      "victories": 0,
+      "draws": 0
     },
     {
-      "name": "Italien"
+      "name": "Italien",
+      "victories": 0,
+      "draws": 0
     },
     {
-      "name": "Kroatien"
+      "name": "Kroatien",
+      "victories": 0,
+      "draws": 0
     },
     {
-      "name": "Niederlande"
+      "name": "Niederlande",
+      "victories": 0,
+      "draws": 0
     },
     {
-      "name": "Portugal"
+      "name": "Portugal",
+      "victories": 0,
+      "draws": 0
     },
     {
-      "name": "Schweiz"
+      "name": "Schweiz",
+      "victories": 0,
+      "draws": 0
     },
     {
-      "name": "Spanien"
+      "name": "Spanien",
+      "victories": 0,
+      "draws": 0
     }
   ]
 }
