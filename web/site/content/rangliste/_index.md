@@ -4,7 +4,7 @@ date: 2021-06-06T13:26:52.334Z
 image: ""
 showPlaceholder: true
 placeholder: |+
-  Demnächst geht’s los 🥳. 
+  Am 10. Juni ist die Legenden Liste 🙈🙈🙈 im Netz
 
 
 song:
