@@ -11,8 +11,9 @@ song:
   title: RAFFI‘S BEST OF 😎  Zucchero - Baila Morena
   url: https://www.youtube.com/watch?v=CmYThHY7fD8
   image: img/jukebox.jpg
-  description: Nach Baby, the Night is on Fire❗️Wenn es passt, dann passt es eben.
-    Drei 🪰 auf einen Schlag. La Musique - Le Football - et La femme. Nach der
-    Symphonie in Azurblau
+  description: Baby the Night is on Fire! Wenn wie heute Abend alle
+    überlebenswichtigen Ingredienzen mit an Bord sind - La Musique - Le Football
+    - et La femme, dann muss gefeiert werden. Nach dieser azurblauen Symphonie
+    hält uns nichts mehr. Grazie „Azzurri“.....dai Zucchero....spiel......
 type: rangliste
 ---
