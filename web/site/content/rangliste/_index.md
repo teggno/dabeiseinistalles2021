@@ -4,7 +4,7 @@ date: 2021-06-06T13:26:52.334Z
 image: ""
 showPlaceholder: false
 placeholder: |+
-  Demnächst auf diesem Kanal (10. Juni) die ultimative Legenden Liste 🤭 🙈 🤫
+  Demnächst auf diesem Kanal (10. Juni) die ultimative Legenden-Liste 🤭 🙈 🤫
 
 
 song:
