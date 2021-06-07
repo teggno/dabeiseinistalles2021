@@ -8,13 +8,9 @@ placeholder: |+
 
 
 song:
-  title: "  Adriano Celentano- Azzurro"
+  title: "Raffi‘s Hitparade: Platz 30 -  Adriano Celentano- Azzurro"
   url: https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiKz6Ws1IXxAhULrKQKHYa4AzoQwqsBMAl6BAgkEAE&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHCyzGuipTd4&usg=AOvVaw23c_qWfkuU3FqNoXFsQAcb
   image: img/jukebox.jpg
-  description: "Hier noch mal die Zeit in den nächsten Jahren mit den anderen
-    Leuten und dann auf die Arbeit mit dem Verstand zu kommen oder nicht zu
-    sagen ich habe es auch schon wieder geschafft das ist nicht gut drauf ist
-    dass du das alles wieder einmal mit mir machen kannst ich habe dich über
-    alles du hast es "
+  description: ""
 type: rangliste
 ---
