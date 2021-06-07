@@ -17,7 +17,7 @@ const { champion, topScorer } = JSON.parse(
 const configWinnerPoints = 30;
 const configDrawPoints = 10;
 const configGoalPoints = 10;
-const configChampionPoints = 150;
+const configChampionPoints = 300;
 const configTopScorerPoints = 150;
 
 const betsWithPoints = bets
