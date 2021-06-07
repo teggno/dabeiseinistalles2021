@@ -55,10 +55,10 @@ collections: # A list of collections the CMS should be able to edit
     label: "Tippspiel"
     files:
       - file: "game/teams.json"
-        label: "Länder"
+        label: "Teams"
         name: "teams"
         fields:
-          - label: "Länder"
+          - label: "Teams"
             name: "teams"
             widget: "list"
             summary: "{{fields.name}}"
