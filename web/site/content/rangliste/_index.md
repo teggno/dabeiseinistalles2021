@@ -8,8 +8,8 @@ placeholder: |+
 
 
 song:
-  title: RAFFI‘S BEST OF 😎  Adriano Celentano- Azzurro
-  url: https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiKz6Ws1IXxAhULrKQKHYa4AzoQwqsBMAl6BAgkEAE&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHCyzGuipTd4&usg=AOvVaw23c_qWfkuU3FqNoXFsQAcb
+  title: RAFFI‘S BEST OF 😎  Zucchero - Baila Morena
+  url: https://www.youtube.com/watch?v=CmYThHY7fD8
   image: img/jukebox.jpg
   description: ""
 type: rangliste
