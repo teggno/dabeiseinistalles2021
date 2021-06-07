@@ -1,17 +1,1 @@
-{
-  "results": [
-    {
-      "team1": "Schweiz",
-      "team2": "Italien",
-      "result": "2",
-      "note": "Vorrunde",
-      "node": "A"
-    },
-    {
-      "team1": "Frankreich",
-      "team2": "Deutschland",
-      "result": "1",
-      "node": "Á"
-    }
-  ]
-}
+{}
