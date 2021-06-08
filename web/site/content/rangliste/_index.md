@@ -4,7 +4,7 @@ date: 2021-06-06T13:26:52.334Z
 image: ""
 showPlaceholder: true
 placeholder: |+
-  No draimol schlofä 🛌 und s‘Grümpälturniär fangt aaa.....🎻
+  No draimol schlofä 🛌 und s‘Grümpälturniär fangt a 🎻
 
 
 song:
