@@ -1,10 +1,10 @@
 ---
 title: Rangliste
-date: 2021-06-06T13:26:52.334Z
+date: 2021-06-08T22:55:33.147Z
 image: ""
 showPlaceholder: true
 placeholder: |+
-  No draimol schlofä 🛌 und s‘Grümpi fot a 🎻
+  Demnächst geht’s los 🥳 Donnerstag 10. Juni Liste der Teilnehmer 🤷‍♀️
 
 
 song:
