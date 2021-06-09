@@ -1,18 +1,16 @@
 ---
 title: Rangliste
-date: 2021-06-06T13:26:52.334Z
+date: 2021-06-09T15:53:41.021Z
 image: ""
 showPlaceholder: false
-placeholder: |+
-  Demnächst auf diesem Kanal (10. Juni) die ultimative Legenden-Liste 🤭 🙈 🤫
+placeholder: |+2
+   Donnerstagnachmittag 10. Juni  ab ca. 🕒  Einzug der Gladiatoren 🥁
 
 
 song:
-  title: Raffis Nachtmelodie 🎼 Adriano Celentano- Azzurro
-  url: https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiKz6Ws1IXxAhULrKQKHYa4AzoQwqsBMAl6BAgkEAE&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHCyzGuipTd4&usg=AOvVaw23c_qWfkuU3FqNoXFsQAcb
+  title: "RAFFI‘S BEST OF - Start 11.6. 23 Uhr "
+  url: https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiMxrH9oovxAhXL_KQKHeUJD8YQ3ywwAHoECAIQAg&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCmYThHY7fD8&usg=AOvVaw3ufWEvvzyvZI6S05reIwB3
   image: img/jukebox.jpg
-  description: "Bbbbbbbbb ist der Mann mit dem Verstand der Stadt in Deutschland
-    🇩🇪 in der Schweiz in der Türkei 🇹🇷 der Türkei und im Osten der Türkei
-    🇹🇷 in der Schweiz in den vergangenen Tagen im Jahr auf dem Papier "
+  description: ""
 type: rangliste
 ---
