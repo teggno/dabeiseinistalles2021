@@ -7,12 +7,12 @@
     },
     {
       "name": "Deutschland",
-      "victories": 1,
-      "draws": 1
+      "victories": 0,
+      "draws": 0
     },
     {
       "name": "England",
-      "victories": 5,
+      "victories": 0,
       "draws": 0
     },
     {
@@ -22,8 +22,8 @@
     },
     {
       "name": "Italien",
-      "victories": 3,
-      "draws": 2
+      "victories": 0,
+      "draws": 0
     },
     {
       "name": "Kroatien",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Niederlande",
-      "victories": 2,
+      "victories": 0,
       "draws": 0
     },
     {
