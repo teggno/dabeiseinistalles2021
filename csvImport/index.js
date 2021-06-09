@@ -8,7 +8,7 @@ const playersPath = "../game/players.json";
 const allLines = fs.readFileSync(sourceFileName).toString();
 const bets = allLines
   .split("\n")
-  .map((l) => l.trim().split("\t"))
+  .map((l) => l.trimEnd().split("\t"))
   .filter((parts) => parts.length === 12 && parts[0] !== "Vorname")
   .map((parts) => parts.map((part) => part.trim()))
   .map(
