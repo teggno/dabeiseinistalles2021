@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-06-09T15:53:41.021Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: |+2
    Donnerstagnachmittag 10. Juni  -  Einzug der Gladiatoren 🥁
 
