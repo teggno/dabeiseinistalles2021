@@ -1,8 +1,36 @@
 {
   "players": [
     {
+      "name": "Bale",
+      "goals": 0
+    },
+    {
+      "name": "Barella",
+      "goals": 0
+    },
+    {
+      "name": "Belotti",
+      "goals": 0
+    },
+    {
+      "name": "Benzema",
+      "goals": 0
+    },
+    {
+      "name": "Berardi",
+      "goals": 0
+    },
+    {
       "name": "Bruno Fernandes",
-      "goals": 1
+      "goals": 0
+    },
+    {
+      "name": "Burak Ylmaz",
+      "goals": 0
+    },
+    {
+      "name": "Chiesa",
+      "goals": 0
     },
     {
       "name": "De Bruyne",
@@ -10,14 +38,34 @@
     },
     {
       "name": "Depay",
-      "goals": 4
+      "goals": 0
+    },
+    {
+      "name": "Foden",
+      "goals": 0
     },
     {
       "name": "Gavranovic",
       "goals": 0
     },
     {
+      "name": "Giroud",
+      "goals": 0
+    },
+    {
       "name": "Gnabry",
+      "goals": 0
+    },
+    {
+      "name": "Griezmann",
+      "goals": 0
+    },
+    {
+      "name": "Havertz",
+      "goals": 0
+    },
+    {
+      "name": "Hazard",
       "goals": 0
     },
     {
@@ -42,14 +90,26 @@
     },
     {
       "name": "Lukaku",
-      "goals": 3
+      "goals": 0
     },
     {
       "name": "Mbappé",
       "goals": 0
     },
     {
+      "name": "Mertens",
+      "goals": 0
+    },
+    {
+      "name": "Modric",
+      "goals": 0
+    },
+    {
       "name": "Morata",
+      "goals": 0
+    },
+    {
+      "name": "Moreno",
       "goals": 0
     },
     {
@@ -61,6 +121,18 @@
       "goals": 0
     },
     {
+      "name": "Pandev",
+      "goals": 0
+    },
+    {
+      "name": "Rashford",
+      "goals": 0
+    },
+    {
+      "name": "Rebic",
+      "goals": 0
+    },
+    {
       "name": "Ronaldo",
       "goals": 0
     },
@@ -69,7 +141,15 @@
       "goals": 0
     },
     {
+      "name": "Shaqiri",
+      "goals": 0
+    },
+    {
       "name": "Sterling",
+      "goals": 0
+    },
+    {
+      "name": "Torres",
       "goals": 0
     },
     {
