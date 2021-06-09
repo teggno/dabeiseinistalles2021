@@ -4,7 +4,7 @@ date: 2021-06-09T15:53:41.021Z
 image: ""
 showPlaceholder: true
 placeholder: |+2
-   Donnerstagnachmittag 10. Juni  ab ca. 🕒  Einzug der Gladiatoren 🥁
+   Donnerstagnachmittag 10. Juni  -  Einzug der Gladiatoren 🥁
 
 
 song:
