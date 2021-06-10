@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const sourceFileName = "datav2.tsv";
+const sourceFileName = "datav3.tsv";
 const betsPath = "../game/bets.json";
 const teamsPath = "../game/teams.json";
 const playersPath = "../game/players.json";

@@ -436,7 +436,7 @@
     },
     {
       "lastName": "Krebs",
-      "firstName": "Jann",
+      "firstName": "Jan",
       "team1": "Deutschland",
       "team2": "Frankreich",
       "team3": "Belgien",
@@ -463,8 +463,8 @@
       "topScorer": "Griezmann"
     },
     {
-      "lastName": "Granacher",
-      "firstName": "Liotta",
+      "lastName": "Liotta-Granacher",
+      "firstName": "Tanino+Urs",
       "team1": "England",
       "team2": "Deutschland",
       "team3": "Spanien",
@@ -505,8 +505,8 @@
       "topScorer": "Mbappé"
     },
     {
-      "lastName": "Aschwanden",
-      "firstName": "Brocca/",
+      "lastName": "Brocca-Aschwanden",
+      "firstName": "Liana+Jan",
       "team1": "England",
       "team2": "Belgien",
       "team3": "Italien",
@@ -576,7 +576,7 @@
     },
     {
       "lastName": "Zaccaria",
-      "firstName": "Giacomo",
+      "firstName": "Lucchi+Giacomo",
       "team1": "Italien",
       "team2": "Frankreich",
       "team3": "Niederlande",
@@ -751,7 +751,7 @@
       "team4": "England",
       "champion": "Frankreich",
       "player1": "Mbappé",
-      "player2": "Benzema",
+      "player2": "Depay",
       "player3": "Kane",
       "player4": "Lukaku",
       "topScorer": "Kane"
@@ -786,7 +786,7 @@
     },
     {
       "lastName": "Bissoli",
-      "firstName": "Benno+Cony",
+      "firstName": "Benno+Coni",
       "team1": "Schweiz",
       "team2": "Frankreich",
       "team3": "England",
@@ -939,6 +939,20 @@
       "topScorer": "Lukaku"
     },
     {
+      "lastName": "Heidelberger",
+      "firstName": "Geri",
+      "team1": "Belgien",
+      "team2": "Frankreich",
+      "team3": "England",
+      "team4": "Deutschland",
+      "champion": "Deutschland",
+      "player1": "Lukaku",
+      "player2": "Werner",
+      "player3": "Mbappé",
+      "player4": "Moreno",
+      "topScorer": "Werner"
+    },
+    {
       "lastName": "Maier",
       "firstName": "Jacqueline",
       "team1": "Spanien",
@@ -961,10 +975,10 @@
       "team4": "Deutschland",
       "champion": "Frankreich",
       "player1": "Mbappé",
-      "player2": "Benzema",
+      "player2": "Kane",
       "player3": "Ronaldo",
       "player4": "Müller",
-      "topScorer": "Benzema"
+      "topScorer": "Mbappé"
     },
     {
       "lastName": "Aktas",
@@ -1035,6 +1049,20 @@
       "player3": "Werner",
       "player4": "Benzema",
       "topScorer": "Kane"
+    },
+    {
+      "lastName": "Michaela+KP",
+      "firstName": "Pilz",
+      "team1": "Österreich",
+      "team2": "Deutschland",
+      "team3": "Italien",
+      "team4": "Belgien",
+      "champion": "Belgien",
+      "player1": "Lukaku",
+      "player2": "Kane",
+      "player3": "Lewandowski",
+      "player4": "Ronaldo",
+      "topScorer": "Lukaku"
     },
     {
       "lastName": "Obimo-Boccia",
