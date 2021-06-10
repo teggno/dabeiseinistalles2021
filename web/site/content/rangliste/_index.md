@@ -8,8 +8,8 @@ placeholder: |+2
 
 
 song:
-  title: "RAFFI‘S BEST OF - NENA 77 🎈🤭 "
-  url: https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi5wJnnrI3xAhWLC-wKHSCQC8IQwqsBMBF6BAgtEAE&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoIO5lfJ9dhs&usg=AOvVaw3BK8DMWp30cxF1ZsEbmEo9
+  title: "RAFFI‘S BEST OF - Appuntamento a domani ore 23 "
+  url: ""
   image: img/jukebox.jpg
   description: ""
 type: rangliste
