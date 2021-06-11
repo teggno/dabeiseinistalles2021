@@ -15,6 +15,6 @@ song:
     schneeweiss hat uns „Italos“ nach Jahren des Verzichts all das zurückgegeben
     wofür wir leben  - la musique - le football et - la femme 😎! Heben wir das
     Glas 🥂 auf unsere Jungs, wer weiss ob die Sterne  jemals wieder so günstig
-    stehn. „A lei maestro -...spiel......Zucchero .....spiel "
+    stehn. „A lei maestro ......spiel......Zucchero .....spiel "
 type: rangliste
 ---
