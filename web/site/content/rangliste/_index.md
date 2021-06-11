@@ -8,9 +8,9 @@ placeholder: |+2
 
 
 song:
-  title: RAFFI‘S BEST OF - Appuntamento alle ore 23 🎉
+  title: RAFFI‘S BEST OF - Zucchero - Baila Morena
   url: https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjH9oG0rZDxAhWkPOwKHbg3CrEQ3ywwAHoECAYQAg&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCmYThHY7fD8&usg=AOvVaw3ufWEvvzyvZI6S05reIwB3
   image: img/jukebox.jpg
-  description: ""
+  description: "Baby the Night is on Fire 🔥 "
 type: rangliste
 ---
