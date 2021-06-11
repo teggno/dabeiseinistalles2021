@@ -4,7 +4,7 @@ date: 2021-06-10T05:18:55.734Z
 image: ""
 showPlaceholder: false
 placeholder: |+2
-   Donnerstagnachmittag 10. Juni  -  Einzug der Gladiatoren  🥁
+   Gleich siehst du dich 🥸 wo auch immer 🤭
 
 
 song:
