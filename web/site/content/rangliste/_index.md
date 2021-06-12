@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-06-12T04:19:50.019Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: |+2
    Bald siehst du dich wieder 🥸 wo auch immer 🤭
 
