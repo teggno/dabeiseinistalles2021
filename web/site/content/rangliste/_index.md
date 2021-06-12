@@ -8,7 +8,7 @@ placeholder: |+2
 
 
 song:
-  title: RAFFI‘S BEST OF - Appuntamento alle ore 23  🎉
+  title: RAFFI‘S BEST OF - Gotthard - Heaven
   url: https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjo_6WG95LxAhWEO-wKHSGQCdYQwqsBMAh6BAgqEAE&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DapP448jksho&usg=AOvVaw1PssdrdOONxrNt2GbToWK-
   image: img/jukebox.jpg
   description: Nach den heutigen Ereignissen lassen wir das Ganze etwas ruhiger
