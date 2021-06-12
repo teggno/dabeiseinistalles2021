@@ -11,6 +11,7 @@ song:
   title: RAFFI‘S BEST OF - Appuntamento alle ore 23  🎉
   url: ""
   image: img/jukebox.jpg
-  description: ""
+  description: Nach den heutigen Ereignissen lassen wir das Ganze etwas ruhiger
+    angehen und wer könnte das besser als Steve Lee.
 type: rangliste
 ---
