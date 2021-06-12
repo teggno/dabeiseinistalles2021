@@ -1,7 +1,7 @@
 ---
 title: Bentornati
-draft: true
-date: 2021-05-07T08:32:50.736Z
+draft: false
+date: 2021-06-12T05:37:14.983Z
 image: img/6643260c-d684-4149-9b2d-f2a28313f892.jpeg
 ---
 Bocelli eröffnete, Italien vollendete! Als dann Zucchero für ein kurzes Intermezzo die Bühne betrat, war das 🔥 unter dem Dach nicht mehr zu löschen. 65 Jahre alt musste ich werden, um „finalmente“ diesen einen Satz zu hören: „Italien spielt keinen Catenaccio mehr“! Auf SRF, ARD und ORF Lobeshymnen, dass du dich am Ende fast schämein musstest. Nichts mehr mit Durchmogeln und „Duräwurschtlä“. Die „Squadra Azzurra“ hat eine neue Mentalität. Eingeimpft bekommen von ihrem unumstrittenen Leader, Roberto Mancini. Ihn muss man besonders hervorheben, wenn man über Italiens Offensivspektakel spricht. Die Mannschaft ist der Star! Baggios und Maldins sucht man in dieser Truppe vergebens. Stattdessen findet man Chiellini, den Kämpfer von altem Schrot und Korn, Jorginho den stillen Lenker und Insigne das verspielte Kind. Die Türken waren keine Übermacht, das haben wir bei aller Euphorie auch bemerkt. Trotzdem gehen wir voller Zuversicht in die nächste Schlacht. Wir, diese 45-köpfige Armada die sich anschickt, nach 700-jähriger „Unterdrückung„ am Morgarten endlich für klare Verhältnisse zu sorgen.
