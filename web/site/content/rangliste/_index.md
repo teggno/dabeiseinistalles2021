@@ -11,8 +11,10 @@ song:
   title: RAFFI‘S BEST OF - Free 🎸 All right now
   url: https://www.youtube.com/watch?v=5wiF6b4rxno
   image: img/jukebox.jpg
-  description: "Nach Italien und Belgien geben sich auch England und die
-    Niederlande keine Blösse. Alles paletti fanden auch Katy+Urs und wünschten
-    sich diesen Kult-Song „us dä legendärä Sunnähöfli-Musikbox“. "
+  description: Nach Italien und Belgien gibt sich auch England keine Blösse und
+    die wilden „Oranjes“ erobern mit ihren begeisterungsfähigen Fans und ihrem
+    spektakulären Offensiv-Fussball unser Herz. Alles paletti nicht nur für
+    Katy+Urs, die sich zur Feier des Tages einen Kult-Song „us dä legendärä
+    Sunnähöfli-Musikbox“ ausgesucht haben. Euer Wunsch ist mir Befehl.
 type: rangliste
 ---
