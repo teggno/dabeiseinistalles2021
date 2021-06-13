@@ -8,4 +8,4 @@ image: img/926751fd-fea1-4e2c-8146-a8b36d6e1e21.jpeg
 
 Das Leben muss weitergehen. Wie oft sagen wir diesen Satz, um irgendwelche Hiobsbotschaften zu verdrängen. Innehalten fällt uns schwer. Statt selbst zu entscheiden, gab die UEFA den Schwarzen Peter den Direktbeteiligten weiter. Oder noch grotesker, dem Patienten selbst. Was hätte er auch sagen sollen, der arme Christian Eriksen. 
 
-Gehe mit der Zeit, sonst gehst du mit der Zeit. Und das wollen wir ja unbedingt vermeiden. Darum „Handy hoch WhatsApp rein“, in die Community einloggen und mit 2, 3 Worten die Bestürzung über das Unfassbare kundtun. Oder wie es  Lukaku gestern der ganzen Welt gezeigt hat: Tor bejubeln, vor die Kamera rennen und „Christian, das Tor war nur für dich„ hineinschreien. Ein hoch auf die Symbolik.
+Gehe mit der Zeit, sonst gehst du mit der Zeit. Und das wollen wir ja unbedingt vermeiden. Darum „Handy hoch WhatsApp auf“, in die Community einloggen und in 2, 3 Worten die Bestürzung über das Unfassbare kundtun. Oder wie es  Lukaku gestern der ganzen Welt gezeigt hat: Tor bejubeln, vor die Kamera rennen und „Christian, wir lieben dich“ hineinschreien. Ein hoch auf die Symbolik.
