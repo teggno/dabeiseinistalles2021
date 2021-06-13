@@ -1,7 +1,8 @@
 ---
-title: Lichtenstein-Andorra
+title: Lichtenstein-Andorra 🥸
 draft: true
 date: 2021-06-13T08:31:28.598Z
+image: img/bad32be8-ac58-4cf9-9813-3ca94ac6e63c.webp
 ---
 Spucke nicht auf den Teller, aus dem du isst! Einfacher gesagt als getan, denn das bis anhin Gezeigte „isch än färtigä mischt“.  Schuld daran ist die UEFA, die den Kreis der Auserwählten stetig nach oben schraubt. Begonnen hatte diese Modeschau im Jahre 1960 mit gerade mal vier Teams. Nach 5 Tagen war der Spuk schon vorbei. Für “Fussball-Liebhaberinnen“, die das Ganze als „ do rännet 22 buäbä amänä Ball hinädri“ fast schon zuviel. Heutzutage dauert die Party etwas länger. Unter 30 Tagen macht es mittlerweile niemand mehr.
 
