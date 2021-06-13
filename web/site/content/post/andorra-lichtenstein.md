@@ -2,7 +2,7 @@
 title: Grümpelturnier
 draft: true
 date: 2021-06-13T08:31:28.598Z
-image: img/bad32be8-ac58-4cf9-9813-3ca94ac6e63c.webp
+image: img/b959579e-6cd2-44fe-b9b8-de31c3197c6a.webp
 ---
 Spucke nicht auf den Teller, aus dem du isst! Einfacher gesagt als getan, denn das bis anhin Gezeigte „isch än färtigä mischt“.  Schuld daran ist die UEFA, die den Kreis der Auserwählten stetig nach oben schraubt. Begonnen hatte diese Modeschau im Jahre 1960 mit gerade mal vier Schönheiten. Nach 5 Tagen war die Party schon vorbei. Für “Fussball-Liebhaberinnen“, die das Ganze als „ do rännet 22 buäbä amänä Ball hinädri“ betrachten, fast schon zuviel. Heutzutage dauert die Veranstaltung etwas länger. Unter 30 Tagen macht es mittlerweile niemand mehr.
 
