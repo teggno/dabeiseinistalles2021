@@ -1,5 +1,5 @@
 ---
-title: Lichtenstein-Andorra 🥸
+title: Grümpelturnier
 draft: true
 date: 2021-06-13T08:31:28.598Z
 image: img/bad32be8-ac58-4cf9-9813-3ca94ac6e63c.webp
