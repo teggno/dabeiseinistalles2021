@@ -1,6 +1,6 @@
 ---
 title: "Innehalten "
-draft: true
+draft: false
 date: 2021-06-13T05:43:51.110Z
 image: img/926751fd-fea1-4e2c-8146-a8b36d6e1e21.jpeg
 ---
