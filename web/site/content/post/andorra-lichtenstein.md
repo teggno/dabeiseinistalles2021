@@ -1,5 +1,5 @@
 ---
-title: Andorra-Lichtenstein
+title: Lichtenstein-Andorra
 draft: true
 date: 2021-06-13T08:31:28.598Z
 ---
