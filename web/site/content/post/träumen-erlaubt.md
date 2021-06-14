@@ -6,29 +6,7 @@ image: img/dcc36a31-9813-4c7e-b94f-b16d065fdcf6.jpeg
 ---
 Erste Hinweise verdichten sich, in welches Dilemma dieses „77er-Experiment“  führen könnte. Nach Runde 1 spielen sich an der Tabellenspitze fürchterliche „Horrorszenarien“ ab. Golfprofi 😁 lacht uns alle aus. Auf alleá mögliche hätte ich gewettet, doch auf dieses Resultat wäre ich nie gekommen 🤭. Fast noch deprimierender sieht’s in den Niederungen der Tabelle aus. Das Duo Denise+Harry Finocchi, in Fachkreisen als Inbegriff des Fussballsachverstands geachtet, sehen bereits jetzt kein Land mehr. Die Pulle Wein scheint ihren Abnehmer schon gefunden zu haben.
 
-Wie geht’s jetzt weiter? Die grosse Frage des Lebens stellt sich erneut. Soll ich nach rechts oder besser nach links. Zum Glück haben wir unsere Herzensangelegenheiten die uns diese Entscheidung abnehmen. Manche ringen schon jetzt nach Luft.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Wo sonst Tausende 😎 flanieren 👫, sind die „Ristoranti“ leergefegt.  Der Boulevard von Kreuzlingen gleicht einer Geistermeile. Ist denn schon wieder Ausgangssperre, werde ich von einer jung gebliebenen „Grande Dame“ gefragt. Als ich ihr zu erklären versuche, dass in wenigen Minuten DER Strassenfeger über den 📺  flimmert, ist sie nicht mehr zu halten. Auch sie will „live“ dabeisein, wenn es zum ersten Mal seit 1954 wieder heisst: 🇮🇹 gegen die🇨🇭. Damals vor 67 Jahren war sie selber im Stadion gewesen. Noch heute schwärmt sie in höchsten Tönen von Seppe Hügi und Robert Ballamann, die an jenem legendären 23. Juni, überhebliche 🍕-Bäcker mit einem indiskutablen 4:1 in die Kabine schickten. Tempi passati! Natürlich ist man sich in der Zwischenzeit in aller Freundschaft verschiedentlich über den Weg gelaufen. Doch heute liegt der Sachverhalt ein klein wenig anders: „Es geht um Leben und Tod.“ Unsere Brüder stehen leider schon mit einem „Bein im Grab“.
+Fast noch brisanter als diese familiä Tragödie ist die Á Wo sonst Tausende 😎 flanieren 👫, sind die „Ristoranti“ leergefegt.  Der Boulevard von Kreuzlingen gleicht einer Geistermeile. Ist denn schon wieder Ausgangssperre, werde ich von einer jung gebliebenen „Grande Dame“ gefragt. Als ich ihr zu erklären versuche, dass in wenigen Minuten DER Strassenfeger über den 📺  flimmert, ist sie nicht mehr zu halten. Auch sie will „live“ dabeisein, wenn es zum ersten Mal seit 1954 wieder heisst: 🇮🇹 gegen die🇨🇭. Damals vor 67 Jahren war sie selber im Stadion gewesen. Noch heute schwärmt sie in höchsten Tönen von Seppe Hügi und Robert Ballamann, die an jenem legendären 23. Juni, überhebliche 🍕-Bäcker mit einem indiskutablen 4:1 in die Kabine schickten. Tempi passati! Natürlich ist man sich in der Zwischenzeit in aller Freundschaft verschiedentlich über den Weg gelaufen. Doch heute liegt der Sachverhalt ein klein wenig anders: „Es geht um Leben und Tod.“ Unsere Brüder stehen leider schon mit einem „Bein im Grab“.
 
 ﻿Wir  „Oriundi“, bei denen zwei 💕 in einer Brust schlagen, finden diese verzwickte Ausgangslage gar nicht toll.  67 Jahren „Waffenstillstand“ wollten wir die „Morgartenkrieger“ in einer fairen Schlacht in die Knie zwingen. Wir sahen schon Shaqiri & Co. ihre Schussstiefel schnüren und die verrosteten Hellebarden aus dunklen Kellergewölben hinausschleppen. Verständlicherweise wollen sie unseren Aufwärtstrend brechen. Gegen wiederauferstandene „Bersaglieri“ ein fast aussichtsloses Unterfangen. Nur ein Anflug von Mitleid und Nachbarschaftshilfe könnte unseren „commandante“ Mancini dazu bewegen, die „Todfeinde“ gewähren zu lassen.
 
