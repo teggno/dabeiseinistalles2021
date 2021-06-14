@@ -1,7 +1,7 @@
 ---
 title: Morgarten 2021
 draft: true
-date: 2021-05-28T06:59:14.758Z
+date: 2021-06-14T12:06:06.765Z
 image: img/dcc36a31-9813-4c7e-b94f-b16d065fdcf6.jpeg
 ---
 Erste Hinweise verdichten sich, in welches Dilemma dieses „77er-Experiment“  führen könnte. Nach Runde 1 spielen sich an der Tabellenspitze fürchterliche „Horrorszenarien“ ab. Golfprofi 😁 lacht uns alle aus. Auf alleá mögliche hätte ich gewettet, doch auf dieses Resultat nie 🤭. Fast noch deprimierender sieht’s in den Niederungen der Tabelle aus. Das Duo Denise+Harry Finocchi, in Fachkreisen als Inbegriff des Fussballsachverstands geachtet, sehen bereits jetzt kein Land mehr. Die Pulle Wein scheint ihren Abnehmer schon gefunden zu haben.
