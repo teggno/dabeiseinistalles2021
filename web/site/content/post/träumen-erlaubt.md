@@ -1,5 +1,5 @@
 ---
-title: Morgarten 2021
+title: Checkpoint Charlie
 draft: true
 date: 2021-06-14T12:06:06.765Z
 image: img/36232c86-7ba5-466d-9052-6fc493e51232.jpeg
