@@ -14,8 +14,8 @@ song:
   description: "Warum, fragt sich der Laie, haben die Wikinger bei unseren
     charmanten Ladys so viele „Steine im Brett“. Superstar Ibrahimovic ist doch
     gar nicht vor Ort. Sind etwa Anni-Frid, Agnetha, Benny und Björn das
-    „Problem“? Für Stefania, die sich einfach nicht von ihren Wandpostern
-    trennen will 🤫 der Ballerina-🩰-Song für jung und alt.....
+    „Problem“? Für Stefania, die sich von ihren geliebten Wandpostern 🤭 einfach
+    nicht trennen kann 🤫 der Ballerina-🩰-Song für jung und alt.....
 
     \ "
 type: rangliste
