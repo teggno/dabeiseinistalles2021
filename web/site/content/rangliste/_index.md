@@ -4,7 +4,7 @@ date: 2021-06-12T04:19:50.019Z
 image: ""
 showPlaceholder: false
 placeholder: |+2
-   Bis gleich 🤠
+   Bis gleich 🍻
 
 
 song:
