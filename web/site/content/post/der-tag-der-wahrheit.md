@@ -1,6 +1,6 @@
 ---
 title: "Der Tag der Wahrheit "
-draft: true
+draft: false
 date: 2021-06-15T06:29:53.150Z
 image: img/0e25fc45-f394-4bd2-b5bc-e9bfc4879900.jpeg
 ---
