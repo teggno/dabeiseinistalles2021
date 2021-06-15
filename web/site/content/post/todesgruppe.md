@@ -1,7 +1,7 @@
 ---
 title: Der Tag der Wahrheit
 draft: true
-date: 2021-06-02T20:15:51.921Z
+date: 2021-06-15T06:15:54.387Z
 ---
 Szenen der Ungarn? Wer ist Ungarn! So hört es sich an, wenn die Gruppe F zum Thema wird. Die ehemals piekfeine Adresse im Weltfussball entlockt den Experten nur noch ein müdes Lächeln. Obschon die Magyaren im WM-Finale 1954 in Bern zur Pause gegen Deutschland 2:0 vorne lagen. Der Rest ist Geschichte. Den damaligen ungarischen Trainer Sebes hat die Niederlage bis ans Sterbebett verfolgt. Er wollte und konnte es bis zu seinem Tod nicht glauben.
 
