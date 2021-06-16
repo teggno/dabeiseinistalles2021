@@ -1,5 +1,5 @@
 ---
-title: Checkpoint Charlie
+title: Autoritätsverlust
 draft: true
 date: 2021-06-14T12:06:06.765Z
 image: img/1e1dea23-aca5-4ddd-914a-bf09b90c2764.jpeg
