@@ -1,5 +1,5 @@
 ---
-title: Autoritätsverlust
+title: "Verlorene Tugenden "
 draft: true
 date: 2021-06-16T03:41:39.182Z
 image: img/1e1dea23-aca5-4ddd-914a-bf09b90c2764.jpeg
