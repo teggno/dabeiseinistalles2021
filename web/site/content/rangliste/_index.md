@@ -14,7 +14,8 @@ song:
   description: "Che partita amici - Ein Rausch der Sinne -  🇮🇹 😎💫🍾🥂 ⚽️ 💙
     💙💙 🎷🎸🥁 💃🏽🕺🏾🍹🎁 🎉🎈🇮🇹
 
-    Toto prendi la gitarra.....wir stimmen ein 🎤
+    Toto prendi la gitarra e suona tutta notte....wir stimmen ein 🎤 🇮🇹
+    🇮🇹 🇮🇹
 
     \ "
 type: rangliste
