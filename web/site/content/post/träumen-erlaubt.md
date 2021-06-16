@@ -1,7 +1,7 @@
 ---
 title: Autoritätsverlust
 draft: true
-date: 2021-06-14T12:06:06.765Z
+date: 2021-06-16T03:41:39.182Z
 image: img/1e1dea23-aca5-4ddd-914a-bf09b90c2764.jpeg
 ---
 Körpersprache sagt man verrät dich gnadenlos. Das ist am Jasstisch so, wieso soll es auf dem Rasen anders sein. Hilflos stand er da, der ehemalige Mustertrainer und versuchte die Niederlage zu erklären. Was muss ihm alles durch den Kopf gegangen sein. Dass er damals 2014 nach seiner Diplomarbeit den Job hätte quittieren sollen? Dass ausgerechnet die von aussen „befohlene“ Rückrufaktion für das Gegentor verantwortlich war?  Dass seine glorreiche Idee, Kimmich auf die Seite zu stellen, die goldene Mitte geschwächt hat. Dass es ihm in sieben Jahren nie gelungen ist, einen Ersatz für Miro Klose aufzubauen. Dass Leute wie Havertz, Sane, Gnabry und Werner in den Clubs zwar ab und zu brillieren, doch wenn es in der Nationalmannschaft um die Wurst geht, ihr Etikett „Ewiges Talent“ einfach nicht loswerden. Irgendwann, wenn Jogi Löw seine Memoiren schreibt, werden wir es erfahren.
