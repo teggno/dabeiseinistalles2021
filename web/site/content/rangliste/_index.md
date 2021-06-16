@@ -12,10 +12,10 @@ song:
   url: https://www.youtube.com/watch?v=syc78JzHGTs
   image: img/jukebox.jpg
   description: "Che partita amici - Ein Rausch der Sinne -  🇮🇹 😎💫🍾🥂 ⚽️ 💙
-    💙💙 🎷🎸🥁 💃🏽🕺🏾🍹🎁 🎉🎈🇮🇹
+    💙💙 🎷🎸🥁🍹 🎉🎈🇮🇹
 
-    Toto prendi la gitarra e suona tutta notte....wir stimmen ein 🎤 🇮🇹
-    🇮🇹 🇮🇹
+    Toto prendi la gitarra e suona tutta notte....wir stimmen ein
+    🎤  💃🏽🕺🏾\ 
 
     \ "
 type: rangliste
