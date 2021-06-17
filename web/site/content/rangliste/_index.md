@@ -11,11 +11,7 @@ song:
   title: RAFFI‘S BEST OF - Appuntamento alle ore 23 🎉
   url: ""
   image: img/jukebox.jpg
-  description: >
-    Holland zaubert 🧙‍♂️ weiter. Top-Unterhaltung was Depay & Co. bieten.
-    Azurblau und orange liegen momentan voll im Trend. Im Moment liegen orange
-    und azurblau voll im Trend, Eintagsfliegen sind  die „Oranjes“ schon längst
-    nicht mehr.  Ihre Landsleuten  heutigen „New-Entries“ nicht behaupten. Der
-    „One-Hit-Wonder“ aus dem Jahre 1967 
+  description: |
+    Nach dem gestrigen Zauber in azurblau 🧙‍♂️ ein Hauch von Magie in orange. 
 type: rangliste
 ---
