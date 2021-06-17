@@ -2,21 +2,15 @@
 title: Rangliste
 date: 2021-06-12T04:19:50.019Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: |+2
    Bis gleich 🍻
 
 
 song:
-  title: RAFFI‘S BEST OF - Toto Cotugno 🇮🇹  L‘Italiano
-  url: https://www.youtube.com/watch?v=syc78JzHGTs
+  title: RAFFI‘S BEST OF - Appuntamento alle ore 23 🎉
+  url: ""
   image: img/jukebox.jpg
-  description: "Che partita amici - Ein Rausch der Sinne -  🇮🇹 😎💫🍾🥂 ⚽️ 💙
-    💙💙 🎷🎸🥁🍹 🎉🎈🇮🇹
-
-    Toto.... prendi la chitarra ...e suona tutta la  notte....wir stimmen
-    ein 🎤  💃🏽🕺🏾\ 
-
-    \ "
+  description: "\n "
 type: rangliste
 ---
