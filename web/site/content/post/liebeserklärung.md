@@ -1,7 +1,7 @@
 ---
 title: "Liebeserklärung "
 draft: false
-date: 2021-06-17T06:53:59.747Z
+date: 2021-06-17T08:10:39.714Z
 image: img/87fd5da4-b8b7-4e04-b8d7-c1de8f3e8096.jpeg
 ---
 Nicht mal der Dreischichtbetrieb früher in der Aluminium hat soviel Substanz gekostet. Ausschlafen Fehlanzeige! Die Lerserschaft wil den Wasserstandsbericht begutachten. Erste besorgte Anrufe hatten schon mit dem Schlimmsten gerechnet: „Lilly isch dä Raffi mit äm 🧳 übär alli Bärgä 🤭? Nein meine Lieben ich bin noch da. Gerade wollte ich mit Toto Cotugno die Gage abrechnen, doch der „Italiano par excellence“ hat auf die Moneten verzichtet. Spendiere das Geld den verprellten Schweizern im Feld, die haben es nötiger.
