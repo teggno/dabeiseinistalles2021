@@ -8,10 +8,15 @@ placeholder: |+2
 
 
 song:
-  title: RAFFI‘S BEST OF - Appuntamento alle ore 23 🎉
-  url: ""
+  title: RAFFI‘S BEST OF - Shocking Blue - Venus
+  url: https://www.youtube.com/watch?v=kkhhpvUsFiI
   image: img/jukebox.jpg
-  description: |
-    Nach dem gestrigen Zauber in azurblau 🧙‍♂️ ein Hauch von Magie in orange. 
+  description: >
+    Ein Hauch von Magie. Orange🍊+ azurblau 💙 sind die Trendfarben des
+    Fussball-Sommers. Ist der Zauber mit im Spiel - ist die Göttin der
+    Verführung nicht mehr weit. Die Römer tauften sie auf Venus. 1967 taten es
+    ihnen zwei Damen und zwei Herren aus Holland gleich. Mit ihrem
+    One-Hit-Wonder eroberten sie die Discos dieser Welt. Hier sind sie live für
+    uns, in der Ausführung „knusprig“ und in der Version zeitlos.
 type: rangliste
 ---
