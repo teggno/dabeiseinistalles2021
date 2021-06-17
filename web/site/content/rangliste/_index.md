@@ -17,6 +17,6 @@ song:
     Verführung nicht mehr weit. Die Römer tauften sie auf den Namen Venus. 1967
     tat es ihnen eine Popgruppe aus Holland 🍊 gleich. Mit ihrem
     „One-Hit-Wonder“ eroberten sie die Discos dieser 🌎. Hier sind sie live für
-    uns, in der Ausführung „knusprig“ und in der Version zeitlos....🤭
+    uns in der Ausführung „knusprig“ und in der Version zeitlos....🤭
 type: rangliste
 ---
