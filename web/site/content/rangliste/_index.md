@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-06-17T20:36:57.857Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: |+2
    Bald dürft ihr euch wieder bewundern 😊 
 
@@ -16,7 +16,7 @@ song:
     Trendfarben des Sommers. Ist der Zauber mit im Spiel - ist die Göttin der
     Verführung nicht mehr weit. Die Römer tauften sie auf den Namen Venus. 1967
     tat es ihnen eine Popgruppe aus Holland 🍊 gleich. Mit ihrem
-    „One-Hit-Wonder“ eroberten sie die Discos dieser Welt. Hier sind sie live
-    für uns, in der Ausführung „knusprig“ und in der Version zeitlos....🤭
+    „One-Hit-Wonder“ eroberten sie die Discos dieser 🌎. Hier sind sie live für
+    uns, in der Ausführung „knusprig“ und in der Version zeitlos....🤭
 type: rangliste
 ---
