@@ -15,7 +15,7 @@ song:
     Ein Hauch von Magie liegt in der Luft. Orange🍊+ azurblau 💙 sind die
     Trendfarben des Sommers. Ist der Zauber mit im Spiel - ist die Göttin der
     Verführung nicht mehr weit. Die Römer tauften sie auf den Namen Venus. 1967
-    tat es ihnen eine Popgruppe aus Holland gleich. Mit ihrem One-Hit-Wonder
+    tat es ihnen eine Popgruppe aus Holland 🍊 gleich. Mit ihrem One-Hit-Wonder
     eroberten sie die Discos dieser Welt. Hier sind sie live für uns, in der
     Ausführung „knusprig“ und in der Version zeitlos.
 type: rangliste
