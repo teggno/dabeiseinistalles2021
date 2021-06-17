@@ -1,0 +1,6 @@
+---
+title: "Weibliche Intuition "
+draft: true
+date: 2021-06-17T09:37:00.488Z
+---
+Wenn ich meine Tante „Mamia“ besuche, sagt sie noch heute: „Ma guarda quei 22 bambini che corrono dietro a un pallone.“ Auf deutsch „schau dir mal die 22 Idioten an, die hinter einem Ball her rennen“. In meiner 60 jährigen Laufbahn als Fussballverliebter war sie nicht die Einzige, die meine Illusionen zerstört hat. Nun muss ich sagen, dass ich mir nicht mal ganz sicher bin, dass unsere heutigen Talkgäste wissen, dass es überhaupt 22 sind. Und doch haben Rosa+Marlen in vergangenen Zeiten für Furore gesorgt. Manch einer unter uns hat sein „Expertenbrevet“ abgegeben, nach dem was 2016 passiert war. Da kommen doch diese beiden süssen „Teenager“ daher und verirren sich nach Portugal. Als einzige in diesem Weltklassefeld. Noch heute muss ich mir bei jedem Briefwechsel den spöttischen Unterton gefallen lassen. Seither sind Zigmilliarden Liter Wasser den Rhein hinuntergelaufen und die beiden „Junggebliebenen“ machen noch immer von sich reden. Stell dir mal vor „Zac“, wenn dieses Unglück noch einmal passiert. Du der du seit Jahren diese Kompetition schon gewonnen hast bevor sie anfängt, müsstest dich den Geheimnissen weiblicher Intuition widmen.
