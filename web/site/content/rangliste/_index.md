@@ -17,7 +17,7 @@ song:
     ist immer noch lauf- und lautstark wie eh und je. Wenn er die Bühne betritt,
     fliegen die Fetzen und die Zündschnur 🧨 brennt. Leg los Mick🕺🏾sonst
     schlafen wir noch ein. Schliesslich ist Freitagabend 😎 und wir dürfen
-    endlich wieder aus uns heraus 
+    endlich wieder aus uns heraus.
 
 
     Von meinem iPad gesendet
