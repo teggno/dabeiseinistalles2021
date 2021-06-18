@@ -1,6 +1,6 @@
 ---
 title: Rangliste
-date: 2021-06-17T20:36:57.857Z
+date: 2021-06-18T19:58:44.771Z
 image: ""
 showPlaceholder: true
 placeholder: |+2
@@ -12,12 +12,11 @@ song:
   url: https://www.youtube.com/watch?v=Nqp2stVMVjM
   image: img/jukebox.jpg
   description: >
-    Schottenröcke chancenlos! Bin ich froh, muss ich in Sachen Musik nicht auf
-    die Dudelsäcke zurückgreifen. Da nehm ich lieber ihn 👅 unter Vertrag. 78
-    Lenze auf dem Buckel und immer noch lauf- und lautstark wie eh und je. Wenn
-    er die Bühne betritt, fliegen die Fetzen und die Zündschnur 🧨 brennt. Leg
-    los Mick, schliesslich  ist Freitagabend 😎 und wir dürfen endlich wieder
-    aus uns heraus 🥳 
+    Bescheiden was uns da geboten wird. Da dürfen wir von unserem Irrwisch 👅
+    einiges mehr erwarten. 78 Lenze auf dem Buckel und immer noch lauf- und
+    lautstark wie eh und je. Wenn er die Bühne betritt, fliegen die Fetzen und
+    die Zündschnur 🧨 brennt. Leg los Mick, schliesslich  ist Freitagabend 😎
+    und wir dürfen endlich wieder aus uns heraus 💃🏽🕺🏾
 
 
     Von meinem iPad gesendet
