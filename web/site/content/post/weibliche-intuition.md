@@ -1,7 +1,7 @@
 ---
 title: "Weibliche Intuition "
-draft: true
-date: 2021-06-18T05:54:36.078Z
+draft: false
+date: 2021-06-18T06:39:43.202Z
 image: img/7ada683b-fc6e-4e20-b2a5-d15e367042c2.jpeg
 ---
 Das erste Mal - vergisst man nie! Möglicherweise hat er die ganze Nacht nicht geschlafen. Vor lauter Aufregung ist er immer wieder aufgewacht und hat sich schweissgebadet gefragt: „Bin i jetz dä bescht - oder hat sie mir ein anderer weggeschnappt?“  Ich kann dich beruhigen Severin, du bist die neue Nr. 1. Ich alleine weiss, wieviele Stunden du geopfert hast, um einmal im Leben dazustehen wo du jetzt bist. Geniesse es, wer weiss wie lange Göttin Fortuna nur Augen für dich hat. Ich hege grosse Befürchtungen, dass sie sich je länger je mehr dem weiblichen Geschlecht hingezogen fühlt.
