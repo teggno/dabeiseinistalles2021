@@ -12,11 +12,11 @@ song:
   url: https://www.youtube.com/watch?v=Nqp2stVMVjM
   image: img/jukebox.jpg
   description: >
-    Bescheiden was uns da geboten wird. Da dürfen wir von unserem Irrwisch 👅
-    einiges mehr erwarten. 78 Lenze auf dem Buckel und immer noch lauf- und
-    lautstark wie eh und je. Wenn er die Bühne betritt, fliegen die Fetzen und
-    die Zündschnur 🧨 brennt. Leg los Mick🕺🏾 schliesslich  ist Freitagabend 😎
-    und wir dürfen endlich wieder aus uns heraus 
+    Bescheiden was uns da geboten wird. Zum Glück haben wir einen Joker in der
+    Rückhand. Der Irrwisch 👅  mit 78 Lenzen auf dem Buckel und immer noch lauf-
+    und lautstark wie eh und je. Wenn er die Bühne betritt, fliegen die Fetzen
+    und die Zündschnur 🧨 brennt. Leg los Mick🕺🏾 schliesslich  ist
+    Freitagabend 😎 und wir dürfen endlich wieder aus uns heraus 
 
 
     Von meinem iPad gesendet
