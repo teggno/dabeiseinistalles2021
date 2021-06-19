@@ -8,17 +8,9 @@ placeholder: |+2
 
 
 song:
-  title: RAFFI‘S BEST OF - Rolling Stones - Start me up
-  url: https://www.youtube.com/watch?v=Nqp2stVMVjM
+  title: RAFFI‘S BEST OF - Appuntamento alle ore 23 🎉
+  url: ""
   image: img/jukebox.jpg
-  description: >+
-    Sehr sehr bescheiden was uns da von England geboten wurde. Zum Glück haben
-    wir einen Riesen-Joker🃏in der Rückhand. Der Irrwisch 👅  mit 78 Lenzen auf
-    dem Buckel ist immer noch lauf- und lautstark wie eh und je. Wenn er die
-    Bühne betritt, fliegen die Fetzen und die Zündschnur 🧨 brennt. Leg los
-    Mick🕺🏾sonst schlafen wir noch ein. Schliesslich ist Freitagabend 😎 und
-    wir dürfen endlich wieder aus uns heraus.
-
-
+  description: "\n\n\n"
 type: rangliste
 ---
