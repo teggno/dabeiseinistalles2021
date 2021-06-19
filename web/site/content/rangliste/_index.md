@@ -15,7 +15,7 @@ song:
     Mit ein bisschen mehr Vertrauen in ihr Land wäre es IHR Tag gewesen. Doch
     Rolf tat das was wir Männer immer tun. Im falschen Moment auf unsere Frauen
     hören. Nach dieser glanzvollen Vorstellung ist Deutschland zurück im
-    Geschäft. Für alle, die Germania auch in den dunkelsten Stunden immer treu
+    Geschäft. Für alle, die Germania auch in den dunkelsten Stunden treu
     geblieben sind und speziell für Antonia+Rolf, die diesen Song auf ihrem
     Wunschzettel haben.....
 
