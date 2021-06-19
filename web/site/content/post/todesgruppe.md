@@ -1,7 +1,7 @@
 ---
 title: "Über die Bücher 📚 "
 draft: true
-date: 2021-06-18T08:45:30.554Z
+date: 2021-06-19T06:45:42.578Z
 image: img/c860a07a-cb67-4d10-9c5d-4290a91ab3c6.jpeg
 ---
 Seit Philipp Lahm-Zeiten hat 🇩🇪 keinen valablen Aussenverteidiger hervorgebracht. Seit Miro Klose-Zeiten weiss 🇩🇪 nicht mehr, wie ein richtiger Mittelstürmer aussieht. Da muss sich eine grosse Fussballnation die Frage gefallen lassen, was läuft hier eigentlich falsch. Die Lösung lag ja auf der Hand 🤫 nur hatte das Einbürgerungsamt etwas dagegen. Davies, Hernnandez, Pavard und Lewandowski war die deutsche Staatsbürgerschaft zu wenig 💶 wert. Somit bleibt nichts anderes übrig, als Kimmich umzupolen und vorne mit der „falso nueve„ den Erfolg zu suchen. Gegen Portugal müsste das reichen, die sind vorne noch schlimmer dran und spielen mit einem „Pensionierten“. Wenn Hummels den Ball nicht schon wieder mit dem Schienbein spielt, in den Tägerwiler-Veteranen bist du für ein solches Vergehen ausgewechselt worden, hat 🇩🇪 die 3 Punkte im Sack 🥳. 
