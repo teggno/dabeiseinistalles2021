@@ -8,9 +8,16 @@ placeholder: |+2
 
 
 song:
-  title: RAFFI‘S BEST OF - Appuntamento alle ore 23 🎉
-  url: ""
+  title: RAFFI‘S BEST OF - Die Toten Hosen - Tage wie diese
+  url: https://www.youtube.com/watch?v=j09hpp3AxIE
   image: img/jukebox.jpg
-  description: "\n\n\n"
+  description: >+
+    Mit ein bisschen mehr Vertrauen in ihr Land wäre es IHR Tag gewesen. Doch
+    Rolf tat das was wir Männer immer tun. Im falschen Moment auf unsere Frauen
+    hören. Nach dieser glanzvollen Vorstellung ist Deutschland zurück im
+    Geschäft. Für alle, die Germany auf de Rechnung haben und speziell für
+    Antonia+Rolf, die diesen Song auf ihrer Wunschliste hatten.....
+
+
 type: rangliste
 ---
