@@ -4,7 +4,7 @@ date: 2021-06-20T18:04:30.225Z
 image: ""
 showPlaceholder: false
 placeholder: |+2
-   Demnächst zurück 🛵 Heute gibt’s die Tabelle schon kurz nach 8
+   Demnächst zurück - Heute gibt’s die Tabelle schon kurz nach 8
 
 
 song:
