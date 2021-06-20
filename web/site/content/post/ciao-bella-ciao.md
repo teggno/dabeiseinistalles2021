@@ -1,5 +1,5 @@
 ---
-title: "Äs Päckli "
+title: "Äs Päckli i dä Poscht "
 draft: true
 date: 2021-06-20T08:56:54.063Z
 image: img/6a5409eb-015d-480c-83a1-5f1f273117c8.jpeg
