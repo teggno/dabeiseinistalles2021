@@ -8,12 +8,12 @@ Seit meiner frühesten Kindheit habe ich gelernt, dass „Lüüt usäm Nordä ga
 
 Fallbeispiel 1! Die Gruppe B. Sie scheint mir für äs Päckli am Wenigsten geeignet.
 
-Fallbeispiel 2! Die Gruppe C. Österreich-Ukraine. Das spielt geht dummerweise Unentschieden aus. Beide Teams schliessen bei 4´Punkten. Torverhältnis +/-0. CH bei -1.
+Fallbeispiel 2! Die Gruppe C. Österreich-Ukraine. Die Partie geht, wie es der Zufall so will, Unentschieden aus. Beide Teams schliessen bei 4 Punkten. Torverhältnis +/-0. Die CH ist bei -1.
 
 Fallbeispiel 3! Die Gruppe D. England-Tschechien Unentschieden beide bei 5. Kroatien-Schottland 1:0. Die Kroaten Gruppendritte mit 4 Punkten, Torverhältnis +/-0. 
 
 Fallbeispiel 4! Die  Gruppe E! Polen schlägt Schweden 1:0, Spanien schlägt die Slowakei. Spanien 5, Polen 4, Schweden 4, Polen+Schweden Torverhältnis +/-0
 
-Fallbeispiel 5! Die Gruppe F. Deutschland schlägt Ungarn, Frankreich und Portugal spielen Unentschieden. Deutschland 6, Frankreich 5, Portugal 4, Portugal Torverhältnis +1
+Fallbeispiel 5! Die Gruppe F. Deutschland schlägt Ungarn, Frankreich und Portugal spielen Unentschieden. Deutschland 6, Frankreich 5, Portugal 4.  Torverhältnis der Portugiesen  +1.
 
-Fazit: Die Gruppendritten aus A+B sind draussen. Weil aber viele Mannschaften aus dem Norden in die Angelegenheit involviert sind ......wird so än Chrampf ganz beschtimmt nöd passiära......😎
+Fazit: Die Gruppendritten aus A+B wären draussen. Weil aber viele Teams aus dem Norden in die Angelegenheit involviert sind ......wird so än Chrampf ganz beschtimmt nöd passiära......😎....oder etwa doch 🤭
