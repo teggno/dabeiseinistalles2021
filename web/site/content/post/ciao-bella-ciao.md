@@ -1,5 +1,5 @@
 ---
-title: "Ciao Bella  👋🏽 "
+title: Ciao Bella 🇨🇭
 draft: true
 date: 2021-06-20T08:56:54.063Z
 image: img/1b9c47da-3001-4e0b-8e76-1fb6bd99c1c5.webp
