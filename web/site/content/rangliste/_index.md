@@ -8,7 +8,7 @@ placeholder: |+2
 
 
 song:
-  title: RAFFI‘S BEST OF - Appuntamento ausnahmsweise um 20 Uhr 🎉🇨🇭 🇮🇹 🥳
+  title: RAFFI‘S BEST OF - Katja Ebstein - Wunder gibt es immer wieder
   url: https://www.youtube.com/watch?v=veEHPthI3kY
   image: img/jukebox.jpg
   description: >+
