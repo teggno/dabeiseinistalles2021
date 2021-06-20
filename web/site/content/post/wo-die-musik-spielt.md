@@ -1,5 +1,5 @@
 ---
-title: "Do schpilt  d‘Musig "
+title: "Kurzes Resümee "
 draft: true
 date: 2021-06-19T22:09:47.761Z
 image: img/5c24a172-a271-419d-90f3-1c195c035f00.jpeg
