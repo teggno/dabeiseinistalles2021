@@ -1,6 +1,6 @@
 ---
 title: Do schpilt d‘Musig
-draft: true
+draft: false
 date: 2021-06-19T22:09:47.761Z
 image: img/8c81d5ac-4e40-4b45-89f0-9833f3b1416e.jpeg
 ---
