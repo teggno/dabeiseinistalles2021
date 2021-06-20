@@ -11,13 +11,6 @@ song:
   title: RAFFI‘S BEST OF - Katja Ebstein - Wunder gibt es immer wieder
   url: https://www.youtube.com/watch?v=veEHPthI3kY
   image: img/jukebox.jpg
-  description: >+
-    Reicht es oder reicht es nicht?  Ich lege mich fest und sage  sie im Mai
-    1970 am Eurovision de la Chanson diesen Schlager zum Besten gab die Herzen
-    pubertierender Jungs eroberte, hätte niemand nur einen Pfennig darauf
-    gewettet, dass sie 50 Jahre später mit ihrem Remake eine ganze Nation von
-    „Lourdes-Pilgern“ vereinen würde. Was für ein historischer Moment.
-
-
+  description: "\n\n\n"
 type: rangliste
 ---
