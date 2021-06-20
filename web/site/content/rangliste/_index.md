@@ -1,8 +1,8 @@
 ---
 title: Rangliste
-date: 2021-06-20T18:04:30.225Z
+date: 2021-06-20T18:07:29.530Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: |+2
    Demnächst zurück - Heute gibt’s die Tabelle schon kurz nach 8
 
