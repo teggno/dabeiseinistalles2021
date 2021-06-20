@@ -11,6 +11,13 @@ song:
   title: RAFFI‘S BEST OF - Katja Ebstein - Wunder gibt es immer wieder
   url: https://www.youtube.com/watch?v=veEHPthI3kY
   image: img/jukebox.jpg
-  description: "\n\n\n"
+  description: >+
+    Wir „italiani“ freuen 🥳 uns mit euch. 🍀wunschtelegramme versenden wir
+    erst, wenn die Sache in trockenen Tüchern ist. Ich habe schon die
+    unglaublichsten „Päckli“ erlebt. 2004 Dänemark-Schweden. Mit einem 2:2 waren
+    beide weiter. Und so kam es dann auch. Für wägä Chrämpf  machäd nu diä 🍕.
+    Das Schicksal der Schweiz liegt in anderen Händen. Hier lauert die Gefahr.
+
+
 type: rangliste
 ---
