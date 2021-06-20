@@ -1,7 +1,7 @@
 ---
 title: Do schpilt d‘Musig
 draft: false
-date: 2021-06-19T22:09:47.761Z
+date: 2021-06-20T07:34:38.637Z
 image: img/8c81d5ac-4e40-4b45-89f0-9833f3b1416e.jpeg
 ---
 Tage wie diese❗️Deutschland hatte sie nötiger denn je. Unter der Leitung ihres neuen Aushängeschilds Robin Gosens, der den Schreiberling nur wenige Stunden nach seinem „Verriss“ Lügen strafte, bringen die Deutschen den Titelverteidiger Portugal in die Bredouille. Trotz Topskorer Ronaldo, der sich mit dem tschechischen „Nobody“ Schick die Krone teilt. Erste Durchhänger bei England+Frankreich, wo die hochgehandelten Kane+Mbappé nach wie vor auf dem Trockenen sitzen. Spanien sucht verzweifelt nach sich selbst. Luis Enrique’s Verzicht auf gestandene Grössen könnte zum Bumerang werden. Belgien erfüllt gerade mal sein Soll. Die roten Teufel hängen stark am Tropfen von Lukaku und De Bruyne. Für die Glanzpunkte des enttäuschenden Turniers, das in erster Linie von der Spannung lebt, sorgen farbenfrohe 🍊und 💙-erfrischende Italiener. Trotz Beihilfe aus dem Paradies stehen die Eidgenossen heute Abend vor dem Eingang zur Hölle. Sind die blonden Engel zum Kampf gegen die ewige Verdammnis bereit?
