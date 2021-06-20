@@ -15,9 +15,10 @@ song:
     Wir „italiani“ freuen 🥳 uns mit euch. 🍀wunschtelegramme versenden wir
     erst, wenn die Sache in trockenen Tüchern ist. Ich habe schon die
     unglaublichsten „Päckli“ erlebt. 2004 Dänemark-Schweden. Mit einem 2:2 waren
-    beide weiter. Und so kam es dann auch. Italien war draussen. „Fu wägä so
-    Chrämpf  machäd nu diä 🍕.“ Das Schicksal der Schweiz liegt in anderen
-    Händen. Von dort lauert die Gefahr.
+    beide weiter. Und so kam es dann auch. Italien war draussen. Mir hatten sie
+    immer erzählt, Leute aus dem Norden „machäd kai sottigi Chrämpf“. Seither
+    glaub ich an nichts mehr. Das Schicksal der Schweiz liegt in anderen Händen.
+    Von dort lauert die Gefahr.
 
 
 type: rangliste
