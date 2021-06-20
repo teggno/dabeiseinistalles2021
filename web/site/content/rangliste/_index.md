@@ -8,7 +8,7 @@ placeholder: |+2
 
 
 song:
-  title: RAFFI‘S BEST OF - Appuntamento ausnahmsweise um 20 Uhr 🎉
+  title: RAFFI‘S BEST OF - Appuntamento ausnahmsweise um 20 Uhr 🎉🇨🇭 🇮🇹 🥳
   url: ""
   image: img/jukebox.jpg
   description: "\n\n\n"
