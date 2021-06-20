@@ -1,8 +1,8 @@
 ---
-title: "Fallbeispiele "
+title: "Äs Päckli "
 draft: true
 date: 2021-06-20T08:56:54.063Z
-image: ""
+image: img/6a5409eb-015d-480c-83a1-5f1f273117c8.jpeg
 ---
 Seit meiner frühesten Kindheit habe ich gelernt, dass „Lüüt usäm Nordä mit Chrämpf nüt am Huät händ.“ Und weiter, „so öppis machäd nur d’Italienär. Ich habe dass so oft gehört, bis ich es am Ende geglaubt hab. Dann kam das Jahr 2004. EM in Portugal. Die Schweden und Dänen brauchen im letzten Vorrundenspiel ein 2:2 um weiterzukommen. Wie es der Teufel will, schaffen es die beiden, obwohl auf 2:2 spielen gar nicht soneinfach ist. Egal,Italien war raus. Die Nordländer hatten sich stillschweigend uf äs Päckli geeinigt. Seither verlasse ich mich nur noch auf mich. Mit anderen Worten, ich mache es nicht so wie die Schweiz und lege mein Schicksal in fremde Hände. Wie beschrieben können die unglaublichs Dinge passieren.
 
