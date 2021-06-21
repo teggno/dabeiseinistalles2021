@@ -2,15 +2,22 @@
 title: Rangliste
 date: 2021-06-20T18:07:29.530Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: |+2
-   In wenigen Augenblicken geht’s weiter 
+   Bis gleich 😎
 
 
 song:
   title: RAFFI‘S BEST OF - Appuntamento alle ore 23 🎉
-  url: ""
+  url: https://www.youtube.com/watch?v=hBPUundF1dA
   image: img/jukebox.jpg
-  description: "\n\n\n"
+  description: >+
+    Darf ich bitten 💃🏽🕺🏾❗️Lange Ballkleider für die Damen sind Pflicht!
+    Herren müssen in „Schale“ aufmarschieren. Tanzbanausen bleiben draussen.
+    Walzerkönigin Michaela ist nach der Qualifikation ihrer Austria-Boys
+    dermassen happy, dass sie ihren „Ballerino“ KP auf die Fläche schleppt. Auf
+    zum 3/4 Takt. Euch gehört die Bühne.
+
+
 type: rangliste
 ---
