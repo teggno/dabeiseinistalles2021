@@ -12,7 +12,7 @@ Fallbeispiel 1! Die Gruppe B. Sie scheint mir für äs Päckli ungeeignet zu sei
 
 Fallbeispiel 2! Die Gruppe C. Österreich-Ukraine. Die Partie geht, wie es der Zufall so will, Unentschieden aus. Beide Teams schliessen bei 4 Punkten. Torverhältnis +/-0. Zur Information die CH ist bei -1.
 
-Fallbeispiel 3! Die Gruppe D. England-Tschechien 2:0 Kroatien-Schottland 1:0. England 7, Die Tschechen und Kroaten je  4, beide Torverhältnis +/-0. 
+Fallbeispiel 3! Die Gruppe D. England-Tschechien 2:0 Kroatien-Schottland 1:0. England 7, die Tschechen und Kroaten je  4, beide Torverhältnis +/-0. 
 
 Fallbeispiel 4! Die  Gruppe E! Polen schlägt Schweden 1:0, Spanien schlägt die Slowakei. Spanien 5, Polen 4, Schweden 4, Polen+Schweden Torverhältnis +/-0
 
