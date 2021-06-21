@@ -16,7 +16,7 @@ song:
     Herren müssen in „Schale“ aufmarschieren. Tanzbanausen bleiben draussen.
     Walzerkönigin Michaela ist nach der Qualifikation ihrer Austria-Boys
     dermassen happy, dass sie ihren „Ballerino“ KP auf die Fläche schleppt. Auf
-    zum 3/4 Takt. Euch gehört die Bühne.
+    zum 3/4 Takt, die Bühne gehört euch.
 
 
 type: rangliste
