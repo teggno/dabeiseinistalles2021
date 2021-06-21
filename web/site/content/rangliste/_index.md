@@ -8,7 +8,7 @@ placeholder: |+2
 
 
 song:
-  title: RAFFI‘S BEST OF - Appuntamento alle ore 23 🎉
+  title: RAFFI‘S BEST OF - Johann Strauss - Donauwalzer
   url: https://www.youtube.com/watch?v=hBPUundF1dA
   image: img/jukebox.jpg
   description: >+
