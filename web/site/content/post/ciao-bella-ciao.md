@@ -18,4 +18,4 @@ Fallbeispiel 4! Die  Gruppe E! Polen schlägt Schweden 1:0, Spanien schlägt die
 
 Fallbeispiel 5! Die Gruppe F. Deutschland schlägt Ungarn, Frankreich und Portugal spielen Unentschieden. Deutschland 6, Frankreich 5, Portugal 4.  Torverhältnis der Portugiesen  +1.
 
-Fazit: Die Gruppendritten aus A+B wären draussen. All diese Zufälle zusammen, werden selbstverständlich nicht passieren. Viel zu viele Teams aus dem Norden sind in die Angelegenheit involviert. 😎 Und diä machäd sottigi chrummä Sachä ganz beschtimmt nöd 🤭
+Fazit: Die Gruppendritten aus A+B wären draussen. All diese Zufälle zusammen, werden selbstverständlich nicht passieren. Viel zu viele Teams aus dem Norden sind in die Angelegenheit involviert. 😎 Und diä machäd sottigi chrummä Sachä ganz beschtimmt nöd 🤭. Ich hoffe es für euch, liebe Brüder und Schwestern. Nicht dass am Ende Katja Ebstein noch Recht bekommt. „Wunder gibt es immer wieder“ möchte ich nicht noch einmal spielen.
