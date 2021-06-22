@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-06-22T19:59:17.034Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: |+2
    Bis gleich 😎
 
