@@ -1,6 +1,6 @@
 ---
 title: Schmusekurs
-draft: true
+draft: false
 date: 2021-06-22T04:14:46.666Z
 image: img/30fc572a-69d2-4494-a4b1-1f059fddcddc.jpeg
 ---
