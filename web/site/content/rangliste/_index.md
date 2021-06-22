@@ -12,12 +12,12 @@ song:
   url: https://www.youtube.com/watch?v=NHdG_aSgFkU
   image: img/jukebox.jpg
   description: >+
-    Ob ich will oder nicht - nach diesem kroatischen Abgesang muss ich sie
-    spielen 🙈 „Wiä gsait Zeljko“, alles auf deine Gefahr⚠️. Obwohl ich sehr gut
-    nachvollziehen kann, dass man sich um diese Uhrzeit im Flüsterton
-    miteinander bespricht, verstehe ich nicht ganz was sie sagen will 🤷‍♀️„Du
-    Tarzan 😎 ich Jane... Das ist doch nicht etwa DIE aus dem Urwald 🌴mein
-    Freund .....🥸......Serge was machst du denn da
+    Ob ich will oder nicht - nach diesem kroatischen Höhenflug muss ich sie
+    spielen. Mein Kumpel besteht darauf „Abär wiä gsait Zeljko“, alles auf deine
+    Gefahr⚠️. Obwohl ich sehr gut nachvollziehen kann, dass man sich um diese
+    Uhrzeit im Flüsterton miteinander bespricht, verstehe ich nicht ganz was sie
+    sagen will 🤷‍♀️„Du Tarzan 😎 ich Jane... Das ist doch nicht etwa DIE aus
+    dem Urwald 🌴mein Freund .....🥸......Serge was machst du denn da
 
 
 type: rangliste
