@@ -1,0 +1,7 @@
+---
+title: Ab
+draft: true
+date: 2021-06-22T04:14:46.666Z
+image: img/496d9598-0e90-4595-b376-60a31a36202b.jpeg
+---
+Strich darunter - seid dankbar für die Fristverlängerung - es ist noch einmal gutgegangen. Macht Frieden mit euch selbst, schliesst sie ein in euer Herz, die Balkankinder“ Shaqiri, Xhaka und Severovic, die „schwarzen Medizinmänner“ Mbabu, Akanji, Embolo und Zaccaria auch wenn sie nach unzähligen Anläufen immer noch nicht wissen, wie man seinem Vaterland gelobt. Bedenkt auch dass ihr mit den „Reinrassigen“ allein, nicht da wärt wo ihr seid.
