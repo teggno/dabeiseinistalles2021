@@ -8,17 +8,9 @@ placeholder: |+2
 
 
 song:
-  title: RAFFI‘S BEST OF - Was machst du denn da.....Serge.....🤭
-  url: https://www.youtube.com/watch?v=NHdG_aSgFkU
+  title: RAFFI‘S BEST OF - Appuntamento alle ore 23 🎉
+  url: ""
   image: img/jukebox.jpg
-  description: >+
-    Ob ich will oder nicht - nach diesem kroatischen Höhenflug muss ich sie
-    spielen. Mein Kumpel besteht darauf „Abär wiä gsait Zeljko“, auf deine
-    Gefahr⚠️. Obwohl ich sehr gut nachvollziehen kann, dass man sich um diese
-    Uhrzeit im Flüsterton miteinander bespricht, verstehe ich nicht ganz was sie
-    sagen will. „Du Tarzan 😎 ich Jane... Das ist doch nicht etwa die
-    entzückende Dame aus dem Urwald 🌴 mein Freund 🤫
-
-
+  description: "\n\n\n"
 type: rangliste
 ---
