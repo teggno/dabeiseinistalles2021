@@ -16,7 +16,7 @@ song:
     Caliente“ gehört zum Ambiente einfach dazu. Ein anständiger „Margarita on
     the Rocks“ 🍸 gemixt von unserer Liebsten darf natürlich auch nicht fehlen.
     Für das Knistern auf der Tanzfläche sorgt hingegen der Mann, der in die
-    Saiten 🎸greift  wie kaum ein anderer. „Please welcome“ den Altmeister des
+    Saiten 🎸greift  wie kaum ein anderer. Hier ist der Altmeister des
     Latino-Rock..... Mister Carlos....
 
 
