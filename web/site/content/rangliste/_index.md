@@ -8,19 +8,9 @@ placeholder: |+2
 
 
 song:
-  title: "RAFFI‘S BEST OF - Santana - Smooth "
-  url: https://www.youtube.com/watch?v=6Whgn_iE5uc
+  title: "RAFFI‘S BEST OF - Appuntamento: sabato ore 23 🎉"
+  url: ""
   image: img/jukebox.jpg
-  description: >+
-    Bienvenido Espana 🇪🇸 - Bem-vindo Portugal 🇵🇹! Ein Touch „Latino 🔥
-    Caliente“ gehört zum Ambiente einfach dazu. Ein anständiger „Margarita on
-    the Rocks“ 🍸 gemixt von unserer Liebsten darf natürlich auch nicht fehlen.
-    Für das Knistern auf der Tanzfläche sorgt hingegen der Mann, der in die
-    Saiten 🎸greift  wie kaum ein anderer. Hier ist der Altmeister des
-    Latino-Rock..... Mister Carlos....
-
-
-
-
+  description: "\n\n\n\n\n"
 type: rangliste
 ---
