@@ -1,5 +1,5 @@
 ---
-title: Gerechtigkeit❓
+title: Gerechtigkeit
 draft: true
 date: 2021-06-24T05:01:38.907Z
 image: img/03e90e94-5337-4d96-b784-fd3388673b2c.jpeg
