@@ -1,5 +1,5 @@
 ---
-title: Was ist Gerechtigkeit🧎🏽‍♂️
+title: Was ist Gerechtigkeit?
 draft: true
 date: 2021-06-24T05:01:38.907Z
 ---
