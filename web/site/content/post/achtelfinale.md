@@ -2,6 +2,7 @@
 title: "Achtelfinale "
 draft: true
 date: 2021-06-24T09:14:26.013Z
+image: img/d1cfedcc-458e-4f5c-9147-bda9169d7f3f.jpeg
 ---
 Wales - Dänemark Tipp 2 ⚽️ Italien-Österreich Tipp 1
 
