@@ -1,7 +1,7 @@
 ---
 title: Da
 draft: true
-date: 2021-06-23T07:57:26.526Z
+date: 2021-06-24T05:01:38.907Z
 ---
 Sandor Nagy - geb. am 23. Juni 1922 - wohnhaft in Budapest! Gestern wurde der Mann 99 Jahre alt. Damals an jenem geschichtsträchtigen 4. Juli 1954, sass er vor dem Radio und fieberte mit seinen Lieblingen mit. Zur Pause lagen sie durch Tore von Czibor und Puskas 2:0 in Führung. 45 Minuten später war er ein gebrochener Mann! Morlock und Rahn hatten das Spiel gedreht. Das Wunder von Bern war geboren.  Er hat es nie überwunden. Genauso wie der damalige Trainer Sebes, der auf dem Sterbebett gesagt haben soll: Wir haben verloren.
 
