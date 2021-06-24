@@ -6,9 +6,9 @@ image: img/d1cfedcc-458e-4f5c-9147-bda9169d7f3f.jpeg
 ---
 Sie sehen dich an und wissen gleich was mit dir los ist. Wenn du ihnen die Hände hinstreckst, bist du schon fast halbtot. Sie machen Mut und erzeugen Unwohlsein. Ihre Aura ist voller Magie. Bereits vor der EM hatte ich sie zu einem Smalltalk eingeladen. Wenn ich jetzt über die Bücher 📚 gehe, stelle ich mit Schrecken fest, dass sie die Hälfte ihrer Prognosen verfehlt hat 🙈. Du brauchst die Hände nicht vor dem Gesicht zusammenschlagen, ich habe alles schwarz auf weiss. Damit du mir nicht in Trübsal verfällst, will ich dir eine zweite Chance geben. Die 77 🎈können dein Verdikt kaum erwarten.
 
-Wales - Dänemark Tipp 2 ⚽️ Italien-Österreich Tipp 1
+Wales - Dänemark Tipp 2 ⚽️ Italien - Österreich Tipp 1
 
-Niederlande-Tschechien Tipp 1 ⚽️ Belgien -Portugal Tipp 1
+Niederlande - Tschechien Tipp 1 ⚽️ Belgien - Portugal Tipp 1
 
 Kroatien - Spanien Tipp 2 ⚽️ Frankreich - Schweiz Tipp 2
 
