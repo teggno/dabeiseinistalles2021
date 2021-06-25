@@ -10,7 +10,7 @@ Wales - Dänemark Tipp 2  ⚽️  Italien - Österreich Tipp 1
 
 Niederlande - Tschechien Tipp 1  ⚽️  Belgien - Portugal Tipp 1
 
-Kroatien - Spanien Tipp 2 ⚽️ Frankreich - Schweiz Tipp 2
+Kroatien - Spanien Tipp 2 ⚽️ Frankreich - Schweiz Tipp 2 🤩
 
 England - Deutschland Tipp 1  ⚽️  Schweden - Ukraine Tipp 2
 
