@@ -2,9 +2,9 @@
 title: Rangliste
 date: 2021-06-23T20:57:11.362Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: |+2
-   Bis später 😎
+   Bis bald 😎
 
 
 song:
