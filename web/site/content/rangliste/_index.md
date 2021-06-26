@@ -8,7 +8,7 @@ placeholder: |+2
 
 
 song:
-  title: "RAFFI‘S BEST OF - Appuntamento: sabato ore 23 🎉"
+  title: RAFFI‘S BEST OF - https://www.youtube.com/watch?v=s3Nr-FoA9Ps
   url: ""
   image: img/jukebox.jpg
   description: "\n\n\n\n\n"
