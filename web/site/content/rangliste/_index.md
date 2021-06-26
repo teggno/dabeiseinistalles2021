@@ -8,9 +8,14 @@ placeholder: |+2
 
 
 song:
-  title: RAFFI‘S BEST OF - https://www.youtube.com/watch?v=s3Nr-FoA9Ps
-  url: ""
+  title: RAFFI‘S BEST OF - Sophia Loren - Mambo Italiano
+  url: https://www.youtube.com/watch?v=s3Nr-FoA9Ps
   image: img/jukebox.jpg
-  description: "\n\n\n\n\n"
+  description: |+
+    Übernimm du Sophia - ich bin mit den Nerven am Ende
+
+
+
+
 type: rangliste
 ---
