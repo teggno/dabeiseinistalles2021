@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-06-26T20:02:19.747Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: |+2
    Bis bald 😎
 
