@@ -1,5 +1,5 @@
 ---
-title: Zaubermaus
+title: Sch
 draft: true
 date: 2021-06-25T08:32:45.482Z
 image: img/d1cfedcc-458e-4f5c-9147-bda9169d7f3f.jpeg
