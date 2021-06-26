@@ -1,7 +1,7 @@
 ---
-title: Sch
+title: Träumereien
 draft: true
-date: 2021-06-25T08:32:45.482Z
+date: 2021-06-26T06:52:44.013Z
 image: img/d1cfedcc-458e-4f5c-9147-bda9169d7f3f.jpeg
 ---
 Sie schauen dich an und wissen gleich was mit dir los ist. Wenn sie dir aus der  Hand 🤚 lesen, bist du schon halbtot. Sie machen Mut und erzeugen Unwohlsein. Ihre Aura ist voller Magie. Bereits vor der EM hatte ich sie zu einem Smalltalk eingeladen. Wenn ich jetzt über die Bücher 📚 gehe, stelle ich mit Schrecken fest, dass sie die Hälfte ihrer Prognosen verfehlt hat 🙈. Du brauchst die Hände nicht vor dem Gesicht zusammenschlagen, ich habe alles schwarz auf weiss. Damit du mir nicht in Trübsal verfällst, will ich dir eine zweite Chance geben. Die 77 🎈können dein Verdikt kaum erwarten.
