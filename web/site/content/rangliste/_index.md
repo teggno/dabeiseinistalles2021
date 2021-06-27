@@ -1,8 +1,8 @@
 ---
 title: Rangliste
-date: 2021-06-27T03:49:25.026Z
+date: 2021-06-27T11:34:26.703Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: >+
   Wegen technischer Probleme erscheint die aktualisierte Rangliste etwas später.
   Italien-Urlauber kommen bestimmt noch rechtzeitig auf ihre Rechnung 🥲 😎
