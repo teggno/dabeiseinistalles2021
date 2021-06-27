@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: >+
   Wegen technischer Probleme erscheint die aktualisierte Rangliste etwas später.
-  Italien-Urlauber kommen bestimmt noch auf eure Rechnung 🥲 😎
+  Italien-Urlauber kommen bestimmt noch auf ihre Rechnung 🥲 😎
 
 
 song:
