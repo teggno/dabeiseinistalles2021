@@ -13,7 +13,7 @@ song:
   url: https://www.youtube.com/watch?v=s3Nr-FoA9Ps
   image: img/jukebox.jpg
   description: |+
-    Übernimm du Sophia - ich bin mit den Nerven am Ende
+    Übernimm du Sophia 💃🏽  ich bin mit den Nerven am Ende 😬
 
 
 
