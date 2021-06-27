@@ -2,7 +2,7 @@
 title: Das feine Näschen
 draft: true
 date: 2021-06-27T05:11:26.814Z
-image: img/0af1ffc7-a83d-446d-9a75-2634120a2054.jpeg
+image: img/4303f61b-fa41-4382-9675-37fb0152ec02.webp
 ---
 Rituale, wie einen Kreis bilden, sich an den Händen halten und „gömmär nomol“ in die Runde schreien, werden nie den Ausschlag für Sein oder Nichtsein geben. So einfach ist die Sache dann doch nicht. Sonst wären alle Motivationskünstler von vornherein ausgewiesene Trainer. Mancini ist kein Guru! Mancini hat aber, im Gegensatz zu vielen anderen seiner Zunft, ein goldenes Händchen. Er liest ein Spiel und antizipiert. Einen Schritt voraus zu sein ist in der heutigen Zeit, wo alle möglichen Hilfsmittel zur Verfügung stehen, ein wesentlicher Schlüssel zum Erfolg.
 
