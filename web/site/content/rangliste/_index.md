@@ -4,7 +4,7 @@ date: 2021-06-27T11:34:26.703Z
 image: ""
 showPlaceholder: true
 placeholder: |+
-  Die Spannung ⚡️ steigt von Minute zu Minute
+  Die Spannung ⚡️ steigt - von Minute zu Minute 🥸
 
 
 song:
