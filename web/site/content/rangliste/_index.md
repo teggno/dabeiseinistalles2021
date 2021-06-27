@@ -12,11 +12,11 @@ song:
   url: https://www.youtube.com/watch?v=1Cou35LP9wI
   image: img/jukebox.jpg
   description: >+
-    Ein himmeltrauriges Zubettgehen. Zwei unserer liebsten Begleiter haben sich
-    durch die Hintertür verabschiedet. ﻿Wenn die Dinge nicht so laufen wie du
-    willst, dann versuche nicht alles zu hinterfragen. Mit hätte - wäre - wenn,
-    machst du dich noch mehr kaputt. Manchmal ist es einfach so und du suchst
-    die Antwort vergebens. Nicht wahr, ihr drei Minnesänger, die ihr uns den
+    Ein trauriges Zubettgehen. Zwei unserer liebsten Begleiter haben sich durch
+    die Hintertür verabschiedet. ﻿Wenn die Dinge nicht so laufen wie du willst,
+    dann versuche nicht alles zu hinterfragen. Mit hätte - wäre - wenn, machst
+    du dich noch mehr kaputt. Manchmal ist es einfach so und du suchst die
+    Antwort vergebens. Nicht wahr, ihr drei Minnesänger, die ihr uns den
     Sachverhalt in wenigen Worten erklärt.
 
 type: rangliste
