@@ -3,7 +3,7 @@ title: Das war’s❗️
 draft: true
 date: 2021-06-04T09:46:08.675Z
 ---
-England ist Europameister! Über ein halbes Jahrhundert  haben die Pioniere des Fussballs auf den zweiten grossen Titel ihrer Geschichte warten müssen. Viele haben es geahnt! England war nach Frankreich der meistgenannte Kandidat. Das Tippspiel war ein voller Erfolg. In erster Linie dank meines Sohnes, der das Event in bekannter Manier gemanagt hat. An dieser Stelle nochmals vielen Dank Christian. 
+England ist Europameister! Über ein halbes Jahrhundert  haben die Pioniere des Fussballs auf den zweiten grossen Titel ihrer Geschichte warten müssen. Viele haben es geahnt! England war nach Frankreich der meistgenannte Kandidat. Unsere bunt zusammengewürfelte Truppe war ein voller Erfolg. Das Tippspiel blieb spannend bis zum Schluss. An dieser Stelle möchte ich mich nochmals ganz speziell bei meinem Sohn bedanken, der das Event in der bekannten Manier gemanagt hat 👏.
 
 Es war ein Kampf auf Biegen und Brechen. Schlussendlich haben Nuancen über die Vergabe der Logenplätze entschieden. Zuoberst auf dem Treppchen steht verdientermassen unser...mit der Kombination...Silber holt sich und Bronze geht an....Mit aller Kraft gewehrt und doch nicht drumherum gekommen, die tapferen Hüter der roten Laterne....
 
