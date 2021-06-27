@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-06-27T20:59:17.794Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: |+
   Die Spannung ⚡️ steigt - von Minute zu Minute 🥸
 
