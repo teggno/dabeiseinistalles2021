@@ -1,7 +1,7 @@
 ---
 title: " Kribbeln "
-draft: true
-date: 2021-06-28T03:16:27.576Z
+draft: false
+date: 2021-06-28T05:46:20.196Z
 image: img/217ff519-fea2-48cc-b83d-a6e0a15a136a.jpeg
 ---
 Polen 🇵🇱,  Österreich 🇦🇹, Niederlande 🇳🇱, Portugal 🇵🇹! Und wer ist bitteschön der Nächste? Kroatien 🇭🇷 wäre strategisch nicht so tragisch wie Spanien 🇪🇸. Obwohl, wenn ich an Ursina denke, kommen mir die Tränen 😭. Im Leben werden immer die falschen bestraft. Sie, die den unfehlbaren Ratschlägen von Nostradamus gefolgt war, mindestens einen Aussenseiter auf dem Zettel zu verewigen, sieht  die Hälfte ihrer Investition den Bach runtergehn. Manchmal sind es Nuancen. Mit Dänemark 🇩🇰 oder Tschechien 🇨🇿 hättest du vielleicht ein Vermögen gemacht. Einer der beiden ist jetzt schon im Halbfinale. Den Oranjes 🍊, die auf dem Papier 📝 den Panoramaweg nach „Wembley“ vor sich hatten, kann das nicht mehr passieren. Eine derartige 180 Grad-Wende habe ich selten erlebt. Wären wir noch in „Flower-Power-Zeiten“, hätte ich gleich „Marijuana“ als Ursache vermutet.
