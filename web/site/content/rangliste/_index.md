@@ -14,9 +14,9 @@ song:
   description: >+
     Ein trauriges Zubettgehen. Zwei unserer liebsten Begleiter haben sich durch
     die Hintertür verabschiedet. ﻿Wenn die Dinge nicht so laufen wie du willst,
-    dann versuche nicht alles zu hinterfragen. Mit hätte - wäre - wenn, machst
-    du dich noch mehr kaputt. Manchmal ist es einfach so und du suchst die
-    Antwort vergebens. 
+    dann versuche nicht alles zu hinterfragen. Mit hätte, wäre, wenn, machst du
+    dich noch mehr kaputt. Manchmal ist es einfach so und du suchst die Antwort
+    vergebens. Hör zu, was dir diese 3 Minnesänger zu berichten haben....
 
 type: rangliste
 ---
