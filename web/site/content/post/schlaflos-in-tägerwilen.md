@@ -1,0 +1,6 @@
+---
+title: "Schlaflos in Tägerwilen "
+draft: true
+date: 2021-06-28T03:16:27.576Z
+---
+Polen 🇵🇱,  Österreich 🇦🇹, Niederlande 🇳🇱, Portugal 🇵🇹! Und wer ist der Nächste? Kroatien 🇭🇷 wäre strategisch nicht so tragisch. Obwohl, wenn ich an Ursina denke, kommen mir die Tränen 😭. Im Leben werden immer die falschen belohnt. Sie, die den unfehlbaren Ratschlägen von Nostradamus gefolgt war, mindestens einen Aussenseiter auf dem Zettel zu verewigen, sieht jetzt die Hälfte ihrer Ersparnisse den Bach hinuntergehn. Manchmal sind es Nuancen. Mit Dänemark 🇩🇰 oder Tschechien 🇨🇿 hättest du vielleicht ein Vermögen gemacht, einer der beiden ist im Halbfinale. Den Oranjes 🍊, die auf dem Papier 📝 den Panoramaweg nach „Wembley“ vor sich hatten, kann das nicht mehr passieren. Eine derartige 180 Grad-Wende habe ich selten erlebt. Wären wir noch in der Flower-Power-Zeit, hätte ich gleich „Marijuana“ als Ursache vermutet.
