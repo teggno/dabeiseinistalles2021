@@ -15,8 +15,7 @@ song:
     England mit 1 3/4 Beinen im Final. Wenn nicht jetzt - wann dann? Löw +🇩🇪
     verabschieden sich still und leise., ohne dass jemand gemerkt hat, dass sie
     da waren. Wenn man den Absprung verpasst, verblasst auch der Glanz
-    vergangener Tage. Vielleicht weiss er, wie es weitergehen könnte. Hören wir
-    mal rein.
+    vergangener Tage. Es war einmal 🌚 die Fussballnation Deutschland 🏳️
 
 type: rangliste
 ---
