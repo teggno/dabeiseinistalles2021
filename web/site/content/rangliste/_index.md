@@ -12,10 +12,10 @@ song:
   url: https://www.youtube.com/watch?v=2s0-wbXC3pQ
   image: img/jukebox.jpg
   description: >+
-    England mit 1 3/4 Beinen im Final. Wenn nicht jetzt - wann dann? Löw +🇩🇪
-    verabschieden sich still und leise., ohne dass jemand gemerkt hat, dass sie
-    da waren. Wenn man den Absprung verpasst, verblasst auch der Glanz
-    vergangener Tage. Es war einmal 🌚 die Fussballnation Deutschland 🏳️
+    England mit 1 3/4 Beinen im Final. Wenn nicht jetzt - wann dann? Löw +
+    Deutschland verabschieden sich still und leise., ohne dass jemand gemerkt
+    hat, dass sie je da waren. Wenn man den Absprung verpasst, verblasst auch
+    der Glanz vergangener Tage. Es war einmal die Fussball-Grossmacht 🇩🇪 🥲
 
 type: rangliste
 ---
