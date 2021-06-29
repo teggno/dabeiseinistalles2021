@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-06-29T19:44:23.215Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: |+
   Noch einen weniger 🇩🇪 🥲 - Kurz nach 🕚 die Fakten 🥳
 
