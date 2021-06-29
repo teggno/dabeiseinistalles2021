@@ -8,15 +8,15 @@ placeholder: |+
 
 
 song:
-  title: "RAFFI‘S BEST OF - "
+  title: "RAFFI‘S BEST OF - Udo Lindenberg - Hinterm Horizont "
   url: ""
   image: img/jukebox.jpg
   description: >+
-    Die UEFA serviert die Vorspeise nach dem Hauptgang. Unbegreiflich!
-    Allerdings muss gesagt werden, dass dieses „Gourmet-Menu“ komplett verkocht
-    war. Enttäuschende Engländer schlagen noch enttäuschendere Deutsche und
-    stehen mit 1 3/4 Beinen im Final. Wenn es dieses Mal nicht klappt - wann
-    dann?
+    England mit 1 3/4 Beinen im Final. Wenn nicht jetzt - wann dann? Löw +🇩🇪
+    verabschieden sich still und leise., ohne dass jemand gemerkt hat, dass sie
+    da waren. Wenn man den Absprung verpasst, verblasst auch der Glanz
+    vergangener Tage. Vielleicht weiss er, wie es weitergehen könnte. Hören wir
+    mal rein.
 
 type: rangliste
 ---
