@@ -2,22 +2,21 @@
 title: Rangliste
 date: 2021-06-27T20:59:17.794Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: |+
-  Die Spannung ⚡️ steigt - von Minute zu Minute 🥸
+  Noch einen weniger 🇩🇪 🥲 - Kurz nach 🕚 die Fakten 🥳
 
 
 song:
-  title: RAFFI‘S BEST OF - Tina Turner - Simply the Best
-  url: https://www.youtube.com/watch?v=SvCyFHWBUlc
+  title: "RAFFI‘S BEST OF - "
+  url: ""
   image: img/jukebox.jpg
   description: >+
-    Unfassbar! Erstmals in ihrer Geschichte ist die Schweiz🇨🇭in einem
-    EM-Viertelfinal. Die Franzosen sind k.o.! Petkovic, Shaqiri, Huggel, Ruefer
-    und wie sie alle heissen, vereint unter einer „Traube“. Rollt ihn aus den
-    Roten Teppich, nur das Beste ist gut genug. Bier, Champagner, Küsschen 😘 da
-    und Küsschen 😘 dort. Die Nacht der Nächte. Und mittendrin diä schönschtä
-    bai 🦵😎🦵 vom bodäsee bis uf Genf .....
+    Die UEFA serviert die Vorspeise nach dem Hauptgang. Unbegreiflich!
+    Allerdings muss gesagt werden, dass dieses „Gourmet-Menu“ komplett verkocht
+    war. Enttäuschende Engländer schlagen noch enttäuschendere Deutsche und
+    stehen mit 1 3/4 Beinen im Final. Wenn es dieses Mal nicht klappt - wann
+    dann?
 
 type: rangliste
 ---
