@@ -14,8 +14,9 @@ song:
   description: >+
     England mit 1 3/4 Beinen im Final. Wenn nicht jetzt - wann dann? Löw +
     Deutschland verabschieden sich still und leise, ohne dass jemand gemerkt
-    hat, dass sie je da waren. Wenn man den Absprung verpasst, verblasst auch
-    der Glanz vergangener Tage. Es war einmal die Fussball-Grossmacht 🇩🇪 🥲
+    hat, dass sie je da waren. Wenn man wie Jogi den Absprung verpasst,
+    verblasst auch der Glanz vergangener Tage. Es war einmal die
+    Fussball-Grossmacht 🇩🇪 🥲
 
 type: rangliste
 ---
