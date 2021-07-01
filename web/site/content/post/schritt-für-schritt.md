@@ -1,5 +1,5 @@
 ---
-title: "Totenstille "
+title: "Pilgerfahrt "
 draft: true
 date: 2021-07-01T09:09:13.651Z
 image: img/0c251d80-97c1-44b3-ae4a-88f456b45b62.jpeg
