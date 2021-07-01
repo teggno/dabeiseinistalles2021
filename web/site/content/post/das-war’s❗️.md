@@ -4,7 +4,7 @@ draft: true
 date: 2021-06-04T09:46:08.675Z
 image: ""
 ---
-England ist Europameister! Über ein halbes Jahrhundert lang haben die Pioniere des Fussballs auf den zweiten grossen Titel ihrer Geschichte warten müssen. Viele haben es geahnt! Die Briten waren nach Frankreich der meistgenannte Kandidat. Vor Italien, Belgien, Deutschland, der Schweiz, Portugal, Polen und den Niederlanden. Spanien erhielt überraschend keine einzige Stimme. Die vom Volk präferierten Torschützen hiessen Fehlinvestition Mbappé, Spätzünder Kane und Langzeitwert Lukaku. Das Rennen machte schlussendlich Elfmetergarantie Ronaldo vor dem tschechischen Senkrechtstarter Schick.
+England ist Europameister! Über ein halbes Jahrhundert lang haben die Pioniere des Fussballs auf den zweiten grossen Titel ihrer Geschichte warten müssen. Viele haben es geahnt! Die Briten waren nach Frankreich der meistgenannte Kandidat. Vor Italien, Belgien, Deutschland, der Schweiz, Portugal, Polen und den Niederlanden. Spanien erhielt überraschend keine einzige Stimme. Die vom „Volk“ präferierten Torschützen hiessen Fehlinvestition Mbappé, Spätzünder Kane und Langzeitwert Lukaku. Das Rennen machte schlussendlich Elfmetergarantie Ronaldo vor dem tschechischen Senkrechtstarter Schick.
 
 Nuancen haben über die Vergabe der Logenplätze entschieden. Mit der Kombination......steht im Feld  zuoberst auf dem Treppchen. Mobby, herzliche Gratulation 🥂Silber holt sich und Bronze geht an....Mit aller Kraft dagegen gestemmt und doch nicht drumherum gekommen! Wenigstens wird das mühsame Schleppen der rotenLaterne mit einem Schluck „Traubensaft“ 🍷 versüsst.
 
