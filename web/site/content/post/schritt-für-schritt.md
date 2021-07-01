@@ -2,6 +2,7 @@
 title: "Totenstille "
 draft: true
 date: 2021-06-30T12:38:47.103Z
+image: img/0c251d80-97c1-44b3-ae4a-88f456b45b62.jpeg
 ---
 Nach der sensationellen Achtelfinal-Quote (7 von 8) die unsere Zaubermaus vollkommen rehabilitiert hat, schickt sie sich an, den Schleier rund um das Viertelfinale zu lüften. Immer wieder schön zu verfolgen, mit welchen Fingerfertigkeiten sie die Joker🃏vor unseren  Augen verschwinden lässt. Am Ende bleibt Ihr jedoch nichts anderes übrig, als „DIE 4“ auf den Tisch zu legen. Wir wollen nicht verheimlichen, dass uns ihre Konklusionen in einer Hinsicht in tiefe Depression versetzen. Am Tag, wo ein ganzes Land nach Lourdes getrampt ist, brennt uns eine Frage auf der Zunge: War diese Pilgerfahrt umsonst?
 
