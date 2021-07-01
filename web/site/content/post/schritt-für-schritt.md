@@ -2,7 +2,7 @@
 title: "Pilgerfahrt "
 draft: true
 date: 2021-07-01T09:09:13.651Z
-image: img/0c251d80-97c1-44b3-ae4a-88f456b45b62.jpeg
+image: img/1754d0ec-7f4a-4f6c-9f80-4a332ccb92fd.jpeg
 ---
 Ist denn schon wieder Lockdown, werde ich von einer charmanten Dame gefragt, die gerade ihre Wetten fürs Viertelfinale an unserem Stand platzieren will. Bereits Stunden vor den beiden Schicksalsspielen, herrscht auf dem Boulevard gähnende Leere. Bis auf ein paar Nachbarn von „drüben“, die in Trauerkleidung unterwegs sind, ist keine Seele da. Nach der sensationellen 7 aus 8 Prophezeiung hätte meine Zaubermaus eigentlich mehr Zuspruch verdient. Sei nicht nachtragend und schau nach vorn! Wetten, dass wenn du dieses Mal falsch liegen solltest, die Reklamationen nur so ins Haus flattern! Kritik ist leichter zu formulieren als Lob! Ein Phänomen, so alt wie die Menschheit selbst.
 
