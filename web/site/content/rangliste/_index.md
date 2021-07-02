@@ -12,6 +12,9 @@ song:
   title: "RAFFI‘S BEST OF -  Für die Ewigkeit "
   url: https://www.youtube.com/watch?v=e-6z5AYz8MQ
   image: img/jukebox.jpg
-  description: "\n\n"
+  description: >+
+    Mi dispiace - Liebe 🇨🇭 Kollegen - es hat nicht sollen sein. Als kleinen
+    Trost
+
 type: rangliste
 ---
