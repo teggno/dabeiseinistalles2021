@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n"
 song:
-  title: RAFFI‘S BEST OF -  Gianna Nannini  Edoardo Bennato un estate italiana
+  title: "RAFFI‘S BEST OF -  "
   url: ""
   image: img/jukebox.jpg
   description: "\n\n"
