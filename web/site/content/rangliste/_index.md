@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-07-02T21:09:55.133Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "\n\n\n"
 song:
   title: "RAFFI‘S BEST OF -  "
