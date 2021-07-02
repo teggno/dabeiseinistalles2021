@@ -1,99 +1,27 @@
 [
   {
     "bet": {
-      "lastName": "Padula",
-      "firstName": "Paolo",
+      "lastName": "Petrillo",
+      "firstName": "Renato",
       "team1": "Italien",
       "team2": "Frankreich",
       "team3": "Belgien",
-      "team4": "England",
+      "team4": "Spanien",
       "champion": "Frankreich",
       "player1": "Mbappé",
-      "player2": "Lukaku",
-      "player3": "Depay",
-      "player4": "Ronaldo",
+      "player2": "Lewandowski",
+      "player3": "Lukaku",
+      "player4": "Benzema",
       "topScorer": "Mbappé"
     },
     "points": {
-      "teamsPoints": 390,
-      "playersPoints": 100,
+      "teamsPoints": 430,
+      "playersPoints": 110,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 490
+      "totalPoints": 540
     },
     "rank": 1
-  },
-  {
-    "bet": {
-      "lastName": "Von Känel",
-      "firstName": "Peter",
-      "team1": "Belgien",
-      "team2": "England",
-      "team3": "Frankreich",
-      "team4": "Italien",
-      "champion": "England",
-      "player1": "Lewandowski",
-      "player2": "Kane",
-      "player3": "Mbappé",
-      "player4": "Ronaldo",
-      "topScorer": "Mbappé"
-    },
-    "points": {
-      "teamsPoints": 390,
-      "playersPoints": 90,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 480
-    },
-    "rank": 2
-  },
-  {
-    "bet": {
-      "lastName": "Sahli",
-      "firstName": "Mobby",
-      "team1": "England",
-      "team2": "Belgien",
-      "team3": "Spanien",
-      "team4": "Frankreich",
-      "champion": "England",
-      "player1": "Benzema",
-      "player2": "Lukaku",
-      "player3": "Ronaldo",
-      "player4": "Kane",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 350,
-      "playersPoints": 130,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 480
-    },
-    "rank": 2
-  },
-  {
-    "bet": {
-      "lastName": "Beneduce",
-      "firstName": "Fabio&Lella",
-      "team1": "Italien",
-      "team2": "England",
-      "team3": "Portugal",
-      "team4": "Belgien",
-      "champion": "Belgien",
-      "player1": "Ronaldo",
-      "player2": "Lukaku",
-      "player3": "Chiesa",
-      "player4": "Kane",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 380,
-      "playersPoints": 100,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 480
-    },
-    "rank": 2
   },
   {
     "bet": {
@@ -111,133 +39,85 @@
       "topScorer": "Kane"
     },
     "points": {
-      "teamsPoints": 390,
-      "playersPoints": 80,
+      "teamsPoints": 450,
+      "playersPoints": 90,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 470
+      "totalPoints": 540
     },
-    "rank": 5
+    "rank": 1
   },
   {
     "bet": {
-      "lastName": "Petrillo",
-      "firstName": "Renato",
+      "lastName": "Padula",
+      "firstName": "Paolo",
       "team1": "Italien",
       "team2": "Frankreich",
       "team3": "Belgien",
-      "team4": "Spanien",
+      "team4": "England",
       "champion": "Frankreich",
       "player1": "Mbappé",
-      "player2": "Lewandowski",
-      "player3": "Lukaku",
-      "player4": "Benzema",
+      "player2": "Lukaku",
+      "player3": "Depay",
+      "player4": "Ronaldo",
       "topScorer": "Mbappé"
     },
     "points": {
-      "teamsPoints": 370,
-      "playersPoints": 100,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 470
-    },
-    "rank": 5
-  },
-  {
-    "bet": {
-      "lastName": "Pilz",
-      "firstName": "Michaela+KP",
-      "team1": "Österreich",
-      "team2": "Deutschland",
-      "team3": "Italien",
-      "team4": "Belgien",
-      "champion": "Belgien",
-      "player1": "Lukaku",
-      "player2": "Kane",
-      "player3": "Lewandowski",
-      "player4": "Ronaldo",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 340,
-      "playersPoints": 120,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 460
-    },
-    "rank": 7
-  },
-  {
-    "bet": {
-      "lastName": "Colaci",
-      "firstName": "Nico",
-      "team1": "Italien",
-      "team2": "Spanien",
-      "team3": "England",
-      "team4": "Niederlande",
-      "champion": "Italien",
-      "player1": "Rebic",
-      "player2": "Benzema",
-      "player3": "Immobile",
-      "player4": "Mertens",
-      "topScorer": "Benzema"
-    },
-    "points": {
-      "teamsPoints": 390,
-      "playersPoints": 60,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 450
-    },
-    "rank": 8
-  },
-  {
-    "bet": {
-      "lastName": "Vallini-Bissoli",
-      "firstName": "Adriano+Olivia",
-      "team1": "Frankreich",
-      "team2": "Italien",
-      "team3": "Belgien",
-      "team4": "Deutschland",
-      "champion": "Frankreich",
-      "player1": "Ronaldo",
-      "player2": "Lewandowski",
-      "player3": "Lukaku",
-      "player4": "Burak Ylmaz",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 330,
+      "teamsPoints": 420,
       "playersPoints": 110,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 440
+      "totalPoints": 530
     },
-    "rank": 9
+    "rank": 3
   },
   {
     "bet": {
-      "lastName": "Berger",
-      "firstName": "Miro",
-      "team1": "Frankreich",
+      "lastName": "Beneduce",
+      "firstName": "Fabio&Lella",
+      "team1": "Italien",
       "team2": "England",
-      "team3": "Belgien",
-      "team4": "Niederlande",
-      "champion": "Frankreich",
-      "player1": "Morata",
-      "player2": "Kane",
-      "player3": "Lukaku",
-      "player4": "Depay",
-      "topScorer": "Depay"
+      "team3": "Portugal",
+      "team4": "Belgien",
+      "champion": "Belgien",
+      "player1": "Ronaldo",
+      "player2": "Lukaku",
+      "player3": "Chiesa",
+      "player4": "Kane",
+      "topScorer": "Lukaku"
     },
     "points": {
-      "teamsPoints": 360,
-      "playersPoints": 80,
+      "teamsPoints": 410,
+      "playersPoints": 110,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 440
+      "totalPoints": 520
     },
-    "rank": 9
+    "rank": 4
+  },
+  {
+    "bet": {
+      "lastName": "Sahli",
+      "firstName": "Mobby",
+      "team1": "England",
+      "team2": "Belgien",
+      "team3": "Spanien",
+      "team4": "Frankreich",
+      "champion": "England",
+      "player1": "Benzema",
+      "player2": "Lukaku",
+      "player3": "Ronaldo",
+      "player4": "Kane",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 380,
+      "playersPoints": 140,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 520
+    },
+    "rank": 4
   },
   {
     "bet": {
@@ -255,253 +135,61 @@
       "topScorer": "Mbappé"
     },
     "points": {
-      "teamsPoints": 370,
-      "playersPoints": 70,
+      "teamsPoints": 430,
+      "playersPoints": 80,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 440
+      "totalPoints": 510
     },
-    "rank": 9
+    "rank": 6
   },
   {
     "bet": {
-      "lastName": "Heitz",
-      "firstName": "Eva Maria+Markus",
-      "team1": "Frankreich",
+      "lastName": "Von Känel",
+      "firstName": "Peter",
+      "team1": "Belgien",
       "team2": "England",
-      "team3": "Spanien",
-      "team4": "Belgien",
-      "champion": "Frankreich",
-      "player1": "Mbappé",
-      "player2": "Lukaku",
-      "player3": "Kane",
+      "team3": "Frankreich",
+      "team4": "Italien",
+      "champion": "England",
+      "player1": "Lewandowski",
+      "player2": "Kane",
+      "player3": "Mbappé",
       "player4": "Ronaldo",
       "topScorer": "Mbappé"
     },
     "points": {
-      "teamsPoints": 350,
+      "teamsPoints": 420,
       "playersPoints": 90,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 440
+      "totalPoints": 510
     },
-    "rank": 9
+    "rank": 6
   },
   {
     "bet": {
-      "lastName": "Bissoli",
-      "firstName": "Benno+Coni",
-      "team1": "Schweiz",
-      "team2": "Frankreich",
-      "team3": "England",
-      "team4": "Italien",
-      "champion": "Italien",
-      "player1": "Griezmann",
-      "player2": "Ronaldo",
-      "player3": "Depay",
-      "player4": "Immobile",
-      "topScorer": "Immobile"
-    },
-    "points": {
-      "teamsPoints": 340,
-      "playersPoints": 100,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 440
-    },
-    "rank": 9
-  },
-  {
-    "bet": {
-      "lastName": "Brocca-Aschwanden",
-      "firstName": "Liana+Jan",
-      "team1": "England",
-      "team2": "Belgien",
-      "team3": "Italien",
-      "team4": "Deutschland",
-      "champion": "Italien",
-      "player1": "Ronaldo",
-      "player2": "Kane",
-      "player3": "Mbappé",
-      "player4": "Burak Ylmaz",
-      "topScorer": "Kane"
-    },
-    "points": {
-      "teamsPoints": 380,
-      "playersPoints": 60,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 440
-    },
-    "rank": 9
-  },
-  {
-    "bet": {
-      "lastName": "Blatter",
-      "firstName": "Roger",
-      "team1": "Belgien",
-      "team2": "Frankreich",
-      "team3": "Italien",
-      "team4": "Schweiz",
-      "champion": "Frankreich",
-      "player1": "Lukaku",
-      "player2": "Benzema",
-      "player3": "Müller",
-      "player4": "Pandev",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 360,
-      "playersPoints": 80,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 440
-    },
-    "rank": 9
-  },
-  {
-    "bet": {
-      "lastName": "Baggerstube",
-      "firstName": "",
-      "team1": "England",
-      "team2": "Italien",
-      "team3": "Deutschland",
-      "team4": "Belgien",
-      "champion": "England",
-      "player1": "Mbappé",
-      "player2": "Werner",
-      "player3": "Sterling",
-      "player4": "Lukaku",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 380,
-      "playersPoints": 50,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 430
-    },
-    "rank": 16
-  },
-  {
-    "bet": {
-      "lastName": "Schläpfer",
-      "firstName": "Urs+Barbara",
-      "team1": "Frankreich",
+      "lastName": "Colaci",
+      "firstName": "Nico",
+      "team1": "Italien",
       "team2": "Spanien",
-      "team3": "Italien",
-      "team4": "Belgien",
-      "champion": "Frankreich",
-      "player1": "Mbappé",
-      "player2": "Morata",
-      "player3": "Kane",
-      "player4": "Lukaku",
-      "topScorer": "Mbappé"
+      "team3": "England",
+      "team4": "Niederlande",
+      "champion": "Italien",
+      "player1": "Rebic",
+      "player2": "Benzema",
+      "player3": "Immobile",
+      "player4": "Mertens",
+      "topScorer": "Benzema"
     },
     "points": {
-      "teamsPoints": 370,
+      "teamsPoints": 450,
       "playersPoints": 60,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 430
+      "totalPoints": 510
     },
-    "rank": 16
-  },
-  {
-    "bet": {
-      "lastName": "Urweider",
-      "firstName": "Roli",
-      "team1": "Frankreich",
-      "team2": "England",
-      "team3": "Belgien",
-      "team4": "Italien",
-      "champion": "Frankreich",
-      "player1": "Mbappé",
-      "player2": "Kane",
-      "player3": "Lukaku",
-      "player4": "Werner",
-      "topScorer": "Mbappé"
-    },
-    "points": {
-      "teamsPoints": 390,
-      "playersPoints": 40,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 430
-    },
-    "rank": 16
-  },
-  {
-    "bet": {
-      "lastName": "Hermann",
-      "firstName": "Janis",
-      "team1": "Portugal",
-      "team2": "England",
-      "team3": "Niederlande",
-      "team4": "Spanien",
-      "champion": "England",
-      "player1": "Lukaku",
-      "player2": "Kane",
-      "player3": "Ronaldo",
-      "player4": "Lewandowski",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 310,
-      "playersPoints": 120,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 430
-    },
-    "rank": 16
-  },
-  {
-    "bet": {
-      "lastName": "Hermann",
-      "firstName": "Andy",
-      "team1": "Niederlande",
-      "team2": "Belgien",
-      "team3": "Frankreich",
-      "team4": "England",
-      "champion": "Frankreich",
-      "player1": "Lewandowski",
-      "player2": "Lukaku",
-      "player3": "Mbappé",
-      "player4": "Kane",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 360,
-      "playersPoints": 70,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 430
-    },
-    "rank": 16
-  },
-  {
-    "bet": {
-      "lastName": "Gremli",
-      "firstName": "Eugen",
-      "team1": "Belgien",
-      "team2": "England",
-      "team3": "Frankreich",
-      "team4": "Spanien",
-      "champion": "Frankreich",
-      "player1": "Mbappé",
-      "player2": "Lukaku",
-      "player3": "Benzema",
-      "player4": "Kane",
-      "topScorer": "Mbappé"
-    },
-    "points": {
-      "teamsPoints": 350,
-      "playersPoints": 80,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 430
-    },
-    "rank": 16
+    "rank": 6
   },
   {
     "bet": {
@@ -519,13 +207,61 @@
       "topScorer": "Morata"
     },
     "points": {
-      "teamsPoints": 340,
-      "playersPoints": 90,
+      "teamsPoints": 400,
+      "playersPoints": 100,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 430
+      "totalPoints": 500
     },
-    "rank": 16
+    "rank": 9
+  },
+  {
+    "bet": {
+      "lastName": "Pilz",
+      "firstName": "Michaela+KP",
+      "team1": "Österreich",
+      "team2": "Deutschland",
+      "team3": "Italien",
+      "team4": "Belgien",
+      "champion": "Belgien",
+      "player1": "Lukaku",
+      "player2": "Kane",
+      "player3": "Lewandowski",
+      "player4": "Ronaldo",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 370,
+      "playersPoints": 130,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 500
+    },
+    "rank": 9
+  },
+  {
+    "bet": {
+      "lastName": "Schläpfer",
+      "firstName": "Urs+Barbara",
+      "team1": "Frankreich",
+      "team2": "Spanien",
+      "team3": "Italien",
+      "team4": "Belgien",
+      "champion": "Frankreich",
+      "player1": "Mbappé",
+      "player2": "Morata",
+      "player3": "Kane",
+      "player4": "Lukaku",
+      "topScorer": "Mbappé"
+    },
+    "points": {
+      "teamsPoints": 430,
+      "playersPoints": 70,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 500
+    },
+    "rank": 9
   },
   {
     "bet": {
@@ -543,181 +279,37 @@
       "topScorer": "Lukaku"
     },
     "points": {
-      "teamsPoints": 340,
-      "playersPoints": 90,
+      "teamsPoints": 400,
+      "playersPoints": 100,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 430
+      "totalPoints": 500
     },
-    "rank": 16
+    "rank": 9
   },
   {
     "bet": {
-      "lastName": "Obimo-Boccia",
-      "firstName": "Lilly+Raffaele",
+      "lastName": "Monferini",
+      "firstName": "Regula+Franco",
       "team1": "Italien",
-      "team2": "Belgien",
-      "team3": "England",
+      "team2": "Kroatien",
+      "team3": "Spanien",
       "team4": "Deutschland",
-      "champion": "England",
-      "player1": "Kane",
-      "player2": "Mbappé",
-      "player3": "Lukaku",
-      "player4": "Gnabry",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 380,
-      "playersPoints": 40,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 420
-    },
-    "rank": 24
-  },
-  {
-    "bet": {
-      "lastName": "Berger",
-      "firstName": "Zeljko",
-      "team1": "Frankreich",
-      "team2": "England",
-      "team3": "Belgien",
-      "team4": "Niederlande",
-      "champion": "England",
-      "player1": "Mbappé",
-      "player2": "Kane",
-      "player3": "Lukaku",
-      "player4": "Depay",
-      "topScorer": "Kane"
-    },
-    "points": {
-      "teamsPoints": 360,
-      "playersPoints": 60,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 420
-    },
-    "rank": 24
-  },
-  {
-    "bet": {
-      "lastName": "Wacker",
-      "firstName": "Bruno",
-      "team1": "England",
-      "team2": "Italien",
-      "team3": "Deutschland",
-      "team4": "Belgien",
-      "champion": "England",
-      "player1": "Mbappé",
-      "player2": "Kane",
-      "player3": "Werner",
-      "player4": "Lukaku",
-      "topScorer": "Kane"
-    },
-    "points": {
-      "teamsPoints": 380,
-      "playersPoints": 40,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 420
-    },
-    "rank": 24
-  },
-  {
-    "bet": {
-      "lastName": "Meier",
-      "firstName": "Kurt",
-      "team1": "Belgien",
-      "team2": "England",
-      "team3": "Frankreich",
-      "team4": "Deutschland",
-      "champion": "England",
-      "player1": "Lewandowski",
-      "player2": "Kane",
-      "player3": "Benzema",
-      "player4": "Lukaku",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 310,
-      "playersPoints": 110,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 420
-    },
-    "rank": 24
-  },
-  {
-    "bet": {
-      "lastName": "Stucky",
-      "firstName": "Severin",
-      "team1": "Niederlande",
-      "team2": "Belgien",
-      "team3": "Frankreich",
-      "team4": "Italien",
-      "champion": "Niederlande",
-      "player1": "Insigne",
-      "player2": "Mbappé",
-      "player3": "De Bruyne",
-      "player4": "Depay",
-      "topScorer": "Insigne"
-    },
-    "points": {
-      "teamsPoints": 380,
-      "playersPoints": 40,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 420
-    },
-    "rank": 24
-  },
-  {
-    "bet": {
-      "lastName": "Padula",
-      "firstName": "Nunzio",
-      "team1": "Italien",
-      "team2": "Deutschland",
-      "team3": "Frankreich",
-      "team4": "Belgien",
       "champion": "Italien",
       "player1": "Lukaku",
-      "player2": "Ronaldo",
-      "player3": "Mbappé",
-      "player4": "Kane",
-      "topScorer": "Mbappé"
+      "player2": "Immobile",
+      "player3": "Lewandowski",
+      "player4": "Ronaldo",
+      "topScorer": "Immobile"
     },
     "points": {
-      "teamsPoints": 330,
-      "playersPoints": 90,
+      "teamsPoints": 340,
+      "playersPoints": 140,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 420
+      "totalPoints": 480
     },
-    "rank": 24
-  },
-  {
-    "bet": {
-      "lastName": "Zingg",
-      "firstName": "Stefania+Christian",
-      "team1": "Frankreich",
-      "team2": "Belgien",
-      "team3": "Niederlande",
-      "team4": "England",
-      "champion": "Frankreich",
-      "player1": "Mbappé",
-      "player2": "Depay",
-      "player3": "Kane",
-      "player4": "Lukaku",
-      "topScorer": "Kane"
-    },
-    "points": {
-      "teamsPoints": 360,
-      "playersPoints": 60,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 420
-    },
-    "rank": 24
+    "rank": 13
   },
   {
     "bet": {
@@ -735,85 +327,37 @@
       "topScorer": "Mbappé"
     },
     "points": {
-      "teamsPoints": 350,
+      "teamsPoints": 410,
       "playersPoints": 70,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 420
+      "totalPoints": 480
     },
-    "rank": 24
+    "rank": 13
   },
   {
     "bet": {
-      "lastName": "Brandes (Coc)",
-      "firstName": "Notker",
+      "lastName": "Blatter",
+      "firstName": "Roger",
       "team1": "Belgien",
       "team2": "Frankreich",
-      "team3": "Spanien",
-      "team4": "England",
-      "champion": "Belgien",
+      "team3": "Italien",
+      "team4": "Schweiz",
+      "champion": "Frankreich",
       "player1": "Lukaku",
-      "player2": "Griezmann",
-      "player3": "Torres",
-      "player4": "Kane",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 350,
-      "playersPoints": 70,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 420
-    },
-    "rank": 24
-  },
-  {
-    "bet": {
-      "lastName": "Jeggli",
-      "firstName": "Hannes",
-      "team1": "Schweiz",
-      "team2": "Dänemark",
-      "team3": "Frankreich",
-      "team4": "Italien",
-      "champion": "Belgien",
-      "player1": "Lewandowski",
       "player2": "Benzema",
-      "player3": "Lukaku",
-      "player4": "Gavranovic",
+      "player3": "Müller",
+      "player4": "Pandev",
       "topScorer": "Lukaku"
     },
     "points": {
-      "teamsPoints": 300,
-      "playersPoints": 110,
+      "teamsPoints": 390,
+      "playersPoints": 90,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 410
+      "totalPoints": 480
     },
-    "rank": 33
-  },
-  {
-    "bet": {
-      "lastName": "Zaccaria",
-      "firstName": "Lucchi+Giacomo",
-      "team1": "Italien",
-      "team2": "Frankreich",
-      "team3": "Niederlande",
-      "team4": "England",
-      "champion": "Italien",
-      "player1": "Insigne",
-      "player2": "Mbappé",
-      "player3": "Kane",
-      "player4": "Lukaku",
-      "topScorer": "Kane"
-    },
-    "points": {
-      "teamsPoints": 360,
-      "playersPoints": 50,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 410
-    },
-    "rank": 33
+    "rank": 13
   },
   {
     "bet": {
@@ -831,13 +375,13 @@
       "topScorer": "Mbappé"
     },
     "points": {
-      "teamsPoints": 370,
-      "playersPoints": 40,
+      "teamsPoints": 430,
+      "playersPoints": 50,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 410
+      "totalPoints": 480
     },
-    "rank": 33
+    "rank": 13
   },
   {
     "bet": {
@@ -855,11 +399,467 @@
       "topScorer": "Mbappé"
     },
     "points": {
-      "teamsPoints": 370,
-      "playersPoints": 40,
+      "teamsPoints": 430,
+      "playersPoints": 50,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 410
+      "totalPoints": 480
+    },
+    "rank": 13
+  },
+  {
+    "bet": {
+      "lastName": "Heitz",
+      "firstName": "Eva Maria+Markus",
+      "team1": "Frankreich",
+      "team2": "England",
+      "team3": "Spanien",
+      "team4": "Belgien",
+      "champion": "Frankreich",
+      "player1": "Mbappé",
+      "player2": "Lukaku",
+      "player3": "Kane",
+      "player4": "Ronaldo",
+      "topScorer": "Mbappé"
+    },
+    "points": {
+      "teamsPoints": 380,
+      "playersPoints": 100,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 480
+    },
+    "rank": 13
+  },
+  {
+    "bet": {
+      "lastName": "Vallini-Bissoli",
+      "firstName": "Adriano+Olivia",
+      "team1": "Frankreich",
+      "team2": "Italien",
+      "team3": "Belgien",
+      "team4": "Deutschland",
+      "champion": "Frankreich",
+      "player1": "Ronaldo",
+      "player2": "Lewandowski",
+      "player3": "Lukaku",
+      "player4": "Burak Ylmaz",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 360,
+      "playersPoints": 120,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 480
+    },
+    "rank": 13
+  },
+  {
+    "bet": {
+      "lastName": "Baggerstube",
+      "firstName": "",
+      "team1": "England",
+      "team2": "Italien",
+      "team3": "Deutschland",
+      "team4": "Belgien",
+      "champion": "England",
+      "player1": "Mbappé",
+      "player2": "Werner",
+      "player3": "Sterling",
+      "player4": "Lukaku",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 410,
+      "playersPoints": 60,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 470
+    },
+    "rank": 20
+  },
+  {
+    "bet": {
+      "lastName": "Hermann",
+      "firstName": "Janis",
+      "team1": "Portugal",
+      "team2": "England",
+      "team3": "Niederlande",
+      "team4": "Spanien",
+      "champion": "England",
+      "player1": "Lukaku",
+      "player2": "Kane",
+      "player3": "Ronaldo",
+      "player4": "Lewandowski",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 340,
+      "playersPoints": 130,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 470
+    },
+    "rank": 20
+  },
+  {
+    "bet": {
+      "lastName": "Brocca-Aschwanden",
+      "firstName": "Liana+Jan",
+      "team1": "England",
+      "team2": "Belgien",
+      "team3": "Italien",
+      "team4": "Deutschland",
+      "champion": "Italien",
+      "player1": "Ronaldo",
+      "player2": "Kane",
+      "player3": "Mbappé",
+      "player4": "Burak Ylmaz",
+      "topScorer": "Kane"
+    },
+    "points": {
+      "teamsPoints": 410,
+      "playersPoints": 60,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 470
+    },
+    "rank": 20
+  },
+  {
+    "bet": {
+      "lastName": "Urweider",
+      "firstName": "Roli",
+      "team1": "Frankreich",
+      "team2": "England",
+      "team3": "Belgien",
+      "team4": "Italien",
+      "champion": "Frankreich",
+      "player1": "Mbappé",
+      "player2": "Kane",
+      "player3": "Lukaku",
+      "player4": "Werner",
+      "topScorer": "Mbappé"
+    },
+    "points": {
+      "teamsPoints": 420,
+      "playersPoints": 50,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 470
+    },
+    "rank": 20
+  },
+  {
+    "bet": {
+      "lastName": "Gremli",
+      "firstName": "Eugen",
+      "team1": "Belgien",
+      "team2": "England",
+      "team3": "Frankreich",
+      "team4": "Spanien",
+      "champion": "Frankreich",
+      "player1": "Mbappé",
+      "player2": "Lukaku",
+      "player3": "Benzema",
+      "player4": "Kane",
+      "topScorer": "Mbappé"
+    },
+    "points": {
+      "teamsPoints": 380,
+      "playersPoints": 90,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 470
+    },
+    "rank": 20
+  },
+  {
+    "bet": {
+      "lastName": "Bissoli",
+      "firstName": "Benno+Coni",
+      "team1": "Schweiz",
+      "team2": "Frankreich",
+      "team3": "England",
+      "team4": "Italien",
+      "champion": "Italien",
+      "player1": "Griezmann",
+      "player2": "Ronaldo",
+      "player3": "Depay",
+      "player4": "Immobile",
+      "topScorer": "Immobile"
+    },
+    "points": {
+      "teamsPoints": 370,
+      "playersPoints": 100,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 470
+    },
+    "rank": 20
+  },
+  {
+    "bet": {
+      "lastName": "Padula",
+      "firstName": "Nunzio",
+      "team1": "Italien",
+      "team2": "Deutschland",
+      "team3": "Frankreich",
+      "team4": "Belgien",
+      "champion": "Italien",
+      "player1": "Lukaku",
+      "player2": "Ronaldo",
+      "player3": "Mbappé",
+      "player4": "Kane",
+      "topScorer": "Mbappé"
+    },
+    "points": {
+      "teamsPoints": 360,
+      "playersPoints": 100,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 460
+    },
+    "rank": 26
+  },
+  {
+    "bet": {
+      "lastName": "Zaccaria",
+      "firstName": "Lucchi+Giacomo",
+      "team1": "Italien",
+      "team2": "Frankreich",
+      "team3": "Niederlande",
+      "team4": "England",
+      "champion": "Italien",
+      "player1": "Insigne",
+      "player2": "Mbappé",
+      "player3": "Kane",
+      "player4": "Lukaku",
+      "topScorer": "Kane"
+    },
+    "points": {
+      "teamsPoints": 390,
+      "playersPoints": 70,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 460
+    },
+    "rank": 26
+  },
+  {
+    "bet": {
+      "lastName": "Wacker",
+      "firstName": "Bruno",
+      "team1": "England",
+      "team2": "Italien",
+      "team3": "Deutschland",
+      "team4": "Belgien",
+      "champion": "England",
+      "player1": "Mbappé",
+      "player2": "Kane",
+      "player3": "Werner",
+      "player4": "Lukaku",
+      "topScorer": "Kane"
+    },
+    "points": {
+      "teamsPoints": 410,
+      "playersPoints": 50,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 460
+    },
+    "rank": 26
+  },
+  {
+    "bet": {
+      "lastName": "Beneduce",
+      "firstName": "Alessio-Gianni-Cristiano",
+      "team1": "Frankreich",
+      "team2": "Deutschland",
+      "team3": "Italien",
+      "team4": "Spanien",
+      "champion": "Frankreich",
+      "player1": "Mbappé",
+      "player2": "Ronaldo",
+      "player3": "Immobile",
+      "player4": "Lukaku",
+      "topScorer": "Mbappé"
+    },
+    "points": {
+      "teamsPoints": 350,
+      "playersPoints": 110,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 460
+    },
+    "rank": 26
+  },
+  {
+    "bet": {
+      "lastName": "Brandes (Coc)",
+      "firstName": "Notker",
+      "team1": "Belgien",
+      "team2": "Frankreich",
+      "team3": "Spanien",
+      "team4": "England",
+      "champion": "Belgien",
+      "player1": "Lukaku",
+      "player2": "Griezmann",
+      "player3": "Torres",
+      "player4": "Kane",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 380,
+      "playersPoints": 80,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 460
+    },
+    "rank": 26
+  },
+  {
+    "bet": {
+      "lastName": "Stucky",
+      "firstName": "Severin",
+      "team1": "Niederlande",
+      "team2": "Belgien",
+      "team3": "Frankreich",
+      "team4": "Italien",
+      "champion": "Niederlande",
+      "player1": "Insigne",
+      "player2": "Mbappé",
+      "player3": "De Bruyne",
+      "player4": "Depay",
+      "topScorer": "Insigne"
+    },
+    "points": {
+      "teamsPoints": 410,
+      "playersPoints": 50,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 460
+    },
+    "rank": 26
+  },
+  {
+    "bet": {
+      "lastName": "Obimo-Boccia",
+      "firstName": "Lilly+Raffaele",
+      "team1": "Italien",
+      "team2": "Belgien",
+      "team3": "England",
+      "team4": "Deutschland",
+      "champion": "England",
+      "player1": "Kane",
+      "player2": "Mbappé",
+      "player3": "Lukaku",
+      "player4": "Gnabry",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 410,
+      "playersPoints": 50,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 460
+    },
+    "rank": 26
+  },
+  {
+    "bet": {
+      "lastName": "Caporusso",
+      "firstName": "Gianfranco",
+      "team1": "Italien",
+      "team2": "Belgien",
+      "team3": "Frankreich",
+      "team4": "Deutschland",
+      "champion": "Italien",
+      "player1": "Lukaku",
+      "player2": "Insigne",
+      "player3": "Griezmann",
+      "player4": "Havertz",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 360,
+      "playersPoints": 90,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 450
+    },
+    "rank": 33
+  },
+  {
+    "bet": {
+      "lastName": "Liotta-Granacher",
+      "firstName": "Tanino+Urs",
+      "team1": "England",
+      "team2": "Deutschland",
+      "team3": "Spanien",
+      "team4": "Italien",
+      "champion": "England",
+      "player1": "Kane",
+      "player2": "Gnabry",
+      "player3": "Lukaku",
+      "player4": "Mbappé",
+      "topScorer": "Kane"
+    },
+    "points": {
+      "teamsPoints": 400,
+      "playersPoints": 50,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 450
+    },
+    "rank": 33
+  },
+  {
+    "bet": {
+      "lastName": "Koch",
+      "firstName": "Christian",
+      "team1": "Italien",
+      "team2": "Spanien",
+      "team3": "Frankreich",
+      "team4": "Belgien",
+      "champion": "Italien",
+      "player1": "Belotti",
+      "player2": "Moreno",
+      "player3": "Griezmann",
+      "player4": "De Bruyne",
+      "topScorer": "Belotti"
+    },
+    "points": {
+      "teamsPoints": 430,
+      "playersPoints": 20,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 450
+    },
+    "rank": 33
+  },
+  {
+    "bet": {
+      "lastName": "Cataldo",
+      "firstName": "Cosimo",
+      "team1": "Frankreich",
+      "team2": "Portugal",
+      "team3": "Italien",
+      "team4": "Spanien",
+      "champion": "Italien",
+      "player1": "Lewandowski",
+      "player2": "Bruno Fernandes",
+      "player3": "Ronaldo",
+      "player4": "Immobile",
+      "topScorer": "Ronaldo"
+    },
+    "points": {
+      "teamsPoints": 350,
+      "playersPoints": 100,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 450
     },
     "rank": 33
   },
@@ -879,61 +879,205 @@
       "topScorer": "Kane"
     },
     "points": {
-      "teamsPoints": 350,
-      "playersPoints": 60,
+      "teamsPoints": 380,
+      "playersPoints": 70,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 410
+      "totalPoints": 450
     },
     "rank": 33
   },
   {
     "bet": {
-      "lastName": "Monferini",
-      "firstName": "Regula+Franco",
-      "team1": "Italien",
-      "team2": "Kroatien",
-      "team3": "Spanien",
-      "team4": "Deutschland",
-      "champion": "Italien",
-      "player1": "Lukaku",
-      "player2": "Immobile",
-      "player3": "Lewandowski",
-      "player4": "Ronaldo",
-      "topScorer": "Immobile"
-    },
-    "points": {
-      "teamsPoints": 280,
-      "playersPoints": 130,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 410
-    },
-    "rank": 33
-  },
-  {
-    "bet": {
-      "lastName": "Hensch",
-      "firstName": "Leo",
-      "team1": "Schweiz",
-      "team2": "Frankreich",
-      "team3": "Spanien",
+      "lastName": "Berger",
+      "firstName": "Miro",
+      "team1": "Frankreich",
+      "team2": "England",
+      "team3": "Belgien",
       "team4": "Niederlande",
-      "champion": "Schweiz",
-      "player1": "Seferovic",
-      "player2": "Lewandowski",
-      "player3": "Ronaldo",
-      "player4": "Mbappé",
-      "topScorer": "Seferovic"
+      "champion": "Frankreich",
+      "player1": "Morata",
+      "player2": "Kane",
+      "player3": "Lukaku",
+      "player4": "Depay",
+      "topScorer": "Depay"
     },
     "points": {
-      "teamsPoints": 290,
-      "playersPoints": 110,
+      "teamsPoints": 360,
+      "playersPoints": 90,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 400
+      "totalPoints": 450
     },
-    "rank": 39
+    "rank": 33
+  },
+  {
+    "bet": {
+      "lastName": "Jeggli",
+      "firstName": "Hannes",
+      "team1": "Schweiz",
+      "team2": "Dänemark",
+      "team3": "Frankreich",
+      "team4": "Italien",
+      "champion": "Belgien",
+      "player1": "Lewandowski",
+      "player2": "Benzema",
+      "player3": "Lukaku",
+      "player4": "Gavranovic",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 330,
+      "playersPoints": 120,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 450
+    },
+    "rank": 33
+  },
+  {
+    "bet": {
+      "lastName": "Hermann",
+      "firstName": "Andy",
+      "team1": "Niederlande",
+      "team2": "Belgien",
+      "team3": "Frankreich",
+      "team4": "England",
+      "champion": "Frankreich",
+      "player1": "Lewandowski",
+      "player2": "Lukaku",
+      "player3": "Mbappé",
+      "player4": "Kane",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 360,
+      "playersPoints": 80,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 440
+    },
+    "rank": 40
+  },
+  {
+    "bet": {
+      "lastName": "Reif",
+      "firstName": "Thomas",
+      "team1": "Portugal",
+      "team2": "Belgien",
+      "team3": "Italien",
+      "team4": "Deutschland",
+      "champion": "Belgien",
+      "player1": "Mbappé",
+      "player2": "João Felix",
+      "player3": "Ronaldo",
+      "player4": "Lukaku",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 350,
+      "playersPoints": 90,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 440
+    },
+    "rank": 40
+  },
+  {
+    "bet": {
+      "lastName": "Berger",
+      "firstName": "Inge",
+      "team1": "Deutschland",
+      "team2": "England",
+      "team3": "Belgien",
+      "team4": "Spanien",
+      "champion": "England",
+      "player1": "Immobile",
+      "player2": "Kane",
+      "player3": "Lukaku",
+      "player4": "Olmo",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 370,
+      "playersPoints": 70,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 440
+    },
+    "rank": 40
+  },
+  {
+    "bet": {
+      "lastName": "Rosa+Marlen",
+      "firstName": "",
+      "team1": "England",
+      "team2": "Italien",
+      "team3": "Niederlande",
+      "team4": "Frankreich",
+      "champion": "England",
+      "player1": "Mbappé",
+      "player2": "Rashford",
+      "player3": "Lukaku",
+      "player4": "Kane",
+      "topScorer": "Mbappé"
+    },
+    "points": {
+      "teamsPoints": 390,
+      "playersPoints": 50,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 440
+    },
+    "rank": 40
+  },
+  {
+    "bet": {
+      "lastName": "Steuble",
+      "firstName": "Speranza+Edwin",
+      "team1": "Italien",
+      "team2": "England",
+      "team3": "Spanien",
+      "team4": "Frankreich",
+      "champion": "Italien",
+      "player1": "Kane",
+      "player2": "Gnabry",
+      "player3": "Belotti",
+      "player4": "Morata",
+      "topScorer": "Kane"
+    },
+    "points": {
+      "teamsPoints": 410,
+      "playersPoints": 30,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 440
+    },
+    "rank": 40
+  },
+  {
+    "bet": {
+      "lastName": "Mahr",
+      "firstName": "Stefan",
+      "team1": "Belgien",
+      "team2": "Frankreich",
+      "team3": "England",
+      "team4": "Spanien",
+      "champion": "Frankreich",
+      "player1": "Kane",
+      "player2": "Mbappé",
+      "player3": "Lukaku",
+      "player4": "João Felix",
+      "topScorer": "Kane"
+    },
+    "points": {
+      "teamsPoints": 380,
+      "playersPoints": 50,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 430
+    },
+    "rank": 45
   },
   {
     "bet": {
@@ -951,13 +1095,253 @@
       "topScorer": "Mbappé"
     },
     "points": {
-      "teamsPoints": 350,
+      "teamsPoints": 380,
       "playersPoints": 50,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 400
+      "totalPoints": 430
     },
-    "rank": 39
+    "rank": 45
+  },
+  {
+    "bet": {
+      "lastName": "Zingg",
+      "firstName": "Stefania+Christian",
+      "team1": "Frankreich",
+      "team2": "Belgien",
+      "team3": "Niederlande",
+      "team4": "England",
+      "champion": "Frankreich",
+      "player1": "Mbappé",
+      "player2": "Depay",
+      "player3": "Kane",
+      "player4": "Lukaku",
+      "topScorer": "Kane"
+    },
+    "points": {
+      "teamsPoints": 360,
+      "playersPoints": 70,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 430
+    },
+    "rank": 45
+  },
+  {
+    "bet": {
+      "lastName": "Meier",
+      "firstName": "Kurt",
+      "team1": "Belgien",
+      "team2": "England",
+      "team3": "Frankreich",
+      "team4": "Deutschland",
+      "champion": "England",
+      "player1": "Lewandowski",
+      "player2": "Kane",
+      "player3": "Benzema",
+      "player4": "Lukaku",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 310,
+      "playersPoints": 120,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 430
+    },
+    "rank": 45
+  },
+  {
+    "bet": {
+      "lastName": "Berger",
+      "firstName": "Zeljko",
+      "team1": "Frankreich",
+      "team2": "England",
+      "team3": "Belgien",
+      "team4": "Niederlande",
+      "champion": "England",
+      "player1": "Mbappé",
+      "player2": "Kane",
+      "player3": "Lukaku",
+      "player4": "Depay",
+      "topScorer": "Kane"
+    },
+    "points": {
+      "teamsPoints": 360,
+      "playersPoints": 70,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 430
+    },
+    "rank": 45
+  },
+  {
+    "bet": {
+      "lastName": "Hensch",
+      "firstName": "Leo",
+      "team1": "Schweiz",
+      "team2": "Frankreich",
+      "team3": "Spanien",
+      "team4": "Niederlande",
+      "champion": "Schweiz",
+      "player1": "Seferovic",
+      "player2": "Lewandowski",
+      "player3": "Ronaldo",
+      "player4": "Mbappé",
+      "topScorer": "Seferovic"
+    },
+    "points": {
+      "teamsPoints": 320,
+      "playersPoints": 110,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 430
+    },
+    "rank": 45
+  },
+  {
+    "bet": {
+      "lastName": "Somm",
+      "firstName": "Joèl",
+      "team1": "Deutschland",
+      "team2": "England",
+      "team3": "Niederlande",
+      "team4": "Spanien",
+      "champion": "Deutschland",
+      "player1": "Kane",
+      "player2": "Lewandowski",
+      "player3": "Werner",
+      "player4": "Benzema",
+      "topScorer": "Kane"
+    },
+    "points": {
+      "teamsPoints": 340,
+      "playersPoints": 80,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 420
+    },
+    "rank": 51
+  },
+  {
+    "bet": {
+      "lastName": "Lüthi",
+      "firstName": "Markus",
+      "team1": "Frankreich",
+      "team2": "Portugal",
+      "team3": "Italien",
+      "team4": "Schweiz",
+      "champion": "Frankreich",
+      "player1": "Ronaldo",
+      "player2": "Mbappé",
+      "player3": "Immobile",
+      "player4": "Lukaku",
+      "topScorer": "Mbappé"
+    },
+    "points": {
+      "teamsPoints": 310,
+      "playersPoints": 110,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 420
+    },
+    "rank": 51
+  },
+  {
+    "bet": {
+      "lastName": "Aktas",
+      "firstName": "Memduh",
+      "team1": "Italien",
+      "team2": "Schweiz",
+      "team3": "Frankreich",
+      "team4": "Spanien",
+      "champion": "Frankreich",
+      "player1": "Rashford",
+      "player2": "Immobile",
+      "player3": "Morata",
+      "player4": "Mbappé",
+      "topScorer": "Lukaku"
+    },
+    "points": {
+      "teamsPoints": 380,
+      "playersPoints": 40,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 420
+    },
+    "rank": 51
+  },
+  {
+    "bet": {
+      "lastName": "Zingg",
+      "firstName": "Mauro",
+      "team1": "Frankreich",
+      "team2": "Italien",
+      "team3": "Belgien",
+      "team4": "Deutschland",
+      "champion": "Frankreich",
+      "player1": "Mbappé",
+      "player2": "Kane",
+      "player3": "Ronaldo",
+      "player4": "Müller",
+      "topScorer": "Mbappé"
+    },
+    "points": {
+      "teamsPoints": 360,
+      "playersPoints": 60,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 420
+    },
+    "rank": 51
+  },
+  {
+    "bet": {
+      "lastName": "Pedron-Singer",
+      "firstName": "Cristiano+Stéphanie",
+      "team1": "Italien",
+      "team2": "Belgien",
+      "team3": "Kroatien",
+      "team4": "Deutschland",
+      "champion": "Belgien",
+      "player1": "Lukaku",
+      "player2": "Mbappé",
+      "player3": "Lewandowski",
+      "player4": "Foden",
+      "topScorer": "Mbappé"
+    },
+    "points": {
+      "teamsPoints": 350,
+      "playersPoints": 70,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 420
+    },
+    "rank": 51
+  },
+  {
+    "bet": {
+      "lastName": "Bär-Stephen",
+      "firstName": "Christian+Emma",
+      "team1": "England",
+      "team2": "Portugal",
+      "team3": "Italien",
+      "team4": "Frankreich",
+      "champion": "England",
+      "player1": "Ronaldo",
+      "player2": "Kane",
+      "player3": "Mbappé",
+      "player4": "Barella",
+      "topScorer": "Kane"
+    },
+    "points": {
+      "teamsPoints": 340,
+      "playersPoints": 70,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 410
+    },
+    "rank": 56
   },
   {
     "bet": {
@@ -976,60 +1360,36 @@
     },
     "points": {
       "teamsPoints": 310,
-      "playersPoints": 90,
+      "playersPoints": 100,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 400
+      "totalPoints": 410
     },
-    "rank": 39
+    "rank": 56
   },
   {
     "bet": {
-      "lastName": "Reif",
-      "firstName": "Thomas",
-      "team1": "Portugal",
+      "lastName": "Carrieri-Ciraci",
+      "firstName": "Donato+Nunzia",
+      "team1": "Italien",
       "team2": "Belgien",
-      "team3": "Italien",
+      "team3": "Frankreich",
       "team4": "Deutschland",
-      "champion": "Belgien",
-      "player1": "Mbappé",
-      "player2": "João Felix",
-      "player3": "Ronaldo",
-      "player4": "Lukaku",
-      "topScorer": "Lukaku"
+      "champion": "Italien",
+      "player1": "Kane",
+      "player2": "Lukaku",
+      "player3": "Mbappé",
+      "player4": "Berardi",
+      "topScorer": "Kane"
     },
     "points": {
-      "teamsPoints": 320,
-      "playersPoints": 80,
+      "teamsPoints": 360,
+      "playersPoints": 50,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 400
+      "totalPoints": 410
     },
-    "rank": 39
-  },
-  {
-    "bet": {
-      "lastName": "Berger",
-      "firstName": "Inge",
-      "team1": "Deutschland",
-      "team2": "England",
-      "team3": "Belgien",
-      "team4": "Spanien",
-      "champion": "England",
-      "player1": "Immobile",
-      "player2": "Kane",
-      "player3": "Lukaku",
-      "player4": "Olmo",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 340,
-      "playersPoints": 60,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 400
-    },
-    "rank": 39
+    "rank": 56
   },
   {
     "bet": {
@@ -1048,84 +1408,60 @@
     },
     "points": {
       "teamsPoints": 310,
-      "playersPoints": 90,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 400
-    },
-    "rank": 39
-  },
-  {
-    "bet": {
-      "lastName": "Caporusso",
-      "firstName": "Gianfranco",
-      "team1": "Italien",
-      "team2": "Belgien",
-      "team3": "Frankreich",
-      "team4": "Deutschland",
-      "champion": "Italien",
-      "player1": "Lukaku",
-      "player2": "Insigne",
-      "player3": "Griezmann",
-      "player4": "Havertz",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 330,
-      "playersPoints": 70,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 400
-    },
-    "rank": 39
-  },
-  {
-    "bet": {
-      "lastName": "Rosa+Marlen",
-      "firstName": "",
-      "team1": "England",
-      "team2": "Italien",
-      "team3": "Niederlande",
-      "team4": "Frankreich",
-      "champion": "England",
-      "player1": "Mbappé",
-      "player2": "Rashford",
-      "player3": "Lukaku",
-      "player4": "Kane",
-      "topScorer": "Mbappé"
-    },
-    "points": {
-      "teamsPoints": 360,
-      "playersPoints": 40,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 400
-    },
-    "rank": 39
-  },
-  {
-    "bet": {
-      "lastName": "Beneduce",
-      "firstName": "Alessio-Gianni-Cristiano",
-      "team1": "Frankreich",
-      "team2": "Deutschland",
-      "team3": "Italien",
-      "team4": "Spanien",
-      "champion": "Frankreich",
-      "player1": "Mbappé",
-      "player2": "Ronaldo",
-      "player3": "Immobile",
-      "player4": "Lukaku",
-      "topScorer": "Mbappé"
-    },
-    "points": {
-      "teamsPoints": 290,
       "playersPoints": 100,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 410
+    },
+    "rank": 56
+  },
+  {
+    "bet": {
+      "lastName": "Maier",
+      "firstName": "Jacqueline",
+      "team1": "Spanien",
+      "team2": "England",
+      "team3": "Frankreich",
+      "team4": "Niederlande",
+      "champion": "Frankreich",
+      "player1": "Foden",
+      "player2": "Mbappé",
+      "player3": "Depay",
+      "player4": "Lewandowski",
+      "topScorer": "Depay"
+    },
+    "points": {
+      "teamsPoints": 350,
+      "playersPoints": 50,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 400
+    },
+    "rank": 60
+  },
+  {
+    "bet": {
+      "lastName": "Schwemer",
+      "firstName": "Liddy+Thomas",
+      "team1": "Schweiz",
+      "team2": "Deutschland",
+      "team3": "Niederlande",
+      "team4": "Belgien",
+      "champion": "Deutschland",
+      "player1": "Depay",
+      "player2": "Müller",
+      "player3": "Kane",
+      "player4": "Lukaku",
+      "topScorer": "Depay"
+    },
+    "points": {
+      "teamsPoints": 320,
+      "playersPoints": 70,
       "championPoints": 0,
       "topScorerPoints": 0,
       "totalPoints": 390
     },
-    "rank": 47
+    "rank": 61
   },
   {
     "bet": {
@@ -1149,343 +1485,7 @@
       "topScorerPoints": 0,
       "totalPoints": 390
     },
-    "rank": 47
-  },
-  {
-    "bet": {
-      "lastName": "Cataldo",
-      "firstName": "Cosimo",
-      "team1": "Frankreich",
-      "team2": "Portugal",
-      "team3": "Italien",
-      "team4": "Spanien",
-      "champion": "Italien",
-      "player1": "Lewandowski",
-      "player2": "Bruno Fernandes",
-      "player3": "Ronaldo",
-      "player4": "Immobile",
-      "topScorer": "Ronaldo"
-    },
-    "points": {
-      "teamsPoints": 290,
-      "playersPoints": 100,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 390
-    },
-    "rank": 47
-  },
-  {
-    "bet": {
-      "lastName": "Somm",
-      "firstName": "Joèl",
-      "team1": "Deutschland",
-      "team2": "England",
-      "team3": "Niederlande",
-      "team4": "Spanien",
-      "champion": "Deutschland",
-      "player1": "Kane",
-      "player2": "Lewandowski",
-      "player3": "Werner",
-      "player4": "Benzema",
-      "topScorer": "Kane"
-    },
-    "points": {
-      "teamsPoints": 310,
-      "playersPoints": 80,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 390
-    },
-    "rank": 47
-  },
-  {
-    "bet": {
-      "lastName": "Mahr",
-      "firstName": "Stefan",
-      "team1": "Belgien",
-      "team2": "Frankreich",
-      "team3": "England",
-      "team4": "Spanien",
-      "champion": "Frankreich",
-      "player1": "Kane",
-      "player2": "Mbappé",
-      "player3": "Lukaku",
-      "player4": "João Felix",
-      "topScorer": "Kane"
-    },
-    "points": {
-      "teamsPoints": 350,
-      "playersPoints": 40,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 390
-    },
-    "rank": 47
-  },
-  {
-    "bet": {
-      "lastName": "Koch",
-      "firstName": "Christian",
-      "team1": "Italien",
-      "team2": "Spanien",
-      "team3": "Frankreich",
-      "team4": "Belgien",
-      "champion": "Italien",
-      "player1": "Belotti",
-      "player2": "Moreno",
-      "player3": "Griezmann",
-      "player4": "De Bruyne",
-      "topScorer": "Belotti"
-    },
-    "points": {
-      "teamsPoints": 370,
-      "playersPoints": 20,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 390
-    },
-    "rank": 47
-  },
-  {
-    "bet": {
-      "lastName": "Zingg",
-      "firstName": "Mauro",
-      "team1": "Frankreich",
-      "team2": "Italien",
-      "team3": "Belgien",
-      "team4": "Deutschland",
-      "champion": "Frankreich",
-      "player1": "Mbappé",
-      "player2": "Kane",
-      "player3": "Ronaldo",
-      "player4": "Müller",
-      "topScorer": "Mbappé"
-    },
-    "points": {
-      "teamsPoints": 330,
-      "playersPoints": 60,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 390
-    },
-    "rank": 47
-  },
-  {
-    "bet": {
-      "lastName": "Pedron-Singer",
-      "firstName": "Cristiano+Stéphanie",
-      "team1": "Italien",
-      "team2": "Belgien",
-      "team3": "Kroatien",
-      "team4": "Deutschland",
-      "champion": "Belgien",
-      "player1": "Lukaku",
-      "player2": "Mbappé",
-      "player3": "Lewandowski",
-      "player4": "Foden",
-      "topScorer": "Mbappé"
-    },
-    "points": {
-      "teamsPoints": 320,
-      "playersPoints": 60,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 380
-    },
-    "rank": 54
-  },
-  {
-    "bet": {
-      "lastName": "Liotta-Granacher",
-      "firstName": "Tanino+Urs",
-      "team1": "England",
-      "team2": "Deutschland",
-      "team3": "Spanien",
-      "team4": "Italien",
-      "champion": "England",
-      "player1": "Kane",
-      "player2": "Gnabry",
-      "player3": "Lukaku",
-      "player4": "Mbappé",
-      "topScorer": "Kane"
-    },
-    "points": {
-      "teamsPoints": 340,
-      "playersPoints": 40,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 380
-    },
-    "rank": 54
-  },
-  {
-    "bet": {
-      "lastName": "Schwemer",
-      "firstName": "Liddy+Thomas",
-      "team1": "Schweiz",
-      "team2": "Deutschland",
-      "team3": "Niederlande",
-      "team4": "Belgien",
-      "champion": "Deutschland",
-      "player1": "Depay",
-      "player2": "Müller",
-      "player3": "Kane",
-      "player4": "Lukaku",
-      "topScorer": "Depay"
-    },
-    "points": {
-      "teamsPoints": 320,
-      "playersPoints": 60,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 380
-    },
-    "rank": 54
-  },
-  {
-    "bet": {
-      "lastName": "Lüthi",
-      "firstName": "Markus",
-      "team1": "Frankreich",
-      "team2": "Portugal",
-      "team3": "Italien",
-      "team4": "Schweiz",
-      "champion": "Frankreich",
-      "player1": "Ronaldo",
-      "player2": "Mbappé",
-      "player3": "Immobile",
-      "player4": "Lukaku",
-      "topScorer": "Mbappé"
-    },
-    "points": {
-      "teamsPoints": 280,
-      "playersPoints": 100,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 380
-    },
-    "rank": 54
-  },
-  {
-    "bet": {
-      "lastName": "Steuble",
-      "firstName": "Speranza+Edwin",
-      "team1": "Italien",
-      "team2": "England",
-      "team3": "Spanien",
-      "team4": "Frankreich",
-      "champion": "Italien",
-      "player1": "Kane",
-      "player2": "Gnabry",
-      "player3": "Belotti",
-      "player4": "Morata",
-      "topScorer": "Kane"
-    },
-    "points": {
-      "teamsPoints": 350,
-      "playersPoints": 30,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 380
-    },
-    "rank": 54
-  },
-  {
-    "bet": {
-      "lastName": "Bär-Stephen",
-      "firstName": "Christian+Emma",
-      "team1": "England",
-      "team2": "Portugal",
-      "team3": "Italien",
-      "team4": "Frankreich",
-      "champion": "England",
-      "player1": "Ronaldo",
-      "player2": "Kane",
-      "player3": "Mbappé",
-      "player4": "Barella",
-      "topScorer": "Kane"
-    },
-    "points": {
-      "teamsPoints": 310,
-      "playersPoints": 60,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 370
-    },
-    "rank": 59
-  },
-  {
-    "bet": {
-      "lastName": "Carrieri-Ciraci",
-      "firstName": "Donato+Nunzia",
-      "team1": "Italien",
-      "team2": "Belgien",
-      "team3": "Frankreich",
-      "team4": "Deutschland",
-      "champion": "Italien",
-      "player1": "Kane",
-      "player2": "Lukaku",
-      "player3": "Mbappé",
-      "player4": "Berardi",
-      "topScorer": "Kane"
-    },
-    "points": {
-      "teamsPoints": 330,
-      "playersPoints": 40,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 370
-    },
-    "rank": 59
-  },
-  {
-    "bet": {
-      "lastName": "Maier",
-      "firstName": "Jacqueline",
-      "team1": "Spanien",
-      "team2": "England",
-      "team3": "Frankreich",
-      "team4": "Niederlande",
-      "champion": "Frankreich",
-      "player1": "Foden",
-      "player2": "Mbappé",
-      "player3": "Depay",
-      "player4": "Lewandowski",
-      "topScorer": "Depay"
-    },
-    "points": {
-      "teamsPoints": 320,
-      "playersPoints": 50,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 370
-    },
-    "rank": 59
-  },
-  {
-    "bet": {
-      "lastName": "Aktas",
-      "firstName": "Memduh",
-      "team1": "Italien",
-      "team2": "Schweiz",
-      "team3": "Frankreich",
-      "team4": "Spanien",
-      "champion": "Frankreich",
-      "player1": "Rashford",
-      "player2": "Immobile",
-      "player3": "Morata",
-      "player4": "Mbappé",
-      "topScorer": "Lukaku"
-    },
-    "points": {
-      "teamsPoints": 320,
-      "playersPoints": 40,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 360
-    },
-    "rank": 62
+    "rank": 61
   },
   {
     "bet": {
@@ -1503,13 +1503,85 @@
       "topScorer": "Kane"
     },
     "points": {
-      "teamsPoints": 280,
+      "teamsPoints": 310,
+      "playersPoints": 80,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 390
+    },
+    "rank": 61
+  },
+  {
+    "bet": {
+      "lastName": "Thalmann",
+      "firstName": "Markus",
+      "team1": "Polen",
+      "team2": "Italien",
+      "team3": "Deutschland",
+      "team4": "Spanien",
+      "champion": "Polen",
+      "player1": "Lewandowski",
+      "player2": "Shaqiri",
+      "player3": "Müller",
+      "player4": "Moreno",
+      "topScorer": "Lewandowski"
+    },
+    "points": {
+      "teamsPoints": 310,
+      "playersPoints": 60,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 370
+    },
+    "rank": 64
+  },
+  {
+    "bet": {
+      "lastName": "Beranek",
+      "firstName": "Peter",
+      "team1": "England",
+      "team2": "Spanien",
+      "team3": "Frankreich",
+      "team4": "Portugal",
+      "champion": "Portugal",
+      "player1": "Ronaldo",
+      "player2": "Griezmann",
+      "player3": "Modric",
+      "player4": "Bale",
+      "topScorer": "Ronaldo"
+    },
+    "points": {
+      "teamsPoints": 300,
       "playersPoints": 70,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 350
+      "totalPoints": 370
     },
-    "rank": 63
+    "rank": 64
+  },
+  {
+    "bet": {
+      "lastName": "Finocchi",
+      "firstName": "Denise+Harry",
+      "team1": "Frankreich",
+      "team2": "Deutschland",
+      "team3": "Spanien",
+      "team4": "Schweiz",
+      "champion": "Schweiz",
+      "player1": "Mbappé",
+      "player2": "Ronaldo",
+      "player3": "Lewandowski",
+      "player4": "Gavranovic",
+      "topScorer": "Mbappé"
+    },
+    "points": {
+      "teamsPoints": 270,
+      "playersPoints": 90,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 360
+    },
+    "rank": 66
   },
   {
     "bet": {
@@ -1528,12 +1600,60 @@
     },
     "points": {
       "teamsPoints": 310,
+      "playersPoints": 50,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 360
+    },
+    "rank": 66
+  },
+  {
+    "bet": {
+      "lastName": "Heidelberger",
+      "firstName": "Geri",
+      "team1": "Belgien",
+      "team2": "Frankreich",
+      "team3": "Spanien",
+      "team4": "Deutschland",
+      "champion": "Deutschland",
+      "player1": "Lukaku",
+      "player2": "Werner",
+      "player3": "Mbappé",
+      "player4": "Moreno",
+      "topScorer": "Werner"
+    },
+    "points": {
+      "teamsPoints": 320,
       "playersPoints": 40,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 350
+      "totalPoints": 360
     },
-    "rank": 63
+    "rank": 66
+  },
+  {
+    "bet": {
+      "lastName": "Bär",
+      "firstName": "Alexander+Mario",
+      "team1": "Italien",
+      "team2": "Frankreich",
+      "team3": "Deutschland",
+      "team4": "Kroatien",
+      "champion": "Deutschland",
+      "player1": "Ronaldo",
+      "player2": "Gnabry",
+      "player3": "Immobile",
+      "player4": "Griezmann",
+      "topScorer": "Gnabry"
+    },
+    "points": {
+      "teamsPoints": 280,
+      "playersPoints": 80,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 360
+    },
+    "rank": 66
   },
   {
     "bet": {
@@ -1552,12 +1672,12 @@
     },
     "points": {
       "teamsPoints": 280,
-      "playersPoints": 70,
+      "playersPoints": 80,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 350
+      "totalPoints": 360
     },
-    "rank": 63
+    "rank": 66
   },
   {
     "bet": {
@@ -1576,84 +1696,12 @@
     },
     "points": {
       "teamsPoints": 310,
-      "playersPoints": 40,
+      "playersPoints": 50,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 350
+      "totalPoints": 360
     },
-    "rank": 63
-  },
-  {
-    "bet": {
-      "lastName": "Beranek",
-      "firstName": "Peter",
-      "team1": "England",
-      "team2": "Spanien",
-      "team3": "Frankreich",
-      "team4": "Portugal",
-      "champion": "Portugal",
-      "player1": "Ronaldo",
-      "player2": "Griezmann",
-      "player3": "Modric",
-      "player4": "Bale",
-      "topScorer": "Ronaldo"
-    },
-    "points": {
-      "teamsPoints": 270,
-      "playersPoints": 70,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 340
-    },
-    "rank": 67
-  },
-  {
-    "bet": {
-      "lastName": "Bär",
-      "firstName": "Alexander+Mario",
-      "team1": "Italien",
-      "team2": "Frankreich",
-      "team3": "Deutschland",
-      "team4": "Kroatien",
-      "champion": "Deutschland",
-      "player1": "Ronaldo",
-      "player2": "Gnabry",
-      "player3": "Immobile",
-      "player4": "Griezmann",
-      "topScorer": "Gnabry"
-    },
-    "points": {
-      "teamsPoints": 250,
-      "playersPoints": 80,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 330
-    },
-    "rank": 68
-  },
-  {
-    "bet": {
-      "lastName": "Finocchi",
-      "firstName": "Denise+Harry",
-      "team1": "Frankreich",
-      "team2": "Deutschland",
-      "team3": "Spanien",
-      "team4": "Schweiz",
-      "champion": "Schweiz",
-      "player1": "Mbappé",
-      "player2": "Ronaldo",
-      "player3": "Lewandowski",
-      "player4": "Gavranovic",
-      "topScorer": "Mbappé"
-    },
-    "points": {
-      "teamsPoints": 240,
-      "playersPoints": 90,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 330
-    },
-    "rank": 68
+    "rank": 66
   },
   {
     "bet": {
@@ -1671,83 +1719,11 @@
       "topScorer": "Griezmann"
     },
     "points": {
-      "teamsPoints": 220,
+      "teamsPoints": 250,
       "playersPoints": 100,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 320
-    },
-    "rank": 70
-  },
-  {
-    "bet": {
-      "lastName": "Heidelberger",
-      "firstName": "Geri",
-      "team1": "Belgien",
-      "team2": "Frankreich",
-      "team3": "Spanien",
-      "team4": "Deutschland",
-      "champion": "Deutschland",
-      "player1": "Lukaku",
-      "player2": "Werner",
-      "player3": "Mbappé",
-      "player4": "Moreno",
-      "topScorer": "Werner"
-    },
-    "points": {
-      "teamsPoints": 290,
-      "playersPoints": 30,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 320
-    },
-    "rank": 70
-  },
-  {
-    "bet": {
-      "lastName": "Blaser",
-      "firstName": "Heinz",
-      "team1": "Frankreich",
-      "team2": "Spanien",
-      "team3": "Deutschland",
-      "team4": "Niederlande",
-      "champion": "Frankreich",
-      "player1": "Giroud",
-      "player2": "Morata",
-      "player3": "Gnabry",
-      "player4": "Depay",
-      "topScorer": "Giroud"
-    },
-    "points": {
-      "teamsPoints": 260,
-      "playersPoints": 40,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 300
-    },
-    "rank": 72
-  },
-  {
-    "bet": {
-      "lastName": "Thalmann",
-      "firstName": "Markus",
-      "team1": "Polen",
-      "team2": "Italien",
-      "team3": "Deutschland",
-      "team4": "Spanien",
-      "champion": "Polen",
-      "player1": "Lewandowski",
-      "player2": "Shaqiri",
-      "player3": "Müller",
-      "player4": "Moreno",
-      "topScorer": "Lewandowski"
-    },
-    "points": {
-      "teamsPoints": 250,
-      "playersPoints": 50,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 300
+      "totalPoints": 350
     },
     "rank": 72
   },
@@ -1767,13 +1743,61 @@
       "topScorer": "Werner"
     },
     "points": {
-      "teamsPoints": 290,
+      "teamsPoints": 320,
       "playersPoints": 10,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 300
+      "totalPoints": 330
     },
-    "rank": 72
+    "rank": 73
+  },
+  {
+    "bet": {
+      "lastName": "Blaser",
+      "firstName": "Heinz",
+      "team1": "Frankreich",
+      "team2": "Spanien",
+      "team3": "Deutschland",
+      "team4": "Niederlande",
+      "champion": "Frankreich",
+      "player1": "Giroud",
+      "player2": "Morata",
+      "player3": "Gnabry",
+      "player4": "Depay",
+      "topScorer": "Giroud"
+    },
+    "points": {
+      "teamsPoints": 290,
+      "playersPoints": 40,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 330
+    },
+    "rank": 73
+  },
+  {
+    "bet": {
+      "lastName": "Benz",
+      "firstName": "René",
+      "team1": "Frankreich",
+      "team2": "Spanien",
+      "team3": "Portugal",
+      "team4": "England",
+      "champion": "Frankreich",
+      "player1": "Mbappé",
+      "player2": "Griezmann",
+      "player3": "Kane",
+      "player4": "Hazard",
+      "topScorer": "Griezmann"
+    },
+    "points": {
+      "teamsPoints": 300,
+      "playersPoints": 20,
+      "championPoints": 0,
+      "topScorerPoints": 0,
+      "totalPoints": 320
+    },
+    "rank": 75
   },
   {
     "bet": {
@@ -1792,36 +1816,12 @@
     },
     "points": {
       "teamsPoints": 260,
-      "playersPoints": 30,
+      "playersPoints": 40,
       "championPoints": 0,
       "topScorerPoints": 0,
-      "totalPoints": 290
+      "totalPoints": 300
     },
-    "rank": 75
-  },
-  {
-    "bet": {
-      "lastName": "Benz",
-      "firstName": "René",
-      "team1": "Frankreich",
-      "team2": "Spanien",
-      "team3": "Portugal",
-      "team4": "England",
-      "champion": "Frankreich",
-      "player1": "Mbappé",
-      "player2": "Griezmann",
-      "player3": "Kane",
-      "player4": "Hazard",
-      "topScorer": "Griezmann"
-    },
-    "points": {
-      "teamsPoints": 270,
-      "playersPoints": 20,
-      "championPoints": 0,
-      "topScorerPoints": 0,
-      "totalPoints": 290
-    },
-    "rank": 75
+    "rank": 76
   },
   {
     "bet": {
