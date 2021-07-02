@@ -9,7 +9,7 @@ placeholder: >+
 
 
 song:
-  title: RAFFI‘S BEST OF -  Freitag 23 Uhr 🎉
+  title: RAFFI‘S BEST OF -  Freitag ausnahmsweise ab 🕗 🎉
   url: ""
   image: img/jukebox.jpg
   description: "\n\n"
