@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: >+
   Heute gibt’s den Bestseller auf dem Plattenteller schon ab  🕗 - Du hast es in
-  der Hand Helvetia ob Steh-Blues oder Rock’n’Roll 😎
+  der Hand Helvetia ob Steh-Blues oder Rock’n’Roll.....💃🏽🕺🏾.... 😎
 
 
 song:
