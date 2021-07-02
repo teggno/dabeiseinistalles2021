@@ -2,9 +2,10 @@
 title: Rangliste
 date: 2021-06-29T19:44:23.215Z
 image: ""
-showPlaceholder: false
-placeholder: |+
-  Noch einen weniger 🇩🇪 🥲 - Kurz nach 🕚 die Fakten 🥳
+showPlaceholder: true
+placeholder: >+
+  Heute gibt’s den Bestseller auf dem Plattenteller schon ab  🕗 - Du hast es in
+  der Hand Helvetia ob Steh-Blues oder Rock’n’Roll 😎
 
 
 song:
