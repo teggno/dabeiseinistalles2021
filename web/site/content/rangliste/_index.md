@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: true
 placeholder: "\n\n\n"
 song:
-  title: RAFFI‘S BEST OF -  Appuntamento alle ore 23 🎉
-  url: https://www.youtube.com/watch?v=e-6z5AYz8MQ
+  title: "RAFFI‘S BEST OF -  "
+  url: https://www.youtube.com/watch?v=tVYm0MomroE
   image: img/jukebox.jpg
   description: "\n\n"
 type: rangliste
