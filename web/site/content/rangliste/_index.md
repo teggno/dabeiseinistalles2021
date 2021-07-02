@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-06-29T19:44:23.215Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "\n\n\n"
 song:
   title: RAFFI‘S BEST OF -  Appuntamento alle ore 23 🎉
