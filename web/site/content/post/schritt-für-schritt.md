@@ -1,7 +1,7 @@
 ---
 title: "Pilgerfahrt "
-draft: true
-date: 2021-07-01T09:09:13.651Z
+draft: false
+date: 2021-07-02T06:47:31.877Z
 image: img/1754d0ec-7f4a-4f6c-9f80-4a332ccb92fd.jpeg
 ---
 Ist denn schon wieder Lockdown, werde ich von einer charmanten Dame gefragt, die gerade ihre Wetten fürs Viertelfinale an unserem Stand platzieren will. Bereits Stunden vor den beiden Schicksalsspielen, herrscht auf dem Boulevard gähnende Leere. Bis auf ein paar Nachbarn von „drüben“, die in schwarz unterwegs sind, ist niemand da. Nach der sensationellen 7 aus 8 Prophezeiung vom Achtelfinale hätte meine Zaubermaus eigentlich mehr Zuspruch verdient. Der einzige der sich erkenntlich gezeigt hat, ist Buffon-Vorgänger Petrillo, der ihr grosszügigerweise die Hälfte seines Wettspielgewinns zukommen liess. Danke Renato, sie wird das hübsche Sümmchen auf der Steuererklärung deklarieren 😎. Nicht dass jetzt alle hingehen und ihr ganzes Vermögen verzocken, die Sterne 🤩 stehen eher schlecht! In der Astronomie spricht man in solchen Momenten von „Oppositions-Konstellation“.
