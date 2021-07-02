@@ -3,7 +3,10 @@ title: Rangliste
 date: 2021-07-02T21:09:55.133Z
 image: ""
 showPlaceholder: false
-placeholder: "\n\n\n"
+placeholder: |+
+  Bis gleich 🛵
+
+
 song:
   title: RAFFI‘S BEST OF - Gianni Nannini/Edoardo Bennato - un estate italiana
   url: https://www.youtube.com/watch?v=tVYm0MomroE
