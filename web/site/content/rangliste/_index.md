@@ -9,8 +9,8 @@ placeholder: >+
 
 
 song:
-  title: RAFFI‘S BEST OF -  Freitag ausnahmsweise ab 🕗 🎉
-  url: ""
+  title: "RAFFI‘S BEST OF -  Für die Ewigkeit "
+  url: https://www.youtube.com/watch?v=e-6z5AYz8MQ
   image: img/jukebox.jpg
   description: "\n\n"
 type: rangliste
