@@ -17,10 +17,11 @@ song:
   url: https://www.youtube.com/watch?v=ToXGVcrgNZA
   image: img/jukebox.jpg
   description: >+
-    Spanien 🇪🇸 Italien 🇮🇹 Dänemark 🇩🇰 England! Die Halbfinal-Party beginnt
-    genau jetzt. Mit dem grössten Verwandlungskünstler der Popgeschichte. Beim
-    weiblichen Geschlecht immer noch hoch im Kurs. Hier ist er mit „all die
-    jungen Kerle, die Samstagnacht nur Blödsinn im Kopf hatten“...... 😎 🤫 
+    Spanien 🇪🇸 Italien 🇮🇹 Dänemark 🇩🇰 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿. Die
+    Halbfinal-Party beginnt genau jetzt. Mit dem grössten Verwandlungskünstler
+    der Popgeschichte. Beim weiblichen Geschlecht immer noch hoch im Kurs. Hier
+    ist er mit „all die jungen Kerle, die Samstagnacht nur Blödsinn im Kopf
+    hatten“...... 😎 🤫 
 
 type: rangliste
 ---
