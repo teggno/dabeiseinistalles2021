@@ -8,6 +8,11 @@ placeholder: >+
   🏴󠁧󠁢󠁥󠁮󠁧󠁿 Mutterland des Fussballs ⚽️
 
 
+  Um 🕚 geht’s weiter 🥳
+
+
+
+
 song:
   title: RAFFI‘S BEST OF - Appuntamento alle ore 23 🎉
   url: ""
