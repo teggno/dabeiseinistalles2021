@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: >+
   Spanien 🇪🇸  Italien 🇮🇹  Dänemark 🇩🇰.......jetzt fehlst nur noch du
-  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Mutterland des Fussballs ⚽️
+  🏴󠁧󠁢󠁥󠁮󠁧󠁿 .....Mutterland des Fussballs ⚽️
 
 
   Weiter geht’s um 🕚
