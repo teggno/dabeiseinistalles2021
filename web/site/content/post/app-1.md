@@ -1,5 +1,5 @@
 ---
-title: Alles und nichts!
+title: (Fast) alles und nichts!
 draft: false
 date: 2021-07-03T07:09:44.674Z
 image: img/d942df4f-5ebe-47fc-af10-09452d7456d4.webp
