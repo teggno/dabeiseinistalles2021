@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-07-03T19:09:04.460Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: >+
   Spanien 🇪🇸  Italien 🇮🇹  Dänemark 🇩🇰.......jetzt fehlst nur noch du.....
   🏴󠁧󠁢󠁥󠁮󠁧󠁿 .....Mutterland des Fussballs ⚽️
