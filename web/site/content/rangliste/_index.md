@@ -8,7 +8,7 @@ placeholder: >+
   🏴󠁧󠁢󠁥󠁮󠁧󠁿 .....Mutterland des Fussballs ⚽️
 
 
-  Weiter geht’s um 🕚
+  Die neue Tabelle gibt’s um 🕚.... 🥳
 
 
 
