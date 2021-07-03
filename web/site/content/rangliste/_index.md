@@ -8,7 +8,7 @@ placeholder: |+
 
 
 song:
-  title: RAFFI‘S BEST OF - Gianni Nannini/Edoardo Bennato - un estate italiana
+  title: RAFFI‘S BEST OF - Appuntamento alle ore 23 🎉
   url: https://www.youtube.com/watch?v=tVYm0MomroE
   image: img/jukebox.jpg
   description: "\n\n"
