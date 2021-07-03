@@ -21,7 +21,7 @@ song:
     genau jetzt. Mit dem grössten Verwandlungskünstler der Popgeschichte. Beim
     weiblichen Geschlecht immer noch hoch im Kurs. Hier ist er mit „all die
     jungen Kerle, die Samstagnacht nur Blödsinn im Kopf hatten“. Da waren wir
-    auch mal gemeint Bruno W. Ist schon eine ganze Weile her....
+    auch mal gemeint Hannes J. 😎 🤫........
 
 type: rangliste
 ---
