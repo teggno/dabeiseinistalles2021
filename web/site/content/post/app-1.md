@@ -1,5 +1,5 @@
 ---
-title: Ja
+title: Alles und nichts!
 draft: true
 date: 2021-07-02T22:21:55.853Z
 image: img/ea351ab6-9fc8-45b5-b3ca-67e8d5b5b3d5.jpeg
