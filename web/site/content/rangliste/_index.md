@@ -20,8 +20,8 @@ song:
     Spanien 🇪🇸 Italien 🇮🇹 Dänemark 🇩🇰 England! Die Halbfinal-Party beginnt
     genau jetzt. Mit dem grössten Verwandlungskünstler der Popgeschichte. Beim
     weiblichen Geschlecht immer noch hoch im Kurs. Hier ist er mit „all die
-    jungen Kerle, die Samstagnacht nur Blödsinn im Kopf hatten“. Da waren wir
-    auch mal gemeint Hannes J. 😎 🤫........
+    jungen Kerle, die Samstagnacht nur Blödsinn im Kopf hatten“. Lange ist’s
+    her.... Urs N. + Hannes J. 😎 🤫........
 
 type: rangliste
 ---
