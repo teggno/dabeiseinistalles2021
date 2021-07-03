@@ -21,7 +21,7 @@ song:
     genau jetzt. Mit dem grössten Verwandlungskünstler der Popgeschichte. Beim
     weiblichen Geschlecht immer noch hoch im Kurs. Hier ist er mit „all die
     jungen Kerle, die Samstagnacht nur Blödsinn im Kopf hatten“. Lange ist’s
-    her.... Urs N. + Hannes J. 😎 🤫........
+    her.... Urs N.  + Hannes J. 😎 🤫........
 
 type: rangliste
 ---
