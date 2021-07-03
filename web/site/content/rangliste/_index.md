@@ -21,7 +21,7 @@ song:
     England ist im Halbfinale. Da muss ein richtig grosses Kaliber her!  Er ist
     DER Verwandlungskünstler par excellence. In diesem Lied besingt er „all die
     jungen Kerle, die Samstagnacht nur Blödsinn im Kopf hatten“. Wäre ich eine
-    Lady, käme er ohne zu zögern auf meine Top10.....🤫
+    Lady, käme er ohne zu zögern auf meine Top10.....🤫 😎
 
 type: rangliste
 ---
