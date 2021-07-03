@@ -8,7 +8,7 @@ placeholder: >+
   🏴󠁧󠁢󠁥󠁮󠁧󠁿 Mutterland des Fussballs ⚽️
 
 
-  Um 🕚 geht’s weiter 🥳
+  Weiter geht’s um 🕚
 
 
 
