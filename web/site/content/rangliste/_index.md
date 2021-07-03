@@ -4,7 +4,7 @@ date: 2021-07-03T18:46:32.450Z
 image: ""
 showPlaceholder: true
 placeholder: >+
-  Spanien 🇪🇸 Italien 🇮🇹 Dänemark 🇩🇰.....jetzt fehlst nur noch du
+  Spanien 🇪🇸  Italien 🇮🇹  Dänemark 🇩🇰.......jetzt fehlst nur noch du
   🏴󠁧󠁢󠁥󠁮󠁧󠁿 Mutterland des Fussballs ⚽️
 
 
