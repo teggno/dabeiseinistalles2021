@@ -18,11 +18,10 @@ song:
   url: https://www.youtube.com/watch?v=ToXGVcrgNZA
   image: img/jukebox.jpg
   description: >+
-    England ist im Halbfinale. Da muss ein richtig grosses Kaliber her! Wäre ich
-    eine Lady - käme er ohne zu zögern auf meine Top10 Liste. Er ist der
-    Verwandlungskünstler par excellence. In diesem Lied besingt er „all die
-    jungen Kerle, die Samstagnacht nur Blödsinn im Kopf hatten“. Du hast gut
-    reden David - ist verdammt lange her....
+    England ist im Halbfinale. Da muss ein richtig grosses Kaliber her!  Er ist
+    DER Verwandlungskünstler par excellence. In diesem Lied besingt er „all die
+    jungen Kerle, die Samstagnacht nur Blödsinn im Kopf hatten“. Wäre ich eine
+    Lady, käme er ohne zu zögern auf meine Top10.....🤫
 
 type: rangliste
 ---
