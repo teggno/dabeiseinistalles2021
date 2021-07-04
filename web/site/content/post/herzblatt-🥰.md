@@ -1,8 +1,8 @@
 ---
-title: Grazie Azzurri 🥰
+title: "Grazie Azzurri "
 draft: true
 date: 2021-07-04T08:52:51.572Z
-image: img/5a43bf6f-eebb-4bee-a6f7-d6d478175bc2.png
+image: img/d2399e32-45a6-48d4-a278-75dc115ffc05.jpeg
 ---
 Cari connazionali
 
