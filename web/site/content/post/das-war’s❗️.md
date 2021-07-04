@@ -1,7 +1,7 @@
 ---
 title: Das war’s❗️
 draft: true
-date: 2021-07-01T17:40:45.824Z
+date: 2021-07-04T16:24:26.287Z
 image: img/85a170b4-f193-4be0-9658-c154fda023f2.webp
 ---
 Football’s coming home! England ist Europameister! Fragt mich jetzt nicht warum! Über ein halbes Jahrhundert lang haben die Pioniere des Fussballs auf den zweiten grossen Titel ihrer Geschichte warten müssen. Viele haben es geahnt! Die Briten waren nach Frankreich der meistgenannte Kandidat. Vor Italien, Belgien, Deutschland, der Schweiz, Polen, den Niederlanden und Potrugal. Spanien ging überraschend leer aus. Die vom „Volk“ präferierten Torschützen hiessen Fehlinvestition Mbappé, Spätzünder Kane und Langzeitwert Lukaku. Das Rennen machte schlussendlich Elfmetergarantie Ronaldo, Arm in Arm mit dem tschechischen Senkrechtstarter Schick.
