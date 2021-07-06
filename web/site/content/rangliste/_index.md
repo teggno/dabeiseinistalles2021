@@ -1,9 +1,16 @@
 ---
 title: Rangliste
-date: 2021-07-05T09:54:11.110Z
+date: 2021-07-06T19:50:05.029Z
 image: ""
-showPlaceholder: false
-placeholder: "\n\n\n\n\n\n\n"
+showPlaceholder: true
+placeholder: |+
+  
+  Bis später 🛵
+
+
+
+
+
 song:
   title: RAFFI‘S BEST OF -  Appuntamento martedi alle ore 23 🎉
   url: ""
