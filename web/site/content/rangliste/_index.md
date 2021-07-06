@@ -12,7 +12,7 @@ placeholder: |+
 
 
 song:
-  title: RAFFI‘S BEST OF -  Appuntamento martedi alle ore 23 🎉
+  title: "RAFFI‘S BEST OF -  "
   url: ""
   image: img/jukebox.jpg
   description: "\n\n"
