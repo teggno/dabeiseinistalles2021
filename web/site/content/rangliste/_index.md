@@ -12,15 +12,15 @@ placeholder: |+
 
 
 song:
-  title: RAFFI‘S BEST OF -  Adriano Celentano - Azzurro
-  url: https://www.youtube.com/watch?v=AzI4c8KVyNg
+  title: RAFFI‘S BEST OF -  Peppino di Capri - Champagne
+  url: https://www.youtube.com/watch?v=dqcsG22tPXI
   image: img/jukebox.jpg
   description: >+
-    Fantastico - Incredibile - ﻿Pazzesco❗️Der Traum ist wahr geworden - wir sind
-    im Finale 🥳. Auch mit etwas Glück. Wer könnte unsere Gefühle besser
-    ausdrücken als unser bestes Pferd 🐎  im Stall. Sein Evergreen ist den
-    „Azzurri“ wie auf den Leib geschneidert. Gläser hoch 🥂- Notenblatt 🎼 in
-    die Hand - raus auf die Veranda. „Maestro“ - per favore  commincia tu......
+    Ein Glas Champagner 🥂zum Runterfahren mit Blick aufs Meer. Musikalische
+    Begleitung von unserem Gastgeber, der am Klavier seinen Lieblingstitel zum
+    Besten gibt. Noch einmal ziehen die Highlights der gestrigen Partie vor
+    unseren Augen vorbei. Den Elfmeter von Jorginho werde ich nie mehr
+    vergessen. Nur ein „Verrückter“ schiesst ihn so. 
 
 type: rangliste
 ---
