@@ -16,7 +16,7 @@ song:
   url: https://www.youtube.com/watch?v=dqcsG22tPXI
   image: img/jukebox.jpg
   description: >+
-    Ein Glas Champagner 🥂zum Runterfahren mit Blick aufs Meer. Musikalische
+    Ein Glas Champagner🥂zum Runterfahren - mit Blick aufs Meer. Musikalische
     Begleitung von unserem Gastgeber, der am Klavier seinen Lieblingstitel zum
     Besten gibt. Noch einmal ziehen die Highlights der gestrigen Partie vor
     unseren Augen vorbei. Den Elfmeter von Jorginho werde ich nie mehr
