@@ -1,6 +1,6 @@
 ---
 title: Rangliste
-date: 2021-07-06T21:46:05.080Z
+date: 2021-07-07T13:53:08.253Z
 image: ""
 showPlaceholder: false
 placeholder: |+
