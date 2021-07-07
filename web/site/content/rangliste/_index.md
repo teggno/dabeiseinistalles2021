@@ -20,7 +20,7 @@ song:
     im Finale 🥳. Auch mit etwas Glück. Wer könnte unsere Gefühle besser
     ausdrücken als unser bestes Pferd 🐎  im Stall. Sein Evergreen ist den
     „Azzurri“ wie auf den Leib geschneidert. Gläser hoch 🥂- Notenblatt 🎼 in
-    die Hand - raus auf die Veranda. Adriano - per favore  commincia tu......
+    die Hand - raus auf die Veranda. „Maestro“ - per favore  commincia tu......
 
 type: rangliste
 ---
