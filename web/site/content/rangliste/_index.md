@@ -16,11 +16,11 @@ song:
   url: https://www.youtube.com/watch?v=A_MjCqQoLLA
   image: img/jukebox.jpg
   description: >+
-    Italien - jetzt weisst du - was dir am Sonntag blüht. England ist sich
-    todsicher: „Football is coming home“. Ich an ihrer Stelle würde die Sache
-    etwas ruhiger angehen. Seid demütig und legt das Schicksal in die Hände
-    dieser „Fab 🎸 Four“. Niemand weiss besser als sie - wie man den Thron der
-    Glückseligen besteigt.
+    Italien - jetzt weisst du - was dir am Sonntag blüht. England ist sich jetzt
+    schon sicher: „Football is coming home“. Ich an ihrer Stelle würde die Sache
+    etwas ruhiger angehen und das Schicksal in die Hände dieser „Fab 🎸 Four“
+    legen. Niemand weiss besser als sie - wie man den Thron der Glückseligen
+    besteigt.
 
 
 
