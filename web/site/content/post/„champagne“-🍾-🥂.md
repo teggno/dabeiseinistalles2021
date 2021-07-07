@@ -1,7 +1,7 @@
 ---
 title: „Champagne“
-draft: true
-date: 2021-07-06T10:14:56.765Z
+draft: false
+date: 2021-07-07T06:48:12.886Z
 image: img/e82be29d-fc61-42df-8ebe-ab255dcc2f36.jpeg
 ---
 Meraviglioso❗️Ein Drehbuch aus der Feder von Federico Fellini. Musikalisch untermalt von „Adriano Nazionale“. Italien steht im Final. Mit Hingabe und Leidenschaft haben die Azzurri 💙 die Herzen der Tifosi endgültig zurückerobert. Ein bisschen  Glück 🍀 war auch dabei. Baumeister des Erfolges ist der unumstrittene „capo“ Roberto Mancin! „Mister“ - wir sind dir zu ewigem Dank verpflichtet - egal wie die Sache ausgeht. Du hast uns das wiedergegeben, wovon wir immer geträumt hatten! Eine Mannschaft zu haben, die uns den Spass an diesem wundervollen Sport ⚽️ zurückbringt. Peppino di Capri, ein Minnesänger der ersten Stunde, der wie sein Name schon verrät am schönsten Ort auf dieser Welt zuhause ist, hat 1974 ein wunderschönes Lied mit dem Titel „Champagne“ komponiert. Zur Feier eines unvergesslichen  „Tète á Tète“ hat er den besten Champagner aus dem Keller geholt, ist auf die Terrasse gesessen und hat mit Blick auf die „Faraglioni“ diese verbotene Liaison noch einmal Revue passieren lassen. Unsere Beziehung, „Italia mia“, müssen wir nicht verstecken. DU - gehörst uns allen 🥰.
