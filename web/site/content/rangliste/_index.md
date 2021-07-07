@@ -13,7 +13,7 @@ placeholder: |+
 
 song:
   title: RAFFI‘S BEST OF -  The Beatles - Hey Jude
-  url: ""
+  url: https://www.youtube.com/watch?v=A_MjCqQoLLA
   image: img/jukebox.jpg
   description: >+
     Italien - jetzt weisst du - was dir am Sonntag blüht. England ist sich
@@ -23,7 +23,6 @@ song:
     Glückseligen besteigt.
 
 
-    Von meinem iPad gesendet
 
 type: rangliste
 ---
