@@ -12,7 +12,7 @@ placeholder: |+
 
 
 song:
-  title: RAFFI‘S BEST OF -  Appuntamento alle ore 23 🎉
+  title: RAFFI‘S BEST OF -  The Beatles - Hey Jude
   url: ""
   image: img/jukebox.jpg
   description: >+
