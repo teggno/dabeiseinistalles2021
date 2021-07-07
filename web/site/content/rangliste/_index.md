@@ -1,8 +1,8 @@
 ---
 title: Rangliste
-date: 2021-07-07T13:53:08.253Z
+date: 2021-07-07T19:51:37.851Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: |+
   
   Bis später 🛵
