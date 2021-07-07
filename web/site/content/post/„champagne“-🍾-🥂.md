@@ -1,5 +1,5 @@
 ---
-title: "Besondere Momente "
+title: „Champagne“
 draft: true
 date: 2021-07-06T10:14:56.765Z
 image: img/e82be29d-fc61-42df-8ebe-ab255dcc2f36.jpeg
