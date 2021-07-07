@@ -12,15 +12,9 @@ placeholder: |+
 
 
 song:
-  title: RAFFI‘S BEST OF -  Peppino di Capri - Champagne
-  url: https://www.youtube.com/watch?v=dqcsG22tPXI
+  title: RAFFI‘S BEST OF -  Appuntamento alle ore 23 🎉
+  url: ""
   image: img/jukebox.jpg
-  description: >+
-    Ein Glas Champagner🥂zum Runterfahren - mit Blick aufs Meer. Musikalische
-    Begleitung von unserem Gastgeber, der am Klavier seinen Lieblingstitel zum
-    Besten gibt. Noch einmal ziehen die Highlights der gestrigen Partie vor
-    unseren Augen vorbei. Den Elfmeter von Jorginho werde ich nie mehr
-    vergessen. Nur ein „Verrückter“ schiesst ihn so. 
-
+  description: "\n\n"
 type: rangliste
 ---
