@@ -12,18 +12,9 @@ placeholder: |+
 
 
 song:
-  title: RAFFI‘S BEST OF -  The Beatles - Hey Jude
-  url: https://www.youtube.com/watch?v=A_MjCqQoLLA
+  title: RAFFI‘S BEST OF - Appuntamento domenica alle ore ❓❓❓
+  url: ""
   image: img/jukebox.jpg
-  description: >+
-    Italien - jetzt weisst du - was dir am Sonntag blüht. England ist sich
-    sicher: „Football is coming home“. Ich an ihrer Stelle würde die Sache etwas
-    ruhiger angehen und das Schicksal in die Hände dieser „Fab 🎸 Four“ legen.
-    Niemand weiss besser als sie - wie man den Thron der Glückseligkeit
-    besteigt. 8️⃣ Minuten „Stehblues“❗️Jungs....wann gab es das zum letzten Mal
-    ...🥸
-
-
-
+  description: "\n\n\n\n"
 type: rangliste
 ---
