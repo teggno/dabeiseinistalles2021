@@ -16,10 +16,10 @@ song:
   url: https://www.youtube.com/watch?v=A_MjCqQoLLA
   image: img/jukebox.jpg
   description: >+
-    Italien - jetzt weisst du - was dir am Sonntag blüht. England ist sich jetzt
-    schon sicher: „Football is coming home“. Ich an ihrer Stelle würde die Sache
-    etwas ruhiger angehen und das Schicksal in die Hände dieser „Fab 🎸 Four“
-    legen. Niemand weiss besser als sie - wie man den Thron der Glückseligkeit
+    Italien - jetzt weisst du - was dir am Sonntag blüht. England ist sich
+    sicher: „Football is coming home“. Ich an ihrer Stelle würde die Sache etwas
+    ruhiger angehen und das Schicksal in die Hände dieser „Fab 🎸 Four“ legen.
+    Niemand weiss besser als sie - wie man den Thron der Glückseligkeit
     besteigt. Acht Minuten „Stehblues“ - Jungs, wann gab es das zum letzten Mal
     ...🥸
 
