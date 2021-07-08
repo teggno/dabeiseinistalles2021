@@ -2,7 +2,7 @@
 title: "Grazie Azzurri "
 draft: true
 date: 2021-07-04T08:52:51.572Z
-image: img/923c6eb8-4515-4caa-8a74-9a0c48c3a17b.jpeg
+image: img/9ae49d66-f968-48b0-b770-27c1481a24a7.jpeg
 ---
 Cari connazionali
 
