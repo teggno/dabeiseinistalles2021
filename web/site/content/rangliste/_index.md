@@ -20,7 +20,8 @@ song:
     schon sicher: „Football is coming home“. Ich an ihrer Stelle würde die Sache
     etwas ruhiger angehen und das Schicksal in die Hände dieser „Fab 🎸 Four“
     legen. Niemand weiss besser als sie - wie man den Thron der Glückseligen
-    besteigt. Jungs mischt die Szene nochmals auf.
+    besteigt. Acht Minuten „Stehblues“ - Jungs wann gab es das zum letzten Mal
+    🥸
 
 
 
