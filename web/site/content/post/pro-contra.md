@@ -16,7 +16,7 @@ Zappelphilipp Pickford - Taktiker Southgate - Ideenloses Mittelfeld - Ausser For
 
 Italien 🇮🇹  👍
 
-Torsteher Donnarumma - Die kindliche Lebensfreude  - Magier Mancini - die Abkehr vom Catenaccio -Vorausdenker Jorginho - die Flucht nach „vorne“ - die positive Ausstrahlung - die Unberechenbarkeit von Chiesa - die eingeschworene Truppe - der Hunger nach dem Sieg
+Torsteher Donnarumma - Die kindliche Lebensfreude  - Magier Mancini - die Abkehr vom Catenaccio -Vorausdenker Jorginho - die Flucht nach „vorne“ - die positive Ausstrahlung - die Unberechenbarkeit von Chiesa - die eingeschworene Truppe - 
 
 Italien 🇮🇹  👎
 
