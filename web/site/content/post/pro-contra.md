@@ -22,4 +22,6 @@ Italien 🇮🇹  👎
 
 “Knipser“ Immobile - Die Launenhaftigkeit von Insigne - der bereitgestellte 🧳 voller Pfund-💷 für den Unparteiischen 🤭 - il „Malocchio“ (böses 👁) vo gwüssä 🇨🇭Köllegä die prinzipiell gegen Italien sind
 
-„Sehr verehrtes Orakel von Tägerwilen“! Die Frage 🙋‍♂️ aller Fragen❗️Welches dieser Attribute wird den Ausschlag für Sein oder Nichtsein geben.......❓ Die Wahrscheinlichkeitsrechnung.....Leider 🥲 🇮🇹
+„Sehr verehrtes Orakel von Tägerwilen“! Die Frage 🙋‍♂️ aller Fragen❗️Welches dieser Attribute wird den Ausschlag für Sein oder Nichtsein geben.......❓ 
+
+Die Wahrscheinlichkeitsrechnung.....Mi dispiace  🇮🇹.....Ich hätte mein letztes 👔 gegeben.
