@@ -8,7 +8,7 @@ Phantastisch! Ich darf noch einmal zur Schule 🏫❗️Was gibt es Schöneres a
 
 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 👍
 
-Das Wohnzimmer - Tormaschine Kane - Die sattelfeste Abwehr - Dribbelkünstler Sterling - Die Wahrscheinlichkeitsrechnung - Der Mann in schwarz 🤩 - die Geldnöte 💷 gewisser England-Wett-Fanatiker, 
+Das Wohnzimmer - Tormaschine Kane - Die sattelfeste Abwehr - Dribbelkünstler Sterling - Die Wahrscheinlichkeitsrechnung - Der Mann in schwarz 🤩 - die Geldnöte 💷 gewisser England-Wett-Fanatiker 🙈 😎
 
 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 👎
 
