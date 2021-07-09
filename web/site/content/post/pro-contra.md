@@ -24,4 +24,4 @@ Italien 🇮🇹  👎
 
 „Sehr verehrtes Orakel von Tägerwilen“! Die Frage 🙋‍♂️ aller Fragen❗️Welches dieser Attribute wird den Ausschlag für Sein oder Nichtsein geben.......❓ 
 
-Die Wahrscheinlichkeitsrechnung.....Mi dispiace  🇮🇹.....Ich hätte mein letztes 👔 dafür gegeben, dass diese Romanze mit einem „Happyend“ in die Annalen eingeht.
+Es tut mir leid Bella 🇮🇹, etwas so Banales wie die Wahrscheinlichkeitsrechnung herbeizuziehen. Ich hätte mein letztes 👔 dafür gegeben, dass diese Romanze mit einem „Happyend“ in die Annalen eingeht.
