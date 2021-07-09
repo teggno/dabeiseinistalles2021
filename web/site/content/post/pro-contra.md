@@ -20,7 +20,7 @@ Torsteher Donnarumma - Die kindliche Lebensfreude  - Magier Mancini - die Abkehr
 
 Italien 🇮🇹  👎
 
-“Knipser“ Immobile - Die Launenhaftigkeit von Insigne - der bereitgestellte 🧳 voller Pfund-💷 für den Unparteiischen 🤭 - il „Malocchio“ (böses 👁) vo gwüssä 🇨🇭Köllegä die prinzipiell gegen Italien sind
+“Knipser“ Immobile - Die Launenhaftigkeit von Insigne - der bereitgestellte 🧳 voller Pfund-💷 für den Unparteiischen 🤭 - il „Malocchio“ (das böse Auge 👁) vo gwüssä 🇨🇭Köllegä die prinzipiell gegen Italien sind
 
 „Sehr verehrtes Orakel von Tägerwilen“! Die Frage 🙋‍♂️ aller Fragen❗️Welches dieser Attribute wird den Ausschlag für Sein oder Nichtsein geben.......❓ 
 
