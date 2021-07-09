@@ -12,7 +12,7 @@ Das Wohnzimmer inkl. Publikum  - Tormaschine Kane - Die sattelfeste Abwehr - Dri
 
 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 👎
 
-Zappelphilipp Pickford - Taktiker Southgate - Ideenloses Mittelfeld - Ausser Form geratene Ersatzbank - die durchschnittliche Gesamt-Performance 
+Zappelphilipp Pickford - Taktiker Southgate - Ideenloses Mittelfeld - Ausser Form geratene Ersatzbank - die emotionslose Gesamt-Performance 
 
 Italien 🇮🇹  👍
 
