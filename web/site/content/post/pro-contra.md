@@ -24,4 +24,4 @@ Italien 🇮🇹  👎
 
 „Sehr verehrtes Orakel von Tägerwilen 😇, die Frage 🙋‍♂️ aller Fragen❗️Welches dieser Attribute wird den Ausschlag für „Sein oder Nichtsein“ geben.......❓ 
 
-„Mi dispiace Bella 🇮🇹“, etwas so Banales wie die Wahrscheinlichkeitsrechnung heranzuziehen. Ich hätte mein letztes Hemd 👔 dafür gegeben, dass diese wundervolle Romanze mit einem „Happyend“ in die Annalen eingegangen wäre...🥲
+„Mi dispiace Bella 🇮🇹“, etwas so Banales wie die Wahrscheinlichkeitsrechnung heranziehen zu müssen. Ich hätte mein letztes Hemd 👔 dafür gegeben, dass diese wundervolle Romanze mit einem „Happyend“ in die Annalen eingegangen wäre...🥲
