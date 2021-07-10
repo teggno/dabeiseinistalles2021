@@ -2,7 +2,7 @@
 title: L‘ultimo passo❗️
 draft: true
 date: 2021-07-04T08:52:51.572Z
-image: img/a7f054b8-058a-4a5d-b4c6-9e3de0cc5a44.jpeg
+image: img/0b2914d3-4bd1-40b6-926e-707b7bf2d77b.jpeg
 ---
 Cari connazionali
 
