@@ -12,9 +12,15 @@ placeholder: >+
 
 
 song:
-  title: "RAFFI‘S BEST OF - "
+  title: RAFFI‘S BEST OF - il volo Grande Amore
   url: ""
   image: img/jukebox.jpg
-  description: "\n\n\n\n"
+  description: >+
+    
+    Una favola! L’Italia e campione d’Europa. Unter der Leitung eines grossen Dirigenten, der seinem Ensemble eine neue Identität gegeben hat,  holt sich die Squadra Azzurra nach 1968 den zweiten EM-Titel ihrer Geschichte. Mit auf Wolke 7 ist unser „Man of the Match“ Cosimo Cataldo, der heute Abend vom obersten Podest die 3 Tenöre der Neuzeit geniessen darf. 
+
+
+
+
 type: rangliste
 ---
