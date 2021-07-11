@@ -3,9 +3,9 @@ title: Rangliste
 date: 2021-07-07T21:38:32.961Z
 image: ""
 showPlaceholder: false
-placeholder: |+
+placeholder: >+
   
-  Bis später 🛵
+  Schluss-Rangliste ab ca. 23.15 Uhr. Falls das Finale in die Verlängerung und ins Elfmeterschiessen geht, kann es auch Mitternacht werden. Allen viel Glück.🤞 
 
 
 
