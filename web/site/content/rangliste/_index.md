@@ -3,16 +3,9 @@ title: Rangliste
 date: 2021-07-11T22:16:22.511Z
 image: ""
 showPlaceholder: false
-placeholder: >+
-  
-  Schluss-Rangliste ab ca. 23.15 Uhr. Falls das Finale in die Verlängerung und ins Elfmeterschiessen geht, kann es auch Mitternacht werden. Allen viel Glück.🤞 
-
-
-
-
-
+placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S BEST OF - il volo Grande Amore
+  title: RAFFI‘S BEST OF - Il Volo - Grande Amore
   url: https://www.youtube.com/watch?v=1TOMqZV2jA8
   image: img/jukebox.jpg
   description: >+
