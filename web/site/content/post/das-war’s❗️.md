@@ -4,7 +4,7 @@ draft: true
 date: 2021-07-11T22:44:45.476Z
 image: img/f09b9fa0-45a6-48b0-b220-9f6a97d58206.jpeg
 ---
-Ich bin erledigt. Eine Liebesromanze mit einem Riesen- Happyend. Una favola. Italien ist Europameister! Nach Frankreich waren die Italiener meistgenannter Kanditat vor England, Belgien, Deutschland, der Schweiz, Polen, den Niederlanden und Potrugal. Spanien ging überraschend leer aus. Die vom Tippvolk präferierten Torschützen hiessen Fehlinvestition Mbappé, Spätzünder Kane und Langzeitwert Lukaku. Das Rennen machte schlussendlich Elfmetergarantie Ronaldo.
+Una favola! Eine Liebesromanze mit einem Riesen- Happyend. Italien ist Europameister! Nach Frankreich waren die Italiener meistgenannter Kanditat vor England, Belgien, Deutschland, der Schweiz, Polen, den Niederlanden und Potrugal. Spanien ging überraschend leer aus. Die vom Tippvolk präferierten Torschützen hiessen Fehlinvestition Mbappé, Spätzünder Kane und Langzeitwert Lukaku. Das Rennen machte schlussendlich Elfmetergarantie Ronaldo.
 
 Nuancen haben über die Vergabe der Logenplätze entschieden. Mit der Kombination Frankreich-Portugal-Italien-Spanien-Lewandowski-Bruno Fernandes-Ronaldo-Immobile/Torschützenkönig Ronaldo/Europameister Italien, steht der Donnarumma-Vorgänger Cosimo Cataldo zuoberst auf dem Treppchen. Herzliche Gratulation 🥂. Silber holt sich Nico Colaci vor den Turteltäubchen Liana Brocca/ Jan Ascheanden. Dem Schicksal schon früh ergeben hat sich Rote Laterne🏮Träger Renato Meier. „Nimm än Schluck🍷 us dä Pullä“ - Lioba Renato, er wird dir gut tun.
 
