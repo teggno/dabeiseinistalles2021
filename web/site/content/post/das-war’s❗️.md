@@ -1,8 +1,8 @@
 ---
 title: Das war’s❗️
 draft: true
-date: 2021-07-11T19:59:52.220Z
-image: img/ff82e05c-7fdc-4912-a3b8-1e35baba6163.jpeg
+date: 2021-07-11T22:44:45.476Z
+image: img/f09b9fa0-45a6-48b0-b220-9f6a97d58206.jpeg
 ---
 Ich bin erledigt. Eine Liebesromanze mit einem Riesen- Happyend. Una favola. Italien ist Europameister! Nach Frankreich waren die Italiener meistgenannter Kanditat vor England, Belgien, Deutschland, der Schweiz, Polen, den Niederlanden und Potrugal. Spanien ging überraschend leer aus. Die vom Tippvolk präferierten Torschützen hiessen Fehlinvestition Mbappé, Spätzünder Kane und Langzeitwert Lukaku. Das Rennen machte schlussendlich Elfmetergarantie Ronaldo.
 
