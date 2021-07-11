@@ -1,6 +1,6 @@
 ---
 title: Das war’s❗️
-draft: true
+draft: false
 date: 2021-07-11T22:44:45.476Z
 image: img/f09b9fa0-45a6-48b0-b220-9f6a97d58206.jpeg
 ---
