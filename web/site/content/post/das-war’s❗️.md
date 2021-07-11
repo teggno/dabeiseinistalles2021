@@ -2,7 +2,7 @@
 title: Das war’s❗️
 draft: false
 date: 2021-07-11T22:44:45.476Z
-image: img/f09b9fa0-45a6-48b0-b220-9f6a97d58206.jpeg
+image: img/f4647517-b32c-473d-8530-276a6be64caf.jpeg
 ---
 Una favola! Eine Liebesromanze mit einem Riesen-Happyend. Mehr Spannung geht nicht mehr. Italien ist zum zweiten Mal nach 1968 Europameister! Da ist es piepegal, dass der Schreiberling wegen Falschaussage von all seinen Ämtern enthoben wurde. Italien war nach Frankreich meistgenannter Kanditat vor England, Belgien, Deutschland, der Schweiz, Polen, den Niederlanden und Portugal. Spanien ging überraschend leer aus. Die von der Tippgemeinde präferierten Torschützen hiessen Fehlinvestition Mbappé, Spätzünder Kane und Langzeitwert Lukaku. Das Rennen machte schlussendlich Elfmetergarantie Ronaldo.
 
