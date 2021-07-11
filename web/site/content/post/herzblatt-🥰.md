@@ -1,6 +1,6 @@
 ---
 title: L‘ultimo passo
-draft: true
+draft: false
 date: 2021-07-11T07:50:54.284Z
 image: img/0b2914d3-4bd1-40b6-926e-707b7bf2d77b.jpeg
 ---
