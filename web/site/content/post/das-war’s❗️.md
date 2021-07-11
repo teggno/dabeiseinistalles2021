@@ -1,5 +1,5 @@
 ---
-title: Das war’s❗️
+title: "Das war’s "
 draft: false
 date: 2021-07-11T22:44:45.476Z
 image: img/f4647517-b32c-473d-8530-276a6be64caf.jpeg
