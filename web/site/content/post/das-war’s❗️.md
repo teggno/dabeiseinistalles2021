@@ -2,7 +2,7 @@
 title: "Das war’s❗️ "
 draft: false
 date: 2021-07-11T22:44:45.476Z
-image: img/439311be-58c4-4d4e-ae04-837e3ba5c05c.jpeg
+image: img/a5a632c8-eeb5-4e04-80ef-20e8fa8a5c31.jpeg
 ---
 Una favola! Eine Liebesromanze mit einem Riesen-Happyend. Mehr Spannung geht nicht mehr. Italien ist zum zweiten Mal nach 1968 Europameister! Unter grossartiger Leitung ihres Dirigenten, Roberto Mancini und dem Helden des Abends, Gianluigi Donnarumma. Da ist es piepegal, dass der Schreiberling wegen Falschaussage von all seinen Ämtern enthoben wurde. Den Engländern versagten wie schon so oft bei entscheidenden Elfmeterschiessen die Nerven. Trainer Southgate fehlte kurz vor Ende der Verlängerung das goldene Näschen. Es ist ein Elend, ein EM-Finale im Penaltyschiessen zu verlieren. Italien war nach Frankreich meistgenannter Kandidat  in der Runde. Vor England, Belgien, Deutschland, der Schweiz, Polen, den Niederlanden und Portugal. Spanien ging überraschend leer aus. Die von der Tippgemeinde präferierten Torschützen hiessen Fehlinvestition Mbappé, Spätzünder Kane und Langzeitwert Lukaku. Das Rennen machte schlussendlich Elfmetergarantie Ronaldo.
 
