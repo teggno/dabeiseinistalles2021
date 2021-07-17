@@ -5,15 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S BEST OF - Luigi Tenco - Vedrai vedrai
-  url: https://www.youtube.com/watch?v=Bag7r33dexk
+  title: "RAFFI‘S BEST OF "
+  url: ""
   image: img/jukebox.jpg
-  description: |+
-    Solo per te
-
-
-
-
-
+  description: "\n\n\n\n\n\n"
 type: rangliste
 ---
