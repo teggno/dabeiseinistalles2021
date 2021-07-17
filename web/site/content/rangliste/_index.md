@@ -8,6 +8,7 @@ song:
   title: "RAFFI‘S BEST OF - Deep Purple ▶️ Child in Time "
   url: https://www.youtube.com/watch?v=4wAPTsjhrjM
   image: img/jukebox.jpg
-  description: "\n"
+  description: |
+    Die längsten Rock- Klassiker aller Zeiten 
 type: rangliste
 ---
