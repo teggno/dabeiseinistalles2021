@@ -13,7 +13,6 @@ song:
     The Hollies - He ain‘t heavy he‘s my brother 4️⃣ The Moody Blues - Nights in
     White Satin 5️⃣ The Beatles - Yesterday 6️⃣ The Animals - The House of the
     Rising Sun 7️⃣ Santana - Samba Pa Ti 8️⃣ Pink Floyd - Wish you were here 9️⃣
-    Led Zeppelin - Stairways to Heaven 🔟 Queen - Bohemian Rhapsody 1️⃣1️⃣ The
-    Doors - Riders on the Storm 1️⃣2️⃣ Jethro Tull - Locomotive Breath
+    Led Zeppelin - Stairways to Heaven 🔟 Queen - Bohemian Rhapsody 
 type: rangliste
 ---
