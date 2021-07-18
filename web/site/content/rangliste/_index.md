@@ -5,12 +5,11 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - Pink Floyd  ▶️  Wearing the Inside out
-  url: https://www.youtube.com/watch?v=xW-VTuD-avw
+  title: "RAFFI‘S 🎸JUKEBOX  - Sting  ▶️  La belle dame sans regrets "
+  url: https://www.youtube.com/watch?v=_1LhdpEg42Y
   image: img/jukebox.jpg
   description: >
-    Evergreens & Klassiker 🎻 🪗 🎷 🥁🪘❗️ 1️⃣ Ohrwurm pro Tag 🎉 🥳. Dieser
-    Titel - mit einem wundervollen Anfang - vorgetragen von DER
-    Psychedelic-Group der 60er und 70er - ist eher Insidern ein Begriff 
+    Evergreens & Klassiker 🎻 🪗 🎷 🥁🪘❗️ 1️⃣ Ohrwurm pro Tag 🎉 🥳. Sting für
+    einmal ganz anders. 
 type: rangliste
 ---
