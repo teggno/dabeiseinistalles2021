@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=_1LhdpEg42Y
   image: img/jukebox.jpg
   description: >
-    Evergreens & Klassiker 🎻 🪗 🎷 🥁🪘❗️ 1️⃣ Ohrwurm pro Tag 🎉 🥳. Sting für
-    einmal ganz anders. 
+    Evergreens & Klassiker 🎻 🪗 🎷 🥁🪘❗️ 1️⃣ Ohrwurm pro Tag 🎉 🥳. Der
+    ehemalige Police-Man für einmal ganz anders. 
 type: rangliste
 ---
