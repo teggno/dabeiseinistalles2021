@@ -9,7 +9,8 @@ song:
   url: https://www.youtube.com/watch?v=xW-VTuD-avw
   image: img/jukebox.jpg
   description: >
-    Evergreens & Klassiker 🎻 🪗 🎷 🥁 🪘❗️1️⃣ Ohrwurm pro Tag 🎉 🥳    Ein eher
-    unbekannter Titel von Pink Floyd - mit einem wundervollen Anfang….
+    Evergreens & Klassiker 🎻 🪗 🎷 🥁 🪘❗️1️⃣ Ohrwurm pro Tag 🎉 🥳  Dieser
+    Titel von Pink Floyd - mit einem wundervollen Anfang - ist eher Insidern ein
+    Begriff 
 type: rangliste
 ---
