@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=xW-VTuD-avw
   image: img/jukebox.jpg
   description: >
-    Evergreens 🎻  Klassiker 🎷 Ohrwürmer 🥁 1x pro Tag neu aufgelegt 🎉   Ein
+    Evergreens 🎻  Klassiker 🎷 Ohrwürmer 🪗. 1x pro Tag neu aufgelegt 🎉   Ein
     eher unbekannter Titel von Pink Floyd mit einem wundervollen Anfang
 type: rangliste
 ---
