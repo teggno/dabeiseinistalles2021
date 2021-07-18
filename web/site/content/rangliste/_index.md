@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: 1x täglich- RAFFI‘S 🎸 JUKEBOX  - Pink Floyd  ▶️ Wearing the Inside out
+  title: 1x täglich RAFFI‘S 🎸 JUKEBOX  - Pink Floyd  ▶️ Wearing the Inside out
   url: https://www.youtube.com/watch?v=xW-VTuD-avw
   image: img/jukebox.jpg
   description: |
