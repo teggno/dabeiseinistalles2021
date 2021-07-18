@@ -9,6 +9,6 @@ song:
   url: https://www.youtube.com/watch?v=xW-VTuD-avw
   image: img/jukebox.jpg
   description: |
-    Ein eher unbekannter Titel von Pink- Floyd mit einem wundervollen Anfang
+    Ein eher unbekannter Titel von Pink Floyd mit einem wundervollen Anfang
 type: rangliste
 ---
