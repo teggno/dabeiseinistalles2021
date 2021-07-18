@@ -10,7 +10,7 @@ song:
   image: img/jukebox.jpg
   description: >
     Evergreens & Klassiker 🎻 🪗 🎷 🥁🪘❗️ 1️⃣ Ohrwurm pro Tag 🎉 🥳. Dieser
-    Titel von Pink Floyd - mit einem wundervollen Anfang - ist eher Insidern ein
-    Begriff 
+    Titel - mit einem wundervollen Anfang - vorgetragen von DER
+    Psychedelic-Group der 60er und 70er - ist eher Insidern ein Begriff 
 type: rangliste
 ---
