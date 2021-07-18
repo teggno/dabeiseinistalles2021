@@ -10,6 +10,6 @@ song:
   image: img/jukebox.jpg
   description: >
     Evergreens & Klassiker 🎻 🪗 🎷 🥁🪘❗️ 1️⃣ Ohrwurm pro Tag 🎉 🥳. Der
-    ehemalige Police-Man für einmal ganz anders. 
+    ehemalige „Police-Man“ für einmal ganz anders. 
 type: rangliste
 ---
