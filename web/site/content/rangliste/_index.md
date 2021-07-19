@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=V3eOuK_-c34
   image: img/jukebox.jpg
   description: >
-    Evergreens & Klassiker 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎉 😎 Diese
+    Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎉 😎 Diese
     Stimme vergisst man nie - egal was sie singt.
 type: rangliste
 ---
