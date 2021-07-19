@@ -5,11 +5,11 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  - Barry White  ▶️  Let the music play "
-  url: https://www.youtube.com/watch?v=V3eOuK_-c34
+  title: RAFFI‘S 🎸JUKEBOX  - Adriano Celentano  ▶️  Ja tebia liubliu
+  url: https://www.youtube.com/watch?v=aNArLodcVMU
   image: img/jukebox.jpg
   description: >
-    Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎉  Seine
-    Stimme vergisst man nie - egal was sie singt.
+    Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎉  Eine
+    sogenannte Trouvaille. Wetten dass es niemand kennt…..
 type: rangliste
 ---
