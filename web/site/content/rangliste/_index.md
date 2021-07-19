@@ -10,6 +10,6 @@ song:
   image: img/jukebox.jpg
   description: >
     Evergreens & Klassiker 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎉 😎 Diese
-    Stimme vergisst man nie - egal was er singt.
+    Stimme vergisst man nie - egal was sie singt.
 type: rangliste
 ---
