@@ -9,7 +9,8 @@ song:
   url: https://www.youtube.com/watch?v=aNArLodcVMU
   image: img/jukebox.jpg
   description: >
-    Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎉  Eine
-    sogenannte „Trouvaille“. Wetten dass sie niemand kennt…..
+    Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎉  Passend
+    zum Feierabend eine sogenannte „Trouvaille“. Wetten dass sie niemand
+    kennt…..
 type: rangliste
 ---
