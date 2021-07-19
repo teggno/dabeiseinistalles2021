@@ -10,6 +10,6 @@ song:
   image: img/jukebox.jpg
   description: >
     Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎉  Eine
-    sogenannte Trouvaille. Wetten dass es niemand kennt…..
+    sogenannte „Trouvaille“. Wetten dass sie niemand kennt…..
 type: rangliste
 ---
