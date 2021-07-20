@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=4wAPTsjhrjM
   image: img/jukebox.jpg
   description: >
-    Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎉 🎈Für alle
+    Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎈 🎉 Für alle
     jung gebliebenen Hardrock-Fans ein zehnminütiger Klassiker zum
     „Mähneschütteln“ 🥸
 type: rangliste
