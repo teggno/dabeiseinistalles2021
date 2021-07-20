@@ -10,7 +10,7 @@ song:
   image: img/jukebox.jpg
   description: >
     Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎉 🎈Für alle
-    jung gebliebenen Hardrock-Fans ein fast zehnminütiger Klassiker zum
+    jung gebliebenen Hardrock-Fans ein zehnminütiger Klassiker zum
     „Mähneschütteln“ 🥸
 type: rangliste
 ---
