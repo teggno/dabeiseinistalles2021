@@ -5,12 +5,11 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - Deep Purple  ▶️  Child in Time
-  url: https://www.youtube.com/watch?v=4wAPTsjhrjM
+  title: RAFFI‘S 🎸JUKEBOX  - Neil Young  ▶️  Harvest Moon
+  url: https://www.youtube.com/watch?v=n2MtEsrcTTs
   image: img/jukebox.jpg
   description: >
-    Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎈 🎉 Für alle
-    jung gebliebenen Hardrock-Fans ein zehnminütiger Klassiker zum
-    „Mähneschütteln“ 🥸
+    Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎈 🎉 Genau so
+    einen Tanzschuppen bräuchten wir in unserer Gegend.
 type: rangliste
 ---
