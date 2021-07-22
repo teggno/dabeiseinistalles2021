@@ -10,7 +10,7 @@ song:
   image: img/jukebox.jpg
   description: >
     Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳  🎉  Dieser
-    Klassiker durfte bei keinem „Fez“ fehlen, sonst waren wir „Jungs“ am Boden
-    zerstört 🥲
+    Klassiker durfte natürlich bei keinem „Fez“ fehlen, sonst waren wir „Jungs“
+    am Boden zerstört 🥲
 type: rangliste
 ---
