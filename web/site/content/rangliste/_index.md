@@ -10,7 +10,7 @@ song:
   image: img/jukebox.jpg
   description: >
     Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳  🎉  Eine
-    Spritztour 🛵 ins Grüne mit  Wein 🍷 und Weib 😎…..dazu die passende Melodie
-    aus dem alten Kassettenrekorder 
+    Spritztour 🛵 ins Grüne und dazu die passende Melodie aus dem alten
+    Kassettenrekorder 
 type: rangliste
 ---
