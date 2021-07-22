@@ -5,11 +5,12 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - Neil Young  ▶️  Harvest Moon
-  url: https://www.youtube.com/watch?v=n2MtEsrcTTs
+  title: RAFFI‘S 🎸JUKEBOX  - The Turtles ▶️  Eleonore
+  url: https://www.youtube.com/watch?v=phMWtWZaDPQ
   image: img/jukebox.jpg
   description: >
-    Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳 🎈 🎉 Genau so
-    einen Tanzschuppen bräuchten wir in unserer Gegend.
+    Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳  🎉  Eine
+    Spritztour 🛵 ins Grüne mit  Wein 🍷 und Weib 😎…..dazu die passende Melodie
+    aus dem alten Kassettenrekorder 
 type: rangliste
 ---
