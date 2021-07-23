@@ -11,6 +11,6 @@ song:
   description: >
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Ein
     Freitagabend voller Überraschungen. Angefangen mit einem Caipirinha🍸 -
-    direkt an Brasilien‘s heissestem Strand 🏖
+    direkt an Rio’s heissestem Strand 🏖
 type: rangliste
 ---
