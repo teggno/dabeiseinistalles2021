@@ -10,7 +10,8 @@ song:
   image: img/jukebox.jpg
   description: >
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Ein
-    Freitagabend voller Überraschungen. Angefangen mit einem Caipirinha🍸 -
-    direkt an Rio’s heissestem Strand 🏖
+    Freitagabend voller Überraschungen. Die Plattenwünsche fliegen nur so rein!
+    Angefangen mit diesem hier und einem Caipirinha🍸 direkt an Rio’s heissestem
+    Strand 🏖
 type: rangliste
 ---
