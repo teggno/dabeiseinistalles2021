@@ -10,8 +10,8 @@ song:
   url: https://www.youtube.com/watch?v=Gmq4WIjQxp0
   image: img/jukebox.jpg
   description: >
-    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 😂 Bei
-    dieser Melodie 🎼 putzen sich die Fenster auch ausserhalb von Kalifornien
-    wie von selbst 😎
+    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Bei dieser
+    Melodie 🎼 putzen sich die Fenster auch ausserhalb von Kalifornien wie von
+    selbst 😎
 type: rangliste
 ---
