@@ -11,6 +11,7 @@ song:
   image: img/jukebox.jpg
   description: >
     Evergreens & Raritäten 🎻 🎷 🥁 🪕🪘Je nach Lust und Laune 🥳  🎉  🎈 Bei
-    dieser Melodie putzen sich die Fenster wie von selbst 😎
+    dieser Melodie putzen sich die Fenster auch ausserhalb von Kalifornien wie
+    von selbst 😎
 type: rangliste
 ---
