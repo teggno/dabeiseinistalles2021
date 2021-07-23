@@ -11,7 +11,7 @@ song:
   description: >
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Ein
     Freitagabend voller Überraschungen. Die Plattenwünsche fliegen nur so rein!
-    Angefangen mit diesem hier und einem Caipirinha🍸 direkt an Rio’s heissestem
+    Angefangen mit diesem hier dazu ein Caipirinha🍸 direkt an Rio’s heissestem
     Strand 🏖
 type: rangliste
 ---
