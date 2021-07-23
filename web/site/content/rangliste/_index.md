@@ -5,13 +5,13 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - Rosana Arbelo  ▶️  El Talisman
-  url: https://www.youtube.com/watch?v=27K6LE_ttho
+  title: RAFFI‘S 🎸JUKEBOX  -  Rod Stewart ▶️ I don‘t want to talk about it
+  url: https://www.youtube.com/watch?v=w46bWxS9IjY
   image: img/jukebox.jpg
   description: >
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Ein
     Freitagabend voller Überraschungen. Die Plattenwünsche fliegen nur so rein!
-    Nach Copacabana  🏖 und Caipirinha🍸 gehts gleich weiter mit einem 🍓Daiquri
-    aus dem spanischen Lanzarote
+    Balladen gibt es viele. Aber diese hier ist etwas ganz Besonderes. Vor allem
+    dank ihr.
 type: rangliste
 ---
