@@ -11,7 +11,7 @@ song:
   description: >
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Ein
     Freitagabend voller Überraschungen. Die Plattenwünsche fliegen nur so rein!
-    Nach Copacabana und Caipirinha🍸 gehts gleich weiter mit einem 🍓Daiquri aus
-    dem spanischen Lanzarote
+    Nach Copacabana  🏖 und Caipirinha🍸 gehts gleich weiter mit einem 🍓Daiquri
+    aus dem spanischen Lanzarote
 type: rangliste
 ---
