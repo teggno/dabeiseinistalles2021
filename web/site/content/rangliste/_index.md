@@ -11,6 +11,6 @@ song:
   description: >
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Ein
     Freitagabend voller Überraschungen. Angefangen mit einem Caipirinha🍸 -
-    direkt an der Copacabana 🏖
+    direkt an Brasilien‘s heissestem Strand 🏖
 type: rangliste
 ---
