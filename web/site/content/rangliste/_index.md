@@ -11,6 +11,6 @@ song:
   description: >
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Una canzone
     speciale 🎤 come la donna che la canta. Sie hat den italienischen Schlager
-    erst hoffähig gemacht.
+    auf der ganzen 🌎 erst hoffähig gemacht.
 type: rangliste
 ---
