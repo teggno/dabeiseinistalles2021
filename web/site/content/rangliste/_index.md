@@ -5,11 +5,10 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX - Santana  ▶️  Samba Pa Ti
-  url: https://www.youtube.com/watch?v=DWO_eojWezg
+  title: RAFFI‘S 🎸JUKEBOX -  Various Artists  ▶️  We are the World
+  url: https://www.youtube.com/watch?v=s3wNuru4U0I
   image: img/jukebox.jpg
-  description: |-
+  description: |
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 
-    1970 veröffentlicht und 2021 immer noch unter den Top 🔟
 type: rangliste
 ---
