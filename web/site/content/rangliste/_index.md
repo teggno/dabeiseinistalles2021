@@ -8,7 +8,8 @@ song:
   title: RAFFI‘S 🎸JUKEBOX  Pino Daniele  ▶️  Sicily
   url: https://www.youtube.com/watch?v=WmWIKiJhTuE
   image: img/jukebox.jpg
-  description: |
+  description: |-
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 
+    Die schönsten neapolitanischen Lieder stammen von ihm.
 type: rangliste
 ---
