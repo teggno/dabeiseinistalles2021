@@ -5,13 +5,12 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Rod Stewart ▶️ I don‘t want to talk about it
-  url: https://www.youtube.com/watch?v=w46bWxS9IjY
+  title: RAFFI‘S 🎸JUKEBOX  -  Mina  ▶️  Ancora Ancora Ancora
+  url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
   description: >
-    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Ein
-    Freitagabend voller Überraschungen. Die Plattenwünsche fliegen nur so rein!
-    Balladen gibt es viele. Aber diese hier ist etwas ganz Besonderes. Vor allem
-    dank ihr.
+    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Una canzone
+    speciale 🎤 come la donna che la canta. Sie hat den italienischen Schlager
+    erst hoffähig gemacht.
 type: rangliste
 ---
