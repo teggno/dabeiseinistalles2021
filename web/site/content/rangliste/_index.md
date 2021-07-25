@@ -11,7 +11,7 @@ song:
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 
 
-    Normalerweise auf keiner Speisekarte zu finden! ﻿Rock und Klassik in dieser Kombination ist etwas Einzigartiges. Wer dem viel zu früh verstorbenen Deep-Purple Keyboarder John Lord ein paar Minuten schenkt, ist einfach verzaubert.
+    Normalerweise auf keiner Speisekarte zu finden! ﻿Rock und Klassik in dieser Kombination ist etwas Einzigartiges. Wer dem viel zu früh verstorbenen Deep-Purple Keyboarder ein paar Minuten schenkt, ist einfach verzaubert.
 
 type: rangliste
 ---
