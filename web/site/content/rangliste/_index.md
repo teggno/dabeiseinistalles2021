@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - ▶️ Sotto le stelle del Jazz
+  title: RAFFI‘S 🎸JUKEBOX  - Paolo Conte  ▶️ Sotto le stelle del Jazz
   url: https://www.youtube.com/watch?v=UkDNvrYwSMs
   image: img/jukebox.jpg
   description: >
