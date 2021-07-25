@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  John Lord  ▶️  Pavane
+  title: RAFFI‘S 🎸JUKEBOX  -  Jon Lord  ▶️  Pavane
   url: https://www.youtube.com/watch?v=H4UjJSeTxPs
   image: img/jukebox.jpg
   description: >+
