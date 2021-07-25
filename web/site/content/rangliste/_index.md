@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -  Udo  ▶️  Lindenberg
+  title: "RAFFI‘S 🎸JUKEBOX -  Udo Lindenberg ▶️  Was hat die Zeit mit uns gemacht "
   url: https://www.youtube.com/watch?v=KYZleVe9Tow
   image: img/jukebox.jpg
   description: |
