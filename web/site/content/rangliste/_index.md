@@ -5,12 +5,11 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - Paolo Conte  ▶️ Sotto le stelle del Jazz
-  url: https://www.youtube.com/watch?v=UkDNvrYwSMs
+  title: "RAFFI‘S 🎸JUKEBOX  - CCR  ▶️  Have you ever seen the rain "
+  url: https://www.youtube.com/watch?v=u1V8YRJnr4Q
   image: img/jukebox.jpg
-  description: >
-    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Dieser Typ
-    ist eine Ausnahmeerscheinung. Mit niemandem zu vergleichen. Passt in kein
-    Schema rein.
+  description: |-
+    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 ☔️
+    Was für eine Frage 🌧
 type: rangliste
 ---
