@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -  Various Artists  ▶️  We are the World
-  url: https://www.youtube.com/watch?v=s3wNuru4U0I
+  title: RAFFI‘S 🎸JUKEBOX -  Udo  ▶️  Lindenberg
+  url: https://www.youtube.com/watch?v=KYZleVe9Tow
   image: img/jukebox.jpg
   description: |
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 
