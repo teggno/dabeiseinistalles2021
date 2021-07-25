@@ -5,11 +5,13 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  - CCR  ▶️  Have you ever seen the rain "
-  url: https://www.youtube.com/watch?v=hoZmRBNixAM
+  title: RAFFI‘S 🎸JUKEBOX  -  John Lord  ▶️  Pavane
+  url: https://www.youtube.com/watch?v=H4UjJSeTxPs
   image: img/jukebox.jpg
-  description: |-
-    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 ☔️
-    Was für eine Frage 🌧 Mr. Fogerty….
+  description: >+
+    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 
+
+    Normalerweise auf keiner Speisekarte zu finden! ﻿Rock und Klassik in dieser Kombination ist etwas Einzigartiges. Wer dem viel zu früh verstorbenen Deep-Purple Keyboarder John Lord ein paar Minuten schenkt, ist einfach verzaubert.
+
 type: rangliste
 ---
