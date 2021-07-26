@@ -9,8 +9,8 @@ song:
   url: https://www.youtube.com/watch?v=LYAvhujK4nA
   image: img/jukebox.jpg
   description: >+
-    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Toujours la
-    même chose 🤭 avec les femmes 😎
+    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Aujourd’hui
+    on parle seulement francais 🇫🇷Toujours la même chose 🤭 avec les femmes 😎
 
 
 type: rangliste
