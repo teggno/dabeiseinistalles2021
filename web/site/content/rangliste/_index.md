@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Charles Aznavour  ▶️  La Bohème
-  url: https://www.youtube.com/watch?v=pFtDUxXmEoE
+  title: RAFFI‘S 🎸JUKEBOX  -  Edith Piaf  ▶️  Je ne regrette rien
+  url: https://www.youtube.com/watch?v=4Hqc-NWlNJQ
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Aujourd’hui
