@@ -10,7 +10,7 @@ song:
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Aujourd’hui
-    on parle seulement francais 🇫🇷 
+    on parle seulement francais 🇫🇷 Pour „Banquette“….mais ne pleure 🥲 pas 
 
 
 type: rangliste
