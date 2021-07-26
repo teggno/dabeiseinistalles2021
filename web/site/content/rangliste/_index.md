@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸JUKEBOX  -  The Eagles ▶️  Hotel California
-  url: https://www.youtube.com/watch?v=qYaDKRSQFfU
+  url: https://www.youtube.com/watch?v=1d5-TleZXCk
   image: img/jukebox.jpg
   description: |+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 
