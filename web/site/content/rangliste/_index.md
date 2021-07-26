@@ -10,7 +10,8 @@ song:
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Aujourd’hui
-    on parle seulement francais 🇫🇷 C‘était le tube de la saison 1969 á Rimini
+    on parle seulement francais 🇫🇷 C‘était le „Sommerhit“ de la saison 1969 á
+    Rimini
 
 
 type: rangliste
