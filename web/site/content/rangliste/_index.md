@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸JUKEBOX  -  Jean Francois Michael  ▶️  Adieu Jolie Candy
-  url: https://www.youtube.com/watch?v=yyoTfgAa7j4
+  url: https://www.youtube.com/watch?v=7Peh1BCD4Ik
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Aujourd’hui
