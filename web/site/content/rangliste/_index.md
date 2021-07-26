@@ -10,7 +10,7 @@ song:
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Aujourd’hui
-    on parle seulement 🤷‍♀️  francais 🇫🇷 🇫🇷 🇫🇷Toujours la même chose 🤭
+    on parle seulement 🤷‍♀️  francais 🇫🇷 🇫🇷 🇫🇷 Toujours la même chose 🤭
     avec les femmes 😎
 
 
