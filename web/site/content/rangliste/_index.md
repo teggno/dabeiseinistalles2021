@@ -11,7 +11,7 @@ song:
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Aujourd’hui
     on parle seulement 🤷‍♀️  francais 🇫🇷 C’est toujours  la même chose 🤭
-    avec les femmes 😎❗️N‘est pas Alain…..🤦🏻‍♂️
+    avec les femmes 😎n‘est pas Alain…..🤦🏻‍♂️
 
 
 type: rangliste
