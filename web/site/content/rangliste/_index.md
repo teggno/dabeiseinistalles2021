@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Dalida et Alain Delon  ▶️  Paroles
+  title: RAFFI‘S 🎸JUKEBOX  -  Dalida et Alain Delon  ▶️  Paroles, Paroles
   url: https://www.youtube.com/watch?v=LYAvhujK4nA
   image: img/jukebox.jpg
   description: >+
