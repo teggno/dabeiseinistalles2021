@@ -5,13 +5,12 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Jon Lord  ▶️  Pavane
-  url: https://www.youtube.com/watch?v=H4UjJSeTxPs
+  title: "RAFFI‘S 🎸JUKEBOX  -  Smokie  ▶️  Lay back in the arms of someone "
+  url: https://www.youtube.com/watch?v=opJyRioBHp8
   image: img/jukebox.jpg
-  description: >+
+  description: |+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 
 
-    Normalerweise auf keiner Speisekarte zu finden! ﻿Rock und Klassik in dieser Kombination ist etwas Einzigartiges. Wer dem viel zu früh verstorbenen Deep-Purple Keyboarder ein paar Minuten schenkt, ist einfach verzaubert.
 
 type: rangliste
 ---
