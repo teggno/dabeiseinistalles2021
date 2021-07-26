@@ -6,11 +6,11 @@ showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸JUKEBOX  -  Dalida et Alain Delon  ▶️  Paroles
-  url: https://www.youtube.com/watch?v=_ifJapuqYiU
+  url: https://www.youtube.com/watch?v=LYAvhujK4nA
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Toujours la
-    même chose 🤭 entre elle e lui 😎
+    même chose 🤭 avec les femmes 😎
 
 
 type: rangliste
