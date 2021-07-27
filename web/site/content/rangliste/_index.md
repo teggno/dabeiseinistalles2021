@@ -5,15 +5,16 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  Let it be
-  url: https://www.youtube.com/watch?v=QDYfEBY9NM4
+  title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  The Long and Winding Road
+  url: https://www.youtube.com/watch?v=fR4HjTH_fTM
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Beatles-Tag
     auf meiner Musikbox. Nummer 1️⃣ Hits wie Sand am Meer. Die erfolgreichste
     Band der Musikgeschichte. Nach 10 Jahren Gemeinsamkeit war 1970 Schluss. Auf
-    dem Höhepunkt aufgehört und jeglichen Comebacks widerstanden. Ob ihr letzter
-    grosser Hit ein Wink mit dem Zaunpfahl war 🤷‍♂️
+    dem Höhepunkt aufgehört und jeglichen Comebacks widerstanden. Zum Abschluss
+    des Abends mein Beatles-Lieblingsstück. Die Melancholie einer verregneten
+    Sommernacht.
 
 
 type: rangliste
