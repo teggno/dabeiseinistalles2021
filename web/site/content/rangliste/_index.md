@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  With a little help from my friends
+  title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  Penny Lane
   url: https://m.youtube.com/watch?v=YIizdazLTeU
   image: img/jukebox.jpg
   description: >+
