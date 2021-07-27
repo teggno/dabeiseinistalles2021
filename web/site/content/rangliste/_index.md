@@ -10,8 +10,9 @@ song:
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Beatles-Tag
-    auf meiner Musikbox 😎. Nummer-1-Hits wie Sand am Meer. Mit Mozart zusammen
-    zuoberst auf dem Olymp. Bis heute unerreicht. 
+    auf meiner Musikbox 😎. Nummer-1-Hits wie Sand am Meer. Die erfolgreichste
+    Band der Musikgeschichte. Nach 10 Jahren Gemeinsamkeit war 1970 Schluss.
+    Aufhören wenn es am Schönsten ist. Sie hatten es begriffen. 
 
 
 type: rangliste
