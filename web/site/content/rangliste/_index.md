@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  Sie liebt dich 🤭
+  title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  She loves you
   url: https://www.youtube.com/watch?v=x7prHYwxWPY
   image: img/jukebox.jpg
   description: >+
