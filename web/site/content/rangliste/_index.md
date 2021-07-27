@@ -5,14 +5,13 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  Here comes the  sun  ☀️☀️☀️
-  url: https://www.youtube.com/watch?v=KQetemT1sWc
+  title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  Sie liebt dich 🤭
+  url: https://www.youtube.com/watch?v=x7prHYwxWPY
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Beatles-Tag
     auf meiner Musikbox 😎. Nummer-1-Hits wie Sand am Meer. Bis heute
-    unerreicht. Mit Mozart zusammen zuoberst auf dem Olymp. Da muss
-    die  Sonne  ja scheinen.
+    unerreicht. Mit Mozart zusammen zuoberst auf dem Olymp.
 
 
 type: rangliste
