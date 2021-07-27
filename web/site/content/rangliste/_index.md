@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  Penny Lane
-  url: https://m.youtube.com/watch?v=YIizdazLTeU
+  url: https://www.youtube.com/watch?v=S-rB0pHI9fU
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Beatles-Tag
