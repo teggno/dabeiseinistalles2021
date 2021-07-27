@@ -11,8 +11,7 @@ song:
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Beatles-Tag
     auf meiner Musikbox 😎. Nummer-1-Hits wie Sand am Meer. Mit Mozart zusammen
-    zuoberst auf dem Olymp. Bis heute unerreicht. Über gestern lassen wir Paul
-    jetzt reden
+    zuoberst auf dem Olymp. Bis heute unerreicht. 
 
 
 type: rangliste
