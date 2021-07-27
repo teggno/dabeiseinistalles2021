@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  Penny Lane
+  title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  Hello Goodbye
   url: https://www.youtube.com/watch?v=S-rB0pHI9fU
   image: img/jukebox.jpg
   description: >+
