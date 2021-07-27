@@ -12,7 +12,7 @@ song:
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Beatles-Tag
     auf meiner Musikbox 😎. Nummer-1-Hits wie Sand am Meer. Die erfolgreichste
     Band der Musikgeschichte. Nach 10 Jahren Gemeinsamkeit war 1970 Schluss. Auf
-    dem Höhepunkt aufhören. Nur wenige schaffen es.
+    dem Höhepunkt aufgehört und jeglichen Comebacks widerstanden.
 
 
 type: rangliste
