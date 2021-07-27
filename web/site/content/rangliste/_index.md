@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  She loves you
-  url: https://www.youtube.com/watch?v=x7prHYwxWPY
+  title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  In my Life
+  url: https://www.youtube.com/watch?v=ZqpysaAo4BQ
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Beatles-Tag
