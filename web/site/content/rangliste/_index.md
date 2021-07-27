@@ -9,9 +9,10 @@ song:
   url: https://www.youtube.com/watch?v=NCtzkaL2t_Y
   image: img/jukebox.jpg
   description: >+
-    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 🎈 Das
-    „Dachkonzert“ von 1969 war der letzte Live-Auftritt der legendären „Fab
-    Four“. 
+    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉
+    🎈Beatles-Tag auf meiner Musikbox😎 Nummer 1 Hits wie Sand am Meer. Bis
+    heute unerreicht. Mit Mozart zusammen zuoberst auf dem Olymp. Das
+    „Dachkonzert“ von 1969 war ihr letzter Live-Auftritt. Fangen wir dort an.
 
 
 type: rangliste
