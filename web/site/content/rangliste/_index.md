@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Lou Rawls  ▶️  You‘ll never find á love like mine
+  title: RAFFI‘S 🎸JUKEBOX  -  Lou Rawls  ▶️  You‘ll never find another love like mine
   url: https://www.youtube.com/watch?v=phWBaVpeRcY
   image: img/jukebox.jpg
   description: |+
