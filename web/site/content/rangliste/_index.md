@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Cat Stevens  ▶️  Father & Son
-  url: https://www.youtube.com/watch?v=P6zaCV4niKk
+  title: RAFFI‘S 🎸JUKEBOX  -  Lou Rawls  ▶️  You‘ll never find á love like mine
+  url: https://www.youtube.com/watch?v=phWBaVpeRcY
   image: img/jukebox.jpg
   description: |+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 
