@@ -11,7 +11,7 @@ song:
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 🎈 Das
     „Dachkonzert“ von 1969 war der letzte Live-Auftritt der legendären „Fab
-    Four“. Die staunende Menge blickt sprachlos gen Himmel 🌌 
+    Four“. 
 
 
 type: rangliste
