@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  The Long and Winding Road
-  url: https://www.youtube.com/watch?v=fR4HjTH_fTM
+  url: https://www.youtube.com/watch?v=NR0u_qjq2fM
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Beatles-Tag
