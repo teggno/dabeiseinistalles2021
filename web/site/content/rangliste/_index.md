@@ -5,13 +5,11 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Udo Lindenberg ▶️  Das Leben
-  url: https://www.youtube.com/watch?v=jvxqzBeUj-w
+  title: "RAFFI‘S 🎸JUKEBOX  -  Dire Straits  ▶️  Fade to black "
+  url: https://www.youtube.com/watch?v=TuYppz9Azzc
   image: img/jukebox.jpg
-  description: >+
-    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Heute Abend
-    ist die Musikbox voll von deutschen Schlagern. Die Plattenwünsche flattern
-    nur so herein. 😀 😎 🙈….auf einmal .nur noch Udo Lindenberg…..
+  description: |+
+    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉  
 
 
 type: rangliste
