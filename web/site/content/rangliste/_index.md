@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Carlos Santana  ▶️  Smooth "
-  url: https://www.youtube.com/watch?v=6Whgn_iE5uc
+  title: RAFFI‘S 🎸JUKEBOX  -  Dionne Warwick  ▶️  All the love in the world
+  url: https://www.youtube.com/watch?v=LZPxdvYLHVQ
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 🎈Oggi si
