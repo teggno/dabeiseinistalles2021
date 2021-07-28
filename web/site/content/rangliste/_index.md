@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Gipsy Kings  ▶️  Bamboleo
-  url: https://www.youtube.com/watch?v=7qbEt_lSib4
+  title: RAFFI‘S 🎸JUKEBOX  -  Santana  ▶️  Hold on
+  url: https://www.youtube.com/watch?v=e3PZ-Mju5Hk
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Oggi si
