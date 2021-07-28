@@ -10,7 +10,7 @@ song:
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Heute Abend
-    ist die Musikbox voll von deutschen Schlagern 
+    ist die Musikbox voll von deutschen Schlagern. 
 
 
 type: rangliste
