@@ -5,13 +5,13 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Kaoma  ▶️  Lambada
-  url: https://www.youtube.com/watch?v=iyLdoQGBchQ
+  title: RAFFI‘S 🎸JUKEBOX  - Doors  ▶️  Severed Garden
+  url: https://www.youtube.com/watch?v=pFtDUxXmEoE
   image: img/jukebox.jpg
   description: >+
-    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Oggi si
-    balla 💃🏽🕺🏾 - einmal über‘s ganze Parkett und dann wieder nur auf einem
-    Bierdeckel 😎  
+    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉  Der Tanz
+    💃🏽 ist aus 🕺🏾. Alles liegt so nahe beieinander. Plötzlich  übernehmen
+    düstere Individuen das Kommando.
 
 
 type: rangliste
