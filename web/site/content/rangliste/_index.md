@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  BAP  ▶️  Du kanns zaubere "
-  url: https://www.youtube.com/watch?v=9M8hCC1_XnQ
+  title: RAFFI‘S 🎸JUKEBOX  -  Udo Jürgens  ▶️  Der Mann mit der Mütze geht nach Haus
+  url: https://www.youtube.com/watch?v=h0yqHALUQ8o
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Heute Abend
