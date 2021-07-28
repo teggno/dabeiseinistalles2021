@@ -10,7 +10,8 @@ song:
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 🎈Oggi si
-    balla 💃🏽🕺🏾
+    balla 💃🏽🕺🏾 - einmal über‘s ganze Parkett und dann wieder nur auf einem
+    Bierdeckel 😎
 
 
 type: rangliste
