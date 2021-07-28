@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Juliane Werding  ▶️  Am Tag als Conny Kramer starb
-  url: https://www.youtube.com/watch?v=Q9bE5aj4jzA
+  title: RAFFI‘S 🎸JUKEBOX  -  Reinhard Mey  ▶️  Über den Wolken
+  url: https://www.youtube.com/watch?v=fZMFF8QH3ew
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Heute Abend
