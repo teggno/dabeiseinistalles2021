@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Earth Wind & Fire  ▶️  September
-  url: https://www.youtube.com/watch?v=Gs069dndIYk
+  title: "RAFFI‘S 🎸JUKEBOX  -  Hot Chocolate  ▶️  It started with a kiss "
+  url: https://www.youtube.com/watch?v=NosS1rpJ7tU
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 🎈Oggi si
