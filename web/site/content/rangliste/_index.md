@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Gary Moore  ▶️  Parisienne Walkways
-  url: https://www.youtube.com/watch?v=DwhJZwQTqVU
+  title: RAFFI‘S 🎸JUKEBOX  -  Eric Clapton  ▶️  Layla (unplugged)
+  url: https://www.youtube.com/watch?v=DbFBXxTxXvY
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Oggi si
