@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Soulful Dynamics  ▶️  Mademoiselle Ninette
-  url: https://www.youtube.com/watch?v=79XU8Vg7eSQ
+  title: "RAFFI‘S 🎸JUKEBOX  -  Carlos Santana  ▶️  Smooth "
+  url: https://www.youtube.com/watch?v=28E8WKZ614w
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 🎈Oggi si
