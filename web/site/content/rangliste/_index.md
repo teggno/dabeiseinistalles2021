@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Bobby Winton  ▶️  Mr. Lonely
-  url: https://www.youtube.com/watch?v=djU4Lq_5EaM
+  title: RAFFI‘S 🎸JUKEBOX  -  Chuck Berry ▶️  Johnny be good
+  url: https://www.youtube.com/watch?v=T38v3-SSGcM
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Oggi si
