@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸JUKEBOX  -  The Doors  ▶️  Severed Garden
-  url: https://www.youtube.com/watch?v=pFtDUxXmEoE
+  url: https://www.youtube.com/watch?v=MEHL9Dl5LAg
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉  Der Tanz
