@@ -5,16 +5,12 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - The Beatles  ▶️  The Long and Winding Road
-  url: https://www.youtube.com/watch?v=NR0u_qjq2fM
+  title: RAFFI‘S 🎸JUKEBOX  -  Rita Hayworth  ▶️  Sway
+  url: https://www.youtube.com/watch?v=M5FtCIoJATM
   image: img/jukebox.jpg
   description: >+
-    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Beatles-Tag
-    auf meiner Musikbox. Nummer 1️⃣ Hits wie Sand am Meer. Die erfolgreichste
-    Band der Musikgeschichte. Nach 10 Jahren Gemeinsamkeit war 1970 Schluss. Auf
-    dem Höhepunkt aufgehört und jeglichen Comebacks widerstanden. Zum Abschluss
-    des Abends mein Beatles-Lieblingsstück. Die Melancholie einer verregneten
-    Sommernacht.
+    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 🎈La femme
+    fatale  - Darf ich bitten 💃🏽🕺🏾    
 
 
 type: rangliste
