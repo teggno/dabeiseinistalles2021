@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Gipsy Kings  ▶️  Volare "
+  title: "RAFFI‘S 🎸JUKEBOX  -  Boney M.  ▶️  Sunny  "
   url: https://www.youtube.com/watch?v=qmbx4_TQbkA
   image: img/jukebox.jpg
   description: >+
