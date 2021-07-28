@@ -5,13 +5,13 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Dionne Warwick  ▶️  All the love in the world
-  url: https://www.youtube.com/watch?v=LZPxdvYLHVQ
+  title: RAFFI‘S 🎸JUKEBOX  -  Gary Moore  ▶️  Parisienne Walkways
+  url: https://www.youtube.com/watch?v=DwhJZwQTqVU
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Oggi si
     balla 💃🏽🕺🏾 - einmal über‘s ganze Parkett und dann wieder nur auf einem
-    Bierdeckel 😎
+    Bierdeckel 😎 
 
 
 type: rangliste
