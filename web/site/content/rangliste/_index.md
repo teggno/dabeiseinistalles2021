@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Reinhard Mey  ▶️  Über den Wolken
-  url: https://www.youtube.com/watch?v=fZMFF8QH3ew
+  title: RAFFI‘S 🎸JUKEBOX  -  Udo Jprgens  ▶️  Was ich dir sagen will
+  url: https://www.youtube.com/watch?v=euktxxDanFY
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Heute Abend
