@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Rainhard Fendrich  ▶️  Du sitzt vor mir
-  url: https://www.youtube.com/watch?v=8SLkDy0ZvTI
+  title: "RAFFI‘S 🎸JUKEBOX  -  Herbert Grönemeyer  ▶️  Flugzeuge im Bauch "
+  url: https://www.youtube.com/watch?v=bGPwmRyyYGg
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Heute Abend
