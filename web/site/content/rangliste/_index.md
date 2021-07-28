@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Hot Chocolate  ▶️  It started with a kiss "
+  title: RAFFI‘S 🎸JUKEBOX  -  Soulful Dynamics  ▶️  Mademoiselle Ninette
   url: https://www.youtube.com/watch?v=NosS1rpJ7tU
   image: img/jukebox.jpg
   description: >+
