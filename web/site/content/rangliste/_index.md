@@ -11,7 +11,7 @@ song:
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Heute Abend
     ist die Musikbox voll von deutschen Schlagern. Die Plattenwünsche flattern
-    nur so herein. 😀 😎 🙈
+    nur so herein. 😀 😎 🙈….auf einmal .nur noch Lindenberg…..
 
 
 type: rangliste
