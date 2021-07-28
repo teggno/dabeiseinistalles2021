@@ -11,7 +11,7 @@ song:
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Oggi si
     balla 💃🏽🕺🏾 - einmal über‘s ganze Parkett und dann wieder nur auf einem
-    Bierdeckel 😎  In Memory of the Greatest Entertainer
+    Bierdeckel 😎  In memory of the greatest entertainer 
 
 
 type: rangliste
