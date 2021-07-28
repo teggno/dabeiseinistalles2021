@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Rosana Albero ▶️  El Talisman
-  url: https://www.youtube.com/watch?v=27K6LE_ttho
+  title: RAFFI‘S 🎸JUKEBOX  -  Gipsy Kings  ▶️  Bamboleo
+  url: https://www.youtube.com/watch?v=7qbEt_lSib4
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Oggi si
