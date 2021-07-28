@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - Doors  ▶️  Severed Garden
+  title: RAFFI‘S 🎸JUKEBOX  -  The Doors  ▶️  Severed Garden
   url: https://www.youtube.com/watch?v=pFtDUxXmEoE
   image: img/jukebox.jpg
   description: >+
