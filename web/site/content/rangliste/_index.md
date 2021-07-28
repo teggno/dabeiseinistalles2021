@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Udo Lindenberg  ▶️  Durch die schweren Zeiten
-  url: https://www.youtube.com/watch?v=hgwytOPOR5E
+  title: RAFFI‘S 🎸JUKEBOX  -  Udo Lindenberg ▶️  Wenn du gehst
+  url: https://www.youtube.com/watch?v=zavAyI-BUW4
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Heute Abend
