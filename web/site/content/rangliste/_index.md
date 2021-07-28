@@ -11,7 +11,7 @@ song:
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Oggi si
     balla 💃🏽🕺🏾 - einmal über‘s ganze Parkett und dann wieder nur auf einem
-    Bierdeckel 😎  Wie wär’s mit den Golden Fifties
+    Bierdeckel 😎  
 
 
 type: rangliste
