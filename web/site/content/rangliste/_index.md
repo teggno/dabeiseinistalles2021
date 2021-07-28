@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  The Ronettes  ▶️  Be my baby "
-  url: https://www.youtube.com/watch?v=rT1QqjFzrgY
+  title: RAFFI‘S 🎸JUKEBOX  -  Donny Osmond  ▶️  Puppe Love
+  url: https://www.youtube.com/watch?v=Mkn1kFmUW5E
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Oggi si
