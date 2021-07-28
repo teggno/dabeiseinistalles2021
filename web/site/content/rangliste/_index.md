@@ -5,13 +5,12 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Udo Lindenberg  ▶️  Leben
-  url: https://www.youtube.com/watch?v=jvxqzBeUj-w
+  title: RAFFI‘S 🎸JUKEBOX  -  Peter Maffay  ▶️  Und es war Sommer
+  url: https://www.youtube.com/watch?v=-khXx1Y0WeU
   image: img/jukebox.jpg
   description: >+
-    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉  Der Tanz
-    💃🏽 ist aus 🕺🏾. Alles liegt so nahe beieinander. Plötzlich  übernehmen
-    düstere Individuen das Kommando.
+    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Heute Abend
+    ist die Musikbox voll von deutschen Schlagern 
 
 
 type: rangliste
