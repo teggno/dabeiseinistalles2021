@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=LZPxdvYLHVQ
   image: img/jukebox.jpg
   description: >+
-    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 🎈Oggi si
+    Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Oggi si
     balla 💃🏽🕺🏾 - einmal über‘s ganze Parkett und dann wieder nur auf einem
     Bierdeckel 😎
 
