@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Santana  ▶️  Hold on
-  url: https://www.youtube.com/watch?v=e3PZ-Mju5Hk
+  title: RAFFI‘S 🎸JUKEBOX  -  Kaoma  ▶️  Lambada
+  url: https://www.youtube.com/watch?v=iyLdoQGBchQ
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Oggi si
