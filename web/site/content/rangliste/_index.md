@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Udo Jprgens  ▶️  Was ich dir sagen will
-  url: https://www.youtube.com/watch?v=euktxxDanFY
+  title: RAFFI‘S 🎸JUKEBOX  -  Udo Lindenberg  ▶️  Cello
+  url: https://www.youtube.com/watch?v=NxquuedkKaM
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Heute Abend
