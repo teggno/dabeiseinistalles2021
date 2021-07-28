@@ -5,9 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Udo Lindenberg  ▶️  Ich lieb dich überhaupt nicht
-    mehr "
-  url: https://www.youtube.com/watch?v=43QGMq9nbdY
+  title: RAFFI‘S 🎸JUKEBOX  -  Udo Lindenberg  ▶️  Durch die schweren Zeiten
+  url: https://www.youtube.com/watch?v=hgwytOPOR5E
   image: img/jukebox.jpg
   description: >+
     Evergreens & Raritäten 🪗 🎻 🥁 🎷🪘Je nach Lust und Laune 🥳 🎉 Heute Abend
