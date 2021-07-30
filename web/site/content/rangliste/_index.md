@@ -8,8 +8,8 @@ song:
   title: RAFFI‘S 🎸JUKEBOX  -  Frank Sinatra  ▶️  It was a very good year
   url: https://www.youtube.com/watch?v=WaZ607thdzM
   image: img/jukebox.jpg
-  description: Man nannte ihn nicht einfach so „The Voice“. DER Entertainer par
-    excellence. Oft kopiert und nie erreicht. Klasse kann man halt nicht kaufen
-    🤫
+  description: Man nannte ihn nicht umsonst „The Voice“. Er war DER Entertainer
+    par excellence. Oft kopiert und nie erreicht. Bis heute nicht. Klasse kann
+    man halt nicht kaufen 🤫
 type: rangliste
 ---
