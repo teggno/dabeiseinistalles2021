@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  7️⃣ Rolling Stones  ▶️  Angie
-  url: https://www.youtube.com/watch?v=K5_EBAzIPJM
+  title: RAFFI‘S 🎸JUKEBOX  -  6️⃣  Santana ▶️  Samba pa Ti
+  url: https://www.youtube.com/watch?v=j5AUm_xaE9A
   image: img/jukebox.jpg
   description: Diese Bitte eines wahren Freundes muss ich fast in die Tat
     umsetzen. „Tatort“ Green Apple Kreuzlingen, ein Freitag Ende Juli 1972
