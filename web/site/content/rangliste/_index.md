@@ -8,7 +8,7 @@ song:
   title: RAFFI‘S 🎸JUKEBOX  -  🔟 Donovan  ▶️  Atlantis
   url: https://www.youtube.com/watch?v=9AUEjzVQwKo
   image: img/jukebox.jpg
-  description: Diese,Bitte eines wahren Freundes muss ich fast in die Tat
+  description: Diese Bitte eines wahren Freundes muss ich fast in die Tat
     umsetzen. „Tatort“ Green Apple Kreuzlingen, ein Freitag im Juli 1972 😎❗️DJ,
     spiel doch die 10 grössten Stehblues-Klassiker aller Zeiten.  Dein Wunsch
     sei mir Befehl 💃🏽🕺🏾
