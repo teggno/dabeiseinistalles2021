@@ -5,12 +5,11 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Herb Alpert   ▶️  A taste of honey
-  url: https://www.youtube.com/watch?v=LGmQXuySF28
+  title: RAFFI‘S 🎸JUKEBOX  -  Marc Anthony   ▶️  Vivir mi vida
+  url: ""
   image: img/jukebox.jpg
-  description: "In den 60er und 70er Jahren strömte die halbe Schweiz Ende Juli
-    nach Rimini. Jeden Morgen pünktlich um 11, wenn nach und nach die
-    Sonnenschirme an den Sandstränden aufgespannt wurden, dröhnte aus den
-    Lautsprechern die „Adria-Erkennungsmelodie“……Strandfeeling 🏖  pur…..😎 "
+  description: Abstecher in die Neuzeit 🤫 Auf diese Frage 🙋‍♂️ habe ich bis
+    heute keine plausible Antwort erhalten 🤔 Warum hat diese „Ikone der Musik“
+    1‘000‘000‘000 (1 Milliarde) Klicks auf dem Konto…..
 type: rangliste
 ---
