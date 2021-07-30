@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  3️⃣ The Beatles ▶️  Hey Jude "
-  url: https://www.youtube.com/watch?v=mQER0A0ej0M
+  title: "RAFFI‘S 🎸JUKEBOX  -  2️⃣ The Hollies  ▶️  He ain‘t heavy he‘s my brother "
+  url: https://www.youtube.com/watch?v=z_Jx9nqnxOM
   image: img/jukebox.jpg
   description: Diese Bitte eines wahren Freundes muss ich fast in die Tat
     umsetzen. „Tatort“ Green Apple Kreuzlingen, ein Freitag Ende Juli 1972
