@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  6️⃣  Santana ▶️  Samba pa Ti
+  title: RAFFI‘S 🎸JUKEBOX  -  6️⃣  Santana ▶️  Samba Pa Ti
   url: https://www.youtube.com/watch?v=j5AUm_xaE9A
   image: img/jukebox.jpg
   description: Diese Bitte eines wahren Freundes muss ich fast in die Tat
