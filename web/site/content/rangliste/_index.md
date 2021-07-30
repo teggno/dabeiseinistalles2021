@@ -4,7 +4,7 @@ date: 2021-07-30T13:01:01.341Z
 image: ""
 showPlaceholder: false
 placeholder: >+
-  In vielen Musik-Geschichtsbüchern gilt er als der beste Song aller Zeiten.
+  In vielen Best-of-Zusammenstellungen gilt er als der beste Song aller Zeiten.
   Einer der Ungewöhnlichsten ist er bestimmt.
 
 
