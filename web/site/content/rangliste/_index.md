@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  4️⃣ Dire Straits  ▶️  Brothers in Arms
-  url: https://www.youtube.com/watch?v=jhdFe3evXpk
+  title: "RAFFI‘S 🎸JUKEBOX  -  3️⃣ The Beatles ▶️  Hey Jude "
+  url: https://www.youtube.com/watch?v=mQER0A0ej0M
   image: img/jukebox.jpg
   description: Diese Bitte eines wahren Freundes muss ich fast in die Tat
     umsetzen. „Tatort“ Green Apple Kreuzlingen, ein Freitag Ende Juli 1972
