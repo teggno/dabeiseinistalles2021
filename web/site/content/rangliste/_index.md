@@ -10,6 +10,7 @@ song:
   image: img/jukebox.jpg
   description: Ich hasse Cover-Versionen! Die meisten kommen nicht annähernd an
     die Originale heran. Ausnahmen bestätigen die Regel. Was der „Zugedröhnte“
-    aus dem Beatles-Stück gemacht, hat ist eine Offenbarung 👏
+    auf dem legendären Woodstock-Konzert aus dem Beatles-Stück gemacht, hat ist
+    eine Offenbarung 👏
 type: rangliste
 ---
