@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  🔟 Donovan  ▶️  Atlantis
-  url: https://www.youtube.com/watch?v=9AUEjzVQwKo
+  title: RAFFI‘S 🎸JUKEBOX  -  9️⃣ CCR  ▶️  I put a spell on you
+  url: https://www.youtube.com/watch?v=xeXqtzusIU0
   image: img/jukebox.jpg
   description: Diese Bitte eines wahren Freundes muss ich fast in die Tat
     umsetzen. „Tatort“ Green Apple Kreuzlingen, ein Freitag Ende Juli 1972
