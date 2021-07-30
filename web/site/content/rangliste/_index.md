@@ -3,14 +3,18 @@ title: Rangliste
 date: 2021-07-30T13:01:01.341Z
 image: ""
 showPlaceholder: false
-placeholder: "\n\n\n\n\n\n"
+placeholder: >+
+  In vielen Musik-Geschichtsbüchern gilt er als der beste Song aller Zeiten.
+  Einer der Ungewöhnlichsten ist er bestimmt.
+
+
+
+
+
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Joe Cocker  ▶️  With a little help  from my friends
-  url: https://www.youtube.com/watch?v=tfLyK2DVVUU
+  title: "RAFFI‘S 🎸JUKEBOX  -  Queen  ▶️  Bohemian Rhapsody "
+  url: https://www.youtube.com/watch?v=fJ9rUzIMcZQ
   image: img/jukebox.jpg
-  description: Ich hasse Cover-Versionen! Die meisten kommen nicht annähernd an
-    die Originale heran. Ausnahmen bestätigen die Regel. Was der „Zugedröhnte“
-    auf dem legendären Woodstock-Konzert aus dem Beatles-Stück gemacht hat, ist
-    eine Offenbarung 👏
+  description: ""
 type: rangliste
 ---
