@@ -5,11 +5,11 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Marc Anthony   ▶️  Vivir mi vida
-  url: https://www.youtube.com/watch?v=YXnjy5YlDwk
+  title: RAFFI‘S 🎸JUKEBOX  -  Joe Cocker   ▶️  With a little Help from my friends
+  url: https://www.youtube.com/watch?v=tfLyK2DVVUU
   image: img/jukebox.jpg
-  description: Abstecher in die Neuzeit 🤫 Auf diese Frage 🙋‍♂️ habe ich bis
-    heute keine plausible Antwort erhalten 🤔 Warum hat diese „Ikone der Musik“
-    1‘000‘000‘000 (1 Milliarde) Klicks auf dem Konto…..
+  description: Ich hasse Cover-Versionen! Die meisten kommen nicht annähernd an
+    die Originale heran. Ausnahmen bestätigen die Regel. Was der „Zugedröhnte“
+    aus dem Beatles-Stück gemacht hat ist eine Offenbarung 👏
 type: rangliste
 ---
