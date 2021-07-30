@@ -8,7 +8,8 @@ song:
   title: RAFFI‘S 🎸JUKEBOX  -  The Beatles  ▶️  Let it be
   url: https://www.youtube.com/watch?v=WaZ607thdzM
   image: img/jukebox.jpg
-  description: DER Entertainer par excellence. Oft kopiert und nie erreicht.
-    Klasse kann man halt nicht kaufen 🤫
+  description: Man nannte ihn nicht einfach so „The Voice“. DER Entertainer par
+    excellence. Oft kopiert und nie erreicht. Klasse kann man halt nicht kaufen
+    🤫
 type: rangliste
 ---
