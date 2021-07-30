@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  4️⃣ Dire Straits  ▶️  Brother in Arms
+  title: RAFFI‘S 🎸JUKEBOX  -  4️⃣ Dire Straits  ▶️  Brothers in Arms
   url: https://www.youtube.com/watch?v=jhdFe3evXpk
   image: img/jukebox.jpg
   description: Diese Bitte eines wahren Freundes muss ich fast in die Tat
