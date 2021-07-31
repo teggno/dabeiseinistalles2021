@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
   title: "RAFFI‘S 🎸JUKEBOX  -  Eros Ramazzotti  ▶️  Una storia importante "
-  url: https://www.youtube.com/watch?v=mqjg5AY3SIE
+  url: https://www.youtube.com/watch?v=ZBNVODLaltQ
   image: img/jukebox.jpg
   description: ""
 type: rangliste
