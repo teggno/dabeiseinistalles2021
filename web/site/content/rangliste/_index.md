@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸JUKEBOX  -  Zucchero & Paul Young  ▶️  Semza una donna
   url: https://www.youtube.com/watch?v=V69vs8JmXYM
   image: img/jukebox.jpg
-  description: 🇮🇹 🇮🇹 🇮🇹
+  description: 🎼 🎼 🎼 🇮🇹 🇮🇹 🇮🇹
 type: rangliste
 ---
