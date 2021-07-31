@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Zucchero & Paul Young  ▶️  Semza una donna
-  url: https://www.youtube.com/watch?v=V69vs8JmXYM
+  title: "RAFFI‘S 🎸JUKEBOX  -  Adriano Celentano  ▶️  L‘emozione non ha voce "
+  url: https://www.youtube.com/watch?v=wuRNsybk8To
   image: img/jukebox.jpg
   description: 🎼 🎼 🎼 🇮🇹 🇮🇹 🇮🇹
 type: rangliste
