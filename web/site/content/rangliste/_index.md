@@ -5,12 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  1️⃣ Procol Harum  ▶️  A whiter shade of pale
-  url: https://www.youtube.com/watch?v=2puubv2e0L4
+  title: "RAFFI‘S 🎸JUKEBOX  -  Eros Ramazzotti  ▶️  Una storia importante "
+  url: https://www.youtube.com/watch?v=mqjg5AY3SIE
   image: img/jukebox.jpg
-  description: Diese Bitte eines wahren Freundes muss ich fast in die Tat
-    umsetzen. „Tatort“ Green Apple Kreuzlingen, ein Freitag Ende Juli 1972
-    😎❗️DJ spiel doch die 10 grössten Stehblues-Klassiker aller Zeiten! Dein
-    Wunsch sei mir Befehl 🎉
+  description: ""
 type: rangliste
 ---
