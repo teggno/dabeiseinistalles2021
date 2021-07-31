@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Sade  ▶️  Smooth Operator "
-  url: https://www.youtube.com/watch?v=4TYv2PhG89A
+  title: RAFFI‘S 🎸JUKEBOX  -  Double  ▶️  Captain of the Heart
+  url: https://www.youtube.com/watch?v=YX-Ru1XkNZc
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
