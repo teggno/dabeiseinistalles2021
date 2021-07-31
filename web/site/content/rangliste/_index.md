@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Double  ▶️  Captain of her Heart
-  url: https://www.youtube.com/watch?v=YX-Ru1XkNZc
+  title: RAFFI‘S 🎸JUKEBOX  -  Van Morrison  ▶️  Have i told  you lately
+  url: https://www.youtube.com/watch?v=UFF1wJN75Z0
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
