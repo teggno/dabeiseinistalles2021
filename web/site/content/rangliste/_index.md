@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Adriano Celentano  ▶️  L‘emozione non ha voce "
-  url: https://www.youtube.com/watch?v=hZsLAhvuBzo
+  title: RAFFI‘S 🎸JUKEBOX  -  Mina  ▶️  Grande grande Grande
+  url: https://www.youtube.com/watch?v=4iZ_Bc8YykI
   image: img/jukebox.jpg
   description: 🎼 🎼 🎼 🇮🇹 🇮🇹 🇮🇹
 type: rangliste
