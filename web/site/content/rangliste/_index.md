@@ -5,10 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Gianluca Grignani  ▶️  La mia storia tra le dita
-  url: https://www.youtube.com/watch?v=EoXWcRXTWxE
+  title: "RAFFI‘S 🎸JUKEBOX  -  Sade  ▶️  Smooth Operator "
+  url: https://www.youtube.com/watch?v=4TYv2PhG89A
   image: img/jukebox.jpg
-  description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und
-    Laune  🎉  Oggi si parla 🇮🇹
+  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
 ---
