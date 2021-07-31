@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Dalla/Pavarotti  ▶️  Caruso
-  url: https://www.youtube.com/watch?v=IxeL8wpyy2w
+  title: RAFFI‘S 🎸JUKEBOX  -  Gianluca Grignani  ▶️  La mia storia tra le dita
+  url: https://www.youtube.com/watch?v=EoXWcRXTWxE
   image: img/jukebox.jpg
   description: 🎼 🎼 🎼 🇮🇹 🇮🇹 🇮🇹
 type: rangliste
