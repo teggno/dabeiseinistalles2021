@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Double  ▶️  Captain of the Heart
+  title: RAFFI‘S 🎸JUKEBOX  -  Double  ▶️  Captain of her Heart
   url: https://www.youtube.com/watch?v=YX-Ru1XkNZc
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
