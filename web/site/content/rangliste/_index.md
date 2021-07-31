@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Eros Ramazzotti  ▶️  Una storia importante "
-  url: https://www.youtube.com/watch?v=ZBNVODLaltQ
+  title: RAFFI‘S 🎸JUKEBOX  -  Zucchero & Paul Young  ▶️  Semza una donna
+  url: https://www.youtube.com/watch?v=V69vs8JmXYM
   image: img/jukebox.jpg
   description: ""
 type: rangliste
