@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=E9md5oW00q4
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
-    Hier sind ein paar Memories aus längst vergangenen Sonnntagnachmittag-Green
+    Hier sind ein paar Memories aus längst vergangenen Sonnntag-Nachmittag-Green
     🍏 Apple-Zeiten
 type: rangliste
 ---
