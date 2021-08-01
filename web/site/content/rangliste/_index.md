@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Bee Gees ▶️  Too much Heaven "
-  url: https://www.youtube.com/watch?v=i6iBAuwBODA
+  title: RAFFI‘S 🎸JUKEBOX  -  Joe Cocker ▶️  You are so beautiful
+  url: https://www.youtube.com/watch?v=b4jwprFiDeU
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
 type: rangliste
