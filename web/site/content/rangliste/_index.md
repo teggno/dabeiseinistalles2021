@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Billy Paul  ▶️  Me and Mrs. Jones
-  url: https://www.youtube.com/watch?v=6A-UHzTLSHs
+  title: RAFFI‘S 🎸JUKEBOX  -  John Lennon  ▶️  Imagine
+  url: https://www.youtube.com/watch?v=YkgkThdzX-8
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
 type: rangliste
