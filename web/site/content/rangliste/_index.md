@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  - Zucchero ▶️  Baila Morena
-  url: https://www.youtube.com/watch?v=CmYThHY7fD8
+  title: RAFFI‘S 🎸JUKEBOX  - Sway  ▶️  Rita Hayworth
+  url: https://www.youtube.com/watch?v=M5FtCIoJATM
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
     Hier sind ein paar Memories aus längst vergangenen Sonnntag-Nachmittag-Green
