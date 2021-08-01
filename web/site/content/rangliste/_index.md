@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Jimi Hendrix  ▶️  Hey Joe
-  url: https://www.youtube.com/watch?v=W3JsuWz4xWc
+  title: RAFFI‘S 🎸JUKEBOX  -  Janis Joplin  ▶️  Me and Bobby Mc Gee
+  url: ""
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
     Wie wär’s mit einer wechselnden  Portion Flower-Power gegen die 🌚 Trübsal
