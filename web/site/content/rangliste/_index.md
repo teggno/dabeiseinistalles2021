@@ -5,11 +5,11 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  The Eagles  ▶️  Hotel California "
-  url: https://www.youtube.com/watch?v=vydym4wh9Qo
+  title: RAFFI‘S 🎸JUKEBOX  -  The Mamas & the Papas  ▶️  California Dreamin‘
+  url: https://www.youtube.com/watch?v=N-aK6JnyFmk
   image: img/jukebox.jpg
-  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und
-    Laune  🎉 Wie wär’s mit einer wechselnden  Portion Flower-Power gegen die 🌚
-    Trübsal "
+  description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
+    Wie wär’s mit einer wechselnden  Portion Flower-Power gegen die 🌚 Trübsal
+    ….😎
 type: rangliste
 ---
