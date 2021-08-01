@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Eric Clapton  ▶️  Wonderful tonight
-  url: https://www.youtube.com/watch?v=890v8Qhlhz4
+  title: RAFFI‘S 🎸JUKEBOX  -  Leonard Cohen  ▶️  Dance me to the end of love
+  url: https://www.youtube.com/watch?v=NGorjBVag0I
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
     Hier sind ein paar Memories aus längst vergangenen Sonnntag-Nachmittag-Green
