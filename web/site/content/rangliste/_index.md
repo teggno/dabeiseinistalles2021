@@ -5,10 +5,10 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Steppenwolf  ▶️  Born to be wild
-  url: https://www.youtube.com/watch?v=rMbATaj7Il8
+  title: RAFFI‘S 🎸JUKEBOX  -  Scott McKenzie  ▶️  San Francisco
+  url: https://www.youtube.com/watch?v=7I0vkKy504U
   image: img/jukebox.jpg
-  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und
-    Laune  🎉 Grenzenlose 🛵 Freiheit "
+  description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
+    Flower-Piwer gegen die Trübsal 🌫
 type: rangliste
 ---
