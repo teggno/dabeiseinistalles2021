@@ -9,6 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=7I0vkKy504U
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und
-    Laune  🎉 Wie wär’s mit einer Portion Flower-Power gegen die 🌚 Trübsal "
+    Laune  🎉 Wie wär’s mit einer wechselnden  Portion Flower-Power gegen die 🌚
+    Trübsal "
 type: rangliste
 ---
