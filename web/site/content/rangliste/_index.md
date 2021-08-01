@@ -5,9 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  The Hollies  ▶️  Long cool Woman (in a black dress)
-    🥸 🙈 🤭
-  url: https://www.youtube.com/watch?v=CUdhVQSbsvc
+  title: RAFFI‘S 🎸JUKEBOX  -  Golden Earring  ▶️  Radar Love
+  url: ""
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
     Hier sind ein paar Memories aus längst vergangenen Sonnntag-Nachmittag-Green
