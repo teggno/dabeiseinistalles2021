@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  - Mary Blige U2  ▶️  One "
-  url: https://www.youtube.com/watch?v=ZpDQJnI4OhU
+  title: RAFFI‘S 🎸JUKEBOX  - Zucchero ▶️  Baila Morena
+  url: https://www.youtube.com/watch?v=CmYThHY7fD8
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
     Hier sind ein paar Memories aus längst vergangenen Sonnntag-Nachmittag-Green
