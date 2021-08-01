@@ -9,6 +9,6 @@ song:
   url: https://www.youtube.com/watch?v=7I0vkKy504U
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und
-    Laune  🎉 Flower-Piwer gegen die 🌚 Trübsal "
+    Laune  🎉 Flower-Power gegen die 🌚 Trübsal "
 type: rangliste
 ---
