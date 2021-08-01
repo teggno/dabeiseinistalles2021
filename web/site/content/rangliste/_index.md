@@ -5,10 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Leonard Cohen  ▶️  Dance me to the end of love
-  url: https://www.youtube.com/watch?v=NGorjBVag0I
+  title: "RAFFI‘S 🎸JUKEBOX  -  Simply Red  ▶️  If you don‘t know me by now "
+  url: https://www.youtube.com/watch?v=zTcu7MCtuTs
   image: img/jukebox.jpg
-  description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und
-    Laune  🎉   Eine magische Stimme wie geschaffen für diesen wundervollen Song
+  description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
 type: rangliste
 ---
