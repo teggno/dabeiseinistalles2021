@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=E9md5oW00q4
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
-    Wie wär’s mit einer wechselnden  Portion Flower-Power gegen die 🌚 Trübsal
-    ….😎
+    Hier sind ein paar Memories aus längst vergangenen Sonnntagnachmittag-Green
+    🍏 Apple-Zeiten
 type: rangliste
 ---
