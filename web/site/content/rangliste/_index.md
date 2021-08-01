@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Peter Sarstedt  ▶️  Where do you go to my lovely
-  url: https://www.youtube.com/watch?v=b8JOi1q5ugs
+  title: RAFFI‘S 🎸JUKEBOX  -  The Doors  ▶️  Light my Fire
+  url: https://www.youtube.com/watch?v=AMCl9eOBlsY
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
     Wie wär’s mit einer wechselnden  Portion Flower-Power gegen die 🌚 Trübsal
