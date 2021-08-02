@@ -5,9 +5,10 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Udo Lindenberg  ▶️  Ich mach mein Ding "
-  url: https://www.youtube.com/watch?v=utEGrtLwdMs
+  title: RAFFI‘S 🎸JUKEBOX  -  ABBA  ▶️  Chiquitita
+  url: https://www.youtube.com/watch?v=p4QqMKe3rwY
   image: img/jukebox.jpg
-  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉 "
+  description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
+    Eine Stunde lang dürfen die Wikinger ran. Euphorie überall 🥳
 type: rangliste
 ---
