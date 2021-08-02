@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  ABBA   ▶️  Chiquitita
-  url: https://www.youtube.com/watch?v=p4QqMKe3rwY
+  title: "RAFFI‘S 🎸JUKEBOX  -  ABBA   ▶️  Fernando "
+  url: https://www.youtube.com/watch?v=dQsjAbZDx-4
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
     Zum ☕️-Chränzli dürfen eine Stunde lang die Wikinger ran 🥳
