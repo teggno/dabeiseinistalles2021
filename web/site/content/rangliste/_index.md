@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Ringo Starr  ▶️  Was….du bist erst 16  🤭
-  url: https://www.youtube.com/watch?v=vkR7u_sOtHI
+  title: RAFFI‘S 🎸JUKEBOX  -  Shocking Blue  ▶️  Venus 👰🏻‍♀️
+  url: https://www.youtube.com/watch?v=8LhkyyCvUHk
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
 type: rangliste
