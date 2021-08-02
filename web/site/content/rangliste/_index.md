@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Rolling Stones  ▶️  Brown Sugar
-  url: https://www.youtube.com/watch?v=M9hcAA93N8c
+  title: RAFFI‘S 🎸JUKEBOX  -  Deep Purple  ▶️  Smoke on the Water
+  url: https://www.youtube.com/watch?v=ikGyZh0VbPQ
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉 "
 type: rangliste
