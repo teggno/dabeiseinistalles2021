@@ -9,6 +9,6 @@ song:
   url: https://www.youtube.com/watch?v=p4QqMKe3rwY
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
-    Eine Stunde lang dürfen die Wikinger ran. Euphorie überall 🥳
+    Zum ☕️-Chränzli dürfen eine Stunde lang die Wikinger ran. 🥳
 type: rangliste
 ---
