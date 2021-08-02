@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Eric Clapton  ▶️  Wonderful Tonight
-  url: https://www.youtube.com/watch?v=97H-TCUBQ8Q
+  title: "RAFFI‘S 🎸JUKEBOX  -  Smokie  ▶️  Ich treffe dich um Mitternacht "
+  url: https://www.youtube.com/watch?v=WoTLnaI1NEY
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
 type: rangliste
