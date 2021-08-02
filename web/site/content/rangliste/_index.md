@@ -9,5 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=6Whgn_iE5uc
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
+    Wenn du nicht mehr weiter weisst - dann geh zu Carlos - der hat die richtige
+    Medizin 😎
 type: rangliste
 ---
