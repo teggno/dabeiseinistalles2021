@@ -8,7 +8,6 @@ song:
   title: RAFFI‘S 🎸JUKEBOX  -  Shakira ▶️  Whenever whenever
   url: https://www.youtube.com/watch?v=weRHyjj34ZE
   image: img/jukebox.jpg
-  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und
-    Laune  🎉  Help 😱 😫 😨 "
+  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
 ---
