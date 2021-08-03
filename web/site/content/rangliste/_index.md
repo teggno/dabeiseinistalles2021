@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  BJ. Thomas  ▶️  Raindrops keep falling "
+  title: "RAFFI‘S 🎸JUKEBOX  -  BJ. Thomas  ▶️  Raindrops keep falling on my head "
   url: https://www.youtube.com/watch?v=OT1HCQcSHW0
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
