@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸JUKEBOX  -  CCR  ▶️  Have you ever seen the Rain ☔️
-  url: https://www.youtube.com/watch?v=u1V8YRJnr4Q
+  url: https://www.youtube.com/watch?v=qmYi5FlRIr0
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉 "
 type: rangliste
