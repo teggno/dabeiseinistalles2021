@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Neil Young  ▶️  Harvest Moon
-  url: https://www.youtube.com/watch?v=n2MtEsrcTTs
+  title: RAFFI‘S 🎸JUKEBOX  -  Cafe Anatolia  ▶️  Tango to Evora
+  url: https://www.youtube.com/watch?v=iNfP9X22Z4c
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
