@@ -8,8 +8,6 @@ song:
   title: RAFFI‘S 🎸JUKEBOX  -  Luis Fonsi  ▶️  Despacito
   url: https://www.youtube.com/watch?v=kJQP7kiw5Fk
   image: img/jukebox.jpg
-  description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und
-    Laune  🎉  Über 7 Milliarden Klicks für diesen „Ohrwurm des Jahrhunderts“ 🤫
-    🤫 🤫 🙈 🙈 🙈
+  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
 ---
