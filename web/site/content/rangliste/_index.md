@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  ABBA  ▶️  Fernando
-  url: https://www.youtube.com/watch?v=dQsjAbZDx-4
+  title: RAFFI‘S 🎸JUKEBOX  -  ABBA  ▶️  Souper Trouper
+  url: https://www.youtube.com/watch?v=BshxCIjNEjY
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und
     Laune  🎉 Auf mehrfachen Wunsch heisst es heute „teatime with ABBA“ 😀👍 😎
