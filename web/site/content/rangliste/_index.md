@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Shakira ▶️  Whenever whenever
-  url: https://www.youtube.com/watch?v=weRHyjj34ZE
+  title: RAFFI‘S 🎸JUKEBOX  -  Village People ▶️  YMCA
+  url: https://www.youtube.com/watch?v=CS9OO0S5w2k
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
