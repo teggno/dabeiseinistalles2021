@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Mina-Cocciante  ▶️  Questione di Feeling
-  url: https://www.youtube.com/watch?v=HWauGfu4MaM
+  title: RAFFI‘S 🎸JUKEBOX  -  ABBA  ▶️  The day before you came
+  url: https://www.youtube.com/watch?v=1HnOFwqpLRQ
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉 "
 type: rangliste
