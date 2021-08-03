@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -    ▶️  "
-  url: ""
+  title: RAFFI‘S 🎸JUKEBOX  -  CCR  ▶️  Have you ever seen the Rain ☔️
+  url: https://www.youtube.com/watch?v=u1V8YRJnr4Q
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉 "
 type: rangliste
