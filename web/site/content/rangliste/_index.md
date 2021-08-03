@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Jennifer Warnes  ▶️  Time of my Life
-  url: https://www.youtube.com/watch?v=4BQLE_RrTSU
+  title: RAFFI‘S 🎸JUKEBOX  -  Ricchi e Poveri  ▶️  Come vorrei
+  url: https://www.youtube.com/watch?v=KT44aQ_10XM
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
