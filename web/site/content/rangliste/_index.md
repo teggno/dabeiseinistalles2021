@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Hot Chocolate  ▶️  It started with a kiss "
-  url: https://www.youtube.com/watch?v=NosS1rpJ7tU
+  title: "RAFFI‘S 🎸JUKEBOX  -  Peter Maffay  ▶️  Und es war Sommer "
+  url: https://www.youtube.com/watch?v=CWSJuHEJiUw
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉 "
 type: rangliste
