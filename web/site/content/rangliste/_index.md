@@ -5,9 +5,10 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -   Joan Baez  ▶️  Diamonds and Rust
-  url: https://www.youtube.com/watch?v=1ST9TZBb9v8
+  title: RAFFI‘S 🎸JUKEBOX  -  Demis Roussos  ▶️  Rain & Tears
+  url: https://www.youtube.com/watch?v=UTdkDwyteYA
   image: img/jukebox.jpg
-  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉 "
+  description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉
+    Ein Sommer ☔️ wie‘s im Buche steht.
 type: rangliste
 ---
