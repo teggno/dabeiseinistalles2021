@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Udo Lindenberg  ▶️  Cello
-  url: https://www.youtube.com/watch?v=NxquuedkKaM
+  title: RAFFI‘S 🎸JUKEBOX  -  Chris Rea  ▶️  Looking for the Summer
+  url: https://www.youtube.com/watch?v=A8a6kHQN9BA
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
