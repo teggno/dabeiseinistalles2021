@@ -8,7 +8,6 @@ song:
   title: RAFFI‘S 🎸JUKEBOX  -  ABBA  ▶️  The Winner Takes it all
   url: https://www.youtube.com/watch?v=92cwKCU8Z5c
   image: img/jukebox.jpg
-  description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und
-    Laune  🎉  Und jetzt sind alle Schmerzen weg ….
+  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
 ---
