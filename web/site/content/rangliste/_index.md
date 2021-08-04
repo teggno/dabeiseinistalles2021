@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Cat Stevens  ▶️  Morning has broken "
-  url: https://www.youtube.com/watch?v=e0TInLOJuUM
+  title: RAFFI‘S 🎸JUKEBOX  -  Gianna Nannini ▶️  Bello e impossibile
+  url: https://www.youtube.com/watch?v=UWBDIq1vdwc
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
