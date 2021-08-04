@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  George Harrison   ▶️  My Sweet Lord
-  url: https://www.youtube.com/watch?v=SP9wms6oEMo
+  title: "RAFFI‘S 🎸JUKEBOX  -  Cat Stevens  ▶️  Morning has broken "
+  url: https://www.youtube.com/watch?v=e0TInLOJuUM
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
