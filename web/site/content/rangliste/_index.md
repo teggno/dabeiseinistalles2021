@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Rolling Stones  ▶️  Waiting on a friend
-  url: https://www.youtube.com/watch?v=MKLVmBOOqVU
+  title: RAFFI‘S 🎸JUKEBOX  -  Queen  ▶️  Wer will schon ewig leben⁉️
+  url: https://www.youtube.com/watch?v=_Jtpf8N5IDE
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
