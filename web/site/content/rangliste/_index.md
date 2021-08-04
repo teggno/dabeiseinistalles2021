@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Udo Lindenberg  ▶️  Das Leben
+  title: RAFFI‘S 🎸JUKEBOX  -  The Eagles  ▶️  Desperado
   url: https://www.youtube.com/watch?v=jvxqzBeUj-w
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
