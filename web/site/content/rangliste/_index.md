@@ -5,9 +5,10 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Zucchero & Miles Davis  ▶️  Dune mosse "
-  url: https://www.youtube.com/watch?v=A60xWr-nqv0
+  title: RAFFI‘S 🎸JUKEBOX  -  ABBA  ▶️  Fernando
+  url: https://www.youtube.com/watch?v=dQsjAbZDx-4
   image: img/jukebox.jpg
-  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
+  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und
+    Laune  🎉  Gute Besserung Dancing Queen "
 type: rangliste
 ---
