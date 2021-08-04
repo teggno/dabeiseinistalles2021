@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  ABBA  ▶️  The Winner Takes it all
-  url: https://www.youtube.com/watch?v=92cwKCU8Z5c
+  title: RAFFI‘S 🎸JUKEBOX  -  Adriano Celentano  ▶️  Ja tebia liubliu
+  url: https://www.youtube.com/watch?v=aNArLodcVMU
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
