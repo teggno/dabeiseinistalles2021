@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -   Bee Gees   ▶️   How deep is your Love
-  url: https://www.youtube.com/watch?v=XpqqjU7u5Yc
+  title: RAFFI‘S 🎸JUKEBOX  -  Sinead o‘Connor   ▶️   Nothing compares to you
+  url: https://www.youtube.com/watch?v=BB1TKw8_b1s
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
