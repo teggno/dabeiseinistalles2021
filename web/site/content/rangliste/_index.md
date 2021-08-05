@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Randy Crawford   ▶️    Almaz "
-  url: https://www.youtube.com/watch?v=n6vlSgaKeG8
+  title: RAFFI‘S 🎸JUKEBOX  -  The Doors    ▶️    Riders on the Storm
+  url: https://www.youtube.com/watch?v=D0gB7VuGf7g
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
