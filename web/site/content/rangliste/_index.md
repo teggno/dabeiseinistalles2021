@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸JUKEBOX  -   Righteous Brothers   ▶️   Unchained Melody
-  url: https://www.youtube.com/watch?v=D3n1Y8lEqP8
+  url: https://www.youtube.com/watch?v=qiiyq2xrSI0
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
