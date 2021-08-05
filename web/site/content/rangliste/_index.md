@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Ray Charles    ▶️   Á Song for you
-  url: https://www.youtube.com/watch?v=MtUQImH26Bw
+  title: "RAFFI‘S 🎸JUKEBOX  -  Randy Crawford   ▶️    Almaz "
+  url: https://www.youtube.com/watch?v=n6vlSgaKeG8
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
