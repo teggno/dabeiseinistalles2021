@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸JUKEBOX  -  Earl Grant   ▶️   Jeder Traum hat ein Ende
-  url: https://www.youtube.com/watch?v=8DegVjPeZ1w
+  url: https://www.youtube.com/watch?v=D3n1Y8lEqP8
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
