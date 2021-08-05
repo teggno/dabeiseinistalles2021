@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Deep Purple  ▶️  When a blind man cries
-  url: https://www.youtube.com/watch?v=UbjNDCIb0E0
+  title: RAFFI‘S 🎸JUKEBOX  -  Earl Grant   ▶️   Jeder Traum hat ein Ende
+  url: https://www.youtube.com/watch?v=8DegVjPeZ1w
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
