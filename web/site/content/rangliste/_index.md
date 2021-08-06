@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Harrison - Clapton   ▶️  Während meine Gitarre
-    leise weint
+  title: RAFFI‘S 🎸JUKEBOX  -  Harrison/Clapton   ▶️  Während meine Gitarre leise
+    weint
   url: https://www.youtube.com/watch?v=ezd7fRvJgtc
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉
