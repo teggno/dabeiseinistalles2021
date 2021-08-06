@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  ABBA  ▶️   Hasta Manana
-  url: https://www.youtube.com/watch?v=01BANXZ6vPc
+  title: RAFFI‘S 🎸JUKEBOX  -  The Rolling Stones  ▶️  Anybody seen my Baby 👧
+  url: https://www.youtube.com/watch?v=BinwuzZVjnE
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉
 type: rangliste
