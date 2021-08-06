@@ -5,11 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Harrison/Clapton   ▶️  Während meine Gitarre leise
-    weint
-  url: https://www.youtube.com/watch?v=ezd7fRvJgtc
+  title: RAFFI‘S 🎸JUKEBOX  -  The Beatles   ▶️  Romantisch hoch 🔟
+  url: https://www.youtube.com/watch?v=9MVb8gXp6hQ
   image: img/jukebox.jpg
-  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉
-    Zum Gedenken an den „stillen Beatle“ "
+  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
 ---
