@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  The Rolling Stones  ▶️  Anybody seen my Baby 👧
-  url: https://www.youtube.com/watch?v=BinwuzZVjnE
+  title: RAFFI‘S 🎸JUKEBOX  -  Clapton & Zucchero  ▶️  Hey Man
+  url: https://www.youtube.com/watch?v=S10wohhv_RQ
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉
 type: rangliste
