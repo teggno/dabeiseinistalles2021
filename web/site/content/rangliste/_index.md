@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  The Doors    ▶️    Riders on the Storm
-  url: https://www.youtube.com/watch?v=k9o78-f2mIM
+  title: RAFFI‘S 🎸JUKEBOX  -  Al Stewart   ▶️    The year of the cat
+  url: https://www.youtube.com/watch?v=cqZc7ZQURMs
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
