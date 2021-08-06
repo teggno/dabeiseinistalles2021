@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Gerry Rafferty   ▶️    Baker Street
-  url: https://www.youtube.com/watch?v=x-Yi762sQTo
+  title: "RAFFI‘S 🎸JUKEBOX  -  Mina   ▶️   Ancora Ancora Ancora "
+  url: https://www.youtube.com/watch?v=ua9u_AoKxgo
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune  🎉  "
 type: rangliste
