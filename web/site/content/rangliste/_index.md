@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=iMxOluEwfVw
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune
-    🎉!  Pino Daniele‘s Hommage an die Stadt am  Vesuv. 🌋  Neapel sehen und
+    🎉!  Pino Daniele‘s Hommage an die Stadt am  Vesuv 🌋!  Neapel sehen und
     sterben - vorgetragen auf neapolitanisch.
 type: rangliste
 ---
