@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Chris de Burgh    ▶️  Lady in Red "
-  url: https://www.youtube.com/watch?v=T9Jcs45GhxU
+  title: RAFFI‘S 🎸JUKEBOX  -  Stevie Wonder   ▶️  I just called…..
+  url: https://www.youtube.com/watch?v=NiRj5m63oig
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
