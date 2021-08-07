@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Stevie Wonder   ▶️  I just called…..
-  url: https://www.youtube.com/watch?v=NiRj5m63oig
+  title: RAFFI‘S 🎸JUKEBOX  -  Barry White   ▶️  My first my last…. 😎
+  url: https://www.youtube.com/watch?v=tB54XUhA9_w
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
