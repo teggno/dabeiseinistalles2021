@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Hazy Osterwald   ▶️  Kriminaltango
-  url: https://www.youtube.com/watch?v=jFmqgYI4P7Q
+  title: RAFFI‘S 🎸JUKEBOX  -  Antonio Banderas   ▶️  Take the Lead
+  url: https://www.youtube.com/watch?v=6lAKlYTQVKY
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉
     Darf ich bitten 💃🏽🕺🏾
