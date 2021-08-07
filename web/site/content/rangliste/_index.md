@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Uriah Heep   ▶️  Lady in Black
-  url: https://www.youtube.com/watch?v=6jj_UeP9W48
+  title: "RAFFI‘S 🎸JUKEBOX  -  Chris de Burgh    ▶️  Lady in Red "
+  url: https://www.youtube.com/watch?v=T9Jcs45GhxU
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
