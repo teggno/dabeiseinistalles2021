@@ -5,9 +5,10 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Grace  ▶️  Ich gehöre dir nicht "
-  url: https://www.youtube.com/watch?v=IEt7bnuO5y0
+  title: RAFFI‘S 🎸JUKEBOX  -  Mick Jagger  ▶️  Just another night
+  url: https://www.youtube.com/watch?v=hev2qx1y2IU
   image: img/jukebox.jpg
-  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
+  description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉
+    Happy Hour🍹mit den Stones 🥳
 type: rangliste
 ---
