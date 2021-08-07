@@ -5,10 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Antonio Banderas   ▶️  Take the Lead
-  url: https://www.youtube.com/watch?v=6lAKlYTQVKY
+  title: RAFFI‘S 🎸JUKEBOX  -  The Eagles   ▶️  Hotel California
+  url: https://www.youtube.com/watch?v=19O-kxa1cu8
   image: img/jukebox.jpg
-  description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉
-    Darf ich bitten 💃🏽🕺🏾
+  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
 ---
