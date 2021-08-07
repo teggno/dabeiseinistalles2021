@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Aerosmith  ▶️  Crazy
-  url: https://www.youtube.com/watch?v=NMNgbISmF4I
+  title: "RAFFI‘S 🎸JUKEBOX  -  Grace  ▶️  Ich gehöre dir nicht "
+  url: https://www.youtube.com/watch?v=IEt7bnuO5y0
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
