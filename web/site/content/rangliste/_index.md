@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  The Beatles   ▶️  Something
-  url: https://www.youtube.com/watch?v=UelDrZ1aFeY
+  title: RAFFI‘S 🎸JUKEBOX  -  George Michael  ▶️  Carless Whisper
+  url: https://www.youtube.com/watch?v=izGwDsrQ1eQ
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
