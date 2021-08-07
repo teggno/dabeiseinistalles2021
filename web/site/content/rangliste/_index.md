@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Mick Jagger  ▶️  Just another night
-  url: https://www.youtube.com/watch?v=hev2qx1y2IU
+  title: RAFFI‘S 🎸JUKEBOX  -  Mick Jagger  ▶️  Süsses Ding 🍡
+  url: https://www.youtube.com/watch?v=nXZUr3v6gNo
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉
     Happy Hour🍹mit den Stones 🥳
