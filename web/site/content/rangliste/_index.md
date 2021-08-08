@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Elvis Presley  ▶️  Can‘t help falling in Love
-  url: https://www.youtube.com/watch?v=pXhKWWCCdk8
+  title: RAFFI‘S 🎸JUKEBOX  -  Michel Polnareff  ▶️  Love me please love me
+  url: https://www.youtube.com/watch?v=wptCl_Ey4sE
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
