@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  The Carpenters   ▶️  Yesterday once more
-  url: https://www.youtube.com/watch?v=YTaWayUE5XA
+  title: "RAFFI‘S 🎸JUKEBOX  -  Blue Haze   ▶️  Stoke get‘s in your eyes "
+  url: https://www.youtube.com/watch?v=9TZ6xrPMwK0
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
