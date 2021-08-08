@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Carole King   ▶️  You‘ve got á friend "
-  url: https://www.youtube.com/watch?v=BcJbzuyp6VY
+  title: RAFFI‘S 🎸JUKEBOX  -  Santana   ▶️  Put your lights on
+  url: https://www.youtube.com/watch?v=KCBS5EtszYI
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
