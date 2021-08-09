@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Van Morrison  ▶️  Es ist alles vorbei….Baby Blue
+  title: RAFFI‘S 🎸JUKEBOX  -  Van Morrison  ▶️  Jetzt ist alles vorbei….Baby Blue
   url: https://www.youtube.com/watch?v=9L50OJ3iIkw
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
