@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Mungo Jerry ▶️  In the Summertime
-  url: https://www.youtube.com/watch?v=wvUQcnfwUUM
+  title: RAFFI‘S 🎸JUKEBOX  -  The Beatles  ▶️  Here comes the sun
+  url: https://www.youtube.com/watch?v=KQetemT1sWc
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
