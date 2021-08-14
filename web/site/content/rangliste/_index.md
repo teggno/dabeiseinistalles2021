@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Genesis  ▶️  Carpet Crawlers
-  url: https://www.youtube.com/watch?v=44b_Xr0fNwQ
+  title: RAFFI‘S 🎸JUKEBOX  -  Cat Stevens  ▶️  Lady d‘Arbanville
+  url: https://www.youtube.com/watch?v=JzZjw-lVpYY
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
