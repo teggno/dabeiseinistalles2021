@@ -4,9 +4,7 @@ draft: true
 date: 2021-08-15T14:36:01.715Z
 image: img/99d18b11-1ef5-4f0e-aef3-4a7a994fed1f.jpeg
 ---
-Autor: Remo Gandolfi - Deutsch-Übersetzung: R. Boccia 
-
-Zum Gedenken an Gerd Müller
+Gerd Müller
 
 „Ich weiß nicht genau, wie alle anderen das gemacht haben. Viele von ihnen sind im Fußball hängen geblieben. Als Trainer, Manager, Agenten. Andere haben ihr Interessens-Gebiet radikal verändert. Sind in Unternehmen eingestiegen oder haben selbst welche gegründet. Der verrückte „Sepp“ (Maier) hat sogar eine zeitlang in einem Zirkus gearbeitet.
 
