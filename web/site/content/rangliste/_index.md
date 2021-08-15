@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Engelbert Humperdinck  ▶️  The last Waltz
-  url: https://www.youtube.com/watch?v=orCiC9-p7yE
+  title: RAFFI‘S 🎸JUKEBOX  -  Max Giesinger  ▶️  Wenn sie tanzt
+  url: https://www.youtube.com/watch?v=5PST7Ld4wWU
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
