@@ -1,12 +1,10 @@
 ---
-title: Keine 9️⃣ wie DU
+title: Die 9️⃣ gehört dir alleine
 draft: false
 date: 2021-08-15T14:36:01.715Z
 image: img/99d18b11-1ef5-4f0e-aef3-4a7a994fed1f.jpeg
 ---
-Gerd Müller:  3.11.1945 - 15.8.2021
-
-„Ich weiß nicht genau, wie alle anderen das gemacht haben. Viele von ihnen sind im Fußball hängen geblieben. Als Trainer, Manager, Agenten. Andere haben ihr Interessens-Gebiet radikal verändert. Sind in Unternehmen eingestiegen oder haben selbst welche gegründet. Der verrückte „Sepp“ (Maier) hat sogar eine zeitlang in einem Zirkus gearbeitet.
+Ich weiß nicht genau, wie alle anderen das gemacht haben. Viele von ihnen sind im Fußball hängen geblieben. Als Trainer, Manager, Agenten. Andere haben ihr Interessens-Gebiet radikal verändert. Sind in Unternehmen eingestiegen oder haben selbst welche gegründet. Der verrückte „Sepp“ (Maier) hat sogar eine zeitlang in einem Zirkus gearbeitet.
 
 Ich hingegen habe es einfach nicht geschafft, nach dem Ende meiner Laufbahn diese Leere zu füllen. Dass es hart werden würde, wusste ich von Anfang an. Aber so hart, nein, das hätte ich niemals vermutet. Vielleicht hatten es meine Mannschaftskollegen in dieser Beziehung einfacher. Wenn wir beim FC Bayern und in der deutschen Nationalmannschaft zusammen gespielt haben, mussten sie verteidigen, einen Angreifer markieren, die Schüsse des Gegners parieren oder an den Seiten rauf und runter galoppieren. Und flanken. Dinge, die man leichter vergisst. Ich dagegen hatte nur die eine Aufgabe. Das Leder im Netzt unterzubrIngen. Besessenheit vorher und Befreiung nachher. Diese fünf Sekunden bis der Ball diese verdammte weiße Linie überquert hat. Eine Droge, von der du nie mehr loskommst. 20 Jahre lang war ich ihr verfallen. In diesen Augenblicken weißt du nicht mehr wer du bist, wo du bist oder was du wirklich tust. Rausch, Verzückung, Verlassenheit, Ekstase, Glück. Und ich muss zugeben, ich war kein schlechter „Abstauber“. Torjäger wie mich hat es in der Geschichte des Fußballs nur sehr wenige gegeben! 68  Tore in 62 Spielen mit der deutschen Nationalmannschaft. 35 Tore in 35 Spielen im Europapokal. 662 Tore in 725 Spielen für jene 3 Vereine, bei denen ich während meiner Karriere gespielt habe. Pele hat einmal gesagt, dass Toreschiessen fast so schön ist wie ein Orgasmus Mein lieber Freund, ich bin da ganz anderer Meinung. Die Höhenflüge fussballerischer Natur sind mit nichts auf dieser Welt zu vergleichen.
 
