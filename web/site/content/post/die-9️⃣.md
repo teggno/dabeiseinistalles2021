@@ -1,5 +1,5 @@
 ---
-title: DIE 9️⃣
+title: Dich gibt’s nur 1️⃣x
 draft: true
 date: 2021-08-15T14:36:01.715Z
 image: img/99d18b11-1ef5-4f0e-aef3-4a7a994fed1f.jpeg
