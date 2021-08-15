@@ -1,5 +1,5 @@
 ---
-title: Die 9️⃣ gehört dir alleine
+title: Die 9️⃣ gehört nur dir
 draft: false
 date: 2021-08-15T14:36:01.715Z
 image: img/99d18b11-1ef5-4f0e-aef3-4a7a994fed1f.jpeg
