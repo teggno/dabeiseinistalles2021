@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Donna Summer  ▶️  Hot 🔥 Stuff
-  url: https://www.youtube.com/watch?v=yg6Y_1_DJyI
+  title: "RAFFI‘S 🎸JUKEBOX  -  The Eagles  ▶️  I can‘t tell you why "
+  url: https://www.youtube.com/watch?v=579T8dj7F3I
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
