@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Rod Stewart  ▶️  Hot 🔥 Legs
-  url: https://www.youtube.com/watch?v=AHcjjxYbgNM
+  title: RAFFI‘S 🎸JUKEBOX  -  Donna Summer  ▶️  Hot 🔥 Stuff
+  url: https://www.youtube.com/watch?v=yg6Y_1_DJyI
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
