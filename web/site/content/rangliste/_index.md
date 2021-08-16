@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Zum Gedenken  ▶️  an den grössten Bomber aller Zeiten
-  url: https://www.youtube.com/watch?v=4m2t6vXG6gk
+  title: RAFFI‘S 🎸JUKEBOX  -  Rod Stewart  ▶️  Hot 🔥 Legs
+  url: https://www.youtube.com/watch?v=AHcjjxYbgNM
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
