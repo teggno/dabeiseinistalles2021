@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Roberta Flack  ▶️  Killing me softly
-  url: https://www.youtube.com/watch?v=Dx1XtKbEtfE
+  title: RAFFI‘S 🎸JUKEBOX  -  Peppino di Capri  ▶️  Saint Tropez Twist
+  url: https://www.youtube.com/watch?v=pBNAlHp_PS4
   image: img/jukebox.jpg
   description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
 type: rangliste
