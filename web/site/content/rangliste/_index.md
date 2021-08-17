@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-08-17T19:07:35.241Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "\n\n\n\n\n\n"
 song:
   title: "RAFFI‘S 🎸JUKEBOX  -  1️⃣ Claudia Cardinale ▶️  "
