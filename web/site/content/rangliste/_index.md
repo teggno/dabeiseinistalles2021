@@ -5,9 +5,11 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Perry Como  ▶️  It‘s Impossible 🎬
-  url: https://www.youtube.com/watch?v=wlAye4YzKok
+  title: "RAFFI‘S 🎸JUKEBOX  -  Ein Herz und eine Krone  ▶️  "
+  url: https://www.youtube.com/watch?v=Kb9fCTY7TiI
   image: img/jukebox.jpg
-  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
+  description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune
+    🎉  Filmmusik „Old Style“. Eine Klasse für sich in jeder Beziehung. Wenn man
+    nur schon die Schönheiten betrachtet…
 type: rangliste
 ---
