@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  The Doors ▶️  The music is over 🔌
+  title: RAFFI‘S 🎸JUKEBOX  -  The Doors  ▶️  The music is over 🔌
   url: https://www.youtube.com/watch?v=J1HqJuGWRMs
   image: img/jukebox.jpg
   description: ""
