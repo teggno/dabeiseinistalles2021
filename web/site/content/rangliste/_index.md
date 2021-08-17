@@ -10,6 +10,6 @@ song:
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune
     🎉  Filmmusik „Old Style“. Eine Klasse für sich in jeder Beziehung. Wenn man
-    nur schon die Schönheiten betrachtet…
+    nur schon die vielen Schönheiten betrachtet…
 type: rangliste
 ---
