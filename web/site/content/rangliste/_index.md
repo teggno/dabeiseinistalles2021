@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸JUKEBOX  -  The Doors ▶️  The music is over 🔌
   url: https://www.youtube.com/watch?v=J1HqJuGWRMs
   image: img/jukebox.jpg
-  description: "Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune 🎉 "
+  description: ""
 type: rangliste
 ---
