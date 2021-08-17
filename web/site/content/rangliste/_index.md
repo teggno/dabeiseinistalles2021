@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  🔟  Brigitte Bardot ▶️  "
-  url: https://www.youtube.com/watch?v=VPOYtC1n5bE
+  title: RAFFI‘S 🎸JUKEBOX  -  9️⃣ Rita Hayworth  ▶️  Sway
+  url: https://www.youtube.com/watch?v=M5FtCIoJATM
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune
     🎉  Film & Musik 🎞 „old style“❗️ Eine Klasse für sich in jeder Beziehung.
