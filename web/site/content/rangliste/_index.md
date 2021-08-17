@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  8️⃣ Senta Berger  ▶️  "
-  url: https://www.youtube.com/watch?v=9JOEpp8HgMY
+  title: "RAFFI‘S 🎸JUKEBOX  -  7️⃣ Monica Bellucci ▶️  Malena "
+  url: https://www.youtube.com/watch?v=KT44aQ_10XM
   image: img/jukebox.jpg
   description: Oldies 🪗 Evergreens 🎻 und Raritäten 🪕 Je nach Lust und Laune
     🎉  Film & Musik 🎞 „old style“❗️ Eine Klasse für sich in jeder Beziehung.
