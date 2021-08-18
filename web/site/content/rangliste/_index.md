@@ -3,7 +3,13 @@ title: Rangliste
 date: 2021-08-17T19:10:55.513Z
 image: ""
 showPlaceholder: true
-placeholder: "\n\n\n\n\n\n"
+placeholder: |+
+  🔌 Sendeschluss  🏖
+
+
+
+
+
 song:
   title: "RAFFI‘S 🎸JUKEBOX  -   ▶️  "
   url: ""
