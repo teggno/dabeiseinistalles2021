@@ -12,7 +12,7 @@ placeholder: >+
   Fazit: Als Messias geholt, der die CL bringen sollte, (Sieben der letzten neun Meisterschaften haben wir ohne ihn eingefahren) hat er 65 von 66 Freistössen ins Niemandsland geballert - ist beim entscheidenden Freistoss gegen Porto wie ein „Hosenscheisser“ aus der Mauer gesprungen und  hat ganz nebenbei die Entwicklung des Teams gebremst. Donnarumma zum Beispiel, DER Torhüter des kommenden Jahrzehnts, konnte wegen fehlender Liquidität, die für CR7 draufgegangen ist, nicht verpflichtet werden. Ganz zu schweigen von den idiotischen Übersteigern, dem unsäglichen Torjubel und seiner unerträglich arroganten Art. Natürlich wäre ich blind, wenn ich nicht sehen würde, wieviele Tore er geschossen hat. Der Preis dafür war allerdings stratosphärisch (ca. 3 Millionen pro Tor)
 
 
-  Soeben hat mich mein ehemaligen Schulkamerad Peter 😀 Hubacher direkt aus seiner Taxizentrale 🚕 angerufen. Lad den „grössten Spieler 🙈 aller Zeiten“ in Manchester aus. Ich hatte mit Paris spekuliert, wo er mit Neymar und Messi auf dem Papier 🤫 das magische „Trio des Jahrtausends“ gebildet hätte. „Fa niente“! Hauptsache er ist weg, der „Ausserirdische“, der sich nie in unsere ❤️💜🧡💛💚💙🤍🤎 gespielt hat 
+  Soeben hat mich mein ehemaligen Schulkamerad Peter 😀 Hubacher direkt aus seiner Taxizentrale 🚕 angerufen. Lad den „grössten Spieler 🙈 aller Zeiten“ in Manchester aus. Ich hatte mit Paris spekuliert, wo er mit Neymar und Messi auf dem Papier 🤫 das magische „Trio des Jahrtausends“ gebildet hätte. „Machä nüüt“! Hauptsache er ist weg, der „Ausserirdische“, der sich nie in unsere 🖤🤍 gespielt hat. 
 
 
 
