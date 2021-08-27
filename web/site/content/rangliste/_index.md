@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2021-08-17T19:10:55.513Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: >+
   🍾🥂 😀🤗 😎 🥳 ☀️ 💫 💃🏽🕺🏾 🥁 🎸 🎷 🎆
 
@@ -21,7 +21,7 @@ placeholder: >+
 
 
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -   ▶️  "
+  title: RAFFI‘S 🎸JUKEBOX  -   Sendeschluss 🔌
   url: ""
   image: img/jukebox.jpg
   description: ""
