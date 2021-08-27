@@ -1,10 +1,11 @@
 ---
-title: 🍾🥂😀 🤗 😎 🥳 💃🏽🕺🏾💫🌞🥁🎸🎷🎆
+title: Rangliste
 date: 2021-08-17T19:10:55.513Z
 image: ""
 showPlaceholder: true
 placeholder: >+
-  
+  🍾🥂 😀🤗 😎 🥳 🌞 💫 💃🏽 🕺🏾 🥁 🎸 🎆
+
   Il tempo e galantuomo……ein Sprichwort aus Italien…..das dir sagen will: Hab Geduld - die Zeit wird es richten! Wenn ich Glück habe, geht Juve’s grösster Flop aller Zeiten (Aufwand/Ertrag) doch noch. Don Perignon habe ich keinen im Keller aber eine 🍾 Moet ist kaltgestellt. Scheinbar geht es nur noch um die Ablöse. 25 Millionen sind in diesen Kreisen ein Pappenstiel. Wenn er unbedingt weg will und sein Busenfreund Mendes nicht im Stande ist das Geld aufzutreiben, soll er die Kohle ohne grosse Diskussionen selber auf den Tisch legen. Schliesslich hat er in 3 Jahren unsere Kassen geleert (350 Millionen) Aber das ist ganz alleine unsere Schuld.
 
 
