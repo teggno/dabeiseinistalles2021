@@ -15,7 +15,7 @@ placeholder: >+
   Jetzt warte ich nur noch auf den Anruf  📞  meines Schulkameraden Peter 😀 Hubacher aus der Taxizentrale. Er sagt mir dann , wo ich den „grössten Spieler 🙈 aller Zeiten“ abladen 🚕 soll. In Manchester bei Pep Guardiola, der ihn zwar nicht will aber auf seinen Boss Mansour hören muss oder in Paris, wo er mit Messi und Neymar das „Trio Infernale“ bilden soll.
 
 
-  Nur bleiben darf er nicht….das wäre zuviel für mich….Legt ein Wort für mich ein……ich wäre euch dankbar 
+  Nur bleiben darf er nicht….das wäre zuviel für mich….Legt beim Fussballgott ein Wort für mich ein……ich wäre euch dankbar 🙏
 
 
 
