@@ -4,7 +4,7 @@ date: 2021-08-17T19:10:55.513Z
 image: ""
 showPlaceholder: true
 placeholder: >+
-  🍾🥂 😀🤗 😎 🥳 🌞 💫 💃🏽🕺🏾 🥁 🎸 🎆
+  🍾🥂 😀🤗 😎 🥳 ☀️ 💫 💃🏽🕺🏾 🥁 🎸 🎷 🎆
 
   IL TEMPO E GALANTUOMO - Ein Sprichwort aus Italien, das dir sagen will: Hab Geduld - die Zeit wird es richten! Wenn ich Glück habe, geht „Juve’s grösster Flop aller Zeiten“ (Aufwand/Ertrag) in den nächsten Stunden oder Tagen doch noch. Wie eine im Regen stehengelassene Primadonna hat er sich zusammen mit seinem Busenfreund Jorge Mendes in der halben Fussballwelt zum Verkauf angeboten. Doch niemand wollte anbeissen. Erbärmlich, für den laut Aussagen sogenannter Fussballexperten „besten Spieler der Neuzeit“. Erst das endgültige „its impossible“ von Harry Kane, hat ihm die Türe zu ManCity aufgestossen. Ausgerechnet zu Pep, mit dem er das Heu nie auf derselben Bühne hatte. Friktionen sind jetzt schon vorprogrammiert. Unterdessen ist der 🍾 kaltgestellt. Don Perignon war keiner da - ein Moet tut es auch. Scheinbar geht es nur noch um die Ablöse. 25 Millionen sind in diesen Kreisen ein Pappenstiel. Wenn er unbedingt weg will und sein Agent nicht im Stande ist das Geld aufzutreiben, soll „ihre Majestät CR7“ ohne grosse Diskussionen die Moneten auf den Tisch legen. Schliesslich hat er in 3 Jahren unsere Kassen „geplündert“. (350 Millionen) Das ist allerdings ganz allein unsere Schuld.
 
