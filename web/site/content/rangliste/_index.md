@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: >+
   Il tempo e galantuomo 🥁 Der  27. August 2021 geht für immer in Juve’s 🖤🤍
-  Geschichtsbücher 📓 ein 🥳 Thank you forever 🙏 Manchester United …..🍾🥂
+  Geschichtsbücher 📓 ein Thank you forever 🙏 Manchester United …..🍾🥂
 
 
 
