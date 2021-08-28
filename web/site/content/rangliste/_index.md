@@ -3,8 +3,9 @@ title: "Rangliste "
 date: 2021-08-27T15:58:45.907Z
 image: ""
 showPlaceholder: true
-placeholder: |+
-  Geduld bringt Rosen 🌹 - Thank you forever 🙏  Manchester United 🍾🥂
+placeholder: >+
+  🍾🥂 Il tempo e galantuomo 🥁 Der  27. August 2021 geht in Juve’s
+  🖤🤍Geschichtsbücher 📓 ein Thank you forever 🙏 Manchester United 
 
 
 
