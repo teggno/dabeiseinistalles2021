@@ -5,11 +5,11 @@ image: ""
 showPlaceholder: true
 placeholder: >+
   Il tempo e galantuomo 🎆 Der  27. August 2021 geht für immer in Juve’s 🖤🤍
-  Geschichtsbücher 📚 ein Thank you forever 🙏 Manchester United …..🍾🥂 Nur
-  schade, hast du uns dieses „Kreuz“ nicht schon viel früher abgenommen. Wir
-  wären niemals so tief gefallen ohne diese „Lichtgestalt“ die wie eine Diebin
-  bei Nacht und Nebel verschwunden ist. Undank ist der Welt Lohn. Hoffentlich
-  war dir das eine Lektion ….Vecchia Signora 
+  Geschichtsbücher 📚 ein Thank you forever 🙏 Manchester United …..🍾🥂 Schade
+  nur, hast du uns dieses „Kreuz“ nicht schon viel früher abgenommen. Wir wären
+  niemals so tief gefallen ohne diese „Lichtgestalt“ die wie eine Diebin bei
+  Nacht und Nebel verschwunden ist. Undank ist der Welt Lohn. Hoffentlich war
+  dir das eine Lektion ….Vecchia Signora 
 
 
 
