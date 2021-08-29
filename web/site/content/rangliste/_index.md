@@ -9,7 +9,7 @@ placeholder: >+
   nur, hast du uns dieses „Kreuz“ nicht schon viel früher abgenommen. Wir wären
   niemals so tief gefallen ohne diese „Lichtgestalt“ die wie eine Diebin bei
   Nacht und Nebel von dannen gezogen ist. Undank ist der Welt Lohn! Hoffentlich
-  war dir das eine Lektion ….Vecchia Signora 
+  hast du die Lektion gelernt ….Vecchia Signora 
 
 
 
