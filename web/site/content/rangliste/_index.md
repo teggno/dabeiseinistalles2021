@@ -1,6 +1,6 @@
 ---
 title: Bonmot
-date: 2021-08-27T15:58:45.907Z
+date: 2021-08-29T10:45:01.065Z
 image: ""
 showPlaceholder: true
 placeholder: >+
