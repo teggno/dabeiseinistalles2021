@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -   Sendeschluss 🔌
-  url: ""
+  title: RAFFI‘S 🎸JUKEBOX  -   Peppino Gagliardi ▶️ Un amore grande
+  url: https://www.youtube.com/watch?v=kffaKHD4v9w
   image: img/jukebox.jpg
   description: ""
 type: rangliste
