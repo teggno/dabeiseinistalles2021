@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸JUKEBOX  -   Peppino Gagliardi ▶️ Un amore grande
   url: https://www.youtube.com/watch?v=kffaKHD4v9w
   image: img/jukebox.jpg
-  description: "Bonjour Tristesse "
+  description: 🎬 Bonjour Tristesse 🌑
 type: rangliste
 ---
