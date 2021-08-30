@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Jethro Tull  ▶️  We used to know
-  url: https://www.youtube.com/watch?v=5EBQ-ljFlt4
+  title: RAFFI‘S 🎸JUKEBOX  -  The Doors  ▶️  The Severed Garden
+  url: https://www.youtube.com/watch?v=MEHL9Dl5LAg
   image: img/jukebox.jpg
   description: "🎬 Bonjour Tristesse "
 type: rangliste
