@@ -12,8 +12,8 @@ placeholder: |+
 
 
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Claudia  ▶️  forever
-  url: https://www.youtube.com/watch?v=KDV7DsAsyvE
+  title: RAFFI‘S 🎸JUKEBOX  -  Joe Dassin  ▶️  L‘été indien
+  url: https://www.youtube.com/watch?v=BT_ZQdY0h8o
   image: img/jukebox.jpg
   description: ""
 type: rangliste
