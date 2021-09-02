@@ -12,9 +12,9 @@ placeholder: |+
 
 
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Fabrizio de André  ▶️  La canzone dell‘amore perduto
-  url: https://www.youtube.com/watch?v=8LNuk0OgWhQ
+  title: RAFFI‘S 🎸JUKEBOX  -  Domenico Modugno  ▶️  Come stai
+  url: https://www.youtube.com/watch?v=7p8pfSbEe2A
   image: img/jukebox.jpg
-  description: ""
+  description: 🎶 🇮🇹
 type: rangliste
 ---
