@@ -13,7 +13,7 @@ placeholder: |+
 
 song:
   title: RAFFI‘S 🎸JUKEBOX  -  Claudia  ▶️  forever
-  url: 1️⃣ https://www.youtube.com/watch?v=KDV7DsAsyvE
+  url: https://www.youtube.com/watch?v=KDV7DsAsyvE
   image: img/jukebox.jpg
   description: ""
 type: rangliste
