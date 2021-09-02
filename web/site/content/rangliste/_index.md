@@ -12,8 +12,8 @@ placeholder: |+
 
 
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Joe Dassin  ▶️  L‘été indien
-  url: https://www.youtube.com/watch?v=BT_ZQdY0h8o
+  title: RAFFI‘S 🎸JUKEBOX  -  Fabrizio de André  ▶️  La Canzone dell‘amore perduto
+  url: https://www.youtube.com/watch?v=8LNuk0OgWhQ
   image: img/jukebox.jpg
   description: ""
 type: rangliste
