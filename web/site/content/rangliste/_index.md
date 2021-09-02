@@ -12,7 +12,7 @@ placeholder: |+
 
 
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Fabrizio de André  ▶️  La Canzone dell‘amore perduto
+  title: RAFFI‘S 🎸JUKEBOX  -  Fabrizio de André  ▶️  La canzone dell‘amore perduto
   url: https://www.youtube.com/watch?v=8LNuk0OgWhQ
   image: img/jukebox.jpg
   description: ""
