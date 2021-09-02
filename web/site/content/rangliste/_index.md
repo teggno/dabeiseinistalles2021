@@ -12,9 +12,9 @@ placeholder: |+
 
 
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  The Doors  ▶️  The Severed Garden
-  url: https://www.youtube.com/watch?v=MEHL9Dl5LAg
+  title: RAFFI‘S 🎸JUKEBOX  -  Claudia  ▶️  forever
+  url: 1️⃣ https://www.youtube.com/watch?v=KDV7DsAsyvE
   image: img/jukebox.jpg
-  description: "🎬 Bonjour Tristesse "
+  description: ""
 type: rangliste
 ---
