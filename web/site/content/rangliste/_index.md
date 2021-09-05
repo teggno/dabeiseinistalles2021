@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: |+
   
-  Sendeschluss 🔌
+  Bis bald 🎉 …… ⁉️
 
 
 
