@@ -12,8 +12,8 @@ placeholder: |+
 
 
 song:
-  title: "RAFFI‘S 🎸JUKEBOX  -  Peppino Gagliardi   ▶️  Un amore grande "
-  url: https://www.youtube.com/watch?v=kffaKHD4v9w
+  title: RAFFI‘S 🎸JUKEBOX  -  Bobby Solo   ▶️  Una lacrima sul viso
+  url: https://www.youtube.com/watch?v=fE6YDSUeY6c
   image: img/jukebox.jpg
   description: "🎶 🇮🇹 "
 type: rangliste
