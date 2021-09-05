@@ -5,15 +5,15 @@ image: ""
 showPlaceholder: false
 placeholder: |+
   
-  Bis bald 🎉 …… ⁉️
+  Bis bald
 
 
 
 
 
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -   Rocco Granata  ▶️  That‘s Amore
-  url: https://www.youtube.com/watch?v=9OI90bPMkNs
+  title: "RAFFI‘S 🎸JUKEBOX  -  Peppino Gagliardi   ▶️  Un amore grande "
+  url: https://www.youtube.com/watch?v=kffaKHD4v9w
   image: img/jukebox.jpg
   description: "🎶 🇮🇹 "
 type: rangliste
