@@ -12,8 +12,8 @@ placeholder: |+
 
 
 song:
-  title: RAFFI‘S 🎸JUKEBOX  -  Bobby Solo   ▶️  Una lacrima sul viso
-  url: https://www.youtube.com/watch?v=fE6YDSUeY6c
+  title: "RAFFI‘S 🎸JUKEBOX  -  Adriano Celentano   ▶️  Il tempo se ne va "
+  url: https://www.youtube.com/watch?v=kzn5QeivM3w
   image: img/jukebox.jpg
   description: "🎶 🇮🇹 "
 type: rangliste
