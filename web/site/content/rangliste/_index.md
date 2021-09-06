@@ -8,6 +8,6 @@ song:
   title: "RAFFI‘S 🎸JUKEBOX  -  🔌   "
   url: https://www.youtube.com/watch?v=kzn5QeivM3w
   image: img/jukebox.jpg
-  description: "🎶 🇮🇹 "
+  description: ""
 type: rangliste
 ---
