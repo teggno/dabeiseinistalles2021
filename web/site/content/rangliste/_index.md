@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX - Eros Ramazotti ▶️  Cose della vita
-  url: https://www.youtube.com/watch?v=ThO-raL_7Ts
+  title: "RAFFI‘S 🎸JUKEBOX - Jacob Gurevitsch ▶️  Lovers in Paris "
+  url: https://www.youtube.com/watch?v=nXTtA5bKHrM
   image: img/jukebox.jpg
   description: ""
 type: rangliste
