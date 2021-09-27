@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
   title: "RAFFI‘S 🎸JUKEBOX - Jacob Gurevitsch ▶️  Lovers in Paris "
-  url: https://www.youtube.com/watch?v=nGDoDA1n2fM
+  url: https://www.youtube.com/watch?v=RXEHIbBmUI0
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🤷 und Laune
 type: rangliste
