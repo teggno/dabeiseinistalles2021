@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX - Adriano Celentano 💫  Angel
-  url: https://www.youtube.com/watch?v=ItVjlRsa07Q
+  title: RAFFI‘S 🎸JUKEBOX - Eros Ramazotti ▶️  Cose della vita
+  url: https://www.youtube.com/watch?v=ThO-raL_7Ts
   image: img/jukebox.jpg
   description: ""
 type: rangliste
