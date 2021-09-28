@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -  Mina - Cocciante ▶️  Questione di feeling
-  url: https://www.youtube.com/watch?v=zc3ndOTYqfY
+  title: "RAFFI‘S 🎸JUKEBOX -   Adriano Celentano ▶️  Ti prendero "
+  url: https://www.youtube.com/watch?v=VFKvI49yUac
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🤷 und Laune
 type: rangliste
