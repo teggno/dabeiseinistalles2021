@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX -   Adriano Celentano ▶️  Ti prendero "
-  url: https://www.youtube.com/watch?v=VFKvI49yUac
+  title: RAFFI‘S 🎸JUKEBOX -   Sergey Grischuk  ▶️  Rain ☔️
+  url: https://www.youtube.com/watch?v=saC7AyalPmc
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🤷 und Laune
 type: rangliste
