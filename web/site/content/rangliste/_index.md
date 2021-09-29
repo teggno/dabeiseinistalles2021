@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -   Sergey Grischuk  ▶️  1:10‘000‘000 😎
+  title: RAFFI‘S 🎸JUKEBOX -   Sergey Grischuk  ▶️  1:1’000‘000 😎
   url: https://www.youtube.com/watch?v=BI87Sbwevo8
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🤷 und Laune
