@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -   Sergey Grischuk  ▶️  Rain ☔️
-  url: https://www.youtube.com/watch?v=UarMJjQYSKc
+  title: "RAFFI‘S 🎸JUKEBOX -   Deep Purple  ▶️  When a blind man cries "
+  url: https://www.youtube.com/watch?v=TpKbmmm6D2o
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🤷 und Laune
 type: rangliste
