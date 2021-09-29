@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX -   Deep Purple  ▶️  When a blind man cries "
-  url: https://www.youtube.com/watch?v=TpKbmmm6D2o
+  title: RAFFI‘S 🎸JUKEBOX -   Steely Dan  ▶️  Vergiss meine 📞 Nummer nicht
+  url: https://www.youtube.com/watch?v=KUnjS4SEQmA
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🤷 und Laune
 type: rangliste
