@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -  Emerson Lake & Palmer  ▶️  C‘est la vie
-  url: https://www.youtube.com/watch?v=1Cou35LP9wI
+  title: "RAFFI‘S 🎸JUKEBOX -  Steppenwolf  ▶️  Born to be wild "
+  url: https://www.youtube.com/watch?v=egMWlD3fLJ8
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 😎 und Laune 😔 🥳
 type: rangliste
