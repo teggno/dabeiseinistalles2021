@@ -8,6 +8,6 @@ song:
   title: "RAFFI‘S 🎸JUKEBOX -  Neil Diamond ▶️  September Morning "
   url: https://www.youtube.com/watch?v=WQ6Sv2ujiGE
   image: img/jukebox.jpg
-  description: Oldies 📻 und Raritäten 🦋 Je nach Lust ☀️ 🌑 und Laune
+  description: Oldies 📻 und Raritäten 🦋 Je nach Lust 😎 😔 und Laune
 type: rangliste
 ---
