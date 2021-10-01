@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸JUKEBOX -  The Beatles  ▶️  The long and winding road
   url: https://www.youtube.com/watch?v=3A19HSowZp0
   image: img/jukebox.jpg
-  description: "Oldies 📻 und Raritäten 🦋 Je nach Lust ☀️ 🌑 und Laune "
+  description: Oldies 📻 und Raritäten 🦋 Je nach Lust ☀️ 🌑 und Laune 🎉
 type: rangliste
 ---
