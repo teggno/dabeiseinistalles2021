@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX -  Eric Clapton  ▶️  Autumn Leaves "
-  url: https://www.youtube.com/watch?v=jwRBcNReYTw
+  title: RAFFI‘S 🎸JUKEBOX -  Peppino di Capri  ▶️  Roberta
+  url: https://www.youtube.com/watch?v=ZqQzoDv-XRw
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️🌑
 type: rangliste
