@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -  Peppino di Capri  ▶️  Bellissima
-  url: https://www.youtube.com/watch?v=ZqQzoDv-XRw
+  title: "RAFFI‘S 🎸JUKEBOX -  John Denver ▶️  Annie‘s song "
+  url: https://www.youtube.com/watch?v=C21G2OkHEYo
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️🌑
 type: rangliste
