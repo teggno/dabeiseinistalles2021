@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX -  John Denver ▶️  Annie‘s song "
-  url: https://www.youtube.com/watch?v=C21G2OkHEYo
+  title: "RAFFI‘S 🎸JUKEBOX - Joan Baez/Bob Dylan   ▶️  Diamonds and rust "
+  url: https://www.youtube.com/watch?v=1ST9TZBb9v8
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️🌑
 type: rangliste
