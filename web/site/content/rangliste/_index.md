@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -  Dusty Springfield   ▶️  Yesterday when I was young
-  url: https://www.youtube.com/watch?v=pSHI-NPC3Kg
+  title: RAFFI‘S 🎸JUKEBOX -  Eric Clapton  ▶️  Autumn Leaves
+  url: https://www.youtube.com/watch?v=jwRBcNReYTw
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️🌑
 type: rangliste
