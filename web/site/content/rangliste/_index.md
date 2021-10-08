@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -  Gerry Rafferty  ▶️  Baker Street
-  url: https://www.youtube.com/watch?v=x-Yi762sQTo
+  title: RAFFI‘S 🎸JUKEBOX -  Mary J. Blige & U2  ▶️  One
+  url: https://www.youtube.com/watch?v=ZpDQJnI4OhU&list=RDZpDQJnI4OhU&start_radio=1
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️🌑
 type: rangliste
