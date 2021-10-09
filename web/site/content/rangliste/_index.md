@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX - Renato Carosone  ▶️  Tu vuo fa l‘americano
-  url: https://www.youtube.com/watch?v=BqlJwMFtMCs
+  title: RAFFI‘S 🎸JUKEBOX - Hetty & The Jazzato Band  ▶️  Tu vuo fa l‘americano
+  url: https://www.youtube.com/watch?v=J0ogqBcK9ow
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️🌑
 type: rangliste
