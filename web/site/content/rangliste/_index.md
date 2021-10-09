@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX -  Jacob Gurevitsch  ▶️  Lovers in Paris "
-  url: https://www.youtube.com/watch?v=nXTtA5bKHrM
+  title: RAFFI‘S 🎸JUKEBOX -  Pino Daniele  ▶️   Sicily
+  url: https://www.youtube.com/watch?v=WmWIKiJhTuE
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️🌑
 type: rangliste
