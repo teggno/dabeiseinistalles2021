@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -  Paolo Conte  ▶️  Via con me
-  url: https://www.youtube.com/watch?v=BZOObJjjiOA
+  title: RAFFI‘S 🎸JUKEBOX -  Mina e Cocciante  ▶️  Questione di feeling
+  url: https://www.youtube.com/watch?v=zc3ndOTYqfY
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️🌑
 type: rangliste
