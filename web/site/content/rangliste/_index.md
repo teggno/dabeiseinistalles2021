@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -  The Beatles  ▶️  Hey Jude
-  url: https://www.youtube.com/watch?v=A_MjCqQoLLA
+  title: RAFFI‘S 🎸JUKEBOX -  Frank Sinatra  ▶️  My Way
+  url: https://www.youtube.com/watch?v=ZaKuDIlZ0KQ
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️🌑 Questa
     canzone e solo per te
