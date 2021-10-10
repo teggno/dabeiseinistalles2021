@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -  Adriano Celentano ▶️  Angel
-  url: https://www.youtube.com/watch?v=ItVjlRsa07Q
+  title: RAFFI‘S 🎸JUKEBOX -  The Beatles  ▶️  Hey Jude
+  url: https://www.youtube.com/watch?v=A_MjCqQoLLA
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️🌑
 type: rangliste
