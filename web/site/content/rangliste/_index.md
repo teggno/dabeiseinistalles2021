@@ -5,10 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -  Frank Sinatra  ▶️  My Way
-  url: https://www.youtube.com/watch?v=ZaKuDIlZ0KQ
+  title: RAFFI‘S 🎸JUKEBOX -  Frank Sinatra  ▶️  When I was 17
+  url: https://www.youtube.com/watch?v=WaZ607thdzM
   image: img/jukebox.jpg
-  description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️🌑 Geschmack
-    getroffen..❓🤔
+  description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️🌑  Balliamo….
 type: rangliste
 ---
