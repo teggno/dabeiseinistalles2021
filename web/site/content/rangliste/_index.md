@@ -5,9 +5,10 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX -  The Turtles  ▶️  Eleonore
-  url: https://www.youtube.com/watch?v=phMWtWZaDPQ
+  title: RAFFI‘S 🎸JUKEBOX -  Mina  ▶️  Ancora -Ancora - Ancora
+  url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
-  description: "Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️🌑  "
+  description: Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune ☀️ 🌚 🌝  Für
+    alle Mina Fans, die nie genug bekommen  können 🤫…..
 type: rangliste
 ---
