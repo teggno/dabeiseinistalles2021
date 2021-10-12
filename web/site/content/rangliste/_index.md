@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸 JUKEBOX 🎤 The Mamas & The Papas  ▶️  California Dreamin‘ "
-  url: https://www.youtube.com/watch?v=j9oH5ngQcdU
+  title: "RAFFI‘S 🎸 JUKEBOX 🎤 Renato Zero  ▶️  Magari ‘ "
+  url: https://www.youtube.com/watch?v=m3MBxEvliWs
   image: img/jukebox.jpg
   description: "Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune 🌞🌚  "
 type: rangliste
