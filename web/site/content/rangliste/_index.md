@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸 JUKEBOX 🎤 Renato Zero  ▶️  Magari ‘ "
+  title: "RAFFI‘S 🎸 JUKEBOX  📀  Renato Zero  ▶️  Magari ‘ "
   url: https://www.youtube.com/watch?v=m3MBxEvliWs
   image: img/jukebox.jpg
   description: "Oldies 📻 und Raritäten 🦋 Je nach Lust 🎉 und Laune 🌞🌚  "
