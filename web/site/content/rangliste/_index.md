@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸 JUKEBOX  📀  Renato Zero  ▶️  Magari "
-  url: https://www.youtube.com/watch?v=m3MBxEvliWs
+  title: RAFFI‘S 🎸 JUKEBOX  📀  Pink Floyd  ▶️  Us and Them
+  url: https://www.youtube.com/watch?v=s_Yayz5o-l0
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉
 type: rangliste
