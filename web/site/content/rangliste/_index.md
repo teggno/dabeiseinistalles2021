@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸 JUKEBOX  📀  Rod Stewart   ▶️  I don‘t wan‘t to talk about it "
-  url: https://www.youtube.com/watch?v=w46bWxS9IjY
+  title: RAFFI‘S 🎸 JUKEBOX  📀  Leonard Cohen   ▶️  famous blue raincoat
+  url: https://www.youtube.com/watch?v=1ijyL-jeOJw
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉
 type: rangliste
