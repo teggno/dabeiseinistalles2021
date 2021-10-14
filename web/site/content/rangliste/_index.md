@@ -5,9 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸 JUKEBOX  📀  Peppino Gagliardi  ▶️   Che vuole questa musica
-    stasera
-  url: https://www.youtube.com/watch?v=Jss7nig-QSM
+  title: "RAFFI‘S 🎸 JUKEBOX  📀  Peppino Gagliardi  ▶️   Un amore grande "
+  url: https://www.youtube.com/watch?v=kffaKHD4v9w
   image: img/jukebox.jpg
   description: "Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉  "
 type: rangliste
