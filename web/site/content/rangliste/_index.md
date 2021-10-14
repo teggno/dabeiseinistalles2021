@@ -10,6 +10,6 @@ song:
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉  Bruno Ganz
     und die einfachen Dinge des Lebens. Bezaubernd! Auch im „hohen Alter“. Ohne
-    Handy, Facebook und Instagram 🤭
+    Handy, Facebook und den ganzen Kram 🤔
 type: rangliste
 ---
