@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸 JUKEBOX  📀  I Pooh  ▶️  Pensiero "
-  url: https://www.youtube.com/watch?v=d9LZWrfLEE4
+  title: "RAFFI‘S 🎸 JUKEBOX  📀  If ▶️  Pebbles on the beach "
+  url: https://www.youtube.com/watch?v=TYqMX42mBNY
   image: img/jukebox.jpg
   description: "Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉  "
 type: rangliste
