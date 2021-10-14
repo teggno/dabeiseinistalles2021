@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸 JUKEBOX  📀  Sweet  ▶️  Love is like Oxygen "
-  url: https://www.youtube.com/watch?v=zRgWvvkSvfk
+  title: "RAFFI‘S 🎸 JUKEBOX  📀  The Rolling Stones  ▶️  Anybody seen my baby "
+  url: https://www.youtube.com/watch?v=BinwuzZVjnE
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉
 type: rangliste
