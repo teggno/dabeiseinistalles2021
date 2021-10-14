@@ -5,11 +5,10 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸 JUKEBOX  📀  Eleni Karaindrou  ▶️   By the Sea
-  url: https://www.youtube.com/watch?v=0pjJLwiB0Nk
+  title: RAFFI‘S 🎸 JUKEBOX  📀  Peppino Gagliardi  ▶️   Che vuole questa musica
+    stasera
+  url: https://www.youtube.com/watch?v=Jss7nig-QSM
   image: img/jukebox.jpg
-  description: Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉  Bruno Ganz
-    und die „einfachen“ Dinge des Lebens. Ein Blick, eine Berührung. Bezaubernd
-    - auch im „hohen Alter“! Ohne Handy, Facebook und den ganzen Kram.
+  description: "Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉  "
 type: rangliste
 ---
