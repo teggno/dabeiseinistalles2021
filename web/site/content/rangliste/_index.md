@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸 JUKEBOX  📀  Fred Bongusto  ▶️  Bellissima "
-  url: https://www.youtube.com/watch?v=b_v8Fyi9s64
+  title: "RAFFI‘S 🎸 JUKEBOX  📀  Sweet  ▶️  Love is like Oxygen "
+  url: https://www.youtube.com/watch?v=zRgWvvkSvfk
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉
 type: rangliste
