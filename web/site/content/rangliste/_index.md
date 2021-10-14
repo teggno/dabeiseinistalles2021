@@ -8,8 +8,8 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX  📀  Eleni Karaindrou  ▶️   By the Sea
   url: https://www.youtube.com/watch?v=0pjJLwiB0Nk
   image: img/jukebox.jpg
-  description: Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉 Bezaubernd!
-    Bruno Ganz und die einfachen Dinge des Lebens. Von wegen Messages auf dem
-    Handy, Facebook und Instagram…..
+  description: Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉  Bruno Ganz
+    und die einfachen Dinge des Lebens. Bezaubernd! Auch im „hohen Alter“. Von
+    wegen lapidarer Messages auf  Handys, Facebook und Instagram…..
 type: rangliste
 ---
