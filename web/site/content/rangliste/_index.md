@@ -3,7 +3,14 @@ title: Rangliste
 date: 2021-10-11T12:07:52.601Z
 image: ""
 showPlaceholder: false
-placeholder: "\n\n\n\n\n\n\n"
+placeholder: |+
+  
+  🔚🎈🎈🎈🎈🎈🎈🔚
+
+
+
+
+
 song:
   title: RAFFI‘S 🎸 JUKEBOX  📀  Cheat Codes ▶️ 👫
   url: https://www.youtube.com/watch?v=OORoOGY8D2M
