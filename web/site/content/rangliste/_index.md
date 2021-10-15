@@ -9,6 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=OORoOGY8D2M
   image: img/jukebox.jpg
   description: Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉  Das geht ja
-    zu und her wie damals bei „Sigi“ in der Primarschule 😎🙈🤭
+    zu und her wie damals bei „Sigi“ in der Primarschule 🤭  und z‘vorderscht
+    vorne 🙈 wiä immer dä Roger 😎
 type: rangliste
 ---
