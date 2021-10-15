@@ -2,21 +2,19 @@
 title: Rangliste
 date: 2021-10-11T12:07:52.601Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: |+
   
-  🎈🎈🎈🎈🎈🎈🔚
+  🔌 🎈🎈🎈🎈🎈🎈🔚
 
 
 
 
 
 song:
-  title: RAFFI‘S 🎸 JUKEBOX  📀  Cheat Codes ▶️ 👫
-  url: https://www.youtube.com/watch?v=OORoOGY8D2M
+  title: RAFFI‘S 🎸 JUKEBOX  📀   ▶️
+  url: ""
   image: img/jukebox.jpg
-  description: "Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉  Das geht ja
-    zu und her wie damals „bim Sigi 👨‍🏫“ i dä Anthropologie 🤭 und
-    z‘vorderscht vornä 🙋 wiä immer dä Roger 🙈 "
+  description: "Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉  "
 type: rangliste
 ---
