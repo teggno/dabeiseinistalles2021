@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: |+2
   
-   🔌 🔚 🤔 ⁉️
+   🔌 🔚 🤔 
 
 
 
