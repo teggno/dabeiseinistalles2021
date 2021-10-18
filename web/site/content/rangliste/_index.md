@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX  🔌
   url: ""
   image: img/jukebox.jpg
-  description: "Oldies 📻 und Raritäten 🦋 Je nach Lust  und Laune 🎉  "
+  description: "  "
 type: rangliste
 ---
