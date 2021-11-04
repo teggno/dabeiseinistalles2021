@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\ \n\ \n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸 JUKEBOX  🔌
-  url: ""
+  title: RAFFI‘S 🎸 JUKEBOX - Mina - Ti voglio
+  url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
   description: "  "
 type: rangliste
