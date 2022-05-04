@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - Mina 🤫 Ancora Ancora Ancora
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
-  description: "Darf ich bitten…..💃🏽🕺🏾…..tesoro…..  "
+  description: Darf ich bitten…..💃🏽🕺🏾…..
 type: rangliste
 ---
