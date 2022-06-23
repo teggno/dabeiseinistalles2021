@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\ \n\ \n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - che pazza che sei…..
+  title: RAFFI‘S 🎸 JUKEBOX - Gary Moore - che pazza che sei…..
   url: https://www.youtube.com/watch?v=DwhJZwQTqVU
   image: img/jukebox.jpg
   description: ""
