@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - Mina -di pigliarmi ancora….
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
-  description: …….si tesoro……si……
+  description: Sensuale sull mio cuore ♥️…….di pigliarmi ancora…….si tesoro……si……
 type: rangliste
 ---
