@@ -8,6 +8,7 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - Mina -Ancora Ancora Ancora
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
-  description: …….di pigliarmi ancora….fammi morire ancora……si …..tesoro…..si…..
+  description: …….io ti chiedo il tuo corpo ancora…..di pigliarmi ancora….fammi
+    morire ancora……si tesoro ancora….
 type: rangliste
 ---
