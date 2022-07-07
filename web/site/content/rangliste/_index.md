@@ -8,8 +8,8 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - Mina - 🙈🙈🙈
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
-  description: Sensuale sull mio cuore ♥️…….…..di amarmi ancora…….di pigliarmi
-    ancora……la tua bocca ancora….le tue mani ancora……..sull tuo corpo ancora……si
-    tesoro……siiiiii……
+  description: Sensuale sull mio cuore ♥️…….…..di abbraciarmi ancora…..di amarmi
+    ancora…….di pigliarmi ancora……la tua bocca ancora….le tue mani
+    ancora……..sull tuo corpo ancora……si tesoro……siiiiii……
 type: rangliste
 ---
