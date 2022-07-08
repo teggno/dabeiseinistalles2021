@@ -12,9 +12,9 @@ placeholder: |-2
 
   Sss
 song:
-  title: "RAFFI‘S 🎸 JUKEBOX: Aerosmith - Crazy 😜 ….."
-  url: https://www.youtube.com/watch?v=NMNgbISmF4I
+  title: RAFFI‘S 🎸 JUKEBOX
+  url: ""
   image: img/jukebox.jpg
-  description: …..chiudi gli occhi…..e vieni via con me…..
+  description: ""
 type: rangliste
 ---
