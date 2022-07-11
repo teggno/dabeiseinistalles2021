@@ -6,4 +6,6 @@ image: img/5fab1ac4-eeb0-48a5-9d3c-b5648e424120.jpeg
 ---
 Was für ein Ausfallschritt! Und erst dieses Outfit. Ich glaube mich zu erinnern, dass du ein ebenso heisses Teil in deiner Garderobe hast. Ziehs doch mal an, wenn wir uns zufällig über den Weg laufen. Ohne Höschen darunter, steht es dir besonders gut….🙈…..
 
-Ich würde mich freuen, wenn du mir wieder ab und zu schreibst. Einfach hier weiterfahren. Wenn du fertig bist, oben rechts auf „veröffentlichen“ klicken. Bevor du rausgehst, abmelden. Ich habe dich vermisst 💋 tesoro.
+Ich würde mich freuen, wenn du mir wieder ab und zu schreibst. Einfach hier weiterfahren. Wenn du fertig bist, oben rechts auf „veröffentlichen“ klicken. Bevor du rausgehst, Männchen anklicken und abmelden.
+
+Ich habe dich vermisst 💋 tesoro.
