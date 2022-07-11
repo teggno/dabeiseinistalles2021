@@ -12,8 +12,8 @@ placeholder: |-2
 
   Sss
 song:
-  title: RAFFI‘S 🎸 JUKEBOX
-  url: https://www.youtube.com/watch?v=XF8ZRjfGACA
+  title: RAFFI‘S 🎸 JUKEBOX - Gary Moore - Parisienne Walkways
+  url: https://www.youtube.com/watch?v=DwhJZwQTqVU
   image: img/jukebox.jpg
   description: ""
 type: rangliste
