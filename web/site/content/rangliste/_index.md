@@ -12,8 +12,8 @@ placeholder: |-2
 
   Sss
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - Mina - Ancora - Ancora - Ancora
-  url: https://www.youtube.com/watch?v=cO0teWvqVHY
+  title: "RAFFI‘S 🎸 JUKEBOX - "
+  url: ""
   image: img/jukebox.jpg
   description: ""
 type: rangliste
