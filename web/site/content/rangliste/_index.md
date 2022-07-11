@@ -12,8 +12,8 @@ placeholder: |-2
 
   Sss
 song:
-  title: "RAFFI‘S 🎸 JUKEBOX - "
-  url: https://www.youtube.com/watch?v=DwhJZwQTqVU
+  title: "RAFFI‘S 🎸 JUKEBOX - by the sea "
+  url: https://www.youtube.com/watch?v=0pjJLwiB0Nk
   image: img/jukebox.jpg
   description: ""
 type: rangliste
