@@ -8,4 +8,4 @@ Was für ein Ausfallschritt! Und erst dieses Outfit. Ich glaube mich zu erinnern
 
 Ich würde mich freuen, wenn du mir ab und zu wieder schreibst. Einfach hier weiterfahren. Wenn du fertig bist, oben rechts auf „veröffentlichen“ klicken. Bevor du rausgehst, Männchen anklicken und abmelden.
 
-Ich habe dich vermisst 💋 tesoro.
+Ich habe dich vermisst 💋 tesoro mio ….
