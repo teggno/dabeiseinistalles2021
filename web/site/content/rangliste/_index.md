@@ -12,7 +12,7 @@ placeholder: |-2
 
   Sss
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - Quando fai mmmmmm mi fai impazzire
+  title: RAFFI‘S 🎸 JUKEBOX - Mina - Ancora - Ancora - Ancora
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
   description: ""
