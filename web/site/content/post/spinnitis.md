@@ -4,7 +4,7 @@ draft: true
 date: 2022-07-12T12:24:06.034Z
 image: img/3c294866-4f4a-4699-a93e-1405f687aa4a.jpeg
 ---
-Oskar Wilde, der zu Lebzeiten als Schriftsteller und Bonvivant eine Menge umstrittener Aphorismen kreiert hat, äusserte sich gerne zu den Irrungen und Wirrungen zwischen Mann und Frau. Eins meiner Lieblingszitate geht so: „Zwischen Männern und Frauen ist keine Freundschaft möglich. Da gibt es nur Leidenschaften, Feindschaft, Anbetung, Liebe“. Mir hat’s besonders die Leidenschaft angetan. Ohne sie ist die Liebe etwas Unvollkommenes. Man verdrängt es zwar oft, doch wenn man in sich geht und das Leben Revue passieren lässt, nickt man sich zu.
+Oskar Wilde, der zu Lebzeiten als Schriftsteller und Bonvivant eine Menge umstrittener Aphorismen kreiert hat, äusserte sich gerne zu den Irrungen und Wirrungen zwischen Mann und Frau. Eins seiner Zitate geht so: „Zwischen Männern und Frauen ist keine Freundschaft möglich. Da gibt es nur Leidenschaften, Feindschaft, Anbetung, Liebe“. Mir hat’s besonders die Leidenschaft angetan. Ohne sie ist die Liebe unvollkommen. Sehr subjektiv, ich weiss. Man verdrängt dieses Gefühl zwar oft, doch wenn man in sich geht und die innere Stimme zu Rate zieht, nickt man sich zu.
 
 Nachdem das letzte Prozent Hoffnung zunichte gemacht wurde, suchte ich Trost in meiner Phantasiewelt. Hoffentlich bist du nicht schockiert wegen des Bildes. ich habe es ausgesucht im Zusammenhang mit dem Thema Leidenschaft. Ihr Blick gefällt mir und die Ästhetik. Alters-Spinnitis nennt man das wohl, es wird immer schlimmer 🙈……Wenn du übrigens ein Lied zum Thema „Verdrängen“ hören willst, weisst du ja wo. Gnau zuälosä……„österreichisch„ ist nicht so einfach zu verstehen.
 
