@@ -12,7 +12,7 @@ placeholder: |-2
 
   Sss
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - Reinhard Fendrich - Du sitzt vor mir
+  title: RAFFI‘S 🎸 JUKEBOX - Rainhard Fendrich - Du sitzt vor mir
   url: https://www.youtube.com/watch?v=rngv_6Eaj6s
   image: img/jukebox.jpg
   description: ""
