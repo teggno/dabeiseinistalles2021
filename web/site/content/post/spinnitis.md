@@ -8,4 +8,4 @@ Oskar Wilde, der zu Lebzeiten als Schriftsteller und Bonvivant eine Menge umstri
 
 Nachdem das letzte Prozent Hoffnung zunichte gemacht wurde, suchte ich Trost in meiner Phantasiewelt. Hoffentlich bist du nicht schockiert wegen des Bildes. ich habe es ausgesucht im Zusammenhang mit dem Thema Leidenschaft. Ihr Blick gefällt mir und die Ästhetik. Alters-Spinnitis nennt man das wohl, es wird immer schlimmer 🙈……Wenn du übrigens ein Lied zum Thema „Verdrängen“ hören willst, weisst du ja wo. Gnau zuälosä……„österreichisch„ ist nicht so einfach zu verstehen.
 
-Ich hoffe, dass du deiner Freundin heute Abend helfen kannst. Schon das blosse Zuhören kann für das Gegenüber sehr hilfreich sein. Wenn du Lust hast, kannst du mich auf dem Heimweg noch anrufen.
+Ich hoffe, dass du deiner Freundin heute Abend helfen kannst. Schon das blosse Zuhören kann für das Gegenüber sehr hilfreich sein. Wenn du Lust hast, kannst du mich auf dem Heimweg noch anrufen. PS: wenn du selber mal einen Artikel schreiben willst, nur zu. „Neuen Artikel“ anklicken, Titel nicht vergessen, schreiben und veröffentlichen.
