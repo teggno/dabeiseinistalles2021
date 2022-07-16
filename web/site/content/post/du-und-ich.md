@@ -10,6 +10,6 @@ Ja, diese verflixten Erwartungen. Das Bild oben spricht Bände. Ich habe sie geh
 
 Die letzte Geschichte werde ich wie von dir gewünscht gleich wieder löschen. Diese hier lasse ich noch etwas stehen, vielleicht willst du ja antworten. Habe einen zweiten Artikel aufgemacht, sonst wird es hier zu lang. Hab keine Angst, niemand sieht es.
 
-Du wirst immer einen speziellen Platz in meinem Herzen haben. Den Moment, als ich dir gestand „ich begehre dich“ und du Herzklopfen bekamst (ich übrigens auch) werde ich in meinen Erinnerungen aufbewahren. Vergiss am besten das Passwort wieder, so bist du beruhigt und ich mach keinen Blödsinn mehr.
+Du wirst immer einen speziellen Platz in meinem Herzen haben. Den Moment, als ich dir gestand „ich begehre dich“ und du Herzklopfen bekamst (ich übrigens auch) werde ich in meinen Erinnerungen aufbewahren. Vergiss am besten das Passwort wieder, so bist du beruhigt und ich schreibe keinen Blödsinn mehr.
 
 Ti abbraccio
