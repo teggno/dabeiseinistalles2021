@@ -4,7 +4,7 @@ draft: true
 date: 2022-07-16T20:00:43.425Z
 image: img/0a53f68c-7e83-43de-a3f5-3a90d0f55f44.jpeg
 ---
-Wenn du immer wieder auf „veröffentlichen“ und anschliessend auf „jetzt veröffentlichen„ klickst, sobald du einen Teil geschrieben hast und nicht erst am Schluss, dann passiert es nicht, dass alles verloren ist. (Warten bis der grüne Balken „Beitrag gespeichert„ erscheint) 
+Wenn du immer wieder auf „veröffentlichen“ und anschliessend auf „jetzt veröffentlichen„ klickst, sobald du einen Teil geschrieben hast und nicht erst am Schluss, dann passiert es nicht, dass alles verloren geht. (Warten bis der grüne Balken „Beitrag gespeichert„ erscheint) 
 
 Ja, diese verflixten Erwartungen. Das Bild oben spricht Bände. Ich habe sie gehabt, als wir uns wieder gesehen haben. Ich dachte es wird noch einmal so wie damals. Doch spätestens am Dienstagabend war mir klar, dass diese Zeit nicht wiederkommt. Du willst von „erotischer Literatur and more“ nichts mehr wissen. Der „Besessene“ hingegen schon. Für Frauen-Freundschaften, ohne irgendwelche Hintergedanken zu hegen, fühlte ich mich halt nie berufen.
 
