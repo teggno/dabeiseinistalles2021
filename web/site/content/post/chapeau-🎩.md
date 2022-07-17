@@ -11,3 +11,7 @@ Der x-te Versuch überhaupt auf diese Seite zu kommen. Wollte fast aufgeben, abe
 Bis nach Stein am Rhein und zurück ist die Biketour gegangen und es war wunderschön, aber mit der Zeit wurde es heiss. Aber hat gut getan. 
 
 Die Antwort zu deinen Zeilen oder meine Meinung dazu möchte ich dir nicht auf diesem Wege sagen und ein persönliches Gespräch ist mir viel lieber. Das Gegenüber zu spüren ist viel wertvoller und klarer im Ausdruck. Und bei unserem Thema finde ich das sehr wichtig.
+
+Wir finden eine Gelegenheit zu plaudern und zu erzählen, auch wenn es schwierig ist und ich nicht so viel Risiko eingehe grad zur Zeit, das überfordert mich im Moment. Geht mir nicht so gut. 
+
+Aber etwas möchte ich dir gerne jetzt sagen. Das was wir erlebt haben ist einzigartig und daran festzuhalten und zu hoffen, dass es wieder so wird ist nicht möglich. Denn jetzt ist wieder eine andere Situation, das Leben verändert sich jeden Tag, jede Stunde und an Dingen oder Begebenheiten festzuhalten, egal ob positiv oder negativ stoppt den Fluss im Leben und so verpasst man die Gegenwart, wo das Leben grad statt findet. Wenn ich an wunderschönen Dingen festhalte oder mich in Dramas einniste und nicht mehr rauskomme, dann lebe ich das Leben nicht, der Fluss kommt ins stocken und ich verpasse die neuen Begebenheiten, die mir das Leben täglich bietet.
