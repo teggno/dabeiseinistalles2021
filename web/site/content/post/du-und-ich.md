@@ -12,8 +12,8 @@ Bereits vor vielen Monaten, habe ich dich um ein persönliches Gespräch gebeten
 
 Wie von dir gewünscht, habe ich den letzten Artikel gleich gelöscht. Diesen hier lasse ich noch etwas stehen, vielleicht willst du ja deinen Standpunkt darlegen. Habe einen zweiten Artikel unter dem Titel „la tua risposta se vuoi“ aufgemacht, hier auf dieser Seite wird es sonst zu lang. Hab keine Angst, niemand wird es entdecken.
 
-Wenn sich Gefühle verändern, die Wellenlänge sozusagen nicht mehr die gleiche ist, die Schwingungen wie du sie nennst, nicht beide im selben Mass durchdringen, dann redet man aneinander vorbei, Ich komme mir dann wie aufdringlich vor. Etwas, das ich stets vermeiden wollte. Du wirst immer einen ganz speziellen Platz in meinem Herzen einnehmen. Den Moment, als ich dir gestand „ich begehre dich“ und du Herzklopfen bekamst (ich übrigens auch) möchte ich nie missen. Wir wollen „Anime Gemelle„ bleiben. Darum vergisst du am besten das Passwort wieder, so bist du beruhigt und ich komme nicht mehr auf die Idee, irgendwelchen Blödsinn zu fabrizieren. Celentano singt es mit seinen Worten:
+Wenn sich Gefühle verändern, die Wellenlänge sozusagen nicht mehr die gleiche ist, die Schwingungen wie du sie nennst, nicht beide im selben Mass durchdringen, dann redet man aneinander vorbei, Ich komme mir dann wie aufdringlich vor. Etwas, das ich stets vermeiden wollte. Du wirst immer einen ganz speziellen Platz in meinem Herzen einnehmen. Den Moment, als ich dir gestand „ich begehre dich“ und du Herzklopfen bekamst (ich übrigens auch) möchte ich nie missen. Wir wollen „Anime Gemelle„ bleiben. Darum vergisst du am besten das Passwort wieder, so bist du beruhigt und ich komme nicht mehr auf die Idee, irgendwelchen Blödsinn zu fabrizieren. 
 
- „…..lei se ne andata e il tempo si e fermato ….non hai capito che il giocho (du nennst es momento) erá finito….
+Celentano singt es mit seinen Worten: „…..lei se ne andata e il tempo si e fermato ….non hai capito che il giocho (du nennst es momento) erá finito….
 
 Ti abbraccio
