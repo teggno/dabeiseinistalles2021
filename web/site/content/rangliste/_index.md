@@ -12,7 +12,7 @@ placeholder: |-2
 
   Sss
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - Celentano - il giocho e finito
+  title: RAFFI‘S 🎸 JUKEBOX - Adriano Celentano - il giocho e finito
   url: https://www.youtube.com/watch?v=ItVjlRsa07Q
   image: img/jukebox.jpg
   description: ""
