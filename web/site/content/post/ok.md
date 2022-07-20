@@ -6,4 +6,6 @@ image: img/fb3d1cb1-93f8-4c48-8d33-03961b2dff6a.jpeg
 ---
 ….lebt es sich momentan am Besten. Che calore 🔥.
 
-Nachdem ich Level ♋️ nach deinen unmissverständlichen Zeilen endgültig verlassen habe……ich werde in Zukunft weder Andeutungen noch irgendwelche Annäherungsversuche machen……will ich dich fragen, warum es dir nicht so gut geht. Mache mir Sorgen. Un abbraccio.
+Nachdem ich Level ♋️ nach deinen unmissverständlichen Zeilen endgültig verlassen habe…… werde ich in Zukunft weder Andeutungen noch irgendwelche Annäherungsversuche machen……Du hast geschrieben….dass es dir im Moment nicht so gut geht. Muss ich mir Sorgen machen…..
+
+un abbraccio
