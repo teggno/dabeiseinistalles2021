@@ -16,14 +16,10 @@ Buona sera carissimo
 
 Ich kann jetzt grad nicht sagen, was in mir vorgeht, wenn ich deine Zeilen lese. Ich habe schon dein gestriger Artikel gelesen, bin aber noch nicht dazu gekommen um zurückzuschreiben und jetzt hast du schon einen neuen geschrieben. Nach mehrmaligen Versuchen mit Fehlermeldungen habe ich es geschafft, dass es jetzt funktioniert. 
 
-Ich bereue jetzt, dass ich dir den letzten Artikel so geschrieben habe, ich hätte gar nichts sagen sollen, sondern darauf warten, bis wir miteinander reden können. Ich wollte dir dazu noch einiges erklären, geht aber zu lange um es zu schreiben und so geschieht es, dass es falsch verstanden wird oder ich nicht das ausdrücken wollte, was du jetzt empfindest. Ich glaube zu spüren, dass du mich nicht verstehst und dass du auch verletzt bist. Das ist das Letzte was ich wollte. In unserem Fall ist ein aufrichtiges Gespräch hilfreich, denn es tut mir jetzt grad sehr weh, weil ich das Gefühl habe, dass unsere Freundschaft kaputt geht. Das ertrage ich. Denn ich habe immer unsere Verbundenheit und Sympathie füreinander auf verschiedenen Ebenen gespürt. Ist das jetzt vorbei? 
+Ich bereue jetzt, dass ich dir den letzten Artikel so geschrieben habe, ich hätte gar nichts sagen sollen, sondern darauf warten, bis wir miteinander reden können. Ich wollte dir dazu noch einiges erklären, geht aber zu lange um es zu schreiben und so geschieht es, dass es falsch verstanden wird oder ich nicht das ausdrücken wollte, was du jetzt empfindest. Ich glaube zu spüren, dass du mich nicht verstehst und dass du auch verletzt bist. Das ist das Letzte was ich wollte. In unserem Fall ist ein aufrichtiges Gespräch hilfreich, denn es tut mir jetzt grad sehr weh, weil ich das Gefühl habe, dass unsere Freundschaft kaputt geht. Das ertrage ich nicht. Denn ich habe immer unsere Verbundenheit und Sympathie füreinander auf verschiedenen Ebenen gespürt. Ist das jetzt vorbei? 
 
 Was soll ich dir dann erzählen, wie es mir geht?
 
 Ti voglio molto bene carissimmo Raffaele e ti abbracio 
-
-
-
-
 
 Ich bin zur Zeit grad ein bisschen dünnhäutig und emotional ... sorry
