@@ -8,6 +8,6 @@ image: img/cb2cae88-593c-4c62-8277-05cf91e77022.jpeg
 
 Verrate mir aber noch eins…..Warum geht es dir in letzter Zeit nicht so gut? Muss ich mir Sorgen machen?……
 
-PS: Falls du selber mal einen Artikel schreiben willst: Titel einsetzen und anfangen zu schreiben….ganz einfach…
+PS: Falls du selber mal einen Artikel schreiben willst: Titel einsetzen und anfangen zu schreiben….ganz einfach…ich werde von mir aus keinen mehr anreissen….für mich ist alles gesagt…..
 
 ti abbraccio
