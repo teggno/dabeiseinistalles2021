@@ -20,4 +20,10 @@ Ich bereue jetzt, dass ich dir den letzten Artikel so geschrieben habe, ich hät
 
 Was soll ich dir dann erzählen, wie es mir geht?
 
-Ti voglio molto bene carissimmo Raffaele e ti abbracio
+Ti voglio molto bene carissimmo Raffaele e ti abbracio 
+
+
+
+
+
+Ich bin zur Zeit grad ein bisschen dünnhäutig und emotional ... sorry
