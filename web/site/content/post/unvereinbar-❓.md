@@ -6,4 +6,4 @@ image: img/d1cfedcc-458e-4f5c-9147-bda9169d7f3f.jpeg
 ---
 …Du willst meine Freundschaft tesoro….ich will deine Freundschaft……und…..din galilä arsch…..min Schwanz i dini figetta inähauä….bis din Saft usälauft……
 
-wie kommen wir aus dieser „Nummer“ raus…..magetta…..du als ausgewiesene Sexualtherapeutin …..solltest mich doch von diesem Spuk befreien können ….. …..🙈….. Bacio💋
+wie kommen wir aus dieser „Nummer“ raus…..magetta…..wenn du als ausgewiesene Sexualtherapeutin es nicht schaffst….mich von diesem Spuk zu befreien ….. mache ich eine mehrwöchige Kur….🙈….. Bacio💋
