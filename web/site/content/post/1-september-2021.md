@@ -2,6 +2,7 @@
 title: 1. September 2021
 draft: true
 date: 2022-07-23T02:07:29.519Z
+image: img/1d6c93a6-d8db-4391-9422-a3830ed4c2f9.jpeg
 ---
 Ein Blick und ein Wort - alles nur flüchtig 
 
@@ -25,6 +26,8 @@ wie soll man da noch gemeinsam ticken
 
 bevor wir am Ende noch alles zerpflücken
 
-statt uns wie damals mit Lust zu beglücken
+statt uns wie damals mit Lust zu beglücken 
 
-nehm ich den Besen und flieg in die Ferne
+nehm ich den Besen und schweb in die Ferne
+
+wohin es mich trägt - wissen die Sterne 💫
