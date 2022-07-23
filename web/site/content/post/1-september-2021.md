@@ -31,3 +31,9 @@ statt uns wie damals mit Lust zu beglücken
 nehm ich den Besen und schweb in die Ferne
 
 wohin es mich trägt - das wissen die Sterne 💫
+
+
+
+DAS IST DAS GEDICHT!!!
+
+Für mich wunderschön zum lesen, aber  nicht für andere in unserer Umgebung ...
