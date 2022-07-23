@@ -18,7 +18,7 @@ ich dein Tesoro - du meine Pazza
 
 dann so abrupt - das plötzliche Aus
 
-du hattest den Spass und wolltest nur raus
+du hattest deinen Spass und wolltest nur raus
 
 sprachst von Freundschaft und ich vom 🙈icken
 
