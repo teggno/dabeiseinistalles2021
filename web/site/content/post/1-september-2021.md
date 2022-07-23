@@ -8,7 +8,7 @@ Ein Blick dann ein Wort - alles nur flüchtig
 
 erst die Begierde - machte uns süchtig  
 
-auf dem Besen gings hoch zu Wolke sieben
+auf dem Besen ging‘s hoch zu Wolke sieben
 
 nie hab ich’s in Gedanken - bunter getrieben 
 
