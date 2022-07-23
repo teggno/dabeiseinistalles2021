@@ -10,7 +10,7 @@ erst die Begierde - machte uns süchtig
 
 auf dem Besen ging‘s hoch zu Wolke sieben
 
-nie hab ich’s in Gedanken - bunter getrieben 
+nie hab ich in Gedanken - es bunter getrieben 
 
 am Strand - in der Dusche - und auf der Terrazza
 
