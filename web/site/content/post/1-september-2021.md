@@ -18,9 +18,9 @@ ich dein Tesoro - du meine Pazza
 
 dann so abrupt - das plötzliche Aus
 
-du hattest den Spass und wolltest da raus
+du hattest den Spass und wolltest nur raus
 
-sprachst von Freundschaft und ich vom ficken
+sprachst von Freundschaft und ich vom 🙈icken
 
 wie soll man da noch gemeinsam ticken
 
@@ -30,4 +30,4 @@ statt uns wie damals mit Lust zu beglücken
 
 nehm ich den Besen und schweb in die Ferne
 
-wohin es mich trägt - wissen die Sterne 💫
+wohin es mich trägt - das wissen die Sterne 💫
