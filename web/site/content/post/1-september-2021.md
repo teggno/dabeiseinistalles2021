@@ -12,7 +12,7 @@ auf dem Besen hinauf zu Wolke sieben
 
 nie hab ich’s in Gedanken - bunter getrieben 
 
-am Strand - in der Dusche und auf der Terrazza
+am Strand - in der Dusche - und auf der Terrazza
 
 ich dein Tesoro - du meine Pazza
 
