@@ -4,7 +4,7 @@ draft: true
 date: 2022-07-23T02:07:29.519Z
 image: img/1d6c93a6-d8db-4391-9422-a3830ed4c2f9.jpeg
 ---
-Ein Blick und ein Wort - alles nur flüchtig 
+Ein Blick dann ein Wort - alles nur flüchtig 
 
 erst die Begierde - machte uns süchtig  
 
