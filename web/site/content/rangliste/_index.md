@@ -5,11 +5,9 @@ image: ""
 showPlaceholder: true
 placeholder: "\ \n\ \n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - Donovan - Atlantis
-  url: https://www.youtube.com/watch?v=9AUEjzVQwKo
+  title: "RAFFI‘S 🎸 JUKEBOX - "
+  url: ""
   image: img/jukebox.jpg
-  description: "Für all jene, die auf dem Rücksitz des VW-Käfers immer noch nicht
-    begriffen haben, dass jener leidenschaftliche Kuss nur noch in ihren
-    Gedanken existiert "
+  description: ""
 type: rangliste
 ---
