@@ -8,7 +8,7 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - Donovan -Atlantis
   url: https://www.youtube.com/watch?v=9AUEjzVQwKo
   image: img/jukebox.jpg
-  description: Für all jene, die auf dem Rücksitz des VW-Käfers immer noch auf ihr
-    Mädchen warten
+  description: "Für all jene, die auf dem Rücksitz des VW-Käfers vergebens auf ihr
+    Mädchen warten "
 type: rangliste
 ---
