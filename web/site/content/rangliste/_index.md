@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "\ \n\ \n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - Lovers in.Paris
+  title: RAFFI‘S 🎸 JUKEBOX - Gurevitsch - Lovers in.Paris
   url: https://www.youtube.com/watch?v=nXTtA5bKHrM
   image: img/jukebox.jpg
   description: ""
