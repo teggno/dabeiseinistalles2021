@@ -2,10 +2,10 @@
 title: Rangliste
 date: 2022-08-02T17:47:58.670Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: |+2
    
-   Für all jene - die immer auf der Suche sind
+   Für all jene - die ständig auf der Suche sind
 
 
 
