@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - Gary Moore - Parisienne Walkways
   url: https://www.youtube.com/watch?v=DwhJZwQTqVU
   image: img/jukebox.jpg
-  description: ""
+  description: Für all jene - die ein Leben lang auf der Suche sind
 type: rangliste
 ---
