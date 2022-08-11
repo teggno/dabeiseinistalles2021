@@ -20,4 +20,4 @@ I nsoddisfatta
 
 A ffascinante
 
-…..hat wieviele Punkte 🤔
+….. hat wieviele Punkte 🤔
