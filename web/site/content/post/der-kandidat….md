@@ -20,4 +20,4 @@ I nsoddisfatta
 
 A ffascinante
 
-….. bekommt er von dir…..für Performance und Analyse 🤔
+….. bekommt er von dir für Performance und Analyse 🤔
