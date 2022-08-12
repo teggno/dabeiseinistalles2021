@@ -1,8 +1,8 @@
 ---
-title: Der Kandidat….
+title: Welche Noten…..
 draft: true
 date: 2022-08-10T09:33:11.170Z
-image: img/c30656e2-0920-410c-ac0c-694a4e461d17.jpeg
+image: ""
 ---
 S ensuale
 
@@ -20,4 +20,4 @@ I nsoddisfatta
 
 A ffascinante
 
-….. hat wieviele Punkte 🤔
+….. bekommt er von dir…..für Performance und Analyse 🤔
