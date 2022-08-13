@@ -5,9 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "\ \n\ \n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - Gary Moore - Parisienne Walkways
-  url: https://www.youtube.com/watch?v=DwhJZwQTqVU
+  title: "RAFFI‘S 🎸 JUKEBOX - "
+  url: ""
   image: img/jukebox.jpg
-  description: Für all jene - die ein Leben lang auf der Suche sind
+  description: ""
 type: rangliste
 ---
