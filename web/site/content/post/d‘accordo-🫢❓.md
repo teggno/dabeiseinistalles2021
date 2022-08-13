@@ -21,3 +21,11 @@ I nsoddisfatta
 A mbiziosa
 
 …….dich angesprochen ❓
+
+
+
+Du überrascht mich wieder einmal aufs neue ... ganz ehrlich... nicht jeder Buchstabe meines Namens spricht mich jetzt grad an, ist sehr stimmungsabhängig. Aber ich habe ein Lächeln im Gesicht ...
+
+Habe seit 2 Wochen den Laptop nicht aufgemacht, war in den Ferien. Ist es das erste Mal, dass du wieder geschrieben hast? Habe ich zwischendurch etwas verpasst?
+
+Un carissimmo abbraccio
