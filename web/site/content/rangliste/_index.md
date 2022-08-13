@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\ \n\ \n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - Adriano Celentano Ja tebia liubliu
-  url: https://www.youtube.com/watch?v=AW7wSVCxTDg
+  title: RAFFI‘S 🎸 JUKEBOX - Tu vuo fa l‘americano
+  url: https://www.youtube.com/watch?v=J0ogqBcK9ow
   image: img/jukebox.jpg
   description: ""
 type: rangliste
