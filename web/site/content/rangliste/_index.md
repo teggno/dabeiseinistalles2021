@@ -8,6 +8,6 @@ song:
   title: "RAFFI‘S 🎸 JUKEBOX - Biagio Antonacci "
   url: https://www.youtube.com/watch?v=LsrnmyFqpMM
   image: img/jukebox.jpg
-  description: "Eine wunderschöne Trouvaille - Danke 🙏 für den Insider-Tip "
+  description: "Mein neuer Favorit 🤩……Danke 🙏 für den Insider-Tipp "
 type: rangliste
 ---
