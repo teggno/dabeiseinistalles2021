@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - (hier klicken 🎶)
   url: https://www.youtube.com/watch?v=LsrnmyFqpMM
   image: img/jukebox.jpg
-  description: "Mein neuer Favorit 🤩……Danke 🙏 für den Insider-Tipp "
+  description: "Danke 🙏 für den Insider-Tipp "
 type: rangliste
 ---
