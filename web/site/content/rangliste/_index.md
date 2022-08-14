@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - Biagio Antonacci - Pazzo di lei
   url: https://www.youtube.com/watch?v=LsrnmyFqpMM
   image: img/jukebox.jpg
-  description: Ein echter Insider-Tip ……Grazie 🙏
+  description: "Eine wunderschöne Trouvaille - Danke 🙏 für den Insider-Tip "
 type: rangliste
 ---
