@@ -6,7 +6,7 @@ image: img/48537db5-2672-4a6c-ad67-2f4117b5c2b4.jpeg
 ---
 …….zum allerletzten Tanz. „Än Langsamä„, der DJ hat es mir versprochen. So weiss ich, wie es sich anfühlt, wenn ich meine Hände um deine Taille lege.
 
-Sag nicht zur Zeit - du willst schon lange nicht mehr! Schade, dass du nie ein persönliches Gespräch unter vier Augen mit mir führen wolltest. Wir hätten vieles klären und aus der Welt schaffen können. Du hättest mir von deinen Sorgen erzählt und ich wäre dir gerne beiseite gestanden. Natürlich hätte mich auch brennend interessiert, warum ich von heute auf morgen nicht mehr die geile Sau aus dir herausholen konnte.  Stattdessen habe ich mich zum Affen gemacht, mit schlüpfrigen Bildern und Anzüglichkeiten.
+Schade, dass du nie ein persönliches Gespräch unter vier Augen mit mir führen wolltest. Wir hätten vieles klären und aus der Welt schaffen können. Du hättest mir von deinen Sorgen erzählt und ich wäre dir gerne beiseite gestanden. Natürlich hätte mich auch brennend interessiert, warum ich von heute auf morgen nicht mehr die geile Sau aus dir herausholen konnte.  Stattdessen habe ich mich zum Affen gemacht, mit schlüpfrigen Bildern und Anzüglichkeiten.
 
 Dann las ich zufällig die beiden Zitate und mir war klar, dass ich aus dieser Sackgasse herauskommen muss. Gar nicht so einfach, wenn die Sucht zur Krankheit geworden ist.  In den kommenden Tagen mache ich meinen Blog für immer zu. Ich brauche ihn nicht mehr, auch für die WM nicht. 
 
