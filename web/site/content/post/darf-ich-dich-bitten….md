@@ -10,6 +10,6 @@ Schade, dass du nie ein persönliches Gespräch unter vier Augen mit mir führen
 
 Dann las ich zufällig die beiden Zitate und mir war klar, dass ich aus dieser Sackgasse herauskommen muss. Gar nicht so einfach, wenn die Sucht zur Krankheit geworden ist. In den kommenden Tagen mache ich meinen Blog für immer zu. Ich brauche ihn nicht mehr, auch für die WM nicht. 
 
-Wir werden uns verlieren, tesoro. Lade mich auch nicht mehr zum Jassen ein. Es geht nicht. Letztes Mal als wir uns am Kreuzlinger Stadtfest begegneten, hat jemand ein Photo von uns beiden aufs Handy von Lilly geschickt.
+Wir werden uns verlieren, tesoro. Auch jassen geht nicht mehr. Letztes Mal als wir uns am Kreuzlinger Stadtfest begegneten, hat jemand ein Photo von uns beiden aufs Handy von Lilly geschickt.
 
 Ich bereue nichts, du bist Teil meines Lebens. Wir bleiben Seelenverwandte im Geist. Ti voglio bene.
