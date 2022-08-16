@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\ \n\ \n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸 JUKEBOX - (hier klicken 🎶)
-  url: https://www.youtube.com/watch?v=cO0teWvqVHY
+  url: https://www.youtube.com/watch?v=nXTtA5bKHrM
   image: img/jukebox.jpg
   description: ""
 type: rangliste
