@@ -1,5 +1,5 @@
 ---
-title: Darf ich dich bitten…
+title: Darf ich  bitten…
 draft: true
 date: 2022-08-16T14:56:05.490Z
 image: img/48537db5-2672-4a6c-ad67-2f4117b5c2b4.jpeg
