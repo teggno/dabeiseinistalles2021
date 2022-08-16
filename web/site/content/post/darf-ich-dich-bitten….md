@@ -4,9 +4,7 @@ draft: true
 date: 2022-08-16T14:56:05.490Z
 image: img/48537db5-2672-4a6c-ad67-2f4117b5c2b4.jpeg
 ---
-…..zum allerletzten Tanz. Wenn ich mir vorstelle, dass wir noch nie “än Langsamä mitänand tanzt händ“, tut mir das Herz weh. Wie gerne hätte ich deinen Körper gespürt und meine Hände um deine Taille gelegt.
-
-Weisst du eigentlich, wieviele Chancen du verpasst hast, um mit mir ein persönliches Gespräch zu führen? Immer wieder hast du mich vertröstet, aus Angst, aus Vorsicht, aus weiss ich warum. Ich hätte es gebraucht, um unter vier Augen über uns zu sprechen. Stattdessen habe ich mich zum Affen gemacht, mit den schlüpfrigen Bildern und meinen Anzüglichkeiten. Nur um dich herumzukriegen. Es ist wie eine Sucht, die ich nicht ablegen kann. Ich habe mich stets gefragt, warum ich die geile Sau aus dir herausholen konnte und dann von heute auf morgen nicht mal mehr fähig war, nur ein einziges Wort aus der Erotikabteilung aus dir herauszubekommen.
+Schade, dass du nie ein persönliches Gespräch unter vier Augen mit mir führen wolltest. Wir hätten vieles klären können. Du hättest mir von deinen Sorgen erzählt und ich wäre dir beiseite gestanden. Natürlich hätte mich auch brennend interessiert, warum ich von heute auf morgen nicht mehr die geile Sau aus dir herausholen konnte  Stattdessen habe ich mich zum Affen gemacht, mit schlüpfrigen Bildern und Anzüglichkeiten. 
 
 Wie soll ich mich auf anderes konzentrieren, wenn ich eine schwere Zeit durchmache und nicht in Stimmung bin,hast du geschrieben. Du willst schon lange nicht mehr. Leider wollte ich es nie begreifen. Den wahren Grund kenne ich bis heute nicht. Die Momente allein, an denen du so verzweifelt festhälst, können es nicht sein.
 
