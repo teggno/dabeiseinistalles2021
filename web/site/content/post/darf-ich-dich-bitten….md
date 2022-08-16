@@ -13,3 +13,15 @@ Dann las ich zufällig die beiden Zitate und mir war klar, dass ich aus dieser S
 Wir werden uns verlieren, tesoro. Auch jassen geht nicht mehr. Letztes Mal als wir uns am Kreuzlinger Stadtfest begegneten, hat jemand ein Photo von uns beiden aufs Handy von Lilly geschickt.
 
 Ich bereue nichts, du bist Teil meines Lebens. Wir bleiben Seelenverwandte im Geist. Ti voglio bene.
+
+
+
+... liebend gerne tanze ich mit dir, es fällt mit schwer, dass es der letzte Tanz sein soll, aber lass uns jetzt einfach tanzen...
+
+Es ist nicht so, dass ich kein persönliches Gespräch mit dir führen will, überhaupt nicht, im Gegenteil, ich wäre sehr froh und dankbar, wenn wir das tun würden, ich will einiges erklären, Unstimmigkeiten aus der Welt schaffen. Aber ich will kein Risiko eingehen und unsere Möglichkeiten sind sehr beschränkt zu kommunizieren und abzumachen.  Dass wir gesehen werden mag es ja gar nicht leiden, auch wenn wir uns öffentlich an einem Fest per Zufall  begegnen.  Wie verbittert und eifersüchtig müssen Menschen sein, um Lily ein Foto zu senden. Kann mir vorstellen wer das war. Und was war schon auf dem Foto ?!?  
+
+Aber wenn es für dich jetzt nicht mehr stimmt um miteinander zu reden muss ich das akzeptieren. Wenn du trotzdem das Bedürfnis hast dann ruf mich an wenn du alleine bist und ich rufe zurück, wenn es möglich ist. 
+
+Ich habe dich in mein Herz geschlossen und daran ändert sich nichts. 
+
+Ti voglio bene
