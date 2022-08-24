@@ -1,7 +1,7 @@
 ---
 title: Verpasst 🙈🙈🙈
 draft: false
-date: 2022-08-24T14:17:26.744Z
+date: 2022-08-23T14:17:26.744Z
 image: img/54fb58aa-8f03-41c4-b35a-c3d98f8b52c4.jpeg
 ---
 Es gibt diese Momente im Leben, die die Fähigkeit besitzen, alles auf den Kopf zu stellen. Zugegeben, es gibt nicht viele davon. Doch wenn sie „griffbereit“ auf uns zufliegen, wäre diese Mischung aus Unbekümmertheit und Mut nicht fehl am Platz. Mehr als ein „Nein“ - handeln wir uns bestimmt nicht ein.
