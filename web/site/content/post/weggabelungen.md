@@ -1,6 +1,6 @@
 ---
 title: Verpasst 🙈🙈🙈
-draft: true
+draft: false
 date: 2022-08-24T14:17:26.744Z
 image: img/58671f8e-e7ee-4c29-b2fe-f72d67bbdc1f.jpeg
 ---
