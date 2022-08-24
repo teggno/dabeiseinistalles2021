@@ -1,7 +1,0 @@
----
-title: Die Alte Dame…..
-draft: true
-date: 2022-08-24T19:19:35.567Z
-image: img/d93561cd-da9b-4310-8799-7b06d5b19387.jpeg
----
-…..geht am Stock. Nicht erst seit gestern! Doch nun treten die Gebrechlichkeiten gnadenlos ans Licht. Rückblende: Der grössenwahnsinnige Ex-Sportdirektor Fabio Paratici wirft mit den Vereinsmillionen nur so um sich und zieht eine „Niete“ nach der anderen. Arthur, Rabiot, Ramsey, Kean etc. Die Liste ist unvollständig. Schliesslich krönt er sein Tun mit  der Verpflichtung des Ausserirdischen. Sage und schreibe 350 Millionen lässt er für das „Ego„ liegen. Doch der erhoffte Erfolg bleibt aus. Stattdessen wird das Loch in der Bilanz immer grösser, obwohl die Diva nach dem üblichen Kasperletheater die Fronten wechselt. Mit der Devise „alte Besen kehren gut“ versucht die Vereinsführung das Ruder herumzureissen. Max Allegri soll es noch einmal richten. Doch das „Goldene Näschen“ hat während seiner Zwangspause das Fingerspitzengefühl verloren. Der enttäuschende Platz 4 in der Endabrechnung rettet ihm dank CL-Teilnahme trotzdem die Haut. Glanz und Gloria sollen nun ab sofort die Neuen di Maria und Pogba verbreiten. Wenn allerdings zum Unvermögen noch Pech dazukommt, passiert das, was nie hätte passieren dürfen. Die beiden verletzen sich schon kurz nach ihrem Amtsantritt und der Niedergang nimmt seinen Lauf.
