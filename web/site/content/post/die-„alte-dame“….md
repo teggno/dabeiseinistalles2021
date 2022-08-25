@@ -4,7 +4,7 @@ draft: false
 date: 2022-08-25T07:17:38.523Z
 image: img/930a13d2-50e8-4efa-aa8a-e4a39e9ec8bd.jpeg
 ---
-…..geht am Stock. Gebrechlich und nicht wiederzuerkennen! Wann nehmen diese Hiobsbotschaften ein Ende?
+…..geht am Stock. Gebrechlich und nicht wiederzuerkennen! Wann ist mit diesen Hiobsbotschaften endlich Schluss?
 
 Als ob wir nicht schon genug davon hätten! Dank unseres ehemaligen Sportdirektors, liegen bereits eine Unmenge solcher „Leichen“ im Juve-Keller. Ihm, Fabio Paratici, dem Einfädler des Jahrhundert-Deals, war es über Jahre hinweg gelungen, neben Ronaldo weitere „Taugenichtse“ in das Piemont zu locken. Obwohl die Liste unvollständig ist, sollen der Leserschaft ein paar klingende Namen nicht vorenthalten werden. König „Arthur“, der Brasilianer, der so gar nichts von der Sambaschule mitbekommen hat. Oder sein Landsmann „Alex Sandro“, bei dem noch nie ein Schweisstropfen auf der Stirn diagnostiziert wurde. Ganz zu schweigen von Flamenco-Tänzer „Adrien Rabiot“, der zusammen mit seiner „Abzock-Mutter“ Veronique den pfannnfertigen Deal  mit ManU zum Schrecken der Tifosi platzen liess. Mit „Aaron Ramsey“ wollen wir die Aufzählung beschliessen. Der „Ex-Fussballer“, der Juve pro Einsatzminute fast eine Million gekostet hat! Immer mit undefinierbaren Verletzungen konfrontiert, die sich in Luft auflösten, sobald er zur walisischen Nationalmannschaft abkommandiert wurde. Für weitere Fragen steht Nizza-Trainer Lucien Favre mit Vergnügen Rede und Antwort.
 
