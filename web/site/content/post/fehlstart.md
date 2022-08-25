@@ -2,7 +2,7 @@
 title: "Fehlstart "
 draft: false
 date: 2022-08-22T15:33:00.000Z
-image: img/0cbbd786-5cb1-4547-9df7-7ab616142723.jpeg
+image: img/849d73c2-e355-457f-a7fc-264167d5aeb9.jpeg
 ---
 Zwei Unentschieden, eine Niederlage! Wahrlich kein Auftakt nach Mass. Die Stadt der „FAB FOUR“ beginnt sich zu hinterfragen. Hatte die Regenbogen🌈 Presse noch Tage vor DEM Derby den Erzrivalen aus Manchester inklusive Ronaldos Kasperletheater ins Visier genommen, bekam der letztjährige Abonnent auf Platz 2 nach dem 1:2 Fiasko das Fett ab. Berücksichtigt man die Tatsache, dass ManU-Trainer ten Hag über weite Strecken seinen Egozentriker auf der Bank schmoren liess, war der Match aus vielerlei Hinsicht einer besonderen Studie wert.
 
