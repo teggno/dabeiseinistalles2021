@@ -4,7 +4,7 @@ draft: false
 date: 2022-08-24T15:51:00.000Z
 image: img/15a31e06-ec04-4fb9-82b4-e338fb039fc8.jpeg
 ---
-Es gibt sie - die Momente im Leben - die im Stande sind - alles auf den Kopf zu stellen. Zugegeben - allzu viele sind es nicht. Doch wenn sie direkt auf uns zuspazieren - wäre eine Mischung aus Unbekümmertheit und Wagemut nicht fehl am Platz.
+Es gibt sie - diese Momente im Leben - die im Stande sind - alles auf den Kopf zu stellen. Zugegeben - allzu viele sind es nicht. Doch wenn sie direkt auf uns zuspazieren - wäre eine Mischung aus Unbekümmertheit und Wagemut nicht fehl am Platz.
 
 Lächelnd ging sie auf die beiden zu - die charmante Lady im perfekt sitzenden “Deux Piece“. Er und sein Kumpel aus früheren Sturm- und Drangperioden - flanierten gerade dem Rhein entlang - als sie von dieser unschuldigen Stimme nach der Uhrzeit gefragt wurden. Ungewöhnlich - wo doch heutzutage jedes Detail auf dem Smartphone „upgedatet“ werden kann. Statt sich schlagfertig auf einen „Deal“ Uhr ⏰ Zeit gegen Mail-Adresse einzulassen -  erwiderte der völlig verdutzte 😮 Giovanni: „Äs isch zwanzg ab drü“. Ein paar Meter weiter vorne - als die Sache längstens gelaufen war - sagte er zu Sepp: „Hämmer jetz öppä eini vo denä sältenä Chancä verpasst 🤔…..
 
