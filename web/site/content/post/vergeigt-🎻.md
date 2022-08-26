@@ -1,7 +1,7 @@
 ---
 title: Vergeigt 🎻
-draft: true
-date: 2022-08-26T15:51:53.862Z
+draft: false
+date: 2022-08-24T15:51:00.000Z
 image: img/15a31e06-ec04-4fb9-82b4-e338fb039fc8.jpeg
 ---
 Es gibt Momente im Leben - die im Stande sind - alles auf den Kopf zu stellen. Zugegeben - allzu viele sind es nicht. Doch wenn sie direkt auf uns zuspazieren - wäre eine Mischung aus Unbekümmertheit und Wagemut nicht fehl am Platz.
