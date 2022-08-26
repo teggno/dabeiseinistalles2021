@@ -1,8 +1,8 @@
 ---
 title: Bella 🇮🇹 Italia
-draft: true
+draft: false
 date: 2022-08-26T07:53:47.192Z
-image: img/b85b3c9e-71dd-4399-839e-1698fa6cd737.jpeg
+image: img/94eaae39-831c-45aa-ad3b-00646b17092e.jpeg
 ---
 Jeder weiss jetzt was kommt! Von der guten Küche bis zum Dolcefarniente ist alles dabei. Nun aber, nachdem sich diese allseits bekannten Vorzüge bis zu den indigenen Völkern herumgesprochen haben, wird das Land der tausend Widersprüche aus anderen Motiven ganz oben in der „Best of“ geführt. Insbesondere nach Auslosungen tritt dieses Phänomen, speziell in den europäischen Fussball-Hochburgen seit einiger Zeit öfters in Erscheinung. Engländer, Deutsche, Franzosen, Spanier, Portugiesen, ganz Europa verfällt in Jubelstimmung, wenn aus den Loskugeln ein Zettelchen mit italienischer Aufschrift erscheint. Ganz vorne in der Beliebtheitsskala, die AC Milan, der SSC Neapel, Inter Mailand und Juventus Turin. Genüsslich reiben sich Präsidenten und Sportdirektoren aus München, London und Madrid die Hände, weil sie es mit „Kanonenfutter“ zu tun bekommen. Selbst die Kleinen aus Topf 4 lachen sich fast krumm und wittern Morgenluft.
 
