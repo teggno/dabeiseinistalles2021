@@ -1,6 +1,6 @@
 ---
 title: Mein Wort zum Sonntag
-draft: true
+draft: false
 date: 2022-08-28T07:32:56.969Z
 image: img/31c8846d-f67a-4561-aa4b-ce9f6b21eeac.jpeg
 ---
