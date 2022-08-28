@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - (hier klicken 🎶)
   url: https://www.youtube.com/watch?v=nXTtA5bKHrM
   image: img/jukebox.jpg
-  description: ""
+  description: "Für all jene - die immer auf der Suche sind "
 type: rangliste
 ---
