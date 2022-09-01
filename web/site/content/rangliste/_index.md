@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\ \n\ \n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - Solo per Buongustai 🫢
+  title: RAFFI‘S 🎸 JUKEBOX - Solo per I Buongustai 🫢
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
   description: ""
