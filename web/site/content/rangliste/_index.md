@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\ \n\ \n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - Non esagerare 💃🏽🕺🏾
+  title: "RAFFI‘S 🎸 JUKEBOX - Non 💃🏽 esagerare "
   url: https://www.youtube.com/watch?v=YGofEg1RF8I
   image: img/jukebox.jpg
   description: ""
