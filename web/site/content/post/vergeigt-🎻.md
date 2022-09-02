@@ -2,7 +2,7 @@
 title: Vergeigt 🎻
 draft: true
 date: 2022-08-24T06:32:21.884Z
-image: img/bd7e1823-b4e7-44b6-8fa4-ecf3e806280d.jpeg
+image: img/1d6c66ec-c483-48f8-b473-7b500f582827.jpeg
 ---
 Es gibt sie - diese Momente im Leben - die im Stande sind - alles auf den Kopf zu stellen. Zugegeben - allzu viele sind es nicht. Doch wenn sie direkt auf uns zuspazieren - würde uns diese Mischung aus Unbekümmertheit und Wagemut gut anstehen. Mehr als ein Nein - handeln wir uns bestimmt nicht ein.
 
