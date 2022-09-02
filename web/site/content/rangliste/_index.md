@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - 🎶🎶🎶🎶 ▶️  🎶🎶🎶🎶
   url: https://www.youtube.com/watch?v=XZVpR3Pk-r8
   image: img/jukebox.jpg
-  description: ""
+  description: Solo per te 🥰
 type: rangliste
 ---
