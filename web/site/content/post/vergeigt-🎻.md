@@ -1,0 +1,11 @@
+---
+title: Vergeigt 🎻
+draft: true
+date: 2022-08-24T06:32:21.884Z
+image: img/bd7e1823-b4e7-44b6-8fa4-ecf3e806280d.jpeg
+---
+Von meinem Es gibt sie - diese Momente im Leben - die im Stande sind - alles auf den Kopf zu stellen. Zugegeben - allzu viele sind es nicht. Doch wenn sie direkt auf uns zuspazieren - würde uns diese Mischung aus Unbekümmertheit und Wagemut gut anstehen. Mehr als ein Nein - handeln wir uns bestimmt nicht ein.
+
+Lächelnd ging sie auf die beiden zu - die charmante Lady im perfekt sitzenden „Deux Piece“. Er und sein Kumpel aus früheren Sturm- und Drangperioden - flanierten gerade dem Rhein entlang - als sie von dieser unschuldigen Stimme nach der Uhrzeit gefragt wurden. Ungewöhnlich - wo doch heutzutage jedes Detail auf dem Smartphone „upgedatet“ werden kann. Statt sich schlagfertig auf einen „Deal“ Uhr ⏰ Zeit gegen Mail-Adresse einzulassen - erwiderte ein völlig verdutzter 😮 Giovanni: „Äs isch zwanzg ab drü“. Ein paar Meter weiter vorne - als die Sache längstens gelaufen war - wandte er sich Sepp zu - der von nun an nie mehr ohne Uhr aus dem Haus gehen wollte - und bemerkte halb resigniert: „Wir haben doch nicht etwa eine dieser seltenen Chancen „links liegen lassen“ 🤔…..
+
+Wahrscheinlich hätte sie ihre E-Mail Adresse niemals preisgegeben. Und wenn doch⁉️ Während Giovanni auf der Heimfahrt gedankenverloren durch das Zug 🚂 Fenster blickte, begann er sich plötzlich vorzustellen - was wohl passiert wäre - wenn sie ihm in einem Anflug von Überschwänglichkeit sonopronta@bluewin.ch auf einen Zettel gekritzelt hätte….😎
