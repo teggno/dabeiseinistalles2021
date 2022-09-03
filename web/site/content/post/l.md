@@ -1,6 +1,6 @@
 ---
 title: Grazie 🙏 Perin
-draft: true
+draft: false
 date: 2022-09-03T14:13:49.008Z
 image: img/9ae66df7-6dac-423e-bf2f-d50c2f5930b0.jpeg
 ---
