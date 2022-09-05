@@ -11,4 +11,4 @@ Real Madrid, Ancelotti, Union Berlin, Urs Fischer, Freiburg, Streich, Kvaratskhe
 
 Xavi, Maldini, Pioli, Conte, Eriksen, Tudor, Marseille 8️⃣
 
-Mainz, ten Hag, Perin, Neapel, Villareal, Koopmeiners
+Mainz, ten Hag, Perin, Neapel, Villareal, Koopmeiners 7️⃣
