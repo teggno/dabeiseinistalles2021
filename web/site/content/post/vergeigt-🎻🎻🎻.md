@@ -1,7 +1,7 @@
 ---
 title: Vergeigt 🎻🎻🎻
 draft: true
-date: 2022-09-05T18:54:56.393Z
+date: 2022-08-24T18:54:56.393Z
 image: img/068c75f6-9327-46b4-8e46-9f526a86a07d.jpeg
 ---
 Es gibt sie - diese Momente im Leben - die im Stande sind - alles auf den Kopf zu stellen. Zugegeben - allzu viele sind es nicht. Doch wenn sie direkt auf uns zuspazieren - würde uns diese spezielle 68er-Aufbruchstimmung über manch moralische Fesseln hinweghelfen. Mehr als ein Nein - handeln wir uns bestimmt nicht ein.
