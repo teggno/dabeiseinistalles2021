@@ -7,8 +7,8 @@ date: 2022-09-05T06:21:03.620Z
 
 Haaland, Lewandowski, Carnevali (DS Sassuolo) 🔟
 
-Union Berlin, Urs Fischer, Freiburg, Streich, Kvaratskhelia 9️⃣
+Real Madrid, Ancelotti, Union Berlin, Urs Fischer, Freiburg, Streich, Kvaratskhelia 9️⃣
 
 Xavi, Maldini, Pioli, Conte, Eriksen, Tudor, Marseille 8️⃣
 
-Mainz, ten Hag, Perin,
+Mainz, ten Hag, Perin, Neapel, Villareal, Koopmeiners
