@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - 🎶🎶🎶🎶 ▶️  🎶🎶🎶🎶
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
-  description: ""
+  description: Ti ricordi……quelle volte sull tavolo…….adesso ti prenderei
 type: rangliste
 ---
