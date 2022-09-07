@@ -1,0 +1,9 @@
+---
+title: "Apathie "
+draft: true
+date: 2022-09-07T15:45:04.049Z
+image: img/7aee38dc-5485-403d-84d5-082666e75f81.jpeg
+---
+Conte-Allegri-Sarri-Pirlo-Allegri…….und jetzt? Nach dem gestrigen Katz- und Maussspiel, das für den Phrasendrescher und viele seiner Artverwandten respektabel war, ruft das Komitee „OVT & friends“ zur friedlichen Demonstration auf dem Boulevard auf. Kommt mit Plakaten wo drauf steht: „Non ce la facciamo piu“. Wie lange schon, setzt uns dieser „Ex-Trainer mit allen Befugnissen“ Woche für Woche ein Menü vor, das unverdaulicher nicht sein kann. Weit und breit kein Spieler, der sich unter seiner Regie weiterentwickelt hat. Alle verlieren an Substanz, schlimmer als auf dem Börsen-Parkett. Vlahovic einst für 70 geholt, ist keine 50 mehr wert. Bei Locatelli läufts ähnlich. Der nächste Kandidat ist Bremer. Dann die Crux mit den Verletzungen. Bestes Beispiel El Fideo di Maria. In Paris ein Dauerbrenner, bei Juve ein halber „Krüppel“. Die Liste liesse sich beliebig erweitern. Wozu, wenn die Lösung aller Probleme auf der Hand liegt.
+
+ Drastische Massnahmen erfordern Mut. Werden sie nicht ergriffen, verfällt das ganze Ambiente in eine Apathie, die dermassen gleichgültig macht, dass die treusten Tifosi die Lust an der „Vecchia Signora“ verlieren. In 60 Jahren Stammeszugehörigkeit habe ich so ein „Trübsal-Blasen“ noch nie erlebt. Nicht mal zu Maifredi und Delneri-Zeiten. Damals wusste man, die Truppe hat nichts drauf. Aber jetzt? Da tummeln sich Nationalspieler aus allen Ecken dieser Welt 🌍. Sieht man sie spielen, hat man das Gefühl, dass sie Angst vor der Courage haben. Allegri hat den Zenit längst überschritten. Ihm fehlen die Antworten auf die Hilflosigkeit seiner Leute. Die Handschrift eines Fussball-Sachverständigen ist gefragt. Wer käme da in Frage?
