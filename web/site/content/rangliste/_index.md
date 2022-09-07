@@ -6,8 +6,8 @@ showPlaceholder: false
 placeholder: "\ \n\ \n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸 JUKEBOX - 🎶🎶🎶🎶 ▶️  🎶🎶🎶🎶
-  url: https://www.youtube.com/watch?v=nXTtA5bKHrM
+  url: https://www.youtube.com/watch?v=J4ZE_HLE33Q
   image: img/jukebox.jpg
-  description: ""
+  description: Ich bin verrückt nach dir….
 type: rangliste
 ---
