@@ -1,6 +1,6 @@
 ---
 title: Kauf nie…..
-draft: true
+draft: false
 date: 2022-09-05T12:11:02.937Z
 image: img/4834cc12-69d7-4d69-88fb-8cdd4a2e16e3.jpeg
 ---
