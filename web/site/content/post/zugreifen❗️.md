@@ -1,6 +1,6 @@
 ---
 title: Zugreifen❗️
-draft: true
+draft: false
 date: 2022-09-07T11:39:43.683Z
 image: img/360f2028-97e3-412f-b23d-b1f58959a610.jpeg
 ---
