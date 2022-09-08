@@ -1,6 +1,6 @@
 ---
 title: "Apathie "
-draft: true
+draft: false
 date: 2022-09-07T15:45:04.049Z
 image: img/7aee38dc-5485-403d-84d5-082666e75f81.jpeg
 ---
