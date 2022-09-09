@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - 🎶🎶🎶🎶 ▶️  🎶🎶🎶🎶
   url: ""
   image: img/jukebox.jpg
-  description: "Peccato….sei arrivata troppo tardi…..Text und Musik sind abgelaufen "
+  description: ""
 type: rangliste
 ---
