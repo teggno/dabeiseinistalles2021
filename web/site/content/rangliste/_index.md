@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - 🎶🎶🎶🎶 ▶️  🎶🎶🎶🎶
   url: https://www.youtube.com/watch?v=OORoOGY8D2M
   image: img/jukebox.jpg
-  description: Qui nell momento cruciale……qualquno ha perso la voce  ……🫢
+  description: Qui nell momento cruciale……qualcuno ha perso la voce  ……🫢
 type: rangliste
 ---
