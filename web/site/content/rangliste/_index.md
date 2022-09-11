@@ -8,7 +8,6 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - 🎶🎶🎶🎶 ▶️  🎶🎶🎶🎶
   url: https://www.youtube.com/watch?v=OORoOGY8D2M
   image: img/jukebox.jpg
-  description: Peccato 🥲…che nell momento cruciale……hai perso …..widdär
-    ämol….😎…..la voce…..
+  description: Häts diär widdär ämol……nell momento cruciale………..die Stimme verschlagen ……🫢
 type: rangliste
 ---
