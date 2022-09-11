@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - 🎶🎶🎶🎶 ▶️  🎶🎶🎶🎶
   url: https://www.youtube.com/watch?v=OORoOGY8D2M
   image: img/jukebox.jpg
-  description: Peccato 🥲…che hai perso La voce…..😎
+  description: Peccato 🥲…che hai perso la voce…..😎
 type: rangliste
 ---
