@@ -11,15 +11,16 @@ song:
   description: >+
     Meine 5 Lieblingszitate von Oscar Wilde
 
-    - Die Anzahl unserer Neider bestätigt unsere Fähigkeiten
 
-    - Gesegnet seien jene, die nichts zu sagen haben und den Mund halten
+    1️⃣ Die Anzahl unserer Neider bestätigt unsere Fähigkeiten
 
-    - es ist so leicht, andere, und so schwierig, sich selbst zu belehren
+    2️⃣ Gesegnet seien jene, die nichts zu sagen haben und den Mund halten
 
-    - die Ehe ist ein Versuch, zu zweit wenigstens halb so glücklich zu werden, wie man allein gewesen ist
+    3️⃣ Es ist so leicht, andere, und so schwierig, sich selbst zu belehren
 
-    - Versuchungen sollte man nachgeben. Wer weiss ob sie wiederkommen.
+    4️⃣ Die Ehe ist ein Versuch, zu zweit wenigstens halb so glücklich zu werden, wie man allein gewesen ist
+
+    5️⃣ Versuchungen sollte man nachgeben. Wer weiss ob sie wiederkommen.
 
 
 type: rangliste
