@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\ \n\ \n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸 JUKEBOX - 🎶🎶🎶🎶 ▶️  🎶🎶🎶🎶
-  url: https://www.youtube.com/watch?v=OORoOGY8D2M
+  url: https://www.youtube.com/watch?v=eONAcWsGcaQ
   image: img/jukebox.jpg
   description: >+
     Meine 5 Lieblingszitate von Oscar Wilde
