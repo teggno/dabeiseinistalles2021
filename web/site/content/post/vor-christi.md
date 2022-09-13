@@ -1,10 +1,10 @@
 ---
-title: Avanti Cristo
+title: "Prügelknaben "
 draft: false
 date: 2022-09-12T05:59:00.524Z
-image: img/1317bcfc-8cca-4bad-ac31-36989ba01cb1.jpeg
+image: img/3f13322c-7312-4064-bb48-d2dbe0ce973f.jpeg
 ---
-Wer sich nach diesem dramaturgisch bestens in Szene gesetzten Finale „tödlich“ aufgeregt hat, gehört zweifellos zur Mehrheit. Verständnis und Mitgefühl für die Abermillionen geprellter Juve-Fans. Selbst unsere grössten Todfeinde werden dieses unglaubliche  Versagen anno 2022 im stillen Kämmerlein als Ungerechtigkeit empfunden haben. Wundern darf sich allerdings niemand! Das ist Italien❗️Immer noch hinter dem Mond 🌑. Ein Land, das es in der Hand hätte, an vorderster Front mitzumischen, begeht stets dieselben Fehler. Aus Gleichgültigkeit, Selbstgefälligkeit und Unvermögen. 
+Wer sich nach diesem dramaturgisch bestens in Szene gesetzten Finale „tödlich“ aufgeregt hat, gehört zweifellos zur Mehrheit. Verständnis und Mitgefühl für Abermillionen geprellter Juve-Fans. Selbst unsere grössten Todfeinde werden dieses unglaubliche Versagen anno 2022 im stillen Kämmerlein als Ungerechtigkeit empfunden haben. Schuld an dem grössten  Versehen seit es die „VAR“ ist selbstverständlich niemand. Pontius Pilatus lässt grüssen.
 
 Heutzutage, da die digitale Revolution sogar in Opas Wohnstube Einzug gefunden hat, ist es inakzeptabel, dass ein Abseits von einem halben Meter nicht gesehen wird. Ich bin immer für die „VAR“ gewesen und bleibe es auch, denn bei aller Kritik, die Fehlerquote wurde drastisch reduziert.  Wenn jedoch die „Inkompetenz in Reinkultur“ in den Aufnahmestudios Platz nimmt, sitzt der Fortschritt am kürzeren Hebel. Augenscheinlich bei dieser unheilvollen Konstellation, dass Juventus Turin seit geraumer Zeit von den Schiedsrichtern und dem ganzen Drumherum nicht mehr ernst genommen wird. Wer sich heute als Referee profilieren will, pfeift im Zweifelsfall gegen die Bianconeri. Mangelnder Respekt, der zu Lebzeiten des „Avvocato“ nicht ohne Folgen geblieben wäre.
 
