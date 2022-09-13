@@ -4,7 +4,7 @@ draft: false
 date: 2022-09-13T10:35:02.611Z
 image: img/e4f48c6a-997f-49e0-b054-ba26cde21394.jpeg
 ---
-Vin Albert Einstein bis Oscar Wilde
+VON ALBERT EINSTEIN BIS OSCAR WILDE 
 
 1️⃣ Die Anzahl unserer Neider bestätigt unsere Fähigkeiten
 2️⃣ Gesegnet seien jene - die nichts zu sagen haben und den Mund halten
