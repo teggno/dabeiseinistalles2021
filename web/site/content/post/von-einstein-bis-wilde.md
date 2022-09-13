@@ -11,4 +11,4 @@ Vin Albert Einstein bis Oscar Wilde
 3️⃣ Es ist so leicht - andere - und so schwierig - sich selbst zu belehren
 4️⃣ Die Ehe ist ein Versuch - zu zweit wenigstens halb so glücklich zu werden - wie man allein gewesen ist
 5️⃣ Versuchungen sollte man nachgeben. Wer weiss ob sie wiederkommen. \
-6️⃣ Je mehr sich die Männer den Wünschen der Frauen anpassen - desto weniger können die Frauen mit ihnen anfangen 7️⃣ Wenn die Zeit kommt - in der man könnte - ist die vorüber - in der man kann 8️⃣ Der Mut zur Selbsterkenntnis - verrät Charakterstärke
+6️⃣ Je mehr sich die Männer den Wünschen der Frauen anpassen - desto weniger können die Frauen mit ihnen anfangen 7️⃣ Wenn die Zeit kommt - in der man könnte - ist die vorüber - in der man kann 8️⃣ Der Mut zur Selbsterkenntnis - verrät Charakterstärke 9️⃣ Vielleicht gibt es schönere Zeiten - aber diese ist die unsere 🔟
