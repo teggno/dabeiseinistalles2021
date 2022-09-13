@@ -10,5 +10,5 @@ VON ALBERT EINSTEIN BIS OSCAR WILDE
 2️⃣ Gesegnet seien jene - die nichts zu sagen haben und den Mund halten
 3️⃣ Es ist so leicht - andere - und so schwierig - sich selbst zu belehren
 4️⃣ Die Ehe ist ein Versuch - zu zweit wenigstens halb so glücklich zu werden - wie man allein gewesen ist
-5️⃣ Versuchungen sollte man nachgeben. Wer weiss ob sie wiederkommen. \
-6️⃣ Je mehr sich die Männer den Wünschen der Frauen anpassen - desto weniger können die Frauen mit ihnen anfangen 7️⃣ Wenn die Zeit kommt - in der man könnte - ist die vorüber - in der man kann 8️⃣ Der Mut zur Selbsterkenntnis - verrät Charakterstärke 9️⃣ Vielleicht gibt es schönere Zeiten - aber diese ist die unsere 🔟 Verliere dich niemals - um jemand anderen zu halten 1️⃣1️⃣ Das Glück deines Lebens - hängt von der Beschaffenheit deiner Gedanken ab 1️⃣2️⃣ Kein Grund zu bleiben - ist ein guter Grund zu gehen
+5️⃣ Kein Grund zu bleiben - ist ein guter Grund zu gehen \
+6️⃣ Je mehr sich die Männer den Wünschen der Frauen anpassen - desto weniger können die Frauen mit ihnen anfangen 7️⃣ Wenn die Zeit kommt - in der man könnte - ist die vorüber - in der man kann 8️⃣ Der Mut zur Selbsterkenntnis - verrät Charakterstärke 9️⃣ Vielleicht gibt es schönere Zeiten - aber diese ist die unsere 🔟 Verliere dich niemals - um jemand anderen zu halten 1️⃣1️⃣ Das Glück deines Lebens - hängt von der Beschaffenheit deiner Gedanken ab 1️⃣2️⃣  Versuchungen sollte man nachgeben. Wer weiss - ob sie wiederkommen
