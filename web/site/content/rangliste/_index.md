@@ -20,7 +20,7 @@ song:
 
     4️⃣ Die Ehe ist ein Versuch, zu zweit wenigstens halb so glücklich zu werden, wie man allein gewesen ist
 
-    5️⃣ Versuchungen sollte man nachgeben. Wer weiss ob sie wiederkommen.
+    5️⃣ Versuchungen sollte man nachgeben. Wer weiss ob sie wiederkommen. 6️⃣ Ist nicht von Oscar sondern von Camille Paglia und trifft den Nagel auf den Kopf: „Je mehr sich die Männer den Wünschen der Frauen anpassen - desto weniger können die Frauen mit ihnen anfangen
 
 
 type: rangliste
