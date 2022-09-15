@@ -1,6 +1,6 @@
 ---
 title: Game Over❗️
-draft: true
+draft: false
 date: 2022-09-15T09:45:59.831Z
 image: img/0f8fe1b2-5e73-4938-86e2-5473032d7700.jpeg
 ---
