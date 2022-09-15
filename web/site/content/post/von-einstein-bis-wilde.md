@@ -1,6 +1,6 @@
 ---
 title: Lebensweisheiten+Zitate
-draft: true
+draft: false
 date: 2022-09-11T10:35:02.611Z
 image: img/e4f48c6a-997f-49e0-b054-ba26cde21394.jpeg
 ---
