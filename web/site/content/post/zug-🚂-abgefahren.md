@@ -1,7 +1,8 @@
 ---
 title: Game Over❗️
-draft: true
+draft: false
 date: 2022-09-15T09:47:04.812Z
+image: img/6c50b731-cbb5-4ce4-a67e-63063f3fd13f.jpeg
 ---
 Nach Benfica ist es vielleicht schon zu spät! Die Schlagzeile von OVT im „Landboten vom Untersee“ ist leider nicht bis in die Turiner Vorstandsetagen vorgedrungen. Was will uns dieser Idiot aus dem verträumten Thurgauer „Kaff“ schon erzählen. Wir, AAA, (Agnelli, Allegri, Arrivabene) haben doch die Fussballweisheit mit dem Löffel gegessen. So ist es jedoch nicht, liebe Denker und Lenker, eure abstrusen Ideen haben Schiffbruch erlitten. Der Kahn liegt auf Grund. 
 
