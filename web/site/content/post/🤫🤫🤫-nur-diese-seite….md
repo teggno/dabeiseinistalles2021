@@ -1,8 +1,10 @@
 ---
-title: 🤫🤫🤫 nur diese Seite…..
+title: 🤫🤫🤫 …..
 draft: true
 date: 2022-09-15T07:46:11.965Z
 ---
-…..oder einen neuen Beitrag ✍️….
+…..Bitte nur diese Seite verwenden oder einen neuen Beitrag ✍️….
 
-Ich mag eigentlich alle, besonders jedoch 10, 11 und 12.
+Ich mag eigentlich alle Zitate, besonders jedoch 10, 11 und 12. Die zehn bin ich schon lange erfolgreich am Umsetzen. 11 könnte von mir sein und ohne die 12 bin ich ein „toter Mann“. Im nächsten Leben bin ich Single, von Anfang bis zum Schluss. Niemand anderem weh tun, immer auf der Suche nach Versuchungen, dazu noch den Fussball und die Musik. Mehr brauche ich nicht. Ein schönes Haus, darfst auch noch sein, wo ich mich zurückziehen kann, wenn ich „IHR“ auf den Wecker gehe.
+
+Möchtest du telefonieren oder mich treffen? Ersteres geht am Freitag nicht, weil ich nicht alleine bin. Das Rendezvous liesse sich einrichten. Alleine bin ich von SonntagMittag bis DienstagAbend.
