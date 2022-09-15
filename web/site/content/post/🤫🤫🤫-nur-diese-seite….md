@@ -2,8 +2,9 @@
 title: 🤫🤫🤫 …..
 draft: true
 date: 2022-09-15T07:46:11.965Z
+image: img/c3a54a57-426c-42af-80ea-cbbc74690aba.png
 ---
-…..Bitte nur diese Seite verwenden oder einen neuen Beitrag ✍️….
+…..Bitte nur diese Seite verwenden oder einen neuen Beitrag schreiben ✍️….
 
 Ich mag eigentlich alle Zitate, besonders jedoch 10, 11 und 12. Die zehn bin ich schon lange erfolgreich am Umsetzen. 11 könnte von mir sein und ohne die 12 bin ich ein „toter Mann“. Im nächsten Leben bin ich Single, von Anfang bis zum Schluss. Niemand anderem weh tun, immer auf der Suche nach Versuchungen, dazu noch den Fussball und die Musik. Mehr brauche ich nicht. Ein schönes Haus, darfst auch noch sein, wo ich mich zurückziehen kann, wenn ich „IHR“ auf den Wecker gehe.
 
