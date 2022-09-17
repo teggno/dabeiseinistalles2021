@@ -2,6 +2,7 @@
 title: September Morn
 draft: true
 date: 2022-09-17T19:35:07.709Z
+image: img/943c946e-10cf-4f45-bb63-06cd3fde9af1.jpeg
 ---
 September Morgen ist eine wunderschöne Ballade von Neil Diamond aus dem Jahre1979 die uns bewusst werden lässt, dass es langsam Herbst wird.
 
