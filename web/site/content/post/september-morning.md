@@ -1,6 +1,6 @@
 ---
 title: September Morn
-draft: true
+draft: false
 date: 2022-09-17T19:35:07.709Z
 image: img/943c946e-10cf-4f45-bb63-06cd3fde9af1.jpeg
 ---
