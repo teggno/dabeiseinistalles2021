@@ -6,11 +6,8 @@ showPlaceholder: false
 placeholder: "\ \n\ \n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸 JUKEBOX - 🎶🎶🎶🎶 ▶️  🎶🎶🎶🎶
-  url: https://www.youtube.com/watch?v=UTdkDwyteYA
+  url: https://www.youtube.com/watch?v=WQ6Sv2ujiGE
   image: img/jukebox.jpg
-  description: |+
-    Für meinen Kumpel „ChFo“ - der leider viel zu früh gestorben ist…..
-
-
+  description: "\n\n\n"
 type: rangliste
 ---
