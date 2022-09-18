@@ -42,4 +42,4 @@ Vlahovic, ich befürchte Schlimmes, 5️⃣,5️⃣
 
 Allegri, seine Zeit ist längstens abgelaufen, deplatziert 4️⃣
 
-Gesamteindruck: auf fast allen Ebenen ungenügend, der Weg zurück zur Spitzenmannschaft wird steinig und lang
+Gesamteindruck: auf fast allen Ebenen ungenügend, der Weg zurück zur Spitzenmannschaft wird steinig und lang 🥲
