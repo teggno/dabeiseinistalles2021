@@ -32,7 +32,7 @@ Chiesa, s.v.
 
 Di Maria, besitzt Klasse, zu alt?  6️⃣,5️⃣
 
-Kostic, Von Eintracht Frankfurt gekommen, zu wenig 5️⃣
+Kostic, von Eintracht Frankfurt überstürzt verpflichtet, viel zu wenig 5️⃣
 
 Kean, komplett überschätzt 4️⃣,5️⃣
 
