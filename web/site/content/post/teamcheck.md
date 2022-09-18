@@ -40,6 +40,6 @@ Milik, DIE Überraschung 7️⃣
 
 Vlahovic, ich befürchte Schlimmes, 5️⃣,5️⃣
 
-Allegri, Hatte sehr gute Zeiten, seit langem auf dem absteigenden Ast, deplatziert 4️⃣
+Allegri, seine Zeit ist längstens abgelaufen, deplatziert 4️⃣
 
 Gesamteindruck: auf fast allen Ebenen ungenügend, der Weg zurück zur Spitzenmannschaft wird steinig und lang
