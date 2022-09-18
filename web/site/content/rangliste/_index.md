@@ -8,6 +8,9 @@ song:
   title: RAFFI‘S 🎸 JUKEBOX - 🎶🎶🎶🎶 ▶️  🎶🎶🎶🎶
   url: https://www.youtube.com/watch?v=81pIF0VSfMo
   image: img/jukebox.jpg
-  description: "\n\n\n"
+  description: |+
+    Vedi Napoli…..e poi muori…..
+
+
 type: rangliste
 ---
