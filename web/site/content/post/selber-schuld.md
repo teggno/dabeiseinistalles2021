@@ -1,6 +1,6 @@
 ---
 title: "Selber Schuld "
-draft: true
+draft: false
 date: 2022-09-18T15:57:58.973Z
 image: img/c7203521-1a73-4fe7-89ad-b4efb3f1973d.jpeg
 ---
