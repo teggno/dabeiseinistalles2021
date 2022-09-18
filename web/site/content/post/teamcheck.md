@@ -4,7 +4,7 @@ draft: false
 date: 2022-09-18T06:49:14.806Z
 image: img/a53f711e-ec75-400d-870c-5409fc23cb6f.jpeg
 ---
-Sein oder Nichtsein heute um 15 Uhr in Monza. Der renommiete 🙈„Bote vom Untersee“ hat kurz vor Spielbeginn die Qualität, das Alter und die „Personalita“ des Juve-Kaders unter die Lupe 🔍 genommen. Noten gibt’s wie in Italien‘s Schulsystem üblich von 1-10. Achtung fertig los!
+Sein oder Nichtsein heute um 15 Uhr in Monza. Der renommiete 🙈„Bote vom Untersee“ hat kurz vor Spielbeginn die Qualität, das Alter und die „Personalita“ des Juve-Kaders unter die Lupe 🔍 genommen. Noten gibt’s wie in Italien‘s Schulsystem üblich von 1-10. Achtung-fertig-los❗️
 
 Szczesny und Perin, die beiden Torsteher sind gut, mehr nicht 6️⃣
 
