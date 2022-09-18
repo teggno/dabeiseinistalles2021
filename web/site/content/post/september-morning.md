@@ -1,6 +1,6 @@
 ---
 title: "September Morning "
-draft: true
+draft: false
 date: 2022-09-16T23:01:35.803Z
 image: img/67e6c709-6717-475e-bc6d-1b279d518cc9.jpeg
 ---
