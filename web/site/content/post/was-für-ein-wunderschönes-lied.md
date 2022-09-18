@@ -8,4 +8,4 @@ image: img/bde734cf-3140-40d0-bd31-d200ae4b923d.jpeg
 
 Ich habe mich auch „amüsiert“ heute Nachmittag….mit der „Alten Dame“, die beim Letztplatzierten Monza gestrauchelt ist. ….un disastro....🥲 Mal sehen, was mir einfällt an meinen “freien Tagen“. 
 
-Lass dich doch noch einmal verzaubern von Pino Daniele und meiner .v „Citta“…..Buonanotte
+Lass dich doch noch einmal verzaubern von Pino Daniele und meiner einmaligen .„Citta“…..Buonanotte
