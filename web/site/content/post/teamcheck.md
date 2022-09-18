@@ -2,6 +2,7 @@
 title: Teamcheck
 draft: true
 date: 2022-09-18T06:47:22.676Z
+image: img/a53f711e-ec75-400d-870c-5409fc23cb6f.jpeg
 ---
 Qualität, Alter, Personalita! Nach diesen drei Grundvoraussetzungen durchleuchtet der renommierte Bote vom Untersee heute morgen das Juve-Personal. Noten gibt’s wie in Italien‘s Schulsystem üblich von 1-10. Achtung fertig los!
 
