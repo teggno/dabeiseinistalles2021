@@ -1,0 +1,7 @@
+---
+title: "Selber Schuld "
+draft: true
+date: 2022-09-18T15:57:58.973Z
+image: img/c7203521-1a73-4fe7-89ad-b4efb3f1973d.jpeg
+---
+Mittlerweile ist das Porzellan zerschlagen. Rund 1 Milliarde hat die Inkompetenz gekostet. Wer nicht hören will - muss fühlen, das wussten sie schon im alten Rom. Wer soviel „Kohle+Know-how“ besitzt, aus lauter Dummheit ins Casino 🎰 geht und alles liegen lässt, dem ist nicht zu helfen. Wenn du immer ein armer Schlucker warst und nie die Chance bekamst, ist das eine Sache. Wenn du aber den Himmel auf Erden besitzt und nichts damit anfangen kannst, gibt’s kein Pardon und kein Mitleid. Von Agnelli über Paratici bis zu Allegri, alle am Pranger. Grössenwahnsinnige, die an der Spitze eines Weltkonzerns nichts verloren haben. Ein Idiot aus Tägerwilen hat den Niedergang nach Ronaldos Verpflichtung, die alle „Wow“ und „Super“ fanden, prophezeit. Der Rest ist Beigemüse. Arthur, Ramsey, Rabiot und jetzt noch Vlahovic. Unwürdig, dieses Tricot zu tragen. Aufräumen und neu anfangen. Nicht mit Tuchel und nicht mit Zidane. Ein Newcomer muss her, der von „ unten „ kommt, Ideen hat und die nötige Zeit erhält. De Zerbi wäre eine Möglichkeit.  Mit ihm muss jemand kommen, der als Sportdirektor kühlen Kopf bewahrt und von Fussball etwas versteht. Zum Beispiel Carnevali von Sassuolo.
