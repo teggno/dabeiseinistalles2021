@@ -10,7 +10,7 @@ Szczesny und Perin, die beiden Torsteher sind gut, mehr nicht 6️⃣
 
 Danilo, de Sciglio, Alex Sandro, Cuadrado, die vier Aussenverteidiger erreichen zusammen höchstens 2️⃣4️⃣ Punkte, biederer Durchschnitt 
 
-Bonucci der alLate Haudegen kommt in die Jahre, eine altersmilde 6️⃣
+Bonucci der alte Haudegen kommt in die Jahre, eine altersmilde 6️⃣
 
 Bremer, für de Ligt gekommen, Licht  und Schatten 6️⃣,5️⃣
 
