@@ -8,6 +8,6 @@ image: img/bde734cf-3140-40d0-bd31-d200ae4b923d.jpeg
 
 Ich habe mich auch „amüsiert“ heute Nachmittag….mit der „Alten Dame“, die beim Letztplatzierten Monza gestrauchelt ist. ….un disastro....🥲 Mal sehen, was mir einfällt an meinen “freien Tagen“. 
 
-Als erstes lass ich mich von Pino Daniele und meiner einmaligen .„Citta“ verzaubern….Wenn ich Mumm in den Knochen hätte, würde ich dorthin nach Capri zurückkehren…..mir ist es hier verleidet….
+Als erstes lass ich mich jetzt von Pino Daniele und meiner einmaligen .„Citta“ auf der Jukebox verzaubern….Wenn ich Mumm in den Knochen hätte, würde ich dorthin nach Capri zurückkehren…..mir ist es hier verleidet….
 
-hör doch mal in meine Jukebox rein…..Buonanotte
+. ..Buonanotte
