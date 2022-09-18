@@ -1,0 +1,8 @@
+---
+title: La canzone dell‘amore perduto
+draft: true
+date: 2022-09-18T22:01:55.094Z
+---
+Das Lied der verlorenen Liebe vom italienischen Cantautore Fabrizio de André beschreibt auf wundervolle Art und Weise warum es zwischen Mann und Frau auf die Länge nicht funktioniert. 
+
+Erinnere dich - wie die Veilchen erblühten - als wir uns schworen - nein - verlassen werden wir uns nie - Jetzt würde ich dir gerne dasselbe sagen - doch wie schnell mein Engel - sind unsere Rosen verblüht - die Liebe - die uns die Kleidet vom Leibe reissen liess - ist verlorengergangen - Nichts bleibt ausser ein paar lustlosen Berührungen  und etwas Zärtlichkeit - und hälst du in deiner Hand - diese von der Sonne verdorrten Blumen - aus jenem längst vergangenen April - werden sie dir leidtun - aber dann wirst du die Erste die du auf der Strasse triffst - mit Gold bedecken - für einen nie gegebenen Kuss - für eine neue Liebe -
