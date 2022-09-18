@@ -6,6 +6,8 @@ image: img/bde734cf-3140-40d0-bd31-d200ae4b923d.jpeg
 ---
 …. sogar mit Bild…..wie du siehst. Du hast mir nicht etwa den Schlaf geraubt, sondern mich in meinem Traum am HüttwilerSee besucht. Wolltest unbedingt….dass ich dich mit Sonnencreme einreibe. Vor lauter Scham hab ich mich nicht getraut….
 
-Ich habe mich auch „amüsiert“ heute Nachmittag….mit der „Alten Dame“, die beim Letztplatzierten Monza gestrauchelt ist. ….un disastro....🥲 Mal sehen, was mir einfällt an meinen “freien Tagen“. Als erstes lass ich mich von Pino Daniele und meiner einmaligen .„Citta“ verzaubern….Wenn ich Mumm in den Knochen hätte, würde ich dorthin nach Capri zurückkehren…..mir ist es hier verleidet….
+Ich habe mich auch „amüsiert“ heute Nachmittag….mit der „Alten Dame“, die beim Letztplatzierten Monza gestrauchelt ist. ….un disastro....🥲 Mal sehen, was mir einfällt an meinen “freien Tagen“. 
+
+Als erstes lass ich mich von Pino Daniele und meiner einmaligen .„Citta“ verzaubern….Wenn ich Mumm in den Knochen hätte, würde ich dorthin nach Capri zurückkehren…..mir ist es hier verleidet….
 
 hör doch mal in meine Jukebox rein…..Buonanotte
