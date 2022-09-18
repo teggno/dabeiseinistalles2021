@@ -6,7 +6,7 @@ image: img/bde734cf-3140-40d0-bd31-d200ae4b923d.jpeg
 ---
 …. sogar mit Bild…..wie du siehst. Du hast mir nicht etwa den Schlaf geraubt, sondern mich in meinem Traum am HüttwilerSee besucht. Wolltest unbedingt….dass ich dich mit Sonnencreme einreibe. Vor lauter Scham hab ich mich nicht getraut….
 
-So amüsiert wie du beim Golfspielen habe ich mich heute Nachmittag leider nicht. Schuld daran war die „Alten Dame“, die beim Letztplatzierten Monza gestrauchelt ist. ….un disastro....🥲
+So amüsiert wie du dich beim Golfspielen habe ich mich heute Nachmittag leider nicht. Schuld daran war die „Alten Dame“, die beim Letztplatzierten Monza gestrauchelt ist. ….un disastro....🥲
 
  Mal sehen, was ich an meinen “freien Tagen“ anstelle  Als erstes lass ich mich jetzt von Pino Daniele und meiner.„Citta“ auf der Jukebox inspirieren. Wenn ich Mumm in den Knochen hätte, würde ich dorthin  (Capri) zurückkehren…..mir ist es hier verleidet….
 
