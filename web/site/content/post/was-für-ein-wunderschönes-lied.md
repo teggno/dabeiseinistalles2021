@@ -4,7 +4,7 @@ draft: true
 date: 2022-09-18T17:46:28.060Z
 image: img/bde734cf-3140-40d0-bd31-d200ae4b923d.jpeg
 ---
-…. extra für dich zurück aus der Versenkung Text inclusive  Bild….Du hast mir nicht etwa den Schlaf geraubt, sondern mich in meinem sonderbaren Traum am HüttwilerSee aufgespürt. Wolltest unbedingt….dass ich dich mit Sonnencreme einreibe. Vor lauter Scham hab ich mich gar nicht getraut.
+…. extra für dich zurück aus der Versenkung …Text mit Bild….Du hast mir nicht etwa den Schlaf geraubt, sondern mich in meinem sonderbaren Traum am HüttwilerSee aufgespürt. Wolltest unbedingt….dass ich dich mit Sonnencreme einreibe. Vor lauter Scham hab ich mich gar nicht getraut.
 
 So amüsiert wie du dich beim Golfspielen - habe ich mich heute Nachmittag leider nicht. Schuld daran war wieder einmal die „Alte Dame“, die beim Letztplatzierten aus Monza gestrauchelt ist. ….un disastro....🥲
 
