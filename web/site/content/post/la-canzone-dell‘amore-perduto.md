@@ -1,6 +1,6 @@
 ---
 title: La canzone dell‘amore perduto
-draft: true
+draft: false
 date: 2022-09-18T22:01:55.094Z
 image: img/0dda0c33-b595-4e77-bae7-d967811697b3.jpeg
 ---
