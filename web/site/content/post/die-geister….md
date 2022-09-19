@@ -1,6 +1,6 @@
 ---
 title: "Berufsverbot "
-draft: true
+draft: false
 date: 2022-09-19T06:49:45.628Z
 image: img/5b22c9c4-7c01-4ea5-bfa9-a4bb2084dcd1.jpeg
 ---
