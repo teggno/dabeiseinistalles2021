@@ -8,4 +8,4 @@ Das Lied der verlorenen Liebe des italienischen Cantautore Fabrizio de André be
 
 Erinnerst du dich - wie die Veilchen erblühten - als wir uns schworen - nein - verlassen werden wir uns nie - Jetzt würde ich dir gerne dasselbe sagen - doch wie schnell meine Liebste - sind unsere Rosen verblüht - die Liebe - die uns die Kleider vom Leibe reissen liess - ist nur noch Erinnerung - Nichts ist geblieben - ausser ein paar lustlosen Berührungen  und etwas Zärtlichkeit - Und hälst du in deiner Hand - diese von der Sonne verdorrten Blumen - aus jenem längst vergangenen April - werden sie dir leidtun - aber dann wirst du die Erste - die du triffst auf der Strasse - mit Gold bedecken - für einen nie gegebenen Kuss - für eine neue Liebe
 
-Auf Raffi‘s Jukebox
+Läuft gerade auf Raffi‘s Jukebox
