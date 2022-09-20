@@ -8,4 +8,4 @@ Wie bin ich auf dieses Lied gestossen? Natürlich durch eine Frau. Denn nur eine
 
 Biagio Antonacci - Verrückt nach ihr
 
-Er - er ist verrückt nach ihr - und deshalb kommt der „Arme“ nicht zur Ruhe - er - er ist nur ein Spiel für sie - sie - die zwar lieb ist - doch schlauer als eine Zigeunerin - jung - aber mit viel Unfug im Kopf - sie ist wie Salz - das weh tut auf der offenen Haut - doch sie trägt es in sich - dieses gewisse Etwas - das man spüren will - wenn das Leben anfängt fade zu schmecken - er - er ist berauscht von ihr - und wenn er dann wieder zur Besinnung kommt - erkennt er sich nicht wieder 🙈 Sie - sie ist das Salz - das zwar weh tun kann - doch ihr gewisses Etwas - gibt seinem Leben einen Sinn
+Er - er ist verrückt nach ihr - und deshalb kommt der „Arme“ nicht zur Ruhe - er - er ist nur ein Spiel für sie - sie - die zwar lieb ist - doch schlauer als eine Zigeunerin - jung - aber mit viel Unfug im Kopf - sie ist wie Salz - das weh tut auf der offenen Haut - doch weil sie es in sich trägt - dieses gewisse Etwas - das man spüren will - wenn das Leben anfängt fade zu schmecken - ist er berauscht von ihr - denn sie gibt seinem Leben endlich einen Sinn
