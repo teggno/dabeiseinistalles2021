@@ -1,6 +1,6 @@
 ---
 title: Pazzo di Lei
-draft: true
+draft: false
 date: 2022-09-20T16:53:29.586Z
 image: img/e82a9e93-ec95-43f1-9e1c-4c6cec64f9d6.jpeg
 ---
