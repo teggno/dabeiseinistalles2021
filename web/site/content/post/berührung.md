@@ -1,5 +1,5 @@
 ---
-title: Capri
+title: Capri 🍋
 draft: true
 date: 2022-09-20T12:58:08.836Z
 image: img/5486a8fd-3936-4570-b918-05b9cf4a6d39.jpeg
