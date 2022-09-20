@@ -1,6 +1,6 @@
 ---
 title: Vergeigt 🎻🎻🎻
-draft: true
+draft: false
 date: 2022-08-24T13:52:56.380Z
 image: img/068c75f6-9327-46b4-8e46-9f526a86a07d.jpeg
 ---
