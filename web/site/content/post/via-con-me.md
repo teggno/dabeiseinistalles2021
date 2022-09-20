@@ -1,7 +1,7 @@
 ---
 title: Via con me
 draft: false
-date: 2022-09-20T12:40:16.904Z
+date: 2022-09-19T12:40:16.904Z
 image: img/1bf9c518-5a7b-4e93-aa77-70c28467d7e3.jpeg
 ---
 Paolo Conte -  Das Multitalent - Nicht jedermanns Sache - seine Musik und seine Texte….sono speciale …..
