@@ -1,7 +1,7 @@
 ---
 title: Famous Blue Raincoat
 draft: false
-date: 2022-09-21T10:15:37.826Z
+date: 2022-09-17T10:15:37.826Z
 image: img/11c5b546-48c8-40cc-80dc-334505333f87.jpeg
 ---
 Sanft - still - ein Meister der Melancholie. Seine Texte sind oft schwer zu verstehen. Tiefsinnig und verworren. Leonard Cohen - ein Liedermacher der ans Herz geht.
