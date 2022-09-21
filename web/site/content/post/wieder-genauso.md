@@ -1,7 +1,7 @@
 ---
 title: Wieder genauso
 draft: true
-date: 2022-09-21T14:32:57.692Z
+date: 2022-09-20T14:32:57.692Z
 image: img/0a36176f-423d-41e2-837d-a1b4553226ee.jpeg
 ---
 Diese „Type“ ist in keine Schablone zu stecken. Immer für einen Blödsinn gut. Junggeblieben im Geiste. Mit ihm würde ich gerne um die Häuser ziehen. Obwohl ich fast gar nichts genauso tun würde wie er
