@@ -1,7 +1,7 @@
 ---
 title: Yesterday when I was Young
-draft: true
-date: 2022-08-02T01:00:47.616Z
+draft: false
+date: 2022-09-22T07:51:37.002Z
 image: img/f783dca5-89fc-4326-bd74-a82c9b0be412.jpeg
 ---
 Sie hat so viele schöne Lieder gesungen - dass ich sie kaum aufzählen kann. Dieses hier ist mein klarer Favorit.
