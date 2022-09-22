@@ -1,7 +1,7 @@
 ---
 title: Yesterday when I was young
 draft: false
-date: 2022-09-22T07:51:37.002Z
+date: 2022-09-22T12:28:41.922Z
 image: img/f783dca5-89fc-4326-bd74-a82c9b0be412.jpeg
 ---
 Dusty Springfield - die leider viel zu früh verstorben ist - hat so viele wundervolle Lieder gesungen - dass ich sie kaum aufzählen kann. Dieses hier ist mein Favorit.
