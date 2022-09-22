@@ -1,8 +1,10 @@
 ---
-title: X
+title: Luigi Tenco
 draft: true
 date: 2022-09-22T11:05:09.626Z
 ---
+
+
 Ich habe mich in dich verliebt,\
 weil ich nichts zu tun hatte.\
 Tagsüber wollte ich jemanden zum Treffen haben,\
