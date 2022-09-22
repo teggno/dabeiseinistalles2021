@@ -6,7 +6,7 @@ image: img/57f1b9c7-4d1c-4e5e-86e4-4cb3b485efd6.jpeg
 ---
 Es war ein sehr gutes Jahr\
 Als ich siebzehn war\
-War es ein sehr gutes Jahr\
+Ja, es war ein sehr gutes Jahr\
 Es war ein sehr gutes Jahr\
 Für junge Mädchen der Kleinstadt\
 Und in lauen Sommernnächten\
