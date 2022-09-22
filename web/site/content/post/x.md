@@ -9,7 +9,7 @@ Die Wenigsten dürften sich an ihn erinner. Auf dem Weg einer der ganz grossen L
 Ich habe mich in dich verliebt,\
 weil ich nichts zu tun hatte.\
 Tagsüber wollte ich jemanden zum Treffen haben,\
-nachts wollte etwas zum träumen haben.\
+nachts wollte ich etwas zum träumen haben.\
 \
 \
 Ich habe mich in dich verliebt,\
