@@ -2,9 +2,10 @@
 title: Mi sono innamorato di te
 draft: false
 date: 2022-09-22T11:05:09.626Z
+image: img/3635b2bb-7180-4792-839a-09d0e204bc4e.jpeg
 ---
 \
-Die Wenigsten dürften sich an ihn erinner. Luigi Tenco war auf dem Weg einer der ganz grossen Liedermacher Italiens zu werden - doch als er von der Jury des Festivals von Sanremo nicht für die Endausscheidung nominiert wurde - erschoss er  sich im Alter von 29 Jahren
+Die Wenigsten dürften sich an ihn erinnern. Luigi Tenco war auf dem Weg einer der ganz grossen Liedermacher Italiens zu werden - Doch als er von der Jury des Festivals von Sanremo nicht für die Endausscheidung nominiert wurde - erschoss er sich im Alter von 29 Jahren
 
 Ich habe mich in dich verliebt,\
 weil ich nichts zu tun hatte.\
