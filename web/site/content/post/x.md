@@ -10,7 +10,7 @@ Die Wenigsten dürften sich an ihn erinnern. Luigi Tenco war auf dem Weg einer d
 Ich habe mich in dich verliebt,\
 weil ich nichts zu tun hatte.\
 Tagsüber wollte ich jemanden zum Treffen haben,\
-nachts wollte ich etwas zum träumen haben.\
+und nachts jemanden zum träumen haben.\
 \
 \
 Ich habe mich in dich verliebt,\
