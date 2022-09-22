@@ -1,6 +1,6 @@
 ---
 title: It was a very good year
-draft: true
+draft: false
 date: 2022-09-22T08:56:35.581Z
 image: img/57f1b9c7-4d1c-4e5e-86e4-4cb3b485efd6.jpeg
 ---
