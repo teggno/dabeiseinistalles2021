@@ -1,5 +1,5 @@
 ---
-title: Yesterday when I was Young
+title: Yesterday when I was young
 draft: false
 date: 2022-09-22T07:51:37.002Z
 image: img/f783dca5-89fc-4326-bd74-a82c9b0be412.jpeg
