@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\ \n\ \n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - 🎶🎶🎶🎶 ▶️  🎶🎶🎶🎶
+  title: "RAFFI‘S 🎸 JUKEBOX - Dusty Springfield  ▶️  Yesterday when I was young "
   url: https://www.youtube.com/watch?v=pSHI-NPC3Kg
   image: img/jukebox.jpg
   description: "\n\n\n"
