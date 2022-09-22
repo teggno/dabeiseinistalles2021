@@ -3,7 +3,8 @@ title: Luigi Tenco
 draft: true
 date: 2022-09-22T11:05:09.626Z
 ---
-
+\
+Die Wenigsten dürften sich an ihn erinner. Auf dem Weg einer der ganz grossen Liedermacher Italiens zu werden - erschoss er sich im Alter von 29 Jahren während des Festivals von Sanremo - weil ihn die Jury nicht für die Endausscheidung nominiert hatte.
 
 Ich habe mich in dich verliebt,\
 weil ich nichts zu tun hatte.\
