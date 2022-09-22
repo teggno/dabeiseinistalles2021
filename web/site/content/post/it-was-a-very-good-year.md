@@ -1,7 +1,7 @@
 ---
 title: It was a very good year
 draft: false
-date: 2022-09-22T08:56:35.581Z
+date: 2022-09-22T12:28:23.575Z
 image: img/57f1b9c7-4d1c-4e5e-86e4-4cb3b485efd6.jpeg
 ---
 Frankie Boy - DER Entertainer schlechthin. Oft kopiert und nie erreicht. Dieser Song lässt viel Platz für Erinnerungen. Mädchen und Frauen - wohin das Auge 👁 reicht…..😎
