@@ -1,5 +1,5 @@
 ---
-title: Luigi Tenco
+title: Mi sono innamorato di te
 draft: true
 date: 2022-09-22T11:05:09.626Z
 ---
