@@ -1,7 +1,7 @@
 ---
 title: Me and Mrs Jones
 draft: false
-date: 2022-09-21T16:10:12.334Z
+date: 2022-09-22T09:32:31.642Z
 image: img/6419d9df-3893-4f72-89dc-adda2a010609.jpeg
 ---
 Billy Paul und sein „One-Hit-Wonder“ aus dem Jahre 1972. Steigerung schlichtweg unmöglich 🫢
