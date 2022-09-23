@@ -1,8 +1,20 @@
 ---
-title: ….und du - wer bist eigentlich du….❓
+title: Pazzo ? Traumtänzer?
 draft: true
 date: 2022-09-23T20:04:03.609Z
 ---
-…..das habe ich immer noch nicht ganz begriffen …..ich würde gerne mehr verstehen…..aber wie soll ich……es wird immer dein Geheimnis bleiben……Für mich bist du die Frau von 0 auf 100 und zurück auf Null…..nicht böse gemeint……einfach mein Gefühl…
+P﻿azzo oder Traumtänzer ...beides bist du  ... jetzt richtig lebendig und authentisch...
 
-mein Exploit ist vorüber……ist doch schön wenn ich an dich denke ……und wie ein 17 jähriger komme….Ciao…..
+T﻿i voglio moltissimo bene egal in welcher Stimmung du bist ... aber jetzt lebst du grad voll und ganz ... und das ist wundervoll ...
+
+D﻿eine Version von Ancora ... Ancora ... Ancora gefällt mir sehr und ich freue mich bis ich dir einiges über mich erzählen darf, damit du vielleicht ein bisschen verstehst, auch wenn es nicht wichtig ist, wie du schreibst. Ich freue mich sehr auf unsere nächste Begegnung....
+
+T﻿i abbraccio e un bacio passionato per te
+
+ich würde gerne mehr verstehen…..aber wie soll ich……es wird immer dein Geheimnis bleiben……Buonanotte
+
+
+
+I﻿ch möchte, dass du verstehst und ich mach daraus kein Geheimnis ... 
+
+B﻿uonanotte
