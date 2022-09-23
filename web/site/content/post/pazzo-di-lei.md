@@ -1,7 +1,7 @@
 ---
 title: Pazzo di Lei
 draft: false
-date: 2022-09-21T16:09:58.650Z
+date: 2022-09-23T06:51:40.770Z
 image: img/e82a9e93-ec95-43f1-9e1c-4c6cec64f9d6.jpeg
 ---
 Wie bin ich auf dieses Lied gestossen? Natürlich durch eine Frau. Denn nur eine Frau hat das Glück, dass man „pazzo di lei“ ist. Oder habt ihr, cari amici, SIE schon mal schwärmen gehört „sono pazza di lui“….
