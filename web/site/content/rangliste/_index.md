@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\ \n\n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸 JUKEBOX - Mina  ▶️  Si………..
-  url: https://www.youtube.com/watch?v=mWOTdt9Bovk
+  url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
   description: "\n\n\n"
 type: rangliste
