@@ -10,3 +10,5 @@ T﻿i voglio moltissimo bene egal in welcher Stimmung du bist ... aber jetzt leb
 D﻿eine Version von Ancora ... Ancora ... Ancora gefällt mir sehr und ich freue mich bis ich dir einiges über mich erzählen darf, damit du vielleicht ein bisschen verstehst, auch wenn es nicht wichtig ist, wie du schreibst. Ich freue mich sehr auf unsere nächste Begegnung....
 
 T﻿i abbraccio e un bacio passionato per te
+
+ich würde gerne mehr verstehen…..aber wie soll ich……es wird immer dein Geheimnis bleiben……Buonanotte
