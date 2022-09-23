@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\ \n\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸 JUKEBOX - Dusty Springfield  ▶️  Yesterday when I was young "
-  url: https://www.youtube.com/watch?v=pSHI-NPC3Kg
+  title: RAFFI‘S 🎸 JUKEBOX - Biagio Antonacci ▶️ Pazzo di lei
+  url: https://www.youtube.com/watch?v=LsrnmyFqpMM
   image: img/jukebox.jpg
   description: "\n\n\n"
 type: rangliste
