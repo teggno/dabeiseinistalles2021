@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\ \n\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - Dedicato solamente a P…
-  url: https://www.youtube.com/watch?v=mWOTdt9Bovk
+  title: RAFFI‘S 🎸 JUKEBOX - Dedicato ▶️ solamente a….P…
+  url: https://www.youtube.com/watch?v=LsrnmyFqpMM
   image: img/jukebox.jpg
   description: "\n\n\n"
 type: rangliste
