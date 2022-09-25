@@ -11,7 +11,7 @@ placeholder: |+2
 
 
 song:
-  title: "RAFFI‘S 🎸 JUKEBOX -  "
+  title: "RAFFI‘S 🎸 JUKEBOX "
   url: ""
   image: img/jukebox.jpg
   description: "\n\n\n"
