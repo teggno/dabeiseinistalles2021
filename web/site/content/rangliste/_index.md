@@ -11,8 +11,8 @@ placeholder: |+2
 
 
 song:
-  title: RAFFI‘S 🎸 JUKEBOX -  Biagio Antonacci ▶️ 🎶 🎶🎶
-  url: https://www.youtube.com/watch?v=LsrnmyFqpMM
+  title: "RAFFI‘S 🎸 JUKEBOX -  "
+  url: ""
   image: img/jukebox.jpg
   description: "\n\n\n"
 type: rangliste
