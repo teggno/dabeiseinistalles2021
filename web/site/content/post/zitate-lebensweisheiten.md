@@ -2,6 +2,7 @@
 title: Zitate & Lebensweisheiten
 draft: true
 date: 2022-09-25T08:47:40.046Z
+image: img/fb1f309e-4ce4-41f7-91b8-a26d738c5258.jpeg
 ---
 1️⃣ Die Anzahl unserer Neider bestätigt unsere Fähigkeiten 2️⃣ Gesegnet seien jene - die nichts zu sagen haben und den Mund halten 3️⃣ Es ist so leicht - andere - und so schwierig - sich selbst zu belehren 4️⃣ Die Ehe ist ein Versuch - zu zweit wenigstens halb so glücklich zu werden - wie man allein gewesen ist 5️⃣ Du kannst mich berühren - ohne mich anzufassen 
 
