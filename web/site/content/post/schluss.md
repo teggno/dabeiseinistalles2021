@@ -8,6 +8,6 @@ I﻿ch dachte bis Ende des Monats September ist die Seite verfügbar ???
 
  Dieser Zeilen waren bis Mitternacht drin:
 
-Was für ein Ambiente! Das feurige „Rote“ mit „spaccatura“ wird dem Tangotänzer  den Kopf verdrehen. Ob ihm am Ende des Abends dasselbe passiert wie dem Traumtänzer am Freitagabend, als ihm wieder einmal der Verstand in die Hose rutschte? Scusami, dass ich einen letzten Versuch gestartet habe. Es war unnölig, weil wir seit geraumer Zeit nicht mehr dieselbe Sprache sprechen.  Du redest vom Mut zur Selbstverwirklichung und ich von erotischer Konversation. Unserer Seelenverwandtschaft ging es auch schon besser. Lassen wir es gut sein, so wie es ist. Um Mitternacht ist die Seite sowieso nicht mehr verfügbar, wenn du noch antworten willst, darfst du das natürlich. Un abbraccio
+Was für ein Ambiente! Das feurige „Rote“ mit „spaccatura“ wird dem Tangotänzer höchstwahrscheinlich den Kopf verdrehen. Ob ihm am Ende des Abends dasselbe passiert wie dem Traumtänzer am Freitagabend, als ihm wieder einmal der Verstand in die Hose rutschte? Scusami, dass ich einen letzten Versuch gestartet habe. Es war unnölig, weil wir seit geraumer Zeit nicht mehr dieselbe Sprache sprechen.  Du redest vom Mut zur Selbstverwirklichung und ich von erotischer Konversation. Unserer Seelenverwandtschaft ging es auch schon besser. Lassen wir es gut sein, so wie es ist. Um Mitternacht ist die Seite sowieso nicht mehr verfügbar, wenn du noch antworten willst, darfst du das natürlich. Un abbraccio
 
  Wahrscheinlich hast du es nicht gesehen.
