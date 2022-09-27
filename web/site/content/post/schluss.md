@@ -8,6 +8,6 @@ I﻿ch dachte bis Ende des Monats September ist die Seite verfügbar ???
 
  Dieser Zeilen waren bis Mitternacht drin:
 
-Was für ein Ambiente! Schade, dass es der letzte Tanz ist. Ob dem Tangotänzer am Ende des Abends dasselbe passiert wie dem Traumtänzer am Freitagabend, als ihm wieder einmal der Verstand in die Hose rutschte? Scusami, dass ich einen letzten Versuch gestartet habe. Es war ein Fehler, weil wir seit langem nicht mehr dieselbe Sprache sprechen.  Du redest von Mut zur Selbstverwirklichung und ich von erotischer Konversation. Unserer Seelenverwandtschaft ging es schon besser. Lassen wir es gut sein, wie es ist, um Mitternacht ist die Seite sowieso nicht mehr verfügbar, wenn du noch antworten willst, darfst du das natürlich. Un abbraccio
+Was für ein Ambiente! Ob dem Tangotänzer am Ende des Abends dasselbe passiert wie dem Traumtänzer am Freitagabend, als ihm wieder einmal der Verstand in die Hose rutschte? Scusami, dass ich einen letzten Versuch gestartet habe. Es war ein Fehler, weil wir seit langem nicht mehr dieselbe Sprache sprechen.  Du redest von Mut zur Selbstverwirklichung und ich von erotischer Konversation. Unserer Seelenverwandtschaft ging es schon besser. Lassen wir es gut sein, so wie es ist. Um Mitternacht ist die Seite sowieso nicht mehr verfügbar, wenn du noch antworten willst, darfst du das natürlich. Un abbraccio
 
  Wahrscheinlich hast du es nicht gesehen.
