@@ -12,4 +12,4 @@ I﻿ch dachte bis Ende des Monats September ist die Seite verfügbar ???
 
  Wahrscheinlich hast du es übersehen…..
 
-PS: Was hälst du davon….wenn du einen „Sex-Artikel“ schreibst….komplett losgelöst von mir…..Titel „die geheimen Wünsche einer Frau“……Ich denke es wäre ein Bestseller …..ich würde mich als Verleger bewerben….
+PS: Was hälst du davon….wenn du einen „Sex-Artikel“ schreibst….komplett losgelöst von meiner Person Titel „die geheimen Wünsche einer Frau“……Ich denke es wäre ein Bestseller …..ich würde mich als Verleger bewerben….
