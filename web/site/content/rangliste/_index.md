@@ -15,7 +15,7 @@ song:
   url: https://www.youtube.com/watch?v=1Cou35LP9wI
   image: img/jukebox.jpg
   description: >+
-    So ist das Leben - deine Gedanken sind so düster - dass niemand hier sie
+    So ist das Leben - deine Gedanken sind so düster - dass niemand mehr sie
     hören will - so ist das Leben - hast du je geliebt - und wenn - woher soll
     ich es wissen - wenn du mir dein Liebe nicht zeigst - so ist das Leben -
     wofür interessiert du dich noch - zündest in der Nacht das Licht der
