@@ -19,12 +19,12 @@ song:
     hören will - so ist das Leben - hast du je geliebt - und wenn - woher soll
     ich es wissen - wenn du mir dein Liebe nicht zeigst - so ist das Leben -
     wofür interessiert du dich noch - zündest in der Nacht das Licht der
-    Liebenden an - doch zurück bleibt nur die Asche der Sehnsucht - so ist das
-    Leben. - wie ein Lied ohne Melodie und nicht aus dieser Zeit - so ist das
-    Leben -  alles was ich gebraucht hätte - war eine Strophe für dich -  so ist
-    das Leben - Was machst du - lebst du jeden Tag - sag mir ein Lied das ich
-    für dich spielen kann - niemand interessiert sich noch für dich - so ist das
-    Leben
+    Leidenschaft an - doch zurück bleibt nur die Asche der Sehnsucht - so ist
+    das Leben. - wie ein Lied ohne Melodie und nicht aus dieser Zeit - so ist
+    das Leben -  alles was ich gebraucht hätte - war eine Strophe für dich -  so
+    ist das Leben - Was machst du - lebst du jeden Tag - sag mir ein Lied das
+    ich für dich spielen kann - niemand interessiert sich noch für dich - so ist
+    das Leben
 
 
 type: rangliste
