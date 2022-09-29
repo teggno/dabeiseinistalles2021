@@ -22,9 +22,9 @@ song:
     Leidenschaft an - doch zurück bleibt nur die Asche der Sehnsucht - so ist
     das Leben. - wie ein Lied ohne Melodie und nicht aus dieser Zeit - so ist
     das Leben -  alles was ich gebraucht hätte - war eine Strophe für dich -  so
-    ist das Leben - Was machst du - lebst du jeden Tag - sag mir ein Lied das
-    ich für dich spielen kann - niemand interessiert sich noch für dich - so ist
-    das Leben
+    ist das Leben - Was willst du - lebst du jeden Tag - sag mir ein Lied das
+    ich für dich spielen kann - bevor dich alle vergessen haben - so ist das
+    Leben
 
 
 type: rangliste
