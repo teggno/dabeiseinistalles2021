@@ -11,7 +11,7 @@ placeholder: |+2
 
 
 song:
-  title: RAFFI‘S 🎸 JUKEBOX - Emerson Lake&Palmer - C‘est la vie
+  title: RAFFI‘S 🎸 JUKEBOX - Emerson Lake & Palmer - C‘est la vie
   url: https://www.youtube.com/watch?v=1Cou35LP9wI
   image: img/jukebox.jpg
   description: >+
