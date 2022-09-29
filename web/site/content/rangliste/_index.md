@@ -17,7 +17,7 @@ song:
   description: >+
     So ist das Leben - deine Gedanken sind so düster - dass niemand mehr sie
     hören will - so ist das Leben - hast du je geliebt - und wenn - woher soll
-    ich es wissen - wenn du mir dein Liebe nicht zeigst - so ist das Leben -
+    ich es wissen - wenn du mir deine Liebe nicht zeigst - so ist das Leben -
     wofür interessiert du dich noch - zündest in der Nacht das Licht der
     Leidenschaft an - doch zurück bleibt nur die Asche der Sehnsucht - so ist
     das Leben. - wie ein Lied ohne Melodie und nicht aus dieser Zeit - so ist
