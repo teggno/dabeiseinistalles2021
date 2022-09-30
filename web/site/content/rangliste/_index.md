@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: true
 placeholder: "\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX - Emerson Lake & Palmer ▶️ C‘est la vie
-  url: https://www.youtube.com/watch?v=1Cou35LP9wI
+  title: "RAFFI‘S 🎸JUKEBOX - Jim Croce ▶️ Time in a bottle  "
+  url: ""
   image: img/jukebox.jpg
   description: >+
     So ist das Leben - deine Gedanken sind so düster - dass niemand mehr sie
