@@ -8,17 +8,6 @@ song:
   title: "RAFFI‘S 🎸JUKEBOX - Jim Croce ▶️ Time in a bottle  "
   url: ""
   image: img/jukebox.jpg
-  description: >+
-    So ist das Leben - deine Gedanken sind so düster - dass niemand mehr sie
-    hören will - so ist das Leben - hast du je geliebt - und wenn - woher soll
-    ich es wissen - wenn du mir deine Liebe nicht zeigst - so ist das Leben -
-    wofür interessiert du dich noch - zündest in der Nacht das Licht der
-    Leidenschaft an - doch zurück bleibt nur die Asche der Sehnsucht - so ist
-    das Leben - wie ein Song ohne Melodie und nicht aus dieser Zeit - so ist das
-    Leben -  alles was ich gebraucht hätte - war eine Strophe für dich -  so ist
-    das Leben - lebst du jeden Tag - sag mir ein Lied - das ich für dich spielen
-    kann - bevor dich alle vergessen - so ist das Leben
-
-
+  description: "\n\n\n"
 type: rangliste
 ---
