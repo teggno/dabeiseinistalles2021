@@ -29,9 +29,9 @@ song:
     werden - Wir lebten in San Francisco - hatten Blumen im Haar - und sangen
     Lieder von der Liebe - damit die Welt endlich besser würde - Meine Kumpels
     und ich - wir dachten wirklich - wir wären viel mehr als eine dieser
-    unzähligen neuen Bands - Und dann - ehe wir uns versahen - war es auf einmal
-    1969  in L.A. - Wir machten wirklich Fortschritte - hatten jede Menge Songs
-    geschrieben und spielten so ziemlich das wildeste Zeug - das man sich
+    unzähligen neuen Bands - Und dann - ehe wir‘s uns versahen - war es auf
+    einmal 1969  in L.A. - Wir machten wirklich Fortschritte - hatten jede Menge
+    Songs geschrieben und spielten so ziemlich das wildeste Zeug - das man sich
     vorstellen kann -  und so wie uns die Menge zujubelte - dachten wir
     tatsächlich - wir hätten es geschafft - Rock 'n' Roll - ich gab dir die
     besten Jahre meines Lebens - Meine ganze Jugend mit all den verrückten Tagen
