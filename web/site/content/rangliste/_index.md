@@ -35,7 +35,7 @@ song:
     vorstellen kann -  und so wie uns die Menge zujubelte - dachten wir
     tatsächlich - wir hätten es geschafft - Rock 'n' Roll - ich gab dir die
     besten Jahre meines Lebens - Meine ganze Jugend mit all den verrückten Tagen
-    und all' den Nächten im Mondschein - Ständig war ich auf Tour und habe meine
+    und all den Nächten im Mondschein - Ständig war ich auf Tour und habe meine
     Liebeslieder für dich gesungen - und während du dich weiterentwickelt hast -
     war ich bei dir - ohne dass du es wußtest - immer einen Schritt dahinter -
     Dann kam das Jahr 1971 und ich war ganz alleine - als  ich schließlich Sarah
