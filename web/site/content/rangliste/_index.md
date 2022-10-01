@@ -46,8 +46,9 @@ song:
     mit mir unzählige Plattenfirmen ab - von denen keine einzige meine Musik zu
     mögen schien - Sie blieb sogar noch bei mir - als ich am Ende meine Gitarre
     verkaufte und versuchte mir schonend beizubringen - dass aus mir wohl nie
-    ein Star werden würde.
-
-    Rock 'n' Roll - ich gab dir die besten Jahre meines Lebens - jeden sonnigen Sonntag und jede lauschige Sommernacht - und obwohl ich nie den Zauber verspüren durfte -  mit dir zusammen erfolgreich zu sein - danke ich Gott für jedes kleine bisschen - an dem er mich teilhaben ließ 
+    ein Star werden würde - Rock 'n' Roll - ich gab dir die besten Jahre meines
+    Lebens - jeden sonnigen Sonntag und jede lauschige Sommernacht - und obwohl
+    ich nie den Zauber verspüren durfte -  mit dir zusammen erfolgreich zu sein
+    - danke ich Gott für jedes kleine bisschen - an dem er mich teilhaben ließ 
 type: rangliste
 ---
