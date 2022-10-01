@@ -32,7 +32,7 @@ song:
     1969  in L.A. - Wir machten wirklich Fortschritte - hatten jede Menge Songs
     geschrieben und spielten so ziemlich das wildeste Zeug gespielt - das man
     sich vorstellen kann -  und so wie uns die Menge zujubelte - dachten wir
-    tatsächlich - wir hätten es geschafft - Rock 'n' Roll, ich habe dir die
+    tatsächlich - wir hätten es geschafft - Rock 'n' Roll - ich habe dir die
     besten Jahre meines Lebens geschenkt - Meine ganze Jugend mit all' den
     verrückten Tagen und all' den Nächten im Mondschein - Ständig war ich auf
     Tour und habe meine Liebeslieder für dich gesungen - und während du dich
