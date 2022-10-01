@@ -19,10 +19,10 @@ song:
     klang ich fast wie Paul -  schliesslich besorgte ich mir vom guten alten
     Chuck Berry jede einzelne Single und alles was es sonst noch gab - Ich saß
     vor dem Plattenspieler und spielte jede einzelne Note nach -Ich schaute sie
-    mir ganz genau im Fernsehen an und kopierte jede ihrer Bewegungen - Rock 'n'
-    Roll - ich gab  dir die besten Jahre meines Lebens - Jeden sonnigen Sonntag
-    und jede lauschige Sommernacht - Ich hockte die ganze Zeit im Proberaum und
-    habe unzählige Liebeslieder für dich geschrieben - Und während du dich
+    mir im Fernsehen an und kopierte jede ihrer Bewegungen - Rock 'n' Roll - ich
+    gab  dir die besten Jahre meines Lebens - Jeden sonnigen Sonntag und jede
+    lauschige Sommernacht - Ich hockte die ganze Zeit im Proberaum und habe
+    unzählige Liebeslieder für dich geschrieben - Und während du dich
     weiterentwickelt hast - war ich bei dir - ohne dass du es wußtest - immer
     einen Schritt dahinter - 1966 schien das Jahr meines grossen Durchbruchs zu
     werden - Wir lebten in San Francisco - hatten Blumen im Haar - und sangen
