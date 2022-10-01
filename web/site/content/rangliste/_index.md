@@ -42,7 +42,7 @@ song:
     traf - Ich wollte es gerade als Solist versuchen - mit irgendeiner
     zusammengewürfelten Band - Dann kam sie und ich nahm sie bei der Hand -
     erzählte ihr von all meinen Schwierigkeiten und sie schien mich zu verstehen
-    - Sie folgte mir quer durch London durch hunderte von Hotels und klapperte
+    - Sie folgte mir quer durch London - durch hunderte von Hotels und klapperte
     mit mir unzählige Plattenfirmen ab - von denen keine einzige meine Musik zu
     mögen schien - Sie blieb sogar noch bei mir - als ich am Ende meine Gitarre
     verkaufte und versuchte mir schonend beizubringen - dass aus mir wohl nie
