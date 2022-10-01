@@ -29,7 +29,7 @@ song:
     - und sangen Lieder von der Liebe - damit die Welt endlich besser würde -
     Meine Kumpels und ich - wir dachten wirklich wir wären viel mehr als nur
     eine weitere neue Band - Und dann war es auf einmal 1969 - in L.A. - Wir
-    machten wirklich Fortschritte, hatten jede Menge Songs geschrieben und
+    machten wirklich Fortschritte - hatten jede Menge Songs geschrieben und
     spielten so ziemlich das wildeste Zeug gespielt - das man sich vorstellen
     kann -  und so wie uns die Menge zujubelte - dachten wir tatsächlich - wir
     hätten es geschafft - Rock 'n' Roll, ich habe dir die besten Jahre meines
