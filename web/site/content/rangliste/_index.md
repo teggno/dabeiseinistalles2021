@@ -24,10 +24,10 @@ song:
     sonnigen Sonntag und jede lauschige Sommernacht - Ich hockte die ganze Zeit
     im Proberaum und habe unzählige Liebeslieder für dich geschrieben - Und
     während du dich weiterentwickelt hast - war ich bei dir - ohne dass du es
-    wußtest - immer genau einen Schritt dahinter - 1966 schien das Jahr meines
-    grossen Durchbruchs zu sein - Wir lebten in San Francisco - hatten Blumen im
-    Haar - und sangen Lieder von der Liebe - damit die Welt endlich besser würde
-    - Meine Kumpels und ich - wir dachten wirklich wir wären viel mehr als nur
+    wußtest - immer einen Schritt dahinter - 1966 schien das Jahr meines grossen
+    Durchbruchs zu werden - Wir lebten in San Francisco - hatten Blumen im Haar
+    - und sangen Lieder von der Liebe - damit die Welt endlich besser würde -
+    Meine Kumpels und ich - wir dachten wirklich wir wären viel mehr als nur
     eine weitere neue Band - Und dann war es - ehe wir uns versahen - auf einmal
     1969 in L.A. - Wir machten wirklich Fortschritte, hatten jede Menge Songs
     geschrieben und spielten so ziemlich das wildeste Zeug gespielt - das man
