@@ -10,7 +10,7 @@ song:
   url: https://www.youtube.com/watch?v=4yuwhUx35Uc
   image: img/jukebox.jpg
   description: >
-    KEVIN JOHNSON - ROCKN‘ROLL IGAVE YOU THE BEST YEARS OF MY LIFE 🎸 Ich kann
+    KEVIN JOHNSON - ROCKN‘ROLL I GAVE YOU THE BEST YEARS OF MY LIFE 🎸 Ich kann
     mich noch gut daran erinnern, wie ich meine erste Gitarre gekauft habe - was
     für ein tolles Gefühl das war - und wie ich sie ganz stolz in mein Auto
     packte - Meine Familie musste sich ungefähr 50 mal mein ganzes Repertoire -
