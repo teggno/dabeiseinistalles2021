@@ -13,7 +13,7 @@ song:
     Ich kann mich noch gut daran erinnern, wie ich meine erste Gitarre gekauft
     habe - was für ein tolles Gefühl das war - und wie ich sie ganz stolz in
     mein Auto packte - Meine Familie musste sich ungefähr 50 mal mein ganzes
-    Repertoire, das genau aus zwei Songs bestand anhören - und meiner Mutter
+    Repertoire - das genau aus zwei Songs bestand anhören - und meiner Mutter
     habe ich erklärt - dass ihr einziger Sohn jetzt drauf und dran is -  ein
     Star zu werden - Ich habe mir alle Beatles-Platten gekauft und bald hörte
     ich mich an schon fast wie Paul -  schliesslich besorgte ich mir vom guten
