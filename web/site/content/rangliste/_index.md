@@ -14,9 +14,8 @@ song:
     Glück - alle beneiden mich - ohne dich kann ich nicht mehr leben - Elenore
     -  willst du mir nicht sagen - was du wirklich denkst -  sag - dass du mich
     lieber magst als all die anderen - Du machst mich an - meine Gedanken sind
-    nur noch bei dir - komm gehen wir doch mal ins Kino - dort ist das Licht
-    ganz schummrig - wir achten gar nicht auf den Film - oh Eleonore - ich will
-    dich nur noch küssen - aber willst du mir nicht sagen - was du wirklich
-    denkst.
+    nur noch bei dir - komm gehen wir doch mal ins Kino - dort ist das Licht so
+    schummrig - wir achten gar nicht auf den Film 🎞 - ich will dich nur noch
+    küssen 💋 oh Eleonore- willst du es etwa auch 🫢
 type: rangliste
 ---
