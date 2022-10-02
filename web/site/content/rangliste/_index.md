@@ -16,6 +16,6 @@ song:
     dass du mich lieber magst als all die anderen - Du machst mich an - meine
     Gedanken sind nur noch bei dir - komm gehen wir doch mal ins Kino - dort ist
     das Licht so schummrig - wir achten gar nicht auf den Film 🎞 - ich will
-    dich nur noch küssen 💋 oh Eleonore- willst du es etwa auch…. 🫢
+    dich nur noch küssen 💋 oh Eleonore - willst du das etwa auch…. 🫢
 type: rangliste
 ---
