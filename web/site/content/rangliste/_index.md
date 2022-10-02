@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: true
 placeholder: "\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX -  ▶️ "
-  url: ""
+  title: "RAFFI‘S 🎸JUKEBOX - The Turtles  ▶️  Eleonore "
+  url: https://www.youtube.com/watch?v=phMWtWZaDPQ
   image: img/jukebox.jpg
   description: TURTLES - ELEONORE 🫢 Du hast das gewisse Etwas an dir - deine
     Blicke betören mich - Eleonore - wann sehen wir uns wieder - ich finde dich
