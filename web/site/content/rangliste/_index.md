@@ -17,6 +17,6 @@ song:
     lieber magst als all die anderen - Oh du machst mich an Elenore - meine
     Gedanken sind nur noch bei dir - komm gehen wir doch mal ins Kino - das
     Licht💡ist dort so schummrig - wir achten gar nicht auf den Film 🎞 ich werd
-    dich nur noch küssen 💋 oh Elenore - willst du das etwa auch…. 🫢
+    dich nur noch küssen 💋 - oh Elenore - willst du das etwa auch…. 🫢
 type: rangliste
 ---
