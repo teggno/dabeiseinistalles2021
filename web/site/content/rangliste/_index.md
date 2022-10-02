@@ -8,7 +8,7 @@ song:
   title: "RAFFI‘S 🎸JUKEBOX - The Turtles  ▶️  Eleonore "
   url: https://www.youtube.com/watch?v=phMWtWZaDPQ
   image: img/jukebox.jpg
-  description: Täglich ein neuer Song mit Übersetzung(+) 😎  Heute THE TURTLES mit
+  description: Täglich ein neuer Song mit Übersetzung+ 😎 Heute THE TURTLES mit
     ELEONORE 🙈 Du hast das gewisse Etwas an dir - deine Blicke betören mich -
     Eleonore - wann sehen wir uns wieder - Ich find dich richtig Klasse - du
     tust mir richtig gut -  du bist mein Stolz mein Glück und meine Rettung -
