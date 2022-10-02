@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=phMWtWZaDPQ
   image: img/jukebox.jpg
   description: TURTLES - ELEONORE 🫢 Du hast das gewisse Etwas an dir - deine
-    Blicke betören mich - Eleonore - wann sehen wir uns wieder - ich finde dich
+    Blicke betören mich - Eleonore - wann sehen wir uns wieder - ich find dich
     richtig Klasse und du tust mir auch echt gut -  du bist mein Stolz und mein
     Glück - alle beneiden mich - ohne dich kann ich nicht mehr leben - Elenore
     -  willst du mir nicht sagen - was du wirklich denkst -  sag - dass du mich
