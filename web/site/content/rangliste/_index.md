@@ -5,8 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX - Kevin Johnson ▶️ Rock & Roll I gave you the best
-    years of my life "
+  title: "RAFFI‘S 🎸JUKEBOX -  ▶️ "
   url: https://www.youtube.com/watch?v=4yuwhUx35Uc
   image: img/jukebox.jpg
   description: |
