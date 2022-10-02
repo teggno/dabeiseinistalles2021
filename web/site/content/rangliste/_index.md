@@ -8,14 +8,14 @@ song:
   title: "RAFFI‘S 🎸JUKEBOX - The Turtles  ▶️  Eleonore "
   url: https://www.youtube.com/watch?v=phMWtWZaDPQ
   image: img/jukebox.jpg
-  description: THE TURTLES - ELEONORE 🫢 Du hast das gewisse Etwas an dir - deine
+  description: THE TURTLES - ELEONORE 😎 Du hast das gewisse Etwas an dir - deine
     Blicke betören mich - Eleonore - wann sehen wir uns wieder - Ich find dich
     richtig Klasse - du tust mir richtig gut -  du bist mein Stolz mein Glück
     und meine Rettung - alle ringsherum beneiden mich - ohne dich kann ich nicht
     mehr leben - Elenore -  willst du mir nicht sagen - was du wirklich denkst
     -  sag - dass du mich lieber magst als all die anderen - Du machst mich an -
     meine Gedanken sind nur noch bei dir - komm gehen wir doch mal ins Kino -
-    das Licht💡ist dort so schummrig - wir achten gar nicht auf den Film 🎞 -
-    ich werde dich nur noch küssen 💋 oh Eleonore - willst du das etwa auch…. 🫢
+    das Licht💡ist dort so schummrig - wir achten gar nicht auf den Film - ich
+    werde dich nur noch küssen 💋 oh Eleonore - willst du das etwa auch…. 🫢
 type: rangliste
 ---
