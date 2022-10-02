@@ -10,7 +10,7 @@ song:
   image: img/jukebox.jpg
   description: Täglich ein neuer Song mit Spezial-Übersetzung 😎 Heute THE TURTLES
     mit ELENORE  🙈🙈🙈  Du hast das gewisse Etwas an dir - deine Blicke betören
-    mich - Elenore - wann sehen wir uns denn wieder - Ich find dich richtig
+    mich - Elenore - wann sehn wir uns denn wieder - Ich find dich richtig
     Klasse - du tust mir richtig gut -  du bist mein Stolz mein Glück und meine
     Rettung - alle ringsherum beneiden mich - ohne dich kann ich nicht mehr
     leben - Elenore -  willst du mir nicht sagen - was du wirklich denkst -  sag
