@@ -15,7 +15,7 @@ song:
     mehr leben - Elenore -  willst du mir nicht sagen - was du wirklich denkst
     -  sag - dass du mich lieber magst als all die anderen - Du machst mich an -
     meine Gedanken sind nur noch bei dir - komm gehen wir doch mal ins Kino -
-    dort ist das Licht so schummrig - wir achten gar nicht auf den Film 🎞 - ich
-    will dich nur noch küssen 💋 oh Eleonore - willst du das etwa auch…. 🫢
+    das Licht💡ist dort so schummrig - wir achten gar nicht auf den Film 🎞 -
+    ich werde dich nur noch küssen 💋 oh Eleonore - willst du das etwa auch…. 🫢
 type: rangliste
 ---
