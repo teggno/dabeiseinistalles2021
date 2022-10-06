@@ -5,19 +5,14 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX - The Turtles  ▶️  Elenore
-  url: https://www.youtube.com/watch?v=phMWtWZaDPQ
+  title: RAFFI‘S 🎸JUKEBOX - Queen   ▶️  These are the days of our lives
+  url: https://www.youtube.com/watch?v=oB4K0scMysc
   image: img/jukebox.jpg
-  description: Täglich ein neuer Song mit Spezial-Übersetzung 😎 Heute THE TURTLES
-    mit ELENORE  🙈🙈🙈  Du hast das gewisse Etwas an dir - deine Blicke betören
-    mich - Elenore - wann sehn wir uns denn wieder - Ich find dich richtig
-    Klasse - du tust mir richtig gut -  du bist mein Stolz mein Glück und meine
-    Rettung - alle ringsherum beneiden mich - ohne dich kann ich nicht mehr
-    leben - Elenore -  willst du mir nicht sagen - was du wirklich denkst -  sag
-    - dass du mich lieber magst als all die anderen - Und wie du mich anmachst
-    Elenore - meine Gedanken sind nur noch bei dir - komm gehen wir doch ins
-    Kino - das Licht dort ist so schummrig - wir achten gar nicht auf den Film
-    🎞 ich werd dich nur noch küssen 💋 - sag Elenore - willst du das etwa
-    auch…. 🫢
+  description: >
+    Täglich ein neuer Song mit Spezial-Übersetzung 🎤 Heute QUEEN - THESE ARE
+    THE DAYS OF OUR LIVES 
+
+
+    Manchmal hab ich das Gefühl - als ob ich in den alten Tagen lebe - was lange her ist - Als wir Kinder noch waren - jung und glücklich - Die Dinge schienen so perfekt - Du weißt was ich meine - Die Tage waren endlos - wir waren verrückt und hemmungslos - Wir waren jung - Für uns schien immer die Sonne - wir lebten nur zum Spaß - Manchmal fühlt es sich so an - als wäre es erst vor kurzem gewesen - ich weiß auch nicht - Der Rest meines Lebens war irgendwie nur eine Show - Das waren die Tage unseres Lebens - Die schlechten Dinge haben wir ausgeblendet - Diese Tage sind jetzt alle vorbei - aber eines bin ich mir sicher - ich liebe Dich noch immer - Du kannst die Zeit nicht zurückdrehen - du kannst die Strömung nicht zurückhalten - Ist das nicht schade? - Ich würde so gerne nochmals zurückgehen auf eine Achterbahnfahrt - als das Leben nur ein Spiel war - Es macht keinen Sinn hier zu sitzen und zu grübeln - was Du im Leben getan hat - Manchmal fühlt es sich so an - als wäre es erst vor kurzem gewesen - ich weiß doch auch nicht  - Es ist besser - sich zurückzulehnen und sich von der Strömung treiben zu lassen - Denn dies sind die Tage unseres Lebens - sie sind in der Schnelllebigkeit der Zeit verflogen - Das waren die Tage unseres Lebens - aber eines weiss ich ganz bestimmt - ich liebe dich noch immer
 type: rangliste
 ---
