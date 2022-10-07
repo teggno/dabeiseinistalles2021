@@ -13,8 +13,8 @@ song:
     zieht er seine Masche ab - treibt mit dem unschuldigen Mädchen sein übliches
     Spiel - Noch so ein gebrochenes Herz 💔 in seiner Sammlung - Der Glückspilz
     wird in sieben verschiedenen Sprachen geliebt - Ein Leben wie aus der
-    Schatztruhe - diamantene Nächte erleuchtet von Rubinen -Er schwebt hoch oben
-    am Himmel – Gnade ihm Gott - wenn er abstürzen sollte - Ein Leben - so
+    Schatztruhe - diamantene Nächte erleuchtet von Rubinen - Er schwebt hoch
+    oben am Himmel – Gnade ihm Gott - wenn er abstürzen sollte - Ein Leben - so
     strahlend wie pures Gold - Ein Mann gemacht für die Frauen - Mit einem
     Minimum an Aufwand und einem Maximum an Vergnügen schwebt er durch Raum und
     Zeit - Großstadtlichter - einfach zusteigen bei der Endstation Sehnsucht -
