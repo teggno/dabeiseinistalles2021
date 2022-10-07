@@ -8,11 +8,37 @@ song:
   title: RAFFI‘S 🎸JUKEBOX - Queen   ▶️  These are the days of our lives
   url: https://www.youtube.com/watch?v=oB4K0scMysc
   image: img/jukebox.jpg
-  description: >
-    Täglich ein neuer Song mit Spezial-Übersetzung 🎆 Heute QUEEN 🎤 THESE ARE
-    THE DAYS OF OUR LIVES  🎞
+  description: |-
+    Täglich ein neuer Song mit Spezial-Übersetzung 🎆 
+    Im schwindelerregenden Wahnsinn des Schnaufens der Lokomotive
+    läuft der ewige Verlierer kopfüber in seinen Tod.
+    Er fühlt die kreischenden Kolben,
+    Dampf setzt sich in seine Brauen.
+    Der alte Charlie stahl den Haltegriff,
+    und der Zug rast unaufhaltsam,
+    es gibt keine Chance, das Tempo zu drosseln.
 
 
-    Manchmal hab ich das Gefühl - als ob ich in den alten Tagen lebe - lang lang ist’s her - Als wir noch Kinder waren - jung und glücklich - Die Dinge schienen so perfekt  zu sein - Du weißt was ich meine - Die Tage waren endlos - wir waren verrückt und hemmungslos - Wir waren jung - Für uns schien jeden Tag die Sonne - wir lebten nur zum Spaß - Manchmal fühlt es sich so an - als wäre es gestern gewesen - ich weiß doch  auch nicht - Alles was danach kam  - war irgendwie nur eine Show - Das waren die Tage unseres Lebens - Die schlechten Dinge haben wir ausgeblendet - Diese Tage sind jetzt alle vorbei - aber eines weiss ich ganz bestimmt - ich liebe Dich noch immer - Du kannst die Zeit nicht zurückdrehen - du kannst die Strömung nicht zurückhalten - Ist das nicht schade? - Ich würde so gerne nochmals zurückgehen auf eine Achterbahnfahrt - als das Leben nur ein Spiel war - Es macht keinen Sinn hier zu sitzen und zu grübeln was Du im Leben getan hast - Manchmal fühlt es sich so an - als wäre es gestern gewesen - ich weiß doch auch nicht  - Es ist besser - sich zurückzulehnen und sich von der Strömung treiben zu lassen - Denn dies sind die Tage unseres Lebens - sie sind in der Schnelllebigkeit der Zeit verflogen - Das waren die Tage unseres Lebens - aber eines weiss ich ganz bestimmt - ich liebe dich noch immer
+    Er sieht seine Kinder an den Stationen abspringen,
+    eines nach dem andern.
+    Seine Frau und sein bester Freund
+    amüsieren sich miteinander im Bett.
+    So kriecht er auf Händen und Knien
+    den Korridor entlang.
+    Der alte Charlie stahl den Haltegriff,
+    und der Zug rast unaufhaltsam,
+    es gibt keine Chance, das Tempo zu drosseln.
+
+    Er hört die Stille heulen,
+    er greift nach Engeln, die fallen
+    und der ewige Gewinner
+    hat ihn an den Eiern.
+    Nun nimmt er sich die Gideon-Bibel,
+    aufgeschlagen auf Seite eins.
+    Ich denke, Gott war´s, der den Haltegriff stahl,
+    und der Zug rast unaufhaltsam,
+    es gibt keine Chance, das Tempo zu drosseln.
+
+    Keine Chance, das Tempo zu drosseln.
 type: rangliste
 ---
