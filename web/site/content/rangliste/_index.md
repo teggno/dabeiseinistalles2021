@@ -16,7 +16,7 @@ song:
     der Schatztruhe - diamantene Nächte erleuchtet von Rubinen - Er schwebt hoch
     oben am Himmel – Gnade ihm Gott - wenn er abstürzen sollte - Ein Mann -
     gemacht für die Frauen - Mit einem Minimum an Aufwand und einem Maximum an
-    Vergnügen schwebt er durch Raum und Zeit - Großstadtlichter - einfach
+    Vergnügen - schwebt er durch Raum und Zeit - Großstadtlichter - einfach
     zusteigen bei der Endstation Sehnsucht - Nichts für Anfänger oder
     empfindliche Naturen - Gefühle sind nur ganz zufällig im Spiel - ein
     ausgekochtes Schlitzohr  ist er - ein Filou wie es im Buche steht - Von
