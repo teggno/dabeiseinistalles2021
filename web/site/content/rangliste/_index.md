@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸JUKEBOX - Jethro Tull   ▶️  Locomotive Breath
-  url: https://www.youtube.com/watch?v=oB4K0scMysc
+  url: https://www.youtube.com/watch?v=7Ebwhu3nsM8
   image: img/jukebox.jpg
   description: |-
     Täglich ein neuer Song mit Spezial-Übersetzung 🎆 
