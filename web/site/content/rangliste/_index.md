@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=7Ebwhu3nsM8
   image: img/jukebox.jpg
   description: >-
-    Täglich ein neuer Song mit  🎆 Heute JETHRO TULL - LOCOMOTIVE BREATH 🚂
+    Jeden Tag ein neuer Song 🎆 Heute JETHRO TULL - LOCOMOTIVE BREATH 🚂
 
     Im schwindelerregenden Wahnsinn des Schnaufens der Lokomotive - läuft der ewige Verlierer kopfüber in seinen Tod - Er fühlt die kreischenden Kolben - Dampf setzt sich in seine Brauen - Der alte Charlie stahl den Haltegriff - und der Zug rast unaufhaltsam - es gibt keine Chance das Tempo zu drosseln - Er sieht seine Kinder an den Stationen abspringen - eines nach dem anderen - Seine Frau und sein bester Freund amüsieren sich miteinander im Bett - So kriecht er auf Händen und Knien den Korridor entlang - Der alte Charlie stahl den Haltegriff - und der Zug rast unaufhaltsam - es gibt keine Chance - das Tempo zu drosseln - Er hört die Stille heulen - er greift nach Engeln die fallen - und der ewige Sieger hat ihn an den Eiern - Nun nimmt er sich die Bibel - schlägt sie auf - auf Seite eins - am Ende war es Gott - der den Haltegriff stahl - und der Zug rast unaufhaltsam - es gibt keine Chance das Tempo zu drosseln - keine Chance - das Tempo zu drosseln 
 type: rangliste
