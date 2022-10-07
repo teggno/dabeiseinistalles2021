@@ -10,10 +10,10 @@ song:
   image: img/jukebox.jpg
   description: "Jeden Tag ein neuer Song 🎆 Mit deutscher Übersetzung! Nicht ganz
     wortgetreu - aber fast 😎 Heute: SADE 💃🏽 SMOOTH OPERATOR🕺🏾Und wieder
-    zieht er seine Masche ab - treibt mit dem unschuldigen Mädchen sein übliches
-    Spiel - Noch so ein gebrochenes Herz 💔 in seiner Sammlung - Der Glückspilz
-    wird in sieben verschiedenen Sprachen geliebt - Ein Leben wie aus der
-    Schatztruhe - diamantene Nächte erleuchtet von Rubinen - Er schwebt hoch
+    zieht er seine Masche ab - treibt mit diesem unschuldigen Mädchen sein
+    übliches Spiel - Noch so ein gebrochenes Herz 💔 in seiner Sammlung - Der
+    Glückspilz wird in sieben verschiedenen Sprachen geliebt - Ein Leben wie aus
+    der Schatztruhe - diamantene Nächte erleuchtet von Rubinen - Er schwebt hoch
     oben am Himmel – Gnade ihm Gott - wenn er abstürzen sollte - Ein Mann -
     gemacht für die Frauen - Mit einem Minimum an Aufwand und einem Maximum an
     Vergnügen schwebt er durch Raum und Zeit - Großstadtlichter - einfach
