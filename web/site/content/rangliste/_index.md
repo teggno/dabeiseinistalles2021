@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX - Queen   ▶️  These are the days of our lives
+  title: RAFFI‘S 🎸JUKEBOX - Jethro Tull   ▶️  Locomotive Breath
   url: https://www.youtube.com/watch?v=oB4K0scMysc
   image: img/jukebox.jpg
   description: |-
