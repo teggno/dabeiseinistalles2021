@@ -8,8 +8,8 @@ song:
   title: RAFFI‘S 🎸JUKEBOX - Sade  ▶️  Smooth Operator
   url: https://www.youtube.com/watch?v=4TYv2PhG89A
   image: img/jukebox.jpg
-  description: Jeden Tag ein neuer Song 🎆 Mit deutscher Übersetzung! Nicht ganz
-    wortgetreu - aber fast 😎 Heute 💃🏽 SADE - SMOOTH OPERATOR🕺🏾Schon wieder
+  description: "Jeden Tag ein neuer Song 🎆 Mit deutscher Übersetzung! Nicht ganz
+    wortgetreu - aber fast 😎 Heute: SADE 💃🏽SMOOTH OPERATOR🕺🏾Schon wieder
     zieht er seine Masche ab - treibt mit dem unschuldigen Mädchen sein übliches
     Spiel - Noch so ein gebrochenes Herz 💔 in seiner Sammlung - Der Glückspilz
     wird in sieben verschiedenen Sprachen geliebt - Ein Leben wie aus der
@@ -25,6 +25,6 @@ song:
     Süd - bis runter nach Key Largo – Liebe  im Sonderangebot - Unerfahrenheit
     wird gnadenlos bestraft - Eine Lizenz zum Lieben mit kurzer Garantie - er
     schmilzt all deine Erinnerungen ein und verwandelt sie in Gold - Augen wie
-    ein Engel -  eiskalt sein Herz 🤍
+    ein Engel -  eiskalt sein Herz 🤍"
 type: rangliste
 ---
