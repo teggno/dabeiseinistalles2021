@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=4TYv2PhG89A
   image: img/jukebox.jpg
   description: "Jeden Tag ein neuer Song 🎆 Mit deutscher Übersetzung! Nicht ganz
-    wortgetreu - aber fast 😎 Heute: SADE 💃🏽 SMOOTH OPERATOR🕺🏾Schon wieder
+    wortgetreu - aber fast 😎 Heute: SADE 💃🏽 SMOOTH OPERATOR🕺🏾Und wieder
     zieht er seine Masche ab - treibt mit dem unschuldigen Mädchen sein übliches
     Spiel - Noch so ein gebrochenes Herz 💔 in seiner Sammlung - Der Glückspilz
     wird in sieben verschiedenen Sprachen geliebt - Ein Leben wie aus der
