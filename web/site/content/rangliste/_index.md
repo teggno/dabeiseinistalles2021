@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=7Ebwhu3nsM8
   image: img/jukebox.jpg
   description: >-
-    Täglich ein neuer Song mit Spezial-Übersetzung 🎆 Heute JETHRO TULL -
+    Täglich ein neuer Song mit spezieller Übersetzung 🎆 Heute JETHRO TULL -
     LOCOMOTIVE BREATH 🚂
 
     Im schwindelerregenden Wahnsinn des Schnaufens der Lokomotive - läuft der ewige Verlierer kopfüber in seinen Tod - Er fühlt die kreischenden Kolben - Dampf setzt sich in seine Brauen - Der alte Charlie stahl den Haltegriff - und der Zug rast unaufhaltsam - es gibt keine Chance das Tempo zu drosseln - Er sieht seine Kinder an den Stationen abspringen - eines nach dem anderen - Seine Frau und sein bester Freund
