@@ -21,9 +21,8 @@ song:
     Gefühle sind nur ganz zufällig im Spiel - ein ausgekochtes Schlitzohr ist er
     - ein Filou wie es im Buche steht - Von Küste zu Küste - von Los Angeles bis
     nach Chicago – er ist der Platzhirsch des gesamten Westens - Kreuz und quer
-    - von Nord nach Süd - bis runter nach Key Largo – Liebe  im Sonderangebot -
-    Unbekümmertheit wird gnadenlos bestraft - Eine Lizenz zum Lieben mit kurzer
-    Garantie - er schmilzt all deine Erinnerungen ein und verwandelt sie in Gold
-    - Augen wie ein Engel -  doch eiskalt ist sein Herz 🤍"
+    - von Nord nach Süd - bis runter nach Key Largo - Liebe im Sonderangebot -
+    Er schmilzt all deine Erinnerungen ein und verwandelt sie für einen kurzen
+    Augenblick in Gold "
 type: rangliste
 ---
