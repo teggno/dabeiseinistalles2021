@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=8DegVjPeZ1w
   image: img/jukebox.jpg
   description: >-
-    Jeden Tag ein neuer Song 🎆 Mit deutscher Übersetzung! Nicht ganz wortgetreu
+    Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz wortgetreu
     - aber fast 😎 Heute: EARL GRANT - TILL THE END OF TIME 🎈Jeder Traum geht
     zu Ende - und Schatten folgt dem Licht - Jeder Tag geht zur Neige - doch
     unsre  Liebe nicht - denn sie kam wie ein Märchen - 
