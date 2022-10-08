@@ -10,13 +10,12 @@ song:
   image: img/jukebox.jpg
   description: >-
     Jeden Tag ein neuer Song 🎆 Mit deutscher Übersetzung! Nicht ganz wortgetreu
-    - aber fast 😎 Heute: EARL GRANT - TILL THE END OF TIME 🎈 Jeder Traum geht
-    zu Ende
+    - aber fast 😎 Heute: EARL GRANT - TILL THE END OF TIME 🎈Jeder Traum geht
+    zu Ende - und Schatten folgt dem Licht - Jeder Tag geht zur Neige - doch
+    unsre  Liebe nicht - denn sie kam wie ein Märchen - 
 
-    Und Schatten folgt dem Licht - Jeder Tag geht zur Neige - Doch unsre Liebe nicht - Denn sie kam wie ein Märchen
+    und drang ins Herz hinein - sie scheint wie ein Wunder
 
-    Und drang ins Herz hinein - Sie scheint wie ein Wunder
-
-    Unendlich zu sein - Jeder Weg, jede Straße Hat irgendwo ein Ziel Jeder Fluss treibt dem Meer zu Und endet dort sein SpielDoch die Liebe, die du gibstIst schöner als ein TraumDenn sie lebt bis ans EndeVon Zeit und RaumJeder Weg, jede StraßeHat irgendwo ein ZielJeder Fluss treibt dem Meer zuUnd endet dort sein SpielDoch die Liebe, die du gibstIst schöner als ein TraumDenn sie lebt bis ans EndeVon Zeit und RaumVon Zeit und Raum
+    unendlich zu sein - Jeder Weg jede Straße hat irgendwo ein Ziel  - Jeder Fluss treibt dem Meer zu - und endet dort sein Spiel - doch die Liebe - die du gibst ist schöner als ein Traum - denn sie lebt bis ans Ende von Zeit und Raum  - Jeder Weg jede Straße hat irgendwo ein Ziel - jeder Fluss treibt dem Meer zu und endet dort sein Spiel - doch die Liebe die du gibst - ist schöner als ein Traum - denn sie lebt bis ans Ende von Zeit und Raum - von Zeit und Raum 
 type: rangliste
 ---
