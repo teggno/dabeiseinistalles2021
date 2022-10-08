@@ -19,7 +19,7 @@ song:
     Vergnügen schwebt er durch Raum und Zeit - Einfach zusteigen bei der
     Endstation Sehnsucht - Nichts für Anfänger oder empfindliche Naturen -
     Gefühle sind nur ganz zufällig im Spiel - ein ausgekochtes Schlitzohr ist er
-    - ein Herzensbrecher wie er im Buche steht - Von Küste zu Küste - von Los
+    - ein Herzensbrecher wie es im Buche steht - Von Küste zu Küste - von Los
     Angeles bis nach Chicago – er ist der Platzhirsch des gesamten Westens -
     Kreuz und quer - von Nord nach Süd - bis runter nach Key Largo - Liebe im
     Sonderangebot - Er schmilzt all deine Erinnerungen ein und verwandelt sie
