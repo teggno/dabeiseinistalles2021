@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX - Earl Grant  ▶️  Till the end of Time
+  title: "RAFFI‘S 🎸JUKEBOX - Dalla/Pavarotti  ▶️  Caruso "
   url: https://www.youtube.com/watch?v=8DegVjPeZ1w
   image: img/jukebox.jpg
   description: >-
