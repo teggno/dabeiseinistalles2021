@@ -2,31 +2,67 @@
 title: Rangliste
 date: 2022-08-02T17:47:58.670Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX - Dalla/Pavarotti  ▶️  Caruso "
+  title: "RAFFI‘S 🎸JUKEBOX - The Animals  ▶️  The House of the rising sun "
   url: https://www.youtube.com/watch?v=0Z_H6PI6Z28
   image: img/jukebox.jpg
-  description: "Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz
-    wortgetreu - aber fast 😎 Heute: LUCIO DALLA & LUCIANO PAVAROTTI - CARUSO 🌊
-    Hier - auf einer alten Terrasse - hoch oben über dem Golf von Sorrent - wo
-    das Meer funkelt und der Sturm heranzieht - lässt eine junge Frau ihren
-    Gefühlen freien Lauf - Nachdem sie aufgehört hat zu weinen - schliesst sie
-    der junge Mann in seine Arme und tröstet sie mit diesem Lied 🥰 Ich hab dich
-    lieb - so sehr - dass das Blut in meinen Adern schmilzt - Er sah hinaus
-    auf’s Meer - die vielen Lichter erinnerten ihn an die Nächte im fernen
-    Amerika - doch es war nur das Nachtleuchten im weißen Kielwasser einer
-    Schiffsschraube - Er fühlte diesen Schmerz  - den nur die Musik im Stande
-    ist hervorzurufen - er sah zum Himmel hinauf  -  wo der Mond gerade hinter
-    einer Wolke hervorblickte - und plötzlich flösste ihm selbst der Tod keine
-    Angst mehr ein - Er sah in die Augen der jungen Frau - die so grün waren wie
-    das Meer - sah ihre Tränen - und er glaubte zu ertrinken  - er versuchte
-    seine Gedanken -  die so in Aufruhr waren zu ordnen  - alles erschien ihm
-    plötzlich so armselig und klein - selbst die  Nächte im fernen Amerika - Er
-    drehte sich um - sah sein kurzes Leben an sich vorbeiziehen - und wünschte
-    sich - dass es in diesem Augenblick vorbeisein würde -  Überwältigt von der
-    Szenerie stimmte er nochmals ein in sein Lied  🎶  te voglio bene assai
-    -  ma tanto tanto bene sai"
+  description: >-
+    Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz wortgetreu
+    - aber fast 😎 Heute: THE ANIMALS - THE HOUSE OF THE RISING SUN ☀️ Es gibt
+    ein Haus in New Orleans
+
+    Sie nennen es "die Aufgehende Sonne"
+
+    Es war der Untergang für viele arme Kerle
+
+    Bei Gott, ich weiß, ich bin einer von ihnen
+
+
+    Meine Mutter war eine Schneiderin
+
+    Sie nähte meine neue Blue Jeans
+
+    Mein Vater war ein Spieler
+
+    Unten in New Orleans
+
+
+
+    Nun, das Einzige, was ein Spieler braucht
+
+    Ist ein Handkoffer und ein Schrankkoffer
+
+    Und das Einzige, was ihn zufrieden macht,
+
+    Ist, wenn er völlig betrunken ist
+
+
+    Oh Mutter, sag deinen Kindern
+
+    Dass sie nicht tun sollen, was ich getan habe
+
+    Ihr Leben in Sünde und Elend verbringen
+
+    Im "Haus der Aufgehenden Sonne"
+
+
+    Nun, ich stehe mit einem Fuß auf dem Bahnsteig
+
+    Mit dem anderen Fuß im Zug
+
+    Ich gehe zurück nach New Orleans
+
+    Um diese Kugel und Kette zu tragen
+
+
+    Nun, es gibt ein Haus in New Orleans
+
+    Sie nennen es "die Aufgehende Sonne"
+
+    Es war der Untergang für viele arme Kerle
+
+    Bei Gott, ich weiß, ich bin einer von ihnen
 type: rangliste
 ---
