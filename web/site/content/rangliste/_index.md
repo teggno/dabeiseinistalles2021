@@ -10,23 +10,11 @@ song:
   image: img/jukebox.jpg
   description: >-
     Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz wortgetreu
-    - aber fast 😎 Heute: THE ANIMALS - THE HOUSE OF THE RISING SUN ☀️ Es gibt
-    ein Haus in New Orleans
-
-    Sie nennen es "die Aufgehende Sonne"
-
-    Es war der Untergang für viele arme Kerle
-
-    Bei Gott, ich weiß, ich bin einer von ihnen
-
-
-    Meine Mutter war eine Schneiderin
-
-    Sie nähte meine neue Blue Jeans
-
-    Mein Vater war ein Spieler
-
-    Unten in New Orleans
+    - aber fast 😎 Heute: THE ANIMALS - THE HOUSE OF THE RISING SUN ☀️  In New
+    Orleans steht ein altes Haus - Sie nennen es "die Aufgehende Sonne" - Für
+    viele arme Kerle war’s der Untergang - ich weiß wovon sie reden - denn einer
+    von ihnen bin ich - Meine Mutter war eine Schneiderin - Sie hat meine neue
+    Blue Jeans genäht - Mein Vater war ein Spieler - unten in New Orleans
 
 
 
