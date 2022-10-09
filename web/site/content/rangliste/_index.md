@@ -17,8 +17,8 @@ song:
     Orleans - das Einzige was ein Spieler braucht - ist ein Koffer für das
     Nötigste - und das Einzige was ihn glücklich macht - ist - wenn er völlig
     betrunken ist - Oh Mutter - sag deinen Kindern - dass sie nicht tun sollen -
-    was ich getan habe - Ihr Leben in Sünde und Elend zu verbringen - im „Haus
-    der Aufgehenden Sonne" - Ich stehe mit einem Fuß auf dem Bahnsteig - Mit dem
+    was ich getan habe - Ihr Leben in Sünde und Elend zu leben - im „Haus der
+    Aufgehenden Sonne" - Ich stehe mit einem Fuß auf dem Bahnsteig - Mit dem
     anderen bereits im Zug - Ich gehe zurück nach New Orleans - Es gibt dort ein
     altes Haus - Sie nennen es "die Aufgehende Sonne" - Es war der Untergang für
     viele arme Kerle - ich weiß es - denn ich bin einer von ihnen'
