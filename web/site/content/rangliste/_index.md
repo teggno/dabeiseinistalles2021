@@ -26,6 +26,6 @@ song:
     selbst die  Nächte im fernen Amerika - Er drehte sich um und sah sein ganzes
     Leben vorbeiziehen- Am liebsten hätte er gewollt - dass sein Leben jetzt
     endet -  überwältigt von der Szenerie stimmte er nochmal ein in sein
-    Lied  🎶 te voglio bene sai- ma tanto tanto bene sai"
+    Lied  🎶 te voglio bene assai- ma tanto tanto bene sai"
 type: rangliste
 ---
