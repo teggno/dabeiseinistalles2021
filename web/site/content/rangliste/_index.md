@@ -24,9 +24,9 @@ song:
     das Meer - sah ihre Tränen - und er glaubte zu ertrinken  - er versuchte
     seine Gedanken -  die so in Aufruhr waren zu ordnen  - alles erschien ihm
     plötzlich so armselig und klein - selbst die  Nächte im fernen Amerika - Er
-    drehte sich um - sah sein ganzes Leben vorbeiziehen - und wünschte sich -
-    dass es in diesem Augenblick enden würde -  Überwältigt von der Szenerie
-    stimmte er nochmals ein in sein Lied  🎶  te voglio bene assai -  ma tanto
-    tanto bene sai"
+    drehte sich um - sah sein kurzes Leben an sich vorbeiziehen - und wünschte
+    sich - dass es in diesem Augenblick vorbeisein würde -  Überwältigt von der
+    Szenerie stimmte er nochmals ein in sein Lied  🎶  te voglio bene assai
+    -  ma tanto tanto bene sai"
 type: rangliste
 ---
