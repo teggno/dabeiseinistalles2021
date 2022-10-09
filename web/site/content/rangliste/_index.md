@@ -17,16 +17,16 @@ song:
     lieb - so sehr - dass das Blut in meinen Adern schmilzt - Er sah hinaus
     auf’s Meer - die vielen Lichter erinnerten ihn an die Nächte im fernen
     Amerika - doch es war nur das Nachtleuchten im weißen Kielwasser einer
-    Schiffsschraube - Er fühlte diesen Schmerz  den nur die Musik hervorrufen
-    kann  - sah zum Himmel hinauf  -  wo der Mond gerade hinter einer Wolke
-    hervorblickte - und plötzlich flösste ihm selbst der Tod keine Angst mehr
-    ein - Er sah in die Augen der jungen Frau - diese Augen die so grün waren
-    wie das Meer - sah ihre Tränen - und er glaubte zu ertrinken  - er versuchte
-    seine Gedanken die so in Aufruhr waren zu ordnen  - alles erschien ihm
+    Schiffsschraube - Er fühlte diesen Schmerz  - den nur die Musik im Stande
+    ist hervorzurufen - er sah zum Himmel hinauf  -  wo der Mond gerade hinter
+    einer Wolke hervorblickte - und plötzlich flösste ihm selbst der Tod keine
+    Angst mehr ein - Er sah in die Augen der jungen Frau - die so grün waren wie
+    das Meer - sah ihre Tränen - und er glaubte zu ertrinken  - er versuchte
+    seine Gedanken -  die so in Aufruhr waren zu ordnen  - alles erschien ihm
     plötzlich so armselig und klein - selbst die  Nächte im fernen Amerika - Er
-    drehte sich um und sah sein ganzes Leben vorbeiziehen - Er wünschte sich -
+    drehte sich um und sah sein ganzes Leben vorbeiziehen - und wünschte sich -
     dass es in diesem Augenblick enden würde -  Überwältigt von der Szenerie
-    stimmte er nochmal ein in sein Lied  🎶 te voglio bene assai- ma tanto tanto
-    bene sai"
+    stimmte er nochmals ein in sein Lied  🎶  te voglio bene assai -  ma tanto
+    tanto bene sai"
 type: rangliste
 ---
