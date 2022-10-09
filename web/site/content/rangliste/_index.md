@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: true
 placeholder: "\n\n\n\n\n"
 song:
-  title: "RAFFI‘S 🎸JUKEBOX - The Animals  ▶️  The House of the rising sun "
-  url: https://www.youtube.com/watch?v=0Z_H6PI6Z28
+  title: RAFFI‘S 🎸JUKEBOX - The Animals  ▶️  The House of the Rising Sun
+  url: https://www.youtube.com/watch?v=4-43lLKaqBQ
   image: img/jukebox.jpg
   description: >-
     Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz wortgetreu
