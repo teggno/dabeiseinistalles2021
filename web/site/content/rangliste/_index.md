@@ -13,18 +13,10 @@ song:
     - aber fast 😎 Heute: THE ANIMALS - THE HOUSE OF THE RISING SUN ☀️  In New
     Orleans steht ein altes Haus - Sie nennen es "die Aufgehende Sonne" - Für
     viele arme Kerle war’s der Untergang - ich weiß wovon sie reden - denn einer
-    von ihnen bin ich - Meine Mutter war eine Schneiderin - Sie hat meine neue
-    Blue Jeans genäht - Mein Vater war ein Spieler - unten in New Orleans
-
-
-
-    Nun, das Einzige, was ein Spieler braucht
-
-    Ist ein Handkoffer und ein Schrankkoffer
-
-    Und das Einzige, was ihn zufrieden macht,
-
-    Ist, wenn er völlig betrunken ist
+    von ihnen bin ich - Meine Mutter war eine Schneiderin - Sie hat mir meine
+    neue Blue Jeans genäht - Mein Vater war ein Spieler - unten in New Orleans -
+    Nun - das Einzige was ein Spieler braucht - ist ein Koffer für das Nötigste
+    - und das Einzige was ihn glücklich macht - ist wenn er völlig betrunken ist
 
 
     Oh Mutter, sag deinen Kindern
