@@ -15,7 +15,7 @@ song:
     - denn einer von ihnen bin ich - Meine Mutter war Schneiderin - Sie hat mir
     meine neue Blue Jeans genäht - Mein Vater war ein Spieler - unten in New
     Orleans - das Einzige was ein Spieler braucht - ist ein Koffer für das
-    Nötigste - und das Einzige was ihn glücklich macht - ist wenn er völlig
+    Nötigste - und das Einzige was ihn glücklich macht - ist - wenn er völlig
     betrunken ist - Oh Mutter - sag deinen Kindern - dass sie nicht tun sollen -
     was ich getan habe - Ihr Leben in Sünde und Elend zu verbringen - im „Haus
     der Aufgehenden Sonne" - Ich stehe mit einem Fuß auf dem Bahnsteig - Mit dem
