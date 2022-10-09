@@ -14,7 +14,7 @@ song:
     das Meer funkelt und der Sturm heranzieht - lässt eine junge Frau ihren
     Gefühlen freien Lauf - Nachdem sie aufgehört hat zu weinen - schliesst sie
     der junge Mann in seine Arme und tröstet sie mit diesem Lied: Ich hab dich
-    lieb - so sehr - dass das Blut in meinen Adern  zu kochen beginnt - er sah
+    lieb - so sehr - dass das Blut in meinen Adern  zu kochen beginnt - Er sah
     hinaus auf’s Meer - die vielen Lichter erinnerten ihn an die Nächte im
     fernen Amerika - doch es war nur das Nachtleuchten im weißen Kielwasser
     einer Schiffsschraube - Er fühlte diesen Schmerz  den nur die Musik
