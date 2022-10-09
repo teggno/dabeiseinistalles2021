@@ -24,8 +24,8 @@ song:
     grün waren wie das Meer - sah ihre Tränen - und er glaubte zu ertrinken  -
     er versuchte seine Gedanken die so in Aufruhr waren zu ordnen  - alles
     erschien ihm plötzlich so armselig und klein - selbst die  Nächte im fernen
-    Amerika - Er drehte sich um und sah sein ganzes Leben vorbeiziehen- Er
-    wünschte sich - dass es in diesem Augenblick enden würde -  überwältigt von
+    Amerika - Er drehte sich um und sah sein ganzes Leben vorbeiziehen - Er
+    wünschte sich - dass es in diesem Augenblick enden würde -  Überwältigt von
     der Szenerie stimmte er nochmal ein in sein Lied  🎶 te voglio bene assai-
     ma tanto tanto bene sai"
 type: rangliste
