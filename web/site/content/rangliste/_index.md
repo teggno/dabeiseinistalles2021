@@ -13,7 +13,7 @@ song:
     Hier - auf einer alten Terrasse - hoch oben über dem Golf von Sorrent - wo
     das Meer funkelt und der Sturm heranzieht - lässt eine junge Frau ihren
     Gefühlen freien Lauf - Nachdem sie aufgehört hat zu weinen - schliesst sie
-    der junge Mann in seine Arme und tröstet sie mit diesem Lied: Ich hab dich
+    der junge Mann in seine Arme und tröstet sie mit diesem Lied 🥰 Ich hab dich
     lieb - so sehr - dass das Blut in meinen Adern schmilzt - Er sah hinaus
     auf’s Meer - die vielen Lichter erinnerten ihn an die Nächte im fernen
     Amerika - doch es war nur das Nachtleuchten im weißen Kielwasser einer
