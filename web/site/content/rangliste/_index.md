@@ -14,35 +14,16 @@ song:
     Orleans steht ein altes Haus - Sie nennen es "die Aufgehende Sonne" - Für
     viele arme Kerle war’s der Untergang - ich weiß wovon sie reden - denn einer
     von ihnen bin ich - Meine Mutter war Schneiderin - Sie hat mir meine neue
-    Blue Jeans genäht - Mein Vater war ein Spieler - unten in New Orleans - Nun
-    - das Einzige was ein Spieler braucht - ist ein Koffer für das Nötigste -
-    und das Einzige was ihn glücklich macht - ist wenn er völlig betrunken ist
+    Blue Jeans genäht - Mein Vater war ein Spieler - unten in New Orleans - das
+    Einzige was ein Spieler braucht - ist ein Koffer für das Nötigste - und das
+    Einzige was ihn glücklich macht - ist wenn er völlig betrunken ist - Oh
+    Mutter - sag deinen Kindern - dass sie nicht tun sollen - was ich getan habe
+    - Ihr Leben in Sünde und Elend zu verbringen - im „Haus der Aufgehenden
+    Sonne" - Ich stehe mit einem Fuß auf dem Bahnsteig - Mit dem anderen Fuß
+    bereits im Zug - Ich gehe zurück nach New Orleans - um diese Kugel und Kette
+    zu tragen - Es gibt ein Haus in New Orleans - Sie nennen es "die Aufgehende
+    Sonne"
 
-
-    Oh Mutter, sag deinen Kindern
-
-    Dass sie nicht tun sollen, was ich getan habe
-
-    Ihr Leben in Sünde und Elend verbringen
-
-    Im "Haus der Aufgehenden Sonne"
-
-
-    Nun, ich stehe mit einem Fuß auf dem Bahnsteig
-
-    Mit dem anderen Fuß im Zug
-
-    Ich gehe zurück nach New Orleans
-
-    Um diese Kugel und Kette zu tragen
-
-
-    Nun, es gibt ein Haus in New Orleans
-
-    Sie nennen es "die Aufgehende Sonne"
-
-    Es war der Untergang für viele arme Kerle
-
-    Bei Gott, ich weiß, ich bin einer von ihnen
+    Es war der Untergang für viele arme Kerle - ich weiß es - denn ich bin einer von ihnen
 type: rangliste
 ---
