@@ -10,38 +10,13 @@ song:
   image: img/jukebox.jpg
   description: >-
     Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz wortgetreu
-    - aber fast 😎 Heute: LUCIO DALLA & LUCIANO PAVAROTTI - CARUSO 🌊 Hier, wo
-    das Meer funkelt
-
-    und der Wind stark weht,
-
-    auf einer alten Terasse,
-
-    vor dem Golf von Sorrent,
-
-    umarmt ein Mann eine junge Frau
-
-    nachdem sie geweint hatte.
-
-    Dann räuspert er sich
-
-    und beginnt wieder das Lied:
-
-    "Ich habe dich lieb so sehr,
-
-    aber dermaßen dermaßen lieb, weißt.
-
-    Es ist soweit eine Kette,
-
-    die das Blut in den Adern löst,
-
-    weißt du."
-
-    Er sah die Lichter mitten im Meere
-
-    und dachte an die Nächte; dort in Amerika.
-
-    Aber es waren nur die Nachtleuchten
+    - aber fast 😎 Heute: LUCIO DALLA & LUCIANO PAVAROTTI - CARUSO 🌊 Hier - auf
+    einer alten Terrasse - hoch oben über dem Golfo di Sorrento - wo das Meer
+    funkelt und der Sturm heranzieht - schliesst ein Mann eine junge Frau in
+    seine Arme - nachdem sie geweint hatte - und versucht sie mit diesem Lied zu
+    trösten: "Ich hab dich so sehr lieb - weisst du - es ist als ob eine Kette
+    das Blut in meinen Adern löste - Er sah die vielen Lichter mitten im Meer -
+    und dachte an die Nächte im fernen Amerika - doch es war nur das Nachtleu
 
     im weißen Kielwasser einer Schiffsschraube.
 
