@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "\n\n\n\n\n"
 song:
-  title: RAFFI‘S 🎸JUKEBOX - The Animals  ▶️  The House of the Rising Sun
+  title: RAFFI‘S 🎸JUKEBOX - Gianluca Grignani  ▶️  La mia storia tra le dita
   url: ""
   image: img/jukebox.jpg
   description: "Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz
