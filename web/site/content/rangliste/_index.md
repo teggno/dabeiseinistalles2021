@@ -13,48 +13,14 @@ song:
     - aber fast 😎 Heute: GIANLUCA GRIGNANI -  LA MIA STORIA TRA LE DITA 💌 Du
     weißt was ich denke - mit dir zusammen gewesen zu sein - war nicht sinnlos -
     auch wenn du jetzt für immer gehst  - aber ja - ich weiß es - du weißt es -
-    es ist besser so - bleib wenigstens noch heute abend hier - du kannst dir
-    sicher sein - ich werde es schon nicht versuchen - weisst du - ich kenne
-    dieses lächeln - wenn du alles schon entschieden hast - als wir uns
-    kennenlernten - öffnete sich bei diesem Lächeln das paradies - ein
-    Sprichwort sagt - dass es für jede Frau auf dieser Welt 🌎 den passenden
-    Mann - ok - du findest bestimmt gibt
-
-    es für jeden ma
-
-    aber dieses mal schlägst du die augen nieder und sagst,
-
-    wir werden immer gute freunde bleiben
-
-    verdammt, was für gute freunde..
-
-    einem freund verzeihe ich es
-
-    aber dich liebe ich.
-
-    es kann dir banal vorkommen
-
-    aber es ist ein natürlicher instinkt.
-
-
-    aber da gibt es eine sache
-
-    die ich dir nie gesagt habe,
-
-    meine probleme ohne dich
-
-    nennen sich unglück.
-
-    und deshalb
-
-    siehst du mich den harten (kerl) machenmitten in der welt
-
-    um mich sicherer zu fühlen.
-
-
-    und wenn du mir wirklich nicht sagen willst
-
-    dass ich einen fehler gemacht habe.
+    es ist besser so - bleib wenigstens noch diese Nacht bei mir - du kannst dir
+    sicher sein - ich werde es schon nicht versuchen 🙈 weisst du - ich kenne
+    dein Lächeln - wenn du alles schon entschieden hast - Ein Sprichwort besagt
+    - dass es für jede Frau auf dieser Welt 🌎 den passenden Mann - du hattest
+    ihn gefunden - doch ich war dir nicht gut genug - wir werden immer gute
+    freunde bleiben -  ich kenne den Satz - mach mir den Gefallen und behalte
+    ihn bitte für dich - ich liebe dich noch immer - und wenn du mir wirklich
+    nicht sagen willst - dass ich einen fehler gemacht habe.
 
     denk dran, einem mann kann manchmal
 
@@ -83,44 +49,6 @@ song:
 
     um eine explosion in mir drin zu unterdrücken,
 
-    ohne gross über worte nachzudenken
-
-    ich werde über dieses lächeln sprechen,
-
-    von der die (sich) schon entschieden hat.
-
-    dieses lächeln dass mir schon einmal
-
-    das paradies geöffnet hat.
-
-
-    aber da gibt es eine sache
-
-    die ich dir nie gesagt habe,
-
-    meine probleme ohne dich
-
-    nennen sich unglück.
-
-    und deshalb
-
-    siehst du mich den harten (kerl) machenmitten in der welt
-
-    um mich sicherer zu fühlen.
-
-
-    und wenn du mir wirklich nicht sagen willst
-
-    dass ich einen fehler gemacht habe.
-
-    denk dran, einem mann kann manchmal
-
-    auch verziehen werden.
-
-    aber unterdessen du
-
-    du läßt mir keinen ausweg
-
-    und du gehst mit meiner geschichte in deinen händen.(zwischen deinen fingern)
+    ohne gross über worte 
 type: rangliste
 ---
