@@ -11,45 +11,16 @@ song:
   description: >-
     Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz wortgetreu
     - aber fast 😎 Heute: GIANLUCA GRIGNANI -  LA MIA STORIA TRA LE DITA 💌 Du
-    weißt, dass ich denke,
+    weißt was ich denke - mit dir zusammen gewesen zu sein - war nicht sinnlos -
+    auch wenn du jetzt für immer gehst  - aber ja - ich weiß es - du weißt es -
+    es ist besser so - bleib wenigstens noch heute abend hier - du kannst dir
+    sicher sein - ich werde es schon nicht versuchen - weisst du - ich kenne
+    dieses lächeln - wenn du alles schon entschieden hast - als wir uns
+    kennenlernten - öffnete sich bei diesem Lächeln das paradies - ein
+    Sprichwort sagt - dass es für jede Frau auf dieser Welt 🌎 den passenden
+    Mann - ok - du findest bestimmt gibt
 
-    dass es nicht sinnlos war
-
-    mit dir zusammen (gewesen) zu sein.
-
-    ok, du gehst
-
-    eine streitbare entscheidung
-
-    aber ja, ich weiß es,, du weißt es.
-
-    bleib wenigstens für heute abend hier
-
-    aber sei dir sicher dass ich es nicht versuchen werde.
-
-    es kann sein, dass ich mich schon zu einsam fühlte
-
-    denn ich kenne dieses lächeln
-
-    von der die (sich) schon entschieden hat.
-
-    dieses lächeln hat mir schon einmal
-
-    das paradies geöffnet.
-
-
-
-    man sagt dass
-
-    es für jeden mann
-
-    eine so wie dich gibt.
-
-    also, wirst du an meiner stelle
-
-    einen anderen finden,
-
-    gleich, nein das glaub ich nicht.
+    es für jeden ma
 
     aber dieses mal schlägst du die augen nieder und sagst,
 
