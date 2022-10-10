@@ -20,35 +20,19 @@ song:
     ihn gefunden - doch ich war dir nicht gut genug - wir werden immer gute
     freunde bleiben -  ich kenne den Satz - mach mir den Gefallen und behalte
     ihn bitte für dich - ich liebe dich noch immer - und wenn du mir wirklich
-    nicht sagen willst - dass ich einen fehler gemacht habe.
+    nicht sagen willst - dass ich einen fehler gemacht habe - denke daran - man
+    kann auch mal verzeihen - doch ich weiss - du willst mir keinen Ausweg
+    lassen und nimmst sie mit unsere Liebesgeschichte (zwischen deinen
+    fingern)was machst du nun?
 
-    denk dran, einem mann kann manchmal
+    du suchst eine ausrede wenn du gehen willst.. geh´.du brauchst dir
 
-    auch verziehen werden.
-
-    aber unterdessen du
-
-    du läßt mir keinen ausweg
-
-    und du gehst mit meiner geschichte in deinen händen.(zwischen deinen fingern)
-
-
-    was machst du nun?
-
-    du suchst eine ausrede
-
-    wenn du gehen willst.. geh´.
-
-    du brauchst dir
-
-    wegen mir keine sorgen zu machen
-
-    ich werd´ es überleben-
+    wegen mir keine sorgen zu machenich werd´ es überleben-
 
     heute abend werde ich ein lied schreiben
 
     um eine explosion in mir drin zu unterdrücken,
 
-    ohne gross über worte 
+    ohne gross über worte über uns zu. Verlieren
 type: rangliste
 ---
