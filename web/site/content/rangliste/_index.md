@@ -6,7 +6,7 @@ showPlaceholder: true
 placeholder: "\n\n\n\n\n"
 song:
   title: RAFFI‘S 🎸JUKEBOX - Gianluca Grignani  ▶️  La mia storia tra le dita
-  url: ""
+  url: https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi3huz6o9X6AhU-xgIHHWJuCuQQyCl6BAgXEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEoXWcRXTWxE&usg=AOvVaw1f-Un6pG3SuQhvXVb1S5vb
   image: img/jukebox.jpg
   description: >-
     Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz wortgetreu
