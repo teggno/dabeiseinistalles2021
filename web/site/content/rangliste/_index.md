@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=EoXWcRXTWxE
   image: img/jukebox.jpg
   description: "Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz
-    wortgetreu - aber fast 😎 Heute: GIANLUCA GRIGNANI -  LA MIA STORIA TRA LE
+    wortgetreu - aber fast 😎 Heute: GIANLUCA GRIGNANI - LA MIA STORIA TRA LE
     DITA 💌 Du weißt was ich denke - mit dir zusammen gewesen zu sein - war gar
     nicht sinnlos - auch wenn du jetzt für immer gehst  - aber ja - ich weiß es
     - du weißt es - es ist besser so - bleib wenigstens noch diese Nacht - du
