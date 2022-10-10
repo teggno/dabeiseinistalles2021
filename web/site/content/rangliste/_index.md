@@ -10,11 +10,11 @@ song:
   image: img/jukebox.jpg
   description: "Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz
     wortgetreu - aber fast 😎 Heute: GIANLUCA GRIGNANI - LA MIA STORIA TRA LE
-    DITA 💌 Du weißt was ich denke - mit dir zusammen gewesen zu sein - war gar
-    nicht sinnlos - auch wenn du jetzt für immer gehst  - aber ja - ich weiß es
-    - du weißt es - es ist besser so - bleib wenigstens noch diese Nacht - du
-    kannst dir sicher sein - dass ich es nicht versuchen 🙈 werde -  weisst du -
-    ich kenne dein Lächeln - wenn du alles schon entschieden hast - Ein
+    DITA 💌 Du weißt wie ich darüber denke - mit dir zusammen gewesen zu sein -
+    war gar nicht sinnlos - auch wenn du jetzt für immer gehst  - aber ja - ich
+    weiß es - du weißt es - es ist besser so - bleib wenigstens noch diese Nacht
+    - du kannst dir sicher sein - dass ich es nicht versuchen 🙈 werde -  weisst
+    du - ich kenne dein Lächeln - wenn du alles schon entschieden hast - Ein
     Sprichwort besagt - dass es für jede Frau den passenden Mann gibt  - du
     hattest ihn gefunden - doch er war dir nicht gut genug -  jetzt kommt dieser
     Satz - den Frauen so gerne verwenden - wenn es vorbei ist - wir werden immer
