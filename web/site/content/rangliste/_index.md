@@ -16,7 +16,7 @@ song:
     versuchen 🙈 werde -  Weisst du - ich kenne dieses Lächeln - wenn du alles
     schon entschieden hast - Ein Sprichwort besagt - dass es für jede Frau den
     passenden Mann gibt  - du hattest ihn gefunden - doch er war dir nicht gut
-    genug  - wir werden immer gute Freunde bleiben - lass den Blödsinn -
+    genug  - Wir werden immer gute Freunde bleiben - lass den Blödsinn -
     Freunde❓ - ich liebe dich noch immer - Wenn du mir wenigstens sagen würdest
     -  welchen Fehler ich gemacht habe - denk dran - man kann auch mal verzeihen
     - doch ich weiss - du willst mir keine Chance geben und nimmst sie einfach
