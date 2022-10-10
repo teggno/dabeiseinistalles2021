@@ -10,7 +10,7 @@ song:
   image: img/jukebox.jpg
   description: "Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz
     wortgetreu - aber fast 😎 Heute: GIANLUCA GRIGNANI - LA MIA STORIA TRA LE
-    DITA 💌 Du weißt wie ich darüber denke - mit dir zusammen gewesen zu sein -
+    DITA 💌 Du weißt wie ich darüber denke - mit dir zusammen gewesen zu sein
     war nicht sinnlos - auch wenn du jetzt für immer gehst  - bleib wenigstens
     noch diese Nacht - du kannst dir sicher sein - dass ich es nicht versuchen
     🙈 werde -  weisst du - ich kenne dein Lächeln - wenn du alles schon
