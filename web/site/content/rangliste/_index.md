@@ -13,17 +13,16 @@ song:
     DITA 💌 Du weißt wie ich darüber denke - mit dir zusammen gewesen zu sein
     war nicht sinnlos - auch wenn du jetzt für immer gehst  - Bleib doch
     wenigstens noch diese Nacht - du kannst dir sicher sein - dass ich es nicht
-    versuchen 🙈 werde -  weisst du - ich kenne dein Lächeln - wenn du alles
+    versuchen 🙈 werde -  Weisst du - ich kenne dieses Lächeln - wenn du alles
     schon entschieden hast - Ein Sprichwort besagt - dass es für jede Frau den
     passenden Mann gibt  - du hattest ihn gefunden - doch er war dir nicht gut
     genug  - wir werden immer gute Freunde bleiben - lass den Blödsinn -
     Freunde❓ - ich liebe dich noch immer - Wenn du mir wenigstens sagen würdest
     -  welchen Fehler ich gemacht habe - denk dran - man kann auch mal verzeihen
     - doch ich weiss - du willst mir keine Chance geben und nimmst sie einfach
-    mit „la nostra storia tra le dita“ - Was machst du nun - such doch keine
-    ausrede  - wenn du gehen willst - geh - mach dir keine Sorgen - ich werd’s
-    schon überleben - heute abend werde ich ein lied schreiben um alles zu
-    vergessen - ob ich es schaffe - weiss ich nicht - denn ich liebe dich noch
-    immer "
+    mit „la mia storia tra le dita“ - Was machst du nun❓such bitte keine
+    Ausrede  - wenn du gehen willst - geh - mach dir keine Sorgen - ich werd’s
+    schon überleben - heute Abend schreibe ich ein Lied um alles zu vergessen -
+    ob ich es schaffe - weiss ich nicht - denn ich liebe dich noch immer "
 type: rangliste
 ---
