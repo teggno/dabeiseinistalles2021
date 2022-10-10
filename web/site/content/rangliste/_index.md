@@ -20,11 +20,10 @@ song:
     Freunde❓ - ich liebe dich noch immer - Wenn du mir wenigstens sagen würdest
     -  welchen Fehler ich gemacht habe - denk dran - man kann auch mal verzeihen
     - doch ich weiss - du willst mir keine Chance geben und nimmst sie einfach
-    mit - unsere Liebesgeschichte zwischen deinen fingern - Was machst du nun -
-    such doch keine ausrede  - wenn du gehen willst - geh - mach dir keine
-    Sorgen - ich werd’s schon überleben - heute abend werde ich ein lied
-    schreiben um alles zu vergessen - ohne gross Worte zu verlieren über dich
-    und mich - ob ich es schaffe weiss ich nicht - denn ich liebe dich noch
+    mit „la nostra storia tra le dita“ - Was machst du nun - such doch keine
+    ausrede  - wenn du gehen willst - geh - mach dir keine Sorgen - ich werd’s
+    schon überleben - heute abend werde ich ein lied schreiben um alles zu
+    vergessen - ob ich es schaffe weiss ich nicht - denn ich liebe dich noch
     immer "
 type: rangliste
 ---
