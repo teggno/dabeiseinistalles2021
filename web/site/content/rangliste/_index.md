@@ -8,31 +8,24 @@ song:
   title: RAFFI‘S 🎸JUKEBOX - Gianluca Grignani  ▶️  La mia storia tra le dita
   url: https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi3huz6o9X6AhU-xgIHHWJuCuQQyCl6BAgXEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEoXWcRXTWxE&usg=AOvVaw1f-Un6pG3SuQhvXVb1S5vb
   image: img/jukebox.jpg
-  description: >-
-    Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz wortgetreu
-    - aber fast 😎 Heute: GIANLUCA GRIGNANI -  LA MIA STORIA TRA LE DITA 💌 Du
-    weißt was ich denke - mit dir zusammen gewesen zu sein - war nicht sinnlos -
-    auch wenn du jetzt für immer gehst  - aber ja - ich weiß es - du weißt es -
-    es ist besser so - bleib wenigstens noch diese Nacht bei mir - du kannst dir
-    sicher sein - ich werde es schon nicht versuchen 🙈 weisst du - ich kenne
-    dein Lächeln - wenn du alles schon entschieden hast - Ein Sprichwort besagt
-    - dass es für jede Frau auf dieser Welt 🌎 den passenden Mann - du hattest
-    ihn gefunden - doch ich war dir nicht gut genug - wir werden immer gute
-    freunde bleiben -  ich kenne den Satz - mach mir den Gefallen und behalte
-    ihn bitte für dich - ich liebe dich noch immer - und wenn du mir wirklich
-    nicht sagen willst - dass ich einen fehler gemacht habe - denke daran - man
-    kann auch mal verzeihen - doch ich weiss - du willst mir keinen Ausweg
-    lassen und nimmst sie mit unsere Liebesgeschichte (zwischen deinen
-    fingern)was machst du nun?
-
-    du suchst eine ausrede wenn du gehen willst.. geh´.du brauchst dir
-
-    wegen mir keine sorgen zu machenich werd´ es überleben-
-
-    heute abend werde ich ein lied schreiben
-
-    um eine explosion in mir drin zu unterdrücken,
-
-    ohne gross über worte über uns zu. Verlieren
+  description: "Jeden Tag ein neuer Song 🎆 mit deutscher Übersetzung! Nicht ganz
+    wortgetreu - aber fast 😎 Heute: GIANLUCA GRIGNANI -  LA MIA STORIA TRA LE
+    DITA 💌 Du weißt was ich denke - mit dir zusammen gewesen zu sein - war gar
+    nicht sinnlos - auch wenn du jetzt für immer gehst  - aber ja - ich weiß es
+    - du weißt es - es ist besser so - bleib wenigstens noch diese Nacht - du
+    kannst dir sicher sein - dass ich es nicht versuchen 🙈 werde -  weisst du -
+    ich kenne dein Lächeln - wenn du alles schon entschieden hast - Ein
+    Sprichwort besagt - dass es für jede Frau den passenden Mann gibt  - du
+    hattest ihn gefunden - doch er war dir nicht gut genug -  jetzt kommt dieser
+    Satz - den Frauen so gerne verwenden - wenn es vorbei ist - wir werden immer
+    gute freunde bleiben - mach mir doch den Gefallen und behalte ihn bitte für
+    dich - ich liebe dich noch immer - und wenn du mir wirklich nicht sagen
+    willst - dass ich einen fehler gemacht habe - denke daran - man kann auch
+    mal verzeihen - doch ich weiss - du willst mir keinen Ausweg lassen und
+    nimmst sie mit unsere Liebesgeschichte (zwischen deinen fingern) - was
+    machst du nun - such doch keine ausrede  - wenn du gehen willst geh - mach
+    dir keine Sorgen - ich werde es überleben - heute abend werde ich ein lied
+    schreiben um alles zu vergessen - ohne Worte zu verlieren über dich und mich
+    - ob ich es schaffe weiss ich nicht - denn ich liebe dich noch immer "
 type: rangliste
 ---
