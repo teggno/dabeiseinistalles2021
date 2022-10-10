@@ -20,7 +20,7 @@ song:
     Freunde❓ - ich liebe dich noch immer - Wenn du mir wenigstens sagen würdest
     -  welchen Fehler ich gemacht habe - denk dran - man kann auch mal verzeihen
     - doch ich weiss - du willst mir keine Chance geben und nimmst sie einfach
-    mit „la mia storia tra le dita“ - Was machst du nun❓such bitte keine
+    mit „la nostra storia tra le dita“ - Was machst du nun❓such bitte keine
     Ausrede  - wenn du gehen willst - geh - mach dir keine Sorgen - ich werd’s
     schon überleben - heute Abend schreibe ich ein Lied um alles zu vergessen -
     ob ich es schaffe - weiss ich nicht - denn ich liebe dich noch immer "
