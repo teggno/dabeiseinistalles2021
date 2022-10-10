@@ -23,7 +23,7 @@ song:
     mit „la nostra storia tra le dita“ - Was machst du nun - such doch keine
     ausrede  - wenn du gehen willst - geh - mach dir keine Sorgen - ich werd’s
     schon überleben - heute abend werde ich ein lied schreiben um alles zu
-    vergessen - ob ich es schaffe weiss ich nicht - denn ich liebe dich noch
+    vergessen - ob ich es schaffe - weiss ich nicht - denn ich liebe dich noch
     immer "
 type: rangliste
 ---
