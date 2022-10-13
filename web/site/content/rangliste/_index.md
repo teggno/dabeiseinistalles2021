@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n"
 song:
-  title: RAFFI‘S  🎸 JUKEBOX  🎶🎶🎶  ▶️  🎶🎶🎶
+  title: RAFFI‘S  🎸 JUKEBOX 🌑  THE DOORS  ▶️  SEVERED GARDEN
   url: https://www.youtube.com/watch?v=MEHL9Dl5LAg
   image: img/jukebox.jpg
   description: >+
