@@ -11,7 +11,7 @@ song:
   description: >+
     Der Tod kommt zu einer seltsamen Stunde - Unangekündigt und ungeplant - Wie
     ein erschreckender überfreundlicher Gast - den du ins Bett gebracht hast -
-    Der Tod macht Engel aus uns allen - und gibt uns Flügel -Kein Geld mehr und
+    Der Tod macht Engel aus uns allen - und gibt uns Flügel - Kein Geld mehr und
     kein schickes Kleid - Dieses andere Reich scheint bei weitem das Beste zu
     sein
 
