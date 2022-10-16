@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n"
 song:
-  title: Raffi‘s Jukebox 🎸
+  title: "Raffi‘s 🎸Jukebox "
   url: ""
   image: img/jukebox.jpg
   description: "\n\n"
