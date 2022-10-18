@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n"
 song:
-  title: "🔌 Jukebox nicht mehr in Betrieb "
+  title: Die Jukebox ist nicht mehr in Betrieb 🔌
   url: ""
   image: img/jukebox.jpg
   description: "\n\n"
