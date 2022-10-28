@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2022-08-02T17:47:58.670Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: |+
   Diese Seite ist nicht mehr verfügbar 
 
