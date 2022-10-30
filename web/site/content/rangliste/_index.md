@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n"
 song:
-  title: "Die Seite ist nicht mehr verfügbar "
+  title: "Diese Seite ist nicht mehr verfügbar "
   url: ""
   image: img/jukebox.jpg
   description: "\n\n"
