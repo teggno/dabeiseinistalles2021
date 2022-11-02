@@ -17,6 +17,6 @@ noch heute wenn er dran denkt wird er ganz verrückt
 
 ich werde jene Stunden niemals vergessen
 
-ein Glück für uns beide - haben wir siie -.besessen
+ein Glück für uns beide - haben wir sie besessen
 
 💋
