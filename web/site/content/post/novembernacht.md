@@ -6,13 +6,13 @@ image: img/42920d69-02a3-46cb-bb24-e4f6a7c0fa7d.jpeg
 ---
 Weisst du noch vor zwei Jahren in jener verrückten Nacht
 
-unser Begehren so heftig - abends um zehn bis morgens um acht 🙈
+von abends um zehn - bis morgens um acht 🙈
 
-avevi la figetta bagnata - vor lauter masturbieren
+La tua figetta bagnata - vor lauter masturbieren
 
-und mein Schwanz war bereit - dich zu penetrieren 
+und mein Schwanz vor Begierde nur am vibrieren 
 
-von hinten hat es dich stets am meisten beglückt
+von hinten warst du stets am meisten beglückt
 
 wenn er heute noch dran denkt - spielt er verrückt
 
