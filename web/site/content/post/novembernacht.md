@@ -15,8 +15,8 @@ von hinten hat es dich stets am meisten beglückt
 
 noch heute wenn er dran denkt wird er verrückt
 
-ich werde diese Stunden niemals vergessen
+ich werde jene Stunden niemals vergessen
 
-ein Glück für uns beide - haben wir sie….besessen.
+ein Glück für uns beide - haben wir siie -.besessen
 
 💋
