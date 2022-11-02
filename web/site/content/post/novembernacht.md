@@ -6,11 +6,11 @@ image: img/42920d69-02a3-46cb-bb24-e4f6a7c0fa7d.jpeg
 ---
 Weisst du noch vor zwei Jahren in jener verrückten Nacht
 
-unser Begehren so heftig - von zehn abends bis morgens um acht 🙈
+unser Begehren so heftig - abends um zehn bis morgens um acht 🙈
 
 avevi la figetta bagnata - vor lauter masturbieren
 
-und ich einen prallen Schwanz um dich zu penetrieren 
+und mein Schwanz war bereit - dich zu penetrieren 
 
 von hinten hat es dich stets am meisten beglückt
 
