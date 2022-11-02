@@ -14,7 +14,7 @@ und ich einen prallen Schwanz um dich zu penetrieren
 
 von hinten hat es dich stets am meisten beglückt
 
-noch heute wenn ER dran denkt - spielt er ganz verrückt
+wenn er heute noch dran denkt - spielt er ganz verrückt
 
 Jene Stunden tesoro - werde ich niemals vergessen
 
