@@ -1,13 +1,14 @@
 ---
-title: Quella notte di novembre
+title: "Momenti "
 draft: true
 date: 2022-11-02T12:13:28.703Z
+image: img/42920d69-02a3-46cb-bb24-e4f6a7c0fa7d.jpeg
 ---
 Weisst du noch vor zwei Jahren in jener verrückten Nacht
 
-als wir uns begehrten von abends um zehn bis am Morgen  um acht 🙈
+ein endloses Begehren von abends um zehn bis am Morgen um acht 🙈
 
-avevi La figetta bagnata vor lauter masturbieren
+avevi la figetta bagnata vor lauter masturbieren
 
 und ich einen prallen Schwanz um dich zu penetrieren 
 
