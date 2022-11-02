@@ -13,7 +13,7 @@ und ich einen prallen Schwanz um dich zu penetrieren
 
 von hinten hat es dich stets am meisten beglückt
 
-noch heute wenn er dran denkt wird er verrückt
+noch heute wenn er dran denkt wird er ganz verrückt
 
 ich werde jene Stunden niemals vergessen
 
