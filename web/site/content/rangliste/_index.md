@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n"
 song:
-  title: Raffis Jukebox  🎸🎸🎸 Spezialausgabe
+  title: Raffis Jukebox  🎸 🎶🎶🎶
   url: https://www.youtube.com/watch?v=za05HBtGsgU
   image: img/jukebox.jpg
   description: >+
