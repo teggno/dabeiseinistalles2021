@@ -6,7 +6,7 @@ image: img/42920d69-02a3-46cb-bb24-e4f6a7c0fa7d.jpeg
 ---
 Weisst du noch vor zwei Jahren in jener verrückten Nacht
 
-unser Begehren so heftig - von zehn Uhr abends bis morgens um acht 🙈
+unser Begehren so heftig - von zehn am Abend bis am anderen Morgen um acht 🙈
 
 avevi la figetta bagnata - vor lauter masturbieren
 
@@ -14,7 +14,7 @@ und ich einen prallen Schwanz um dich zu penetrieren
 
 von hinten hat es dich stets am meisten beglückt
 
-wenn er heute noch dran denkt - spielt er ganz verrückt
+wenn er heute noch dran denkt - spielt er verrückt
 
 Jene Stunden tesoro - werde ich niemals vergessen
 
