@@ -9,7 +9,8 @@ song:
   url: https://www.youtube.com/watch?v=za05HBtGsgU
   image: img/jukebox.jpg
   description: >+
-    Zur Feier des Tages eine ziemlich indiskrete Frage 🙋🏼‍♀️ auf französisch
+    Zur Feier des Tages ein Lied aus dem Hause „ABBA“ mit einer höchst
+    indiskretenFrage  - und erst noch auf französisch 🙋🏼‍♀️
 
     Eine grosse Erwartung liegt in der Luft- Funken fliegen
 
