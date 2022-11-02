@@ -14,7 +14,7 @@ song:
 
     Eine grosse Erwartung liegt in der Luft - Funken fliegen
 
-    quer durch den Raum - deine Augen leuchten im Dunkeln - Und jetzt geht's wieder los - Wir wissen beid wie es beginnt und wo es endet - Hast du alles im Griff - Wir haben das alles schon erlebt und wollen jetzt noch mehr davon - du weisst schon was ich meine - Willst du? - Ergreif jetzt deine Chance oder vergiss es - Nur das Jetzt ist wichtig wie du immer sagst - Keine Versprechen und kein Bedauern - Willst du? Es ist eigentlich keine schwere Entscheidung - Du weißt was du tun mußt - Die Frage ist nur - möchtest du wirklich? - Ich weiß was du denkst - Siehst mächtig stolz aus in deinem „kleinen Schwarzen“ - Ich bin wirklich froh - daß du gekommen bist - Du kennst die Regeln - kennst das Spiel - Wir haben das alles schon erlebt und wollen jetzt noch mehr davon - Du weißt was ich meine  😎 ….
+    quer durch den Raum - deine Augen leuchten im Dunkeln - Und jetzt geht's wieder los - Wir wissen beide wie es beginnt und wo es endet - Hast du alles im Griff - Wir haben das alles schon erlebt und wollen jetzt noch mehr davon - du weisst schon was ich meine - Willst du? - Ergreif jetzt deine Chance oder vergiss es - Nur das Jetzt ist wichtig wie du immer sagst - Keine Versprechen und kein Bedauern - Willst du? Es ist eigentlich keine schwere Entscheidung - Du weißt was du tun mußt - Die Frage ist nur - möchtest du wirklich? - Ich weiß was du denkst - Siehst mächtig stolz aus in deinem „kleinen Schwarzen“ - Ich bin wirklich froh - daß du gekommen bist - Du kennst die Regeln - kennst das Spiel - Wir haben das alles schon erlebt und wollen jetzt noch mehr davon - Du weißt was ich meine  😎 ….
 
 
 type: rangliste
