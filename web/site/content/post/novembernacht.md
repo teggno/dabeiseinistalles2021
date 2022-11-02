@@ -16,7 +16,7 @@ von hinten hat es dich stets am meisten beglückt
 
 noch heute wenn er dran denkt - wird er verrückt
 
-ich werde jene Stunden niemals vergessen
+Jene Stunden tesoro - werde ich niemals vergessen
 
 ein Glück für uns beide - haben wir sie besessen
 
