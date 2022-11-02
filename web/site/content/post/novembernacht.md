@@ -1,5 +1,5 @@
 ---
-title: Novembernacht
+title: Quella notte di novembre
 draft: true
 date: 2022-11-02T12:13:28.703Z
 ---
