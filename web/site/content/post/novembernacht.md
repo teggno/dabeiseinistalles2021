@@ -5,7 +5,7 @@ date: 2022-11-02T12:13:28.703Z
 ---
 Weisst du noch vor zwei Jahren in jener verrückten Nacht
 
-als wir uns begehrten von abends um zehn bis morgens um acht 🙈
+als wir uns begehrten von abends um zehn bis am Morgen  um acht 🙈
 
 avevi La figetta bagnata vor lauter masturbieren
 
