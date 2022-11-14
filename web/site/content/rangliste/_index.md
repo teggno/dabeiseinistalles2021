@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n"
 song:
-  title: Auguri 🎶🎶🎶 ▶️ 🎈🎈🎈
-  url: https://www.youtube.com/watch?v=cO0teWvqVHY
+  title: "Diese Seite ist nicht mehr verfügbar "
+  url: ""
   image: img/jukebox.jpg
   description: "\n\n\n"
 type: rangliste
