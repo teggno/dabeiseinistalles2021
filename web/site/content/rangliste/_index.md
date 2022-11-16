@@ -4,12 +4,12 @@ date: 2022-09-25T18:06:33.974Z
 image: ""
 showPlaceholder: false
 placeholder: |+
-  
-  Yyy
+  Diese Seite ist nicht mehr verfügbar 
+
 
 
 song:
-  title: YB
+  title: "Diese Seite ist nicht mehr verfügbar "
   url: ""
   image: img/jukebox.jpg
   description: "\n\n\n"
