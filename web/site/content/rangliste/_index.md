@@ -3,7 +3,11 @@ title: Rangliste
 date: 2022-11-14T18:24:16.941Z
 image: ""
 showPlaceholder: false
-placeholder: "\n\n\n\n"
+placeholder: |+
+  🎈🎈🎈🎈
+
+
+
 song:
   title: 🎶🎶🎶  ▶️  🎈💫 🎆
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
