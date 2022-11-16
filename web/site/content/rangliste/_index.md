@@ -12,6 +12,9 @@ song:
   title: 🎶🎶🎶  ▶️  🎈💫 🎆
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
-  description: "\n\n\n"
+  description: |+
+    🎉🎉🎉
+
+
 type: rangliste
 ---
