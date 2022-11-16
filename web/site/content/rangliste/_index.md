@@ -2,15 +2,16 @@
 title: Rangliste
 date: 2022-09-25T18:06:33.974Z
 image: ""
-showPlaceholder: false
-placeholder: "\n\n\n\n"
+showPlaceholder: true
+placeholder: |+
+  
+  Yyy
+
+
 song:
-  title: A
+  title: YB
   url: ""
   image: img/jukebox.jpg
-  description: |+
-    Á
-
-
+  description: "\n\n\n"
 type: rangliste
 ---
