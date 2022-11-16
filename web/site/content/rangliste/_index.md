@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "\n\n\n\n"
 song:
-  title: 🎶🎶🎶 ▶️  🎈💫 🎆
+  title: 🎶🎶🎶  ▶️  🎈💫 🎆
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
   description: "\n\n\n"
