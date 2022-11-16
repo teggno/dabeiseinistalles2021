@@ -1,8 +1,8 @@
 ---
 title: Rangliste
-date: 2022-11-16T18:06:48.111Z
+date: 2022-11-16T18:23:15.452Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: "\n\n\n\n"
 song:
   title: 🎶🎶🎶  ▶️  🎈💫 🎆
