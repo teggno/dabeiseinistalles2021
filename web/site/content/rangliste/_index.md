@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2022-11-14T18:24:16.941Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: |+
   🎈🎈🎈🎈
 
