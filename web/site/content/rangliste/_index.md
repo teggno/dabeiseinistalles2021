@@ -9,7 +9,7 @@ placeholder: |+
 
 
 song:
-  title: Auguri  ▶️  🎉 🎈 🤔
+  title: Auguri  ▶️  🎉 📜 🎈
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
   description: "\n\n\n"
