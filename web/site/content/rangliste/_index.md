@@ -9,7 +9,7 @@ placeholder: |+
 
 
 song:
-  title: Mina  ▶️  🎉 📜 🎈
+  title: Mina‘s Number 1️⃣  🎉 📜 🎈
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
   description: ""
