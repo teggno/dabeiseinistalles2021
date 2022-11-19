@@ -10,7 +10,7 @@ placeholder: |+
 
 song:
   title: 🎶 🎶 🎶 ▶️ 🎉 ✍️ 🎈
-  url: https://www.youtube.com/watch?v=ItVjlRsa07Q
+  url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
   description: ""
 type: rangliste
