@@ -9,7 +9,7 @@ placeholder: |+
 
 
 song:
-  title: Mina‘s Number 1️⃣  🎉 📜 🎈
+  title: Mina‘s Number 1️⃣  Ancora 🎉 Ancora 🎈Ancora 📜
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
   description: ""
