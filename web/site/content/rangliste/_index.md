@@ -18,7 +18,7 @@ song:
     Siehst du denn nicht - du bist wie eine Sirene - doch das Meer liebst du
     nicht - Du weißt nicht was du tun sollst - ob leben oder sterben - Angel -
     er ist gegangen - und die Zeit ist für dich stehengeblieben - Angel - du
-    hast nicht verstanden - dass das Spiel vorbei war - Du - die du einst warst
+    hast nicht verstanden - dass das Spiel zu Ende war - Du - die du einst warst
     wie ein Stern - bist jetzt eine Rose ohne Dornen - Angel -  wirf dich nicht
     weg - tu dir nicht weh - es braucht nicht viel - um neu anzufangen - eine
     Minute vielleicht - um endlich erwachsen zu werden - 
