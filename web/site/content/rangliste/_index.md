@@ -9,7 +9,7 @@ placeholder: |+
 
 
 song:
-  title: 🎉 🎂 🎈  ▶️  2️⃣0️⃣1️⃣4️⃣1️⃣5️⃣1️⃣1️⃣2️⃣0️⃣
+  title: 🎉 🎂 🎈  ▶️  🤷‍♀️ 2️⃣0️⃣1️⃣4️⃣1️⃣5️⃣1️⃣1️⃣2️⃣0️⃣ 🙋‍♂️
   url: https://www.youtube.com/watch?v=cO0teWvqVHY
   image: img/jukebox.jpg
   description: "\n\n\n"
