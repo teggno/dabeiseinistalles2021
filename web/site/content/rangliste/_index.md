@@ -19,10 +19,10 @@ song:
     nicht - Du weißt nicht was du tun sollst - ob leben oder sterben - Angel -
     er ist gegangen - und die Zeit ist für dich stehengeblieben - Angel - du
     hast nicht verstanden - dass das Spiel vorbei war - Du - die du einst warst
-    wie ein Stern - bist jetzt eine Rose die nie verwelken darf - Tu dir nicht
-    weh - wirf dich nicht weg - es braucht nicht viel - um neu anzufangen - Eine
+    wie ein Stern - bist jetzt eine Rose ohne Dornen - Angel -  wirf dich nicht
+    weg - tu dir nicht weh - es braucht nicht viel - um neu anzufangen - eine
     Minute vielleicht - um endlich erwachsen zu werden - 
 
-    lass dich nicht gehen - du brauchst dich nicht zu ändern - Angel - niemand ist wie du - heute Nacht wirst du mein Engel sein
+    lass dich nicht gehen - du brauchst dich nicht zu ändern - niemand ist wie du - Angel - heute Nacht wirst du mein Engel sein
 type: rangliste
 ---
