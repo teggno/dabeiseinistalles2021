@@ -9,7 +9,7 @@ placeholder: |+
 
 
 song:
-  title: Adriano Celentano ▶️ Solo nei sogni 💫 esisti tu ✍️
+  title: Adriano Celentano ▶️ Solo nei sogni ✍️ esisti tu 💫
   url: https://www.youtube.com/watch?v=ItVjlRsa07Q
   image: img/jukebox.jpg
   description: >-
