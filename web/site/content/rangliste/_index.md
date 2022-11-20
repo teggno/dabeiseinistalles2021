@@ -9,8 +9,8 @@ placeholder: |+
 
 
 song:
-  title: "Diese Seite ist nicht mehr verfügbar "
-  url: https://www.youtube.com/watch?v=cO0teWvqVHY
+  title: Reinhard Fendrich - Menschen
+  url: https://www.youtube.com/watch?v=BgVZOHgBELE
   image: img/jukebox.jpg
   description: ""
 type: rangliste
