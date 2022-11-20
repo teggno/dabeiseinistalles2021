@@ -9,7 +9,7 @@ placeholder: |+
 
 
 song:
-  title: RAFFI’S JUKEBOX 🎸  Rainhard Fendrich - Menschen
+  title: RAFFI’S JUKEBOX 🎸 Rainhard Fendrich - Menschen
   url: https://www.youtube.com/watch?v=BgVZOHgBELE
   image: img/jukebox.jpg
   description: ""
