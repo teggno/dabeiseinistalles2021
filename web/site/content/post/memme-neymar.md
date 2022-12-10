@@ -1,0 +1,7 @@
+---
+title: Memme Neymar
+draft: true
+date: 2022-12-10T12:37:15.015Z
+image: img/5adac1fb-8dad-4fb3-a916-f0660f5cbf9a.jpeg
+---
+Die Heulsuse ist zurück! Und wieder versteht er die Welt 🌎 nicht mehr. Lieber Neymar, schiess doch das nächste Mal den Penalty als Erster. Übernimm die Verantwortung, statt als Letzter die Show abziehen zu wollen. Tänzchen 🥳 inclusive. Konzentriere dich mehr auf das Wesentliche. Wie früher Pelé. Der hatte Gottseidank nichts übrig für Horror-Frisuren und  körperentstellende Tatoos. Schoss Tore und basta. Ich befürchte, dass du nie in der Lage sein wirst, zu begreifen, dass über 200 Millionen an deinen „Mouvements“ hängen. Seit 2014 erwarten sie von dir Taten statt Kapriolen. Diese Tänzchen sind ja schön und gut (sogar Tite hast du damit verseucht) Spätestens da war klar, dass eure Mission dem Ende entgegen geht. Den illustren Zuschauern auf der Tribune wäre das nie passiert. Wie kleine Schulbuben seid ihr in Minute 115 in die Falle getappt. Gestellt von Luca Modric und zugemacht von Petrovic, der eine Ewigkeit braucht, um den Ball zu kontrollieren. Weggeschenkt habt ihr alles, was ihr euch mühsam erarbeitet hattet. Mit spezieller Pflege der Details. Speziell in der Defensive. Am Ende scheitert ihr stets an euch selbst. Nicht etwa am Gegner. Es ist eure Überschwänglichkeit, die euch die Realität vergessen lässt. Einen Augenblick nur! Doch der reicht. Auf Wiedersehen in vier Jahren! Am besten ohne Neymar. Vielleicht klappt es ohne den teuersten Flop der Fussballgeschichte.
