@@ -1,6 +1,6 @@
 ---
 title: Rangliste
-date: 2022-11-16T21:09:11.246Z
+date: 2023-05-31T12:03:07.491Z
 image: ""
 showPlaceholder: false
 placeholder: |-
