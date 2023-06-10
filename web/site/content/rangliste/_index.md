@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI’S JUKEBOX 🎸 Mina - Ancora Ancora Ancora
+  title: RAFFI’S JUKEBOX 🎸 Mina - ……. …… ……
   url: https://www.youtube.com/watch?v=VOXRTeFyqS4&pp=ygUZYW5jb3JhIGFuY29yYSBhbmNvcmEgbWluYQ%3D%3D
   image: img/jukebox.jpg
   description: ""
