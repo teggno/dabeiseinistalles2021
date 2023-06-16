@@ -1,7 +1,7 @@
 ---
-title: Ciao Leo 🫢 🙈 🥲
+title: "Laisser-faire "
 draft: true
-date: 2023-06-16T05:32:44.707Z
+date: 2023-06-16T07:41:17.765Z
 ---
 Nein, diese Anspielung hat der Kaiser nicht verdient. Ein paar von diesen Unentwegten, die lebenslänglich mit der Rosabrille herumspazieren, kreierten, um eine Verbindung zwischen zwei wildfremden Individuen zustandezubringen, den schmeichelhaften Übernamen „Boninbauer“. Es war schon damals, als der Juve-Felsen noch jung und knusprig war und immerhin noch ein paar raumgreifende Pässe spielen konnte eine masslose Übertreibung, genau genommen eine Frechheit, den biederen Leonardo Bonucci mit dem genialen Franz Beckenbauer in Verbindung zu bringen. Wenn auch nur in einem simplen Wortspiel. Heute, einen Tag nach Leo‘s wiederholter Peinlichkeit grenzt der Vergleich an Majestätsbeleidigung.
 
