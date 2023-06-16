@@ -3,7 +3,7 @@ title: Povera 🥲 Italia 🇮🇹
 draft: true
 date: 2023-06-16T05:32:44.707Z
 ---
-Als er noch jung und knusprig war, gab es ein paar Unentwegte, die ihm den schmeichelhaften Übernamen „Boninbauer“ verpassten. Es war schon damals, als er immerhin noch ein paar raumgreifende Pässe spielen konnte eine masslose Übertreibung, genau genommen eine Frechheit, den hölzernen Leonardo Bonucci mit dem leichtfüssigen Kaiser Franz Beckenbauer in Verbindung zu bringen. Wenn auch nur in einem simplen Wortspiel. Zu vehement sprang einem der Unterschied in die Augen. 
+Nein, diese Anspielung hat der Kaiser nicht verdient. Ein paar von diesen Unentwegten, die lebenslänglich mit der Rosabrille herumspazieren, kreierten, um eine Verbindung zwischen Leo und Franz zustandezubringen, den schmeichelhaften Übernamen „Boninbauer“. Es war schon damals, als er noch jung und knusprig war und immerhin noch ein paar raumgreifende Pässe spielen konnte eine masslose Übertreibung, genau genommen eine Frechheit, den hölzernen Leonardo Bonucci mit dem leichtfüssigen Kaiser Franz Beckenbauer in Verbindung zu bringen. Wenn auch nur in einem simplen Wortspiel. 
 
 Gestern nun, während der unsäglichen Saisonverlängerung „Nations League“ im Halbfinale gegen Spanien, verzückte der bemitleidenswerte „Leo“ noch einmal seine zahlreiche Anhängerschaft mit einem gekonnten Dribbling mitten in der Gefahrenzone. Es war der Anfang vom Ende einer einseitigen Partie. Sozusagen der Gnadenstoss. Der Reporter, für einmal in die Rolle des DJ schlüpfend, legte kurzerhand  die Verliererhymne „I‘m  a Looser“ von den Beatles auf und gab der peinlichen Szene wenigstens die passende musikalische Untermalung.
 
