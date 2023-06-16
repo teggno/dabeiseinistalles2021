@@ -1,9 +1,9 @@
 ---
-title: Povera 🥲 Italia 🇮🇹
+title: Ciao Leo 🫢 🙈 🥲
 draft: true
 date: 2023-06-16T05:32:44.707Z
 ---
-Nein, diese Anspielung hat der Kaiser nicht verdient. Ein paar von diesen Unentwegten, die lebenslänglich mit der Rosabrille herumspazieren, kreierten, um eine Verbindung zwischen zwei wildfremden Individuen zustandezubringen, den schmeichelhaften Übernamen „Boninbauer“. Es war schon damals, als er noch jung und knusprig war und immerhin noch ein paar raumgreifende Pässe spielen konnte eine masslose Übertreibung, genau genommen eine Frechheit, den hölzernen Leonardo Bonucci mit dem leichtfüssigen Kaiser Franz Beckenbauer in Verbindung zu bringen. Wenn auch nur in einem simplen Wortspiel. Heute, einen Tag nach Leo‘s wiederholter Peinlichkeit grenzt der Vergleich an Majestätsbeleidigung.
+Nein, diese Anspielung hat der Kaiser nicht verdient. Ein paar von diesen Unentwegten, die lebenslänglich mit der Rosabrille herumspazieren, kreierten, um eine Verbindung zwischen zwei wildfremden Individuen zustandezubringen, den schmeichelhaften Übernamen „Boninbauer“. Es war schon damals, als der Juve-Felsen noch jung und knusprig war und immerhin noch ein paar raumgreifende Pässe spielen konnte eine masslose Übertreibung, genau genommen eine Frechheit, den biederen Leonardo Bonucci mit dem genialen Franz Beckenbauer in Verbindung zu bringen. Wenn auch nur in einem simplen Wortspiel. Heute, einen Tag nach Leo‘s wiederholter Peinlichkeit grenzt der Vergleich an Majestätsbeleidigung.
 
 Gestern nun, während der unsäglichen Saisonverlängerung „Nations League“ im Halbfinale gegen Spanien, verzückte der bemitleidenswerte „Leo“ noch einmal seine zahlreiche Anhängerschaft mit einem gekonnten Dribbling mitten in der Gefahrenzone. Es war der Anfang vom Ende einer einseitigen Partie. Sozusagen der Gnadenstoss. Der Reporter, für einmal in die Rolle des DJ schlüpfend, legte kurzerhand  die Verliererhymne „I‘m  a Looser“ von den Beatles auf und gab der peinlichen Szene wenigstens die passende musikalische Untermalung.
 
