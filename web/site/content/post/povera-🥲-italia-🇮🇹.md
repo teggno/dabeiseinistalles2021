@@ -1,9 +1,9 @@
 ---
-title: "Laisser-faire "
+title: Boninbauer 🙈🙈🙈
 draft: true
 date: 2023-06-16T07:41:17.765Z
 ---
-Nein, diese Anspielung hat der Kaiser nicht verdient. Ein paar von diesen Unentwegten, die lebenslänglich mit der Rosabrille herumspazieren, kreierten, um eine Verbindung zwischen zwei wildfremden Individuen herzustellen, den schmeichelhaften Übernamen „Boninbauer“. Es war schon damals, als der Juve-Felsen noch jung und knusprig war und immerhin ein paar raumgreifende Pässe spielen konnte eine masslose Übertreibung. Genau genommen war’s eine Frechheit, den biederen Leonardo Bonucci mit dem genialen Franz Beckenbauer nur schon in einem simplen Wortspiel als Seelenverwandte rüberzubringen. Heute, einen Tag nach Leo‘s wiederholtem Patzer, grenzt der Vergleich beinahe an Majestätsbeleidigung.
+Nein, diese Anspielung hat der Kaiser nicht verdient. Kreiert von ein paar Unentwegten, die lebenslänglich mit der Rosabrille herumspazieren um eine Verbindung zwischen zwei wildfremden Individuen herzustellen. Es war schon damals, als der Juve-Felsen noch jung und knusprig war und immerhin ein paar raumgreifende Pässe spielen konnte eine masslose Übertreibung. Genau genommen war’s eine Frechheit, den biederen Leonardo Bonucci mit dem genialen Franz Beckenbauer nur schon in einem simplen Wortspiel als Seelenverwandte rüberzubringen. Heute, einen Tag nach Leo‘s wiederholtem Patzer, grenzt der Vergleich beinahe an Majestätsbeleidigung.
 
 Noch keine fünf Minuten waren im Halbfinale der unsäglichen Saison-Zugabe „Nations Leaugue“ gespielt, als Leo mit gütiger Mithilfe des unbeholfenen Donnarumma in die Bredouille gebracht wurde. Obwohl ihm die Antrittsschnelligkeit eines Usain Bolt nicht in die Wiege gelegt, versuchte sich der bemitleidenswerte Abwehrchef bei einem höchst gewagten Dribbling in der Gefahrenzone. Es war der Anfang vom Ende einer einseitigen Partie. “Colpa mia“, übernahm der sonst wenig selbstkritische „Libero“ im anschliessenden Interview die Verantwortung. Der Fragensteller, für einmal in die Rolle des DJ schlüpfend, legte kurzerhand die Verliererhymne „I‘m  a Looser“ von den Pilzköpfen aus Liverpool auf und gab dem grotesken Moment wenigstens die passende musikalische Untermalung.
 
