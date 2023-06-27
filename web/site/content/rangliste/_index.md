@@ -8,6 +8,7 @@ song:
   title: RAFFI’S JUKEBOX 🎸  …. 🎶 …… …… ……
   url: https://www.youtube.com/watch?v=cO0teWvqVHY&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
   image: img/jukebox.jpg
-  description: "Eine erfrischende Sommerbowle 🍓🍌🍑 🍹 🍒🍍🍊 um die Sinne anzuregen. "
+  description: Eine erfrischende Sommerbowle 🍓🍌🍑 🍹 🍒🍍🍊 um die Sinne
+    anzuregen. Den Rest übernimmt MINA…..
 type: rangliste
 ---
