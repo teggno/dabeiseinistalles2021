@@ -5,9 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: " 🎸 - 🎞️…….."
+  title: " 🎸 - Matt Monroe  🎞️ All of a Sudden"
   url: https://www.youtube.com/watch?v=WsP59ZuhPFY&pp=ygUabWF0IG1vbnJvIGFsbCBvZiBhIHN1ZGRlbiA%3D
   image: img/jukebox.jpg
-  description: Wir waren verrückt - du und ich - heute wissen wir‘s
+  description: Wir waren verrückt - du und ich - heute wissen wir‘s…..
 type: rangliste
 ---
