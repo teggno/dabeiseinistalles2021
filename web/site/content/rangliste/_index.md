@@ -5,9 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Matt Monro  🎞️ All of a Sudden
-  url: https://www.youtube.com/watch?v=WsP59ZuhPFY&pp=ygUabWF0IG1vbnJvIGFsbCBvZiBhIHN1ZGRlbiA%3D
+  title: RAFFI‘S JUKEBOX  🎸 Mina  …… …… …… 🫢
+  url: https://www.youtube.com/watch?v=cO0teWvqVHY&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
   image: img/jukebox.jpg
-  description: Wir waren verrückt - du und ich - now we know it…..
+  description: …….was jetzt noch fehlt…….ist eine erfrischende Sommerbowle 🍓🍌🍑……🍹…….
 type: rangliste
 ---
