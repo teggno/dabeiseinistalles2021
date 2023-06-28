@@ -2,13 +2,12 @@
 title: Rangliste
 date: 2023-06-11T12:10:24.868Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: "RAFFI’S JUKEBOX 🎸   …… …… …… "
-  url: https://www.youtube.com/watch?v=cO0teWvqVHY&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
+  title: "RAFFI’S JUKEBOX 🎸 "
+  url: ""
   image: img/jukebox.jpg
-  description: Eine erfrischende Sommerbowle 🍓🍌🍑 🍹 🍒🍍🍊 um die Sinne
-    anzuregen…..den Rest übernimmt MINA..…✍️
+  description: ""
 type: rangliste
 ---
