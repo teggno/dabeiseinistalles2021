@@ -8,6 +8,6 @@ song:
   title: " 🎸 Matt Monro  🎞️ All of a Sudden"
   url: https://www.youtube.com/watch?v=WsP59ZuhPFY&pp=ygUabWF0IG1vbnJvIGFsbCBvZiBhIHN1ZGRlbiA%3D
   image: img/jukebox.jpg
-  description: Wir waren verrückt - du und ich - heute wissen wir‘s…..
+  description: Wir waren verrückt - du und ich - now we know it…..
 type: rangliste
 ---
