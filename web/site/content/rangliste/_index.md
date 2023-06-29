@@ -5,13 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Deep Purple - Soldier of Fortune
-  url: https://www.youtube.com/watch?v=wZuW3YvHHLU&pp=ygUec29sZGllciBvZiBmb3J0dW5lIGRlZXAgcHVycGxl
+  title: "RAFFI‘S JUKEBOX  🎸 Emerson, Lake & Palmer - C‘est la vie "
+  url: https://www.youtube.com/watch?v=OWC1lV0O_3k&pp=ygUkYydlc3QgbGEgdmllIGVtZXJzb24gbGFrZSBhbmQgcGFsbWVy
   image: img/jukebox.jpg
-  description: Oft hab ich dir Geschichten erzählt - über die Art wie ich mich
-    planlos herumgetrieben habe - wartend auf den Tag - da du meine Hand nahmst
-    - und ich dir ein Lied singen würde - Dann würdest du vielleicht sagen -
-    komm leg dich zu mir und liebe mich - und ich würde sicherlich für immer
-    bleiben
+  description: 🤫 😎 🫢…..
 type: rangliste
 ---
