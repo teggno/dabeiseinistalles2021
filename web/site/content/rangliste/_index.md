@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=vC0Qt1lvLq8&pp=ygUkdGltZSB3YWl0cyBmb3Igbm8gb25lIHJvbGxpbmcgc3RvbmVz
   image: img/jukebox.jpg
   description: "Die Zeit wartet auf niemand - und auch nicht auf dich - Saugt ein
-    euren Sommer erntet euer Getreide - die Träume der Nacht - werden bei
+    euren Sommer - erntet euer Getreide - die Träume der Nacht - werden bei
     Tagesanbruch verschwinden "
 type: rangliste
 ---
