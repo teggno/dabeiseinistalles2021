@@ -5,11 +5,13 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 Deep Purple - When a blind man cries "
-  url: https://www.youtube.com/watch?v=TpKbmmm6D2o&pp=ygUid2hlbiBhIGJsaW5kIG1hbiBjcmllcyBkZWVwIHB1cnBsZQ%3D%3D
+  title: RAFFI‘S JUKEBOX  🎸 Deep Purple - Soldier of Fortune
+  url: https://www.youtube.com/watch?v=wZuW3YvHHLU&pp=ygUec29sZGllciBvZiBmb3J0dW5lIGRlZXAgcHVycGxl
   image: img/jukebox.jpg
-  description: Wenn du gehst - schliess die Tür - ich erwarte niemanden mehr
-    -  ich bin ein blinder Mann - und meine Welt ist blass - wenn ein blinder
-    Mann weint - Herr, du weisst - es gibt keine traurigere Geschichte
+  description: Oft hab ich dir Geschichten erzählt - über die Art wie ich mich
+    planlos herumgetrieben habe - wartend auf den Tag - da du meine Hand nahmst
+    - und ich dir ein Lied singen würde - Dann würdest du vielleicht sagen -
+    komm leg dich zu mir und liebe mich - und ich würde sicherlich für immer
+    bleiben
 type: rangliste
 ---
