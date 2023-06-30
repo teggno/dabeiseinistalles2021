@@ -8,6 +8,6 @@ song:
   title: "RAFFI‘S JUKEBOX  🎸 Emerson, Lake & Palmer - C‘est la vie "
   url: https://www.youtube.com/watch?v=OWC1lV0O_3k&pp=ygUkYydlc3QgbGEgdmllIGVtZXJzb24gbGFrZSBhbmQgcGFsbWVy
   image: img/jukebox.jpg
-  description: 🤫 c‘’est la vie  🫢…..❓
+  description: Leider ist nur der „Damenkatalog“  verfügbar 🥲
 type: rangliste
 ---
