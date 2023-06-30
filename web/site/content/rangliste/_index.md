@@ -2,12 +2,12 @@
 title: Rangliste
 date: 2023-06-11T12:10:24.868Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 Emerson, Lake & Palmer - C‘est la vie "
-  url: https://www.youtube.com/watch?v=OWC1lV0O_3k&pp=ygUkYydlc3QgbGEgdmllIGVtZXJzb24gbGFrZSBhbmQgcGFsbWVy
+  title: "RAFFI‘S JUKEBOX  🎸 "
+  url: ""
   image: img/jukebox.jpg
-  description: Leider ist nur der „Damenkatalog“  verfügbar 🥲
+  description: ""
 type: rangliste
 ---
