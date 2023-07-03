@@ -8,7 +8,6 @@ song:
   title: RAFFI‘S JUKEBOX  🎸  Frank Sinatra - When I was seventeen 👫
   url: https://www.youtube.com/watch?v=WaZ607thdzM&pp=ygUlaXQgd2FzIGEgdmVyeSBnb29kIHllYXIgZnJhbmsgc2luYXRyYQ%3D%3D
   image: img/jukebox.jpg
-  description: "Es war mein bestes Jahr - damals als ich siebzehn war - all die
-    jungen Mädchen "
+  description: "Es war mein bestes Jahr - damals als ich siebzehn war -  "
 type: rangliste
 ---
