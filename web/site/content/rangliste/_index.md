@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸  "
+  title: RAFFI‘S JUKEBOX  🎸  Merci ♥️ Jane
   url: ""
   image: img/jukebox.jpg
   description: " "
