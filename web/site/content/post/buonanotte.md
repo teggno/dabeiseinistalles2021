@@ -9,6 +9,6 @@ Es freut mich, dich “wiederentdeckt“ zu haben. Wie ein Stern der verschwunde
 
 Bevor ich ins Bett gehe oder auch morgen möchte ich unser Lied spielen. Willst du es hören? Ich leg es nur auf, wenn du es auch hören willst (dabeiseinistalles.netlify.app) und dann auf Jukebox
 
-Buonanotte e Ti abbraccio anche io
+Buonanotte e un grande abbraccio
 
 Raffaele
