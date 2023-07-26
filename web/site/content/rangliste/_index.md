@@ -5,9 +5,12 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸
-  url: ""
+  title: RAFFI‘S JUKEBOX  🎸 Matt Monro  - All of á Sudden
+  url: https://www.youtube.com/watch?v=WsP59ZuhPFY&pp=ygUabWF0dCBtb25ybyBhbGwgb2YgYSBzdWRkZW4%3D
   image: img/jukebox.jpg
-  description: ""
+  description: "Aus dem Film „Auf den Dächern von Nizza“ von Alfred Hitchcock. Mit
+    Grace Kelly und Cary Grant in den Hauptrollen 🎬 Songtext: we were fools -
+    you and I - now we know it -  auf deutsch: wir waren verrückt - du und ich -
+    heute wissen wir’s….."
 type: rangliste
 ---
