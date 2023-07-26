@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Matt Monro  - All of á Sudden
+  title: RAFFI‘S JUKEBOX  🎸 Matt Monro  - All of a Sudden
   url: https://www.youtube.com/watch?v=WsP59ZuhPFY&pp=ygUabWF0dCBtb25ybyBhbGwgb2YgYSBzdWRkZW4%3D
   image: img/jukebox.jpg
   description: "Aus dem Film „Auf den Dächern von Nizza“ von Alfred Hitchcock. Mit
