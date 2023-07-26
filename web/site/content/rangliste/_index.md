@@ -11,7 +11,7 @@ song:
   description: "Aus dem Film „Auf den Dächern von Nizza“ von Alfred Hitchcock. Mit
     Grace Kelly und Cary Grant in den Hauptrollen 🎬  Dieser spezielle Glamour
     aus längst vergangenen Tagen - Songtext 🎤 we were fools - you and I - now
-    we know it -  auf deutsch: wir waren verrückt - du und ich - heute wissen
-    wir’s….."
+    we know it -  auf deutsch: wir waren verrückt - du und ich - jetzt - da uns
+    die Vergangenheit eingeholt - verstehen wir viel mehr….."
 type: rangliste
 ---
