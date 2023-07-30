@@ -1,6 +1,6 @@
 ---
-title: O
+title: Ikonen
 draft: true
-date: 2023-07-30T17:29:33.034Z
+date: 2023-07-30T18:35:02.703Z
 ---
-Anna Maria Mazzini alias „Mina“, die Meisterin der Zweideutigkeit. Ihren Zeitgenossen immer “un passo“ voraus. Gemäss Regenbogenpresse soll sie das genia Lied für uns geschrieben haben🫢
+Gemäss Regenbogen 🌈 Presse soll Mina dieses geniale Lied für uns beide geschrieben haben 🫢. Daneben hatte sie viele andere Ohrwürmer. Auf dem Weg von Florenz nach Assisi hast du vielleicht Zeit, sie dir zu Gemüte zu führen. Da wandelst du ein bisschen auch auf meinen Spuren. Der Trip nach Florenz im Jahre 1974 hat mein Leben verändert. 9 Monate später nannten mich meine Kumpels „Papa“.
