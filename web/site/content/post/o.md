@@ -3,7 +3,7 @@ title: Ikonen
 draft: true
 date: 2023-07-30T18:35:02.703Z
 ---
-habe diesen “Aufsatz“ leider versehentlich gelöscht. Gerade versuche ich, ihn zu rekonstruieren. 
+habe diesen “Aufsatz“ vor ein paar Tagen leider versehentlich gelöscht. Gerade versuche ich, ihn zu rekonstruieren. 
 
 Ciao Carissima 
 
