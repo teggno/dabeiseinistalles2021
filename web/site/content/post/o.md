@@ -7,7 +7,7 @@ habe diesen “Aufsatz“ vor ein paar Tagen leider versehentlich gelöscht. Ger
 
 Ciao Carissima 
 
-La nostra canzone! Gemäss Regenbogen 🌈 Presse soll Mina dieses geniale Lied für uns geschrieben haben 🫢. Daneben hatte sie viele andere Ohrwürmer. Auf dem Weg von Florenz nach Assisi hast du vielleicht Zeit, sie dir zu Gemüte zu führen. Da wandelst du ein bisschen auch auf meinen Spuren. Der Trip nach Florenz im Jahre 1974 hat mein Leben verändert. 9 Monate später nannten mich meine Kumpels „Papa“.
+La nostra canzone! Gemäss Regenbogen 🌈 Presse soll Mina dieses geniale Lied für uns geschrieben haben 🫢. Daneben hatte sie viele andere Ohrwürmer. Auf dem Weg von Florenz nach Assisi hast du vielleicht Zeit, sie dir zu Gemüte zu führen. Da wandelst du ein bisschen auch auf meinen Spuren. Der Trip nach Florenz im Jahre 1974 hat mein Leben komplett verändert. 9 Monate später nannten mich meine Kumpels „Papa“.
 
 Ich freue mich für dich, dass du diesen mutigen Entscheid getroffen hast. Du wirst viel Zeit haben in dich zu gehen und die innere Balance wiederzufinden. Mein Sohn Christian hat vor ein paar Jahren in Kalifornien 3500 km zu Fuss zurückgelegt. Er hat die Entscheidung niemals bereut. Was ihn  vielleicht „wurmt“ ist die Tatsache, dass er die Strecke (5000 km)  nicht zu Ende gegangen ist. Die Freundin kam auf Besuch 🙈.
 
