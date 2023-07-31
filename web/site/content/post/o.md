@@ -13,7 +13,7 @@ Ich freue mich für dich, dass du diesen mutigen Entscheid getroffen hast. Du wi
 
 Gestern habe ich eine Reportage über eine weitere Ikone der 60er angeschaut. Rührend und sehr berührend zugleich. Jane Birkin war damals meine Traumfrau und ihre 45er Skandal-Single steht heute noch zuvorderst in meinem Regal. Nachdem ich die Sendung gesehen habe, weiss ich erst recht warum sie dort steht. Woran hast du übrigens gedacht, als du das Lied vor kurzem in der Tagesschau hörtest?
 
-Bist du noch in der Lenzerheide? Schreib doch mal, wenn es möglich ist.
+Bist du noch in der Lenzerheide? 
 
 ich umarme dich fest
 
