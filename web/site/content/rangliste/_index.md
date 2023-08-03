@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Merci Jane
-  url: https://www.youtube.com/watch?v=NHdG_aSgFkU&pp=ygUiamFuZSBiaXJraW4gamUgdCdhaW1lIG1vaSBub24gcGx1cw%3D%3D
+  title: "RAFFI‘S JUKEBOX  🎸 "
+  url: ""
   image: img/jukebox.jpg
   description: ""
 type: rangliste
