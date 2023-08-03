@@ -9,7 +9,7 @@ La nostra canzone con le tre „a“. Lazt Regenbogen 🌈 Presse soll Mina das 
 
 Ich freue mich für dich, dass du diesen mutigen Entscheid getroffen hast. Du wirst viel Zeit haben in dich zu gehen und die innere Balance wiederzufinden. Mein Sohn Christian hat vor ein paar Jahren in Kalifornien 3500 km zu Fuss zurückgelegt. Er hat die Entscheidung niemals bereut. Was ihn  vielleicht „wurmt“ ist die Tatsache, dass er die Strecke (5000 km)  nicht zu Ende gegangen ist. Die Freundin kam auf Besuch 🙈.
 
-Gestern habe ich eine Reportage über eine zweite Ikone der 60er angeschaut. Rührend und sehr berührend zugleich. Jane Birkin war eine Ausnahmeerscheinung. Die Frau meiner Träume.      Aufgestellt, humorvoll, schüchtern, melancholisch, zerbrechlich und doch so voll im Leben. Eine Mischung aus „Mamma von früher“ und „Femme mit Selbstbewusstsein von heute“. Ihre 45er Skandal-Single steht heute noch zuvorderst in meinem Regal. Nachdem ich die Sendung gesehen habe, weiss ich erst recht warum sie dort an Nr, 1 ragt. Woran hast du übrigens gedacht, als du das Lied vor kurzem in der Tagesschau hörtest? (Läuft gerade auf der Jukebox)
+Gestern habe ich eine Reportage über eine zweite Ikone der 60er angeschaut. Rührend und sehr berührend zugleich. Jane Birkin war eine Ausnahmeerscheinung. Die Frau meiner Träume.      Aufgestellt, humorvoll, schüchtern, melancholisch, zerbrechlich und doch so voll im Leben. Eine Mischung aus „Mamma von früher“ und „Femme mit Selbstbewusstsein von heute“. Ihre 45er Skandal-Single steht heute noch zuvorderst in meinem Regal. Nachdem ich die Sendung gesehen habe, weiss ich erst recht warum sie dort an Nr, 1 ragt. Woran hast du übrigens gedacht, als du das Lied vor kurzem in der Tagesschau hörtest? 
 
 Bist du noch in der Lenzerheide? 
 
