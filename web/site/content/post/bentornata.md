@@ -9,7 +9,7 @@ Mit Schutzengeln, hab ich mir sagen lassen, verstehst du dich ganz besonders gut
 
 Ich hatte 10 Tage lang einen Artikel hier drin, den ich am Sonntag gelöscht habe. Vielleicht hast du ihn gelesen, vielleicht auch nicht. Weil du ja von Florenz nach Assisi mit dem Wanderstock unterwegs sein wirst und Firenze in meinem Leben eine ganz spezielle Gabelung darstellt, wandelst du ein kleines bisschen auch auf meinen Spuren. Ich begab mich 1974 im Gegensatz zu dir nicht auf die Suche meiner selbst dorthin, sondern aus jugendlichem Leichtsinn. 9 Monate später „mi chiamavano papa“.
 
-In letzter Zeit habe ich viele Menschen verloren. Die einen sind leider viel zu früh gestorben. Von anderen habe ich mich getrennt oder sie von mir, weil wir uns gegenseitig nicht mehr gut taten. Einzelgänger wie ich können zwischendurch eine Runde beleben und auch gut zuhören, am Ende überwiegt jedoch die Liebe zu sich selbst.
+In letzter Zeit habe ich viele Menschen verloren. Die einen sind leider viel zu früh gestorben. Von anderen habe ich mich getrennt oder sie von mir, weil wir uns gegenseitig nicht mehr gut taten. Einzelgänger wie ich können zwischendurch eine Runde beleben und auch gut zuhören. Am Ende überwiegt jedoch die Liebe zu sich selbst.
 
 Zum Schluss noch eine Hommage an meine Jugend-Traumfrau. Ich liebe Jane Birkin noch heute. Nicht von ungefähr steht ihre 45er Skandal-Single zuvorderst auf meinem Regal. Letzthin habe ich mir auf „Arte“ eine Reportage über sie angeschaut. (Jetzt auf meiner Jukebox-Box! Man beachte, falls man keine Zeit hat den ganzen Beitrag zu geniessen, vor allem die Passage zwischen Minute 13 und 20)  Kindlich, ausgeflippt, humorvoll, melancholisch und berührend zugleich.
 
