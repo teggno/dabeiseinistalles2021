@@ -13,6 +13,6 @@ In letzter Zeit habe ich viele Menschen verloren. Die einen sind leider viel zu 
 
 Zum Schluss noch eine Hommage an meine Jugend-Traumfrau. Ich liebe sie noch heute. Nicht von ungefähr steht ihre 45er Skandal-Single zuvorderst auf meinem Regal. Letzthin habe ich mir auf Arte eine Reportage über sie angeschaut. (Jetzt auf meiner Jukebox-Box) Rührend und berührend zugleich.
 
-un grande abbraccio
+Bis zum nächsten Date. Un grande abbraccio.
 
 Raffaele
