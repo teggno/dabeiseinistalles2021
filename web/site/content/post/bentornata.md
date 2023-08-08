@@ -11,7 +11,7 @@ Ich hatte 10 Tage lang einen Artikel hier drin, den ich am Sonntag gelöscht hab
 
 In letzter Zeit habe ich viele Menschen verloren. Die einen sind leider viel zu früh gestorben. Von anderen habe ich mich getrennt oder sie von mir, weil wir uns gegenseitig nicht mehr gut taten. Einzelgänger wie ich können zwischendurch eine Runde beleben und auch gut zuhören, am Ende überwiegt jedoch die Liebe zu sich selbst.
 
-Zum Schluss noch eine Hommage an meine Jugend-Traumfrau. Ich liebe sie noch heute. Nicht von ungefähr steht ihre 45er Skandal-Single zuvorderst auf meinem Regal. Letzthin habe ich mir auf „Arte“ eine Reportage über sie angeschaut. (Jetzt auf meiner Jukebox-Box! Man beachte, falls man keine Zeit hat den ganzen Beitrag zu geniessen, vor allem die Passage zwischen Minute 13 und 20)  Kindlich, ausgeflippt, humorvoll, melancholisch und berührend zugleich.
+Zum Schluss noch eine Hommage an meine Jugend-Traumfrau. Ich liebe Jane Birkin noch heute. Nicht von ungefähr steht ihre 45er Skandal-Single zuvorderst auf meinem Regal. Letzthin habe ich mir auf „Arte“ eine Reportage über sie angeschaut. (Jetzt auf meiner Jukebox-Box! Man beachte, falls man keine Zeit hat den ganzen Beitrag zu geniessen, vor allem die Passage zwischen Minute 13 und 20)  Kindlich, ausgeflippt, humorvoll, melancholisch und berührend zugleich.
 
 Bis zum nächsten Date. Un grande abbraccio.
 
