@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Jane Birkin ▶️ Traumfrau und Ikone
-  url: https://www.google.ch/search?q=jane+birkin+youtube&ie=UTF-8&oe=UTF-8&hl=de-ch&client=safari#fpstate=ive&vld=cid:11f1fd4a,vid:iwrfQ-88VXM
+  title: "RAFFI‘S JUKEBOX  🎸 "
+  url: ""
   image: img/jukebox.jpg
   description: ""
 type: rangliste
