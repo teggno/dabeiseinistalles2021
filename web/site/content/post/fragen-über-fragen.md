@@ -9,7 +9,7 @@ Lilly kam kürzlich nach einem Spaziergang mit Eva-Maria ziemlich aufgewühlt na
 
 Vor einer Woche war ich bei Zeljko. Viele Stunden lang haben wir über dies und das geredet. Bei gewissen Themen weicht er aus. Ich habe nie ein Wort über uns gesagt. Von dir weiss ich, dass er in deinem Tagebuch vorkommt und dein Mann ihn vorläufig nicht mehr sehen will. Warum sagt er mir das eigentlich nicht? Ich habe ihn stets verteidigt. Überall Partei nur für ihn ergriffen. Inges Rechtfertigungen nicht geglaubt. Hat er mir die Hälfte verschwiegen? Ich hätte es doch begriffen, wenn zwischen euch mehr gewesen wäre. Warum fragt er eigentlich nie, warum Christian, Lilly du und ich sich nicht mehr treffen. Man braucht nicht neugierig zu sein, um sich für gewisse Sachen zu interessieren. Weiss er vielleicht mehr? Fragen über Fragen….
 
-Nach wie vor werde ich auf Schritt und Tritt überwacht. Ich glaube, Lilly liest aus durchaus verständlichem Misstrauen all meine Mails. Sie hat sich bei unserer kürzlichen Auseinandersetzung selbst verraten. Von heute Dienstagmorgen bis am Donnerstagmittag bin ich alleine.
+Nach wie vor werde ich auf Schritt und Tritt überwacht. Ich glaube, Lilly liest aus durchaus verständlichem Misstrauen all meine Mails. Frag mich nicht wie. Ich fühle mich wie ein kleiner Junge. Sie hat sich bei unserer kürzlichen Auseinandersetzung selbst verraten. Von heute Dienstagmorgen bis am Donnerstagmittag bin ich alleine.
 
 Ich umarme dich. \
 Raffaele
