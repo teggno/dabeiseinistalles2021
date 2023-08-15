@@ -5,10 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Adriano nazionale
-  url: https://www.youtube.com/watch?v=ItVjlRsa07Q&pp=ygUPY2VsZW50YW5vIGFuZ2Vs
+  title: "RAFFI‘S JUKEBOX  🎸  "
+  url: ""
   image: img/jukebox.jpg
-  description: Mi sembra proprio …..che un angelo non sei 🫢 man beachte die
-    wunderschönen Landschaftsbilder aus der Toskana 😎
+  description: ""
 type: rangliste
 ---
