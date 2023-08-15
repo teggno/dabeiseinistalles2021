@@ -9,6 +9,6 @@ song:
   url: https://www.youtube.com/watch?v=ItVjlRsa07Q&pp=ygUPY2VsZW50YW5vIGFuZ2Vs
   image: img/jukebox.jpg
   description: Mi sembra proprio …..che un angelo non sei 🫢 man beachte die
-    wunderschönen Landschaftsbilder aus der Toskana
+    wunderschönen Landschaftsbilder aus der Toskana 😎
 type: rangliste
 ---
