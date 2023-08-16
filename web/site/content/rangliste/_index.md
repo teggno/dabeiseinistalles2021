@@ -15,7 +15,7 @@ song:
 
     Kannst Du mich spüren?
 
-    Hey Du da drausen auf dem Flur
+    Hey Du da draussen auf dem Flur
 
     mit deinen schmerzenden Füßen und dem müden  Lächeln im Gesicht - kannst Du mich fühlen?
 
