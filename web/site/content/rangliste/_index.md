@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Pink Floyd - Wearing the inside out
+  title: RAFFI‘S JUKEBOX  🎸  Pink Floyd 🎶🎶🎶
   url: https://www.youtube.com/watch?v=nShc6s6vrhU&pp=ygUdd2VhcmluZyBpbnNpZGUgb3V0IHBpbmsgZmxveWQ%3D
   image: img/jukebox.jpg
   description: >-
