@@ -12,21 +12,18 @@ song:
     HEY YOU - PINK FLOYD
 
 
-    Hey , Du da drausen, drausen in der Kälte
+    Hey du - da draussen in der Kälte
 
     wie Du langsam vereinsamst und alt wirst
 
     Kannst Du mich spüren?
 
-
     Hey Du da drausen auf dem Flur
 
-    mit deinen schmerzenden Füßen und dem dahinsiegenden Lächeln
-
-    kannst Du mich fühlen?
+    mit deinen schmerzenden Füßen und dem müden  Lächeln im Gesicht - kannst Du mich fühlen?
 
 
-    Hey Du , Hilf Ihnen nicht die Wahrheit, zu beerdigen
+    Hey Du  - Hilf Ihnen nicht die Wahrheit, zu beerdigen
 
     gib Dich nicht auf ohne zu kämpfen.
 
