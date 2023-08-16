@@ -5,14 +5,11 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸  "
+  title: RAFFI‘S JUKEBOX  🎸  Pink Floyd - Wearing the inside out
   url: https://www.youtube.com/watch?v=nShc6s6vrhU&pp=ygUdd2VhcmluZyBpbnNpZGUgb3V0IHBpbmsgZmxveWQ%3D
   image: img/jukebox.jpg
   description: >-
-    HEY YOU - PINK FLOYD
-
-
-    Hey du - da draussen in der Kälte
+    PINK FLOYD Hey du - da draussen in der Kälte
 
     wie Du langsam vereinsamst und alt wirst
 
