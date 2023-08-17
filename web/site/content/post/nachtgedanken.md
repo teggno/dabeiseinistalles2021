@@ -7,4 +7,6 @@ date: 2023-08-17T04:00:09.062Z
 
 Jetzt muss ich dringend in den Schlafmodus übergehen, während du deine Mutter ins Spital fährst. Ich hoffe, dass alles gut geht. Bis später, falls ich die nötige Zeit finde.
 
+Ti abbraccio
+
 Raffaele
