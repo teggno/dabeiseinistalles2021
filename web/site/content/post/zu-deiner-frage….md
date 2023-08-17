@@ -9,7 +9,7 @@ Jetzt zu deiner Frage: Ich blende zurück auf das Essen nach der EM bei euch zuh
 
 Ich möchte mal von dir so eine genaue Beantwortung meiner Fragen haben. Du weichst mir in irgendeiner Form immer wieder aus. Ich weiss, dass es dir leid tut, mich als „Sittenstrolch“ angeschwärzt zu haben. In dieser Beziehung ist von Seelenverwandtschaft rein gar nichts zu spüren. Konzentriere dich jetzt auf deine Reise zu dir selbst. Lilly hat die Mails und wird sie mir nicht geben. So wie ich sie kenne, wird sie es für sich behalten. Sollten wir uns eines Tages trennen, weiss ich nicht was passiert. An deiner Stelle würde ich nicht reinen Tisch machen. Das bringt nur noch mehr Unheil. Vielleicht kannst du mal gelegentlich, wenn es dir besser geht, den Sittenstrolch ein wenig abmildern und mich als unverbesserlichen Charmeur hinstellen, dessen Schmeicheleinheiten du dir nicht ungern angehört hast.
 
-Freut mich, dass bei deiner Mutter alles gut gegangen ist. Einen Gruss von Herrn X kannst ja nicht ausrichten……
+Freut mich, dass bei deiner Mutter alles gut gegangen ist. Einen Gruss von Herrn X kannst du ja nicht ausrichten……
 
 Buona serata
 
