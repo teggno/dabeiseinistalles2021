@@ -3,6 +3,8 @@ title: Dä Chrigel und dä Mani
 draft: true
 date: 2023-08-21T22:12:07.330Z
 ---
+Cara Stefania 
+
 Kennst du das Gefühl, irgendjemandem etwas erzählen zu wollen und es schlussendlich sein zu lassen, weil du Zweifel hegst, ob der andere überhaupt versteht, was du sagen willst?
 
 Chrigel war mein Schulfreund im KV. Es war die beste Zeit in meinem Leben. Am Mittwoch, wenn Buchhaltung war in der Stifti, läutete er oft punkt halbacht Uhr morgens bei mir und ich wusste sofort: „hüt wird gschwänzt“. Wir gingen per Autostop nach Zürich oder auf einen Sprung nach Konstanz und am Ende  des Semesters waren unsere Zeugnisse voll von unentschuldigten Absenzen. Ich mogelte mich trotzdem einigermassen durch die dreijährige Lehrzeit. Christian hatte weniger Glück, er flog nach der Hälfte raus.
