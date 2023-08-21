@@ -1,5 +1,5 @@
 ---
-title: Chrigel und Mani
+title: Dä Chrigel und dä Mani
 draft: true
 date: 2023-08-21T22:12:07.330Z
 ---
