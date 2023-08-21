@@ -5,7 +5,7 @@ date: 2023-08-21T22:12:07.330Z
 ---
 Cara Stefania 
 
-Kennst du das Gefühl, irgendjemandem etwas erzählen zu wollen und es schlussendlich sein zu lassen, weil du Zweifel hegst, ob der andere überhaupt versteht, was du sagen willst?
+Kennst du das Gefühl, irgendjemandem etwas erzählen zu wollen um es schlussendlich doch sein zu lassen, weil Zweifel in dir aufkommen, ob der andere überhaupt der Richtige ist für dein Anliegen? 
 
 Chrigel war mein Schulfreund im KV. Es war die spannendste Zeit in meinem Leben. Am Mittwoch, wenn Buchhaltung auf dem Stundenplan stand, , läutete er oft morgens um halbacht bei mir und ich wusste sofort: „hüt wird dä Unterricht gschwänzt“. Per Autostop ging’s dann nach Zürich oder abwechslungsweise auf einen Sprung nach Konstanz. Am Ende des Semesters folgte die Quittung. Unsere Zeugnisse waren voll von unentschuldigten Absenzen. Ich mogelte mich trotz aller „Versäumnisse“ einigermassen durch die dreijährige Lehrzeit. Christian hatte weniger Glück. Er flog nach der Hälfte raus und wurde statt Kaufmann Dachdecker. Als er dann eines Tages stolz mit „äm Döschwo“ erschien und wir uns mit offenem Dach uf die Suche nach den Mädchen machten, war die Welt in Ordnung. Danach verloren uns eine zeitlang aus den Augen und ich war jetzt mehr mit Mani zusammen. Sein Markenzeichen waren die langen, blonden Haare, der braune Fellmantel und die bis fast ans Knie reichenden Schnürstiefel. Er mochte Chi Coltrane und „uf sim Autotonbändli„ liefen ständig ihre Songs. Ich war damals schon mit Doris, der späteren Mutter meiner beiden Kinder zusammen und Mani hatte ein Auge auf ihre Freundin Mägi geworfen. Sie habe ich vor etwa 2 Jahren versucht mit Zeljko zu verkuppeln….
 
