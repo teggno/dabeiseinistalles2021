@@ -1,7 +1,7 @@
 ---
 title: "Dä Chrigel und dä Mani "
 draft: true
-date: 2023-08-22T06:53:13.505Z
+date: 2023-08-22T07:15:44.279Z
 ---
 Das sind Erinnerungen aus meinem Leben, cara Stefania. Als ich heute Nacht vor lauter Hitze nicht einschlafen konnte, hatte ich irgendwie das Bedürfnis, sie auf Papier zu bringen. Vielleicht lesen es die beiden auch.
 
