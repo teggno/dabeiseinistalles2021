@@ -3,10 +3,7 @@ title: "Schlaflos in Tägerwilen "
 draft: true
 date: 2023-08-22T00:32:03.006Z
 ---
-\
-Cara Stefania 
 
-Ich habe heute Nacht, weil ich vor lauter Hitze nicht einschlafen konnte, meine Erinnerungen an zwei Freunde aus der Jugendzeit aufgeschrieben.
 
 Dä Chrigel und dä Mani
 
