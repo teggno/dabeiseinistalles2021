@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S JUKEBOX  🎸  Chi Coltrane und Demis Roussos ▶️
   url: https://www.youtube.com/watch?v=f4LKlOyC-To&pp=ygUlZ29vZCBieSBteSBsb3ZlIGdvb2RieWUgZGVtaXMgcm91c3Nvcw%3D%3D
   image: img/jukebox.jpg
-  description: "Zum Gedenken an "
+  description: Zum Gedenken an Chrigel und Mani
 type: rangliste
 ---
