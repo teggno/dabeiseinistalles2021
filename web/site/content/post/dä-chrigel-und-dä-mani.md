@@ -3,7 +3,7 @@ title: "Dä Chrigel und dä Mani "
 draft: true
 date: 2023-08-22T06:53:13.505Z
 ---
-Erinnerungen aus meinem Leben, cara Stefania. Als ich heute Nacht vor lauter Hitze nicht einschlafen konnte, hatte ich irgendwie das Bedürfnis, sie zu Papier zu bringen.
+Erinnerungen aU.S. meinem Leben, cara Stefania. Als ich heute Nacht vor lauter Hitze nicht einschlafen konnte, hatte ich irgendwie das Bedürfnis, sie zu Papier zu bringen.
 
 Chrigel war mein Schulfreund „i dä KV-Stifti“. Typ „harte Schale - weicher Kern“. Mindestens einmal im Monat, meistens dienstags, wenn Buchhaltung auf dem Stundenplan stand, läutete er morgens um halbacht an der Haustüre. Ich wusste gleich, „dass dä Unterricht hüt usfallt“. Stattdessen ging’s per Autostop nach Zürich oder ein nächstes Mal auf einen Sprung nach Konstanz. Am Ende des Semesters folgte die Quittung. Unsere Zeugnisse waren voll von unentschuldigten Absenzen. Trotz dieser Lausbubenstreiche mogelte ich mich einigermassen durch die dreijährige Lehrzeit. Christian hatte weniger Glück. Er flog nach der Hälfte raus und startete bei seinem Vater eine Lehre als Dachdecker. Als er dann eines Tages stolz mit „äm Döschwo“ um die Ecke kam und wir uns zu fünft mit offenem Dach quer durch die Landschaft auf die Suche nach dem weiblichen Geschlecht machten, schien die Welt uns alleine zu gehören.
 
