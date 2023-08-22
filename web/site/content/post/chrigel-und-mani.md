@@ -5,7 +5,7 @@ date: 2023-08-21T22:12:07.330Z
 ---
 Cara Stefania 
 
-Kennst du das Gefühl, irgendjemandem etwas erzählen zu wollen um es schlussendlich doch sein zu lassen, weil Zweifel in dir aufkommen, ob der andere überhaupt der Richtige ist für dein Anliegen? 
+Kennst du das Gefühl, irgendjemandem etwas erzählen zu wollen um es schlussendlich doch sein zu lassen, weil Zweifel in dir aufkommen, ob der andere überhaupt der Richtige für dein Anliegen ist? 
 
 Chrigel war mein Schulfreund im KV. Es war die spannendste Zeit in meinem Leben. Am Mittwoch, wenn Buchhaltung auf dem Stundenplan stand, , läutete er oft morgens um halbacht bei mir und ich wusste gleich, „dass dä Unterricht hüt usfallt“. Stattdessen ging’s per Autostop nach Zürich oder ein nächstes Mal auf einen Sprung nach Konstanz. Am Ende des Semesters folgte die Quittung. Unsere Zeugnisse waren voll von unentschuldigten Absenzen. Trotz aller „Versäumnisse“ mogelte ich mich einigermassen durch die dreijährige Lehrzeit. Christian hatte weniger Glück. Er flog nach der Hälfte raus und startete bei seinem Vater eine Lehre als Dachdecker. Als er dann eines Tages stolz mit „äm Döschwo“ um die Ecke kam  und wir uns zu fünft mit offenem Dach auf die Suche nach dem weiblichen Geschlecht machten, war die Welt in bester Ordnung. 
 
