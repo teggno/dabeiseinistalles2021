@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Ci Coltrane und Demis Roussos
+  title: RAFFI‘S JUKEBOX  🎸  Abwechslungsweise Chi Coltrane und Demis Roussos
   url: "
     https://www.youtube.com/watch?v=CZ0B65aKItM&pp=ygUdZGVtaXMgcm91c3NvcyBnb29k\
     YnllIG15IGxvdmU%3D"
