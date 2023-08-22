@@ -5,9 +5,10 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸  "
-  url: ""
+  title: RAFFI‘S JUKEBOX  🎸  Ci Coltrane und Demis Roussos
+  url: https://www.youtube.com/watch?v=0IefcDO2s9Q&pp=ygUMY2hpIGNvbHRyYW5l
+    https://www.youtube.com/watch?v=CZ0B65aKItM&pp=ygUdZGVtaXMgcm91c3NvcyBnb29kYnllIG15IGxvdmU%3D
   image: img/jukebox.jpg
-  description: ""
+  description: Zum Gedenken an Chrigel und Mani
 type: rangliste
 ---
