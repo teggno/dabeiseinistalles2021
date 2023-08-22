@@ -6,7 +6,7 @@ date: 2023-08-22T00:32:03.006Z
 \
 Cara Stefania 
 
-Eigentlich schwebten diese Gedanken in meinem Geiste umher. Doch jetzt wo die Hitze mich nicht einschlafen lässt, habe ich sie zu Papiet gebracht.
+Eigentlich schwebten diese Gedanken in meinem Geiste umher. Doch jetzt wo die Hitze mich nicht einschlafen lässt, habe ich sie zu Papier gebracht.
 
 Dä Chrigel und dä Mani
 
