@@ -6,7 +6,7 @@ date: 2023-08-22T00:32:03.006Z
 \
 Cara Stefania 
 
-Ich hatte heute Nacht das Bedürfnis meine Gedanken aufzuschreiben
+Ich hatte heute Nacht das Bedürfnis meine Erinnerungen aufzuschreiben und daraus ist diese Geschichte geworden:
 
 Dä Chrigel und dä Mani
 
