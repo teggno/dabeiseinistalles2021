@@ -1,5 +1,5 @@
 ---
-title: Dä Chrigel und dä Mani
+title: "Schlaflos in Tägerwilen "
 draft: true
 date: 2023-08-22T00:32:03.006Z
 ---
@@ -7,6 +7,8 @@ date: 2023-08-22T00:32:03.006Z
 Cara Stefania 
 
 Eigentlich schwebten diese Gedanken in meinem Geiste umher. Doch jetzt wo die Hitze mich nicht einschlafen lässt, habe ich sie zu Papiet gebracht.
+
+Dä Chrigel und dä Mani
 
 Chrigel war mein Schulfreund „i dä KV-Stifti“. Es war die spannendste Zeit in meinem Leben. Mindestens einmal im Monat, meistens dienstags, wenn Buchhaltung auf dem Stundenplan stand, läutete er morgens um halbacht an der Haustüre. Ich wusste gleich, „dass dä Unterricht hüt usfallt“. Stattdessen ging’s per Autostop nach Zürich oder ein nächstes Mal auf einen Sprung nach Konstanz. Am Ende des Semesters folgte die Quittung. Unsere Zeugnisse waren voll von unentschuldigten Absenzen. Trotz aller „Versäumnisse“ mogelte ich mich einigermassen durch die dreijährige Lehrzeit. Christian hatte weniger Glück. Er flog nach der Hälfte raus und startete bei seinem Vater eine Lehre als Dachdecker. Als er dann eines Tages stolz mit „äm Döschwo“ um die Ecke kam und wir uns zu fünft mit offenem Dach auf die Suche nach dem weiblichen Geschlecht machten, schien die Welt uns alleine zu gehören.
 
