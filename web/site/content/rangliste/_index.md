@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  in memoria dell indimenticabile Toto Cotugno
+  title: RAFFI‘S JUKEBOX  🎸  in memoria di Toto Cotugno
   url: https://www.youtube.com/watch?v=TYtdYslLY9I&pp=ygUfdG90byBjdXR1Z25vIGxhc2NpYXRlbWkgY2FudGFyZQ%3D%3D
   image: img/jukebox.jpg
   description: ""
