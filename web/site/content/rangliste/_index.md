@@ -47,7 +47,7 @@ song:
     Jetzt liegt sie flach.
 
 
-    Okay... Aber Joe, was machst du denn jetzt? Wo willste denn jetzt hin?
+    Okay... Aber Joe, was machst du denn jetzt? Wo willst du denn jetzt hin?
 
     Hey Joe, ich sagte: Wo willst du jetzt hin?
 
