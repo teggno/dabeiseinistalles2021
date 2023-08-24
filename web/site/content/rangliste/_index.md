@@ -35,7 +35,7 @@ song:
     Und das ist nicht okay.
 
 
-    N: Hey Joe, ich hab‘ gehört, du hast jetzt deine Frau erschossen?
+    Hey Joe, ich hab‘ gehört, du hast jetzt deine Frau erschossen?
 
     Hey Joe, stimmt‘s, dass du deine Frau über‘n Haufen geschossen hast?
 
