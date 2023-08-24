@@ -5,13 +5,17 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸  "
+  title: "RAFFI‘S JUKEBOX  🎸  Jimi Hendrix - Hey Joe "
   url: https://www.youtube.com/watch?v=rXwMrBb2x1Q&pp=ygUUaGV5IGpvZSBqaW1pIGhlbmRyaXg%3D
   image: img/jukebox.jpg
   description: >
-    N: Hey Joe,
+    Da kenn ich dieses Lied schon über 50 Jahre und hab nie gecheckt - was JH in
+    Wirklichkeit singt 🤔
 
-    was hast du mit dieser Waffe vor?
+
+    Hey Joe,
+
+    was hast du mit der Waffe vor?
 
     Hey Joe,
 
@@ -20,7 +24,7 @@ song:
     was du mit dieser Knarre willst?
 
 
-    Joe: Ich denke, ich knall‘ meine Alte damit ab,
+    „ Ich denke, ich knall‘ meine Alte damit ab,
 
     du weißt ja, ich hab‘ sie mit 'nem andren Mann erwischt.
 
@@ -29,7 +33,6 @@ song:
     Ich hab‘ sie doch mit 'nem andren Mann geseh‘n.
 
     Und das ist nicht okay.
-
 
 
     N: Hey Joe, ich hab‘ gehört, du hast jetzt deine Frau erschossen?
