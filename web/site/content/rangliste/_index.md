@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
   title: RAFFI‘S JUKEBOX  🎸  Emerson Lake & Palmer 🤷‍♂️ C‘est la vie
-  url: ""
+  url: https://www.youtube.com/watch?v=OWC1lV0O_3k&pp=ygUkZW1lcnNvbiBsYWtlIGFuZCBwYWxtZXIgYydlc3QgbGEgdmll
   image: img/jukebox.jpg
   description: ""
 type: rangliste
