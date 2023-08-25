@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  C’est la vie 🤷‍♂️……⁉️
+  title: RAFFI‘S JUKEBOX  🎸  Die Summe aller Frauen 🫢 C’est la vie ⁉️
   url: https://www.youtube.com/watch?v=OWC1lV0O_3k&pp=ygUkZW1lcnNvbiBsYWtlIGFuZCBwYWxtZXIgYydlc3QgbGEgdmll
   image: img/jukebox.jpg
   description: ""
