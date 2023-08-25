@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
   title: "RAFFI‘S JUKEBOX  🎸  Piaceri e delusioni 🤷‍♂️  C’est la vie "
-  url: https://www.youtube.com/watch?v=OWC1lV0O_3k&pp=ygUkZW1lcnNvbiBsYWtlIGFuZCBwYWxtZXIgYydlc3QgbGEgdmll
+  url: https://www.youtube.com/watch?v=NLr8ATPDbLc&pp=ygUkYydlc3QgbGEgdmllIGVtZXJzb24gbGFrZSBhbmQgcGFsbWVy
   image: img/jukebox.jpg
   description: ""
 type: rangliste
