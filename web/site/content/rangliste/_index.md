@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Udo Jürgens - Ich würd‘ es wieder tun
+  title: RAFFI‘S JUKEBOX  🎸 Udo  - Ich würd‘s (nicht) wieder tun
   url: https://www.youtube.com/watch?v=vmOMVRI-RBU&pp=ygUkdWRvIGrDvHJnZW5zIGljaCB3w7xyZCBlcyB3aWVkZXIgdHVu
   image: img/jukebox.jpg
   description: |
