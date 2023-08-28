@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 UDO ▶️
-  url: https://www.youtube.com/watch?v=vmOMVRI-RBU&pp=ygUkdWRvIGrDvHJnZW5zIGljaCB3w7xyZCBlcyB3aWVkZXIgdHVu
+  title: "RAFFI‘S JUKEBOX  🎸 "
+  url: ""
   image: img/jukebox.jpg
   description: "\n"
 type: rangliste
