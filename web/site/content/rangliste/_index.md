@@ -12,7 +12,7 @@ song:
     Von Zeit zu Zeit werf ich den Blick - 
     auf meinen bunten Weg zurück - 
     Auf das was war - und mir wird klar -
-    Ich würd es (nicht) 🤷‍♂️ wieder tun -
+    Ich würd es (nicht) wieder tun -
     Die Berg- und Talfahrt durch die Zeit -
     wie oft lag doch das Glück bereit -
     Ich liess es ziehn -bis es leider in die Brüche ging -
