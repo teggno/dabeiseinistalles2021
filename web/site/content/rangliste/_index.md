@@ -13,7 +13,7 @@ song:
     auf meinen bunten Weg zurück - 
     Auf das was war - und mir wird klar -
     Nein - alles würd ich so nicht wieder tun -
-    Die Berg- und Talfahrt durch die Zeit
+    Die Berg- und Talfahrt durch die Zeit -
     Selbst alles das, was ich bereut
     An dem ich hing - und das dann leider in Brüche ging -
     Ich würd es wieder tun und doch nicht wieder tun
