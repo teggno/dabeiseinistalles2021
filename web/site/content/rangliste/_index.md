@@ -9,14 +9,14 @@ song:
   url: ""
   image: img/jukebox.jpg
   description: |-
-    Von Zeit zu Zeit werf ich den Blick
-    Auf meinen bunten Weg zurück
-    Auf das was war, und dabei wird mir klar
-    Ich würd es wieder tun, ich würd es wieder tun
+    Von Zeit zu Zeit werf ich den Blick - 
+    auf meinen bunten Weg zurück - 
+    Auf das was war - und mir wird klar -
+    Nein - alles würd ich so nicht wieder tun -
     Die Berg- und Talfahrt durch die Zeit
     Selbst alles das, was ich bereut
-    An dem ich hing - und das in Brüche ging
-    Ich würd es wieder tun, ich würd es wieder tun
+    An dem ich hing - und das dann leider in Brüche ging -
+    Ich würd es wieder tun und doch nicht wieder tun
     Der Tag, an dem du zu mir kamst
     Mir den Verstand, die Sinne namst
     Und dann das Aus, und ich allein im Haus
