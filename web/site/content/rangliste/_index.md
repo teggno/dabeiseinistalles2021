@@ -12,10 +12,10 @@ song:
     Von Zeit zu Zeit werf ich den Blick - 
     auf meinen bunten Weg zurück - 
     Auf das was war - und mir wird klar -
-    Nein - alles würd ich so nicht wieder tun -
+    Ich würd es (nicht) 🤷‍♂️ wieder tun -
     Die Berg- und Talfahrt durch die Zeit -
     wie oft lag doch das Glück bereit -
-    Ich liess es ziehn -bis es dann leider in die Brüche ging -
+    Ich liess es ziehn -bis es leider in die Brüche ging -
     Ich würd es wieder tun - und doch nicht wieder tun -
     Der Tag - an dem du zu mir kamst -
     mir den Verstand und alle Sinne nahmst -
