@@ -17,20 +17,6 @@ song:
     Selbst alles das, was ich bereut
     An dem ich hing - und das in Brüche ging
     Ich würd es wieder tun, ich würd es wieder tun
-    Ich hab mir oft den Mund verbrannt
-    Hab das, was dumm war, dumm genannt
-    Und nicht bedacht, dass man sich Feinde macht
-    Ich würd es wieder tun, ich würd es wieder tun
-    Da war so viel, das so verheißungsvoll begann
-    Und das dann doch wie Sand durch meine Finger rann
-    Fantastereien, an denen wie ein Kind man hängt
-    Die blinde Wut, die mich zum Weitermachen bringt
-    Was auch geschah und ging es mir auch noch so nah
-    Ich würd es wieder und immer wieder tun
-    Der unbescheidene Größenwahn
-    Den manchmal man nicht bremsen kann
-    Das falsche Wort, am völlig falschen Ort
-    Ich würd es wieder tun, ich würd es wieder tun
     Der Tag, an dem du zu mir kamst
     Mir den Verstand, die Sinne namst
     Und dann das Aus, und ich allein im Haus
