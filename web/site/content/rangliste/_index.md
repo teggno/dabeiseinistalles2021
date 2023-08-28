@@ -27,6 +27,6 @@ song:
     Doch ich hab nie den Mantel nach dem Wind gehängt -
     ich hab geliebt - und mich doch niemals aufgedrängt -
     Was auch geschah - und ging es mir auch noch so nah -
-    Ich würd es wieder und doch nicht wieder tun ⁉️
+    Ich würd es wieder und doch nicht wieder tun  🤷‍♂️
 type: rangliste
 ---
