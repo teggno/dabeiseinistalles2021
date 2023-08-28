@@ -24,9 +24,9 @@ song:
     mich an den Rand des Abgrunds trieb -
     Ich hab bewußt - so manche Illusion zerstört -
     Und manchen Rat - der gut gemeint war - überhört
-    Doch ich hab nie den Mantel nach dem Wind gehängt
+    Doch ich hab nie den Mantel nach dem Wind gehängt -
     ich hab geliebt - und mich doch niemals aufgedrängt -
     Was auch geschah - und ging es mir auch noch so nah -
-    Ich würd es wieder und immer wieder tun ⁉️
+    Ich würd es wieder und doch nicht wieder tun ⁉️
 type: rangliste
 ---
