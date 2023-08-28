@@ -1,8 +1,10 @@
 ---
-title: UDO…..
+title: Jukebox….
 draft: true
 date: 2023-08-28T10:15:14.821Z
 ---
+Udo singt…..ich komponiere ein paar Textpassagen dazu…..
+
 Von Zeit zu Zeit werf ich den Blick - 
 auf meinen bunten Weg zurück - 
 Auf das was war - und mir wird klar -
