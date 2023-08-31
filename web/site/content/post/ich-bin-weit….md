@@ -7,6 +7,6 @@ date: 2023-08-30T19:23:46.272Z
 
 Das mit Christian geht in Ordnung. Vielleicht ist es besser, wenn wir uns nicht über den Weg laufen.
 
-Jetzt will ich dich nicht mehr länger aufhalten. Schön, dass Erzengel Raffael(e) in deiner Gedankenwelt Platz hat. Pass gut auf dich auf…..tesoro 🫢….. e fai quello che devi fare……
+Jetzt will ich dich nicht mehr länger aufhalten. Schön, dass Erzengel Raffael(e) in deiner Gedankenwelt seinen Platz hat. Pass gut auf dich auf…..tesoro 🫢….. e fai quello che devi fare……
 
 Raffaele
