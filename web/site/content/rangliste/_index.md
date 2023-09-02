@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 💃🏽 ▶️ 🕺🏾
+  title: RAFFI‘S JUKEBOX  🎸
   url: https://www.youtube.com/watch?v=xFrGuyw1V8s&pp=ygUNZGFuY2luZyBxdWVlbg%3D%3D
   image: img/jukebox.jpg
   description: "\n"
