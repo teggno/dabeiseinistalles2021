@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 -  "
-  url: ""
+  title: "RAFFI‘S JUKEBOX  🎸 -  Adriano Celentano - Apri il cuore "
+  url: https://www.youtube.com/watch?v=OMAGF8WnzhQ&pp=ygUfYXByaSBpbCBjdW9yZSBhZHJpYW5vIGNlbGVudGFubw%3D%3D
   image: img/jukebox.jpg
   description: "\n"
 type: rangliste
