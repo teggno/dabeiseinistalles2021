@@ -7,7 +7,7 @@ date: 2023-09-04T10:21:49.058Z
 
 Eine Bitte hätte ich noch! Falls du nichts mehr von mir lesen willst, lass es dreimal auf dem Festnetz bei mir klingeln. (ich bin heute bis 23 Uhr allein und morgen den ganzen Tag). Ich werde nicht abnehmen, sonst „verschlinge“ ich dich am Telefon. Natürlich werden meine Erzählungen während deinem „pellegrinaggio“  auch seriösere Themen behandeln. Doch ab und zu wie jetzt gerade, ist „questa voglia di prenderti“ 🫢 einfach zu stark. (Ich war schon immer ausgesprochen „nachmittagslastig“)
 
-Geniesse die Landschaft, die Menschen um dich herum, die das Einsamkeit, la cucina casalingha und vor allem dich selbst. Und wenn du träumen willst….c’e per te una canzone di Adriano 🎶 …..
+Geniesse die Landschaft, die Menschen, die Einsamkeit, la cucina casalingha und vor allem dich selbst. Und wenn du träumen willst….c’e per te una canzone di Adriano 🎶 …..
 
 Ich mag dich sehr, Stefania 
 
