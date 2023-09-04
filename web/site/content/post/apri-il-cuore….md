@@ -7,7 +7,7 @@ date: 2023-09-04T10:21:49.058Z
 
 Eine Bitte hätte ich noch an dich! Falls du nichts mehr von mir lesen willst, lass es dreimal auf dem Festnetz bei mir klingeln. (ich bin heute bis 23 Uhr allein und morgen den ganzen Tag). Ich werde nicht abnehmen, sonst „verschlinge“ ich dich am Telefon. Natürlich werden meine Erzählungen während deinem „pellegrinaggio“  auch andere Themen berühren . Doch ab und zu wie jetzt gerade, ist “la voglia di prenderti 🫢 troppo grande“. (Ich war schon immer ausgesprochen „nachmittagslastig“)
 
-Geniesse die Landschaft, die Einsamkeit, das Essen und vor allem dich selbst Und nebenbei noch Adriano 🎶 
+Geniesse die Landschaft, die Einsamkeit, das Essen und vor allem dich selbst. Und nebenbei la canzone di Adriano 🎶 
 
 Ich mag dich sehr, Stefania 
 
