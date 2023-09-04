@@ -7,7 +7,7 @@ date: 2023-09-04T10:21:49.058Z
 
 Lass es dreimal auf dem Festnetz bei mir klingeln, wenn du nichts mehr von mir lesen willst.  (ich bin heute bis Mitternacht allein und morgen den ganzen Tag). Ich werde nicht abnehmen, sonst „verschlinge“ ich dich am Telefon. Natürlich werden meine Erzählungen während deinem „pellegrinaggio„ auch andere Themen berühren. Doch ab und zu wie jetzt gerade, ist mein Verlangen nach dir zu  stark. Ich bin halt „nachmittagsempfindlich“ 🫢.
 
-Geniesse die Landschaft, die Einsamkeit, das Essen und vor allem dich. 
+Geniesse die Landschaft, die Einsamkeit, das Essen und vor allem dich. Und Celentano 🎶 
 
 Ich mag dich sehr.
 
