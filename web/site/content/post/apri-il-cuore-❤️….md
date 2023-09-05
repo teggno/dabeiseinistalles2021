@@ -7,9 +7,7 @@ date: 2023-09-05T16:23:15.355Z
 
 Dass es anders kam, ist umso bedauerlicher, weil sie, wie du in deinem Lied wärmstens empfiehlst, „nur“ noch ihr Herz für ihn öffnet. Jetzt wo sie auf Pilgerreise die Landschaften der Toscana durchkämmt und in der Einsamkeit über die Bücher 📚 geht, denkt er wieder öfters an sie. Er stellt sich vor, dass sie mitten in der „Wildnis“ ihr Zelt aufschlägt und er sich zu ihr legt. Sanft streicht er ihr durch das Haar und dieses Gefühl von Unbeschwertheit und grenzenloser Freiheit macht ihn glücklich. Als ob seine verlorene Jugend zurückgekehrt wäre.
 
-Die Story ist natürlich frei erfunden. Personen die sich angesprochen fühlen, sind auf dem Holz 🪵 weg 😎. Sollte sich jemand in seiner Privatsphäre verletzt fühlen, besteht die Möglichkeit, durch dreimaliges klingeln auf des Schreiberlings Festnetz (morgen Mittwoch von 8-16 Uhr) seinen Unmut zu äussern. Die sofortige Einstellung der „schlüpfrigen“ Berichterstattung wäre die logische Konsequenz. 
-
-Warum bist du mir manchmal so nah und dann wieder so fremd, Stefania? Eines Tages werde ich es herausfinden.
+Das ist die eine Seite der Medaille. Dann gibt es da noch die andere. Warum hast du mich eigentlich nie gefragt, wie es Lilly un mir geht, nachdem alles aufgeflogen ist?  Vielleicht stand auch ich vor dem Abgrund und nicht nur du. Du hast nur deine Haut retten wollen, meine war dir anscheinend egal. Das stimimt mich sehr nachdenklich. Vor allem wenn du nach wie vor auf der These beharrst, dass du niemandem was weggenommen hast. Unsere Partner empfinden das bestimmt anders. Warum bist du mir manchmal so nah und dann wieder so fremd, Stefania? Eines Tages werde ich es herausfinden.
 
 ti abbraccio
 
