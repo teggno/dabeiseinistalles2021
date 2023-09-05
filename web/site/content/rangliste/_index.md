@@ -11,7 +11,7 @@ song:
   description: >+
     Öffne dein Herz - Nein - spann mich nicht auf die Folter - Es gibt nichts -
     was nicht geklärt werden kann - Es gibt nichts -  was unbedingt zu
-    beschützen ist - Spuck dein Geheimnis 🤔  aus Was ausgesprochen wird - ist
+    beschützen ist  🤔 Spuck dein Geheimnis aus 🤫Was ausgesprochen wird - ist
     wie beseitigt - Sonst ist die Liebe nur eine Lüge und keine Poesie - Damit
     sich der Schmerz in Sehnsucht verwandelt - und aus dem Schmerz die
     Heiterkeit wiedergeboren wird - Sag es mir bitte - sag mir - ob du mich noch
@@ -19,7 +19,7 @@ song:
     Herz - Sprich nur - fürchte dich nicht - Sag mir die Wahrheit 🙈 Es genügt
     nur ein wenig Mut dazu - weisst du - es zu verschieben - ist viel schlimmer
     - Öffne dein Herz und lass die Liebe das sein - was sie wirklich ist - una
-    poesia 🤫
+    poesia 💫
 
      
 
