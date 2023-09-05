@@ -9,4 +9,8 @@ Dass es anders kam, ist umso bedauerlicher, weil sie, wie du in deinem Lied wär
 
 Die Story ist natürlich frei erfunden. Personen die sich angesprochen fühlen, sind auf dem Holz 🪵 weg 😎. Sollte sich jemand in seiner Privatsphäre verletzt fühlen, besteht die Möglichkeit, durch dreimaliges klingeln auf des Schreiberlings Festnetz (morgen Mittwoch von 8-16 Uhr) seinen Unmut zu äussern. Die sofortige Einstellung der „schlüpfrigen“ Berichterstattung wäre die logische Konsequenz. 
 
-Warum mag ich dich so sehr Stefania?
+Warum bist du mir manchmal so nah und dann wieder so fremd, Stefania? Eines Tages werde ich es herausfinden.
+
+ti abbraccio
+
+raffaele
