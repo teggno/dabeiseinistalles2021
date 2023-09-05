@@ -1,7 +1,7 @@
 ---
 title: Apri il cuore ❤️…..
 draft: true
-date: 2023-09-05T08:56:35.160Z
+date: 2023-09-05T16:23:15.355Z
 ---
 …..se tutto sarebbe cosi facile, caro Adriano! Nimm zum Beispiel den Schreiberling ✍️. Obwohl sein Herz am rechten Fleck zu sein scheint, passieren ihm nachts,  wenn diese Nymphe 🧚‍♀️ mit ihrem heissen Körper in seinen Träumen erscheint, die verrücktesten Dinge. In solchen Augenblicken wehrt er sich vergeblich dagegen, sie von oben bis unten verwöhnen zu wollen. „Quando li viene quella voglia“, ihr die Kleider vom Leib zu reissen und sie von hinten zu nehmen, steht er machtlos da. Dieses Bild treibt ihn soweit, seinen „einzigen Freund“ in die Hand zu nehmen „fino che esplode“. Nach all dem Ungemach hätte er sie eigentlich aus seinen Gedanken verbannen sollen. Doch das verbale Zusammenspiel, das sie damals miteinander pflegten, war zu „pazzesco“. Dabei war er davon ausgegangen, dass sich mit fortschreitendem Alter das Herz gegen die Lenden durchsetzen würde.
 
