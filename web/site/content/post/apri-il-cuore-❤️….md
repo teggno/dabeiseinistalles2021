@@ -7,7 +7,9 @@ date: 2023-09-05T16:23:15.355Z
 
 Dass es anders kam, ist umso bedauerlicher, weil SIE, wie du in deinem Lied wärmstens empfiehlst, „nur“ noch ihr Herz für ihn öffnet. Jetzt wo sie auf Pilgerreise die Landschaften der Toscana durchkämmt und in der Einsamkeit über die Bücher 📚 geht, denkt er wieder öfters an sie. Er stellt sich vor, dass sie mitten in der „Wildnis“ ihr Zelt aufschlägt und er sich zu ihr legt. Sanft streicht er ihr durch das Haar und dieses Gefühl von Unbeschwertheit und grenzenloser Freiheit macht ihn glücklich. Als ob seine verlorene Jugend zurückgekehrt wäre.
 
-Das ist die eine Seite der Medaille. Dann gibt es da noch die andere. Warum hast du mich eigentlich nie gefragt, wie es Lilly und mir geht, nachdem alles aufgeflogen ist?  Vielleicht stand auch ich vor dem Abgrund und nicht nur du. Dir war in erster Linie wichtig, deine Haut zu retten, meine war dir anscheinend egal. Das stimimt mich sehr nachdenklich. Vor allem wenn du nach wie vor auf der These beharrst, dass du niemandem was weggenommen hast. Unsere Partner empfinden das bestimmt anders. Du bist mir manchmal ein Rätsel, Stefania. Manchmal so nah und dann wieder so fremd. Eines Tages werde ich es herausfinden.
+Das ist die eine Seite der Medaille. Dann gibt es da noch die andere. Warum hat sie ihn eigentlich nie gefragt, wie es Lilly und ihm ginge, nachdem alles aufgeflogen war? Vielleicht stand auch er vor dem Abgrund und nicht nur sie. Warum wollte sie nur ihre Haut retten und die ihres Seelenverwandten war ihr egal? Warum soviel Panikund Feigheit, wenn niemandem etwas weggenommen wurde? 
+
+Du bist mir manchmal ein Rätsel, Stefania. Oft so nah und dann wieder so fremd. Eines Tages werde ich es herausfinden.
 
 ti abbraccio
 
