@@ -18,8 +18,8 @@ song:
     liebst wie früher - oder ob ich jetzt ein Problem für dich bin - Öffne dein
     Herz - Sprich nur - fürchte dich nicht - Sag mir die Wahrheit 🙈 Es genügt
     nur ein wenig Mut dazu - weisst du - es zu verschieben - ist viel schlimmer
-    - Öffne dein Herz und lass die Liebe das sein - was sie wirklich ist - una
-    poesia 💫
+    - Öffne dein Herz und lass die Liebe das sein - was sie wirklich ist - eine
+    Poesie…. 💫
 
      
 
