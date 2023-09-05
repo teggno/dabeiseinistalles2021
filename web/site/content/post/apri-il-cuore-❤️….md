@@ -7,6 +7,4 @@ date: 2023-09-05T16:23:15.355Z
 
 Die Story ist natürlich frei erfunden. Jede Person die sich wiederzuerkennen glaubt, ist auf dem Holzweg. Sollte sich jemand verletzt fühlen, darf er morgen seinen Unmut mit dreimaligem Klingeln aud des Schreiberlings Festnetz zum Ausdruck bringen. Die weitere Berichterstattung wird dann sogleich eingestellt. Beantwortet wird der Anruf nicht. Sonst könnte es passieren, dass die „magetta“ live am Telefon verschlungen wird 🙈🙈🙈
 
-ti abbraccio
-
-raffaele
+Warum mag ich dich eigentlich so, Stefania 🤷‍♂️
