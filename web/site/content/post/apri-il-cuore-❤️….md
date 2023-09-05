@@ -7,4 +7,4 @@ date: 2023-09-05T16:23:15.355Z
 
 Das ist die eine Seite der Medaille. Dann gibt es noch die andere. Unbeantwortete Fragen! Warum hat sie ihn nie gefragt, ob auch er am Abgrund stand?  Wollte sie nur ihre Haut retten und seine war ihr egal? Und warum diese Feigheit und Panik, wenn doch niemandem etwas weggenommen wurde. Ein Widerspruch der nur schwer zu begreifen ist. Das Leben und die vielen Schattierungen. Eines Tages will ich ihr begegnen um alles besser zu verstehn. 
 
-Warum mag ich dich eigentlich so, Stefania …..
+Warum mag ich dich eigentlich so, Stefania …..❓
