@@ -7,6 +7,6 @@ date: 2023-09-05T16:23:15.355Z
 
 Dass es anders kam, ist umso bedauerlicher, weil sie, wie du in deinem Lied wärmstens empfiehlst, „nur“ noch ihr Herz für ihn öffnet. Jetzt wo sie auf Pilgerreise die Landschaften der Toscana durchkämmt und in der Einsamkeit über die Bücher 📚 geht, denkt er wieder öfters an sie. Er stellt sich vor, dass sie mitten in der „Wildnis“ ihr Zelt aufschlägt und er sich zu ihr legt. Sanft streicht er ihr durch das Haar und dieses Gefühl von Unbeschwertheit und grenzenloser Freiheit macht ihn glücklich. Als ob seine verlorene Jugend zurückgekehrt wäre.
 
-Die Story ist natürlich frei erfunden. Personen die sich angesprochen fühlen, sind auf dem Holz 🪵 weg 😎. Sollte sich jemand in seiner Privatsphäre verletzt fühlen, besteht die Möglichkeit, durch dreimaliges Klingelnlassen auf des Schreiberlings Festnetz (heute bis 20 Uhr) seinen Unmut zu äussern. Der “Romancier“ würde seine Berichterstattung natürlich sofort einstellen. Den Anruf abnehmen wird er nicht, sonst verschlingt er die magetta gleich „live“ am Telefon. 
+Die Story ist natürlich frei erfunden. Personen die sich angesprochen fühlen, sind auf dem Holz 🪵 weg 😎. Sollte sich jemand in seiner Privatsphäre verletzt fühlen, besteht die Möglichkeit, durch dreimaliges klingeln auf des Schreiberlings Festnetz (heute bis 19.30 Uhr) seinen Unmut zu äussern. Die sofortige Einstellung der „schlüpfrigen“ Berichterstattung wäre die logische Konsequenz. 
 
 Ich mag dich sehr… Stefania
