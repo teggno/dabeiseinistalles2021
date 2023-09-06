@@ -9,6 +9,6 @@ Wenn der Rausch verklungen ist und die Wirklichkeit ihn wieder einholt, tauchen 
 
 Jetzt wo sie auf Pilgerreise die Landschaften der Toscana durchkämmt und in der Einsamkeit über die Bücher 📚 geht, denkt er wieder öfters an sie. Er stellt sich vor, dass sie mitten in der „Wildnis“ ihr Zelt aufschlägt und er sich zu ihr legt. Sanft streicht er ihr durch das Haar und dieses Gefühl von Unbeschwertheit und grenzenloser Freiheit macht ihn glücklich. Als ob seine verlorene Jugend zurückgekehrt wäre.
 
-Das Leben mit seinen vielen Schattierungen. Hin und hergerissen zwischen einer Frau, die früher für mich als Seelenverwandte galt und heute wie zwei Gesichter hat. 
+Das Leben mit seinen vielen Schattierungen. Hin und hergerissen zwischen einer Frau, die früher für mich als Seelenverwandte galt und heute wie zwei Gesichter hat. Vielleicht höre ich Herzensbrecher Adriano nochmals zu und finde zwischen den Zeilen eine Antwort.
 
 Warum mag ich dich eigentlich so, Stefania …..❓
