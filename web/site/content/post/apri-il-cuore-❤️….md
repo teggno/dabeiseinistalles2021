@@ -7,8 +7,6 @@ date: 2023-09-05T16:23:15.355Z
 
 Wenn der Rausch verklungen ist und die Wirklichkeit ihn wieder einholt, tauchen Fragen auf. Warum hat sie sich immer hinter fadenscheinigen Ausreden versteckt, wenn er sie von Angesicht zu Angesicht treffen wollte. Warum diese Panik und Feigheit, wenn doch niemandem etwas weggenommen wurde. Ein Widerspruch der nur schwer zu begreifen ist. Warum wollte sie nur ihre Haut retten, ohne je zu fragen, ob auch er sich am Abgrund befand.
 
-
-
 Jetzt wo sie auf Pilgerreise die Landschaften der Toscana durchkämmt und in der Einsamkeit über die Bücher 📚 geht, denkt er oft an sie. Er stellt sich vor, dass sie mitten in der „Wildnis“ ihr Zelt aufschlägt und er sich zu ihr legt. Sanft streicht er ihr durch das Haar und dieses Gefühl von Unbeschwertheit und grenzenloser Freiheit macht ihn glücklich. Als ob seine verlorene Jugend zurückgekehrt wäre.
 
 Was wäre das Leben ohne diese vielen Schattierungen! Hin und hergerissen zwischen dieser Frau, die früher seine Seelenverwandte war und  heute in ihm das Gefühl erweckt, zwei Gesichter zu haben, versucht er Adrianos Ratschlag zu befolgen 🎶🎶🎶 
