@@ -11,6 +11,6 @@ Wenn der Rausch verklungen ist und die Wirklichkeit ihn wieder einholt, tauchen 
 
 Jetzt wo sie auf Pilgerreise die Landschaften der Toscana durchkämmt und in der Einsamkeit über die Bücher 📚 geht, denkt er oft an sie. Er stellt sich vor, dass sie mitten in der „Wildnis“ ihr Zelt aufschlägt und er sich zu ihr legt. Sanft streicht er ihr durch das Haar und dieses Gefühl von Unbeschwertheit und grenzenloser Freiheit macht ihn glücklich. Als ob seine verlorene Jugend zurückgekehrt wäre.
 
-Was wäre das Leben ohne diese vielen Schattierungen! Hin und hergerissen zwischen dieser Frau, die früher seine Seelenverwandte war und  heute wie zwei Gesichter hat. Vielleicht kann ihm Herzensbrecher Adriano Celentano weiterhelfen und er findet zwischen seinen  Zeilen die richtige Antwort.
+Was wäre das Leben ohne diese vielen Schattierungen! Hin und hergerissen zwischen dieser Frau, die früher seine Seelenverwandte war und  heute in ihm das Gefühl erweckt, zwei Gesichter zu haben, versucht er Adrianos Ratschlag zu befolgen 🎶🎶🎶 
 
 Warum mag ich dich eigentlich so, Stefania …..❓
