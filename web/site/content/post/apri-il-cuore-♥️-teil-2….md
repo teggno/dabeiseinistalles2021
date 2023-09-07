@@ -1,5 +1,5 @@
 ---
-title: Apri il cuore ♥️ Teil 2….
+title: Apri il cuore ♥️ Teil 2
 draft: true
 date: 2023-09-07T07:28:59.705Z
 ---
