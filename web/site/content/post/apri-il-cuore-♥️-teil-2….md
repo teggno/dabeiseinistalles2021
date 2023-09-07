@@ -7,6 +7,6 @@ Ob sie Teil 1 wohl gelesen hat? Vielleicht sogar in Begleitung von Adrianos Musi
 
 Gestern als er in ihrem Zelt lag und durch ihr Haar streifte „si e aperto il suo cuore“. Kuscheln war früher nie sein Ding gewesen, doch jetzt im Herbst seines Lebens, gewann er dieser Art von Nähe durchaus einen gewissen Reiz ab. Bald einmal kamen sie auf ihren Geburtstag vor vier Jahren zu sprechen. Wie schön es gewesen war, obwohl sie anfangs fast „ertrunken“ wären. ABBA hatten ihr diesen Tag ganz besonders versüsst. Jede Stunde hatten sie an jenem lauschigen Plätzchen einen ihrer Greatest Hits zum besten gegeben. Damals hätte er unbedingt einen Tanz mit ihr machen wollen. Doch weder dort noch später ist es je zu diesem speziellen Vergnügen gekommen.
 
-Inzwischen war sie von ihrer anspruchsvollen Wanderung müde geworden. Auf der Karte hatte er ihren Weg mitverfolgt, der durch die lieblichen Felder der Toscana führte. Ob sie die vielen Eindrücke wahrnahm, während sie gleichzeitig ihr Leben Revue passieren liess? Bestimmt gingen ihr “mille pensieri“ durch den Kopf. Ob ihr diese Ablenkung 🎶🎶🎶 wohl gefallen hätte?
+Sie war müde geworden von ihrer anspruchsvolle Wanderung. müde geworden. Auf der Karte hatte er ihren Weg ausfindig gemacht, der durch die lieblichen Felder der Toscana führte. Er kannte die Gegend und wenn er von San Gimignano hinunter aufs Tal blickte, erfasste ihn ein Gefühl von Zufriedenheit. Ob sie die vielen Eindrücke wahrnahm, während sie gleichzeitig ihr Leben Revue passieren liess? Bestimmt gIngen ihr “mille pensieri“ durch den Kopf, die sich aber in Luft auflösten, wenn diese Melodie erklang….
 
-Darf ich Sie bitten zum Tanz ……
+Balliamo Stefania……
