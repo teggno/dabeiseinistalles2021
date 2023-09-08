@@ -9,4 +9,4 @@ Gestern als er in ihrem Zelt lag und seine Hand durch ihr Haar streifte „si e 
 
 Die anspruchsvolle Wanderung hatte sie müde gemacht. Er hatte den Pilgerweg auf der Karte studiert, der durch  die wundervolle Toscana führt. So wie er Sie einschätzte, war ihre Fitness der Aufgabe gewachsen. Er kannte die Gegend aus dem Urlaub und wenn er von San Gimignano hinunter aufs Tal blickte, erfasste ihn ein Gefühl von grenzenloser Freiheit. Ob sie die vielen Eindrücke wahrnahm, während sie gleichzeitig ihr Leben Revue passieren liess? Bestimmt gIngen ihr “mille pensieri“ durch den Kopf. Das Lied auf der Jukebox hat die Fähigkeit, Sie auf andere Gedanken zu bringen….
 
-Ti voglio bene.
+Balliamo …..
