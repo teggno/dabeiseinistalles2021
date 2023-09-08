@@ -9,4 +9,4 @@ Gestern als er in ihrem Zelt lag und seine Hand durch ihr Haar streifte „si e 
 
 Sie war von ihrer anspruchsvollen Wanderung müde geworden. Auf der Karte hatte er den Pilgerweg studiert, der zwar durch die lieblichen Felder der Toscana führte, aber gleichzeitig ihre Fitness auf die Probe stellte. Er kannte die Gegend aus dem Urlaub und wenn er von San Gimignano hinunter aufs Tal blickte, erfasste ihn ein Gefühl von Glückseligkeit. Ob sie die vielen Eindrücke wahrnahm, während sie gleichzeitig ihr Leben Revue passieren liess? Bestimmt gIngen ihr “mille pensieri“ durch den Kopf, die sich aber in Luft auflösen sollten, sobald diese Melodie erklingt….
 
-Ti voglio bene Stefania
+PS: das auch noch!
