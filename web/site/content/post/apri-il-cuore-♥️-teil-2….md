@@ -7,6 +7,6 @@ Ob sie Teil 1 seiner Memoiren wohl gelesen hat? Niemand wird jemals erfahren, ob
 
 Gestern als er in ihrem Zelt lag und seine Hand durch ihr Haar streifte „si e aperto il suo cuore“. Kuscheln war früher nie sein Ding gewesen, doch jetzt im Herbst seines Lebens, gewann er dieser Art von Nähe durchaus einen gewissen Reiz ab. Bald einmal kamen sie auf ihren Geburtstag vor vier Jahren zu sprechen. Wie schön es gewesen war, obwohl sie anfangs fast im Regen „ertrunken“ wären. ABBA hatten mit ihren „Greatest Hits“ IHREN TAG ganz besonders versüsst. 
 
-Die anspruchsvolle Wanderung hatte sie müde gemacht. Er hatte den Pilgerweg auf der Karte studiert, der durch  die wundervolle Toscana führt. So wie er Sie einschätzte, war ihre Fitness der Aufgabe gewachsen. Er kannte die Gegend aus dem Urlaub und wenn er von San Gimignano hinunter aufs Tal blickte, erfasste ihn ein Gefühl von grenzenloser Freiheit. Ob sie die vielen Eindrücke wahrnahm, während sie gleichzeitig ihr Leben Revue passieren liess? Bestimmt gIngen ihr “mille pensieri“ durch den Kopf. Das Lied auf der Jukebox wirkt Wunder…..
+Die anspruchsvolle Wanderung hatte sie müde gemacht. Er hatte den Pilgerweg auf der Karte studiert, der durch  die wundervolle Toscana führt. So wie er Sie einschätzte, war ihre Fitness der Aufgabe gewachsen. Er kannte die Gegend aus dem Urlaub und wenn er von San Gimignano hinunter aufs Tal blickte, erfasste ihn ein Gefühl von grenzenloser Freiheit. Ob sie die vielen Eindrücke wahrnahm, während sie gleichzeitig ihr Leben Revue passieren liess? Bestimmt gIngen ihr “mille pensieri“ durch den Kopf. Das Lied auf der Jukebox wird Wunder wirken…..
 
-Balliamo …..
+Balliamo …..❓
