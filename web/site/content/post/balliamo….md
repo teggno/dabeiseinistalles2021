@@ -4,7 +4,7 @@ draft: true
 date: 2023-09-12T06:15:07.541Z
 image: img/6419d9df-3893-4f72-89dc-adda2a010609.jpeg
 ---
-Irgendwie gefiel ihm der Gedanke, dass Sie seine „Memoiren“ stumm über sich ergehen lassen musste. Sie war seine Muse gewesen. Mit ihr hatte er Intimstes geteilt. Es auf Papier zu bringen, erregte ihn. Für wenige Augenblicke schien die mittlerweile chronische Lethargie von ihm gewichen. Er wollte nicht so enden wie Philippe Noiret in der Tragikomödie „le Coup de Torchon“. In einem Anflug von Trübsinn und Nostalgie hatte er seiner Gespielin die Zwecklosigkeit seines Daseins dargelegt. Weisst du, sagte er zu ihr: „Ich bin doch schon lange tot“.
+Irgendwie gefiel ihm der Gedanke, dass Sie seine „Memoiren“ stumm über sich ergehen lassen musste. Sie war seine Muse gewesen. Mit ihr hatte er Intimstes geteilt. Es auf Papier zu bringen, erregte ihn. Für wenige Augenblicke schien die mittlerweile chronische Lethargie von ihm gewichen. Er wollte nicht so enden wie Philippe Noiret in der Tragikomödie „le Coup de Torchon“. In einem Anflug von Trübsinn und Nostalgie hatte er seiner Gespielin die Zwecklosigkeit seines Daseins zu erklären versucht. Weisst du, sagte er zu ihr: „Ich bin doch schon lange tot“.
 
 Ob Sie seine Artikel 📝 lesen würde, abends wenn Sie  müde auf iher Bett fiel?  Oder boykottierte Sie ihn aus lauter Protest gegen seine Sex-Manie? „Come li piaceva quella volta“, wenn er mit seinen Fingern unter ihr Höschen schlüpfte. Wie herrlich feucht und nass sich ihr Schmuckstück anfühlte. Er liebte es, wenn „dä Saft“ an ihren Schenkeln herunterlief und er ihn mit seiner Zunge lustvoll ablecken konnte. Sie steckte ihm gerne ihre nassen Finger in den Mund, während auf ihren scharfen Titten die wundervollen Knospen in die Höhe spriessten. 
 
