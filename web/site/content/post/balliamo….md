@@ -2,6 +2,7 @@
 title: Balliamo…..
 draft: true
 date: 2023-09-12T06:15:07.541Z
+image: img/6419d9df-3893-4f72-89dc-adda2a010609.jpeg
 ---
 Irgendwie gefiel ihm der Gedanke, dass Sie seine „Memoiren“ stumm über sich ergehen lassen musste. Es war zwar ziemlich einseitig, doch nichtsdestotrotz erregten ihn seine wilden Phantasien. Und wenn er sie las, war der Effekt noch grösser. Irgendetwas musste in seiner frühesten Kindheit schiefgergangen sein, dass dieser „Spuk“ kein Ende nahm. Die „Notizen“ waren wie ein Zaubertrank. Er wollte es nicht soweit kommen lassen wie Philippe Noiret in der Tragikomödie „le Coup de Torchon“ als er zu seiner Kumpanin den Satz sagte: „Eigentlich bin ich schon lange tot.“ 
 
