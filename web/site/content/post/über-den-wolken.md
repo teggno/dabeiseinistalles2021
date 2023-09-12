@@ -1,6 +1,0 @@
----
-title: "Über den Wolken "
-draft: true
-date: 2023-09-12T06:02:04.765Z
----
-Kommst du mit nach oben? Du sagst nichts, machst nur einen Schritt auf mich zu und drängst mich indirekt mit deinem Körper zu den Aufzügen. Ich habe keine Ahnung, was ich da eben getan habe ... aber es gefällt mir, erregt mich. Der Aufzug kommt, wir steigen ein, sind allein ... fünfter Stock ... die Türen schließen sich. Ohne Vorwarnung drehst du mich zu dir, stellst mich mit dem Rücken an die Wand, küsst mich. Erst zurückhaltend, bis du merkst, dass ich darauf einsteige. Dein Kuss wird wild, fordernd, leidenschaftlich, du knabberst an meiner Lippe. Deine Hände schieben meinen Mantel auseinander, er rutscht mir von den Schultern, deine Hände wandern zu meinem Hintern, unter meinen Rock. Eine Hand wandert nach vorn, in mein Höschen, ich bin nass, schon seit dem Moment, wo deine Hand auf meinem Oberschenkel lag. Ich kann ein Stöhnen nicht zurückhalten ... zu gut ist das Gefühl deiner Finger auf meiner empfindlichsten Stelle. Du lässt ab von mir. Genau in dem Moment, als wir oben sind.
