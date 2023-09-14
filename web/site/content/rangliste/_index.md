@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist im Moment nicht verfügbar
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Kopfkino ▶️ 🙈🙈🙈
+  title: RAFFI‘S JUKEBOX  🎸  Alles nur Kopfkino ▶️
   url: https://www.youtube.com/watch?v=8cRDs9FqWxo&pp=ygUcamUgdCdhaW1lIG1vaSBub24gcGx1cyB2aW55bA%3D%3D
   image: img/jukebox.jpg
   description: "\n\n\ \n\n"
