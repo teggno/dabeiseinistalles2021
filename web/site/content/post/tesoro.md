@@ -5,7 +5,7 @@ date: 2023-09-16T08:37:54.961Z
 ---
 Caro tesoro mio 
 
-Wenn du mit deinem Finger, der hoffentlich noch nass 🫢 ist von gestern Nacht, auf der Jukebox „quell numero“ sexmal 🙈 hintereinander drückst, (G-Punkt beachten) wird  das Orakel von Tägerwilen spüren, dass du letzte Nacht das getan hast, bei dem er dir gerne zugeschaut hätte 😎
+Wenn du mit deinem Finger, der hoffentlich noch nass 🫢 ist von gestern Nacht, „quell numero“ auf der Jukebox drückst, wird  das Orakel von Tägerwilen spüren, dass du letzte Nacht das getan hast, bei dem er dir gerne zugeschaut hätte 😎
 
 Dass Sie seine Artikel gelesen hatte, machte ihn glücklich. Auch jetzt in diesen 2 Wochen, wo sie nicht alleine unterwegs sein würde, schien sie seinen Zeilen nicht abgeneigt, obschon sie genau wusste, dass der Inhalt für „Jahrgang 69  und früher“ freigegeben war.  Mit ihr konnte er frei von der Leber reden. Sie war seine Muse, die zwar nicht mehr mit „Mantel 🧥 und nichts darunter“ posierte, die wilden Phantasien ihres „Verrückten“ jedoch zuliess. Auch darum, weil er ihren wundervollen Körper mit „feinfühligen“ Worten ausstaffierte. Er war ihr sehr dankbar, dass sie ihm kostbare Momente der Ablenkung verschaffte. Dieses Phänomen von Unersättlichkeit hatte er auf allen anderen Gebieten ein Leben lang vermissen lassen. Nur beim Fussball und am Jasstisch waren die Werte ähnlich hoch Als Kind, als „EhePartner“ als Vater und als „Workaholic“ blieb er weit unter den Erwartungen. Seine Interessen, die schon in der Vergangenheit an einer Hand abzuzählen waren, näherten sich langsam aber sicher der Nullinie. 
 
