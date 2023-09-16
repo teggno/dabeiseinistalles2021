@@ -11,6 +11,6 @@ Dass Sie seine Artikel gelesen hatte, machte ihn glücklich. Auch jetzt in diese
 
 Ob sie das leere Blatt 🤷‍♂️ auf der Startseite irgendwann mit ihren scharfzüngigen Notizen ausfüllen wird? Die Literaturwelt ist gespannt…..
 
-Ich umarme dich fest
+In questo abbracio c‘e tanto amore
 
 Raffaele
