@@ -1,5 +1,5 @@
 ---
-title: "Jahrgang der Spitzenklasse "
+title: Spitzenjahrgang
 draft: true
 date: 2023-09-16T08:37:54.961Z
 ---
