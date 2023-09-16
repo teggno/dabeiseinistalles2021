@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist im Moment nicht verfügbar
 song:
-  title: RAFFI‘S JUKEBOX  🎸  🎈 ▶️ 🎉
+  title: RAFFI‘S JUKEBOX  🎸 Voulez ♋️ Vous
   url: https://www.youtube.com/watch?v=za05HBtGsgU&pp=ygUQdm91bGV6IHZvdXMgYWJiYQ%3D%3D
   image: img/jukebox.jpg
   description: "\n\n\ \n\n"
