@@ -7,7 +7,7 @@ Wie geht es meiner mir lieb gewordenen Muse, die ich so sehr vermisse? Ich bin i
 
 Dein Jahrgang  ♋️ schmeckt übrigens vorzüglich. Jetzt wo du auf dem Boden über mir kniest und dini „Eccola“ übär mim Gsicht verschtrichsch, kann ich dein betörendes Parfum riechen. „Quanto sei bagnata“! Beweg deinen geilen Po rhythmisch im Kreis ….ufä und abä….so dass mini Zungä richtig gschpürsch. Geniess den besonderen Moment und bück dich mit deinem Oberkörper zu meinen Schwanz. Er hat sich extra für dich lang gemacht. Umklammere ihn mit deiner Hand und nimän i dis Muul …..für dini laaangzooogänä tüüüfää Züüüüg  …..die man nirgends erlernen kann.
 
-Ti  v o g l i o…..tanto bene Stefania  e ti abbraccio con tutto il mio cuore 
+Ti  v o g l i o…..tanto bene….carissima Stefania  e ti abbraccio con tutto il mio cuore 
 
 Lass dir  deine Lieblinge 🎶🎶🎶 nicht entgehn….
 
