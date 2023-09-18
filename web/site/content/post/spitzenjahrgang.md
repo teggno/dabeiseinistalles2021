@@ -1,5 +1,5 @@
 ---
-title: Spitzenjahrgang
+title: Spitzen 🍷 Jahrgang
 draft: true
 date: 2023-09-17T08:33:46.436Z
 ---
