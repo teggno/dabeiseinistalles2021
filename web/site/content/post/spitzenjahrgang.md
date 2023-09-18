@@ -7,4 +7,4 @@ Wie geht es meiner mir liebgewordenen Muse die nicht mehr „mit Mantel 🧥 und
 
 Dein Jahrgang schmeckt übrigens vorzüglich. Jetzt wo du über mir kniest und dini „Eccola“ á mim gsicht ribsch……Riech ich dein betörendes Parfum……blib uf mini lippä…..i mach mini zungä ganz spitz(ig) ….und schteck si diär inä…..beweg din po e prendi tutto il mio cazzo dentro  la tua bocca……er hat sich extra für dich lang gemacht……für dini laaangzooogänä Züüüüg  …..die man nirgends erlernen kann….
 
-Ti  v o g l i o…..cosi bene Stefania  e tiabbraccio con tutto il mio cuore
+Ti  v o g l i o…..cosi bene Stefania  e ti abbraccio con tutto il mio cuore
