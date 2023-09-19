@@ -1,7 +1,7 @@
 ---
 title: Spitzen 🍷 Jahrgang
 draft: true
-date: 2023-09-18T10:52:24.426Z
+date: 2023-09-19T12:22:40.428Z
 ---
 Wie geht es meiner mir lieb gewordenen Muse, die ich so sehr vermisse? Ich bin immer noch davon angetan, dass du mir auf Umwegen geschrieben hast. „Quando leggo le tue parole si apre il mio cuore“. Grazie tesoro 🥰 Und dass du mich weiterhin besuchst, „mi fa felice“. Das Kind in mir ist vor Neugier fast am Platzen, weil es noch so gerne wüsste, ob dein Finger in den letzten Tagen seine „Seelenverwandte„ ausfindig gemacht hat. Am liebsten hätte ich ein Photo von dir, hier oben im freien Feld, „con le gambe aperte e quell dito sulla figa“. Von heute Dienstag bis Mittwochmittag werde ich alleine sein. Lass es doch bei mir auf dem Festnetz klingeln, damit ich unsere tiefe Verbundenheit noch mehr spüre.Abnehmen tue ich nicht. Ich werde jetzt schon geil, wenn ich weiss, dass du dran bist. 
 
