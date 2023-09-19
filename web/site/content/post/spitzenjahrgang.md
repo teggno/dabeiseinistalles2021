@@ -8,7 +8,7 @@ Wie geht es meiner mir so lieb gewordenen Muse? Ich bin immer noch davon angetan
 
 Dein Jahrgang  ♋️ schmeckt übrigens vorzüglich. Jetzt wo du auf dem Boden über mir kniest und „dini Eccola übär mim Gsicht verschtrichsch“, kann ich dein betörendes Parfum riechen. „Quanto sei bagnata“. Beweg deinen geilen Po rhythmisch im Kreis….dänn ufä und abä….so dass mini Zungä richtig fescht i dinärä muschi gschpürsch. Geniess den besonderen Moment und bück dich mit dem Oberkörper zu meinen Schwanz. Er hat sich extra für dich lang gemacht. Nimän i d’Hand und dänn is Muul …..für dini laaangzooogänä tüüüfää Züüüüg  …..die man nirgends erlernen kann.
 
-Come mi piace, wänn miär üs drüsprochig miteinander verständigen. Ti  v o g l i o…..tanto bene Stefania….e ti abbraccio con tutto il mio cuore 
+Come mi piace, wänn miär üs drüüsprochig miteinander verständigen. Ti  v o g l i o…..tanto bene Stefania….e ti abbraccio con tutto il mio cuore 
 
 Lass dir  deine Lieblinge 🎶🎶🎶 nicht entgehn….
 
