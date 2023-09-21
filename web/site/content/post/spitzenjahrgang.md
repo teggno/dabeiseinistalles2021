@@ -1,7 +1,7 @@
 ---
 title: Spitzen 🍷 Jahrgang
 draft: true
-date: 2023-09-20T13:06:42.007Z
+date: 2023-09-21T09:14:18.982Z
 image: null
 ---
 Wie geht es meiner mir so lieb gewordenen Muse? Ich bin immer noch davon angetan, dass du mir auf Umwegen geschrieben hast. Le tue parole mi mancano. Doch zu wissen, dass du ab und zu einen Blick auf hineinwirfst, „mi fa felice“. Das Kind in mir ist vor Neugier fast am Platzen, weil es noch so gerne wüsste, ob dein Finger in den letzten Tagen seine „Seelenverwandte„ ausfindig gemacht hat. Am liebsten hätte ich ein Photo von dir, hier oben im freien Feld, mit gespreizten Beinen, die dein Schmuckstück zur Geltung bringen. Lo so che sono malato ……🤫
