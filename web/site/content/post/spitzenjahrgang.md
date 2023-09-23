@@ -1,7 +1,7 @@
 ---
 title: Spitzen 🍷 Jahrgang
 draft: true
-date: 2023-09-22T09:17:14.545Z
+date: 2023-09-23T06:04:32.292Z
 image: null
 ---
 Wie geht es meiner mir ans Herz ♥️ gewachsenen Muse? Ich bin immer noch davon angetan, dass du mir auf Umwegen geschrieben hat. Le tue parole affetuose mi mancano. Doch zu wissen, dass du ab und zu einen Blick auf meine „Notizen“  wirfst „mi fa felice“. Das Kind in mir ist vor Neugier fast am Platzen, weil es noch so gerne wüsste, ob es in jenen Tagen zwischen deinem Finger und deiner „Seelenverwandten“ zu einem spontanen Treffen gekommen ist. 🫢 Am liebsten hätte ich ein Photo von dir, hier oben im freien Feld, mit gespreizten Beinen, die dein Schmuckstück zur vollen Entfaltung bringen.…Lo so che sono malato 🙈🙈🙈
