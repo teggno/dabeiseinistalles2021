@@ -9,7 +9,7 @@ Raus aus der Sinnlosigkeit - rein auf den Miniatur-Pilgerweg! Von Tägerwilen na
 
 Ich blicke gen Himmel, da fliegt sie 🧚‍♀️ schon daher. Mit Strapsen, roten Highheels 👠 und sonst gar nichts.  Jetzt wo du auf mir kniest und deine „figetta“ übär mim ganzä Gsicht verschtrichsch, kann ich dein betörendes Parfum riechen. Come sei bagnata…Beweg din gailä Po ufä und abä und dänn im Kreis so dass mini spitz(ige) Zungä richtig tüüf i dich inä schlüüft. Geniesse den Moment und diese einmalige Aussicht. Bück di mit dim Oberkörper zu mim Schwanz. I cha nümmä wartä. Er hat sich extra für dich lang gemacht. Nimmän i d‘Hand und dänn is Muul  für dini laaaangzogänä tüüüfä Züüg, die man nirgends erlernen kann. Dein Jahrgang ♋️ ist einfach Spitze! E come mi piace….. mich drüsprochig mit diär…….zu verständigen.
 
-Lass dir deine Lieblinge nicht entgehen.
+Lass dir deine Lieblinge nicht entgehen 🎶🎶🎶
 
 Ti voglio bene
 
