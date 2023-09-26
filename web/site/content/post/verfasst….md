@@ -9,7 +9,7 @@ Raus aus der Komfortzone und rein auf den Miniatur-Pilgerweg! Ein wundervoller S
 
 Ich blicke hinauf zum Himmel! Da fliegt sie 🧚‍♀️ schon daher. Mit Strapsen, roten Highheels 👠 und sonst gar nichts 🙈  Quanto tempo e passato!  Jetzt wo du auf mir kniest und du dini „eccola“ übär mim ganzä Gsicht verschtrichsch, kann ich dein betörendes Parfum riechen. Come sei bagnata. Beweg din gailän Arsch ufä und abä und dänn im Kreis so dass mini spitz(ige) Zungä richtig tüüf i dich inä schlüüft. I knutsch där si ab und sug där din chüzlär us.. Geniesse den Moment und diese einmalige Aussicht auf das Panorama. Bück di mit äm Oberkörper zu mim Schwanz Er hat sich extra für dich lang gemacht. Nimmän i d‘Hand und wichs än durä….bis än i dis Muul nimmsch für dini laaaangzogänä tüüüfä Züüg, die man nirgends erlernen kann.! Din Jorgang ♋️  Steffi isch dä Wahn! E come mi piace….. wänn mer üs drüsprochig……miteinander verständigen. 
 
-Arrivederci tesoro mio 🧚‍♀️. Ich muss zurück auf meinen Weg. Noch immer spüre ich deinen Saft in meinem Mund. Er wird mich beflügeln.
+Arrivederci tesoro mio 🧚‍♀️. Grazie per il „Schäferstündchen“. Ich muss zurück auf meinen Weg. Noch immer spüre ich deinen Saft in meinem Mund. Er wird mich beflügeln.
 
 Lass dir deine Lieblinge nicht entgehen 🎶🎶🎶
 
