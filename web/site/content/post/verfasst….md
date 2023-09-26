@@ -15,4 +15,6 @@ Arrivederci tesoro mio 🧚‍♀️. Grazie per il „Schäferstündchen“. Ic
 
 Lass dir deine Lieblinge nicht entgehen 🎶🎶🎶
 
+Ti voglio tanto bene 
+
 Raffaele
