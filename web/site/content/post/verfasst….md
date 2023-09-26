@@ -1,5 +1,5 @@
 ---
-title: DER 🍷 Spitzenjahrgang 🫢
+title: Spitzen🍷Jahr 🫢 Gang
 draft: true
 date: 2023-09-25T12:16:00.000Z
 ---
