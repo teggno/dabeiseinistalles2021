@@ -9,7 +9,7 @@ Raus aus der Komfortzone und rein auf den Miniatur-Pilgerweg! Ein wundervoller S
 
 Ich blicke hinauf zum Himmel! Da fliegt sie 🧚‍♀️ schon daher. Mit Strapsen, roten Highheels 👠 und sonst gar nichts. Quanto tempo e passato!  Jetzt wo du auf mir kniest und du deine „figetta“ und übär mim ganzä Gsicht verschtrichsch, kann ich dein betörendes Parfum riechen. Come sei bagnata…Beweg din gailä Po ufä und abä und dänn im Kreis so dass mini spitz(ige) Zungä richtig tüüf i dich inä schlüüft. I knutsch där si ab und sug där din chüzlär us.. Geniesse den Moment und diese einmalige Aussicht. Bück di mit äm Oberkörper zu mim Schwanz Er hat sich extra für dich lang gemacht. Nimmän i d‘Hand und wichs än durä bis dis Muul parat isch  für dini laaaangzogänä tüüüfä Züüg, die man nirgends erlernen kann.! Din Jorgang ♋️  Stefania passt wunderbar zu diär. E come mi piace….. wänn mer üs drüsprochig……miteinander verständigen. 
 
-Ciao du geile Frau 🧚‍♀️. 
+Arrivederci du geile Frau 🧚‍♀️. Ich muss zurück auf meinen Weg. Ich spüre noch immer deinen Saft in meinem Mund. Er wird mich beflügeln.
 
 Lass dir deine Lieblinge nicht entgehen 🎶🎶🎶
 
