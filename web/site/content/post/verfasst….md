@@ -3,7 +3,7 @@ title: Spitzen🍷Jahr 🫢 Gang
 draft: true
 date: 2023-09-25T12:16:00.000Z
 ---
-Wie geht es meiner mir ans Herz ♥️ gewachsenen Muse, die mich so inspiriert? Noch immer bin ich gerührt, dass sie mich auf Umwegen in meinem Versteck aufgesucht hat. Dass sie alles gelesen hat und auf dem Weg mehrfach auf meinen Namen gestossen bist, mi fa felice. Du bedeutest mir so viel Stefania. Ich vermisse dich.
+Wie geht es meiner mir ans Herz ♥️ gewachsenen Muse, die mich so inspiriert? Noch immer bin ich gerührt, dass sie mich auf Umwegen in meinem Versteck aufgesucht hat. Dass sie alles gelesen hat und auf dem Weg mehrfach auf meinen Namen gestossen bist, mi fa felice. Du bedeutest mir so viel Stefania. Ich vermisse dich. Manchmal wünschte ich mir, dass du auf meinem Festnetz ☎️ klingelst. Nur um unsere Verbundenheit zu spüren. Ich bin die ganze Woche tagsüber allein. Natürlich würde ich nicht abnehmen.
 
 Das Kind in mir ist vor Neugier fast am Platzen. Hat sie sich jetzt in jenen Tagen des „Pellegrinaggio“ von ihrem Finger zu einem Date mit „ihrer figetta“ überreden lassen? Am liebsten hätte ich ein Photo von ihr mit gespreizten Beinen, hier oben im leerem Feld, der ihr Schmuckstück zur vollen Entfaltung bringt.  Wenn ihre Knospen auch noch auf dem Bild sind, gerate ich komplett aus dem Häuschen 🙈 Adesso non dire che sono malato …..
 
