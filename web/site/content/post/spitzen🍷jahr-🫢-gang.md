@@ -2,6 +2,7 @@
 title: Spitzen🍷Jahr 🫢 Gang
 draft: true
 date: 2023-09-28T12:03:41.553Z
+image: null
 ---
 Wie geht es meiner mir ans Herz ♥️ gewachsenen Muse, die mich dermassen inspiriert? Nur sie kann meine Gedankengänge nachvollziehen, die für andere schwer zu verstehen sind. Nur sie hat dieses feine Gespür! Noch immer bin ich gerührt, dass sie mich auf Umwegen in meinem Versteck aufgesucht hat. Dass sie alles gelesen hat und auf ihrem Pilgerweg mehrfach auf meinen Namen gestossen ist, „mi fa molto felice“. Jetzt wechsle ich zum „du“, denn so kann ich besser ausdrücken, wieviel du mir bedeutest, Stefania. Ich vermisse dich. Wenn du es heute (2.10.) auf meinem Festnetz klingeln lässt, kann ich wenigstens auf diese Art deine Nähe und Verbundenheit spüren. Ich werde nicht abnehmen, obwohl ich alleine bin. 
 
