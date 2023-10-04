@@ -9,14 +9,14 @@ song:
   url: https://www.youtube.com/watch?v=3A19HSowZp0&pp=ygUhdGhlIGxvbmcgYW5kIHdpbmRpbmcgcm9hZCBiZWF0bGVz
   image: img/jukebox.jpg
   description: >+
-    Die lange kurvenreiche Strasse - die mich zu meiner Haustür führt - wird nie
-    verschwinden - Ich habe diese Straße schon immer gekannt - Sie führt mich
+    Die lange und gewundene Strasse - die mich zu meiner Haustür führt - wird
+    nie verschwinden - Ich habe diesen Weg schon immer gekannt - Er führt mich
     stets zurück zu mir - Jene stürmische Nacht - die vom Regen fortgespült
-    wurde - hat nichts als Leere hinterlassen - Ich war im Leben fast immer
-    allein - und hab mich oft gefragt  - wofür ich eigentlich da bin - Was
-    soll’s - du wirst niemals erfahren - wieviele Wege ich schon ausprobiert
-    habe - Und doch führen sie mich immer wieder zurück auf die lange
-    kurvenreiche Straße - wo du mich hast stehen lassen - vor langer langer Zeit
+    wurde - hat nichts als Leere hinterlassen - Ich war im Leben oft allein und
+    hab mich gefragt  - wofür ich eigentlich da bin - Was soll’s - du wirst
+    niemals erfahren - wieviele Wege ich schon ausprobiert habe - Und doch
+    führen sie mich immer wieder zurück auf die lange gewundene Straße - wo du
+    mich hast stehen lassen - vor langer langer Zeit
 
 type: rangliste
 ---
