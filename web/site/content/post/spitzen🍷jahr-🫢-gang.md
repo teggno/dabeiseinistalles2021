@@ -13,9 +13,3 @@ Raus aus der Komfortzone und rein in die Natur. Ein wundervoller Spät-September
 Ich blicke hinauf zum Himmel! Da fliegt sie 🧚‍♀️ schon daher. Mit schwarzen Strapsen, roten Highheels 👠 und sonst gar nichts im Gepäck.🙈  Quanto tempo e passato!  Jetzt wo du auf mir kniest und du dini „eccola“ übär mim ganzä Gsicht verschtrichsch, kann ich dein betörendes Parfum riechen. Come sei bagnata. Beweg din gailän Arsch ufä und abä und dänn im Kreis so dass mini spitz(ige) Zungä richtig tüüf i dich inä schlüüft. I knutsch där si ab und sug där din scharfä chüzlär us. Geniess den Moment und dieses einmalige Panorama. Pero non lasciarmi aspettare troppo uf dini schpezialität. Bück dich mit deinem Oberkörper zu meinem Schwanz Er hat sich extra für dich lang gemacht. Nimmän i d‘Hand und wichs än durä….und dänn nimmän i dis Muul für diä laaaangzogänä tüüüfä Züüg, die man nirgends erlernen kann! Du und din Jorgang ♋️  Steffi. sind aifach dä Wahn. E come mi piace….. wänn mer üs drüsprochig……miteinander verständigen. 
 
 Arrivederci tesoro mio 🧚‍♀️. Grazie per questo meraviglioso „Schäferstündchen“. Ich muss zurück auf meinen Weg. Noch immer spüre ich deinen Blüten 🍯 Honig in meinem Mund. Er wird mich beflügeln.
-
-Lass dir deine Lieblinge nicht entgehen 🎶🎶🎶
-
-Ti voglio tanto bene 
-
-Raffaele
