@@ -10,7 +10,7 @@ song:
   image: img/jukebox.jpg
   description: >+
     Die lange und gewundene Strasse - die mich zu meiner Haustür führt - wird
-    nie verschwinden - Ich habe diesen Weg schon immer gekannt - Er führt mich
+    nie verschwinden - Ich bin diesen Weg schon immer gegangen - Er führt mich
     stets zurück zu mir - Jene stürmische Nacht - die vom Regen fortgespült
     wurde - hat nichts als Leere hinterlassen - Ich war im Leben oft allein und
     hab mich gefragt  - wofür ich eigentlich da bin - Was soll’s - du wirst
