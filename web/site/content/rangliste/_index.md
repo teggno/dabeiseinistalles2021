@@ -20,8 +20,8 @@ song:
 
     Ich war ein Leben lang allein
     Und hab mich stets gefragt 
-    was ich hier eigentlich mache
-    Was soll’s – du wirst niemals erfahren
+    warum ich eigentlich da bin
+    Was soll’s - du wirst niemals erfahren
     Wieviele Wege ich schon ausprobiert habe
     Und doch führen sie mich immer zurück
     Auf die lange kurvenreiche Straße
