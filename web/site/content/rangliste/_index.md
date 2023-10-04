@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=3A19HSowZp0&pp=ygUhdGhlIGxvbmcgYW5kIHdpbmRpbmcgcm9hZCBiZWF0bGVz
   image: img/jukebox.jpg
   description: >+
-    Die kurvenreiche Strasse - die mich zu meiner Haustür führt - wird nie
+    Die lange kurvenreiche Strasse - die mich zu meiner Haustür führt - wird nie
     verschwinden - Ich habe diese Straße schon immer gekannt - Sie führt mich
     stets zurück zu mir - Jene stürmische Nacht - die vom Regen fortgespült
     wurde - hat nichts als Leere hinterlassen - Ich war im Leben fast immer
