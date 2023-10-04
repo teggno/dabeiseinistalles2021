@@ -13,8 +13,8 @@ song:
     niemals verschwinden - Ich habe diese Straße schon immer gekannt - Sie führt
     mich immer wieder zurück zu mir - Die ungestüme und stürmische Nacht - die
     vom Regen fortgespült wurde - hat nichts als Leere hinterlassen - Ich war im
-    Leben fast immer allein - und hab mich oft gefragt  - wozu ich eigentlich da
-    bin - Was soll’s - du wirst niemals erfahren - wieviele Wege ich schon
+    Leben fast immer allein - und hab mich oft gefragt  - wofür ich eigentlich
+    da bin - Was soll’s - du wirst niemals erfahren - wieviele Wege ich schon
     ausprobiert habe - Und doch führen sie mich immer wieder zurück auf die
     lange kurvenreiche Straße - wo du mich hast stehen lassen - vor langer
     langer Zeit
