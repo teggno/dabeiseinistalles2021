@@ -17,8 +17,7 @@ song:
     Die ungestüme und stürmische Nacht
     Die vom Regen fortgespült wurde
     Hat nichts als Leere hinterlassen
-    Ich kann nicht mehr weinen 
-    bis zu jenem Tag der so weit weg schien
+
     Ich war ein Leben lang allein
     Und hab mich gefragt 
     was ich hier eigentlich mache
