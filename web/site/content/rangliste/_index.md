@@ -18,9 +18,9 @@ song:
     Die vom Regen fortgespült wurde
     Hat nichts als Leere hinterlassen
 
-    Ich war ein Leben lang allein
+    Ich war im Leben oft allein
     Und hab mich stets gefragt 
-    warum ich eigentlich da bin
+    Warum ich eigentlich da bin
     Was soll’s - du wirst niemals erfahren
     Wieviele Wege ich schon ausprobiert habe
     Und doch führen sie mich immer zurück
