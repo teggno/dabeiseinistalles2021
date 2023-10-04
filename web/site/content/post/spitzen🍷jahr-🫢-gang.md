@@ -14,4 +14,6 @@ Ich blicke hinauf zum Himmel! Da fliegt sie 🧚‍♀️ schon daher. Mit schwa
 
 Arrivederci tesoro mio 🧚‍♀️. Grazie per questo meraviglioso „Schäferstündchen“. Ich muss zurück auf meinen Weg. Noch immer spüre ich deinen Blüten 🍯 Honig in meinem Mund. Er wird mich beflügeln.
 
+Ti voglio tanto bene
+
 Raffaele
