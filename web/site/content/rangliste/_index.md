@@ -11,13 +11,12 @@ song:
   description: >+
     Die kurvenreiche Strasse - die mich zu meiner Haustür führt - wird nie
     verschwinden - Ich habe diese Straße schon immer gekannt - Sie führt mich
-    stets zurück zu mir - Jene ungestüme und stürmische Nacht - die vom Regen
-    fortgespült wurde - hat nichts als Leere hinterlassen - Ich war im Leben
-    fast immer allein - und hab mich oft gefragt  - wofür ich eigentlich da bin
-    - Was soll’s - du wirst niemals erfahren - wieviele Wege ich schon
-    ausprobiert habe - Und doch führen sie mich immer wieder zurück auf die
-    lange kurvenreiche Straße - wo du mich hast stehen lassen - vor langer
-    langer Zeit
+    stets zurück zu mir - Jene stürmische Nacht - die vom Regen fortgespült
+    wurde - hat nichts als Leere hinterlassen - Ich war im Leben fast immer
+    allein - und hab mich oft gefragt  - wofür ich eigentlich da bin - Was
+    soll’s - du wirst niemals erfahren - wieviele Wege ich schon ausprobiert
+    habe - Und doch führen sie mich immer wieder zurück auf die lange
+    kurvenreiche Straße - wo du mich hast stehen lassen - vor langer langer Zeit
 
 type: rangliste
 ---
