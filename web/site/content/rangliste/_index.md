@@ -15,8 +15,9 @@ song:
     vom Regen fortgespült wurde - hat nichts als Leere hinterlassen - Ich war im
     Leben oft allein - und hab mich stets gefragt  - warum ich eigentlich da bin
     - Was soll’s - du wirst niemals erfahren - wieviele Wege ich schon
-    ausprobiert habe - Und doch führen sie mich immer zurück - auf die lange
-    kurvenreiche Straße - wo du mich hast stehen lassen - Vor langer langer Zeit
+    ausprobiert habe - Und doch führen sie mich immer wieder zurück auf die
+    lange kurvenreiche Straße - wo du mich hast stehen lassen - vor langer
+    langer Zeit
 
 type: rangliste
 ---
