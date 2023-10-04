@@ -8,25 +8,15 @@ song:
   title: "RAFFI‘S JUKEBOX  🎸  THE BEATLES ▶️ The long and winding Road "
   url: https://www.youtube.com/watch?v=3A19HSowZp0&pp=ygUhdGhlIGxvbmcgYW5kIHdpbmRpbmcgcm9hZCBiZWF0bGVz
   image: img/jukebox.jpg
-  description: |+
-    Die lange kurvenreiche Straße
-    Die mich zu meiner Haustür führt
-    Wird niemals verschwinden
-    Ich habe diese Straße schon immer gekannt
-    Sie führt mich immer wieder zurück zu mir
-    Die ungestüme und stürmische Nacht
-    Die vom Regen fortgespült wurde
-    Hat nichts als Leere hinterlassen
-
-    Ich war im Leben oft allein
-    Und hab mich stets gefragt 
-    Warum ich eigentlich da bin
-    Was soll’s - du wirst niemals erfahren
-    Wieviele Wege ich schon ausprobiert habe
-    Und doch führen sie mich immer zurück
-    Auf die lange kurvenreiche Straße
-    Wo du mich hast stehen lassen
-    Vor langer langer Zeit
+  description: >+
+    Die lange kurvenreiche Straße - did mich zu meiner Haustür führt - wird
+    niemals verschwinden - Ich habe diese Straße schon immer gekannt - Sie führt
+    mich immer wieder zurück zu mir - Die ungestüme und stürmische Nacht - die
+    vom Regen fortgespült wurde - hat nichts als Leere hinterlassen - Ich war im
+    Leben oft allein - und hab mich stets gefragt  - warum ich eigentlich da bin
+    - Was soll’s - du wirst niemals erfahren - wieviele Wege ich schon
+    ausprobiert habe - Und doch führen sie mich immer zurück - auf die lange
+    kurvenreiche Straße - wo du mich hast stehen lassen - Vor langer langer Zeit
 
 type: rangliste
 ---
