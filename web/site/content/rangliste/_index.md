@@ -19,11 +19,11 @@ song:
     Hat nichts als Leere hinterlassen
 
     Ich war ein Leben lang allein
-    Und hab mich gefragt 
+    Und hab mich stets gefragt 
     was ich hier eigentlich mache
     Was soll’s – du wirst niemals erfahren
     Wieviele Wege ich schon ausprobiert habe
-    Und doch führen sie mich zurück
+    Und doch führen sie mich immer zurück
     Auf die lange kurvenreiche Straße
     Wo du mich hast stehen lassen
     Vor langer langer Zeit
