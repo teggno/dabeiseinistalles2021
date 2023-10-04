@@ -13,15 +13,15 @@ song:
     Die mich zu meiner Haustür führt
     Wird niemals verschwinden
     Ich habe diese Straße schon immer gekannt
-    Sie führt mich immer zurück zu mir
+    Sie führt mich immer wieder zurück zu mir
     Die ungestüme und stürmische Nacht
     Die vom Regen fortgespült wurde
     Hat nichts als Leere hinterlassen
     Ich kann nicht mehr weinen 
     bis zu jenem Tag der so weit weg schien
-    Warum lässt du mich hier stehen
     Ich war ein Leben lang allein
-    Und hab mich gefragt was ich hier eigentlich mache
+    Und hab mich gefragt 
+    was ich hier eigentlich mache
     Was soll’s – du wirst niemals erfahren
     Wieviele Wege ich schon ausprobiert habe
     Und doch führen sie mich zurück
