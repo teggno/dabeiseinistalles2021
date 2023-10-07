@@ -4,7 +4,7 @@ draft: true
 date: 2023-10-07T06:35:51.774Z
 image: img/img_0479.jpeg
 ---
-Wie wahr Herr Pestak! Das Zitat könnte von Herrn Boccia stammen! 
+Wie wahr Herr Pestak! Das Zitat könnte gut und gerne von Herrn Boccia stammen! 
 
 In Bezug auf Wetten ist er allerdings viel weniger gewieft. Ein Looser wie es im Buche steht.  Denn er  war sich ganz sicher gewesen, dass sie sich spätestens an seinem Geburtstag 🎈gemeldet hätte. Weil dem nicht so war, musste etwas Unvorhergesehenes vorgefallen sein. Ganz spontan tippte er auf den „Spitzenjahrgang“. Es muss für sie schwierig gewesen sein, auf ihn einzugehen. Zuviele Fragen! Zuviele Verlegenheits-Momente 🫢 Da schien es ihr vorteilhafter, abzutauchen und abzuwarten bis er ihn löschen würde. Doch er tat ihr den Gefallen nicht, weil er ja im übrigen gar nicht wusste, ob sie ihn schon „verschlungen“ hatte. So wie kürzlich auf ihrem Weg, als sie ihm so rührend mitteilte, dass sie über alles im Bilde war. Mit diesen oft widersprüchlichen Wesenszügen war er irgendwie nie klargekommen!
 
