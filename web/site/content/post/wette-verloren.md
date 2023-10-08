@@ -1,7 +1,7 @@
 ---
 title: Verspekuliert❗️
 draft: true
-date: 2023-10-07T06:35:51.774Z
+date: 2023-10-08T15:19:57.229Z
 image: ""
 ---
 In Sachen Wetten war er schon immer ein Looser gewesen. Auch an Tombolas fischte er stets nur Nieten heraus. Nicht viel besser erging es ihm aktuell mit ihr! Gerade erst war er sich ganz sicher gewesen, dass SIE sich spätestens an seinem Geburtstag 🎈melden würde. Bei soviel „Ti voglio tanto bene“ hätte er es fast erwartet! Ihre Geburtstage hatte er schliesslich trotz aller Hindernisse nie vergessen. Aber das war er. Und wie ihm das Leben als Lektion mit auf den Weg gegeben hatte, durfte man als Gegenleistung trotzdem nichts erwarten.
