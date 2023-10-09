@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist im Moment nicht verfügbar
 song:
-  title: "RAFFI‘S JUKEBOX  🎸  THE BEATLES ▶️ The long and winding Road "
+  title: RAFFI‘S JUKEBOX  🎸  Nicht mehr in Betrieb 🔌
   url: ""
   image: img/jukebox.jpg
   description: "\n\n"
