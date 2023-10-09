@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist im Moment nicht verfügbar
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Nicht mehr 🔌 in Betrieb
+  title: RAFFI‘S JUKEBOX  🎸  Dalida/Delon ▶️ Parole Parole Parole
   url: ""
   image: img/jukebox.jpg
   description: "\n\n"
