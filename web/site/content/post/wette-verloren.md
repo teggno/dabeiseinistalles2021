@@ -1,5 +1,5 @@
 ---
-title: Verspekuliert⁉️
+title: "Ver 🎲 spekuliert "
 draft: true
 date: 2023-10-08T15:19:57.229Z
 image: ""
