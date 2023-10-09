@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: Diese Seite ist im Moment nicht verfügbar
 song:
   title: RAFFI‘S JUKEBOX  🎸  Dalida/Delon ▶️ Parole Parole Parole
-  url: ""
+  url: https://www.youtube.com/watch?v=LYAvhujK4nA&pp=ygUWcGFyb2xlcyBwYXJvbGVzIGRhbGlkYQ%3D%3D
   image: img/jukebox.jpg
   description: "\n\n"
 type: rangliste
