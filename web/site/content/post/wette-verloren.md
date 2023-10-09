@@ -4,7 +4,7 @@ draft: true
 date: 2023-10-08T15:19:57.229Z
 image: ""
 ---
-In Sachen Wetten war er schon immer ein Looser gewesen. Auch an Tombolas fischte er stets nur Nieten aus dem Topf. Nicht viel besser erging es ihm in diesen Tagen mit seiner Muse. Gerade erst war er sich ganz sicher gewesen, dass sie sich spätestens an seinem Geburtstag 🎈melden würde. Bei soviel „ti voglio tanto bene“  🥰 war er ohne Bedenken davon ausgegangen. 
+In Sachen Wetten war er schon immer ein Looser gewesen. Auch an Tombolas fischte er stets nur Nieten aus dem Topf. Nicht viel besser erging es ihm in diesen Tagen mit seiner Muse. Gerade erst war er sich sooo sicher gewesen, dass sie sich spätestens an seinem Geburtstag 🎈melden würde. Bei soviel „ti voglio tanto bene“  🥰 war er ohne Bedenken davon ausgegangen. 
 
 Wahrscheinlich lautete ihre momentane Devise „abwarten und Tee trinken“  bis er womöglich den „Spitzenjahrgang“  löschen würde und sie keine verfänglichen Fragen zu beantworten hatte. Doch diesen Gefallen würde er ihr nicht tun, weil er ja im übrigen gar nicht wusste, ob sie seine „Memoiren“ in einer ruhigen Minute schon „verschlungen“ hatte. So wie sie es kürzlich auf ihrem Pilgerweg getan hatte, als sie ihm so rührend mitteilte, dass sie über all seine Artikel im Bilde war. Bei solch widersprüchlichen Charakterzügen stellte sich die Frage, warum er eigentlich soviel Energie in diese Frau steckte!
 
