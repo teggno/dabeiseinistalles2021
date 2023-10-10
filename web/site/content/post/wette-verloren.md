@@ -4,7 +4,7 @@ draft: true
 date: 2023-10-08T15:19:57.229Z
 image: ""
 ---
-Dass er in Sachen Wetten immer daneben lag, war nichts Neues. Auch an Tombolas fischte er stets nur die Nieten aus dem Topf. Dass er sich jedoch auch bei seiner Muse geirrt haBen sollte, schien ihm fast nicht möglich. Gerade erst war er sich soooo sicher gewesen, dass sie sich spätestens an seinem Geburtstag 🎈melden würde. Bei soviel „ti voglio tanto bene“  🥰 war er ohne Bedenken davon ausgegangen. 
+Dass er in Sachen Wetten immer daneben lag, war nichts Neues. Auch an Tombolas fischte er stets nur die Nieten aus dem Topf. Dass er sich jedoch auch bei seiner Muse geirrt haben sollte, schien ihm fast nicht möglich. Gerade erst war er sich soooo sicher gewesen, dass sie sich spätestens an seinem Geburtstag 🎈melden würde. Bei soviel „ti voglio tanto bene“  🥰 war er ohne Bedenken davon ausgegangen. 
 
 Doch dem war nicht so! Sie schien abgetaucht zu sein und wartete womöglich ab, bis er den „Spitzenjahrgang“  löschen würde. Doch diesen Gefallen würde er ihr nicht tun, weil er ja  gar nicht wusste, ob sie seine Prosa in einer ruhigen Minute schon verschlungen hatte. So wie sie es kürzlich auf ihrem Pilgerweg tat, als sie ihm so rührend mitteilte, dass sie über all seine Artikel im Bilde war. Bei solch widersprüchlichen Charakterzügen stellte sich die Frage, warum er eigentlich soviel Energie in diese Frau steckte!
 
