@@ -4,7 +4,7 @@ draft: true
 date: 2023-10-08T15:19:57.229Z
 image: ""
 ---
-In Sachen Wetten war er schon immer ein Looser gewesen. Auch an Tombolas fischte er stets nur Nieten aus dem Topf. Doch daran hatte er sich mittlerweile gewöhnt. Dass er sich jedoch bei seiner Zaubermaus ebenfalls geirrt hatte, schien ihm fast nicht möglich. Gerade erst war er sich soooo sicher gewesen, dass sie sich spätestens an seinem Geburtstag 🎈melden würde. Bei soviel „ti voglio tanto bene“  🥰 war er ohne Bedenken davon ausgegangen. 
+In Sachen Wetten war er schon immer ein Looser gewesen. Auch an Tombolas fischte er stets nur Nieten aus dem Topf. Doch daran hatte er sich mittlerweile gewöhnt. Dass er sich jedoch bei seiner Muse ebenfalls geirrt hatte, schien ihm fast nicht möglich. Gerade erst war er sich soooo sicher gewesen, dass sie sich spätestens an seinem Geburtstag 🎈melden würde. Bei soviel „ti voglio tanto bene“  🥰 war er ohne Bedenken davon ausgegangen. 
 
 Doch dem war nicht so! Sie schien abgetaucht zu sein und wartete womöglich ab, bis er den „Spitzenjahrgang“  löschen würde. Doch diesen Gefallen würde er ihr nicht tun, weil er ja  gar nicht wusste, ob sie seine Prosa in einer ruhigen Minute schon verschlungen hatte. So wie sie es kürzlich auf ihrem Pilgerweg tat, als sie ihm so rührend mitteilte, dass sie über all seine Artikel im Bilde war. Bei solch widersprüchlichen Charakterzügen stellte sich die Frage, warum er eigentlich soviel Energie in diese Frau steckte!
 
