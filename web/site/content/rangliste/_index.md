@@ -3,7 +3,7 @@ title: Rangliste
 date: 2023-06-11T12:10:24.868Z
 image: ""
 showPlaceholder: true
-placeholder: "Den Stecker 🔌  gezogen "
+placeholder: 🔌 🙋‍♂️
 song:
   title: "RAFFI‘S JUKEBOX  🎸  "
   url: ""
