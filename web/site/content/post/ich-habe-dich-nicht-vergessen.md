@@ -1,0 +1,6 @@
+---
+title: Ich habe dich nicht vergessen ...
+draft: true
+date: 2023-10-10T11:11:29.801Z
+---
+H﻿abe jetzt so einen langen Text geschrieben und beim senden alles fehlgeschlagen ... Ich melde mich wenn ich fertig gearbeitet habe ...
