@@ -8,88 +8,20 @@ song:
   title: "RAFFI‘S JUKEBOX  🎸  "
   url: ""
   image: img/jukebox.jpg
-  description: >-
-    Doris Marlise Marlen Lilly
+  description: >+
+    Wenn du nach Fleischeslust suchst - sie ist nicht schwer zu finden - Du
+    kannst soviel bekommen - wie du zum Leben brauchst - Aber wenn du nach
+    Wahrhaftigkeit suchst - könntest du vor Enttäuschung verzweifeln -
+    Ehrlichkeit ist so ein einsames Wort 
 
-    Marianne, Andrea, Irmgard, Isabelle, Marlies, Maria, Christine, Maddalena, Renate, Beatrice, Jacqueline, Margrit, xB, xO, xG, Marion, Edith, Kathrin, xK, xF, Xko Ursula, Astrid Monika, Alma, Marianne, Planca, WZ, WK, Ibiza, Arabella,  Imhasly, Susanne, Heidi, Brigitte, AlfaS, Wenn du nach Zärtlichkeit suchst
+    Und sie ist das - was ich am meisten von dir gebraucht hätte - Ich kann immer Leute finden - die sagen - sie empfinden dasselbe wie ich - Wenn ich mein Herz auf der Zunge trage - will ich nicht - dass mir irgendein hübsches Gesicht nette Lügen erzählt - Alles was ich will - ist jemand, an den ich glauben kann - Ich kann einen Liebhaber finden - ich kann einen Freund finden - der mich mit Versprechungen vertröstet - ich weiss ich weiss -
 
-    Sie ist nicht schwer zu finden
+    Wenn ich mich nun ganz in mich selbst verkrieche
 
-    Du kannst die Liebe bekommen, die du zum Leben brauchst
+    Dann sei nicht zu sehr betroffen - Ich verlangte nicht allzuviel  - Aber wenn ich Aufrichtigkeit will - 
 
-    Aber wenn du nach Wahrhaftigkeit suchst
-
-    Könntest du genausogut blind sein
-
-    Es fällt scheinbar immer so schwer, sie zu geben
-
-
-    Ehrlichkeit ist so ein einsames Wort
-
-    Jeder ist so unehrlich
-
-    Von Ehrlichkeit hört man kaum jemals etwas
-
-    Und sie ist das, was ich von dir am meisten brauche
+    weiss ich wohin ich mich wenden kann - ich blicke einfach in den Spiegel 
 
 
-    Ich kann immer Leute finden
-
-    Die sagen, sie empfinden dasselbe
-
-    Wenn ich mein Herz auf der Zunge trage
-
-    Aber ich will nicht, dass mir irgendein hübsches Gesicht
-
-    Hübsche Lügen erzählt
-
-    Alles was ich will, ist jemand, an den ich glauben kann
-
-
-
-    Ehrlichkeit ist so ein einsames Wort
-
-    Jeder ist so unehrlich
-
-    Von Ehrlichkeit hört man kaum jemals etwas
-
-    Und sie ist das, was ich von dir am meisten brauche
-
-
-    Ich kann einen Liebhaber finden
-
-    Ich kann einen Freund finden
-
-    Ich kann mich absichern bis zum bitteren Ende
-
-    Jeder könnte mich wieder
-
-    Mit Versprechungen trösten
-
-    Ich weiss, ich weiss
-
-
-    Wenn ich mich ganz in mich selbst verkrieche
-
-    Dann sei nicht zu betroffen
-
-    Ich verlange nichts, wenn ich weggehe
-
-    Aber wenn ich Aufrichtigkeit will
-
-    Sag mir, wohin ich mich sonst wenden kann
-
-    Denn du bist diejenige, auf die ich mich verlasse
-
-
-    Ehrlichkeit ist so ein einsames Wort
-
-    Jeder ist so unehrlich
-
-    Von Ehrlichkeit hört man kaum jemals etwas
-
-    Und sie ist das, was ich von dir am meisten brauche
-
-    Writer(s): David Kent, Patience Craft Lyrics powered by www.musixmatch.com
 type: rangliste
 ---
