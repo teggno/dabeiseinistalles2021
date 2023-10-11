@@ -9,9 +9,8 @@ song:
   url: https://www.youtube.com/watch?v=SuFScoO4tb0&pp=ygUSaG9uZXN0eSBiaWxseSBqb2Vs
   image: img/jukebox.jpg
   description: >+
-    BILLY JOEL‘S Klassiker HONESTY 🎹 vom Englischen ins Deutsch 🇩🇪 Wenn du
-    nach Lust und Leidenschaft suchst - sie sind nicht schwer zu finden - Du
-    kannst soviel bekommen - wie du zum Leben brauchst - Aber wenn du nach
+    Wenn du nach Lust und Leidenschaft suchst - sie sind nicht schwer zu finden
+    - Du kannst soviel bekommen - wie du zum Leben brauchst - Aber wenn du nach
     Wahrhaftigkeit suchst - könntest du vor Enttäuschung fast verzweifeln -
     Ehrlichkeit ist so ein einsames Wort - Sie ist das - was ich am meisten von
     dir gebraucht hätte - Ich kann immer Leute finden - die sagen - sie
