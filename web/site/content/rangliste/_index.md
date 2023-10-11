@@ -2,11 +2,11 @@
 title: Rangliste
 date: 2023-06-11T12:10:24.868Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
   title: RAFFI‘S JUKEBOX  🎸  Billy Joel - Honesty
-  url: ""
+  url: https://www.youtube.com/watch?v=KgjCcapxfLs&pp=ygUSYmlsbHkgam9lbCBob25lc3R5
   image: img/jukebox.jpg
   description: >+
     Wenn du nach Fleischeslust suchst - sie ist nicht schwer zu finden - Du
