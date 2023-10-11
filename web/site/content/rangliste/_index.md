@@ -20,7 +20,7 @@ song:
     mich vertrösten sollen -  habe ich genug - Wenn ich mich nun ganz in mich
     selbst verkrieche  - dann nimm es nicht allzu schwer - Ich habe nicht
     erwartet - dass du mir die Sterne vom Himmel holst  - nur ein bisschen mehr
-    Ehrlichkeit hätte ich mir gewünscht -  Falls ich sie suche  weiss ich ja
+    Ehrlichkeit hätte ich mir gewünscht -  Falls ich sie suche - weiss ich ja
     wohin ich mich wenden kann - ich blicke einfach in den Spiegel 
 
 
