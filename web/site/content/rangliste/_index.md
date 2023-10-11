@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
   title: RAFFI‘S JUKEBOX  🎸  Billy Joel - Honesty
-  url: https://www.youtube.com/watch?v=KgjCcapxfLs&pp=ygUSYmlsbHkgam9lbCBob25lc3R5
+  url: https://www.youtube.com/watch?v=SuFScoO4tb0&pp=ygUSaG9uZXN0eSBiaWxseSBqb2Vs
   image: img/jukebox.jpg
   description: >+
     Wenn du nach Lust und Leidenschaft suchst - sie sind nicht schwer zu finden
