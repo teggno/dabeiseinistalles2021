@@ -17,11 +17,11 @@ song:
     empfinden dasselbe wie ich - Wenn ich mein Herz auf der Zunge trage - will
     ich nicht - dass mir irgendein hübsches Gesicht nette Lügen erzählt - Alles
     was ich will - ist jemand - an den ich glauben kann - von Versprechungen die
-    mich vertrösten sollen -  habe ich mehr als genug - Wenn ich mich nun ganz
-    in mich selbst verkrieche  - dann nimm es nicht allzu schwer - Ich habe
-    nicht erwartet - dass du mir die Sterne vom Himmel holst  - nur ein bisschen
-    mehr Ehrlichkeit hätte ich mir gewünscht -  Falls ich sie suche - weiss ich
-    ja wohin ich mich wenden kann - ich blicke einfach in den Spiegel 
+    mich vertrösten sollen -  habe ich genug - Wenn ich mich nun ganz in mich
+    selbst verkrieche  - dann nimm es nicht allzu schwer - Ich habe nicht
+    erwartet - dass du mir die Sterne vom Himmel holst  - nur ein bisschen mehr
+    Ehrlichkeit hätte ich mir gewünscht -  Falls ich sie suche  weiss ich ja
+    wohin ich mich wenden kann - ich blicke einfach in den Spiegel 
 
 
 type: rangliste
