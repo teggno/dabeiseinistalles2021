@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: 🔌 🙋‍♂️
 song:
-  title: "RAFFI‘S JUKEBOX  🎸  "
+  title: RAFFI‘S JUKEBOX  🎸  Billy Joel - Honesty
   url: ""
   image: img/jukebox.jpg
   description: >+
