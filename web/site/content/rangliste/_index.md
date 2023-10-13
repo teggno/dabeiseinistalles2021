@@ -12,7 +12,7 @@ song:
     Wenn du nach Lust und Leidenschaft suchst - sie sind nicht schwer zu finden
     - Du kannst soviel bekommen - wie du zum Leben brauchst - Aber wenn du nach
     Wahrhaftigkeit suchst - könntest du vor Enttäuschung fast verzweifeln -
-    viele sind so unehrlich und feig  - Ehrlichkeit ist so ein einsames Wort
+    viele sind unaufrichtig und feig  - Ehrlichkeit ist so ein einsames Wort
     -  Sie ist das - was ich am meisten von dir gebraucht hätte - Ich kann immer
     Leute finden - die sagen - sie empfinden dasselbe wie ich - Wenn ich mein
     Herz auf der Zunge trage - will ich nicht - dass mir irgendein hübsches
