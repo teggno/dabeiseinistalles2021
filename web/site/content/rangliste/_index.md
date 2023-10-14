@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Billy Joel ▶️ Honesty
+  title: RAFFI‘S JUKEBOX  🎸  solo per  ▶️ Susanne
   url: https://www.youtube.com/watch?v=SuFScoO4tb0&pp=ygUSaG9uZXN0eSBiaWxseSBqb2Vs
   image: img/jukebox.jpg
   description: "\n"
