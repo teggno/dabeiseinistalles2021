@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
   title: RAFFI‘S JUKEBOX  🎸  solo per  ▶️ Susanne
-  url: https://www.youtube.com/watch?v=SuFScoO4tb0&pp=ygUSaG9uZXN0eSBiaWxseSBqb2Vs
+  url: https://www.youtube.com/watch?v=yI0Z8dH5qZQ&pp=ygUacGFvbG8gY29udGUgaXQncyB3b25kZXJmdWw%3D
   image: img/jukebox.jpg
   description: "\n"
 type: rangliste
