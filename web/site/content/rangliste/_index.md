@@ -8,7 +8,7 @@ song:
   title: RAFFI‘S JUKEBOX  🎸  Solo per  ▶️ Susanne
   url: https://www.youtube.com/watch?v=yI0Z8dH5qZQ&pp=ygUacGFvbG8gY29udGUgaXQncyB3b25kZXJmdWw%3D
   image: img/jukebox.jpg
-  description: "Paolo Conte, der gerne mit Worten spielt, mit seinem Klassiker
-    „It’s Wonderful“ oder auf italienisch „Via con me“ "
+  description: Paolo Conte, der gerne mit Worten spielt, hier mit seinem Klassiker
+    „via con me“
 type: rangliste
 ---
