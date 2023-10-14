@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: RAFFI‘S JUKEBOX  🎸  solo per  ▶️ Susanne
+  title: RAFFI‘S JUKEBOX  🎸  Solo per  ▶️ Susanne
   url: https://www.youtube.com/watch?v=yI0Z8dH5qZQ&pp=ygUacGFvbG8gY29udGUgaXQncyB3b25kZXJmdWw%3D
   image: img/jukebox.jpg
   description: "Paolo Conte, der gerne mit Worten spielt, mit seinem Klassiker
