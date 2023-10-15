@@ -1,7 +1,7 @@
 ---
 title: HONESTY 🎹 VON BILLY JOEL
 draft: false
-date: 2023-10-15T17:27:32.629Z
+date: 2023-10-15T17:42:35.406Z
 image: img/0b9a2ebf-f411-46a4-ac37-0bb80848377c.jpeg
 ---
 Ein wundervoller Song 🎶 mit prägnanten Worten übersetzt auf deutsch!
