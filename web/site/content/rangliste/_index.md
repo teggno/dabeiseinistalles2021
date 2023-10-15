@@ -48,9 +48,7 @@ song:
 
     als das Leben nur ein Spiel war.
 
-    Es macht keinen Sinn, zu sitzen und zu grübeln, was Du im Leben getan hat,
-
-    wenn du dich zurücklehnen und es durch deine Kinder genießen kannst.
+    Es macht keinen Sinn, zu grübeln, was Du im Leben falsch gemacht hast, obwohl ich es dennoch tue.
 
     Manchmal fühlt es sich so an, als wäre es erst vor kurzem gewesen, ich weiß auch nicht...
 
