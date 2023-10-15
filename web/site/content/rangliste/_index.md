@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S JUKEBOX  🎸  Queen  ▶️  These are the Days of our Lives
   url: https://www.youtube.com/watch?v=oB4K0scMysc&pp=ygUFcXVlZW4%3D
   image: img/jukebox.jpg
-  description: ""
+  description: Green 🍏 Apple - Ein Sonntagnachmittag (fast) wie heute 🥲
 type: rangliste
 ---
