@@ -36,9 +36,7 @@ song:
 
     Die schlechten Dinge waren so selten.
 
-    Diese Tage sind jetzt alle vorbei, aber eines ist sicher,
-
-    wenn ich mich umsehe und feststelle, ich liebe Dich noch immer.
+    Diese Tage sind jetzt alle vorbei.
 
 
 
@@ -72,13 +70,6 @@ song:
 
     die schlechten Dinge waren so selten.
 
-    Diese Tage sind jetzt alle vorbei, aber eines ist immer noch sicher,
-
-    wenn ich mich umsehe und feststelle,
-
-    ich liebe Dich noch immer.
-
-
-    Ich liebe dich noch immer.
+    Diese Tage sind jetzt leider  alle vorbei 🥲
 type: rangliste
 ---
