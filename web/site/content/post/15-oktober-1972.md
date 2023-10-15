@@ -1,6 +1,6 @@
 ---
 title: 15. OKTOBER 1972
-draft: false
+draft: true
 date: 2023-10-15T17:33:00.709Z
 ---
 Und noch so einen 🎶 An diesem für mich ganz speziellen Tag 🎉
