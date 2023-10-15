@@ -13,61 +13,8 @@ song:
     THESE ARE THE DAYS OF OUR LIVES LYRICS ÜBERSETZUNG
 
 
-    Manchmal hab ich das Gefühl, als ob ich in den alten Tagen lebe. Lange ist es her.
+    Manchmal hab ich das Gefühl - als ob ich in den alten Tagen lebe - Lange ist es her - Als wir noch Kinder waren - jung und sorgenfrei - Die Dinge schienen so perfekt - Du weißt, was ich meine - Die Tage waren endlos - wir waren verrückt - wir waren jung. Jeden Tag schien für uns die Sonne - wir lebten nur zum Spaß - Manchmal fühlt es sich so an - als wäre es erst vor kurzem gewesen - ich weiß auch nicht - Der Rest meines Lebens war irgendwie nur eine Show - Das waren die Tage unseres Lebens - Die schlechten Dinge waren so selten - Diese Tage sind jetzt alle vorbei - Du kannst die Zeit nicht zurück drehen - du kannst die Strömung nicht zurückhalten - Ist das nicht schade?
 
-    Als wir noch Kinder waren, jung und sorgenfrei.
-
-    Die Dinge schienen so perfekt - Du weißt, was ich meine….
-
-    Die Tage waren endlos, wir waren verrückt, wir waren jung.
-
-    Es schien immer die Sonne,
-
-    wir lebten nur zum Spaß.
-
-    Manchmal fühlt es sich so an, als wäre es erst vor kurzem gewesen,
-
-    ich weiß auch nicht.
-
-    Der Rest meines Lebens war irgendwie nur eine Show.
-
-
-    Das waren die Tage unseres Lebens.
-
-    Die schlechten Dinge waren so selten.
-
-    Diese Tage sind jetzt alle vorbei.
-
-
-
-    Du kannst die Zeit nicht zurück drehen, du kannst die Strömung nicht zurückhalten.
-
-    Ist das nicht schade?
-
-    Ich würde so gerne nochmal zurückgehen auf eine Achterbahnfahrt,
-
-    als das Leben nur ein Spiel war.
-
-    Es macht keinen Sinn, zu grübeln, was Du im Leben falsch gemacht hast, obwohl ich es dennoch tue.
-
-    Manchmal fühlt es sich so an, als wäre es erst vor kurzem gewesen, ich weiß auch nicht...
-
-    Es ist besser, sich zurückzulehnen und von der Strömung treiben zu lassen.
-
-
-    Denn dies sind die Tage unseres Lebens,
-
-    sie sind in der Schnelllebigkeit der Zeit verflogen.
-
-    Diese Tage sind nun alle vergangen aber einiges bleibt,
-
-    wenn ich mich umsehe und keine Veränderung feststelle.
-
-
-    Das waren die Tage unseres Lebens, ja.
-
-    die schlechten Dinge waren so selten.
-
-    Diese Tage sind jetzt leider  alle vorbei 🥲
+    Ich würde so gerne nochmal zurückgehen auf diese Achterbahnfahrt - als das Leben nur ein Spiel war - Es macht keinen Sinn, zu grübeln - was Du im Leben falsch gemacht hast - obwohl ich es manchmal dennoch tue - Denn dies sind die Tage unseres Lebens - Sie sind in der Schnelllebigkeit der Zeit verflogen - Diese Tage sind nun alle vergangen aber eines wird für immer bleiben - Die Erinnerung!
 type: rangliste
 ---
