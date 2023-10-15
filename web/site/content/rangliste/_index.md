@@ -15,7 +15,7 @@ song:
 
     Manchmal hab ich das Gefühl, als ob ich in den alten Tagen lebe, was lange her ist.
 
-    Als wir Kinder waren, als wir jung waren,
+    Als wir Kinder waren, jung und sorgenfrei.
 
     Die Dinge schienen so perfekt - Du weißt, was ich meine….
 
