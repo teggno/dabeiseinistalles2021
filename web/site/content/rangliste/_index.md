@@ -5,10 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Solo per  ▶️ Susanne
-  url: https://www.youtube.com/watch?v=yI0Z8dH5qZQ&pp=ygUacGFvbG8gY29udGUgaXQncyB3b25kZXJmdWw%3D
+  title: RAFFI‘S JUKEBOX  🎸  Queen  ▶️  These are the Days of our Lives
+  url: https://www.youtube.com/watch?v=oB4K0scMysc&pp=ygUFcXVlZW4%3D
   image: img/jukebox.jpg
-  description: Paolo Conte, der gerne mit Worten spielt, hier mit seinem Klassiker
-    „via con me“
+  description: ""
 type: rangliste
 ---
