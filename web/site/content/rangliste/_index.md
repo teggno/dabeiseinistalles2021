@@ -13,7 +13,7 @@ song:
     THESE ARE THE DAYS OF OUR LIVES LYRICS ÜBERSETZUNG
 
 
-    Manchmal hab ich so ein Gefühl, als ob ich in den alten Tagen lebe, was lange her ist.
+    Manchmal hab ich das Gefühl, als ob ich in den alten Tagen lebe, was lange her ist.
 
     Als wir Kinder waren, als wir jung waren,
 
