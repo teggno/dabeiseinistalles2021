@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Green Apple  ▶️  Ein Sonntagnachmittag (fast) wie
-    heute 🥲
+  title: RAFFI‘S JUKEBOX  🎸  Green Apple  ▶️  Ein Sonntagnachmittag 💃🏽🕺🏾
+    (fast) wie heute 🥲
   url: https://www.youtube.com/watch?v=oB4K0scMysc&pp=ygUFcXVlZW4%3D
   image: img/jukebox.jpg
   description: >
