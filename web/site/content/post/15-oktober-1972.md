@@ -3,7 +3,7 @@ title: 15. Oktober 1972
 draft: false
 date: 2023-10-15T17:33:00.709Z
 ---
-Und noch einer! An diesem für mich ganz speziellen Tag!
+Und noch so einer! An diesem für mich ganz speziellen Tag!
 
 THESE ARE THE DAYS OF OUR LIVES LYRICS ÜBERSETZUNG
 
