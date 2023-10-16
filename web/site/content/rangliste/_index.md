@@ -5,9 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 "
-  url: ""
+  title: RAFFI‘S JUKEBOX  🎸 The Turtles ▶️ Eleonore
+  url: https://www.youtube.com/watch?v=phMWtWZaDPQ&pp=ygUPdHVydGxlcyBlbGVub3Jl
   image: img/jukebox.jpg
-  description: ""
+  description: Man beachte diese vorwitzige Hand auf der Suche nach dem Eldorado 🫢
 type: rangliste
 ---
