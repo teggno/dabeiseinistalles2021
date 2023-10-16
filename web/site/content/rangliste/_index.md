@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: RAFFI‘S JUKEBOX  🎸 The Turtles ▶️ Eleonore
+  title: RAFFI‘S JUKEBOX  🎸 The Turtles ▶️ Elenore
   url: https://www.youtube.com/watch?v=phMWtWZaDPQ&pp=ygUPdHVydGxlcyBlbGVub3Jl
   image: img/jukebox.jpg
   description: "Man beachte die vorwitzige 🫢 Hand auf dem Weg ins Eldorado "
