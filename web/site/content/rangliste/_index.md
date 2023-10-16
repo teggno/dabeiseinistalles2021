@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S JUKEBOX  🎸 The Turtles ▶️ Eleonore
   url: https://www.youtube.com/watch?v=phMWtWZaDPQ&pp=ygUPdHVydGxlcyBlbGVub3Jl
   image: img/jukebox.jpg
-  description: "Man beachte die vorwitzige 🫢 Hand auf der Suche nach dem Eldorado "
+  description: "Man beachte die vorwitzige 🫢 Hand auf dem Weg ins Eldorado "
 type: rangliste
 ---
