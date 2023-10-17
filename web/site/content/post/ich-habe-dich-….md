@@ -1,5 +1,5 @@
 ---
-title: Fragen 🙋‍♂️ über Fragen
+title: Domande 🙋‍♂️ e risposte❓
 draft: true
 date: 2023-10-15T09:14:00.000Z
 ---
