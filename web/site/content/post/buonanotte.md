@@ -8,4 +8,4 @@ Ich finde es toll, tesoro, dass du wieder etwas Neues probierst. Sobald ich Zeit
 
 Gleichzeitig höre ich auch auf, dich mit meinen erotischen Phantasien zu „belästigen“. Ich deponiere sie sozusagen in der Schublade. Als wunderschöne Erinnerungen werden sie dort aufbewahrt sein. Keine Anspielungen und keine Hintergedanken mehr. Ich gebe es dir mit Brief und Siegel. Wenn es der Zufall will und wir beide einen passenden Termin finden, werden wir uns hoffentlich irgendwann mal treffen und uns all das Unausgesprochene erzählen. 
 
-Ti auguro dei sogni d‘oro! Das Bild könnte dich dazu inspirieren. Capri mit einem seiner Wahrzeichen….Den „Faraglioni“…..
+Ti auguro dei sogni d‘oro! Das Bild könnte dich dazu animieren. Capri mit einem seiner Wahrzeichen….Den „Faraglioni“…..
