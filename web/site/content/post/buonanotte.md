@@ -8,4 +8,4 @@ Ich finde es toll, tesoro, dass du wieder etwas Neues probierst. Tönt sehr span
 
 Gleichzeitig höre ich auf, dich mit meinen erotischen 🍑Phantasien zu „belästigen“. Ich deponiere sie 💫 sozusagen in meinem Geiste. Als wunderschöne Erinnerungen 🧚‍♀️ werden sie dort aufbewahrt. Keine Anspielungen und keine Hintergedanken mehr. Ich gebe es dir mit Brief 📜 und Siegel. Wenn es der Zufall will und wir beide einen passenden Termin finden, werden wir uns hoffentlich irgendwann mal treffen und all das Unausgesprochene ausbreiten.
 
-Ti auguro dei sogni d‘oro! Das Bild hier oben zusammen mit dem Plattenwunsch 🎶  des DJ’s 🙈 könnte dich dazu animieren. Capri mit einem seiner ganz besonderen Wahrzeichen…..den Faraglioni 🥂….
+Ti auguro dei sogni d‘oro! Das Bild hier oben zusammen mit dem Plattenwunsch 🎶 des „pubertären DJ’s 🙈“ könnte dich dazu animieren. Capri mit einem seiner ganz besonderen Wahrzeichen…..den Faraglioni 🥂….
