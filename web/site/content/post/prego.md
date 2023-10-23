@@ -3,7 +3,7 @@ title: Clearing
 draft: true
 date: 2023-10-23T12:13:34.800Z
 ---
-Mitten im hektischen Auf und Ab, fast wie auf einer Achter🎢 bahn, bin ich auf die „Benz-Seite“ gestossen und habe gelesen, dass Clearing nicht nur mit der schnöden Wirtschaft zu tun hat. Das Thema ist genau auf dich zugeschnitten. All deine Stärken sind hier vereint. Findet der Kurs im verträumten Soglio statt?
+Mitten im hektischen Auf und Ab, (es ist fast wie auf einer Achter🎢 bahn), bin ich auf die „Benz-Seite“ gestossen und habe gelesen, dass Clearing nicht nur mit der schnöden Wirtschaft zu tun hat. Das Thema ist genau auf dich zugeschnitten. All deine Stärken sind hier vereint. Findet der Kurs im verträumten Soglio statt?
 
 Und dann dein “Grazie“. Ich dachte schon, du sagst danke, weil Raffaele keine „Scherze“ mehr macht. Das ist ja eine Überraschung, dass du schon im zarten Alter von 16 mit meinem Namensvetter Kontakt hattest. Was für ein Glückspilz. Stell dir vor, ich wäre das gewesen 🙈.
 
