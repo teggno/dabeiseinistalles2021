@@ -7,6 +7,6 @@ Mitten im hektischen Auf und Ab, (es ist fast wie auf einer Achter🎢 bahn), bi
 
 Als ich dein „Grazie“ las, dachte ich zuerst, dass du dich bedankst, weil Raffaele in Zukunft keine „Scherze“ mehr macht. Aber du hast dich gar nicht dazu geäussert. Ein Aufatmen hätte man eigentlich zwischen deinen Zeilen spüren sollen. Dass du dergleichen 😎 oder Ähnliches schon im unschuldig-zarten Alter von 16 „verübt“ hast und mein Name damals schon involviert war, lässt mich vor Scham erröten 🫢. Ein richtiger Glückspilz, dieser Junge. Stell dir vor, wenn ich das gewesen wäre 🙈.
 
-Leider kann sich dottore Boccia nicht persönlich um deinen Husten kümmern. Der Spiel 👿 Teufel hat von ihm Besitz ergriffen. Er ist voll im Fieber!  Vielleicht kannst du dir ja von seiner Vertretung 🎶 ein Medikament verschreiben lassen….
+Leider kann sich dottore Boccia nicht persönlich um deinen Husten kümmern. Der Spiel 👿 Teufel hat von ihm Besitz ergriffen. Er ist voll im Fieber!  Wie gefällt dir die Musik 🎶 seiner Vertretung?
 
 Buona guarigione…Ich umarme dich.
