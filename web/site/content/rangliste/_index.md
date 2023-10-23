@@ -6,8 +6,8 @@ showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
   title: RAFFI‘S JUKEBOX  🎸 The Turtles ▶️ Elenore
-  url: https://www.youtube.com/watch?v=phMWtWZaDPQ&pp=ygUPdHVydGxlcyBlbGVub3Jl
+  url: https://www.youtube.com/watch?v=hZsLAhvuBzo&pp=ygUtYWRyaWFubyBjZWxlbnRhbm8g4oCTIGwnZW1vemlvbmUgbm9uIGhhIHZvY2Ug
   image: img/jukebox.jpg
-  description: "Man beachte die vorwitzige 🫢 Hand auf dem Weg ins Eldorado "
+  description: ""
 type: rangliste
 ---
