@@ -7,6 +7,6 @@ Mitten im hektischen Auf und Ab, (es ist fast wie auf einer Achter🎢 bahn), bi
 
 Als ich dein „Grazie“ las, dachte ich, dass du dich bedankst, weil Raffaele in Zukunft keine „Scherze“ mehr macht. Dass du dergleichen 😎 schon im unschuldig-zarten Alter von 16 „verübt“ hast und erst noch mit einem Namensvetter von mir, lässt mich vor Scham erröten 🫢. Was für ein Glückspilz, dieser Junge! Stell dir vor, ich wäre das gewesen 🙈.
 
-Leider kann sich dottore Boccia nicht persönlich um deinen Husten kümmern. Der Spiel 👿 Teufel hat von ihm Besitz ergriffen. Aber ich hätte da noch eine Medizin 🎶  für dich. Buona guarigione
+Leider kann sich dottore Boccia nicht persönlich um deinen Husten kümmern. Der Spiel 👿 Teufel hat von ihm Besitz ergriffen. Ich bin voll im Fieber! Ich hätte allerdings noch eine Medizin 🎶  für dich. Buona guarigione….
 
 Ich umarme dich.
