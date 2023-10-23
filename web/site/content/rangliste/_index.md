@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: RAFFI‘S JUKEBOX  🎸 The Turtles ▶️ Elenore
+  title: RAFFI‘S JUKEBOX  🎸 🎶🎶  ▶️  🎉🎉🎉
   url: https://www.youtube.com/watch?v=hZsLAhvuBzo&pp=ygUtYWRyaWFubyBjZWxlbnRhbm8g4oCTIGwnZW1vemlvbmUgbm9uIGhhIHZvY2Ug
   image: img/jukebox.jpg
   description: ""
