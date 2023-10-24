@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: RAFFI‘S JUKEBOX 🎸      Solo per S  ▶️  💃🏽 🤫 🕺🏾
+  title: RAFFI‘S JUKEBOX 🎸      Solo per te  ▶️  💃🏽 🤫 🕺🏾
   url: https://www.youtube.com/watch?v=hZsLAhvuBzo&pp=ygUWbCdlbW96aW9uZSBub24gaGEgdm9jZQ%3D%3D
   image: img/jukebox.jpg
   description: ""
