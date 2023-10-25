@@ -8,6 +8,6 @@ song:
   title: "RAFFI‘S JUKEBOX 🎸    Biagio Antoniacci ▶️  🌋. "
   url: https://www.youtube.com/watch?v=xa1OiQV6Qes&pp=ygUjYmlhZ2lvIGFudG9uYWNjaSBwYXp6byBkaSBsZWkgdGVzdG8%3D
   image: img/jukebox.jpg
-  description: ""
+  description: Cantante sollte man sein 😎
 type: rangliste
 ---
