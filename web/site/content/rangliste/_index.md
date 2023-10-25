@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: RAFFI‘S JUKEBOX 🎸      Solo per te  ▶️  💃🏽 🤫 🕺🏾
-  url: https://www.youtube.com/watch?v=hZsLAhvuBzo&pp=ygUWbCdlbW96aW9uZSBub24gaGEgdm9jZQ%3D%3D
+  title: "RAFFI‘S JUKEBOX 🎸    Biagio Antoniacci ▶️  🌋. "
+  url: https://www.youtube.com/watch?v=w35u8vcIthU&pp=ygUjYmlhZ2lvIGFudG9uYWNjaSBwYXp6byBkaSBsZWkgdGVzdG8%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
