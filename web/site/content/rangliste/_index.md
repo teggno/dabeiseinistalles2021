@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
   title: "RAFFI‘S JUKEBOX 🎸    Biagio Antoniacci ▶️  🌋. "
-  url: https://www.youtube.com/watch?v=LsrnmyFqpMM&pp=ygUnYmlhZ2lvIGFudG9uYWNjaSBwYXp6byBkaSBsZWkgY29uIHRlc3Rv
+  url: https://www.youtube.com/watch?v=xa1OiQV6Qes&pp=ygUjYmlhZ2lvIGFudG9uYWNjaSBwYXp6byBkaSBsZWkgdGVzdG8%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
