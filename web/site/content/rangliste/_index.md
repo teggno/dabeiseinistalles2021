@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: RAFFI‘S JUKEBOX 🎸    Biagio Antonacci  ▶️  Pazzo di Lei 👩🏼
-  url: https://www.youtube.com/watch?v=xa1OiQV6Qes&pp=ygUjYmlhZ2lvIGFudG9uYWNjaSBwYXp6byBkaSBsZWkgdGVzdG8%3D
+  title: "RAFFI‘S JUKEBOX 🎸   "
+  url: ""
   image: img/jukebox.jpg
   description: ""
 type: rangliste
