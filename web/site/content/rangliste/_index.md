@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: "RAFFI‘S JUKEBOX 🎸   Marcello 🎥 Mastroianni "
-  url: https://www.youtube.com/watch?v=kffaKHD4v9w&pp=ygUPdW4gYW1vcmUgZ3JhbmRl
+  title: RAFFI‘S JUKEBOX 🎸   Ein Herz  🎥 und eine Krone
+  url: https://www.youtube.com/watch?v=FmL6It-NW2s&pp=ygUlZmlsbW11c2lrIGF1ZHJleSBoZXBidXJuIGdyZWdvcnkgcGVjaw%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
