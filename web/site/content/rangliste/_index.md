@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Leider gibt’s sowas  ▶️  nur im Film 🎥
+  title: RAFFI‘S JUKEBOX 🎸 Roman ▶️  Holiday
   url: https://www.youtube.com/watch?v=FmL6It-NW2s&pp=ygUlZmlsbW11c2lrIGF1ZHJleSBoZXBidXJuIGdyZWdvcnkgcGVjaw%3D%3D
   image: img/jukebox.jpg
   description: ""
