@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: "RAFFI‘S JUKEBOX 🎸  Leider nur Film 🎥 "
+  title: RAFFI‘S JUKEBOX 🎸  Leider nur ▶️ Film 🎥
   url: https://www.youtube.com/watch?v=FmL6It-NW2s&pp=ygUlZmlsbW11c2lrIGF1ZHJleSBoZXBidXJuIGdyZWdvcnkgcGVjaw%3D%3D
   image: img/jukebox.jpg
   description: ""
