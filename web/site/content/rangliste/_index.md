@@ -5,9 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: 🔌 🙋‍♂️
 song:
-  title: "RAFFI‘S JUKEBOX 🎸  ▶️  "
-  url: ""
+  title: RAFFI‘S JUKEBOX 🎸 Sidney Bechet  ▶️  Petit Fleur
+  url: https://www.youtube.com/watch?v=c1pLQNhBLmA&pp=ygUac2lkbmV5IGJlY2hldCBwZXRpdGUgZmxldXI%3D
   image: img/jukebox.jpg
-  description: ""
+  description: Niemand bläst die Klarinette so schön wie du
 type: rangliste
 ---
