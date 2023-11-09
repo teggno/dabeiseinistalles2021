@@ -8,7 +8,7 @@ song:
   title: RAFFI‘S JUKEBOX 🎸  The Beatles  ▶️  Now and Then
   url: https://www.youtube.com/watch?v=Opxhh9Oh3rg&pp=ygUUbm93IGFuZCB0aGVuIGJlYXRsZXM%3D
   image: img/jukebox.jpg
-  description: Nach 50 Jahren noch einmal ein Beatles-Song auf Platz 1️⃣ Ein Video
-    für Nostalgiker
+  description: Nach 50 Jahren noch einmal ein Beatles-Song auf Platz 1️⃣ ❓Ein
+    Video für Nostalgiker
 type: rangliste
 ---
