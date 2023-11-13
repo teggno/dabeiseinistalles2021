@@ -1,16 +1,13 @@
 ---
 title: Rangliste
-date: 2023-10-16T10:30:35.820Z
+date: 2023-11-13T19:36:47.594Z
 image: ""
-showPlaceholder: false
-placeholder: 🔌 🙋‍♂️
+showPlaceholder: true
+placeholder: Diese Seite ist nicht mehr verfügbar
 song:
-  title: RAFFI‘S JUKEBOX 🎸  The Beatles  ▶️  Now and Then
-  url: https://www.youtube.com/watch?v=Opxhh9Oh3rg&pp=ygUUbm93IGFuZCB0aGVuIGJlYXRsZXM%3D
+  title: "RAFFI‘S JUKEBOX 🎸  "
+  url: ""
   image: img/jukebox.jpg
-  description: Beatles forever! Nach über 50 Jahren erobern die Fab Four noch
-    einmal Platz 1️⃣ 👏. Das Video ist eine Augenweide - der Song wäre in ihren
-    besten Zeiten höchstens auf einer B-Seite gelandet. Gegen die Ohrwürmer von
-    heute reicht es aber immer noch 👍
+  description: ""
 type: rangliste
 ---
