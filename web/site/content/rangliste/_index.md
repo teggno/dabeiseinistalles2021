@@ -10,7 +10,7 @@ song:
   image: img/jukebox.jpg
   description: Beatles forever! Nach über 50 Jahren erobern die Fab Four noch
     einmal Platz 1️⃣ 👏. Das Video ist eine Augenweide - der Song wäre in ihren
-    besten Zeiten auf einer B-Seite gelandet. Gegen die Ohrwürmer von heute
-    reicht es aber immer noch 👍
+    besten Zeiten höchstens auf einer B-Seite gelandet. Gegen die Ohrwürmer von
+    heute reicht es aber immer noch 👍
 type: rangliste
 ---
