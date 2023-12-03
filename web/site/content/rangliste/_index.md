@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2023-11-13T19:36:47.594Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: Diese Seite ist nicht mehr verfügbar
 song:
   title: "RAFFI‘S JUKEBOX 🎸  "
