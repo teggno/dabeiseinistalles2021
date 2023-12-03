@@ -10,6 +10,7 @@ song:
   image: img/jukebox.jpg
   description: Prima ho sentito nella radio questa canzone e mi e venuta una
     grande voglia di te. Adesso vado a prendere il tuo quadro e mi metto sotto
-    la doccia……come ti desidero….sono pazzo di te….
+    la doccia……come ti desidero….sono pazzo di te….sara solo un sogno….ma
+    m’immagino che te lo fai pure tu….
 type: rangliste
 ---
