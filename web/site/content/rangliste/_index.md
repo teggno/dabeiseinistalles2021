@@ -2,15 +2,12 @@
 title: Rangliste
 date: 2023-11-13T19:36:47.594Z
 image: ""
-showPlaceholder: false
-placeholder: Diese Seite ist nicht mehr verfügbar
+showPlaceholder: true
+placeholder: Diese Seite ist momentan nicht verfügbar
 song:
-  title: RAFFI‘S JUKEBOX 🎸  🎶 🎶 🎶 ▶️
-  url: https://www.youtube.com/watch?v=WeRswQwN8Lo
+  title: RAFFI‘S JUKEBOX 🎸  ▶️
+  url: ""
   image: img/jukebox.jpg
-  description: Prima ho sentito nella radio questa canzone e mi e venuta una
-    grande voglia di te. Adesso vado a prendere il tuo quadro e mi metto sotto
-    la doccia……come ti desidero….sono pazzo di te….sara solo un sogno….ma mi
-    sono immaginato che te lo fai pure tu….
+  description: ""
 type: rangliste
 ---
