@@ -11,15 +11,13 @@ song:
   description: >+
     Wenn du abends nach Hause kommst - 
 
-    habe ich nicht einmal mehr Lust zu reden. 
+    habe ich nicht einmal mehr Lust zu reden - 
 
-    Schau mich nicht ständig so an - mit dieser Verletztheit -
+    Schau mich nicht ständig so an - mit diesem Blick voller Verletztheit - als wäre ich ein enttäuschtes Kind - 
 
-    als wäre ich ein enttäuschtes Kind -
+    Ja - ich  weiß - dass dies nicht das Leben ist - 
 
-    Ja - ich  weiß, dass dies nicht das Leben ist - 
-
-    wovon du immer geträumt hast - Du wirst sehen - du wirst sehen - dass sich alles ändern wird - Vielleicht wird es nicht morgen sein - aber eines schönen Tages bestimmt - Du wirst sehen - du wirst sehen - dass ich es schaffen werde  - Ich kann dir nicht sagen wie und wann - aber du wirst sehen - dass sich alles ändern wird - Lieber würde ich dich weinen sehen - als wenn du mich so ansiehst - dich enttäuscht zu haben und der Gedanke - dass ich dir nichts  mehr geben kann - lässt mich verzweifeln - Vedrai - vedrai
+    wovon du immer geträumt hast - Du wirst sehen - du wirst sehen - dass sich alles ändern wird - Vielleicht wird es nicht morgen sein - aber eines schönen Tages bestimmt - Du wirst sehen - du wirst sehen - dass ich es schaffen werde  - Ich kann dir nicht sagen wie und wann - aber du wirst sehen - dass sich alles ändern wird - Lieber würde ich dich weinen sehen - als wenn du mich so ansiehst - dich enttäuscht zu haben -  und der Gedanke - dass ich dir nichts  mehr geben kann - lässt mich verzweifeln - Vedrai - vedrai
 
 
 type: rangliste
