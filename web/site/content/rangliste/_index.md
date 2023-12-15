@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=mk-3AVVz6SU&pp=ygUZbHVpZ2kgdGVuY28gdmVkcmFpIHZlZHJhaQ%3D%3D
   image: img/jukebox.jpg
   description: >+
-    Wenn ich abends nach Hause kommse - 
+    Wenn ich abends nach Hause komme - 
 
     habe ich nicht einmal mehr Lust zu reden - 
 
