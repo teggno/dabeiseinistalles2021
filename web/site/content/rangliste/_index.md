@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist aktuell nicht verfügbar
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Iva Zanicchi  ▶️  Zingara
-  url: https://www.youtube.com/watch?v=dtRqysnRdk0&pp=ygUUaXZhIHphbmljY2hpIHppbmdhcmE%3D
+  title: "RAFFI‘S JUKEBOX 🎸 Fred Bongusto  ▶️  Sei bellissima "
+  url: https://www.youtube.com/watch?v=b_v8Fyi9s64&pp=ygUNZnJlZCBib25ndXN0bw%3D%3D
   image: img/jukebox.jpg
   description: "\n\n\n\n"
 type: rangliste
