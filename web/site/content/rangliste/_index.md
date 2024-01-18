@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=JJOMv8YUa9E&pp=ygUZaG9tbyBzYXBpZW5zIHVuJ2VzdGF0ZSBmYQ%3D%3D
   image: img/jukebox.jpg
   description: |+
-    Capri ……e noi due…….
+    Ti riccordi 🤫…..
 
 
 
