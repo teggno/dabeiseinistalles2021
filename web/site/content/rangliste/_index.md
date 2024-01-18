@@ -5,9 +5,13 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist aktuell nicht verfügbar
 song:
-  title: "RAFFI‘S JUKEBOX 🎸 Fred Bongusto  ▶️  Sei bellissima "
-  url: https://www.youtube.com/watch?v=b_v8Fyi9s64&pp=ygUNZnJlZCBib25ndXN0bw%3D%3D
+  title: RAFFI‘S JUKEBOX 🎸 Homo Sapiens  ▶️  Un estate fa
+  url: https://www.youtube.com/watch?v=JJOMv8YUa9E&pp=ygUZaG9tbyBzYXBpZW5zIHVuJ2VzdGF0ZSBmYQ%3D%3D
   image: img/jukebox.jpg
-  description: "\n\n\n\n"
+  description: |+
+    Non dimentichero mai Capri ……e noi due…….
+
+
+
 type: rangliste
 ---
