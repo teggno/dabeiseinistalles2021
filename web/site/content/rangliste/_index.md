@@ -5,11 +5,13 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist aktuell nicht verfügbar
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Homo Sapiens  ▶️  Un estate fa
-  url: https://www.youtube.com/watch?v=JJOMv8YUa9E&pp=ygUZaG9tbyBzYXBpZW5zIHVuJ2VzdGF0ZSBmYQ%3D%3D
+  title: RAFFI‘S JUKEBOX 🎸 Udo Jürgens ▶️  Der Mann mit der Mütze
+  url: https://www.youtube.com/watch?v=h0yqHALUQ8o&pp=ygUXZGVyIG1hbm4gbWl0IGRlciBtw7x0emU%3D
   image: img/jukebox.jpg
-  description: |+
-    Ti riccordi 🤫…..
+  description: >+
+    Wie die Zeit vergeht. Damals widmete Udo dem Helmut Schön dieses Lied. Jetzt
+    ist Franz Beckenbauer tot. Er war ein Unikum. Ich dachte immer, er wäre
+    unsterblich.
 
 
 
