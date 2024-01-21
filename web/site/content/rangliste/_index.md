@@ -10,7 +10,7 @@ song:
   image: img/jukebox.jpg
   description: >+
     Wie die Zeit vergeht. Damals widmete Udo dem Helmut Schön dieses Lied. Jetzt
-    ist Franz Beckenbauer tot. Er war ein Unikum. Ich dachte immer, er wäre
+    ist Franz Beckenbauer tot. Er war ein Unikat. Ich dachte immer, er wäre
     unsterblich.
 
 
