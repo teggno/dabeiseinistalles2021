@@ -2,18 +2,12 @@
 title: Rangliste
 date: 2024-01-09T13:36:13.883Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: Diese Seite ist aktuell nicht verfügbar
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Udo Jürgens ▶️  Der Mann mit der Mütze
-  url: https://www.youtube.com/watch?v=h0yqHALUQ8o&pp=ygUXZGVyIG1hbm4gbWl0IGRlciBtw7x0emU%3D
+  title: "RAFFI‘S JUKEBOX 🎸  ▶️  "
+  url: ""
   image: img/jukebox.jpg
-  description: >+
-    Wie die Zeit vergeht. Damals widmete Udo dem Helmut Schön dieses Lied. Jetzt
-    ist Franz Beckenbauer tot. Er war ein Unikat. Ich dachte immer, er wäre
-    unsterblich.
-
-
-
+  description: "\n\n\n\n"
 type: rangliste
 ---
