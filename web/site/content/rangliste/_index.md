@@ -9,8 +9,8 @@ song:
   url: https://www.youtube.com/watch?v=WaZ607thdzM&pp=ygUgc2luYXRyYSBpdCB3YXMgYSB2ZXJ5IGdvb2QgeWVhciA%3D
   image: img/jukebox.jpg
   description: >+
-    Wenn ich auf die letzten 50 Jahre zurückblicke - warst DU meine grösste
-    Enttäuschung 
+    Wenn ich auf die letzten 50 Jahre zurückblicke - warst DU eine meiner
+    grössten Enttäuschungen
 
 
 
