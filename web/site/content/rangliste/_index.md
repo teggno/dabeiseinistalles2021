@@ -9,8 +9,8 @@ song:
   url: https://www.youtube.com/watch?v=m2DVaVpugCU&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
   image: img/jukebox.jpg
   description: >+
-    ziemlich „verrucht“ die Dame……hört sich aber gut an….“di pigliarmi ancora“
-    🫢
+    ziemlich „verrucht“ die Dame……hört sich aber richtig gut an….“di pigliarmi
+    ancora“ 🫢
 
 
 
