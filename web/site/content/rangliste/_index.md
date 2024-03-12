@@ -2,17 +2,12 @@
 title: Rangliste
 date: 2024-03-12T12:37:19.974Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: Diese Seite ist nicht verfügbar
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Wow  …… 🙈🙈🙈
-  url: https://www.youtube.com/watch?v=m2DVaVpugCU&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
+  title: "RAFFI‘S JUKEBOX 🎸 "
+  url: ""
   image: img/jukebox.jpg
-  description: >+
-    ziemlich „verrucht“ die Dame……hört sich aber richtig gut an….“di pigliarmi
-    ancora“ 🫢
-
-
-
+  description: "\n\n\n\n"
 type: rangliste
 ---
