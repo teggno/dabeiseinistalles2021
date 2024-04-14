@@ -2,6 +2,7 @@
 title: Darum liebe ich Klopp
 draft: true
 date: 2024-04-14T08:12:13.760Z
+image: img/fa548bec-3705-493c-8b59-09d58fd18c7b.jpeg
 ---
 Grosses Interview in der Gazzetta dello Sport  🗞️ Der nichtfliegende Klatschreporter, dessen Angebot immer noch steht, den kommenden Meistertrainer 🤷‍♂️ mit dem Cinquecento persönlich in Liverpool abzuholen (und nach Turin zu bringen), fasst seine Antworten kurz zusammen: 
 
