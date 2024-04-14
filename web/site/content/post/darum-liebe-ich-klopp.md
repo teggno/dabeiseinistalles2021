@@ -4,12 +4,12 @@ draft: false
 date: 2024-04-14T08:12:13.760Z
 image: img/fa548bec-3705-493c-8b59-09d58fd18c7b.jpeg
 ---
-Tolles Interview in der „Gazzetta dello Sport“ 🗞️ Es war dem Orakel von Tägerwilen eine Ehre, die Kurzfassung davon ins Deutsche zu übersetzen! Übrigens steht nach wie vor das Angebot im Raum, den scheidenden Meistertrainer 23/24❓mit dem Cinquecento 🚜 persönlich in Liverpool abzuholen und ihn endlich nach „Hause“ 🙈 (Turin) zu bringen.
+Tolles Interview in der „Gazzetta dello Sport“ 🗞️ Es war dem Orakel von Tägerwilen eine Ehre, die Kurzfassung davon ins Deutsche zu übersetzen! Übrigens steht nach wie vor das Angebot im Raum, den Strahlemann mit dem Cinquecento 🚜 persönlich in Liverpool abzuholen und ihn endlich nach „Hause“ 🙈 (Turin) zu bringen.
 
 G: Herr Klopp, warum dieses unerwartete Fiasko gegen Atalanta? K: Nach einer schlaflosen Nacht, während der ich vergeblich versuchte die Fehler zu analysieren, bin ich immer noch gleich weit. Es war das schlechteste Spiel, seitdem ich da bin.
 
 G: Wie werden sie die nächsten 12 Monate ganz ohne Fussball „heil“ überstehen? K: Meine Frau Ulla hat einiges mit mir vor! Unter anderem soll ich in die Kochkunst eingeweiht werden. Und Tanzkurse aller „Couleur“ hat sie ebenfalls auf meiner Agenda  eingetragen. Neben Stehblues soll in Zukunft auch Salsa, Rock’n’Roll und Tango Teil meines Repertoires sein. Da ich mit sehr wenigen Talenten gesegnet bin, dürften diese Vorgaben nur sehr schwer in die Tat umzusetzen sein. Wer schon beim Heisswasserzubereiten an seine Grenzen stösst, sollte sich vor „Experimenten“ hüten! Irgendetwas muss ich mir allerdings einfallen lassen, sonst fällt mir schon nach wenigen Wochen die Decke auf den Kopf. 
 
-G: Was wünschen sie sich zum Abschied? K: Am liebsten gar nichts! Ich habe solche Feiern schon immer widerwillig über mich ergehen lassen. Die Leute sollen mich in guter Erinnerung behalten! Nicht nur als Trainer, der gar nicht so gut ist wie allerorts behauptet wird, sondern  als „Kumpel“ der zusammen mit dem ganzen Team versucht hat, den Menschen Momente des Glücks zu bereiten. Und wenn es dann unbedingt sein soll und ein Wunsch noch übrig bleibt: Die „Toten Hosen“ live in Anfield und  die BEATLES von der Platte. Egal welches Stück über die Lautsprecher klingen wird, ich liebe sie alle 👏
+G: Was wünschen sie sich zum Abschied? K: Am liebsten gar nichts! Ich habe solche Feiern schon immer widerwillig über mich ergehen lassen. Die Leute sollen mich in guter Erinnerung behalten! Nicht nur als Trainer, der gar nicht so gut ist wie allerorts behauptet wird, sondern  als „Kumpel“ der zusammen mit dem ganzen Team versucht hat, den Menschen Momente des Glücks zu bereiten. Und wenn es dann unbedingt sein soll und ein Wunsch noch übrig bleibt: Die „Toten Hosen“ live in Anfield und  die BEATLES von der Platte. Egal welches Stück über die Lautsprecher klingen wird, ich liebe sie alle 👏 (Jukebox 🎶)
 
-PS: Auf meiner Jukebox speziell zu diesem Anlass die „Söhne Liverpools“ mit einem ihrer unvergesslichen Songs 🎶
+PS: So schnell kann’s gehen! Nach der Niederlage in Europa nun auch der KO Schlag in der Meisterschaft. Tut mir leid für ihn.
