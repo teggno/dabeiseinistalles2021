@@ -12,4 +12,4 @@ G: Wie werden sie die nächsten 12 Monate ganz ohne Fussball „heil“ überste
 
 G: Was wünschen sie sich zum Abschied? K: Am liebsten gar nichts! Ich habe solche Feiern schon immer widerwillig über mich ergehen lassen. Die Leute sollen mich in guter Erinnerung behalten! Nicht nur als Trainer, der gar nicht so gut ist wie allerorts behauptet wird, sondern  als „Kumpel“ der zusammen mit dem ganzen Team versucht hat, den Menschen Momente des Glücks zu bereiten. Und wenn es dann unbedingt sein soll und ein Wunsch noch übrig bleibt: Die „Toten Hosen“ live in Anfield und  die BEATLES von der Platte. Egal welches Stück über die Lautsprecher klingen wird, ich liebe sie alle 👏 (Jukebox 🎶)
 
-PS: So schnell kann’s gehen! Nach der Niederlage in Europa nun auch der KO Schlag in der Meisterschaft. Tut mir leid für ihn.
+PS: So schnell kann’s gehen! Nach der Niederlage in Europa nun auch der vermutliche KO Schlag in der Meisterschaft. Tut mir leid für ihn.
