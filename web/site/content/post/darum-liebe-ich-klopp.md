@@ -10,6 +10,6 @@ G: Herr Klopp, warum dieses unerwartete Fiasko gegen Atalanta? K: Nach einer sch
 
 G: Wie werden sie die nächsten 12 Monate ganz ohne Fussball „heil“ überstehen? K: Meine Frau Ulla hat einiges mit mir vor! Unter anderem soll ich in die Kochkunst eingeweiht werden und neben Stehblues auch Salsa, Tango und Rock’n’Roll verinnerlichen 🫢! Da ich mit sehr wenigen Talenten gesegnet bin, dürften diese Vorgaben nur sehr schwer in die Tat umzusetzen sein, da ich bereits beim Heisswasserzubereiten an meine Grenzen stosse. Doch irgendetwas muss ich mir ja einfallen lassen, sonst fällt mir schon nach wenigen Wochen die Decke auf den Kopf. 
 
-G: Was wünschen sie sich zum Abschied? K: Am liebsten gar nichts! Ich habe solche Feiern schon immer gehasst. Die Leute sollen mich in guter Erinnerung behalten! Nicht nur als Trainer, denn so gut wie alle behaupten, bin ich gar nicht, sondern mehr als „Kumpel“, der ihnen zusammen mit dem ganzen Team Momente des Glücks bereitet hat. Und dann noch eins, wenn es unbedingt sein muss! Die Toten Hosen live in Anfield Road und  von der Platte die BEATLES “ich mag sie alle…..\
+G: Was wünschen sie sich zum Abschied? K: Am liebsten gar nichts! Ich habe solche Feiern schon immer gehasst. Die Leute sollen mich in guter Erinnerung behalten! Nicht nur als Trainer, denn so gut wie alle behaupten, bin ich gar nicht, sondern mehr als „Kumpel“, der ihnen zusammen mit dem ganzen Team Momente des Glücks bereitet hat. Und dann noch eins, wenn es unbedingt sein muss! Die Toten Hosen live in Anfield und  von der Platte die BEATLES! Egal welche Stück, ich mag sie alle…..\
 \
-PS: Jetzt liebe ich den Typen noch mehr ……
+PS: Jetzt liebe ich diesen Typen noch mehr….
