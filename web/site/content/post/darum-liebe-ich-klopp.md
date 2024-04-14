@@ -4,7 +4,7 @@ draft: false
 date: 2024-04-14T08:12:13.760Z
 image: img/fa548bec-3705-493c-8b59-09d58fd18c7b.jpeg
 ---
-Tolles Interview in der Gazzetta dello Sport  🗞️ Es war dem Orakel von Tägerwilen eine Ehre, die Kurzfassung davon ins Deutsche zu übersetzen! Übrigens steht nach wie vor das Angebot im Raum, den scheidenden Meistertrainer 23/24❓mit dem Cinquecento 🚜 persönlich in Liverpool abzuholen und ihn endlich nach „Hause“ (Turin) zu bringen 🙈
+Tolles Interview in der „Gazzetta dello Sport“ 🗞️ Es war dem Orakel von Tägerwilen eine Ehre, die Kurzfassung davon ins Deutsche zu übersetzen! Übrigens steht nach wie vor das Angebot im Raum, den scheidenden Meistertrainer 23/24❓mit dem Cinquecento 🚜 persönlich in Liverpool abzuholen und ihn endlich nach „Hause“ (Turin) zu bringen 🙈
 
 G: Herr Klopp, warum dieses unerwartete Fiasko gegen Atalanta? K: Nach einer schlaflosen Nacht, während der ich vergeblich versuchte die Fehler zu analysieren, bin ich immer noch gleich weit. Es war das schlechteste Spiel, seitdem ich da bin.
 
