@@ -4,7 +4,7 @@ draft: false
 date: 2024-04-14T08:12:13.760Z
 image: img/fa548bec-3705-493c-8b59-09d58fd18c7b.jpeg
 ---
-Grosses Interview in der Gazzetta dello Sport  🗞️ Hier eine Kurzfassung von OVT (Orakel von Tägerwilen), dessen Angebot immer noch steht, den kommenden Meistertrainer 🤷‍♂️ mit dem Cinquecento 🚜 persönlich in Liverpool abzuholen und endlich nach „Hause“ (Turin) zu bringen 🙈
+Grosses Interview in der Gazzetta dello Sport  🗞️ Hier eine Kurzfassung vom OVT (Orakel von Tägerwilen), dessen Angebot immer noch steht, den kommenden Meistertrainer 🤷‍♂️ mit dem Cinquecento 🚜 persönlich in Liverpool abzuholen und endlich nach „Hause“ (Turin) zu bringen 🙈
 
 G: Herr Klopp, warum das Fiasko gegen Atalanta? K: Nach einer schlaflosen Nacht, während der ich versucht habe, alles zu analysieren, bin ich keinen Schritt weitergekommen. Es war das schlechteste Spiel, seit ich da bin.
 
