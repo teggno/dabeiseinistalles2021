@@ -6,7 +6,7 @@ image: img/fa548bec-3705-493c-8b59-09d58fd18c7b.jpeg
 ---
 Grosses Interview in der Gazzetta dello Sport  🗞️ Hier eine Kurzfassung ins Deutsche übersetzt! Vom Orakel aus Tägerwilen, dessen Angebot immer noch steht, den kommenden Meistertrainer 🤷‍♂️ mit dem Cinquecento 🚜 persönlich in Liverpool abzuholen und endlich nach „Hause“ (Turin) zu bringen 🙈
 
-G: Herr Klopp, warum das Fiasko gegen Atalanta? K: Nach einer schlaflosen Nacht, während der ich versucht habe, alles zu analysieren, bin ich keinen Schritt weitergekommen. Es war das schlechteste Spiel, seit ich da bin.
+G: Herr Klopp, warum dieses unerwartete Fiasko gegen Atalanta? K: Nach einer schlaflosen Nacht, während der ich versucht habe, alles zu analysieren, bin ich keinen Schritt weitergekommen. Es war das schlechteste Spiel, seit ich da bin.
 
 G: Was haben sie während ihrer anstehenden Auszeit vor? K: Meine Frau Ulla hat mir vorgeschlagen, kochen zu lernen und  einen Tanz 💃🏽🕺🏾Kurs mit ihr zu besuchen! Da ich mit sehr wenigen Talenten gesegnet bin, dürfte dieses Unterfangen sehr  schwierig werden. Beim Heisswasserzubereiten stosse ich bereits an meine Grenzen. Und tanzen!? 🙈🙈🙈 Allerdings muss ich unbedingt etwas tun, sonst wird mir nach wenigen Wochen die Decke auf den Kopf fallen.
 
