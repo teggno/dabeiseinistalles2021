@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist nicht verfügbar
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Me and Mrs. Mmmmmhhh 💋
+  title: "RAFFI‘S JUKEBOX 🎸 Me and Mrs 💋 Mmmmmhhh "
   url: https://www.youtube.com/watch?v=NYOQDnWFXYI&pp=ygUiYmlsbHkgcGF1bCBtZSBhbmQgbXJzIGpvbmVzIHZpZGVvIA%3D%3D
   image: img/jukebox.jpg
   description: |
