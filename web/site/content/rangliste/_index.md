@@ -10,6 +10,7 @@ song:
   image: img/jukebox.jpg
   description: >
     e il 30 aprile 1️⃣ 9️⃣ 🤷‍♂️ ♋️  quando tu - donna meravigliosa - entri
-    nella mia vita
+    nella mia vita - immaginando le tue 🍊🍊e il tuo füzli bagnato non ho potuto
+    resistere 💦
 type: rangliste
 ---
