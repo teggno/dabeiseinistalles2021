@@ -5,12 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist nicht verfügbar
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Me and Mrs M 💋 mmmhhh
-  url: https://www.youtube.com/watch?v=NYOQDnWFXYI&pp=ygUiYmlsbHkgcGF1bCBtZSBhbmQgbXJzIGpvbmVzIHZpZGVvIA%3D%3D
+  title: "RAFFI‘S JUKEBOX 🎸 Mina - Ancora ancora ancora "
+  url: https://www.youtube.com/watch?v=ua9u_AoKxgo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
   image: img/jukebox.jpg
-  description: >
-    e il 30 aprile 1️⃣ 9️⃣ 🤷‍♂️ ♋️  quando tu - donna meravigliosa - entri
-    nella mia vita - immaginando le tue 🍊🍊e il tuo füzli bagnato non ho potuto
-    resistere 💦
+  description: "\n"
 type: rangliste
 ---
