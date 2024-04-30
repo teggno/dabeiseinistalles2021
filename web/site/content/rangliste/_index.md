@@ -8,8 +8,7 @@ song:
   title: RAFFI‘S JUKEBOX 🎸 Me and Mrs M 💋 mmmhhh
   url: https://www.youtube.com/watch?v=NYOQDnWFXYI&pp=ygUiYmlsbHkgcGF1bCBtZSBhbmQgbXJzIGpvbmVzIHZpZGVvIA%3D%3D
   image: img/jukebox.jpg
-  description: >
-    28 anni fa 🎈quell’ indimenticabile 30 aprile 1996 🎆 incontrai una donna
-    meravigliosa 
+  description: |
+    Du bist einzig 🎆 artig
 type: rangliste
 ---
