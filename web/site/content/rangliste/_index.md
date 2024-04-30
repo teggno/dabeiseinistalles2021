@@ -2,12 +2,14 @@
 title: Rangliste
 date: 2024-03-12T12:37:19.974Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: Diese Seite ist nicht verfügbar
 song:
-  title: RAFFI‘S JUKEBOX 🎸 The Beatles - In my Life
-  url: https://www.youtube.com/watch?v=ZqpysaAo4BQ&pp=ygUSaW4gbXkgbGlmZSBiZWF0bGVz
+  title: RAFFI‘S JUKEBOX 🎸 Me and Mrs. Mmmmmhhh 💋
+  url: ""
   image: img/jukebox.jpg
-  description: "\n\n"
+  description: |
+    
+    Una canzone meravigliosa per una donna speciale 
 type: rangliste
 ---
