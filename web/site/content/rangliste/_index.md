@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: Diese Seite ist nicht verfügbar
 song:
   title: RAFFI‘S JUKEBOX 🎸 Mina - ancora 🫢 ancora 🤦🏻‍♂️ ancora 🥳
-  url: https://www.youtube.com/watch?v=ua9u_AoKxgo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
+  url: https://www.youtube.com/watch?v=V8i_uG9Hlr4&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
   image: img/jukebox.jpg
   description: "\n"
 type: rangliste
