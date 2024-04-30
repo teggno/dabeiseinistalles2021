@@ -9,6 +9,6 @@ song:
   url: https://www.youtube.com/watch?v=NYOQDnWFXYI&pp=ygUiYmlsbHkgcGF1bCBtZSBhbmQgbXJzIGpvbmVzIHZpZGVvIA%3D%3D
   image: img/jukebox.jpg
   description: |
-    Du bist einzig 🎆 artig
+    Du bist einzig ♋️ artig
 type: rangliste
 ---
