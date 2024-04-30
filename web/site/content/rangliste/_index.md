@@ -8,7 +8,8 @@ song:
   title: RAFFI‘S JUKEBOX 🎸 Me and Mrs M 💋 mmmhhh
   url: https://www.youtube.com/watch?v=NYOQDnWFXYI&pp=ygUiYmlsbHkgcGF1bCBtZSBhbmQgbXJzIGpvbmVzIHZpZGVvIA%3D%3D
   image: img/jukebox.jpg
-  description: |
-    Du bist einzig ♋️ artig
+  description: >
+    Era il 30 aprile 1️⃣ 9️⃣ 🤷‍♂️ ♋️  quando quella donna meravigliosa entra
+    nella mia vita
 type: rangliste
 ---
