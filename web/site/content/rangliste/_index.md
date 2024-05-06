@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist nicht verfügbar
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Earl Grant - The End
+  title: RAFFI‘S JUKEBOX 🎸 Earl Grant  ▶️  The End
   url: https://www.youtube.com/watch?v=y_FHaTEnyXI&pp=ygUSZWFybCBncmFudCB0aGUgZW5k
   image: img/jukebox.jpg
   description: >
