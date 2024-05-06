@@ -8,37 +8,11 @@ song:
   title: RAFFI‘S JUKEBOX 🎸 Earl Grant - The End
   url: https://www.youtube.com/watch?v=y_FHaTEnyXI&pp=ygUSZWFybCBncmFudCB0aGUgZW5k
   image: img/jukebox.jpg
-  description: |
-    Jeder Traum geht zu Ende
-    Und Schatten folgt dem Licht
-    Jeder Tag geht zur Neige
-    Doch unsre Liebe nicht
+  description: >
+    Jeder Traum geht zu Ende - und Schatten folgt dem Licht -  Jeder Tag geht
+    zur Neige - doch unsre Liebe nicht - Denn sie kam wie ein Märchen - und
+    drang ins Herz hinein - 
 
-    Denn sie kam wie ein Märchen
-    Und drang ins Herz hinein
-    Sie scheint wie ein Wunder
-    Unendlich zu sein
-
-    Jeder Weg, jede Straße
-    Hat irgendwo ein Ziel
-    Jeder Fluss treibt dem Meer zu
-    Und endet dort sein Spiel
-
-
-    Doch die Liebe, die du gibst
-    Ist schöner als ein Traum
-    Denn sie lebt bis ans Ende
-    Von Zeit und Raum
-
-    Jeder Weg, jede Straße
-    Hat irgendwo ein Ziel
-    Jeder Fluss treibt dem Meer zu
-    Und endet dort sein Spiel
-
-    Doch die Liebe, die du gibst
-    Ist schöner als ein Traum
-    Denn sie lebt bis ans Ende
-    Von Zeit und Raum
-    Von Zeit und Raum
+    sie scheint wie ein Wunder - unendlich zu sein - Jeder Weg - jede Straße - hat irgendwo ein Ziel - jeder Fluss treibt dem Meer zu - und endet dort sein Spiel -  doch die Liebe - die du gibst - ist schöner als ein Traum - denn sie lebt bis ans Ende von Zeit und Raum - Jeder Weg, jede Straße - hat irgendwo ein Ziel - jeder Fluss treibt dem Meer zu - und endet dort sein Spiel - doch die Liebe, die du gibst Ist schöner als ein Traum - denn sie lebt bis ans Ende von Zeit und Raum - von Zeit und Raum
 type: rangliste
 ---
