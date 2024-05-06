@@ -13,6 +13,6 @@ song:
     zur Neige - doch unsre Liebe nicht - Denn sie kam wie ein Märchen - und
     drang ins Herz hinein - 
 
-    sie scheint wie ein Wunder - unendlich zu sein - Jeder Weg - jede Straße - hat irgendwo ein Ziel - jeder Fluss treibt dem Meer zu - und endet dort sein Spiel -  doch die Liebe - die du gibst - ist schöner als ein Traum - denn sie lebt bis ans Ende von Zeit und Raum - Jeder Weg, jede Straße - hat irgendwo ein Ziel - jeder Fluss treibt dem Meer zu - und endet dort sein Spiel - doch die Liebe, die du gibst Ist schöner als ein Traum - denn sie lebt bis ans Ende von Zeit und Raum - von Zeit und Raum
+    sie scheint wie ein Wunder - unendlich zu sein - Jeder Weg - jede Straße - hat irgendwo ein Ziel - jeder Fluss treibt dem Meer zu - und endet dort sein Spiel -  doch die Liebe - die du gibst - ist schöner als ein Traum - denn sie lebt bis ans Ende von Zeit und Raum - von Zeit und Raum
 type: rangliste
 ---
