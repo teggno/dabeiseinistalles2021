@@ -1,0 +1,6 @@
+---
+title: "Selbstgespräche "
+draft: true
+date: 2024-05-09T22:31:53.688Z
+---
+Sölli oder sölli nöd⁉️ Was steht dir im Weg du ewiger Grübler? Ist es die Arbeit, die du nie gescheut hast 🫢 oder sind es die Zellen deines Gehirns 🧠 die dir einen Streich spielen könnten? Das Feuer 🔥 brennt nicht mehr, hast du oft betont. Doch in Wahrheit möchtest du dein Gelübde nicht brechen. Das war‘s! So hast du dich damals verabschiedet nach der azurblauen 💙 Wundertat! An die Konsequenzen hast du nicht gedacht. Da sind die vielen „Obdachlosen“, die in der Zwischenzeit verdiente Pensionäre geworden sind und trotzdem nicht wissen, wo,sie jeden Tag den Kopf „anschlagen“ sollen. Verflixte Freizeit, wenn man dich nicht (aus)füllen kann. Auch die “Suchtopfer“ die mit Wehmut auf die „Sunnähöflizitä“ zurückblickten, sehnten sich nach einem Zuhause. Und die Damen erst, die sich wenigstens einen Monat lang hingebungsvoll unserer Leidenschaft zuwenden durften, weil bei „dabeiseinistalles“ nicht nur die „Technik“ im Vordergrund stand.
