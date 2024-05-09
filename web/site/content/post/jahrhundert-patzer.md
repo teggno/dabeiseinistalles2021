@@ -4,7 +4,7 @@ draft: false
 date: 2024-05-09T09:43:59.305Z
 image: img/img_0486.jpeg
 ---
-Das Leben eines Torhüters kann brutal sein! Da hälst du was es zu halten gibt! Keine Unhaltbaren zwar, wie uns der Reporter von Servus-TV weismachen wollte! Doch wie gewohnt bist du der Fels in der Brandung. Dann hat das Schicksal ausgerechnet dich im Visier. Spielt dir eine Kugel zu, die du im Normalfall als misslungene Rückgabe belächelst. Tausendmal schon hast du ähnliche Dinger in Empfang genommen. Hätte Zeljko bei den Veteranen so einen nach vorne abprallen lassen, wäre er in die „Fliegenfänger-Zunft“ aufgenommen worden.
+Das Leben eines Torhüters kann brutal sein! Da hälst du was es zu halten gibt! Keine Unhaltbaren zwar, wie uns der Reporter von Servus-TV weismachen wollte! Doch wie gewohnt bist du der Fels in der Brandung. Dann hat das Schicksal ausgerechnet dich im Visier. Spielt dir eine Kugel zu, die du im Normalfall als misslungene Rückgabe belächelst. Tausendmal schon hast du ähnliche Dinger in Empfang genommen. Hätten Renato Petrillo oder Zeljko Berger bei den Veteranen so einen nach vorne abprallen lassen, wären sie in die „Fliegenfänger-Zunft“ aufgenommen worden.
 
 Manuel Neuer darf ohne Übertreibung zu den fünf besten Torhütern der Fussball-Historie gezählt werden. Ich, der ich mit Legenden wie Lew Yashin und Gordon Banks aufgewachsen bin, würde ihn irgendwo in der Gegend von Luigi Buffon ansiedeln. Ein gigantischer Kampf um Bronze. Zu behaupten, dass dieser fatale Fehlgriff in der 88. Minute dieses denkwürdigen Halbfinales die Eintragungen in den Geschichtsbüchern nicht tangieren wird, wäre ziemlich verwegen. Ich denke, dass der Bayern-Keeper bis an sein Lebensende jeden Morgen mit dieser „Szene im Gepäck“ aufwachen wird.
 
