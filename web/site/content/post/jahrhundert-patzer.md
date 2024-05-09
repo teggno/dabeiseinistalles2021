@@ -2,6 +2,7 @@
 title: "Jahrhundert-Patzer "
 draft: true
 date: 2024-05-09T09:43:59.305Z
+image: img/img_0486.jpeg
 ---
 Das Leben eines Torhüters kann brutal sein! Da hälst du was es es zu halten gibt! Keine Unhaltbaren zwar, doch du bist stets auf dem Posten.Business as usual! Dann hat das Schicksal ausgerechnet dich im Visier. Spielt dir eine Kugel zu, die du im Normalfall als misslungene Rückgabe belächelst. Tausendmal schon hast du ähnliche Dinger in Empfang genommen. Hätte Zeljko bei den Veteranen so einen nach vorne abprallen lassen, hätte der Ausdruck „Fliegenfänger„ die Runde gemacht.
 
