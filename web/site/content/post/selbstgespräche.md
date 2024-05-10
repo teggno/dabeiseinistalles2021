@@ -1,5 +1,5 @@
 ---
-title: "Selbstgespräche "
+title: Das war’s…. noch nicht 🤷‍♂️
 draft: true
 date: 2024-05-09T22:31:53.688Z
 ---
