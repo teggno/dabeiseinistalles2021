@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-09T22:31:53.688Z
 image: img/img_0488.jpeg
 ---
-Sölli oder sölli nöd⁉️ Das ist hier die Frage! Was steht dir eigentlich im Weg du ewiger Grübler? Ist es die Arbeit, die du nie gescheut hast 🫢 oder sind es die Hirn 🧠 Zellen, die dir einen Streich spielen könnten? Das Feuer 🔥 brennt nicht mehr, hast du oft betont. Juve’s Wehwehchen 🤕 sind auch an dir nicht spurlos vorbeigegangen. Doch in Wahrheit möchtest du doch dein Gelübde nicht brechen.
+Sölli oder sölli nöd⁉️ Das ist hier die Frage! Was steht dir eigentlich im Weg du ewiger Grübler? Ist es die Arbeit, die du nie gescheut hast 🫢 oder sind es die Hirn 🧠 Zellen, die dir einen Streich spielen könnten? Das Feuer 🔥 brennt nicht mehr, hast du oft betont. Juve’s Wehwehchen 🤕 sind auch an dir nicht spurlos vorbeigegangen. Oder fällt es dir etwa schwer, dein Gelübde zu brechen?
 
 Das war‘s! So hast du dich damals verabschiedet nach dem azurblauen 💙 Wunder von Wembley! An die Konsequenzen hast du jedoch nicht gedacht. Die vielen „Obdachlosen“, die in der Zwischenzeit verdiente Pensionäre geworden sind und trotzdem nicht wissen, wo,sie jeden Tag ihren Kopf „anschlagen“ sollen. Verflixte Freizeit, wenn man dich nicht (aus)füllen kann. Auch die “Suchtopfer“ die mit Wehmut „uf alti Sunnähöflizitä“ zurückblicken, sehnen sich nach Jahren der Abstinenz nach einem Zuhause. Und die Damen erst, die sich wenigstens einen Monat lang hingebungsvoll männlicher Leidenschaft zuwenden durften, weil bei „dabeiseinistalles“ nicht nur die „Technik“ im Vordergrund stand.
 
