@@ -4,11 +4,11 @@ draft: true
 date: 2024-05-10T08:44:22.974Z
 image: img/img_0490.webp
 ---
-Man schrieb das Jahr 66! Viele von uns wussten noch nichts von ihrem Glück! Sie waren nicht mal in der Planung! Andere wie Kuno und Bruno strampelten sich im Scotch-Keller die Füsse ab um den weiblichen Groupies zu imponieren. Mein Schicksal führte mich nach Rimini, wo ich fast jeden Abend in der Pensione Fabbri mit einer altehrwürdigen Dame auf der Veranda „scopa„ spielte. Im Mutterland des Fussballs ging gerade die Fussball-WM über die Bühne. Unglücklicherweise hatte es die Eidgenossen in die Gruppe ihres nördlichen Nachbars  verschlagen. Einige Grufties unter uns werden sich noch an die Namen der 22 Akteure erinnern. Für die Nostalgiker zähle ich sie nochmals auf. Die Jungspunde dürfen diese Zeilen getrost überspringen.
+Man schrieb das Jahr 66! Viele von uns wussten noch nichts von ihrem Glück! Sie waren nicht mal in der Planung! Andere wie Kuno und Bruno strampelten sich im Scotch-Keller die Füsse ab um den weiblichen Groupies zu imponieren. Mein Schicksal führte mich nach Rimini, wo ich fast jeden Abend in der Pensione Fabbri mit einer altehrwürdigen Dame auf der Veranda „scopa„ spielte. Im Mutterland des Fussballs ging gerade die Fussball-WM über die Bühne. Unglücklicherweise hatte es die Eidgenossen in die Gruppe ihres nördlichen Nachbarn verschlagen. Einige Grufties unter uns werden sich noch an die Namen der 22 Akteure erinnern. Für die Nostalgiker zähle ich sie nochmals auf. Die Jungspunde dürfen diese Zeilen getrost überspringen.
 
 Schweiz: Charly Elsener, Fuhrer, Grobéty, Schneiter, Tacchella, Bäni, Dürr, Hosp, Odermatt, Künzli, Schindelholz - Trainer Alfredo Foni
 
-Deutschland: Tilkowski, Höttges, Schulz, Weber, Schnellinger, Brülls, Haller, Overath, Beckenbauer, Seeler, Held, (Emmerich) Trainer Helmuth Schön
+Deutschland: Tilkowski, Höttges, Schulz, Weber, Schnellinger, Brülls, Haller, Overath, Beckenbauer, Seeler, Held (Emmerich) Trainer Helmuth Schön
 
 Wie nicht anders zu erwarten war, gingen die Eidgenossen am Ende baden. Nach einer einseitigen Partie standen auf der Anzeigetafel die Ziffern 0+5. Einen pechschwarzen Tag hatte Torhüter Charly Elsener eingezogen, der an mehreren Toren seine Hände im Spiel hatte. Nicht auf dem Spielbogen figurierte der spätere Naticoach Köbi Kuhn, damals zusammen mit Odermatt einer der Schlüsselspieler im Schweizer Mittelfeld. Die Sittenpolizei hatte den Unglücksraben  in den Armen einer britischen Übersetzerin aufgespürt. Ein Skandal, der für den „Blick“ ein gefundenes Fressen war, gab es doch von helvetischen Glanztaten auf dem Rasen wenig zu berichten.
 
