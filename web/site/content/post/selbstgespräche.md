@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-09T22:31:53.688Z
 image: img/img_0488.jpeg
 ---
-Sölli oder sölli nöd⁉️ Das ist hier die Frage! Was steht dir eigentlich im Weg du ewiger Grübler? Ist es die Arbeit, die du nie gescheut hast 🫢 oder sind es die Hirn 🧠 Zellen, die von Tag zu Tag weniger werden? Das Feuer 🔥 brennt nicht mehr, hast du oft betont. Juve’s  Patientenakte 🤕 scheint dich in einen Zustand  lethargischer Gleichgültigkeit versetzt zu haben. Oder ist es am Ende dieses Gelübde, das du nicht brechen willst?
+Sölli oder sölli nöd⁉️ Das ist DAS Problem! Was steht dir eigentlich im Weg du ewiger Grübler? Ist es die Arbeit, die du nie gescheut hast 🫢 oder sind es die Hirn 🧠 Zellen, die von Tag zu Tag weniger werden? Das Feuer 🔥 brennt nicht mehr, hast du oft betont. Juve’s  Patientenakte 🤕 scheint dich in einen Zustand  lethargischer Gleichgültigkeit zu versetzen. Oder ist es am Ende dieses Gelübde, das du auf keinen Fall brechen willst?
 
 Das war‘s! Mit diesen zwei unmissverständlichen Worten hattest  du dich damals aus der Szene verabschiedet. Es war die Nacht der Nächte. Ein Meer von Tricolore-Fahnen wehte durch die Gassen, nachdem die UEFA im ehrwürdigen Wembley das achte Weltwunder 💙 verkündet hatte. An die Konsequenzen deines Rückzugs dachtest du damals allerdings nicht. Die  vielen „Obdachlosen“, die in der Zwischenzeit als verdiente Pensionäre auf dem Boulevard nach menschlicher Wärme suchten. Oder die „Suchtopfer“ die seit legendären „Sunnähöflizitä“ nie mehr richtig auf die Beine gekommen sind. Und die Damen erst, die plötzlich Gefallen am runden Leder gefunden hatten und an den Stammtischen an vorderster Front über Abseits und VAR philosophierten, als hätten sie Fussballvirus schon mit der Muttermilch eingesogen.
 
