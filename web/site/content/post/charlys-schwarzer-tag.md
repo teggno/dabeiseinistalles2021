@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-10T08:44:22.974Z
 image: img/img_0490.webp
 ---
-Man schrieb das Jahr 66! Viele von uns wussten noch nichts von ihrem Glück! Sie waren nicht mal in der Planung! Andere wie Kuno und Bruno strampelten sich im Scotch-Keller die Füsse ab um den weiblichen Groupies zu imponieren. Mein Schicksal führte mich nach Rimini, wo ich fast jeden Abend in der „Pensione Fabbri“ mit einer vornehmen Dame auf der Veranda „scopa„ spielte. Im Mutterland des Fussballs ging gerade die Fussball-WM über die Bühne. Unglücklicherweise hatte es die Eidgenossen in die Gruppe ihres nördlichen Nachbarn verschlagen. Einige der älteren Semester unter uns werden sich noch an die Namen der 22 Akteure erinnern. Für die Nostalgiker zähle ich sie nochmals auf. 
+Man schrieb das Jahr 66! Viele von uns wussten noch nichts von ihrem Glück! Sie waren nicht mal in der Planung! Andere wie Kuno und Bruno strampelten sich im „Scotch-Keller“ die Füsse ab um den weiblichen Groupies die Köpfe zu verdrehn. Mein Schicksal führte mich nach Rimini, wo ich fast jeden Abend in der „Pensione Fabbri“ mit einer vornehmen Dame auf der Veranda „scopa„ spielte. Im Mutterland des Fussballs ging gerade die Fussball-WM über die Bühne. Unglücklicherweise hatte es die Eidgenossen in die Gruppe ihres nördlichen Nachbarn verschlagen. Einige der älteren Semester unter uns werden sich noch an die Namen der 22 Akteure erinnern. Für die Nostalgiker zähle ich sie nochmals auf. 
 
 Schweiz: Charly Elsener, Fuhrer, Grobéty, Schneiter, Tacchella, Bäni, Dürr, Hosp, Odermatt, Künzli, Schindelholz - Trainer Alfredo Foni
 
