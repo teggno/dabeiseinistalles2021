@@ -1,7 +1,7 @@
 ---
 title: "Das war’s…. noch nicht "
 draft: false
-date: 2024-05-09T22:31:53.688Z
+date: 2024-05-11T11:10:42.185Z
 image: img/img_0488.jpeg
 ---
 Sölli oder sölli nöd⁉️ Was steht dir eigentlich im Weg, du unverbesserlicher Grübler! Ist es die Arbeit, die du nie gescheut hast 🫢 oder sind es die ersten Anzeichen geistigen Zerfalls!? Das Feuer 🔥 brennt nicht mehr, hast du oft betont. Juve’s  Patientenakte 🤕 scheint dich in einen Zustand  lethargischer Gleichgültigkeit versetzt zu haben. Oder ist es am Ende dieses Gelübde, das du auf keinen Fall brechen willst?
