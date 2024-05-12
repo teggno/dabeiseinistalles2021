@@ -1,6 +1,6 @@
 ---
 title: "Jahrhundert-Patzer "
-draft: false
+draft: true
 date: 2024-05-09T09:43:59.305Z
 image: img/img_0486.jpeg
 ---
