@@ -12,4 +12,4 @@ Ob Einstein oder Sokrates uns von der Ratlosigkeit befreit hätten? Oder Aphrodi
 
 Wenn uns schon niemand (Lilly+Raffaele) zu Hilfe eilt, die wir uns vor Turnierbeginn vor versammelter Kulisse outen möchten, bleibt nur eins: Der Gang zur Lostrommel! Alle 24 Kugeln rein und hoffen auf Göttin Fortuna! Und siehe da 🙈 was uns das Schicksal eingebrockt hat! Frankreich 🇫🇷  England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Österreich 🇦🇹 begleitet von Mbappe, Kane, Scamacca und Füllkrug. Die Krone 👑 des Torschützenkönigs setzten wir aufs Haupt von Sir Harry Kane und Europameister wird…..endlich……endlich…..ENGLAND  🥳 
 
-Verzeih mir, dass ich DICH mein geliebtes Vaterland  🇮🇹 links hab liegen lassen, wie ein verdorrtes Mauer 🥀 Blümchen. Trotz “Lucky Luciano“ habe ich den Glauben an dich verloren. Leb wohl und bestrafe mich für meine Sünden.
+Verzeih mir, dass ich DICH mein geliebtes Vaterland  🇮🇹 links hab liegen lassen, wie ein Mauer 🥀 Blümchen am Strassenrand. Trotz „Lucky Luciano“ habe ich den Glauben an dich verloren. Leb wohl in der Hoffnung dass du mich für meine Todsünde bestrafst.
