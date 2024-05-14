@@ -2,7 +2,7 @@
 title: Charlys schwarzer Tag
 draft: true
 date: 2024-05-10T08:44:22.974Z
-image: img/3a397f13-ef79-4941-9f46-9c1850de3f5d.jpeg
+image: null
 ---
 Man schrieb das Jahr 66! Viele von uns wussten noch gar nichts von ihrem Glück! Sie waren nicht mal in der Planung! Andere wie Kuno und Bruno strampelten sich im „Scotch-Keller“  ennet der Grenze die Füsse ab um den „Groupies“  einen flüchtigen Blick abzugewinnen. Mein Schicksal führte mich nach Rimini, wo ich fast jeden Abend in der „Pensione Fabbri“ mit einer vornehmen älteren Dame bis um 19 Uhr 25  auf der Hotel-Veranda  „scopa“ spielte.  Dann ertönte im Flimmerkasten die Eurovisions-Hymne und ich befand mich plötzlich in einer anderen Welt. Im Mutterland des Fussballs ging gerade die Fussball-WM über die Bühne. 16 Teams spielten während 19 Tagen den Weltmeister unter sich aus. Anspielzeit war jeweils um halbacht, auf die  Tagesschau wurde null Rücksicht genommen und Experten kamen keine  zu Wort. Weil sich Göttin Fortuna bei der Auslosung keine besondere Mühe gegeben hatte, landeten die Eidgenossen in der Gruppe mit Deutschland. Einige der älteren Semester werden sich noch an die Namen der 22 Akteure erinnern. Für alle Nostalgiker zähle ich sie nochmals auf. 
 
