@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-13T15:05:39.945Z
 image: img/img_0494.jpeg
 ---
-Es sind immer dieselben Überlegungen, die uns in diesen Tagen der Vorfreude herumtreiben. Beschränken wir unsere Auswahl auf die (Über)Mächtigen oder mischen wir den einen oder anderen aus der Mittelschicht darunter! Oder gar einen aus dem Proletariat, um uns von der Masse abzuheben? Schema F hat fast nie zum Erfolg geführt und trotzdem halten wir an alten Zöpfen fest.
+Es sind immer dieselben Überlegungen, die uns in diesen Tagen der Vorfreude herumtreiben. Beschränken wir unsere Auswahl auf die (Über)Mächtigen oder mischen wir den einen oder anderen aus der Mittelschicht dazu! Vielleicht sogar einen aus dem Proletariat, um uns von der Masse abzuheben? Schema F hat fast noch nie zum Erfolg geführt und trotzdem halten wir an alten Zöpfen fest.
 
 Dass Albanien, Slowenien, Polen, Rumänien und Georgien als erste die Koffer packen und im Schlepptau die Slowaken und Tschechen in den vorzeitigen Urlaub mitnehmen, scheint uns  auf den ersten Blick klar. Solche Rechenaufgaben haben wir schon im Kindergarten gelöst. Doch bereits fürs Achtelfinale, wo überraschende KO-Schläge manchen Favoriten frühzeitig zur Stecke bringen, sollten unsere Auswahlkriterien , Dinge wie Nervenflattern in die Überlegungen miteinbeziehen. Vor allem wenn es zum Elfmeterpunkt geht. Aus mickrigen 11 Metern ein 7 Meter breites und über 2 Meter hohes Loch zu treffen, sollte doch für jeden ein Kinderspiel sein. Wenn wir uns dann allerdings vor Augen halten, dass Leute wie Baggio, Streller, Mbappé, Hoeness, Trezeguet, Baresi usw. teilweise kläglich gescheitert sind, wissen wir Bescheid.
 
