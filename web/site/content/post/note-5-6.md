@@ -1,5 +1,5 @@
 ---
-title: Note 5-6
+title: "Aschenputtel‘s Wandlung "
 draft: true
 date: 2024-05-16T14:18:46.231Z
 ---
