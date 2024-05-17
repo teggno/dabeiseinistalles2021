@@ -2,6 +2,7 @@
 title: Neuer oder Ter Stegen
 draft: true
 date: 2024-05-17T07:22:28.054Z
+image: img/img_0486.jpeg
 ---
 Von aussen zu kommentieren, ohne die täglichen Trainingseinheiten live zu verfolgen, ist einfach. Das wird schon manchem Coach durch den Kopf gegangen sein, wenn Millionen von „Möchtegern“ seinen Platz beanspruchen. Fast niemand würde öffentlich posaunen, die Arbeit von UBS Chef Ermotti mit links erledigen zu können. Den Job von Nagelsmann oder Yakin zu übernehmen, trauen sich jedoch viele zu.
 
