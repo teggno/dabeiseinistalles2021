@@ -8,7 +8,7 @@ Von aussen zu kommentieren, ohne die täglichen Trainingseinheiten live zu verfo
 
 Gerade in diesen Wochen, verwandeln wir uns in „kleine Guardiolas“. Die Kadernominierungen sind ein gefundenes Fressen unsere psychoanalytischen Fähigkeiten unter Beweis zu stellen. Ich will mich heute mit einer Personalie auseinandersetzen, die in den nächsten Wochen für hitzige Diskussionen sorgen könnte.
 
-Zweifellos gehört der Bayern-Keeper zu den fünf weltbesten Keepern aller Zeiten. Ich, der mit Legenden wie Lev Jaschin und Gordon Banks aufgewachsen ist, würde ihn irgendwo in der Gegend von Gianluigi Buffon ansiedeln. Ein gigantischer Kampf um Bronze. Doch ähnlich wie „unserem Gigi-Nazionale“, der wegen zahlreicher „Alterslaunen“ seinen Platz an seinen jüngeren Vornamens-Vetter verlor, häufen sich auch bei Neuer in letzter Zeit die Unpässlichkeiten.
+Zweifellos gehört der Bayern-Keeper zu den fünf weltbesten Keepern aller Zeiten. Ich, der mit Legenden wie Lev Jaschin und Gordon Banks aufgewachsen ist, würde ihn irgendwo in der Gegend von Gianluigi Buffon ansiedeln. Ein gigantischer Kampf um Bronze. Doch ähnlich wie „unserem Gigi-Nazionale“, der wegen zahlreicher „Alterslaunen“ den Platz an seinen jüngeren Vornamens-Vetter verlor, häufen sich auch bei Neuer in letzter Zeit die Unpässlichkeiten.
 
 Erst kürzlich wurde er vom unverzeihlichen „Jahrhundert-Patzer“ heimgesucht, der die „mir san mir“ von einem Augenblick auf den anderen aus der Bahn warf. Dieser „Sekundenschlaf“ hat die Münchner den Finaleinzug gekostet. Und nicht wie allerorts geschrieben wurde, Reals Siegermentalität. Mit diesem Lapsus im Gepäck jeden Morgen aufzuwachen, wird ihn bis ans Lebensende beschäftigen.
 
