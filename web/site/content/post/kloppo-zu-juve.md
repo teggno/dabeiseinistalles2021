@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-17T09:04:42.329Z
 image: img/fa548bec-3705-493c-8b59-09d58fd18c7b.jpeg
 ---
-Klopp hat sich in die Alte Dame verliebt 🥰 Ist das nicht wunderbar! Obwohl ich schon froh bin, dass die „allegrischen“ Zeiten endlich vorbei sind. Allegrisch und aller
+Klopp hat sich in meine Alte Dame verliebt 🥰 Ist das nicht wunderbar! Leider nur ein Traum, der nach wenigen Obwohl ich schon froh bin, dass die „allegrischen“ Zeiten endlich vorbei sind. Allegrisch und aller
 
 Jürgen Klopp, Liverpool‘s grösste Errungenschaft nach den Beatles, sagt, nachdem er sich vor 6 Jahren mit einem simplen „Hello“ vorgestellt hatte, in wenigen Tagen endgültig „Goodbye“! Manch bittere Träne wird fliessen, wenn die „Inkarnation“ von Fussball und Unterhaltung die Anfield Road verlässt. In den Annalen steht, dass er 8 Titel geholt hat. Zuoberst die Meisterschaft, ein FA-Cup und eine Champions-League. Seine Ausstrahlung und sein Savoir Faire, die in Titeln nicht aufzuwiegen sind, werden die Arbeit seines Nachfolgers nicht einfach machen. Wer jubelt schöner, wer erklärt einfacher, wer verliert anständiger? Wer klatscht in der Fankurve ohne sich je anzubiedern?
 
