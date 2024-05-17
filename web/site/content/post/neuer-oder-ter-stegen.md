@@ -9,4 +9,6 @@ Gerade in diesen Wochen, verwandeln wir uns in „kleine Guardiolas“. Die Kade
 
 Zweifellos gehört der Bayern-Keeper zu den fünf weltbesten Keepern aller Zeiten. Ich, der mit Legenden wie Lev Jaschin und Gordon Banks aufgewachsen ist, würde ihn irgendwo in der Gegend von Gianluigi Buffon ansiedeln. Ein gigantischer Kampf um Bronze. Doch ähnlich wie „unserem Gigi-Nazionale“, der wegen zahlreicher „Alterslaunen“ seinen Platz an seinen jüngeren Vornamens-Vetter verlor, häufen sich auch bei Neuer in letzter Zeit die Unpässlichkeiten.
 
-Erst kürzlich wurde er vom unverzeihlichen „Jahrhundert-Patzer“ heimgesucht, der die „mir san mir“ von einer Sekunde auf die andere aus der Bahn warf.
+Erst kürzlich wurde er vom unverzeihlichen „Jahrhundert-Patzer“ heimgesucht, der die „mir san mir“ von einem Augenblick auf den anderen aus der Bahn warf. Dieser „Sekundenschlaf“ hat die Münchner den Finaleinzug gekostet. Und nicht wie allerorts geschrieben Reals Siegermentalität. Mit diesem Lapsus im Gepäck jeden Morgen aufzuwachen wird ihn bis ans Lebensende beschäftigen.
+
+Auch an gestählten Profis tropfen derlei „Lappalien“ nicht einfach so ab! An Stelle von Nagelsmann würde ich mir deshalb den Kopf zerbrechen, wen ich zwischen die Pfosten stelle. Barcelonas Nr. 1 ist kein Nobody und Meister „des ersten Passes“! Im modernen Fussball ein nicht unwesentliches Detail. Nach Abwägung aller „Dafür“ und „Dawider“
