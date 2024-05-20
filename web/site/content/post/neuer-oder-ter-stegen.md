@@ -5,7 +5,7 @@ date: 2024-05-17T07:22:28.054Z
 image: img/img_0486.jpeg
 ---
 \
-Das Leben eines Torhüters kann brutal sein! Da hälst du was es zu halten gibt! Keine Unhaltbaren zwar, wie uns der Reporter von Servus-TV weismachen wollte! Doch wie gewohnt bist du der Fels in der Brandung. Dann hat das Schicksal ausgerechnet dich im Visier. Spielt dir eine Kugel zu, die du im Normalfall als misslungene Rückgabe belächelst. Tausendmal schon hast du ähnliche Dinger in Empfang genommen. Hätten Renato Petrillo oder Zeljko Berger bei den Veteranen so einen „Schtrich“ nach vorne abprallen lassen, wären sie in die „Fliegenfänger-Zunft“ aufgenommen worden.
+Das Leben eines Torhüters kann brutal sein! Da hälst du was es zu halten gibt! Keine Unhaltbaren zwar, wie uns der Reporter weismachen wollte! Doch wie gewohnt bist du der Fels in der Brandung. Dann hat das Schicksal ausgerechnet dich im Visier. Spielt dir eine Kugel zu, die du im Normalfall als misslungene Rückgabe belächelst. Tausendmal schon hast du ähnliche Dinger in Empfang genommen. Hätten Renato Petrillo oder Zeljko Berger bei den Veteranen so einen „Schtrich“ nach vorne abprallen lassen, wären sie in die „Fliegenfänger-Zunft“ aufgenommen worden.
 
 
 
