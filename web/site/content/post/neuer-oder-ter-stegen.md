@@ -1,7 +1,7 @@
 ---
 title: Neuer oder ter Stegen?
 draft: true
-date: 2024-05-17T07:22:28.054Z
+date: 2024-05-20T14:54:51.141Z
 image: img/img_0486.jpeg
 ---
 \
