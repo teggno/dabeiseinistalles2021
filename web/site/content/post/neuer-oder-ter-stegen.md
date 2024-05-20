@@ -5,21 +5,7 @@ date: 2024-05-20T14:54:51.141Z
 image: img/img_0486.jpeg
 ---
 \
-Das Leben eines Torhüters kann brutal sein! Da hälst du was es zu halten gibt! Keine Unhaltbaren zwar, wie uns der Reporter weismachen wollte! Doch wie gewohnt bist du der Fels in der Brandung. Dann hat das Schicksal ausgerechnet dich im Visier. Spielt dir eine Kugel zu, die du im Normalfall als misslungene Rückgabe belächelst. Tausendmal schon hast du ähnliche Dinger in Empfang genommen. Hätten Renato Petrillo oder Zeljko Berger bei den Veteranen so einen „Schtrich“ nach vorne abprallen lassen, wären sie in die „Fliegenfänger-Zunft“ aufgenommen worden.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Das Leben eines Torhüters kann brutal sein! Da hälst du was es zu halten gibt! Keine Unhaltbaren zwar, wie uns der Reporter kürzlich weismachen wollte! Doch wie gewohnt bist du der Fels in der Brandung. Dann hat das Schicksal ausgerechnet dich im Visier. Spielt dir eine Kugel zu, die du im Normalfall als misslungene Rückgabe belächelst. Tausendmal schon hast du ähnliche Dinger in Empfang genommen. Hätten Renato Petrillo oder Zeljko Berger bei den Veteranen so einen „Schtrich“ nach vorne abprallen lassen, wären sie in die „Fliegenfänger-Zunft“ aufgenommen worden.
 
 Gerade in diesen Wochen, verwandeln wir uns in „kleine Guardiolas“. Die Kadernominierungen sind ein gefundenes Fressen unsere psychoanalytischen Fähigkeiten unter Beweis zu stellen. Ich will mich heute mit einer Personalie auseinandersetzen, die in den nächsten Wochen für hitzige Diskussionen sorgen könnte.
 
