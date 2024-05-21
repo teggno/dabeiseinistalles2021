@@ -1,5 +1,5 @@
 ---
-title: "Die Proleten - die Mächtigen und der Mittelstand "
+title: Die Mächtigen - der Mittelstand und die Proleten
 draft: true
 date: 2024-05-13T15:05:39.945Z
 image: img/img_0494.jpeg
