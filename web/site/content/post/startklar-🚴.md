@@ -1,5 +1,5 @@
 ---
-title: Startklar 🚴
+title: Start ⚽️ klar
 draft: true
 date: 2024-05-21T11:25:23.876Z
 ---
