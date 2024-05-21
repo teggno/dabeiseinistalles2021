@@ -1,6 +1,6 @@
 ---
 title: Ausgerechnet Schnellinger
-draft: true
+draft: false
 date: 2024-05-21T03:01:29.620Z
 image: img/img_0497.jpeg
 ---
