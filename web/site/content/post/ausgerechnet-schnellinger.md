@@ -4,7 +4,7 @@ draft: false
 date: 2024-05-21T03:01:29.620Z
 image: img/img_0497.jpeg
 ---
-Es war die aufregendste Fussball-Nacht meines Lebens! Wenn ich daran denke, bekomme ich heute noch Gänsehaut. Normalerweise hätte ich schon längst im Bett sein müssen, doch an diesem Mittwoch den 17. Juni 1970, war alles anders. Von meinem Vater hatte ich ausnahmsweise die Erlaubnis erhalten, bis nach Mitternacht aufzubleiben, denn im Aztekenstadion zu México-City sollte in wenigen Augenblicken das legendäre Jahrhundertspiel zwischen Italien und Deutschland über die Bühne gehen. Um 16 Uhr Ortszeit, bei  fast 40 Grad Hitze, pfiff Schiedsrichter Arturo Yamasaki die Partie vor 103’ 000 Zuschauern an. 
+Es war die aufregendste Fussball-Nacht meines Lebens! Wenn ich daran denke, bekomme ich heute noch Gänsehaut. Normalerweise hätte ich schon längst im Bett sein müssen, doch an diesem Mittwoch, den 17. Juni 1970, war alles anders. Von meinem Vater hatte ich ausnahmsweise die Erlaubnis erhalten, bis nach Mitternacht aufzubleiben, denn im Aztekenstadion zu México-City sollte in wenigen Augenblicken das legendäre Jahrhundertspiel zwischen Italien und Deutschland über die Bühne gehen. Um 16 Uhr Ortszeit, bei  fast 40 Grad Hitze, pfiff Schiedsrichter Arturo Yamasaki die Partie vor 103’ 000 Zuschauern an. 
 
 Albertosi, Burgnich, Cera, Rosato, Facchetti, Bertini, De Sisti, Mazzola, Domenghini, Boninsegna und Riva gegen Maier, Vogts, Schulz, Patzke, Schnellinger, Overath, Beckenbauer, Grabowski,  Seeler, Müller und Löhr.
 
