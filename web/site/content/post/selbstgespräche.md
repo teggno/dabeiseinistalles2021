@@ -14,4 +14,4 @@ Es ist doch nicht wahr, dass wir nur auf uns selbst fixiert sind. Soviel Sinn f�
 
 Als es nur noch den einen Funken brauchte, um das alte Feuer 🔥 wieder auflodern zu lassen, meldete SIE sich zu Wort. Ihr zu widerstehen war ein Ding der Unmöglichkeit. Kaum fing sie an ihre Vorzüge zu präsentieren, war‘s um mich geschehn. „La Dea“ oder Atalanta wie sie im Fachjargon genannt wird, gab mir an diesem wundervollen Abend endlich das zurück, was mir die „Alte Dame“ in den letzten Monaten genommen hatte. Die Freude am Fussball.
 
-Nachdem ich so dick aufgetragen habe und meine Blogseite „dabeiseinistalles.netlify.app“ samt angeschlossener Jukebox in den Startlöchern steht, hoffe ich nur noch ein: Dass wir am Ende der Veranstaltung alle das Gefühl haben: Doch, es hat Spass gemacht!
+Nachdem ich so dick aufgetragen habe und meine Blogseite „dabeiseinistalles.netlify.app“ samt angeschlossener Jukebox in den Startlöchern steht, hoffe ich nur noch eins: Dass wir am Ende der Veranstaltung alle das Gefühl haben: Doch, es hat Spass gemacht!
