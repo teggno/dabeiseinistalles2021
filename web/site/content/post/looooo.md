@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-23T09:11:48.486Z
 image: img/img_0499.jpeg
 ---
-Es gibt Momente im Leben, da hälst du am besten die Schnauze! Lässt jene reden, die es besser wissen als du. Prego Signor Gasperini, sie haben das Wort!
+Es gibt Momente im Leben, da hälst du am besten die Schnauze! Lässt jene reden, die es besser wissen als du. Nach der Gala von gestern ist ER der Mittelpunkt der Fussballwelt. „ Prego Signor Gasperini, sie haben das Wort“!
 
 „Meine Jungs waren sensationell! Diesen Sieg wollen wir der ganzen Region Bergamo widmen, sie haben es verdient! Ich bin heute nicht der bessere Trainer als gestern, nur weil ich gewonnen habe. Meine Zukunft?  Gäbe es einen besseren Moment um aufzuhören als jetzt?Es ist nicht der richtige Zeitpunkt um darüber zu reden. „Ora fesreggiamo e domani ne parliamo!“
 
