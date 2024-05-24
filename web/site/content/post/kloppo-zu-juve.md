@@ -1,6 +1,6 @@
 ---
 title: Liverpooler Legenden
-draft: true
+draft: false
 date: 2024-05-20T09:04:42.329Z
 image: img/fa548bec-3705-493c-8b59-09d58fd18c7b.jpeg
 ---
