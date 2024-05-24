@@ -10,18 +10,18 @@ image: img/img_0501.jpeg
 
 03 Luciano
 
-04
+04 Kurt
 
-05
+05 Donato
 
-06
+06 Zac
 
-07
+07 Franco
 
-08
+08 Peter
 
-09
+09 Severin
 
-10
+10 Andy
 
 11
