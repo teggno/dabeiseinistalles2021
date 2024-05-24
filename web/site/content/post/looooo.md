@@ -6,7 +6,7 @@ image: img/img_0499.jpeg
 ---
 Manchmal hälst du lieber den Mund! Überlässt jenen die Bühne, die es besser wissen als du. Nach der Gala von gestern ist der König 🤴 der Bergamasken ein gefragter Mann! Mit 66 Jahren, da fängt das Leben an! „Prego Signor Gasperini, sie haben das Wort“!
 
-„Meine Jungs waren sensationell! Diesen Sieg wollen wir der ganzen Region Bergamo widmen. Ich bin heute nicht der bessere Trainer als gestern, nur weil ich gewonnen habe. Meine Zukunft?  Gäbe es einen besseren Moment um aufzuhören als jetzt? Es ist nicht der richtige Zeitpunkt um darüber zu reden. „Ora festeggiamo 🥳 e domani ne parliamo!“
+„Meine Jungs waren sensationell! Diesen Sieg wollen wir der ganzen Region Bergamo widmen. Ich bin heute nicht der bessere Trainer als gestern, nur weil ich gewonnen habe. Meine Zukunft?  Gäbe es einen besseren Moment um aufzuhören als jetzt? „Ora festeggiamo 🥳 e domani ne parliamo!“
 
 Endlich ist der Fluch besiegt. Gasperini, einer der oft unterschätzt wurde, hebt den Pokal zum Himmel. Die Leute in der Kurve skandieren …noch einmal….noch einmal. 8 Jahre ist er nun in Bergamo, wo man um Fussball zu gucken nicht ins Stadion geht, sondern zu Atalanta. Oder zur „Dea“, wenn man es göttlich betrachten will. Er, der weiss, dass er kein „Einfacher“ ist, (ein harter Hund mit Gefühl wird gemunkelt), quält seine Spieler bis zum Umfallen. Seine Aufbautrainings sind legendär. Der Lohn dafür wurde spätestens gestern ausbezahlt. Mit Köpfchen und Kraft setzte er Liverpool, Marseille und die Mannschaft der Stunde aus Leverkusen schach♟️matt. 
 
