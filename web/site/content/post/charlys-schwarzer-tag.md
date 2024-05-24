@@ -2,7 +2,7 @@
 title: Die Nacht von Sheffield
 draft: true
 date: 2024-05-10T08:44:22.974Z
-image: img/img_0490.webp
+image: img/img_0503.webp
 bets:
   - lastName: Cataldo
     champion: Italien
@@ -935,7 +935,7 @@ Schweiz: Charly Elsener, Fuhrer, Grobéty, Schneiter, Tacchella, Bäni, Dürr, H
 
 Deutschland: Tilkowski, Höttges, Schulz, Weber, Schnellinger, Brülls, Haller, Overath, Beckenbauer, Seeler, Held (Emmerich) Trainer Helmuth Schön
 
-Wie nicht anders zu erwarten war, verliessen die Eidgenossen am Ende das Hillsborough-Stadion zu Sheffield mit gesenktem Haupt. Die Anzeigetafel kannte keine Gnade: 0:5! Einen rabenschwarzen Tag hatte Torhüter Charly Elsener eingezogen, der bei mehreren Gegentoren seine Hände im Spiel hatte. Nicht auf dem Spielbogen figurierte der spätere Nationalcoach Köbi Kuhn, damals zusammen mit Karl Odermatt der Schlüsselspieler im Schweizer Ensemble. Gerüchten zufolge erwischte der Unglücksrabe wegen spärlichen Englischkenntnissen das falsche Taxi 🚕 und fuhr statt ins Mannschaftshotel ins Rotlichtmilieu. Als ihn die Boulevardpresse bei Afternoon-Tea 🫖 & Cake erwischte, war der Skandal perfekt.
+Wie nicht anders zu erwarten war, verliessen die Eidgenossen am Ende das Hillsborough-Stadion zu Sheffield mit gesenktem Haupt. Die Anzeigetafel kannte keine Gnade: 0:5! Einen rabenschwarzen Tag hatte Torhüter Charly Elsener eingezogen, der bei mehreren Gegentoren seine Hände im Spiel hatte. Nicht auf dem Spielbogen figurierte der spätere Nationalcoach Köbi Kuhn, damals zusammen mit Karl Odermatt der Schlüsselspieler im Schweizer Ensemble. Gerüchten zufolge erwischte der Unglücksrabe wegen spärlichen Englischkenntnissen das falsche Taxi 🚕 und fuhr statt ins Mannschaftshotel ins Rotlichtmilieu. Als ihn die Boulevardpresse bei Afternoon-Tea 🫖 & Kuchen 🍰 erwischte, war der Skandal perfekt.
 
 Fast 60 Jahre später haben sich die Kräfteverhältnisse deutlich verschoben. Während die Deutschen gerade den steinigen Weg aus dem Tal der Tränen sucht, sind die Schweizer im Lift nach oben unterwegs. Allerdings mit häufigen Stops auf diversen Etagen. Manchmal geht’s sogar einen Stock runter! An wichtigen Turnieren melden sie sich jedoch stets präsent. Dauernörgler dürfen sich das ruhig mal hinter die Ohren schreiben. Italienische Teenager sind erwachsen geworden, ohne je an einer WM für ihr Land mitgefiebert zu haben.
 
