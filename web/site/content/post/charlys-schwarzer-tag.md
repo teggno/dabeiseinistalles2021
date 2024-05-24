@@ -931,7 +931,7 @@ bets:
 ---
 Man schrieb das Jahr 66! Viele von uns wussten noch gar nichts von ihrem Glück! Sie waren nicht mal in der Planung! Andere wie Kuno und Bruno strampelten sich im „Scotch-Keller“ ennet der Grenze die Füsse ab um die “Groupies“ in ihren Bann zu ziehen. Mein Weg führte mich nach Rimini, wo ich fast jeden Abend in der „Pensione Fabbri“ bis kurz vor halbacht mit einer älteren Dame„scopa“ spielte. Sobald im Flimmerkasten die Eurovisions-Hymne ertönte, wurden die Utensilien zur Seite gelegt. Im Mutterland des Fussballs ging gerade die Fussball-WM über die Bühne. Lediglich 16 Teams machten  während 19 Tagen den Weltmeister unter sich aus. Weil sich Göttin Fortuna bei der Auslosung keine Mühe gegeben hatte, landeten die Eidgenossen in der Gruppe mit Deutschland. Einige der älteren Semester werden sich noch an die Namen der 22 Akteure erinnern. Für alle Nostalgiker zähle ich sie nochmals auf. 
 
-Schweiz: Charly Elsener, Fuhrer, Grobéty, Schneiter, Tacchella, Bäni, Dürr, Hosp, Odermatt, Künzli, Schindelholz - Trainer Alfredo Foni
+Schweiz: Elsener, Fuhrer, Grobéty, Schneiter, Tacchella, Bäni, Dürr, Hosp, Odermatt, Künzli, Schindelholz - Trainer Alfredo Foni
 
 Deutschland: Tilkowski, Höttges, Schulz, Weber, Schnellinger, Brülls, Haller, Overath, Beckenbauer, Seeler, Held (Emmerich) Trainer Helmuth Schön
 
