@@ -1,5 +1,5 @@
 ---
-title: Charlys schwarzer Tag
+title: Die Nacht von Sheffield
 draft: true
 date: 2024-05-10T08:44:22.974Z
 image: img/img_0490.webp
