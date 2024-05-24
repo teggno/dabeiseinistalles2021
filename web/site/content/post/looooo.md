@@ -4,7 +4,7 @@ draft: false
 date: 2024-05-23T09:11:48.486Z
 image: img/img_0499.jpeg
 ---
-Manchmal hälst du lieber den Mund! Überlässt jenen die Bühne, die es besser wissen als du. Nach der Gala von gestern ist der König 🤴 der Bergamasken ein gefragter Mann! Mit 66 Jahren, da fängt das Leben an! „Prego Signor Gasperini, sie haben das Wort“!
+Manchmal hälst du lieber den Mund! Überlässt jenen die Bühne, die es besser wissen als du. Zum Beispiel Gianpiero Gasperini, dem König 🤴 der Bergamasken, der gestern die Fussballwelt in helle Aufregung versetzt hat. Ein gefragter Mann, dessen Leben nicht erst mit 66 angefangen hat! „Prego Signor Gasperini, sie haben das Wort“!
 
 „Meine Jungs waren sensationell! Diesen Sieg wollen wir der ganzen Region Bergamo widmen. Ich bin heute nicht der bessere Trainer als gestern, nur weil ich gewonnen habe. Meine Zukunft?  Gäbe es einen besseren Moment um aufzuhören als jetzt? „Ora festeggiamo 🥳 e domani ne parliamo!“
 
