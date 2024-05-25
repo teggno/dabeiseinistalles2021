@@ -8,24 +8,102 @@ Zuerst ein Wort zur Darstellung der Rangliste. Leider geht’s nicht mehr wie be
 
 TABELLE  VOM 14. JUNI - 23 UHR
 
-01 😎 300 Raffi           
+01 🥇     
 
-02 Urs 
+02 🥈
 
-03 Luciano
+03 🥉
 
-04 Kurt
+04 
 
-05 Donato
+05 
 
-06 Zac
+06 
 
-07 Franco
+07 
 
-08 Peter
+08 
 
-09 Severin
+09 
 
-10 Andy
+10 
 
 11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50 🏮
