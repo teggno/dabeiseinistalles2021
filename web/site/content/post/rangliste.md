@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-24T08:10:26.379Z
 image: img/img_0501.jpeg
 ---
-Zuerst ein Wort zur Darstellung der Rangliste. Leider geht’s nicht mehr wie beim letzten Mal. Ich weiss, sie ist ein wenig gewöhnungsbedürftig. Zuerst kommt der Rang dann dann die Punkte und dann der Name. Alles wird von Hand eingegeben. Die Technik ha mir einen Streich gespielt. 
+Zuerst ein Wort zur Darstellung der Rangliste. Leider geht’s nicht mehr wie beim letzten Mal. Ich weiss, sie ist ein wenig gewöhnungsbedürftig. Zuerst kommt der Rang dann dann die Punkte und dann der Name. Spannend bleibt es trotzdem.
 
 Deutschland-Schottland 2:0
 
