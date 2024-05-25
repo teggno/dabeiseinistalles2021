@@ -6,7 +6,7 @@ image: img/img_0501.jpeg
 ---
 Zuerst noch ein Wort zur Darstellung. Leider geht’s mit der Rangliste nicht mehr so wie beim letzten Mal. Die Technik hat mir einen Streich gespielt. Ich weiss, sie ist ein wenig gewöhnungsbedürftig. Zuerst kommt der Rang, dann die Punkte und dann der Name. Ich hoffe, ihr könnt damit leben. Habt ihr Lust nach dem Spiel zu relaxen? Meine Jukebox hat den passenden Song parat!
 
-TABELLE  VOM 14. JUNI - 23 UHR
+14 JUNI 23 UHR
 
 01 🥇 30 Lilly+Raffaele
 
