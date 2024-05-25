@@ -8,25 +8,6 @@ song:
   title: "RAFFI‘S JUKEBOX 🎸 "
   url: ""
   image: img/jukebox.jpg
-  description: |
-    01 😎 300 Raffi
-
-    02 Urs
-
-    03 Luciano
-
-    04 Kurt
-
-    05 Donato
-
-    06 Zac
-
-    07 Franco
-
-    08 Peter
-
-    09 Severin
-
-    10 Andy
+  description: "\n\n\n"
 type: rangliste
 ---
