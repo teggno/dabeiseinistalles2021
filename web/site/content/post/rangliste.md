@@ -104,6 +104,6 @@ TABELLE  VOM 14. JUNI - 23 UHR
 
 48
 
-49
+49 🍍
 
 50 🏮
