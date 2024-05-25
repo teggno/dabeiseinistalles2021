@@ -8,13 +8,13 @@ Zuerst ein Wort zur Darstellung der Rangliste. Leider geht’s nicht mehr wie be
 
 TABELLE  VOM 14. JUNI - 23 UHR
 
-01 🥇     
+01 🥇 30 Lilly+Raffaele
 
-02 🥈
+02 🥈 20 Kathrin+Urs Näf
 
-03 🥉
+03 🥉 20 Lucchi+Zac
 
-04 
+04 🥁 10 Made+Donato Carrieri 
 
 05 
 
