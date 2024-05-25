@@ -16,17 +16,17 @@ Zuerst noch ein Wort zur Darstellung. Leider geht’s mit der Rangliste nicht me
 
 04 🥁 10 Made+Donato Carrieri 
 
-05 
+05 🥂
 
-06 
+06 🍹
 
-07 
+07 🍸
 
-08 
+08 🥃
 
-09 
+09 🍷
 
-10 
+10 🍺
 
 11
 
@@ -100,9 +100,9 @@ Zuerst noch ein Wort zur Darstellung. Leider geht’s mit der Rangliste nicht me
 
 46
 
-47
+47 🍋 
 
-48
+48 🥒
 
 49 🍍
 
