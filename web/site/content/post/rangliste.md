@@ -6,7 +6,7 @@ image: img/img_0501.jpeg
 ---
 Zuerst ein Wort zur Darstellung der Rangliste. Leider geht’s nicht mehr wie beim letzten Mal. Die Technik hat mir einen Streich gespielt. Ich weiss, sie ist ein wenig gewöhnungsbedürftig. Zuerst kommt der Rang, dann die Punkte und dann der Name. Ich hoffe, ihr könnt damit leben Nach dem Spiel noch Lust auf eun wenig Relax?. Meine Jukebox hat den passenden Song parat!
 
-TABELLE 14. JUNI 23 UHR.
+TABELLE  VOM 14. JUNI - 23 UHR
 
 01 😎 300 Raffi           
 
