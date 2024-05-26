@@ -16,11 +16,11 @@ Ein Wort noch zur Darstellung  der Rangliste. Leider funktioniert es nicht mehr 
 
 04 🥁 10 Made+Donato Carrieri 
 
-05 🥂
+05 🥂 10 Yvetta+Andy
 
-06 🍹
+06 🍹 10 Severin Stucky
 
-07 🍸
+07 🍸 10 Kurt Meier
 
 08 🥃
 
