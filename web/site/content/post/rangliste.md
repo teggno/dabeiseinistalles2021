@@ -8,11 +8,11 @@ Ein Wort noch zur Darstellung  der Rangliste. Leider funktioniert es nicht mehr 
 
 Aktualisiert am 14. Juni um 23 Uhr
 
-01 🥇 30 Lilly+Raffaele
+01 🥇 30 Lilly+Raffaele                          
 
-02 🥈 20 Kathrin+Urs Näf
+02 🥈 20 Kathrin+Urs Näf                     
 
-03 🥉 20 Lucchi+Giacomo Zaccaria
+03 🥉 20 Lucchi+Giacomo Zaccaria    
 
 04 🍾 10 Made+Donato Carrieri 
 
@@ -42,11 +42,11 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 17 🎷
 
-18 🪈
+18 🪈 10 Donato+Nunzia Carrieri
 
-19 🪇
+19 🪇 10 Gianfranco Caporusso
 
-20 🎤
+20 🎤 10 Cosimo Cataldo
 
 21
 
