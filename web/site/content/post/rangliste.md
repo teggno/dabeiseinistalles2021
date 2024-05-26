@@ -16,21 +16,21 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 04 🍾 00 Barbara+Urs Schläpfer
 
-05 🥂 10 Katja+Tommy Maucher
+05 🥂 00 Katja+Tommy Maucher
 
-06 🍹 10 Severin Stucky
+06 🚜 00 Claudia+Pepe Panucci
 
-07 🍸 10 Kurt Meier
+07 🍸 00 Kurt Meier
 
 08 🥃 10 Daniela+Paolo Padula
 
-09 🍷 10 Steffi+Cristiano Pedron
+09 🎆 10 Steffi+Cristiano Pedron
 
-10 🍺  10 Verena+Bruno Wacker
+10 🍺  10 Baggerstube
 
 11 🥁
 
-12 🎹
+12 ⛑️ Yvetta+Andy Hermann
 
 13 🎻
 
@@ -40,13 +40,13 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 16 🎸
 
-17 🎷 10 Guley+Zeljko
+17 🔥 00 Guley+Zeljko
 
-18 🪈 10 Donato+Nunzia Carrieri
+18 🪈 00 Donato+Nunzia Carrieri
 
-19 🪇 10 Gianfranco Caporusso
+19 🪇 00 Gianfranco Caporusso
 
-20 🎤00 Cosimo Cataldo
+20 👑 00 Cosimo Cataldo
 
 21 ✈️ 00 Nico Colaci
 
@@ -54,23 +54,23 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 23 🛵 00 Peter Von Känel
 
-24 ⛵️ 00 Renato Meier
+24   00 Renato Meier
 
 25 🏍️ 00 Bea Colaci
 
-26 🛶 00 Jeanette+Urs Affentranger
+26 🛶 00 Leni+Luciano Schüepp
 
-27 🚜 00 René Benz
+27 🚜 00 
 
 28 🚁 00 Antonia+Rolf Weigel
 
-29 🏎️ 00 Inge+Gregor
+29 🏎️ 00 René Benz(ina)
 
-30 🚀 00 Bea Colaci
+30 🚀 00 Jeanette+Urs Affentranger
 
-31 🎣 00 Heidi+Roger Blatter
+31 🎣  00 Heidi+Roger Blatter
 
-32
+32 🕺🏾 00 Koni Hornstein
 
 33
 
@@ -82,28 +82,28 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 37 🔮 Bea Colaci
 
-38 🧨
+38 🧨 Dog
 
-39
+39 🤴 Pina+Michele La Macchia 
 
-40 🛀 
+40 🛀 Renato Petrillo
 
-41 🧯
+41 🧯 Lucchi+Giacomo Zaccaria
 
 42 🚧
 
-43 🌋
+43 🌋 00 Renato Petrillo
 
-44 🛟 Kathrin+Urs Näf
+44 🛟 00 Kathrin+Urs Näf
 
-45 🚨
+45 🚨 00 Marlen+Rosa
 
-46 ⚓️
+46 ⚓️ 00 Verena+Bruno Wacker
 
-47 🍋 
+47 🍋 00 Daniela+Davide Brocca
 
-48 💃🏽 Made+Donato Carrieri
+48 💃🏽 00 Made+Donato Carrieri
 
-49 🍍Lucchi+Giacomo Zaccaria
+49 🍍00  
 
-50 🏮Lilly+Raffaele
+50 🏮 00 Lilly+Raffaele
