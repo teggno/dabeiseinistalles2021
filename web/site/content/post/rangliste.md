@@ -14,7 +14,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 03 🥉 00 Liddy+Thomas Schwemer
 
-04 🍾 00 Barbara+Urs Schläpfer
+04  ⛸00 Barbara+Urs Schläpfer
 
 05 🥂 00 Katja+Tommy Maucher
 
