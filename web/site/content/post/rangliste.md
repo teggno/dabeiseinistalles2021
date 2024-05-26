@@ -52,9 +52,9 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 22 🚂 00 Bruno Meier
 
-23 🛵 00 Peter Von Känel
+23 🏍️ 00 Peter Von Känel
 
-24 🏂 00 Renato Meier
+24 🏄‍♂️ 00 Renato Meier
 
 25 🍀 00 Bea Colaci
 
@@ -80,7 +80,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 36
 
-37 🔮 00 Bea Colaci
+37 🔮 00 
 
 38 🧨 00 Dog
 
@@ -100,7 +100,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 46 ⚓️ 00 Verena+Bruno Wacker
 
-47   00 Daniela+Davide Brocca
+47  🛝 00 Daniela+Davide Brocca
 
 48 💃🏽 00 Made+Donato Carrieri
 
