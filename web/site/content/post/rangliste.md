@@ -28,7 +28,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 10 🍺  00 Baggerstube
 
-11  🌈  00
+11  🌈  00 Severin Stucky 
 
 12 ⛑️ 00 Yvetta+Andy Hermann
 
@@ -42,7 +42,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 17 🔥 00 Guley+Zeljko
 
-18 🛵 00 Donato+Nunzia Carrieri
+18 🛵 00 Nunzia+Donato Carrieri
 
 19 🪇 00 Gianfranco Caporusso
 
@@ -78,7 +78,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 35
 
-36
+36 🏇🏻 00 Inge+Gregor
 
 37 🛸 00 Janis Hermann
 
