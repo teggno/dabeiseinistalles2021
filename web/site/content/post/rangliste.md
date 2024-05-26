@@ -42,7 +42,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 17 🔥 00 Guley+Zeljko
 
-18 🪈 00 Donato+Nunzia Carrieri
+18 🛵 00 Donato+Nunzia Carrieri
 
 19 🪇 00 Gianfranco Caporusso
 
@@ -54,25 +54,25 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 23 🛵 00 Peter Von Känel
 
-24   00 Renato Meier
+24       00 Renato Meier
 
 25 🏍️ 00 Bea Colaci
 
 26 🛶 00 Leni+Luciano Schüepp
 
-27 🚜 00 
+27 🧗🏻‍♀️ 00 Jacqueline+Klemenz Som
 
 28 🚁 00 Antonia+Rolf Weigel
 
-29 🏎️ 00 René Benz(ina)
+29 ⛽️ 00 René Benz(ina)
 
 30 🚀 00 Jeanette+Urs Affentranger
 
 31 🎣  00 Heidi+Roger Blatter
 
-32 🕺🏾 00 Koni Hornstein
+32 🕺🏾  00 Koni Hornstein
 
-33
+33 🎢  00 Daniela+Paolo Padula
 
 34
 
@@ -80,30 +80,30 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 36
 
-37 🔮 Bea Colaci
+37 🔮 00 Bea Colaci
 
-38 🧨 Dog
+38 🧨 00 Dog
 
-39 🤴 Pina+Michele La Macchia 
+39 🤴 00 Pina+Michele La Macchia 
 
-40 🛀 Renato Petrillo
+40 🐅 00 Renato Petrillo
 
-41 🧯 Lucchi+Giacomo Zaccaria
+41 🧯  00 Lucchi+Giacomo Zaccaria
 
-42 🚧
+42 👫  00 Rosmarie+Nunzio Padula 
 
-43 🌋 00 Renato Petrillo
+43 🪂  00 Gina+Bruno Meier
 
 44 🛟 00 Kathrin+Urs Näf
 
-45 🚨 00 Marlen+Rosa
+45  🎉 00 Marlen+Rosa
 
 46 ⚓️ 00 Verena+Bruno Wacker
 
-47 🍋 00 Daniela+Davide Brocca
+47   00 Daniela+Davide Brocca
 
 48 💃🏽 00 Made+Donato Carrieri
 
-49 🍍00  
+49 🍍 00 
 
 50 🏮 00 Lilly+Raffaele
