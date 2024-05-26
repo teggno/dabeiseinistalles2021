@@ -8,21 +8,21 @@ Ein Wort noch zur Darstellung  der Rangliste. Leider funktioniert es nicht mehr 
 
 Aktualisiert am 14. Juni um 23 Uhr
 
-01 🥇 00 Eva+Markus Heitz                        
+01 🍀 00 Eva+Markus Heitz                        
 
-02 🥈 00 Notker Brandes                     
+02 🧗🏽‍♂️ 00 Notker Brandes                     
 
-03 🥉 00 Liddy+Thomas Schwemer
+03 ☀️ 00 Liddy+Thomas Schwemer
 
 04  ⛸00 Barbara+Urs Schläpfer
 
 05 🥂 00 Katja+Tommy Maucher
 
-06 🚜 00 Claudia+Pepe Panucci
+06 🛝 00 Claudia+Pepe Panucci
 
-07 🍸 00 Kurt Meier
+07  🆘 00 Kurt Meier
 
-08 🥃 00 Daniela+Paolo Padula
+08  Salon Liotta  Bart
 
 09 🎆 00 Steffi+Cristiano Pedron
 
@@ -32,7 +32,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 12 ⛑️ 00 Yvetta+Andy Hermann
 
-13 🎻
+13 🎻 00 Franco Monferini 
 
 14 🪕
 
@@ -50,7 +50,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 21 ✈️ 00 Nico Colaci
 
-22 🚂 00 Bruno Meier
+22 🚂 00 Tina+Roland Haselbach
 
 23 🏍️ 00 Peter Von Känel
 
@@ -62,7 +62,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 27 🧗🏻‍♀️ 00 Jacqueline+Klemenz Som
 
-28 🚁 00 Antonia+Rolf Weigel
+28 🚁 00 
 
 29 ⛽️ 00 René Benz(ina)
 
@@ -80,15 +80,15 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 36
 
-37 🔮 00 
+37 🔮 
 
 38 🧨 00 Dog
 
-39 🤴 00 Pina+Michele La Macchia 
+39 🩴 00 Pina+Michele La Macchia 
 
 40 🐅 00 Renato Petrillo
 
-41 🧯  00 Lucchi+Giacomo Zaccaria
+41 🧯  00 Antonia+Rolf Weigel
 
 42 👫  00 Rosmarie+Nunzio Padula 
 
@@ -98,12 +98,12 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 45  🎉 00 Marlen+Rosa
 
-46 ⚓️ 00 Verena+Bruno Wacker
+46 🧗🏽‍♂️  00 Verena+Bruno Wacker
 
-47  🛝 00 Daniela+Davide Brocca
+47  ☔️ 00 Daniela+Davide Brocca
 
 48 💃🏽 00 Made+Donato Carrieri
 
-49 🍍 00 
+49 🍍 00 Lucchi+Giacomo Zaccaria 
 
 50 🏮 00 Lilly+Raffaele
