@@ -94,7 +94,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 43 🪂  00 Gina+Bruno Meier
 
-44 🛟 00 Kathrin+Urs Näf
+44 🛟  00 Kathrin+Urs Näf
 
 45  🎉 00 Marlen+Rosa
 
@@ -102,8 +102,8 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 47  ☔️ 00 Daniela+Davide Brocca
 
-48 💃🏽 00 Made+Donato Carrieri
+48 💃🏽  00 Made+Donato Carrieri
 
-49 🍍 00 Lucchi+Giacomo Zaccaria 
+49 🍍  00 Lucchi+Giacomo Zaccaria 
 
-50 🏮 00 Lilly+Raffaele
+50 🏮  00 Lilly+Raffaele
