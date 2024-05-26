@@ -46,9 +46,9 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 19 🪇 10 Gianfranco Caporusso
 
-20 🎤 10 Cosimo Cataldo
+20 🎤00 Cosimo Cataldo
 
-21 ✈️ 10 Nico Colaci
+21 ✈️ 00 Nico Colaci
 
 22 🚂 00 Bruno Meier
 
