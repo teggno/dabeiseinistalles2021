@@ -22,7 +22,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 07  🆘 00 Kurt Meier
 
-08  Salon Liotta  Bart
+08  🥊 00 Salon Liotta  
 
 09 🎆 00 Steffi+Cristiano Pedron
 
