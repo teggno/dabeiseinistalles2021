@@ -40,7 +40,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 16 🎸
 
-17 🎷
+17 🎷 10 Guley+Zeljko
 
 18 🪈 10 Donato+Nunzia Carrieri
 
@@ -60,13 +60,13 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 26 🛶 00 Jeanette+Urs Affentranger
 
-27 🚜 René Benz
+27 🚜 00 René Benz
 
-28 🚁 Antonia+Rolf Weigel
+28 🚁 00 Antonia+Rolf Weigel
 
-29 🏎️ 
+29 🏎️ 00 Inge+Gregor
 
-30 🚀
+30 🚀 00 
 
 31
 
