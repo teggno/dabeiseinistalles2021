@@ -20,21 +20,21 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 06 🛝 00 Claudia+Pepe Panucci
 
-07  🆘 00 Kurt Meier
+07 🆘 00 Kurt Meier
 
-08  🥊 00 Salon Liotta  
+08 🥊 00 Salon Liotta  
 
 09 🎆 00 Steffi+Cristiano Pedron
 
-10 🍺  00 Baggerstube
+10 🍺 00 Baggerstube
 
-11  🌈  00 Severin Stucky 
+11  🌈 00 Severin Stucky 
 
 12 ⛑️ 00 Yvetta+Andy Hermann
 
 13 🎻 00 Franco Monferini 
 
-14 🪕
+14 🪕 00 Emma+Christian Bär
 
 15 🎺
 
