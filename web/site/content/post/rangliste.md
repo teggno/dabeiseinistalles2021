@@ -8,15 +8,15 @@ Ein Wort noch zur Darstellung  der Rangliste. Leider funktioniert es nicht mehr 
 
 Aktualisiert am 14. Juni um 23 Uhr
 
-01 🥇 30 Lilly+Raffaele                          
+01 🥇 00 Eva+Markus Heitz                        
 
-02 🥈 20 Kathrin+Urs Näf                     
+02 🥈 00 Notker Brandes                     
 
-03 🥉 20 Lucchi+Giacomo Zaccaria    
+03 🥉 00 Liddy+Thomas Schwemer
 
-04 🍾 10 Made+Donato Carrieri 
+04 🍾 00 Barbara+Urs Schläpfer
 
-05 🥂 10 Yvetta+Andy Hermann 
+05 🥂 10 Katja+Tommy Maucher
 
 06 🍹 10 Severin Stucky
 
@@ -66,9 +66,9 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 29 🏎️ 00 Inge+Gregor
 
-30 🚀 00 
+30 🚀 00 Bea Colaci
 
-31
+31 🎣 00 Heidi+Roger Blatter
 
 32
 
@@ -80,13 +80,13 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 36
 
-37 🔮
+37 🔮 Bea Colaci
 
 38 🧨
 
 39
 
-40 🛀
+40 🛀 
 
 41 🧯
 
@@ -94,7 +94,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 43 🌋
 
-44 🛟
+44 🛟 Kathrin+Urs Näf
 
 45 🚨
 
@@ -102,8 +102,8 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 47 🍋 
 
-48 🥒
+48 💃🏽 Made+Donato Carrieri
 
-49 🍍
+49 🍍Lucchi+Giacomo Zaccaria
 
-50 🏮
+50 🏮Lilly+Raffaele
