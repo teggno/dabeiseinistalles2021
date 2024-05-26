@@ -28,7 +28,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 10 🍺  00 Baggerstube
 
-11 🥁
+11  🌈  00
 
 12 ⛑️ 00 Yvetta+Andy Hermann
 
