@@ -80,7 +80,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 36
 
-37 🔮 
+37 🛸 00 Janis Hermann
 
 38 🧨 00 Dog
 
@@ -88,7 +88,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 40 🐅 00 Renato Petrillo
 
-41 🧯  00 Antonia+Rolf Weigel
+41 🧗🏻‍♀️  00 Antonia+Rolf Weigel
 
 42 👫  00 Rosmarie+Nunzio Padula 
 
@@ -98,7 +98,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 45  🎉 00 Marlen+Rosa
 
-46 🧗🏽‍♂️  00 Verena+Bruno Wacker
+46 🧯  00 Verena+Bruno Wacker
 
 47  ☔️ 00 Daniela+Davide Brocca
 
