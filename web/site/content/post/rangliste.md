@@ -22,11 +22,11 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 07 🍸 00 Kurt Meier
 
-08 🥃 10 Daniela+Paolo Padula
+08 🥃 00 Daniela+Paolo Padula
 
-09 🎆 10 Steffi+Cristiano Pedron
+09 🎆 00 Steffi+Cristiano Pedron
 
-10 🍺  10 Baggerstube
+10 🍺  00 Baggerstube
 
 11 🥁
 
@@ -54,9 +54,9 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 23 🛵 00 Peter Von Känel
 
-24       00 Renato Meier
+24 🏂 00 Renato Meier
 
-25 🏍️ 00 Bea Colaci
+25 🍀 00 Bea Colaci
 
 26 🛶 00 Leni+Luciano Schüepp
 
