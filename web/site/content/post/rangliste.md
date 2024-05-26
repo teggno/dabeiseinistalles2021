@@ -60,7 +60,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 26 🛶 00 Leni+Luciano Schüepp
 
-27 🧗🏻‍♀️ 00 Jacqueline+Klemenz Som
+27 🚜 00 Jacqueline+Klemenz Som
 
 28 🚁 00 
 
