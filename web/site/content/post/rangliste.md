@@ -6,7 +6,7 @@ image: img/img_0505.jpeg
 ---
 Ein Wort noch zur Darstellung  der Rangliste. Leider funktioniert es nicht mehr so wie beim letzten Mal. Die Technik hat mir einen Streich gespielt. Ich weiss, sie ist ein wenig gewöhnungsbedürftig. Zuerst kommt der Rang, dann die Punkte und dann der Name. Ich hoffe, ihr könnt damit leben. Habt ihr nach Spielende Lust auf einen Ohrwurm? Meine Jukebox hat den passenden Song!
 
-14 JUNI 23 UHR
+Aktualisiert am 14. Juni um 23 UHR
 
 01 🥇 30 Lilly+Raffaele
 
