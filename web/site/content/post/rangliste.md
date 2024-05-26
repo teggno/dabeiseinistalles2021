@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-24T08:10:26.379Z
 image: img/img_0505.jpeg
 ---
-Ein Wort noch zur Darstellung  der Rangliste. Leider funktioniert es nicht mehr so wie beim letzten Mal. Die Technik hat mir einen Streich gespielt. Ich weiss, sie ist ein wenig gewöhnungsbedürftig. Zuerst kommt der Rang, dann die Punkte und dann der Name. Ich hoffe, ihr könnt damit leben. Habt ihr nach Spielende Lust auf einen Ohrwurm? Meine Jukebox hat den passenden Song!
+Ein Wort noch zur Darstellung  der Rangliste. Leider funktioniert es nicht mehr so wie beim letzten Mal. Die Technik hat mir einen Strich durch die Rechnung gemacht gespielt. Ich weiss, es ist ein wenig gewöhnungsbedürftig. Zuerst kommt der Rang, dann die Punkte und dann der Name. Ich hoffe, ihr könnt damit leben. Jukebox nicht vergessen! Da läuft ein Ohrwurm nach dem anderen
 
 Aktualisiert am 14. Juni um 23 Uhr
 
