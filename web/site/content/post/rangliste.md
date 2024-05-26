@@ -12,41 +12,41 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 02 🥈 20 Kathrin+Urs Näf
 
-03 🥉 20 Lucchi+Zac
+03 🥉 20 Lucchi+Giacomo Zaccaria
 
-04 🥁 10 Made+Donato Carrieri 
+04 🍾 10 Made+Donato Carrieri 
 
-05 🥂 10 Yvetta+Andy
+05 🥂 10 Yvetta+Andy Hermann 
 
 06 🍹 10 Severin Stucky
 
 07 🍸 10 Kurt Meier
 
-08 🥃
+08 🥃 10 Daniela+Paolo Padula
 
-09 🍷
+09 🍷 10 Steffi+Cristiano Pedron
 
-10 🍺
+10 🍺  10 Verena+Bruno Wacker
 
-11
+11 🥁
 
-12
+12 🎹
 
-13
+13 🎻
 
-14
+14 🪕
 
-15
+15 🎺
 
-16
+16 🎸
 
-17
+17 🎷
 
-18
+18 🪈
 
-19
+19 🪇
 
-20
+20 🎤
 
 21
 
