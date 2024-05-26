@@ -48,25 +48,25 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 20 🎤 10 Cosimo Cataldo
 
-21
+21 ✈️ 10 Nico Colaci
 
-22
+22 🚂 00 Bruno Meier
 
-23
+23 🛵 00 Peter Von Känel
 
-24
+24 ⛵️ 00 Renato Meier
 
-25
+25 🏍️ 00 Bea Colaci
 
-26
+26 🛶 00 Jeanette+Urs Affentranger
 
-27
+27 🚜 René Benz
 
-28
+28 🚁 Antonia+Rolf Weigel
 
-29
+29 🏎️ 
 
-30
+30 🚀
 
 31
 
@@ -80,25 +80,25 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 36
 
-37
+37 🔮
 
-38
+38 🧨
 
 39
 
-40
+40 🛀
 
-41
+41 🧯
 
-42
+42 🚧
 
-43
+43 🌋
 
-44
+44 🛟
 
-45
+45 🚨
 
-46
+46 ⚓️
 
 47 🍋 
 
