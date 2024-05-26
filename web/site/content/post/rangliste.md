@@ -40,7 +40,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 16 🎸
 
-17 🔥 00 Guley+Zeljko
+17 🔥 00 Guley+Zeljko 
 
 18 🛵 00 Nunzia+Donato Carrieri
 
@@ -62,7 +62,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 27 🚜 00 Jacqueline+Klemenz Som
 
-28 🚁 00 
+28 🚁 00 Spanien
 
 29 ⛽️ 00 René Benz(ina)
 
