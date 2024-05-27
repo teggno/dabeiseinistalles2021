@@ -5,13 +5,20 @@ date: 2024-05-27T12:09:11.749Z
 ---
 Ciao
 
-Weil ich nicht will, dass alle deine Freunde dabei sind und du nicht, lade ich dich zum EM-Spiel, das ich nie mehr machen wollte, ein. Allerdings kann ich dich nur unter einem Pseudonym (z.B. das Orakel von Guntershausen 😎) starten lassen. Sonst krieg ich Ärger. Wenn du mitmachen willst, studierst du untenstehendes Anmeldeformular und gibst deinen Tipp in den nächsten 2 Wochen hier ab. Wenn nicht, kannst du meine Seite mit der Jukebox trotzdem aufrufen. Lies die vielen Artikel hier bitte nicht, sie sind noch geheim und werden zu gegebener Zeit veröffentlicht. Antworte doch bitte hier weiter unten.
+Weil ich nicht will, dass alle deine Freunde dabei sind und du nicht, lade ich dich zum EM-Spiel, das ich nie mehr machen wollte, ein. Allerdings kann ich dich nur unter einem Pseudonym (z.B. das Orakel von Guntershausen 😎) starten lassen. Sonst krieg ich Ärger. Wenn du mitmachen willst, studierst du untenstehendes Anmeldeformular und gibst deinen Tipp in den nächsten 2 Wochen hier ab. Wenn nicht, kannst du meine Seite mit der Jukebox trotzdem aufrufen. Lies die vielen Artikel hier bitte nicht, sie sind noch geheim und werden zu gegebener Zeit veröffentlicht. Antworte doch bitte hier oder auf einer neuen Seite. Cari saluti Raffaele
 
-cari saluti 
+ 
 
-Raffaele
 
- \
+
+
+
+
+
+
+
+
+
 SOMMERMÄRCHEN - TEIL 2 ⁉️
 
 Es ist wie wenn der verlorene Sohn nach Hause zurückkehrt. Überall herrscht Freude. Hand aufs Herz! Wer kann es besser als die Deutschen! Die WM 2006, ein Sommermärchen das unvergessen bleibt. Kaiser Franz, der im Hintergrund mit seinem „Savoir Faire“ die Fussballwelt verzauberte. Auch 2024 dürfen wir uns auf eine Gala freuen. Das Teilnehmerfeld ist hochkarätiger besetzt denn je. Allen voran die Gruppen B+D. Was sich allerdings in Gruppe A zusammenbraut, stellt alles andere in den Schatten. „Wär hät nöd jetz scho dä drüäzwanzigschte Juni im Kaländär resärviärt?“ 
