@@ -1,5 +1,5 @@
 ---
-title: Ancora ….. ….. 🤫
+title: "Ancora ….. ….. "
 draft: true
 date: 2024-05-27T12:09:11.749Z
 ---
