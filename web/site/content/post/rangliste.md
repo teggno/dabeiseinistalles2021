@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-24T08:10:26.379Z
 image: img/img_0505.jpeg
 ---
-Ein Wort noch zur Darstellung  der Rangliste. Leider funktioniert es nicht mehr so wie beim letzten Mal. Die Technik hat mir einen Strich durch die Rechnung gemacht. Ich weiss, sie ist ein wenig gewöhnungsbedürftig. Ich hoffe, ihr könnt damit leben. Zuerst wird der der Rang angezeigt, dann die Punkte und dann der Name. Übrigens vergesst meine Jukebox nicht. Nach jedem Spiel ein Ohrwurm. Viel Spass!
+Ein Wort noch zur Darstellung  der Rangliste. Leider funktioniert es nicht mehr so wie beim letzten Mal. Die verflixte Technik! Ich hoffe, ihr könnt damit leben.Zuerst wird der Rang angezeigt, dann die Punkte und dann der Name. Vieles geht dieses Mal von Hand. DemzuFolge steigt die Fehlerquote. Meldet euch, wenn etwas nicht stimmt! Übrigens vergesst meine Jukebox nicht. Nach jedem Spiel ein Ohrwurm. Viel Spass!
 
 Aktualisiert am 14. Juni um 23 Uhr
 
