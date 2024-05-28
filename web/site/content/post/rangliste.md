@@ -28,7 +28,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 10 🍺 00 Baggerstube
 
-11  🌈 00 Severin Stucky 
+11 🔮 00 Orakel von Guntershausen 
 
 12 ⛑️ 00 Yvetta+Andy Hermann
 
