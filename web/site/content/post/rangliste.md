@@ -76,7 +76,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 34  🚴‍♀️ 00 Bissoli Conny+Benno
 
-35
+35 🌈  00 Severin Stucky  
 
 36 🏇🏻 00 Inge Berger+Gregor
 
