@@ -25,6 +25,6 @@ Ich wollte das Spiel nicht mehr aufziehen, doch je näher die EM kam, umsomehr �
 
 Ich möchte nicht, dass es dich aufwühlt und darum  mache ich  mich gleich wieder aus dem Staub. Wollte nur das tun, was sich gehört . Ich freue mich trotzdem, wenn ich weiss, dass du im Hintergrund ab und zu schmunzelst.
 
-Mach’s gut
+Mach’s guet
 
 Raffaele
