@@ -23,7 +23,7 @@ S﻿tefania
 
 Ich wollte das Spiel nicht mehr aufziehen, doch je näher die EM kam, umsomehr „Streicheleinheiten“ bekam ich zu hören. „Mach es doch, was ist die EM ohne deinen Blog etc.“  Ich selber habe nicht mehr dasselbe Feuer wie früher. Der letzte Biss fehlt, aber ich brauche wenigstens ein paar Wochen lang das Gefühl, am Leben zu sein. Traurig aber wahr. 
 
-Ich freue mich trotzdem, dass du im Hintergrund ab und zu mitschmunzelst und vielleicht übers Parkett schwebst.
+Ich freue mich trotzdem, wenn ich weiss, dass du im Hintergrund ab und zu mitschmunzelst und vielleicht hie und da übers Parkett schwebst.
 
 Mach’s gut
 
