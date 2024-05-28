@@ -32,11 +32,11 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 12 ⛑️ 00 Yvetta+Andy Hermann
 
-13 🎻 00 Franco Monferini 
+13 🎻 00 Franco Monferini ?
 
 14 🏖️ 00 Emma+Christian Bär
 
-15 👖 00 Miro Berger
+15 👖 00 Miro Berger ?
 
 16 🥁
 
@@ -52,7 +52,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 22 🚂 00 Tina+Roland Haselbach
 
-23 🚁 00 Peter Von Känel
+23 🚁 00 Peter von Känel
 
 24 🏄‍♂️ 00 Renato Meier
 
@@ -82,7 +82,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 37 🛸 00 Janis Hermann
 
-38 🧨 00 Dog
+38 🧨 00 dog
 
 39 🩴 00 Pina+Michele La Macchia 
 
