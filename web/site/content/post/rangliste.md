@@ -16,7 +16,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 04  ⛸00 Barbara+Urs Schläpfer
 
-05   00 Katja+Tommy Maucher
+05  🍍00 Katja+Tommy Maucher
 
 06 🛝 00 Claudia+Pepe Panucci
 
