@@ -38,9 +38,9 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 15 👖 00 Miro Berger
 
-16 🎸 00 Bea+Eleonore
+16 🥁
 
-17 🔥 00 Guley+Zeljko 
+17 🔥 00 Gulay+Zeljko 
 
 18 🛵 00 Nunzia+Donato Carrieri
 
@@ -74,7 +74,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 33 🎢  00 Daniela+Paolo Padula
 
-34  🚴‍♀️ 00 Conny+Benno Bissoli
+34  🚴‍♀️ 00 
 
 35  🍀 00 Eva-Maria+Markus Heitz 
 
