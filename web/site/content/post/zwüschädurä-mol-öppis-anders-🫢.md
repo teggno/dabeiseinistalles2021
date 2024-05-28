@@ -1,5 +1,5 @@
 ---
-title: Zahlenspiele
+title: Zahlenakrobatik
 draft: true
 date: 2024-05-28T10:22:50.334Z
 image: img/img_0512.webp
