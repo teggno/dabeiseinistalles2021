@@ -96,7 +96,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 44 🛟  00 Kathrin+Urs Näf
 
-45  🎉 00 Marlen+Rosa
+45  🎉 00 Rosa+Marlen
 
 46 ⚓️  00 Verena+Bruno Wacker 
 
