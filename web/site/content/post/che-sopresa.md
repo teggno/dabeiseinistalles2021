@@ -21,7 +21,7 @@ S﻿tefania
 
 ……schön dass du geantwortet hast. Ich respektiere deine Entscheidung und ich kann sie sehr gut nachvollziehen. Es gibt zwei Beweggründe warum ich dich eingeladen habe. Erstens weil ich dich (immer noch) mag. Und zweitens weil du/ihr zum Spiel dazugehört wie kaum jemand sonst und da beziehe ich auch Christian mit ein. Ihr gabt mir stets das Gefühl, dass ihr mit Herzblut dabei seid.. Mir tut das auch leid, dass ich nicht reinschreiben kann Stefania+Christian Zingg. Ich mag Christian, das weisst du. Ich hätte es nicht fair gefunden, wenn ich dich nicht eingeladen hätte und deine Kollegen schon. Markus habe ich auch nicht angeschrieben und bei den Bissolis weiss ich noch nicht. Bleiben die Soms und Gulay die wahrscheinlich mit Zeljko zusammenspielt. Es gäbe soviel zu bereden, aber wir haben den Moment leider verpasst.
 
-Ich wollte das Spiel nicht mehr aufziehen, doch je näher die EM kam, umsomehr „Streicheleinheiten“ bekam ich zu hören. „Mach es doch, was ist die EM ohne deinen Blog etc.“  Ich selber habe nicht mehr dasselbe Feuer wie früher. Der letzte Biss fehlt, aber ich brauche wenigstens ein paar Wochen lang das Gefühl, „am Leben“ zu sein. Traurig aber wahr. 
+Ich wollte das Spiel nicht mehr aufziehen, doch je näher die EM kam, umsomehr „Streicheleinheiten“ bekam ich zu hören. „Mach es doch, was ist die EM ohne deinen Blog etc.“  Ich selber habe nicht mehr dasselbe Feuer wie früher. Der letzte Biss fehlt, aber ich fühle mich wenigstens 6 Wochen lang, „am Leben“. Unverständlich für Aussenstehende, ich weiss.
 
 Lass es dich nicht aufwühlen. Ich mache mich wieder aus dem Staub. Wollte nur das tun ,was sich gehört. Ich freue mich trotzdem, wenn ich weiss, dass du im Hintergrund ab und zu  schmunzelst.
 
