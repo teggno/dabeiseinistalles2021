@@ -104,6 +104,6 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 48 💃🏽  00 Made+Donato Carrieri
 
-49 🍍  00 Lucchi+Giacomo Zaccaria 
+49 🧯  00 Lucchi+Giacomo Zaccaria 
 
 50 🏮  00 Lilly+Raffaele
