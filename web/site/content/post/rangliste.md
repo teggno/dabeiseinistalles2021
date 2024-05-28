@@ -74,7 +74,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 33 🎢  00 Daniela+Paolo Padula
 
-34  🚴‍♀️ 00 Bissoli Conny+Benno
+34  🚴‍♀️ 00 Conny+Benno Bissoli
 
 35  🍀 00 Eva-Maria+Markus Heitz 
 
@@ -88,7 +88,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 40 🐅 00 Renato Petrillo
 
-41 🧗🏻‍♀️  00 Antonia+Rolf Weigel
+41 🧗🏻‍♀️  00 Antonia Freer+Rolf Weigel
 
 42 👫  00 Rosmarie+Nunzio Padula 
 
