@@ -19,8 +19,10 @@ SPIELREGELN - Wählt aus den nebenstehenden 24 Nationen vier Mannschaften aus, d
 Raffaele Boccia • Rebenweg 36 • 8274 Tägerwilen • Tel. 0716722178 • [rboc@bluewin.ch](mailto:rboc@bluewin.ch) 
 
 \
-4 Mannschaften  …………….........    …………...………...   …………..…...........   …….....................
+4 Mannschaften  ……………......…………...………………………….
 
-4 Torschützen     ...........................    ...............................    ..............................   ............................
+4 Torschützen     .......................…….……………………………..
 
-Torschützenkönig. ……………….............................  Europameister .............................................
+Torschützenkönig. ………………............................. …………. 
+
+Europameister ...........................................……..…………….
