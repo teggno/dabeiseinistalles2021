@@ -1,10 +1,10 @@
 ---
-title: Zwüschädurä mol öppis anders 🫢
+title: Zahlenspiele
 draft: true
 date: 2024-05-28T10:22:50.334Z
 image: img/img_0512.webp
 ---
-Gestattet mir ein kurzes „Vorwort in eigener Sache“! Versucht auf gar keinen Fall die mathematische Formel zu knacken. Sonst könnte die Lust vor lauter „Nummern“ auf der Strecke bleiben 😎
+Gestattet mir ein kurzes „Vorwort in eigener Sache“! Versucht auf gar keinen Fall die mathematische Formel zu knacken. Sonst könnte die Lust vor lauter Nummern auf der Strecke bleiben 😎
 
 Sex-Numerologie! Die besten Nummern ihres Lebens  Sage mir wie du heisst und ich sage dir, wie du im Bett bist. In der Numerologie lässt sich aus dem Namen die Herzenswunschzahl errechnen. Die erzählt alles über ihre erotische Persönlichkeit und die deines Liebhabers. 
 
