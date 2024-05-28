@@ -8,15 +8,15 @@ Ein Wort noch zur Rangliste. Leider funktioniert es nicht mehr so wie beim letzt
 
 Aktualisiert am 14. Juni um 23 Uhr
 
-01 🍀 00 Eva+Markus Heitz                        
+01 🌈 00 Severin Stucky                      
 
-02 🧗🏽‍♂️ 00 Notker Brandes                     
+02 🗝️ 00 Notker Brandes                     
 
 03 ☀️ 00 Liddy+Thomas Schwemer
 
 04  ⛸00 Barbara+Urs Schläpfer
 
-05 🥂 00 Katja+Tommy Maucher
+05   00 Katja+Tommy Maucher
 
 06 🛝 00 Claudia+Pepe Panucci
 
@@ -76,7 +76,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 34  🚴‍♀️ 00 Bissoli Conny+Benno
 
-35 🌈  00 Severin Stucky  
+35  🍀 00 Eva-Maria+Markus Heitz 
 
 36 🏇🏻 00 Inge Berger+Gregor
 
