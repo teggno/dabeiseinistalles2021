@@ -34,9 +34,9 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 13 🎻 00 Franco Monferini 
 
-14 🪕 00 Emma+Christian Bär
+14 🏖️ 00 Emma+Christian Bär
 
-15 🎺 00 Miro Berger
+15 👖 00 Miro Berger
 
 16 🎸 00 Bea+Eleonore
 
