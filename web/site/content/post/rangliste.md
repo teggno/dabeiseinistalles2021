@@ -52,7 +52,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 22 🚂 00 Tina+Roland Haselbach
 
-23 🏍️ 00 Peter Von Känel
+23 🚁 00 Peter Von Känel
 
 24 🏄‍♂️ 00 Renato Meier
 
@@ -62,7 +62,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 27 🚜 00 Jacqueline+Klemenz Som
 
-28 🚁 00 Spanien
+28  00 Spanien
 
 29 ⛽️ 00 René Benz(ina)
 
