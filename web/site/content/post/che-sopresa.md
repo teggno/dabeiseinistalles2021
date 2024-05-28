@@ -23,7 +23,7 @@ S﻿tefania
 
 Ich wollte das Spiel nicht mehr aufziehen, doch je näher die EM kam, umsomehr „Streicheleinheiten“ bekam ich zu hören. „Mach es doch, was ist die EM ohne deinen Blog etc.“  Ich selber habe nicht mehr dasselbe Feuer wie früher. Der letzte Biss fehlt, aber ich fühle mich wenigstens 6 Wochen lang „am Leben“. Unverständlich für Aussenstehende, ich weiss.
 
-Lass es dich nicht aufwühlen. Ich mache mich wieder aus dem Staub. Wollte nur das tun, was sich gehört . Ich freue mich trotzdem, wenn ich weiss, dass du im Hintergrund ab und zu schmunzelst.
+Ich möchte nicht, dass es dich aufwühlt und darum  mache ich  mich wieder aus dem Staub. Wollte nur das tun, was sich gehört . Ich freue mich trotzdem, wenn ich weiss, dass du im Hintergrund ab und zu schmunzelst.
 
 Mach’s gut
 
