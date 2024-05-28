@@ -1,7 +1,7 @@
 ---
 title: Die Nacht von Sheffield
 draft: true
-date: 2024-06-23T08:44:22.974Z
+date: 2024-05-28T14:16:43.650Z
 image: img/img_0503.webp
 bets:
   - lastName: Cataldo
