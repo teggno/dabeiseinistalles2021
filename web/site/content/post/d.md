@@ -1,6 +1,0 @@
----
-title: D
-draft: true
-date: 2024-05-28T16:15:23.395Z
----
-As
