@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-24T08:10:26.379Z
 image: img/img_0505.jpeg
 ---
-Ein Wort noch zur Rangliste. Leider ist es nicht mehr möglich, sie, wie ursprünglich vorgesehen, täglich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Nach jeder Runde, wenn alle Mannschaften gespielt haben, ist sie auf dem neusten Stand. Das heisst mindestens 3x in der Vorrunde, 1x nach den Achtelfinals 1x nach den Viertelfinals, 1x nach den Halbfinals und schliesslich die Schluss-Rangliste nach dem Final. 
+Ein Wort noch zur Rangliste. Leider ist es nicht mehr möglich, sie, wie ursprünglich vorgesehen, täglich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Nach jeder Runde, wenn alle Mannschaften gespielt haben, ist sie auf dem neusten Stand. Das heisst mindestens 3x in der Vorrunde, 1x nach den Achtelfinals 1x nach den Viertelfinals, 1x nach den Halbfinals und schliesslich die Schluss-Rangliste nach dem Finale. 
 
 Aktualisiert am 14. Juni um 23 Uhr
 
