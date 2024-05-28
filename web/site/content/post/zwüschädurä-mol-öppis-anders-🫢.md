@@ -4,14 +4,16 @@ draft: true
 date: 2024-05-28T10:22:50.334Z
 image: img/img_0512.webp
 ---
-Sex-Numerologie! Die besten Nummern ihres Lebens 😎 Sage mir wie du heisst und ich sage dir, wie du im Bett bist. In der Numerologie lässt sich aus dem Namen die Herzenswunschzahl errechnen. Die erzählt alles über ihre erotische Persönlichkeit und die deines Liebhabers.
+Gestattet mir ein kurzes „Vorwort in eigener Sache“! Versucht auf gar keinen Fall die mathematische Formel zu knacken. Sonst könnte die Lust vor lauter „Nummern“ auf der Strecke bleiben 🥳
+
+Sex-Numerologie! Die besten Nummern ihres Lebens 😎 Sage mir wie du heisst und ich sage dir, wie du im Bett bist. In der Numerologie lässt sich aus dem Namen die Herzenswunschzahl errechnen. Die erzählt alles über ihre erotische Persönlichkeit und die deines Liebhabers. 
 
 Wir alle kennen mittlerweile unsere Lieblingsstellungen, wissen, welche Küsse und Berührungen uns anmachen und welche nicht. Wäre es nicht trotzdem interessant, zu erfahren, welche Art von Liebhaberin Sie sind und ob Sie Männern eher als sinnlicher Slowsex-Typ oder als geheimnisvolle Femme fatale den Verstand rauben? Oder umgekehrt: Wäre es nicht herrlich, wenn Sie vorher wüssten, ob der Flirt im Bett hält, was sein Charme verspricht? Und welche verborgenen erotischen Talente in Ihrem Geliebten schlummern? \
 \
 Das alles kann uns der Name verraten - mit Hilfe der Numerologie. Die beschäftigt sich nicht nur mit dem Einfluss von Namen und Geburtsdatum auf die Persönlichkeit, sondern gibt auch Auskunft über das sexuelle Naturell eines Menschen. \
 \
-"Numerologie ist [Astrologie](https://www.cosmopolitan.de/astrologie "Astrologie") mit Zahlen", so der Numerologe Arndt Aschenbeck. Die Rechenkunst wurde bereits in der Antike praktiziert, und die Tabelle, mit der aus einem Namen eine Ziffer von 1 bis 9 abgeleitet wird, stammt von keinem Geringeren als dem griechischen Mathematiker Pythagoras. \
-\
+"Numerologie ist [Astrologie](https://www.cosmopolitan.de/astrologie "Astrologie") mit Zahlen", so der Numerologe Arndt Aschenbeck. Die Rechenkunst wurde bereits in der Antike praktiziert, und die Tabelle, mit der aus einem Namen eine Ziffer von 1 bis 9 abgeleitet wird, stammt von keinem Geringeren als dem griechischen Mathematiker Pythagoras. 
+
 **Nr. 3: Eine echte Rollenspieler-Natur** \
 "Ich will doch nur spielen", lautet das verlockende Credo der Drei. Die 3er-Frau nimmt das Leben humorvoll und will auch beim [Sex](https://www.cosmopolitan.de/sex "Sex") unterhalten (werden). Ob Fräulein Rühr-mich-nicht-an oder scharfe Lehrmeisterin, vergnügt wechselt sie die Rollen. \
 \
