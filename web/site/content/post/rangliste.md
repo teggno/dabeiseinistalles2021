@@ -98,7 +98,7 @@ Aktualisiert am 14. Juni um 23 Uhr
 
 45  🎉 00 Marlen+Rosa
 
-46 🧯  00 Verena+Bruno Wacker
+46 ⚓️  00 Verena+Bruno Wacker 
 
 47  ☔️ 00 Daniela+Davide Brocca
 
