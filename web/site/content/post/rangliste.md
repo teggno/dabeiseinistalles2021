@@ -31,7 +31,7 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 12 ⛑️ 00 Yvetta+Andy Hermann
 
-13 🎻 00 Franco Monferini ?
+13 🎻 00 Franco Monferini 
 
 14 🏖️ 00 Emma+Christian Bär
 
