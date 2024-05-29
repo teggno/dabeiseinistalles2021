@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-24T08:10:26.379Z
 image: img/img_0509.jpeg
 ---
-Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglich vorgesehen, täglich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Nach jeder Runde, wenn alle Mannschaften gespielt haben, ist sie jeweils abends gegen halbzwölf oder am anderen Morgen auf dem neusten Stand. Das heisst 3x in der Vorrunde, 1-2x nach den Achtelfinals, 1x nach den Viertelfinals, 1x nach den Halbfinals und schliesslich die Schluss-Rangliste nach dem Finale. Danke für euer Verständnis.
+Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglich vorgesehen, täglich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Während den Gruppenspielen ist sie  jeweils nach jeder Runde, wenn alle Mannschaften gespielt haben, abends gegen halbzwölf oder am anderen Morgen auf dem neusten Stand. Das heisst 3x in der Vorrunde, 1-2x nach den Achtelfinals, 1x nach den Viertelfinals, 1x nach den Halbfinals und schliesslich die Schluss-Rangliste nach dem Finale. Danke für euer Verständnis.
 
 \
 01 🌈 00 Severin Stucky                      
