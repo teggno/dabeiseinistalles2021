@@ -61,7 +61,7 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 27 🚜 00 Jacqueline+Klemenz Som
 
-28  00 Spanien
+28  🎈00 Martha Gimenez
 
 29 ⛽️ 00 René Benz(ina)
 
