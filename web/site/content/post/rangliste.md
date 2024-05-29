@@ -39,7 +39,7 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 16 🥁
 
-17 🔥 00 Gulay+Zeljko 
+17  00 Zeljko Berger
 
 18 🛵 00 Nunzia+Donato Carrieri
 
@@ -55,7 +55,7 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 24 🏄‍♂️ 00 Renato Meier
 
-25 🍀 
+25 🍀 00 Gülay
 
 26 🛶 00 Leni+Luciano Schüepp
 
