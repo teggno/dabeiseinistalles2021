@@ -8,4 +8,4 @@ Ausgeteilte Stimmzettel 50 - Eingegangene Stimmzettel 50 - Leer 0 - Ungültig 0 
 
 Es war wie immer, wenn unsere Runde zusammenkommt. Die meisten kamen auf den letzten Drücker. Die Angst bei derart viel Prominenz die falsche Garderobe zu wählen, war allgegenwärtig. Welchen Farben 🎀 man vertrauen soll, scheint ringsherum Kopfzerbrechen bereitet zu haben. Meine gutgemeinten Ratschläge landeten wie üblich in der Mülltonne. Stattdessen griff man schamlos zu Algorithmen und künstlicher Intelligenz.
 
-Die Zukunft wird zeigen, ob dies ein kluger Schach♟️Zug war.
+Die Zukunft wird zeigen, ob dies ein kluger Schach♟️Zug war.  Eigene Ideen zu entwickeln, hat noch nie geschadet. Gegen den Strom zu schwimmen, kann zwar anstrengend aber sehr gewinnbringend sein. Das Beispiel von 2016 als zwei absolute „Analphabetinnen“ 🫢 sämtliche Fachexperten zu Statisten degradierten, könnte sich dieses Jahr wiederholen. Aus Datenschutzgründen wird der Anwärter auf Gold in chinesischen  Hieroglyphen 🈳 angezeigt.
