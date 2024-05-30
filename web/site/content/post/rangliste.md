@@ -55,7 +55,7 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 24 🏄‍♂️ 00 Renato Meier
 
-25 🍀 00 Gülay
+25 🍀 00 Gülay Turcan
 
 26 🛶 00 Leni+Luciano Schüepp
 
@@ -81,7 +81,7 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 37 🛸 00 Janis Hermann
 
-38 🧨 00 dog
+38 🧨 00 dog (Stefan Werner)
 
 39 🩴 00 Pina+Michele La Macchia 
 
