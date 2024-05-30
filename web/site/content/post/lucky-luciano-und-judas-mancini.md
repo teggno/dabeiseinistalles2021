@@ -1,0 +1,14 @@
+---
+title: Lucky Luciano und Judas Mancini
+draft: true
+date: 2024-05-30T13:30:17.085Z
+---
+Wer Lucky Luciano sagt, denkt unweigerlich an die „Cosa Nostra“. In diesen Tagen sind jedoch ganz andere Gedanken gefragt. “Lucky“ der Glückliche, der mit dem goldenen Händchen fast den Vesuv zum Ausbruch brachte, ist Italiens Hoffnungsträger. Ein Land das von himmelhochjauchzend bis zu todebetrübt alles in seinem Repertoire hat, erinner sich allzu gerne an die brüderliche Umarmung zwischen Gianluca Vialli und Roberto Mancini. Hexer Gigi hatte gerade erst die drei Greenhörner, Sakka, Rashford und Sancho hypnotisiert.
+
+Das 8. Weltwunder geschah am 11. Juli 2021. Der Boulevard war wieder mal in den Händen von Fiat und Alfa. Ich schrieb zuhause meine Abschiedsrede nachdem ich auf dem Balkon den Tarzanschrei geübt hatte. Von Tägerwilen bis Siracusa ein Delirium! Wenn mir da einer gesagt hätte, dass die Azzurii im Winter 22 statt in die Wüste auf die Malediven fliegen, hätte ich ihn für verrückt erklärt. 1 Jahr später geschah genau das. Wieder waren Millionen von Kinder und Jugendliche betroffen. Nach 2018 durften sie auch 2022 nicht für ihr Land mitfiebern.
+
+Die Schuldfrage war schnell geklärt. Es lag am Zampano! Schon als Spieler ab und zu ein Abgehobener, wollte er auch als Trainer unsterblich sein. Ein Wunder in seiner Sammlung genügte nicht, er versprach seinen Landsleuten auch den WM-Titel. Allerdings hatte er die Rechnung ohne seinen „Elfmeterspezialisten mit schweizerischen Vorfahren“ gemacht. Jorginho schoss die Eidgenossen an die WM und Italien ins Jammertal.
+
+Normalerweise kommt jetzt ein Akt der Vernunft. Nicht so bei Mancini, der an seinem Sessel (fest)klebte. Bis aus der Wüste ein warmer  Geldregen über Europa niederging. Mitten in den so wichtigen Qualifikationspielen für diese EM. Hier zu dokumentieren wer den Kontinent verliess, würde zu lange dauern. Unter 10 Millionen Jahressalär machte es keiner. Als die Saudis ihren Sunnyboy Renard beurlaubten und Mancini die vielen Nullen auf dem Dokument sah, erinnerte er sich an die Geschichte mit Judas und Jesus und verriet sich und das ganze Land in einer Nacht- und Nebelaktion an den Mammon. Pfui Teufel hab ich damals gesagt und ich bleibe dabei.
+
+Manchmal kommst du vom Regen in die Traufe. Wäre Spalletti nach seiner Heldentat in Neapel nicht vom eigenen Präsidenten gedemütigt worden, wäre Neapel nicht abgestürzt und Italien hätte
