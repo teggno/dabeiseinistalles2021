@@ -73,7 +73,7 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 33 🎢  00 Daniela+Paolo Padula
 
-34  🚴‍♀️ 00 
+34  ⛑️ 00 Leo Hensch
 
 35  🍀 00 Eva-Maria+Markus Heitz 
 
