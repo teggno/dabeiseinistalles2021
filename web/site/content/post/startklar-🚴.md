@@ -1,5 +1,5 @@
 ---
-title: Start ⚽️ klar
+title: Vorhang auf!
 draft: true
 date: 2024-05-21T11:25:23.876Z
 image: img/img_0498.jpeg
