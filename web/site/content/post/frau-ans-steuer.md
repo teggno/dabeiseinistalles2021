@@ -10,7 +10,7 @@ Statt Deutschland, England, Frankreich und Spanien befänden sich plötzlich and
 
 Vorschlag abgelehnt? Dann wundert euch nicht, wenn  ein unerwarteter KO 🥊 Schlag ausgerechnet einen eurer Spezies trifft. Oft werden im Achtelfinale die Weichen gestellt. Spiele, die auf dem Papier schon abgehakt ✔️ sind, erleben in nervenaufreibenden Elfmeterkrimis eine unerwartete Wende. Koryphäen wie Streller 😎 und Hoeness haben heute noch daran zu knabbern, aus kürzester Distanz ein Loch von 732 Zentimeter Breite und 244 Zentimeter Höhe verfehlt zu haben. Roberto Baggio ist  schier daran zugrunde gegangen.
 
-Warum nur habe ich angekündigt unseren Tipp vor Turnierbeginn publik zu machen Unseren Tipp vor  Beginn der Veranstaltung zu verkünden! So ein Quatsch. Soll ich nun nach diesem positiven  Frauenvotum meine Lilly bemühen oder verlasse ich mich wie gewohnt 🤔 auf mein „Näschen“?  Weder noch, ich  probier‘s auf die unkonventionelle Art. Lostrommel auf, Kugeln rein und harren der Dinge, die da kommen. Und siehe da 🙈 was uns das Schicksal eingebrockt hat!
+Mit gutem Beispiel vorangehen! Das tue ich jetzt und lege das Schicksal in die Hände von Frau Obimo. 
 
 Frankreich 🇫🇷  England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹. Kane, Mbappe, Scamacca und Havertz sind für die Tore zuständig und die Krone 👑 des Torschützenkönigs setzen wir auf das Haupt des arg gebeutelten Sir Harry Kane.  Europameister wird nach einer sensationellen Durststrecke von x-tausend Jahren….England. Wer mir jetzt den Vogel 🦅 zeigt, sei daran erinnert,  dass es sich 1966 um eine WM und nicht um eine EM handelte.
 
