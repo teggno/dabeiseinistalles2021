@@ -29,7 +29,7 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 11 🔮 00 Bea Colaci
 
-12 ⛑️ 00 Yvetta+Andy Hermann
+12 ⛑️ 00 Ivetta+Andy Hermann
 
 13 🎻 00 Franco Monferini 
 
