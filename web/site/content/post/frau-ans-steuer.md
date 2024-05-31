@@ -10,7 +10,7 @@ Statt Deutschland, England, Frankreich und Spanien befänden sich plötzlich and
 
 Vorschlag abgelehnt? Selber Schuld, wenn euch lieben Besserwissern ein erster unerwarteter KO 🥊 Schlag einen der Favoriten entreisst. Oft werden im Achtelfinale die Weichen gestellt. Spiele, die auf dem Papier als „null problemo“ gelten, erfahren in nervenaufreibenden Elfmeterkrimis eine unerwartete Wende. Koryphäen wie Hoeness und Streller 🤫 haben heute noch daran zu knabbern, aus kürzester Distanz ein Loch von 732 Zentimeter Breite und 244 Zentimeter Höhe verfehlt zu haben. Baggio ist  schier daran zugrunde gegangen.
 
-Warum nur habe ich mich auf die Äste herausgelassen? Unseren Tipp vor  Beginn der Veranstaltung zu verkünden, so ein Quatsch. Soll ich nun nach diesem Vortrag Frau Obimo bemühen oder verlasse ich mich wie gewohnt auf mein „Näschen“? 
+Warum nur habe ich mich auf die Äste herausgelassen? Unseren Tipp vor  Beginn der Veranstaltung zu verkünden, so ein Quatsch. Soll ich nun nach diesem Vortrag Frau Obimo bemühen oder verlasse ich mich wie gewohnt 🤔 auf mein „Näschen“? 
 
 Ich merke schon, niemand will mir zu Hilfe eilen. Dann probier ich’s auf die traditionelle Art. 24 Kugeln in die Lostrommel und harren der Dinge, die da kommen. Und siehe da 🙈 was uns das Schicksal eingebrockt hat! Frankreich 🇫🇷  England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹. Kane, Mbappe, Scamacca und Havertz sind für die Tore zuständig und die Krone 👑 des Torschützenkönigs setzen wir dem arg gebeutelten Sir Harry Kane auf.  Europameister wird…..endlich……endlich…..ENGLAND 🙌
 
