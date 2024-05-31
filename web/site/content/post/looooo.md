@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-23T09:11:48.486Z
 image: img/img_0499.jpeg
 ---
-Gasp strahlt übers ganze Gesicht! Jetzt ist er endgültig zum König 🤴 der Bergamasken avanciert. Dieser Triumph lässt seine Augen leuchten. So habe ich ihn früher noch nie gesehen. Entspannt gibt er Auskunft, lehnt sich zurück, wie einer der angekommen ist. Es ist nicht lange her, zog er an selber Stelle über die Schiris her. Spielte ihnen den Schwarzen Peter zu, wenn seine Mannschaft verloren hatte. wollen wir doch hören, was er uns zu sagen hatder gestehat! „Prego Mister, sie haben das Wort“!
+Gasp strahlt übers ganze Gesicht! Jetzt ist er endgültig zum König 🤴 der Bergamasken avanciert. Dieser Triumph lässt seine Augen leuchten. So habe ich ihn früher noch nie gesehen. Entspannt gibt er Auskunft, lehnt sich zurück, wie einer der angekommen ist. Es ist nicht lange her, da zog er an selber Stelle über die Schiris her. Spielte ihnen den Schwarzen Peter zu, wenn seine Mannschaft verloren hatte. Wollen wir doch hören, was er uns zu sagen hat! „Prego Mister, sie haben das Wort“!
 
 „Meine Jungs waren sensationell! Diesen Sieg wollen wir der ganzen Region Bergamo widmen. Ich bin heute nicht der bessere Trainer als gestern, nur weil ich gewonnen habe. Meine Zukunft?  Gäbe es einen besseren Moment um aufzuhören als jetzt? Ora festeggiamo 🥳 e domani ne parliamo!“
 
