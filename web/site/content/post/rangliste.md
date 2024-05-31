@@ -93,7 +93,7 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 43 🪂  00 Gina+Bruno Meier
 
-44 🛟  00 Kathrin+Urs Näf
+44 🛟  00 Katy+Urs Näf
 
 45  🎉 00 Rosa+Marlen
 
