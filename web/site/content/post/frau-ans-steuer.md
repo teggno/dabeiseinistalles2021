@@ -2,8 +2,9 @@
 title: Frau ans Steuer
 draft: true
 date: 2024-05-31T09:38:24.701Z
+image: img/img_0517.jpeg
 ---
-Wenn der Fussballverstand von uns Männern nicht mehr weiterhilft, sind neue Wege gefragt. Wie wär’s zum Beispiel mit der Idee, der Chefin des Hauses das Steuer zu überlassen. Schmeissen tut sie sowieso schon alles. Küche, Haushalt, „Patienten-Pflege“, Nur als Staffage bei der Namensgebung zu dienen, wird ihren Stärken nicht gerecht! Ja, liebe Machobrüder, es wäre an der Zeit den Schalter umzulegen. Gebt den Frauen das Kommando sie wissen wohl was sie tun!und diese ewige Festhalten an alten Zöpfen wäre passé! 
+Wenn der Fussballverstand von uns Männern nicht mehr weiterhilft, sind neue Wege gefragt. Wie wär’s zum Beispiel mit der Idee, der Chefin des Hauses das Steuer zu überlassen. Schmeissen tut sie sowieso schon alles. Küche, Haushalt, „Patienten-Pflege“, Nur als Staffage bei der Namensgebung zu dienen, wird ihren Stärken nicht gerecht! Ja, liebe Machobrüder, es wäre an der Zeit den Schalter umzulegen. Gebt den Frauen das Kommando sie wissen wohl was sie tun!
 
 Statt Deutschland, England, Frankreich und Spanien befänden sich plötzlich andere Kaliber auf dem Zettel. Bösen Zungen zufolge funktioniert das so: Bildergalerie anklicken, Body inspizieren, Augenfarbe überprüfen, Nationalität bestimmen. Gesetzten Falles, dass Quitschá Kvarashkelia dien Beauty -Preis gewänne, ist Georgien schnurstracks in der engeren Wahl. Am Ende des Grand Prix hätten wir dann Georgien, Tschechien, Österreich und die Schweiz (lüg dä Yaaan ämool á
 
