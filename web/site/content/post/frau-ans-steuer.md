@@ -10,8 +10,6 @@ Statt Deutschland, England, Frankreich und Spanien befänden sich plötzlich and
 
 Vorschlag abgelehnt? Dann wundert euch nicht, wenn  ein unerwarteter KO 🥊 Schlag ausgerechnet einen eurer Spezies trifft. Oft werden im Achtelfinale die Weichen gestellt. Spiele, die auf dem Papier schon abgehakt ✔️ sind, erleben in nervenaufreibenden Elfmeterkrimis eine unerwartete Wende. Koryphäen wie Streller 😎 und Hoeness haben heute noch daran zu knabbern, aus kürzester Distanz ein Loch von 732 Zentimeter Breite und 244 Zentimeter Höhe verfehlt zu haben. Roberto Baggio ist  schier daran zugrunde gegangen.
 
-Mit gutem Beispiel vorangehen! Das tue ich jetzt und lege das Schicksal in die Hände von Frau Obimo. Sie soll unseren (Sieger)🥳
-
-Frankreich 🇫🇷  England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹. Kane, Mbappe, Scamacca und Havertz sind für die Tore zuständig und die Krone 👑 des Torschützenkönigs setzen wir auf das Haupt des arg gebeutelten Sir Harry Kane.  Europameister wird nach einer sensationellen Durststrecke von x-tausend Jahren….England. Wer mir jetzt den Vogel 🦅 zeigt, sei daran erinnert,  dass es sich 1966 um eine WM und nicht um eine EM handelte.
+Mit gutem Beispiel vorangehen! Das tue ich jetzt und lege das Schicksal in die Hände von Frau Obimo. Sie soll unseren (Sieger)🥳Tipp vor versammelter Kulisse verkünden. Lilly bisch parat! Frankreich 🇫🇷  England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹. Kane, Mbappe, Scamacca und Havertz sind für die Tore zuständig und die Krone 👑 des Torschützenkönigs setzen wir auf das Haupt des arg gebeutelten Sir Harry Kane.  Europameister wird endlich endlich England. 
 
 PS: Verzeih mir, dass ich dich mein geliebtes Vaterland 🇮🇹 links hab liegen lassen! Wie ein Mauer 🥀 Blümchen am Strassenrand. Trotz „Lucky Luciano“ habe ich den Glauben an dich verloren. Ich sage dir Lebewohl 🥲 mein ein und alles! Ohne die Hoffnung zu verlieren, dass du mich für meine Todsünde bestrafst 🔫
