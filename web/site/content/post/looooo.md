@@ -8,11 +8,9 @@ Fast 2 Wochen sind vergangen! Gasp strahlt übers ganze Gesicht! Jetzt ist er en
 
 „Meine Jungs waren sensationell! Diesen Sieg wollen wir der ganzen Region Bergamo widmen. Ich bin heute nicht der bessere Trainer als gestern, nur weil ich gewonnen habe. Meine Zukunft?  Gäbe es einen besseren Moment um aufzuhören als jetzt? 
 
-Nein, den gibt es nicht. Doch Gasperini gehört hierher, wie damals Ferguson zu Manchester oder Rehhagel zu Bremen. Jetzt wo der Fluch besiegt ist, schön aber nicht erfolgreich genug zu sein. hat Präsident Percassi die Pflicht, diesen Mann mit Kanten, „lebenslänglich anzubinden“. Denn einfach gestrickt ist er nicht, der 66 jährige Schleifer, der aus der grauen Maus Atalanta „die Dea“ erschaffen hat. Ein Bergamaske sagt sonntags nie „ich gehe ins Stadion“. Er sagt „ich gehe zu meiner “Göttlichen“.
+Nein, den gibt es nicht. Doch Gasperini gehört hierher, wie damals Ferguson zu Manchester oder Rehhagel zu Bremen. Jetzt wo der Fluch besiegt ist, schön aber nicht erfolgreich genug zu sein. hat Präsident Percassi die Pflicht, diesen Mann mit Kanten, „lebenslänglich anzubinden“. Diesen 66 jährigen Schleifer, der aus der grauen Maus Atalanta „die Dea“, die Göttliche erschaffen hat. 
 
-
-
-„Nein, ein Einfacher bin ich nicht“, pflegt er gerne zu unterstreichen. „Ich verlange sehr viel von meinen Spielern. In jedem Training müssen sie bis an die Grenze gehen. Nur so kann ein „Nobody“ wie wir im Konzert der Grossen mitmischen.“ Der Lohn für die vielen Überstunden wurde spätestens gestern ausbezahlt. Mit Köpfchen und Kraft setzte er die Mannschaft des Jahres, die 51x hintereinander nicht mehr verloren hatte, schachmatt. Zuvor war bereits das Starensemble aus Liverpool in die Falle 🪤 getappt.
+„Ich verlange sehr viel von meinen Spielern. In jedem Training müssen sie bis an die Grenze gehen. Nur so kann ein Nobody wie wir im Konzert der Grossen mitmischen.“ Der Lohn für die vielen Überstunden wurde ausbezahlt. Mit Köpfchen und Kraft setzte er die Mannschaft des Jahres, die 51x hintereinander nicht mehr verloren hatte, schachmatt. Zuvor war bereits das Starensemble aus Liverpool in die Falle 🪤 getappt.
 
 Finanzielle Drahtseilakte gibt es in Bergamo keine. Dafür sorgt der umsichtige Boss Antonio Percassi. Djimsiti, Ruggeri, Zappacosta, Ederson, Scamacca und viele andere, sind Spieler aus der zweiten Reihe die zum Schnäppchenpreis in die „Provinz“ wechselten. Gasperini hat sie geformt und weiterentwickelt. Matchwinner Lookman und der Belgier De Ketelaere, die andernorts auf der Ersatzbank schmorten, sind unter ihm wieder aufgeblüht. Der Nigerianer hätte unter einem Trainer à la Allegri gestern nicht mal von Anfang an gespielt. Gasperini liess ihn und drei weitere Offensivkräfte ohne Rücksicht auf Verluste auflaufen. 
 
