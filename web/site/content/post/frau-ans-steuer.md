@@ -12,6 +12,6 @@ Vorschlag abgelehnt? Selber Schuld, wenn euch lieben Besserwissern ein erster un
 
 Warum nur habe ich mich auf die Äste herausgelassen? Unseren Tipp vor  Beginn der Veranstaltung zu verkünden, so ein Quatsch. Soll ich nun nach diesem Vortrag Frau Obimo bemühen oder verlasse ich mich wie gewohnt 🤔 auf mein „Näschen“? 
 
-Ich merke schon, niemand will mir zu Hilfe eilen. Dann probier ich’s auf die traditionelle Art. 24 Kugeln in die Lostrommel und harren der Dinge, die da kommen. Und siehe da 🙈 was uns das Schicksal eingebrockt hat! Frankreich 🇫🇷  England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹. Kane, Mbappe, Scamacca und Havertz sind für die Tore zuständig und die Krone 👑 des Torschützenkönigs setzen wir dem arg gebeutelten Sir Harry Kane auf.  Europameister wird…..endlich……endlich…..ENGLAND 🙌
+Weder noch!  probier ich’s auf die traditionelle Art. 24 Kugeln in die Lostrommel und harren der Dinge, die da kommen. Und siehe da 🙈 was uns das Schicksal eingebrockt hat! Frankreich 🇫🇷  England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹. Kane, Mbappe, Scamacca und Havertz sind für die Tore zuständig und die Krone 👑 des Torschützenkönigs setzen wir dem arg gebeutelten Sir Harry Kane auf.  Europameister wird…..endlich……endlich…..ENGLAND 🙌
 
 Verzeih mir, dass ich dich mein geliebtes Vaterland 🇮🇹 links hab liegen lassen! Wie ein Mauer 🥀 Blümchen am Strassenrand. Trotz „Lucky Luciano“ habe ich den Glauben an dich verloren. Ich sage dir Lebewohl 🥲 ohne die Hoffnung zu verlieren, dass du mich für meine Todsünde bestrafst 🔫
