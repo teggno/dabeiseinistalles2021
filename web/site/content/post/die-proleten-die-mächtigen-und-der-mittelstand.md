@@ -1,8 +1,8 @@
 ---
-title: Die Mächtigen, der Mittelstand und die Proleten
+title: "Frau übernimmt "
 draft: true
 date: 2024-05-13T15:05:39.945Z
-image: img/img_0494.jpeg
+image: ""
 ---
 Wenn der Fussballverstand nicht mehr weiterhilft, sind neue Wege gefragt. Wie wär’s zum Beispiel mit der Idee, die Liebste 💝 mit ins Boot zu holen, damit sie nicht nur als Staffage bei der Namensgebung dient! Ja, liebe Machobrüder, es wäre an der Zeit! Immer wieder sind es dieselben Überlegungen, die uns in diesen Tagen der Vorfreude umtreiben. Sollen wir unsere Auswahl auf die (Über)Mächtigen beschränken oder mischen wir den einen oder anderen aus der Mittelschicht bei! Vielleicht sogar einen aus dem Proletariat, um uns von der Masse abzuheben. Schema F hat noch selten zum Erfolg geführt und trotzdem halten wir an alten Zöpfen fest.
 
