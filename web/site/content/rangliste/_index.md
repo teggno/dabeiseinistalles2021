@@ -8,6 +8,9 @@ song:
   title: "RAFFI‘S JUKEBOX 🎸 Udo Jürgens  ▶️ Noch 3 Minuten "
   url: https://www.youtube.com/watch?v=IURUq3Oj_vI&pp=ygUbdWRvIGrDvHJnZW5zIG5vY2ggMyBtaW51dGVu
   image: img/jukebox.jpg
-  description: "\n\n\n"
+  description: |+
+    Danke ☺️ Udo! Keiner macht den Anfang schöner als du
+
+
 type: rangliste
 ---
