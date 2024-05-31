@@ -19,7 +19,7 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 06 🛝 00 Claudia+Pepe Panucci
 
-07 🆘 00 Kurt Meier
+07 🔌  00 Kurt Meier
 
 08 🥊 00 Salon Liotta  
 
