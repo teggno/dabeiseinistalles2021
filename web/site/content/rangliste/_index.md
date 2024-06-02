@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=IURUq3Oj_vI&pp=ygUbdWRvIGrDvHJnZW5zIG5vY2ggMyBtaW51dGVu
   image: img/jukebox.jpg
   description: |+
-    Danke ☺️ Udo! Keiner startet das Sommermärchen schöner als du
+    Danke 🤩 Udo!
 
 
 type: rangliste
