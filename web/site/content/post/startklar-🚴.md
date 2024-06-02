@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-21T11:25:23.876Z
 image: img/img_0498.jpeg
 ---
-Ausgeteilte Stimmzettel 50 - Vergessen 1 🥲 Eingegangene Stimmzettel 50 - Leer 0 - Ungültig 0 - Binär 50 -  Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft ja sein Gassenhauer 🙈 den Sprung in meine Jukebox! Natürlich nur, wenn die helvetische Performance auf dem Rasen stimmt. Sollte die Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Spätestens in 2050, wenn ein paar Jährchen vorüber sind, wird man allseits von einem  „Klassiker“ reden, der ähnlich wie damals   ……Generationen 😎 überdauert hat. Ob es nun Rock, Pop, Oper oder purer Nonsens ist, spielt keine Rolle.
+Ausgeteilte Stimmzettel 50 - Vergessen 1 🥲 Eingegangene Stimmzettel 51 - Leer 0 - Ungültig 0 - Binär 50 -  Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft ja sein Gassenhauer 🙈 den Sprung in meine Jukebox! Natürlich nur, wenn die helvetische Performance auf dem Rasen stimmt. Sollte die Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Spätestens in 2050, wenn ein paar Jährchen vorüber sind, wird man allseits von einem  „Klassiker“ reden, der ähnlich wie damals   ……Generationen 😎 überdauert hat. Ob es nun Rock, Pop, Oper oder purer Nonsens ist, spielt keine Rolle.
 
 Es war wie immer, wenn unsere Runde zusammenkommt. Die meisten kamen auf den letzten Drücker. Die Angst bei derart viel Prominenz die falsche Garderobe zu wählen, war allgegenwärtig. Welchen Farben 🎀 man vertrauen soll, scheint ringsherum Kopfzerbrechen bereitet zu haben. Meine gutgemeinten Ratschläge landeten wie üblich in der Mülltonne. Stattdessen griff man schamlos zu Algorithmen und künstlicher Intelligenz.
 
