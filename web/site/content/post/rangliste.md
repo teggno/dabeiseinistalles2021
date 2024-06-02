@@ -35,7 +35,7 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 14 🏖️ 00 Emma+Christian Bär
 
-15 👖 00 Miro Berger ?
+15 👖 00 Miro Berger 
 
 16 🥁 00 Kuno Schwarzer
 
