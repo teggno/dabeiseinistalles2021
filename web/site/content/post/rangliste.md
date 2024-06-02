@@ -37,7 +37,7 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 15 👖 00 Miro Berger ?
 
-16 🥁
+16 🥁 00 Kuno Schwarzer
 
 17  00 Zeljko Berger
 
@@ -101,8 +101,10 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 47  ☔️ 00 Daniela+Davide Brocca
 
-48 💃🏽  00 Made+Donato Carrieri
+48  🥲 Mobby Sahli
 
-49 🧯  00 Lucchi+Giacomo Zaccaria 
+49  💃🏽 00 Made+Donato Carrieri
 
-50 🏮  00 Lilly+Raffaele
+50 🧯00 Lucchi+Giacomo Zaccaria 
+
+51. 🏮00 Lilly+Raffaele
