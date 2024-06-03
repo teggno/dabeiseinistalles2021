@@ -1,7 +1,7 @@
 ---
 title: Italia 🇮🇹 incognita 🤔
 draft: true
-date: 2024-05-30T13:30:17.085Z
+date: 2024-06-03T12:27:46.870Z
 image: img/img_0519.jpeg
 ---
 Man muss nicht zwangsläufig Nietzsche heissen, um hautnah zu spüren, dass diese beiden ineinander verliebt sind. Wenn (keine) Blicke töten könnten, wären beide nicht mehr unter uns.. Hier der Blender, den wir im Sommer 21 heilig gesprochen haben, nachdem er in Lourdes vorstellig geworden war. Doch wie es bei Vorgauklern so üblich ist, hielt die Liaison nicht lange. Der Guru, der uns auch noch die Weltmeisterschaft versprochen hatte, wurde von höchst bescheidenen Nordmazedoniern vom Sockel gestürzt. Statt gleich abzudanken, liess er uns noch monatelang leiden. Als er sich in einer Nacht- und Nebelaktion in die Wüste absetzte um nach (Öl)Millionen zu bohren, erinnerten wir uns an das letzte Abendmahl und an Judas den „traditore“.
