@@ -8,6 +8,9 @@ song:
   title: "RAFFI‘S JUKEBOX 🎸 Udo Lindenberg ▶️ Ich mach mein Ding "
   url: https://www.youtube.com/watch?v=utEGrtLwdMs&pp=ygUhdWRvIGxpbmRlbmJlcmcgaWNoIG1hY2ggbWVpbiBkaW5n
   image: img/jukebox.jpg
-  description: "\n\n\n"
+  description: |+
+    Wie lange macht Neuer noch sein Ding?
+
+
 type: rangliste
 ---
