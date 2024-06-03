@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-24T08:10:26.379Z
 image: img/img_0509.jpeg
 ---
-Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglich vorgesehen, täglich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Während den Gruppenspielen ist sie  jeweils nach jeder Runde, abends gegen halbzwölf oder am anderen Morgen auf dem neusten Stand. Das heisst 3x in der Vorrunde, 1-2x nach den Achtelfinals, 1x nach den Viertelfinals, 1x nach den Halbfinals und schliesslich die Schluss-Rangliste nach dem Finale. Danke für euer Verständnis.
+Ein Wort noch zur Rangliste! Leider wird es nicht möglich sein, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Es kann passieren, dass sie erst am anderen Morgen erscheint. Sollte sich mal ein Fehler einschleichen, dann meldet euch ungeniert. Vielen Dank für das Verständnis.
 
 \
 01  ☀️00 Liddy+Thomas Schwemer           
