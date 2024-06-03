@@ -5,7 +5,7 @@ date: 2024-06-03T22:02:41.519Z
 image: img/img_0486.jpeg
 ---
 \
-Das Leben eines Torhüters kann brutal sein! Da hälst du was es zu halten gibt! Keine Unhaltbaren zwar, wie uns der Reporter kürzlich weismachen wollte! Doch wie gewohnt bist du der Fels in der Brandung. Dann hat das Schicksal ausgerechnet dich im Visier. Spielt dir eine Kugel zu, die du im Normalfall als misslungene Rückgabe belächelst. Tausendmal schon hast du ähnliche Dinger in Empfang genommen. Hätten unsere drei ehemaligen Weltklasse-Keeper Zeljko, Rolf und Renato zu ihren Glanzzeiten „so ä Wiibärschüssli“ nach vorne abprallen lassen, hätte das Wort „Fliegenfänger“ die Runde gemacht.
+Das Leben eines Torhüters kann verdammt brutal sein! Da hälst du was es zu halten gibt! Keine Unhaltbaren zwar, wie uns der Reporter kürzlich weismachen wollte! Doch wie gewohnt bist du der Fels in der Brandung. Dann hat das Schicksal ausgerechnet dich im Visier. Spielt dir eine Kugel zu, die du im Normalfall als misslungene Rückgabe belächelst. Tausendmal schon hast du ähnliche Dinger in Empfang genommen. Hätten unsere drei ehemaligen Weltklasse-Keeper Zeljko, Rolf und Renato zu ihren Glanzzeiten „so ä Wiibärschüssli“ nach vorne abprallen lassen, hätte das Wort „Fliegenfänger“ die Runde gemacht.
 
 Gerade in diesen Wochen, verwandeln sich viele von uns in „kleine Guardiolas“. Wie könnte man seine analytischen Fähigkeiten besser unter Beweis stellen, als mit dem „Zusammenbasteln“ einer Stammelf.  Ich will mich heute mit einer Personalie auseinandersetzen, die in den nächsten Wochen für hitzige Diskussionen sorgen könnte.
 
