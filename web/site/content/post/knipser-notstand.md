@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-27T08:32:50.066Z
 image: img/img_0510.jpeg
 ---
-Noch nie hatten wir eine derartige Sturm-Flaute! Von wegen Qual der Wahl. Kane, Mbappé und dann die Leere! Giroud ist ins Alter und aus der Mode gekommen! Die Deutschen probieren es oft mit der falschen 9! Ronaldo verirrte sich in die Wüste🌵 und Morata versagt regelmässig wenn er die Kiste sieht. Scamacca‘s Genauigkeit beschränkt sich auf sein Tattoo und Shaqiri arbeitet nur noch Teilzeit. Lewandowski wäre eine Alternative! Doch in Polens Tricot rennt meistens nur sein Namensvetter rum. Wo sind nur die Bomber geblieben?
+Noch nie hatten wir eine derartige Sturm-Flaute! Von wegen Qual der Wahl. Kane, Mbappé und dann die Leere! Giroud ist ins Alter und aus der Mode gekommen! Die Deutschen probieren es oft mit der falschen 9! Ronaldo verirrte sich in die Wüste🌵 und Morata versagt regelmässig, wenn er die Kiste sieht. Scamacca‘s Genauigkeit beschränkt sich auf sein Tattoo und Shaqiri arbeitet nur noch Teilzeit. Lewandowski wäre eine Alternative! Doch in Polens Tricot rennt meistens nur sein Namensvetter rum. Wo sind nur die Bomber geblieben?
 
 Die Van Basten und Rivas? Oder die Platinis? Vom Müller Gerd gar nicht zu reden. Der spielte in einer anderen Liga. Selbst mit einem Trezeguet oder Villa schätzten wir uns glücklich. Auch Mandzukic, Hrubesch oder Shearer würden uns sehr wohl aus der Patsche helfen. Und dä Mario Balotelli, der sich seiner Klamotten entledigte, nachdem er im die deutsche Armada im Alleingang versenkte. wäre eine Offenbarung. Nein, im „petto“ haben wir nicht viel.
 
