@@ -7,11 +7,11 @@ image: img/img_0509.jpeg
 Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglich vorgesehen, täglich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Während den Gruppenspielen ist sie  jeweils nach jeder Runde, abends gegen halbzwölf oder am anderen Morgen auf dem neusten Stand. Das heisst 3x in der Vorrunde, 1-2x nach den Achtelfinals, 1x nach den Viertelfinals, 1x nach den Halbfinals und schliesslich die Schluss-Rangliste nach dem Finale. Danke für euer Verständnis.
 
 \
-01 🌈 00 Severin Stucky                      
+01  ☀️00 Liddy+Thomas Schwemer           
 
-02 🗝️ 00 Notker Brandes                     
+02 👑 00 Cosimo Cataldo                   
 
-03 ☀️ 00 Liddy+Thomas Schwemer
+03 ⛑️ 00 Leo Hensch
 
 04  ⛸00 Barbara+Urs Schläpfer
 
@@ -39,13 +39,13 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 16 🥁 00 Kuno Schwarzer
 
-17  00 Zeljko Berger
+17  🌈 00 Zeljko Berger
 
 18 🛵 00 Nunzia+Donato Carrieri
 
 19 🪇 00 Gianfranco Caporusso
 
-20 👑 00 Cosimo Cataldo
+20 🗝️ 00 Notker Brandes
 
 21 ✈️ 00 Nico Colaci
 
@@ -73,7 +73,7 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 33 🎢  00 Daniela+Paolo Padula
 
-34  ⛑️ 00 Leo Hensch
+34  🪭 00 Severin Stucky
 
 35  🍀 00 Eva-Maria+Markus Heitz 
 
