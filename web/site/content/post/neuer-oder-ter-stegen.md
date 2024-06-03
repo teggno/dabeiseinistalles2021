@@ -7,7 +7,7 @@ image: img/img_0486.jpeg
 \
 Das Leben eines Torhüters kann brutal sein! Da hälst du was es zu halten gibt! Keine Unhaltbaren zwar, wie uns der Reporter kürzlich weismachen wollte! Doch wie gewohnt bist du der Fels in der Brandung. Dann hat das Schicksal ausgerechnet dich im Visier. Spielt dir eine Kugel zu, die du im Normalfall als misslungene Rückgabe belächelst. Tausendmal schon hast du ähnliche Dinger in Empfang genommen. Hätten unsere drei ehemaligen Weltklasse-Keeper Zeljko, Rolf und Renato zu ihren Glanzzeiten „so ä Wiibärschüssli“ nach vorne abprallen lassen, hätte das Wort „Fliegenfänger“ die Runde gemacht.
 
-Gerade in diesen Wochen, verwandeln sich viele in „kleine Guardiolas“. Wie könnte man seine psychoanalytischen Fähigkeiten besser unter Beweis stellen, als mit dem „Zusammenbasteln“ einer Stammelf.  Ich will mich heute mit einer Personalie auseinandersetzen, die in den nächsten Wochen für hitzige Diskussionen sorgen könnte.
+Gerade in diesen Wochen, verwandeln sich viele von uns in „kleine Guardiolas“. Wie könnte man seine psychoanalytischen Fähigkeiten besser unter Beweis stellen, als mit dem „Zusammenbasteln“ einer Stammelf.  Ich will mich heute mit einer Personalie auseinandersetzen, die in den nächsten Wochen für hitzige Diskussionen sorgen könnte.
 
 Zweifellos gehört der Bayern-Keeper zu den fünf weltbesten Keepern aller Zeiten. Ich, der mit Legenden wie Lev Jaschin und Gordon Banks aufgewachsen ist, würde ihn irgendwo in der Gegend von Gianluigi Buffon ansiedeln. Ein gigantischer Kampf um Bronze. Doch ähnlich wie „unserem Gigi-Nazionale“, der wegen zahlreicher „Alterslaunen“ den Platz an seinen jüngeren Vornamens-Vetter verlor, häufen sich auch bei Neuer in letzter Zeit die Unpässlichkeiten.
 
