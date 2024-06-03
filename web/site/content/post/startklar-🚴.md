@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-21T11:25:23.876Z
 image: img/img_0498.jpeg
 ---
-Ausgeteilte Stimmzettel 50 - Vergessen 1 🥲 Eingegangene Stimmzettel 51 - Leer 0 - Ungültig 0 - Binär 51 - Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft ja sein Ohrwurm 🙈 den Sprung in meine Jukebox! Natürlich nur, wenn die helvetische Performance auf dem Rasen stimmt. Sollte die Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Spätestens im Jahre 2050, wird man diesen „Klassiker“ im gleichen Atemzug mit „Satisfaction“ und „Let ist be“ nennen. Ein generationenübergreifender Gassenhauer der an Bohemian Rhapsody von Queen 😛erinnert und alle widerlegt die von Nonsens sprechen.
+Ausgeteilte Stimmzettel 50 - Vergessen 1 🥲 Eingegangene Stimmzettel 51 - Leer 0 - Ungültig 0 - Binär 51 - Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft ja sein Ohrwurm 🙈 den Sprung in meine Jukebox! Natürlich nur, wenn die helvetische Performance auf dem Rasen stimmt. Sollte die Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Spätestens im Jahre 2050, wird man diesen „Klassiker“ im gleichen Atemzug mit „Satisfaction“ und „Let ist be“ nennen. Ein generationenübergreifender Gassenhauer der an „Bohemian Rhapsody“ von Queen 😂 erinnert? Von wegen Nonsens!
 
 Es war wie immer, wenn unsere Runde zusammenkommt. Die meisten kamen auf den letzten Drücker. Die Angst bei derart viel Prominenz die falsche Garderobe zu wählen, war allgegenwärtig. Welchen Farben 🎀 man vertrauen soll, scheint ringsherum Kopfzerbrechen bereitet zu haben. Meine gutgemeinten Ratschläge landeten wie üblich in der Mülltonne. Stattdessen griff man schamlos zu Algorithmen und künstlicher Intelligenz.
 
