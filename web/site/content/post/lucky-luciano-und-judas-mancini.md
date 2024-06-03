@@ -2,6 +2,7 @@
 title: Italia 🇮🇹 incognita 🤔
 draft: true
 date: 2024-05-30T13:30:17.085Z
+image: img/img_0519.jpeg
 ---
 Arrivederci traditore - Benvenuto maestro di vita! Unsere letzten beiden “Commissari Tecnici“ sind beileibe nicht aus dem selben Holz geschnitzt. Hier der Blender, den wir im Sommer 21 heilig gesprochen hatten, nachdem er in Lourdes vorstellig geworden war. Und da der Philosoph, der versucht, dir das „Leben“ beizubringen. , das er verkündete, war wie ein Evangelium. Schliesslich hatte er uns in Lourdes bei den Heiligen emphohlen.   Jedes VerräterWer Lucky Luciano sagt, denkt unweigerlich an die „Cosa Nostra“. In diesen Tagen sind jedoch ganz andere Gedanken gefragt. “Lucky“ der Glückliche, der mit dem goldenen Händchen fast den Vesuv zum Ausbruch brachte, ist Italiens Hoffnungsträger. Ein Land das von himmelhochjauchzend bis zu todebetrübt alles in seinem Repertoire hat, erinner sich allzu gerne an die brüderliche Umarmung zwischen Gianluca Vialli und Roberto Mancini. Hexer Gigi hatte gerade erst die drei Greenhörner, Sakka, Rashford und Sancho hypnotisiert.
 
