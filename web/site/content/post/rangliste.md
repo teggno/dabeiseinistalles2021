@@ -107,4 +107,4 @@ Ein Wort noch zur Rangliste. Leider ist es nicht möglich, sie, wie ursprünglic
 
 50 🧯00 Lucchi+Giacomo Zaccaria 
 
-51. 🏮00 Lilly+Raffaele
+51  🏮00 Lilly+Raffaele
