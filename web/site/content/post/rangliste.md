@@ -101,7 +101,7 @@ Ein Wort noch zur Rangliste! Leider wird es nicht möglich sein, sie jeden Abend
 
 47  ☔️ 00 Daniela+Davide Brocca
 
-48  🥲 Mobby Sahli
+48  🥲 00 Mobby Sahli
 
 49  💃🏽 00 Made+Donato Carrieri
 
