@@ -6,10 +6,11 @@ showPlaceholder: false
 placeholder: Diese Seite ist nicht mehr verfügbar
 song:
   title: "RAFFI‘S JUKEBOX 🎸 Udo Lindenberg ▶️ Ich mach mein Ding "
-  url: https://www.youtube.com/watch?v=utEGrtLwdMs&pp=ygUhdWRvIGxpbmRlbmJlcmcgaWNoIG1hY2ggbWVpbiBkaW5n
+  url: https://www.youtube.com/watch?v=IURUq3Oj_vI&pp=ygUbdWRvIGrDvHJnZW5zIG5vY2ggMyBtaW51dGVu
   image: img/jukebox.jpg
-  description: |+
-    Wie lange macht Neuer noch sein Ding?
+  description: >+
+    Ladies & Gentlemen! Willkommen zum Sommermärchen 2024 - Hier für Sie - Der
+    deutsche Frank Sinatra
 
 
 type: rangliste
