@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist nicht mehr verfügbar
 song:
-  title: "RAFFI‘S JUKEBOX 🎸 Udo Lindenberg ▶️ Ich mach mein Ding "
+  title: RAFFI‘S JUKEBOX 🎸 Udo Jürgens ▶️ Noch drei Minuten
   url: https://www.youtube.com/watch?v=IURUq3Oj_vI&pp=ygUbdWRvIGrDvHJnZW5zIG5vY2ggMyBtaW51dGVu
   image: img/jukebox.jpg
   description: >+
