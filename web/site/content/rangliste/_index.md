@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=rJpXr3w2bew&pp=ygUPY3JhenkgYWVyb3NtaXRo
   image: img/jukebox.jpg
   description: |+
-    Ist da vielleicht noch ein Platz frei 🫢
+    Sorry, ist da vielleicht noch ein Platz frei 🫢
 
 
 type: rangliste
