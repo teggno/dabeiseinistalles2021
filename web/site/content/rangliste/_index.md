@@ -5,12 +5,11 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist nicht mehr verfügbar
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Udo Jürgens ▶️ Noch drei Minuten
-  url: https://www.youtube.com/watch?v=IURUq3Oj_vI&pp=ygUbdWRvIGrDvHJnZW5zIG5vY2ggMyBtaW51dGVu
+  title: RAFFI‘S JUKEBOX 🎸 Aerosmith  ▶️ Crazy
+  url: https://www.youtube.com/watch?v=w1308EbmkIg&pp=ygUPYWVyb3NtaXRoIGNyYXp5
   image: img/jukebox.jpg
-  description: >+
-    Ladies & Gentlemen! Willkommen zum Sommermärchen 2024 - Hier für Sie👏👏👏
-    Der deutsche Frank Sinatra👏👏👏
+  description: |+
+    Ist da noch ein Platz frei 🫢
 
 
 type: rangliste
