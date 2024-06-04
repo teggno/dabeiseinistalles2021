@@ -2,7 +2,7 @@
 title: Neuer oder ter Stegen?
 draft: false
 date: 2024-06-04T04:20:21.778Z
-image: img/img_0486.jpeg
+image: img/img_0521.jpeg
 ---
 \
 Das Leben eines Torhüters kann brutal sein! Da hälst du was es zu halten gibt! Keine Unhaltbaren zwar, wie uns der Reporter kürzlich weismachen wollte! Doch wie gewohnt bist du der Fels in der Brandung. Dann hat das Schicksal ausgerechnet dich im Visier. Spielt dir eine Kugel zu, die du im Normalfall als misslungene Rückgabe belächelst. Tausendmal schon hast du ähnliche Dinger in Empfang genommen. Hätten unsere drei ehemaligen Weltklasse-Keeper Renato, Zeljko und Rolf  zu ihren Glanzzeiten „so ä Wiibärschüssli“ nach vorne abprallen lassen, hätte das Wort „Fliegenfänger“ die Runde gemacht.
