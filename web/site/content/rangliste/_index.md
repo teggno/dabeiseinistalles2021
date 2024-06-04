@@ -8,9 +8,6 @@ song:
   title: RAFFI‘S JUKEBOX 🎸 Aerosmith  ▶️ Crazy
   url: https://www.youtube.com/watch?v=rJpXr3w2bew&pp=ygUPY3JhenkgYWVyb3NtaXRo
   image: img/jukebox.jpg
-  description: |+
-    Sorry, ist da vielleicht noch ein Platz frei 🫢
-
-
+  description: "\n\n\n"
 type: rangliste
 ---
