@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-27T08:32:50.066Z
 image: img/img_0510.jpeg
 ---
-Die Qual der Wahl - das war einmal! Es gibt Mbappé und es gibt Kane und dann die Leere! Giroud ist ins Alter und aus der Mode gekommen! Die Deutschen probieren es oft mit der falschen 9! Ronaldo verirrte sich in die Wüste🌵 und Morata versagt regelmässig, wenn er die Kiste sieht. Scamacca‘s Genauigkeit bewundert man am halsbrecherischen Tattoo und Shaqiri arbeitet nur noch Teilzeit. Lewandowski wäre eine Alternative! Doch im Tricot der Polen ist er noch harmloser als Immobile. Wo sind nur die Bomber geblieben?
+Warum nur ist Haaland ein Norweger und kein Däne?Die Qual der Wahl - das war einmal! Es gibt Mbappé und es gibt Kane und dann die Leere! Giroud ist ins Alter und aus der Mode gekommen! Die Deutschen probieren es oft mit der falschen 9! Ronaldo verirrte sich in die Wüste🌵 und Morata versagt regelmässig, wenn er die Kiste sieht. Scamacca‘s Genauigkeit bewundert man am halsbrecherischen Tattoo und Shaqiri arbeitet nur noch Teilzeit. Lewandowski wäre eine Alternative! Doch im Tricot der Polen ist er noch harmloser als Immobile. Wo sind nur die Bomber geblieben?
 
 Wo sind sie geblieben, die Bomber von einst? Gigi Riva, Marco van Basten, Michel Platini!? Und der Müller Gerd, der in einer anderen Liga spielte. Selbst mit einem Villa oder Trezeguet schätzten wir uns glücklich. Auch Mandzukic, Hrubesch und Shearer würden uns aus der Patsche helfen. Und erscht dä Balotelli Mario, dessen Stern 💫 Stunden sich nach maximal zwanzig Minuten schon  „entladen“ hatten.  Sind wir doch mal realistisch; wir haben nur wenige Pfeile im Köcher.
 
