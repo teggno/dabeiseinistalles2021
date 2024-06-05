@@ -1,7 +1,7 @@
 ---
 title: Stürmermisere
-draft: true
-date: 2024-06-05T21:00:15.449Z
+draft: false
+date: 2024-06-06T21:14:40.442Z
 image: img/img_0510.jpeg
 ---
 Gestern erhielt ich einen verzweifelten Anruf 📞 aus dem Publikum. Die Dame war am Ende ihres Lateins, nachdem ihr Suchwort „Bomber“ völligen Unsinn ausgespuckt hatte. Ich versuchte sie zu beruhigen, sprach von Stürmerflaute und falscher 9. Wirklich helfen, konnte ich ihr nicht.
