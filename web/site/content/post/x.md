@@ -1,5 +1,5 @@
 ---
-title: Xxx
+title: Xx
 draft: true
 date: 2024-05-31T04:35:13.840Z
 image: img/img_0516.webp
