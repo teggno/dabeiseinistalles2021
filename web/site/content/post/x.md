@@ -1,11 +1,9 @@
 ---
-title: Xx
+title: Gedenkminute
 draft: true
 date: 2024-05-31T04:35:13.840Z
-image: img/img_0516.webp
+image: img/img_0523.jpeg
 ---
-„Ja, is denn heut scho Weihnachten“ 😎 pflegte der gute Franz zu sagen. Unnachahmlich, einzigartig, manchmal hemdsärmelig, doch immer ein Mann von Welt.  Mit Stil und Humor. Auch Ecken und Kanten. Der dir anständig sagen konnte, was für ein „Idiot“ du bist.
+„Ja, is denn heut scho Weihnachten!“ Franz Beckenbauer himself! Ein Mann von Welt. Mit Stil und Humor. Der dir anständig sagen konnte, was für ein Idiot du bist. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Schade, dass er nicht mehr da ist. Ich werde seine Kommentare vermissen.
 
-Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Denn diese EM ist aus jener WM 2006 hervorgegangen, die er so meisterlich orchestriert hat. Wie auf dem Rasen. Stets mit erhobenem Haupt. Dass sie ihn ringsherum fallen liessen, wird ihn nachdenklich machen. Auch jetzt noch! Was, zuerst bringt ihr mir Weihrauch und Myrrhe und dann bewerft ihr mich mit Dreck!
-
-Schade, dass er nicht mehr da ist. Keiner konnte ihm das Wasser reichen. Seine Kommentare nach den Spielen ein Genuss. Verständlich für jeden. Fussball so rübergebracht wie er ist. Einfach und schön.
+Deutschland-Schottland! Auf dem Papier eine glasklare „Bank“. Ich drücke den Deutschen die Daumen und tippe auf einen Sieg mit zwei Toren Unterschied  Ein Sieg wäre gut für die Stimmung. Im Land  und auch hier bei uns. Eva-Maria, Inge, Gregor, Antonia+Rolf mit langen Gesichtern, das sparen wir uns lieber auf später auf 😎.
