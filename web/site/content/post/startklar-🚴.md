@@ -10,4 +10,10 @@ Es war wie immer, wenn unsere Runde zusammenkommt. Die meisten kamen auf den let
 
 Allzu viel verraten, will ich nicht. Mein Bauchgefühl signalisiert mir Alarmstufe rot. Will heissen ein Kampf auf Biegen und Brechen. Im Netz werden schon erste Quoten herumgereicht. Zum Glück irren sich auch die. La Macchia’s 999,9 🆘 Monferinis 333,3 🛟 Gina G+Bruno M 111,1 🤫 So eine Frechheit.  Dagegen Absolut nachvollziehbar Liddy+Thomas 1,9 👍 Eva+Markus 1,5 👏 Rosa+Marlen 1,1 🤝
 
-Dieses Monster  soll zusammen mit den zwei besten „Verlierern“ am Ende der Party in den Genuss eines Obulus kommen. Die Rote Laterne berücksichtigen wir natürlich auch.  Nach reiflicher Überlegung bin ich zum Schluss gekommen, dass Platz 1 „bevorzugt“ wird, Schliesslich geht’s um die Krone, auch wenn der Spass im Vordergrund steht. Das heisst, dass der Sieger mit Fr. 400.— bedacht wird. Die restlichen Fr. 110..— werden zwischen Platz 2 (Apéro-Gutschein Porto Sophie) Platz 3 (Fl. Wein) und Platz 51 🏮(Fl Kochwein 😎) aufgeteilt
+
+
+
+
+
+
+PREISE: Nach reiflicher Überlegung bin ich zum Schluss gekommen, dass Platz 1 „bevorzugt“ wird, Schliesslich geht’s um die Krone, auch wenn der Spass im Vordergrund steht. Das heisst, dass der Sieger mit Fr. 400.— bedacht wird. Die restlichen Fr. 110..— werden zwischen Platz 2 (Apéro-Gutschein Porto Sophie) Platz 3 (Fl. Wein) und Platz 51 🏮(Fl Kochwein 😎) aufgeteilt
