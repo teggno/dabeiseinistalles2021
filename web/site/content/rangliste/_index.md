@@ -11,7 +11,8 @@ song:
   description: >+
     Nicht nur im Sturm gibt’s eine Misere! Auch in der Musik läuft‘s miserabel.
     Wenn ein B-Lied von den Beatles im Jahre 2023 an die Spitze der Hitparade
-    schiesst, ist mit den heutigen Top-Bands nicht allzu viel los 🤔…oder?
+    schiesst, ist mit den heutigen Top-Bands nicht allzu viel los 🤔…oder seh
+    ich das falsch 🤷‍♂️
 
 
 type: rangliste
