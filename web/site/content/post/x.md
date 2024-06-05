@@ -1,7 +1,7 @@
 ---
 title: Gedenkminute
 draft: true
-date: 2024-05-31T04:35:13.840Z
+date: 2024-06-05T16:22:42.695Z
 image: img/img_0523.jpeg
 ---
 „Ja, is denn heut scho Weihnachten!“ Franz Beckenbauer himself! Ein Mann von Welt. Mit Stil und Humor. Der dir anständig sagen konnte, was für ein Idiot du bist. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Schade, dass er nicht mehr da ist. Ich werde seine Kommentare vermissen.
