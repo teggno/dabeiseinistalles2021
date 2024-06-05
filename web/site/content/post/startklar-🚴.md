@@ -4,16 +4,10 @@ draft: true
 date: 2024-05-21T11:25:23.876Z
 image: img/img_0498.jpeg
 ---
-Ausgeteilte Stimmzettel 50 - Vergessen 1 🥲 Eingegangene Stimmzettel 51 - Leer 0 - Ungültig 0 - Binär 51 - Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft ja sein Ohrwurm 🙈 den Sprung in meine Jukebox! Natürlich nur, wenn die helvetische Performance auf dem Rasen stimmt. Sollte die Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Spätestens im Jahre 2525, wird man diesen „Klassiker“ im selben Atemzug wie „Satisfaction“ und „Let ist be“ nennen. Ein generationenübergreifender Gassenhauer der an „Bohemian Rhapsody“ von Queen 😂 erinnert? Von wegen Nonsens!
+Ausgeteilte Stimmzettel 50 - Vergessen 1 🥲 Eingegangene Stimmzettel 51 - Leer 0 - Ungültig 0 - Binär 51 - Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft ja sein Ohrwurm 🙈 den Sprung in meine Jukebox! Natürlich nur, wenn die helvetische Performance auf dem Rasen stimmt. Sollte die Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Spätestens „in the year 2525“ wird man diesen „Klassiker“ im selben Atemzug mit  „Yesterday und Satisfacion“ nennen. Ein generationenübergreifender Gassenhauer der an „Bohemian Rhapsody“ von Queen 😂 erinnert? Von wegen Nonsens!
 
 Es war wie immer, wenn unsere Runde zusammenkommt. Die meisten kamen auf den letzten Drücker. Die Angst bei derart viel Prominenz die falsche Garderobe zu wählen, war allgegenwärtig. Welchen Farben 🎀 man vertrauen soll, scheint ringsherum Kopfzerbrechen bereitet zu haben. Meine gutgemeinten Ratschläge landeten wie üblich in der Mülltonne. Stattdessen griff man schamlos zu Algorithmen und künstlicher Intelligenz.
 
 Allzu viel verraten, will ich nicht. Mein Bauchgefühl signalisiert mir Alarmstufe rot. Will heissen ein Kampf auf Biegen und Brechen. Im Netz werden schon erste Quoten herumgereicht. Zum Glück irren sich auch die. La Macchia’s 999,9 🆘 Monferinis 333,3 🛟 Gina G+Bruno M 111,1 🤫 So eine Frechheit.  Dagegen Absolut nachvollziehbar Liddy+Thomas 1,9 👍 Eva+Markus 1,5 👏 Rosa+Marlen 1,1 🤝
-
-
-
-
-
-
 
 PREISE: Nach reiflicher Überlegung bin ich zum Schluss gekommen, dass Platz 1 „bevorzugt“ wird, Schliesslich geht’s um die Krone, auch wenn der Spass im Vordergrund steht. Das heisst, dass der Sieger mit Fr. 400.— bedacht wird. Die restlichen Fr. 110..— werden zwischen Platz 2 (Apéro-Gutschein Porto Sophie) Platz 3 (Fl. Wein) und Platz 51 🏮(Fl Kochwein 😎) aufgeteilt
