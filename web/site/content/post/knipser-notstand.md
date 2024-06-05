@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-05T05:25:32.921Z
 image: img/img_0510.jpeg
 ---
-Gestern erhielt ich einen verzweifelten Anruf 📞 aus dem Publikum. Die Dame war am Ende ihres Lateins, nachdem ihr Suchwort „Tormaschinen“ völligen „Unsinn“ ausgespuckt hatte. Ich versuchte sie zu beruhigen, sprach von Stürmerflaute und falscher 9. Aus der Patsche helfen, konnte ich ihr nicht.
+Gestern erhielt ich einen verzweifelten Anruf 📞 aus dem Publikum. Die Dame war am Ende ihres Lateins, nachdem ihr Suchwort „Tormaschinen“ völligen „Unsinn“ ausgespuckt hatte. Ich versuchte sie zu beruhigen, sprach von Stürmerflaute und falscher 9. Wirklich helfen, konnte ich ihr nicht.
 
 Warum ist Haaland ein Norweger und kein Däne? Wir hätten ab sofort ein grosses Problem weniger.  Qual der Wahl - das war einmal! Der stets zuverlässige Kane und der extraterrestrische Mbappé und dann… die Leere! Giroud ist ins Alter und aus der Mode gekommen! Die Deutschen probieren es oft mit der fingierten 9  Kai Havertz, Ronaldo zog in die Wüste🌵und Morata versagt regelmässig, wenn er die Kiste vor sich hat. Scamacca‘s Genauigkeit beschränkt sich aktuell noch auf seine Halsregion, (sein Tattoo ist ein Picasso) und Shaqiri arbeitet nur noch Teilzeit. Lewandowski wäre eine Alternative! Doch im Tricot der Polen ist er noch harmloser als Ciro.Immobile.
 
