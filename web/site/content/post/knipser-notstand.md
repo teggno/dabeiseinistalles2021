@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-06T04:26:47.196Z
 image: img/img_0510.jpeg
 ---
-Gestern erhielt ich einen verzweifelten Anruf 📞 aus dem Publikum. Die Dame war am Ende ihres Lateins, nachdem ihr Suchwort „Bomber“ völligen Unsinn ausgespuckt hatte. Ich versuchte sie zu beruhigen, sprach von  der momentanen Flaute im Sturm und versuchte ihr die falsche 9 zu erklären. Wirklich helfen, konnte ich ihr jedoch nicht.
+Gestern erhielt ich einen verzweifelten Anruf 📞 aus dem Publikum. Die Dame war am Ende ihres Lateins, nachdem ihr Suchwort „Bomber“ völligen Unsinn ausgespuckt hatte. Ich versuchte sie zu beruhigen, sprach von  der momentanen Flaute im Sturm und probierte ihr die falsche 9 näherzubrIngen. Wirklich helfen, konnte ich ihr jedoch nicht.
 
 Warum ist Haaland ein Norweger und kein Däne? Wir hätten ab sofort ein grosses Problem weniger. Die Qual der Wahl - das war einmal! Der stets zuverlässige Harry Kane, der galaktische Kylian Mbappé und dann die Leere! Giroud ist ins Alter und aus der Mode gekommen! Die Deutschen probieren es oft mit einer atypischen 9, Krankl 😎 hat schon lange aufgehört und Morata wird regelmässig von Versagensängsten geplagt. Scamacca‘s Genauigkeit beschränkt sich auf die Verzierung seiner Halsregion und Shaqiri arbeitet nur noch Teilzeit. Lewandowski wäre eine Alternative! Doch im Polen-Tricot ist er noch harmloser als Ciro Immobile.
 
