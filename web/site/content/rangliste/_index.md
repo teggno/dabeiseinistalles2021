@@ -9,8 +9,8 @@ song:
   url: https://www.youtube.com/watch?v=Opxhh9Oh3rg&pp=ygUZbm93IGFuZCB0aGVuIGJlYXRsZXMgMjAyMw%3D%3D
   image: img/jukebox.jpg
   description: >+
-    Dem B-Seite-Lied gebe ich maximum eine 4️⃣- 🤷‍♂️, das Video bekommt eine
-    -6️⃣ 🥳
+    Diesem  B-Seite-Liedchen der Beatles gebe ich maximum eine 4️⃣ bis 🤷‍♂️ Das
+    Video hingegen bekommt eine bis 6️⃣ 🥳
 
 
 type: rangliste
