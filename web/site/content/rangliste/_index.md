@@ -9,10 +9,9 @@ song:
   url: https://www.youtube.com/watch?v=Opxhh9Oh3rg&pp=ygUZbm93IGFuZCB0aGVuIGJlYXRsZXMgMjAyMw%3D%3D
   image: img/jukebox.jpg
   description: >+
-    Misere nicht nur im Sturm! Auch in der Musik läuft‘s miserabel. Wenn ein
-    B-Lied von den Beatles im Jahre 2023 an die Spitze der Hitparade schiesst,
-    ist mit den heutigen Top-Bands nicht allzu viel los 🤔…oder seh ich das
-    falsch 🤷‍♂️
+    Stürmerflaute im Fussball, Rückschritt in der Musik!Wenn ein B-Lied von den
+    Beatles im Jahre 2023 an die Spitze der Hitparade schiesst, kann mit den
+    aktuellen Melodien 🙈 etwas nicht stimmen 🤔…
 
 
 type: rangliste
