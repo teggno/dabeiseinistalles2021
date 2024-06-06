@@ -11,7 +11,7 @@ song:
   description: >+
     Stürmerflaute im Fussball, Rückschritt in der Musik!Wenn ein B-Lied von den
     Beatles im Jahre 2023 an die Spitze der Hitparade schiesst, kann mit den
-    aktuellen Melodien 🙈 etwas nicht stimmen 🤔…
+    aktuellen Melodien 🙈 etwas nicht stimmen 🤔
 
 
 type: rangliste
