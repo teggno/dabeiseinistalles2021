@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-24T08:10:26.379Z
 image: img/img_0509.jpeg
 ---
-Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog sein. Die Kommentare folgen dahinter. Leider wird es nicht möglich sein, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Es kann passieren, dass sie erst am anderen Morgen erscheint. Sollte sich mal ein Fehler einschleichen, dann meldet euch ungeniert. Vielen Dank für das Verständnis.
+Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog erscheinen. Die Kommentare folgen dahinter. Leider wird es mir nicht möglich sein, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Es kann passieren, dass sie erst am anderen Morgen erscheint. Sollte sich mal ein Fehler einschleichen, dann meldet euch ungeniert. Vielen Dank für das Verständnis.
 
 \
 01  ☀️00 Liddy+Thomas Schwemer           
