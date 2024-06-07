@@ -5,13 +5,12 @@ image: ""
 showPlaceholder: true
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX 🎸 The Rolling Stones  ▶️ You can‘t always get what you
-    want "
-  url: https://www.youtube.com/watch?v=Ef9QnZVpVd8&pp=ygUjeW91IGNhbid0IGFsd2F5cyBnZXQgd2hhdCB5b3Ugd2FudCA%3D
+  title: RAFFI‘S JUKEBOX 🎸 Adriano Celentano  ▶️ Angel
+  url: https://www.youtube.com/watch?v=FokmgYX-Cgc&pp=ygUXYW5nZWwgYWRyaWFubyBjZWxlbnRhbm8%3D
   image: img/jukebox.jpg
   description: |+
-    Kaum zu glauben 🤫 Jagger klaute diesen Titel von 2 unserer Jungs
-
+    
+    Für einmal nicht „azzurro“ 🩵 hier muss dringend ein Schutzengel her 🥳
 
 type: rangliste
 ---
