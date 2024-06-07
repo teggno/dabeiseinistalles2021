@@ -1,5 +1,5 @@
 ---
-title: Brücken 🌉 Bauer
+title: Brücken 🌉 bauer
 draft: true
 date: 2024-06-05T16:22:42.695Z
 image: img/img_0523.jpeg
