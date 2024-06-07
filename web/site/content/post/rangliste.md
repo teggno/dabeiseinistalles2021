@@ -29,7 +29,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog sein. Die Ko
 
 11 🔮 00 Bea Colaci
 
-12 ⛑️ 00 Iveta+Andy Hermann
+12 🐆00 Iveta+Andy Hermann
 
 13 🎻 00 Franco Monferini 
 
@@ -37,7 +37,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog sein. Die Ko
 
 15 👖 00 Miro Berger 
 
-16 🥁 00 Kuno Schwarzer
+16 ⛑️ 00 Kuno Schwarzer
 
 17  🌈 00 Zeljko Berger
 
