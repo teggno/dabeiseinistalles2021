@@ -1,7 +1,7 @@
 ---
 title: "Un Italia 🇮🇹 incognita "
 draft: true
-date: 2024-06-03T12:27:46.870Z
+date: 2024-06-07T07:57:09.197Z
 image: img/img_0519.jpeg
 ---
 Man muss nicht zwangsläufig Nietzsche heissen, um zu spüren, dass diese beiden ineinander verliebt sind. Wenn (keine) Blicke töten könnten, hätten beide „ausgedient“.  Hier der gefeierte „Hochstapler“, dort der tiefsinnige Philosoph!  Von Mancini, den wir noch im Sommer 2021 heilig gesprochen hatten, nachdem er in Lourdes vorstellig geworden war, sind wir an der Nase herumgeführt worden. Nach dem sensationellen EM-Triumph wollte er mit dem WM-Titel in Katar nachlegen. Das Aus in der Qualifikation gegen bescheidene Nordmazedonier rief Erinnerungen an die  66er Blamage gegen Nordkorea wach. Statt den Koffer gleich zu packen, liess er uns noch monatelang im Fegefeuer schmoren. Als er sich in einer Nacht- und Nebelaktion in die Wüste absetzte um nach (Öl)Millionen zu bohren, erinnerten wir uns spontan an das letzte Abendmahl und an Judas den Verräter!
