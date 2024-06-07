@@ -5,12 +5,13 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist nicht mehr verfügbar
 song:
-  title: RAFFI‘S JUKEBOX 🎸 The Beatles   ▶️ Now and Then
+  title: "RAFFI‘S JUKEBOX 🎸 The Rolling Stones  ▶️ You can‘t always get what you
+    want "
   url: https://www.youtube.com/watch?v=Opxhh9Oh3rg&pp=ygUZbm93IGFuZCB0aGVuIGJlYXRsZXMgMjAyMw%3D%3D
   image: img/jukebox.jpg
   description: >+
-    Ein tolles Video! Das Lied naja 🤷‍♂️, es gab schon Besseres  von den Jungs.
-    Egal, Hauptsache George+John sind wieder da 
+    Niemand hält es für möglich - aber Jagger klaute diesen Titel von 2 Jungs
+    aus unserer Mitte 
 
 
 type: rangliste
