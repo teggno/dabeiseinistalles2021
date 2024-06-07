@@ -61,7 +61,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog erscheinen. 
 
 27 🚜 00 Jacqueline+Klemenz Som
 
-28  🎈00 Martha Gimenez
+28  🎈00 Martha+Sergio Giménez
 
 29 ⛽️ 00 René Benz(ina)
 
