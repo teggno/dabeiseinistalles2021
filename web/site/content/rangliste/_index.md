@@ -7,11 +7,10 @@ placeholder: Diese Seite ist nicht mehr verfügbar
 song:
   title: "RAFFI‘S JUKEBOX 🎸 The Rolling Stones  ▶️ You can‘t always get what you
     want "
-  url: https://www.youtube.com/watch?v=Opxhh9Oh3rg&pp=ygUZbm93IGFuZCB0aGVuIGJlYXRsZXMgMjAyMw%3D%3D
+  url: https://www.youtube.com/watch?v=Ef9QnZVpVd8&pp=ygUjeW91IGNhbid0IGFsd2F5cyBnZXQgd2hhdCB5b3Ugd2FudCA%3D
   image: img/jukebox.jpg
-  description: >+
-    Niemand hält es für möglich - aber Jagger klaute diesen Titel von 2 Jungs
-    aus unserer Mitte 
+  description: |+
+    Kaum zu glauben 🤫 Jagger klaute diesen Titel von 2 unserer Jungs
 
 
 type: rangliste
