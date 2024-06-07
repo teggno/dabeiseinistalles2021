@@ -1,6 +1,6 @@
 ---
 title: Die Nacht von Sheffield
-draft: false
+draft: true
 date: 2024-06-07T07:38:34.516Z
 image: img/img_0503.webp
 bets:
@@ -939,4 +939,4 @@ Wie nicht anders zu erwarten war, verliessen die Eidgenossen das Hillsborough-St
 
 Fast 60 Jahre später begegnen sich die eng vertrauten Nachbarn erneut. Am 23 Juni kommt es zum Showdown in der Gruppe A. Von David gegen Goliath ist längst keine Rede mehr. Während die Deutschen gerade den steinigen Weg aus dem Tal der Tränen suchen, sind die Schweizer fester Bestandteil der oberen Mittelschicht. Speziell an wichtigen Turnieren melden sie sich regelmässig zum Dienst. Dauernörgler dürfen sich das ruhig mal hinter die Ohren schreiben. Italienische Teenager sind erwachsen geworden, ohne je an einer WM für ihr Land mitgefiebert zu haben.
 
-Seit Akanji bei Pep aufräumt, Xhaka in Leverkusen die Fäden zieht und Sommer auch in Mailand den Kasten dicht hält, leuchten in Deutschland die Warnlampen auf. Hätten die Schweizer im Sturmzentrum noch einen „Knipser“ zur Verfügung, wäre die Angst vor gezielten Angriffen noch grösser. Mein Typ Fifty-fifty mit leichtem Heimvorteil für die Gastgeber. Obwohl auch ihnen ein Bomber der regelmässig „müllert“ und ein Kaiser à la Beckenbauer fehlt.
+Seit Akanji bei Pep aufräumt, Xhaka in Leverkusen die Fäden zieht und Sommer auch in Mailand den Kasten dicht hält, leuchten in Deutschland die Warnlampen auf. Hätten die Schweizer im Sturmzentrum noch einen „Knipser“ zur Verfügung, wäre die Angst vor gezielten Angriffen noch grösser.  Obwohl auch ihnen ein Bomber der regelmässig „müllert“ und ein Kaiser à la Beckenbauer fehlt.
