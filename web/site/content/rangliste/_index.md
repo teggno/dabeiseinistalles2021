@@ -8,9 +8,9 @@ song:
   title: RAFFI‘S JUKEBOX 🎸 Adriano Celentano  ▶️ Angel
   url: https://www.youtube.com/watch?v=FokmgYX-Cgc&pp=ygUXYW5nZWwgYWRyaWFubyBjZWxlbnRhbm8%3D
   image: img/jukebox.jpg
-  description: |+
+  description: >+
     
-    Für einmal nicht „azzurro“ 🩵 hier muss dringend ein Schutzengel her 🥳
+    Adriano Nazionale hat gleich kapiert, dass wir dieses Jahr mit „Azzurro“ 🩵 nicht sehr weit kommen und hat uns glücklicherweise einen (Schutz)👼Engel geschickt 
 
 type: rangliste
 ---
