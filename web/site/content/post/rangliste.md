@@ -29,7 +29,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog sein. Die Ko
 
 11 🔮 00 Bea Colaci
 
-12 🐆00 Iveta+Andy Hermann
+12 👣 00 Iveta+Andy Hermann
 
 13 🎻 00 Franco Monferini 
 
@@ -79,7 +79,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog sein. Die Ko
 
 36 🏇🏻 00 Inge Berger+Gregor
 
-37 🛸 00 Janis Hermann
+37 🐆 00 Janis Hermann
 
 38 🧨 00 dog (Stefan Werner)
 
