@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2024-06-05T21:25:46.902Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
   title: RAFFI‘S JUKEBOX 🎸 Adriano Celentano  ▶️ Angel
