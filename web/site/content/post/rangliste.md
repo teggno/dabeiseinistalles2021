@@ -11,7 +11,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog erscheinen. 
 
 02 👑 00 Cosimo Cataldo                   
 
-03 ⛑️ 00 Leo Hensch
+03 ⛑️ 00 Margot+Leo Hensch
 
 04  ⛸00 Barbara+Urs Schläpfer
 
