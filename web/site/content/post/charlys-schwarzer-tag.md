@@ -1,6 +1,6 @@
 ---
 title: Die Nacht von Sheffield
-draft: true
+draft: false
 date: 2024-06-07T07:38:34.516Z
 image: img/img_0503.webp
 bets:
