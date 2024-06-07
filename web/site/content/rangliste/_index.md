@@ -2,8 +2,8 @@
 title: Rangliste
 date: 2024-06-05T21:25:46.902Z
 image: ""
-showPlaceholder: false
-placeholder: Diese Seite ist nicht mehr verfügbar
+showPlaceholder: true
+placeholder: Diese Seite ist aktuell nichtverfügbar
 song:
   title: "RAFFI‘S JUKEBOX 🎸 The Rolling Stones  ▶️ You can‘t always get what you
     want "
