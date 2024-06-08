@@ -11,3 +11,5 @@ Statt Deutschland, England, Frankreich und Spanien befänden sich plötzlich and
 Nibelungstreue ist uns Männern schon mehrfach zum Verhängnis geworden. Oft sind uns schon im Actelfinale die Eckpfeiler weggebrochen. Spiele, die auf dem Papier schon abgehakt schienen, erlebten in nervenaufreibenden Elfmeterkrimis eine unerwartete Wende. Ihr „wa hani dir gsait“ gab uns den Rest.
 
 Statistiken lügen nicht! Selten ist in den letzten 20 Jahren ein EM Turnier über die Bühne gegangen, ohne dass mindestens ein Underdog in die Phalanx der Grossen eingedrungen ist. 2021 Italien 😎 2016 Portugal und Wales, 2012 Portugal, 2008 Russland und die Türkei und schliesslich 2004 Griechenland und Tschechien. Und trotzdem haben die wenigsten von uns den Mut, Outsidern eine Chance zu geben.
+
+Predige nicht Wasser und trinke anschliessend Wein 🍷
