@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX 🎸 "
-  url: ""
+  title: RAFFI‘S JUKEBOX 🎸 Adriano Celentano ▶️ Angel
+  url: https://www.youtube.com/watch?v=ItVjlRsa07Q&pp=ygUXYWRyaWFubyBjZWxlbnRhbm8gYW5nZWw%3D
   image: img/jukebox.jpg
   description: "\n\n"
 type: rangliste
