@@ -12,4 +12,4 @@ Vorschlag abgelehnt? Dann wundert euch nicht, wenn  ein unerwarteter KO 🥊 Sch
 
 Statistiken lügen nicht! Selten ist in den letzten 20 Jahren ein EM Turnier über die Bühne gegangen, ohne dass mindestens ein Underdog in die Phalanx der Grossen eingedrungen ist. 2021 wars Italien 😎 2016 Portugal und Wales, 2012 Portugal, 2008 Russland und die Türkei und schliesslich 2004 Griechenland und Tschechien. Und trotzdem haben die wenigsten von uns den Mut, Outsidern eine Chance zu geben. 
 
-Würden wir männlichen Pragmatismus und weibliche Intuition zurückzugreifen würde sich das Feld der Kandidaten schlagartig erweitern. So schw
+Männliches Fachwissen und weibliche Intuition
