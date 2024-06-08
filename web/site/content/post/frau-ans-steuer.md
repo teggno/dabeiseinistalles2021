@@ -1,7 +1,7 @@
 ---
 title: Frauen ans Steuer⚠️
 draft: false
-date: 2024-05-31T09:38:24.701Z
+date: 2024-06-08T21:54:20.067Z
 image: img/img_0517.jpeg
 ---
 Gebt den Frauen das Kommando, sie wissen genau was sie tun! Wenn uns Männern das Händchen abhanden kommt, wird es Zeit fachspezifische Unterstützung anzufordern. Oft zerbrechen wir uns stundenlang den Kopf, wer wann gegen wen treffen wird. Es ginge jedoch bedeutend einfacher, wenn wir Rat bei unserer ♥️-Dame einholen würden. Überlassen wir doch das Ausfüllen des Stimmzettels inskünftig ihr. Schmeissen tut sie sowieso schon den ganzen Laden. Küche, Haushalt, „Patienten-Pflege“! Nur als Staffage bei der Namensgebung zu dienen, wird ihren Stärken nicht gerecht! Ja, liebe Machobrüder, gebt doch endlich auch diese allerletzte Bastion auf.
