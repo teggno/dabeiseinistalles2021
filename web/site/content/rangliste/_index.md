@@ -5,12 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Adriano Celentano  ▶️ Angel
-  url: https://www.youtube.com/watch?v=ItVjlRsa07Q&pp=ygUXYWRyaWFubyBjZWxlbnRhbm8gYW5nZWw%3D
+  title: RAFFI‘S JUKEBOX 🎸 Katja Ebstein  ▶️  🎉🎉🎉
+  url: https://www.youtube.com/watch?v=JsPiUDBbluQ&pp=ygUpa2F0amEgZWJzdGVpbiB3dW5kZXIgZ2lidCBlcyBpbW1lciB3aWVkZXI%3D
   image: img/jukebox.jpg
-  description: >+
-    
-    Adriano Nazionale hat gleich kapiert, dass wir italiani dieses Jahr mit „Azzurro“ 🩵 nicht sehr weit kommen und hat uns glücklicherweise einen (Schutz)👼Engel geschickt 
-
+  description: "\n\n"
 type: rangliste
 ---
