@@ -13,7 +13,3 @@ Vorschlag abgelehnt? Dann wundert euch nicht, wenn  ein unerwarteter KO 🥊 Sch
 Statistiken lügen nicht! Selten ist in den letzten 20 Jahren ein EM Turnier über die Bühne gegangen, ohne dass mindestens ein Underdog in die Phalanx der Grossen eingedrungen ist. 2021 wars Italien 😎 2016 Portugal und Wales, 2012 Portugal, 2008 Russland und die Türkei und schliesslich 2004 Griechenland und Tschechien. Und trotzdem haben die wenigsten von uns den Mut, Outsidern eine Chance zu geben. 
 
 Würden wir männlichen Pragmatismus und weibliche Intuition zurückzugreifen würde sich das Feld der Kandidaten schlagartig erweitern. So schw
-
-Meine Ankündigung, den Tipp von Lilly+Raffaele vor Turnierbeginn vor versammelter Kulisse preiszugeben, mache ich nun wahr. Frau Obimo, ich lege mein Schicksal in ihre Hände. Mach bitte kain Saich! Jo, du dörfschäs sälber vorträgä! Und? Frankreich 🇫🇷  England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹. Kane, Mbappe, Lukaku und Scamacca. Torschützenkönig wird Harry Kane und Europameister England.
-
-„Cara mia“, im Normalfall hättest du jetzt unseren Haussegen gefährdet. „Lá mia bella Italia“ einfach so im Regen ☔️ stehen zu lassen, hätte in anderen Jahren zum Bruch geführt. Doch dieses Mal verzeihe ich dir und ich bitte offiziell um Vergebung, Für all die Diffamierungen. Von wegen die Frau hat keinen blassen Schimmer! Du hast mich vor einem Riesenblödsinn bewahrt. Das werde ich dir nie vergessen 🥰
