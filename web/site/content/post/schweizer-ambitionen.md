@@ -1,7 +1,7 @@
 ---
 title: "Schweizer Ambitionen "
 draft: false
-date: 2024-06-08T22:05:27.545Z
+date: 2024-06-09T06:41:07.095Z
 image: img/img_0525.jpeg
 ---
 Was hat die Schweiz effektiv drauf? Wenn man Sascha Ruefer, einem der notorischen Nörgler Glauben schenken will, mehr als noch vor ein paar Wochen. Huggel war schon vorher positiver und Salzgeber lag so in der Mitte. Das Trio ist sichtlich bemüht mit Streicheleinheiten die Stimmung im Land auf die richtige Betriebstemperatur hochzuschaukeln.
