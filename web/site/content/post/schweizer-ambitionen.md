@@ -2,14 +2,14 @@
 title: "Schweizer Ambitionen "
 draft: true
 date: 2024-06-08T22:05:27.545Z
-image: img/img_0524.jpeg
+image: img/img_0525.jpeg
 ---
 Was hat die Schweiz effektiv drauf? Wenn man Sascha Ruefer, einem der notorischen Nörgler Glauben schenken will, mehr als noch vor ein paar Wochen. Huggel war schon vorher positiver und Salzgeber lag so in der Mitte. Das Trio ist sichtlich bemüht mit Streicheleinheiten die Stimmung im Land auf die richtige Betriebstemperatur hochzuschaukeln.
 
 Gehen wir von einem realistischein Szenario aus, dass die Schweiz in Gruppe A, hinter Gastgeber  Deutschland Platz 2 belegt. In Gruppe C passiert den Spaniern dasselbe. Ist es dann eine Schande, die Frage geht in erster Linie an Ruefers Kumpanen, wenn die Schweiz in einem etwaigen Achtelfinale rausfliegt?  Die Antwort müsste realistischerweise lauten: Nein!  Aber jetzt kommen wir zum springenden Punkt. Da sind diese (unüberbrückbaren) Differenzen um nicht zu sagen Vorurteile gegen Murat Yakin. Ressentiments die mit der Materie nichts zu tun haben. Ich mag den Typ, auch wenn er seine Rolex Uhren nicht mir sondern dubiosen Gestalten verschenkt hat. 
 
-Die Schweiz ist seit 30 Jahren regelmässiger Gast an grossen Turnieren. Die Leistungen sind und waren für ein Land dieser Grösse überdurchschnittlich. Immer wieder schaffen sie es dank sehr guter Arbeit, Spieler von internationaler Klasse herauszubringen. Sommer, Xhaka und Akanji kicken im Ausland in grossen Vereinen Ausser Gigi Donnarumma hat das meiner Landsleute in letzter Zeit fertiggebracht.
+Die Schweiz ist seit 30 Jahren regelmässiger Gast an grossen Turnieren. Die Leistungen sind und waren für ein Land dieser Grösse überdurchschnittlich. Immer wieder schaffen sie es dank sehr guter Arbeit, Spieler von internationaler Klasse herauszubringen. Sommer, Xhaka und Akanji kicken im Ausland in grossen Vereinen Ausser Gigi Donnarumma hat das keiner meiner Landsleute in letzter Zeit geschafft.
 
 Wo’s hapert und das weiss auch die nette Dame in meiner Nachbarschaft, ist dort vorne!  Da fehlt an allen Ecken und Enden eine durchschlagskräftige 9. Der die Dinger endlich man reinhaut. Fritz Künzli muss der letzte gewesen sein 😎.Lang lang ist’s her! nach. Schade das Shaqiri  nur noch auf 3 Zylindern läuft und Embolo Rückstand hat. Okafor und Andouni sind leider noch zu grün. Meine Hoffnungen ruhen, auch im Interesse eines gediegenen Ambiente, auf Garrinchas „kleinen Bruder“, den unberechenbaren Ndoye. Auch Vargas Nümmerli sind nicht zu verachten und Zuber könnte, wenn gesund, zum Liebling der Nation werden.
 
-Liebe Schweizer, seid lieb zueinander! Auch wenn noch nicht alle mitsingen, hat es doch die eine oder andere Hand zu euren Herzen geschafft. Wenn alle das italienische Motto „uno per tutti“ verinnerlichein sollten, sehe ich
+Liebe Schweizer, seid lieb zueinander! Auch wenn noch nicht alle mitsingen, liegt zumindest die eine oder andere Hand am richtigen Fleck. Unser „Lucianone“ (Spalletti) predigt „uno per tutti“. Ein frommer Wunsch für uns Italiener. Aber ihr habt das Zeug dazu, die Fussballwelt zu überraschen.
