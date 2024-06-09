@@ -107,4 +107,6 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog sein. Die Ko
 
 50 🧯00 Lucchi+Giacomo Zaccaria 
 
-51  🏮00 Lilly+Raffaele
+51  👩‍❤️‍👨00 Claudia+Markus Singer
+
+52  🏮00 Lilly+Raffaele
