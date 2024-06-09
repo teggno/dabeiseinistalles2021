@@ -12,4 +12,4 @@ Nibelungstreue ist uns Männern schon mehrfach zum Verhängnis geworden. Oft sin
 
 Statistiken lügen nicht! Selten ist in den letzten 20 Jahren ein EM Turnier über die Bühne gegangen, ohne dass mindestens ein Underdog in die Phalanx der Grossen eingedrungen ist. 2021 Italien 😎 2016 Portugal und Wales, 2012 Portugal, 2008 Russland und die Türkei und schliesslich 2004 Griechenland und Tschechien. Und trotzdem haben die wenigsten von uns den Mut, Outsidern eine Chance zu geben.
 
-Predige nicht Wasser und trinke Wein 🍷. Ich habe mir dieses Bonmot zu Herzen genommen und mein Schicksal in die Hände von Frau Obimo gelegt. Bis Mitte  Woche sollte sie mit ihrer Doktorarbeit fertig sein. Ob “Bella Italia“ die Operation wohl überlebt?
+Predige nicht Wasser und trinke Wein 🍷. Ich habe mir dieses Bonmot zu Herzen genommen und mein Schicksal in die Hände von Frau Obimo gelegt. Bis Mitte  Woche sollte sie mit ihrer Doktorarbeit fertig sein. Ob “Bella Italia“ die Operation überlebt?
