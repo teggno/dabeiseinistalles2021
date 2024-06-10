@@ -18,4 +18,4 @@ In puncto „Müller“ Nachfolge, ich meine den Gerd, passiert seit Jahren weni
 
 Zum Glück muss ich nicht den Nagelsmann spielen. Für mich wurde er aufgrund mangelnder Alternativen in diese Rolle gedrängt. Das Anforderungsprofil eines Nationaltrainers sieht anders aus. Mir kaut er zuviel an den Nägeln rum! Ist es die grosse Nervosität? Nicht nachzuvollziehen die frühe Staatsgarantie für meinen Ankläger. Hoffentlich kein Bumerang 🪃 
 
-Fazit: Deutschland landet dank Unterstützung von den Rängen unter den letzten 4, wenn ihnen nicht im Viertelfinale die Flamenco-Tönzer die Show stehlen. Im Finale sehe ich sie nicht. Dafür haben sie in meinen Augen zuwenig Qualität.
+Fazit: Deutschland landet dank Unterstützung von den Rängen unter den letzten 4, wenn ihnen nicht im Viertelfinale die Flamenco-Tänzer die Show stehlen. Im Finale sehe ich sie nicht. Dafür haben sie in meinen Augen zuwenig Qualität.
