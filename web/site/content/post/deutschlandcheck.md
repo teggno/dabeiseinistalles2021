@@ -12,4 +12,6 @@ Müsste ich in dieser Analyse die violettblauen „Fasnachtslibli“ einfliessen
 
 Kroos und nochmals Kroos. Seit dem Comeback ist die Selbsteinschätzung meiner deutschen Freunde auf einer Skala von 1-10 auf 11 gestiegen 😎. Keiner spielt die (Kurz) Pässe genauer als er. Seine Flankenbälle sind extrem gefährlich, finden aber selten einen Abnehmer. Er ist die ordnende Hand mit ordentlich viel Druck auf den Schultern. Mein Hauptaugenmerk liegt auf den 3 hinter der Spitze. Gündoğan ist der „Schwächste“. Im Nationaldress habe ich ihn noch nie „gut“ gesehen. Wirz und speziell Musiala sind zwei Zauberlehrlinge, die, wenn ihre Tricks funktionieren, zum Besten an dieser WM gehören.
 
-In puncto „Müller“ Nachfolge, ich meine den Gerd, passiert seit Jahren wenig bis gar nichts. Füllkrug verkörpert die Variante „Puncher“, Havertz jene des Filigran. Überzeugen tun sie mich beide nicht. Thomas Müller wird den
+In puncto „Müller“ Nachfolge, ich meine den Gerd, passiert seit Jahren wenig bis gar nichts. Füllkrug verkörpert die Variante „Puncher“, Havertz jene des Filigran. Überzeugend sind sie beide nicht. Thomas Müller wäre bei mir der „Non Playing Captain“. Auf dem Feld in führender Position Rolle, sehe ich ihn nicht.
+
+Zum Glück muss ich nicht den Nagelsmann spielen. Für mich wurde er wegen mangelnden Alternativen in diese Rolle gedrängt. Ein Nationaltrainer hat ein anderes Anforderungsprofil. Mir kaut er zuviel an den Nägeln rum
