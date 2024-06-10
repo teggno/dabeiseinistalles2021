@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-08T21:54:20.067Z
 image: img/img_0517.jpeg
 ---
-Gebt den Frauen das Kommando, sie wissen genau was sie tun! Wenn uns Männern das Händchen abhanden kommt, wird es Zeit fachspezifische Unterstützung anzufordern. Oft zerbrechen wir uns stundenlang den Kopf, wer wann gegen wen treffen wird. Es ginge jedoch bedeutend einfacher, wenn wir Rat bei unserer ♥️-Dame einholen würden. Überlassen wir doch das Ausfüllen des Stimmzettels inskünftig ihr. Schmeissen tut sie sowieso schon den ganzen Laden. Küche, Haushalt, „Patienten-Pflege“! Nur als Staffage bei der Namensgebung zu dienen, wird ihren Stärken nicht gerecht! Ja, liebe Machobrüder, gebt doch endlich auch diese allerletzte Bastion auf.
+Gebt den Frauen das Kommando, sie wissen genau was sie tun! Endlich liebe Machobrüder, seid ihr meinen Aufrufen gefolgt Wenn uns Männern das Händchen abhanden kommt, wiurde  es Zeit fachspezifische Unterstützung anzufordern. Oft zerbrechen wir uns stundenlang den Kopf, wer wann gegen wen treffen wird. Es ginge jedoch bedeutend einfacher, wenn wir Rat bei unserer ♥️-Dame einholen würden. Überlassen wir doch das Ausfüllen des Stimmzettels inskünftig ihr. Schmeissen tut sie sowieso schon den ganzen Laden. Küche, Haushalt, „Patienten-Pflege“! Nur als Staffage bei der Namensgebung zu dienen, wird ihren Stärken nicht gerecht! Ja, liebe Machobrüder, gebt doch endlich auch diese allerletzte Bastion auf.
 
 Statt Deutschland, England, Frankreich und Spanien befänden sich plötzlich andere Kaliber auf dem Zettel. Insidern zufolge funktioniert das in der Damenwelt so: Bildergalerie anklicken, Body inspizieren, Face-Analyse erstellen, Augenfarbe checken und fertig ist der Beau! Erst dann erfolgt der verstörte Blick auf die Stammeszugehörigkeit
 
