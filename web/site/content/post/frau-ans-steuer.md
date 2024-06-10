@@ -12,4 +12,4 @@ Nebst den üblichen Verdächtigen fielen mir letzthin unter Bergen von Dokumente
 
 Statistiken lügen nicht! Selten ist in den letzten 20 Jahren ein EM Turnier über die Bühne gegangen, ohne dass mindestens ein Underdog in die Phalanx der Grossen eingedrungen ist. 2021 Italien 😎 2016 Wales, 2012 Portugal, 2008 Russland und die Türkei und schliesslich 2004 Griechenland und Tschechien. Und trotzdem haben die wenigsten von uns den Mut, Outsidern eine Chance zu geben.
 
-Predige nicht Wasser und trinke Wein 🍷. Ich habe mir dieses Bonmot zu Herzen genommen und Frau Obimo die Akten übergeben. Bis Donnerstag sollte sie mit ihrer Doktorarbeit fertig sein. Ob “Bella Italia“ die Operation überlebt?
+Frauenquote rauf! Selbst Ich habe mich den Zeichen der Zeit gebeugt und Frau Obimo die Akten übergeben. Bis Donnerstag sollte sie mit ihrer Doktorarbeit fertig sein. Ob “Bella Italia“ die Operation überlebt?
