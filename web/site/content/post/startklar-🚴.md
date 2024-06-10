@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-21T11:25:23.876Z
 image: img/img_0498.jpeg
 ---
-Ausgeteilte Stimmzettel 50 - Vergessen 1 🫢 Weinkrämpfe weil vergessen 1 🥲! Eingegangene Stimmzettel 52, Leer 0, ohni 💶 5, mit 💰47, Ungültig 0❗️Binär 52, Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft ja sein Ohrwurm  den Sprung in meine Jukebox! Natürlich nur, wenn die helvetische Performance auf dem Rasen stimmt. Sollte die Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Wer in einem Atemzug mit den Beatles und den Stones genannt wird, hat es verdient am Prominententreff dabeizusein.
+Ausgeteilte Stimmzettel 50! Vergessen 1 🫢 Weinkrämpfe weil vergessen 1 🥲 Eingegangene Stimmzettel 52, Leer 0, ohni 💶 5, mit 💰47, Ungültig 0❗️Binär 52, Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft ja sein Ohrwurm  den Sprung in meine Jukebox! Natürlich nur, wenn die helvetische Performance auf dem Rasen stimmt. Sollte die Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Wer in einem Atemzug mit den Beatles und den Stones genannt wird, hat es verdient am Prominententreff dabeizusein.
 
 Es war wie immer, wenn unsere Runde zusammenkommt. Die meisten kamen auf den letzten Drücker. Die Angst bei derart viel Prominenz die falsche Garderobe zu wählen, war allgegenwärtig. Welchen Farben 🎀 man vertrauen soll, scheint ringsherum Kopfzerbrechen bereitet zu haben. Freundschaftsspiele denen man seit Jahren null Bedeutung schenkte, wurden bis aufs kleinste Detail seziert. Meine gutgemeinten Ratschläge landeten wie üblich in der Mülltonne. Stattdessen griff man schamlos zu Algorithmen und künstlicher Intelligenz.
 
