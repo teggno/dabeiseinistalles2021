@@ -14,6 +14,6 @@ Kroos und nochmals Kroos. Seit dem Comeback ist die Selbsteinschätzung meiner d
 
 In puncto „Müller“ Nachfolge, ich meine den Gerd, passiert seit Jahren wenig bis gar nichts. Füllkrug verkörpert die Variante „Puncher“, Havertz jene des Filigran. Überzeugend sind sie beide nicht. Thomas Müller wäre bei mir der „Non Playing Captain“ und Sané der Mann für knifflige Momente. Beide sind nicht mehr das, was sie mal waren.
 
-Zum Glück muss ich nicht den Nagelsmann spielen. Für mich wurde er aufgrund mangelnder Alternativen in diese Rolle gedrängt. Ein Nationaltrainer hat für mich ein anderes Anforderungsprofil. Mir kaut er zuviel an den Nägeln rum und die Staatsgarantie für meinen Ankläger könnte sich als  Bumerang 🪃 erweisen. Nervosität wo Ruhe verlangt wird. Warten wir ab.
+Zum Glück muss ich nicht den Nagelsmann spielen. Für mich wurde er aufgrund mangelnder Alternativen in diese Rolle gedrängt. Ein Nationaltrainer besitzt ein anderes Anforderungsprofil. Mir kaut er zuviel an den Nägeln rum und die Staatsgarantie für meinen Ankläger könnte sich als  Bumerang 🪃 erweisen. Nervosität wo Ruhe verlangt wird. Warten wir ab.
 
 Fazit: Deutschland landet unter den letzten 4, wenn nicht die Toreros zum Stolperstein werden. Im Finale sehe ich sie nicht. Dafür sind sie in meinen Augen zuwenig gut.
