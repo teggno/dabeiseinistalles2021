@@ -6,7 +6,7 @@ image: img/img_0526.jpeg
 ---
 Italia, Svizzera e adesso la Germania! So fühlen sich zumindest unsere nördlichen Nachbarn, die fast einen Drittel der Kompanie ausmachen, nicht benachteiligt. Englische, spanische, türkische und kroatische Staatsbürger mögen mir die Unterlassungssünde verzeihen
 
-Müsste ich in dieser Analyse die violettblauen „Fasnachtslibli“ einfliessen lassen, die jegliche Tradition über den Haufen werfen,  läge ich bei einer 4-5. Ob die Deutschen darüber informiert wurden, dass mein Juve in diesem farbenfrohen Dress jedesmal den Kürzeren zog?
+Müssten in dieser Kurz-Analyse die violettblauen „Fasnachtslibli“ miteinfliessen, die jegliche Tradition über den Haufen werfen, gäbe ich den Deutschen eine 4-5. Ob sie darüber informiert wurden, dass mein Juve in dieser farbenfrohen Tracht jedesmal den Kürzeren zog?
 
 Über den ehemaligen Weltklasse-Goalie will ich mich nicht mehr weiter äussern. Es läuft bereits eine Verleumdungsklage gegen mich. Aus dem Abwehrblock gilt es die Real-Säule „Rüdiger“ hervorzuheben. Alle andern inklusive Kimmich, der seit seiner Degradierung auf hinten rechts weit unter Normalform spielt, bewegen sich auf international akzeptablem Niveau.
 
