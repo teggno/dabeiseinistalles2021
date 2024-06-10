@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-08T21:54:20.067Z
 image: img/img_0517.jpeg
 ---
-Gebt den Frauen das Kommando, sie wissen genau was sie tun!  Schmeissen tun sie eh schon den ganzen Laden! Küche, Haushal, Patiente-Pflege. Nur als Staffage bei der Namensgebung zu dienen, wurde ihren Stärken nicht gerecht. Endlich, liebe Machobrüder, habt ihr losgelassen und das Schicksal in ihre Hände gelegt. Wozu haben wir uns ganze Nächte um die Ohren gehauen, „wer wann gegen wen“ wenn es auch anders geht.
+Gebt den Frauen das Kommando, sie wissen genau was sie tun!  Schmeissen tun sie eh schon den ganzen Laden! Küche, Haushal, Patienten-Pflege. Nur als Staffage bei der Namensgebung zu dienen, wurde ihren Stärken nicht gerecht. Endlich, liebe Machobrüder, habt ihr losgelassen und das Schicksal in ihre Hände gelegt. Wozu haben wir uns ganze Nächte um die Ohren gehauen, „wer wann gegen wen“ wenn es auch anders geht.
 
 Nebst den üblichen Verdächtigen fallen dieses Mal grosskalibrige Exoten auf 😎.  Georgien, Tschechien, Österreich und die Schweiz. Als schliesslich das IPad 🆘 signalisierte weil ein gewisser Yaaaaan 🥰 unter den besten Torschützen auftauchte, wurde mir die Sache suspekt. Als ich auch noch den Namen Gianluca Tamberi unter den Knipsern entdeckte, verstand ich die Welt mirInsidern zufolge funktioniert das in der Damenwelt so: Bildergalerie anklicken, Body inspizieren, Face-Analyse erstellen, Augenfarbe checken und fertig ist der Beau! Erst dann erfolgt der verstörte Blick auf die Stammeszugehörigkeit
 
