@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-10T12:48:37.349Z
 image: img/img_0526.jpeg
 ---
-Italia, Svizzera e adesso la Germania! So fühlen sich zumindest unsere nördlichen Nachbarn, die fast einen Drittel der Kompanie ausmachen, nicht benachteiligt. Englische, spanische, türkische und kroatische Staatsbürger mögen mir die Unterlassungssünde verzeihen
+Nachdem sich Italia+Helvetia einer Qualitätskontrolle unterziehen mussten, ist auch für Germania die Stunde der Wahrheit gekommen. Somit hätte ich das Gröbste hinter mir und 3/4 meiner Leserschaft wäre abgedeckt. Die Übriggebliebenen Spanier, Türken, Spanier und Kroaten bitte ich um Vergebung. Bestimmt wird sich die Möglichkeit ergeben, während den nächsten Wichen auf ihre Performance einzugehen. 
 
 Müssten in dieser Kurz-Analyse die violettblauen „Fasnachtslibli“ miteinfliessen, die jegliche Tradition über den Haufen werfen, gäbe ich den Deutschen eine 4-5. Ob sie darüber informiert wurden, dass meine „Alte Dame“ in dieser farbenfrohen Tracht jedesmal den Kürzeren zog?
 
