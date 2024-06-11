@@ -14,7 +14,7 @@ Kroos und nochmals Kroos. Seit dem Comeback ist die Selbsteinschätzung meiner d
 
 Mein Hauptaugenmerk liegt auf den Dreien hinter der Spitze. Gündoğan ist der mit Abstand „Schwächste“. Gibt’s keinen adäquateren Kapitän? Im Nationaldress habe ich ihn noch nie so richtig gut gesehen wie einst beim „Pep“. Wirz und speziell Musiala sind zwei Zauberlehrlinge, die, wenn ihre Tricks funktionieren, zum Besten an dieser Mini-WM gehören.
 
-In puncto „Müller“ Nachfolge, ich meine den Gerd, passiert seit Jahren wenig bis gar nichts. Füllkrug verkörpert die Variante „Puncher“, Havertz jene des Filigran. Überzeugend sind sie beide nicht. Thomas Müller wäre bei mir der „Non Playing Captain“ und Sané der Mann für knifflige Momente. Beide sind nicht mehr das, was sie mal waren.
+In puncto „Müller“ Nachfolge, ich meine den Gerd, passiert seit Jahren wenig bis gar nichts. Füllkrug verkörpert die Variante „Puncher“, Havertz jene des Filigran. Überzeugend sind sie beide nicht. Thomas Müller wäre bei mir der „Non Playing Captain“ und Sané der Mann für knifflige Situationen. Beide sind nicht mehr das, was sie mal waren.
 
 Zum Glück muss ich nicht den Nagelsmann spielen. Für mich wurde er aufgrund mangelnder Alternativen in diese Rolle gedrängt. Das Anforderungsprofil eines Nationaltrainers sieht anders aus. Mir kaut er zuviel an den Nägeln rum! Ist es die grosse Nervosität? Nicht nachzuvollziehen die frühe Staatsgarantie für meinen Ankläger. Hoffentlich kein Bumerang 🪃 
 
