@@ -10,7 +10,7 @@ Müssten in dieser Kurz-Analyse die violettblauen „Fasnachtslibli“ miteinfli
 
 Über den ehemaligen Weltklasse-Goalie will ich mich nicht weiter äussern. Es läuft bereits eine Verleumdungsklage gegen mich. Aus dem Abwehrblock gilt es die Real-Säule „Rüdiger“ hervorzuheben. Alle andern, inklusive Kimmich, der seit seiner Degradierung auf hinten rechts weit unter Normalform spielt, bewegen sich auf international akzeptablem Niveau.
 
-Kroos und nochmals Kroos. Seit dem Comeback ist die Selbsteinschätzung meiner deutschen Freunde auf einer Skala von 1-10 auf 11 gestiegen 😎. Keiner spielt die (KurzPässe  genauer als er. Ihm deswegen den Kosenamen „Kurzpasstoni“ zu verpassen, scheint mir jedoch einer Majestätsbeleidigung gleichzukommen. Seine Flankenbälle sind immer noch extrem gefährlich, finden aber selten einen Abnehmer. Er ist die ordnende Hand mit ordentlich viel Druck auf den Schultern.
+Kroos und nochmals Kroos. Seit seinem Comeback ist die Selbsteinschätzung meiner deutschen Freunde auf einer Skala von 1-10 auf 11 gestiegen 😎. Keiner spielt die 5-Meter-Pässe genauer als er. Ihm deswegen den Kosenamen „Kurzpasstoni“ zu verpassen, scheint mir jedoch einer Majestätsbeleidigung gleichzukommen. Seine Flankenbälle sind immer noch extrem gefährlich, finden aber selten einen Abnehmer. Er ist die ordnende Hand mit ordentlich viel Druck auf den Schultern.
 
 Mein Hauptaugenmerk liegt auf den Dreien hinter der Spitze. Gündoğan ist der mit Abstand „Schwächste“. Gibt’s keinen adäquateren Kapitän? Im Nationaldress habe ich ihn noch nie so richtig gut gesehen wie einst in Manchester beim „Pep“. Wirz und speziell Musiala sind zwei Zauberlehrlinge, die, wenn ihre Tricks funktionieren, zum Besten an dieser Mini-WM gehören.
 
