@@ -1,7 +1,7 @@
 ---
 title: Deutschlandcheck
 draft: true
-date: 2024-06-10T12:48:37.349Z
+date: 2024-06-11T19:02:54.357Z
 image: img/img_0526.jpeg
 ---
 Italien 4,5! Schweiz 5! Deutschland 5-! Manche werden mich jetzt für verrückt erklären und mir meine Berufslizenz entziehen wollen. „Fa niente“, mein Zwischen-Zeugnis steht!. 
