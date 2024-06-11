@@ -1,7 +1,7 @@
 ---
 title: Frauen ans Steuer⚠️
-draft: true
-date: 2024-06-08T21:54:20.067Z
+draft: false
+date: 2024-06-11T03:10:37.668Z
 image: img/img_0517.jpeg
 ---
 Gebt den Frauen das Kommando, sie wissen genau was sie tun!  Schmeissen tun sie eh schon den ganzen Laden! Küche, Haushalt, Patienten-Pflege. Nur als Staffage bei der Namensgebung zu dienen, wird ihren Stärken nicht gerecht. Endlich, liebe Machobrüder, habt ihr losgelassen und euer Schicksal in ihre Hände gelegt. Wozu haben wir uns ganze Nächte um die Ohren gehauen, „wer wann auf wen“ trifft, wenn es auch anders geht.
