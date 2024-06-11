@@ -16,6 +16,6 @@ Mein Hauptaugenmerk liegt auf den Dreien hinter der Spitze. Gündoğan ist der m
 
 In puncto „Müller-Nachfolge“, ich meine den Gerd, passiert seit Jahren wenig bis gar nichts. Füllkrug verkörpert die Variante „Puncher“, Havertz jene des Filigran. Überzeugend sind sie beide nicht. Thomas Müller wäre bei mir der „Non Playing Captain“ und Sané der Mann für knifflige Situationen. Beide sind nicht mehr das, was sie mal waren.
 
-Zum Glück muss ich nicht den Nagelsmann spielen. Einer der mangels Alternativen in diese Rolle gedrängt wurde. Das Anforderungsprofil eines Nationaltrainers sieht für mich anders aus. Mir kaut er zuviel an den Nägeln rum! Ist es die verständliche Nervosität oder die grosse Versagensangst? Nicht nachzuvollziehen ist die uneingeschränkte Staatsgarantie für meinen Ankläger. Hoffentlich wird das nicht zum Bumerang 🪃 
+Zum Glück muss ich nicht den Nagelsmann spielen. Einer der mangels Alternativen in diese Rolle gedrängt wurde. Das Anforderungsprofil eines Nationaltrainers sieht für mich anders aus. Mir kaut er zuviel an seinen Nägeln rum! Ist es die verständliche Nervosität oder die grosse Versagensangst? Nicht nachzuvollziehen ist die uneingeschränkte Staatsgarantie für meinen Ankläger. Hoffentlich wird das nicht zum Bumerang 🪃 
 
 Fazit: Deutschland landet dank Unterstützung von den Rängen unter den letzten 4, wenn ihnen nicht im Viertelfinale die Flamenco-Tänzer die Show stehlen. Auf dem obersten Podest sehe ich sie nicht. Dafür haben sie in meinen Augen zuwenig Qualität.
