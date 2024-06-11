@@ -14,4 +14,4 @@ Da konnte mir nur noch “Barbone“ helfen, der sich in der Damenwelt bestens a
 
 Statistiken lügen nicht! Selten ist in den letzten 20 Jahren ein EM Turnier über die Bühne gegangen, ohne dass mindestens ein Underdog in die Phalanx der Grossen eingedrungen ist. 2021 Italien 💙,  2016 Wales, 2012 Portugal, 2008 Russland und die Türkei und schliesslich 2004 Griechenland und Tschechien. Und trotzdem haben die wenigsten von uns den Mut, Outsidern eine Chance zu geben.
 
-Frauenquote rauf! Selbst ich habe  die Zeichen der Zeit erkannt und Frau Obimo die Akten übergeben. Bis Donnerstag sollte sie mit ihrer Doktorarbeit fertig sein. Ob “Bella Italia“ die Operation überlebt?
+Frauenquote rauf! Selbst ich habe  die Zeichen der Zeit erkannt und Frau Obimo die Akten übergeben. Bis Donnerstag sollte sie mit ihrer Doktorarbeit fertig sein. Ob “Bella Italia“ 🇮🇹 die Operation überlebt?
