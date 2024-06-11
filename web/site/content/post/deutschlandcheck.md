@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-11T19:02:54.357Z
 image: img/img_0526.jpeg
 ---
-Nach diversen Beschwerden aus dem deutschen Lager „referiere nicht ständig über die Taugenichtse, wende dich lieber einem der Mitfavoriten zu“, hole ich Versäumtes gerne nach. Somit habe ich das Gröbste hinter mir.
+Nach diversen Beschwerden aus dem deutschen Lager, „referiere nicht ständig über die Taugenichtse, wende dich lieber einem der Mitfavoriten zu“, hole ich Versäumtes gerne nach. Somit habe ich das Gröbste hinter mir.
 
 Stammtisch-Thema Nummer 1 in diesen Tagen, ist die frühzeitig ausgesprochene Staatsgarantie für Manuel Neuer! Wird sie noch zum Bumerang fragt man sich nicht mehr nur in Bayern, sondern im ganzen Land. Kann man ihm überhaupt noch (ver)trauen?  Ja, mit Abstrichen meint Fachexperten Lothar Matthäus. Eher nicht, wird sich sein Kontrahent aus Barcelona denken. Viel bringen wird es ihm nicht. Ausser wenn Neuer auch gegen Schottland patzen sollte. Dann wird die Hackordnung von der „Bild“ geregelt.
 
