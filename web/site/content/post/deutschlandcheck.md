@@ -4,11 +4,9 @@ draft: true
 date: 2024-06-10T12:48:37.349Z
 image: img/img_0526.jpeg
 ---
-Nachdem sich Italien und die Schweiz nacheinander einer Qualitätskontrolle unterzogen haben, ist auch für Deutschland die Stunde der Wahrheit gekommen. Somit hätte ich das Gröbste hinter mir. 
+Nachdem sich Italien und die Schweiz nacheinander einer Qualitätskontrolle unterzogen haben, ist auch für Deutschland die Stunde der Wahrheit gekommen. Somit hätte ich das Gröbste hinter mir.
 
-Müssten in dieser Kurz-Analyse die violettblauen „Fasnachtslibli“ miteinfliessen, die jegliche Tradition vermissen lassen, gäbe ich den Deutschen Note 4-5! Ob sie darüber informiert wurden, dass meine „Alte Dame“ in dieser farbenfrohen Tracht jedesmal den Kürzeren zog?
-
-Über den ehemaligen Weltklasse-Goalie will ich mich nicht weiter äussern. Es läuft bereits eine Verleumdungsklage gegen mich. Aus dem Abwehrblock gilt es die Real-Säule „Rüdiger“ hervorzuheben. Alle andern, inklusive Kimmich, der seit seiner Degradierung auf hinten rechts weit unter Normalform spielt, bewegen sich auf international akzeptablem Niveau.
+Über den ehemaligen Weltklasse-Goalie will ich mich hier nicht weiter äussern. Es läuft bereits eine Verleumdungsklage gegen mich. Aus dem Abwehrblock gilt es die Real-Säule „Rüdiger“ hervorzuheben. Alle andern, inklusive Kimmich, der seit seiner Degradierung auf hinten rechts weit unter Normalform spielt, bewegen sich auf international akzeptablem Niveau.
 
 Kroos und nochmals Kroos. Seit seinem Comeback ist die Selbsteinschätzung meiner deutschen Freunde auf einer Skala von 1-10 auf 11 gestiegen 😎. Keiner spielt die 5-Meter-Pässe genauer als er. Ihm deswegen den Kosenamen „Kurzpasstoni“ anzuhängen, scheint mir jedoch einer Majestätsbeleidigung gleichzukommen. Seine Flankenbälle sind immer noch extrem gefährlich, finden aber selten einen Abnehmer. Er ist die ordnende Hand mit ordentlich viel Druck auf den Schultern.
 
