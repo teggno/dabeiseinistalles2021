@@ -6,7 +6,7 @@ image: img/img_0526.jpeg
 ---
 Italien 4,5! Schweiz 5! Deutschland 5-! Manche werden mich jetzt für verrückt erklären und mir meine Berufslizenz entziehen wollen. „Fa niente“, mein Zwischen-Zeugnis steht!. 
 
-Einer der die Gesamtnote nach unten drückt, ist der ehemalige Weltklasse-Goalie, über den ich mich hier nicht weiter äussern möchte, weil seit meinem letzten Bericht, . Es eine Verleumdungsklage gegen mich läuft. Aus dem Abwehrblock gilt es die Real-Säule „Rüdiger“ hervorzuheben. Alle andern, inklusive Kimmich, der seit seiner Degradierung auf hinten rechts weit unter Normalform spielt, bewegen sich auf international akzeptablem Niveau.
+Einer der die deutsche Gesamtnote nach unten drückt, ist ihr ehemaliger Weltklasse-Goalie, über den ich mich hier nicht weiter äussern möchte, weil seit meinem letzten Bericht eine Verleumdungsklage gegen mich läuft. Aus dem Abwehrblock gilt es die Real-Säule „Rüdiger“ hervorzuheben. Alle andern, inklusive Kimmich, der seit seiner Degradierung auf hinten rechts weit unter Normalform spielt, bewegen sich auf international akzeptablem Niveau.
 
 Kroos und nochmals Kroos. Seit seinem Comeback ist die Selbsteinschätzung meiner deutschen Freunde auf einer Skala von 1-10 auf 11 gestiegen 😎. Keiner spielt die 5-Meter-Pässe genauer als er. Ihm deswegen den Kosenamen „Kurzpasstoni“ anzuhängen, scheint mir jedoch einer Majestätsbeleidigung gleichzukommen. Seine Flankenbälle sind immer noch extrem gefährlich, finden aber selten einen Abnehmer. Er ist die ordnende Hand mit ordentlich viel Druck auf den Schultern.
 
