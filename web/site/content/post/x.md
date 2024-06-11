@@ -4,12 +4,9 @@ draft: true
 date: 2024-06-05T16:22:42.695Z
 image: img/img_0523.jpeg
 ---
-„Ja, is denn heut scho Weihnachten!“ Nein, lieber Franz, erst üübermorgen. Einzigartig, grosszügig, charmant und manchmal grantig. Der dir anständig sagen konnte, was für ein Idiot du bist. Das Sommermärchen 2006 war sein Verdienst. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Oder dass ihr mich alle mal könnt, ihr Pharisäer. Erst feiert ihr mich und dann bewerft ihr mich mit Dreck! 
+„Ja, is denn heut scho Weihnachten!“ Nein, lieber Franz, erst üübermorgen. Einzigartig, grosszügig, charmant und manchmal grantig. Der dir anständig sagen konnte, was für ein Idiot du bist. Das Sommermärchen 2006 war sein Verdienst. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Oder dass ihr mich alle mal könnt, ihr Pharisäer. Erst feiert ihr mich und dann bewerft ihr mich mit Dreck! Schade, dass er nicht mehr da ist.
 
-\
-Nach diversen Beschwerden aus dem deutschen Lager, „referiere nicht ständig über die Taugenichtse, wende dich lieber einem der Mitfavoriten zu“, hole ich Versäumtes gerne nach. Somit habe ich das Gröbste hinter mir 🥳Deutschland gegen Schottland. Einen dankbareren Auftaktgegner Auf diesen Moment „plangemär scho lang“. Alles andere als ein deutscher Auftaktsieg wäre schädlich fürs Ambiente. Nicht nur in unserem Nachbarland, sondern auch hier bei uns.
-
-Neuer ja, Neuer nein! Wird die frühzeitig ausgesprochene Staatsgarantie zum Bumerang? Kann man ihm überhaupt noch (ver)trauen?  Ja, mit Abstrichen meint Fachexperte Lothar Matthäus. Ich halte mich nach der kürzlich eingegangenen Verleumdungsklage lieber raus. Wenn die „Bild“ nicht über neue Hackordnungen nachdenkt, wird es für ter Stegen extrem schwer.
+Seine Kommentare waren köstlich. Meistens kurz und bündig mit dieser feinen Ironie. Wenn er abwinkte, war er voll im Element. Als Lichtgestalt stand ihm das allemal zu! Niemand konnte ihm das Wasser reichen. Was hätte er wohl zum Manuel gesagt und dieser unumstösslichen Staatsgarantie. 
 
 Bessere Noten  Alle andern, inklusive Kimmich, der seit seiner Degradierung auf hinten rechts weit unter Normalform spielt, sind solides Mittelmass. Kroos und nochmals Kroos., wenn man weiter nach vorne rückt. Seit seinem Comeback ist die Selbsteinschätzung meiner deutschen Freunde auf einer Skala von 1-10 auf 11 gestiegen 😎. Keiner spielt die 5-Meter-Pässe genauer als er. Ihm deswegen den Kosenamen „Kurzpasstoni“ anzuhängen, geht in Richtung Beleidigung “ihrer Majestät„. Seine Flankenbälle sind immer noch extrem gefährlich, finden aber selten einen Abnehmer. Er ist die ordnende Hand mit ordentlich viel Druck auf den Schultern.
 
