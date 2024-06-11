@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-05T16:22:42.695Z
 image: img/img_0523.jpeg
 ---
-„Ja, is denn heut scho Weihnachten!“ Nein, lieber Franz, erst üübermorgen. Einzigartig, grosszügig, charmant und manchmal grantig. Der dir anständig sagen konnte, was für ein Idiot du bist. Das Sommermärchen 2006 war sein Verdienst. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Oder dass ihr mich alle mal könnt, ihr Pharisäer. Zuerst lobt ihr mich über den grünen Klee und dann bewerft ihr mich mit Dreck! Schade, dass er nicht mehr da ist. 
+„Ja, is denn heut scho Weihnachten!“ Nein, lieber Franz, erst üübermorgen. Einzigartig, grosszügig, charmant und manchmal grantig. Der dir anständig sagen konnte, was für ein Idiot du bist. Das Sommermärchen 2006 war sein Verdienst. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Oder dass ihr mich alle mal könnt, ihr Pharisäer. Erst feiert ihr mich und dann bewerft ihr mich mit Dreck! 
 
 \
 Nach diversen Beschwerden aus dem deutschen Lager, „referiere nicht ständig über die Taugenichtse, wende dich lieber einem der Mitfavoriten zu“, hole ich Versäumtes gerne nach. Somit habe ich das Gröbste hinter mir 🥳Deutschland gegen Schottland. Einen dankbareren Auftaktgegner Auf diesen Moment „plangemär scho lang“. Alles andere als ein deutscher Auftaktsieg wäre schädlich fürs Ambiente. Nicht nur in unserem Nachbarland, sondern auch hier bei uns.
