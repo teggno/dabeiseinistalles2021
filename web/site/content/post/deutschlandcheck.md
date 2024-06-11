@@ -4,13 +4,11 @@ draft: true
 date: 2024-06-11T19:02:54.357Z
 image: img/img_0526.jpeg
 ---
-Nach diversen Beschwerden aus dem deutschen Lager „referiere nicht ständig über die Taugenichtse, wende dich lieber einem der Mitfavoriten zu“ hole ich Versäumtes nach. Somit habe ich das Gröbste hinter mir.
+Nach diversen Beschwerden aus dem deutschen Lager „referiere nicht ständig über die Taugenichtse, wende dich lieber einem der Mitfavoriten zu“, hole ich Versäumtes gerne nach. Somit habe ich das Gröbste hinter mir.
 
-Stammtisch-Thema Nummer 1 iin diesen Tagen, die frühzeitig ausgesprochene Staatsgarantie für Manuel Neuer! Wird sie noch zum Bumerang fragt man sich nicht mehr nur in Bayern, sondern im ganzen Land. Kann man ihm noch (ver)trauen?  Ja, mit Abstrichen meint Fachexperten Lothar Matthäus. Eher nicht, wird sich sein Kontrahent aus Barcelona denken. Viel bringen wird es ihm nicht. Ausser wenn Neuer auch gegen Schottland patzen sollte. Dann wird die Hackordnung von der „Bild“ geregelt.
+Stammtisch-Thema Nummer 1 in diesen Tagen, ist die frühzeitig ausgesprochene Staatsgarantie für Manuel Neuer! Wird sie noch zum Bumerang fragt man sich nicht mehr nur in Bayern, sondern im ganzen Land. Kann man ihm überhaupt noch (ver)trauen?  Ja, mit Abstrichen meint Fachexperten Lothar Matthäus. Eher nicht, wird sich sein Kontrahent aus Barcelona denken. Viel bringen wird es ihm nicht. Ausser wenn Neuer auch gegen Schottland patzen sollte. Dann wird die Hackordnung von der „Bild“ geregelt.
 
-Vo wurde kurzfristig gestrichen. Einer der die deutsche Gesamtnote nach untenAus dem Abwehrblock ragt die Real-Säule Rüdiger heraus. Alle andern, inklusive Kimmich, der seit seiner Degradierung auf hinten rechts weit unter Normalform spielt, 
-
-Kroos und nochmals Kroos. Seit seinem Comeback ist die Selbsteinschätzung meiner deutschen Freunde auf einer Skala von 1-10 auf 11 gestiegen 😎. Keiner spielt die 5-Meter-Pässe genauer als er. Ihm deswegen den Kosenamen „Kurzpasstoni“ anzuhängen, scheint mir jedoch einer Majestätsbeleidigung gleichzukommen. Seine Flankenbälle sind immer noch extrem gefährlich, finden aber selten einen Abnehmer. Er ist die ordnende Hand mit ordentlich viel Druck auf den Schultern.
+Aus dem Abwehrblock, der Neuer entlasten sollte, ragt die Real-Säule Rüdiger heraus. Alle andern, inklusive Kimmich, der seit seiner Degradierung auf hinten rechts weit unter Normalform spielt, sind solides Mittelmass. Kroos und nochmals Kroos., wenn man weiter nach vorne rückt. Seit seinem Comeback ist die Selbsteinschätzung meiner deutschen Freunde auf einer Skala von 1-10 auf 11 gestiegen 😎. Keiner spielt die 5-Meter-Pässe genauer als er. Ihm deswegen den Kosenamen „Kurzpasstoni“ anzuhängen, scheint mir jedoch einer Majestätsbeleidigung gleichzukommen. Seine Flankenbälle sind immer noch extrem gefährlich, finden aber selten einen Abnehmer. Er ist die ordnende Hand mit ordentlich viel Druck auf den Schultern.
 
 Mein Hauptaugenmerk liegt auf den Dreien hinter der Spitze. Gündoğan ist der mit Abstand „Schwächste“. Gibt’s keinen adäquateren Kapitän? Im Nationaldress habe ich ihn noch nie so richtig gut gesehen wie einst in Manchester beim „Pep“. Wirz und speziell Musiala sind zwei Zauberlehrlinge, die, wenn ihre Tricks funktionieren, zum Besten an dieser Mini-WM gehören.
 
