@@ -4,6 +4,8 @@ draft: true
 date: 2024-06-11T19:02:54.357Z
 image: img/img_0526.jpeg
 ---
+Nach diversen Beschwerden aus dem deutschen Lager „referiere nicht ständig über die Taugenichtse, wende dich lieber einem der Mitfavoriten zu“ hole ich Versäumtes nach. Somit habe ich das Gröbste hinter mir.
+
 Wird die frühzeitig ausgesprochene Staatsgarantie für Manuel Neuer zum Bumerang? Nach Bayern hält auch Deutschland den Atem an. Kann man ihm noch (ver)trauen? Eher nicht, wird sich sein Kontrahent ter Stegen im stillen Kämmerlein denken. Viel bringen wird es ihm nicht. Sein Vorstellungsgespräch wurde kurzfristig gestrichen. Einer der die deutsche Gesamtnote nach untenAus dem Abwehrblock ragt die Real-Säule Rüdiger heraus. Alle andern, inklusive Kimmich, der seit seiner Degradierung auf hinten rechts weit unter Normalform spielt, 
 
 Kroos und nochmals Kroos. Seit seinem Comeback ist die Selbsteinschätzung meiner deutschen Freunde auf einer Skala von 1-10 auf 11 gestiegen 😎. Keiner spielt die 5-Meter-Pässe genauer als er. Ihm deswegen den Kosenamen „Kurzpasstoni“ anzuhängen, scheint mir jedoch einer Majestätsbeleidigung gleichzukommen. Seine Flankenbälle sind immer noch extrem gefährlich, finden aber selten einen Abnehmer. Er ist die ordnende Hand mit ordentlich viel Druck auf den Schultern.
