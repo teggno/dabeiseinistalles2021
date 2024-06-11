@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-11T03:10:37.668Z
 image: img/img_0517.jpeg
 ---
-Gebt den Frauen das Kommando, sie wissen genau was sie tun!  Schmeissen tun sie eh schon den ganzen Laden! Küche, Haushalt, Patienten-Pflege. Nur als Staffage bei der Namensgebung zu dienen, wird ihren Stärken nicht gerecht. Endlich, liebe Machobrüder, habt ihr losgelassen und euer Schicksal in ihre Hände gelegt. Wozu haben wir uns ganze Nächte um die Ohren gehauen, „wer wann auf wen“ trifft, wenn es auch anders geht.
+Gebt den Frauen das Kommando, sie wissen genau was sie tun!  Schmeissen tun sie eh schon den ganzen Laden! Küche, Haushalt, Patienten-Pflege. Nur als Staffage bei der Namensgebung zu dienen, wird ihren Stärken nicht gerecht. Endlich, liebe Machobrüder, habt ihr losgelassen und euer Schicksal in ihre Hände gelegt. Wozu haben wir uns ganze Nächte um die Ohren gehauen, wer wann auf wen trifft, wenn es auch anders geht.
 
 Nebst den üblichen Verdächtigen fielen mir letzthin unter Bergen von Dokumenten (7 Rückmeldungen 😎) ein paar grosskalibrige Exoten auf 🫢.  Georgien, Tschechien, Österreich und die Schweiz. Weiter kein Problem, sagte ich mir, ist doch mal was Neues. Als jedoch das IPad 🆘 signalisierte weil ein gewisser Yaaaaan 🥰 unter den besten Torschützen auftauchte, wurde mir die Sache etwas suspekt. Als ich auch noch den Hochspringer Gianluca Tamberi (leider nicht zu verlinken) mit dem Hinweis „für den geh ich über glühende Kohlen“ unter den “Bombern“ entdeckte, verstand ich die Welt nicht mehr.
 
