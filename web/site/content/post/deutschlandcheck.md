@@ -6,7 +6,7 @@ image: img/img_0526.jpeg
 ---
 Nachdem sich Italia+Helvetia einer Qualitätskontrolle unterziehen mussten, ist auch für Germania die Stunde der Wahrheit gekommen. Somit hätte ich das Gröbste hinter mir und 3/4 meiner Leserschaft wäre abgedeckt. Die  übriggebliebenen Spanier, Türken, Spanier und Kroaten bitte ich um Vergebung. Bestimmt wird sich die Möglichkeit ergeben, während den kommenden Wichen näher auf ihre Performance einzugehen. 
 
-Müssten in dieser Kurz-Analyse die violettblauen „Fasnachtslibli“ miteinfliessen, die jegliche Tradition vermissen lassen, gäbe ich den Deutschen eine 4-5! Ob sie darüber informiert wurden, dass meine „Alte Dame“ in dieser farbenfrohen Tracht jedesmal den Kürzeren zog?
+Müssten in dieser Kurz-Analyse die violettblauen „Fasnachtslibli“ miteinfliessen, die jegliche Tradition vermissen lassen, gäbe ich den Deutschen Note 4-5! Ob sie darüber informiert wurden, dass meine „Alte Dame“ in dieser farbenfrohen Tracht jedesmal den Kürzeren zog?
 
 Über den ehemaligen Weltklasse-Goalie will ich mich nicht mehr weiter äussern. Es läuft bereits eine Verleumdungsklage gegen mich. Aus dem Abwehrblock gilt es die Real-Säule „Rüdiger“ hervorzuheben. Alle andern inklusive Kimmich, der seit seiner Degradierung auf hinten rechts weit unter Normalform spielt, bewegen sich auf international akzeptablem Niveau.
 
