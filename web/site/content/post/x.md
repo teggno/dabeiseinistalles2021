@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-05T16:22:42.695Z
 image: img/img_0523.jpeg
 ---
-„Ja, is denn heut scho Weihnachten!“ Nein, lieber Franz, erst üübermorgen. Einzigartig, grosszügig, charmant und manchmal grantig. Der dir anständig sagen konnte, was für ein Idiot du bist. Das Sommermärchen 2006 war sein Verdienst. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Oder dass ihr mich alle mal könnt, ihr Pharisäer. Erst feiert ihr mich und dann bewerft ihr mich mit Dreck! Schade, dass er nicht mehr da ist.
+„Ja, is denn heut scho Weihnachten!“ Nein, lieber Franz, erst übermorgen.Einzigartig, grosszügig, charmant und manchmal grantig. Der dir anständig sagen konnte, was für ein Idiot du bist. Das Sommermärchen 2006 war sein Verdienst. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Oder dass ihr mich alle mal könnt, ihr Pharisäer. Erst feiert ihr mich und dann bewerft ihr mich mit Dreck! Schade, dass er nicht mehr da ist.
 
 Seine Kommentare waren köstlich. Meistens kurz und bündig mit dieser feinen Ironie. Wenn er abwinkte, war er voll im Element. Als Lichtgestalt stand ihm das allemal zu! Niemand konnte ihm das Wasser reichen. Was hätte er wohl zum Manuel gesagt und dieser unumstösslichen Staatsgarantie. 
 
