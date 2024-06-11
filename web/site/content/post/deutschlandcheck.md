@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-10T12:48:37.349Z
 image: img/img_0526.jpeg
 ---
-Nachdem sich Italia+Helvetia einer Qualitätskontrolle unterzogen haben, ist auch für Germania die Stunde der Wahrheit gekommen. Somit hätte ich das Gröbste hinter mir und 3/4 der Suchtgemeinde  wäre abgedeckt. Die  übriggebliebenen Spanier, Türken, Spanier und Kroaten bitte ich um Vergebung. Bestimmt wird sich die Möglichkeit ergeben, während den kommenden Wichen näher auf ihre Performance einzugehen. 
+Nachdem sich Italia+Helvetia einer Qualitätskontrolle unterzogen haben, ist auch für Germania die Stunde der Wahrheit gekommen. Somit hätte ich das Gröbste hinter mir und 3/4 der “Pokerrunde“ wäre abgedeckt. Die  übriggebliebenen Spanier, Türken, Spanier und Kroaten bitte ich um Vergebung. Bestimmt wird sich die Möglichkeit ergeben, während den kommenden Wichen näher auf ihre Performance einzugehen. 
 
 Müssten in dieser Kurz-Analyse die violettblauen „Fasnachtslibli“ miteinfliessen, die jegliche Tradition vermissen lassen, gäbe ich den Deutschen Note 4-5! Ob sie darüber informiert wurden, dass meine „Alte Dame“ in dieser farbenfrohen Tracht jedesmal den Kürzeren zog?
 
