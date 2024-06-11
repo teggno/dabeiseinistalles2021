@@ -10,6 +10,6 @@ song:
   image: img/jukebox.jpg
   description: |
     
-    Starke Frauen braucht das Land
+    Starke Frauen 💁🏻‍♀️ braucht das Land
 type: rangliste
 ---
