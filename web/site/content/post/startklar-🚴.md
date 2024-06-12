@@ -10,7 +10,7 @@ Es ist wie immer, wenn unsere Pokerrunde zusammenkommt. 2/3 kamen auf den letzte
 
 Was mich schier erschüttert hat, ist die in Vergessenheit geratene Nation der Pizza 🍕 Bäcker. Nur ein paar wenige Partisanen haben die Stellung gehalten. Möge ihnen Göttin Fortuna wohlwollend gesinnt sein. Ansonsten dürfte es zu einer Neuauflage der Schlacht am Morgarten kommen. “Dä Stauffacher, dä Fürscht und dä von Melchtal“ gingen auf tutti und notierten unten rechts die Schweiz. Wenn Quoten eine Aussagekraft besitzen sollten, gehen die La Macchias des öfteren mit der Roten Laterne spazieren, während die Schwemers im Reisebüro bereits eine Anzahlung geleistet haben.
 
-Das letzte Wort  hat wie üblich Frau Obimo. Mal schauen was ihr in den Sinn gekommen ist.. Lilly bisch parat?  Frankreich 🇫🇷  England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹. Kane, Mbappe, Lukaku und Scamacca. Torschützenkönig Harry Kane und Europameister England.
+Das letzte Wort  hat wie üblich Frau Obimo. Mal schauen was ihr über den Weg gelaufen ist. Lilly bisch parat?  d‘Franzosä 🇫🇷 d’Engländer 🏴󠁧󠁢󠁥󠁮󠁧󠁿 di Tütschä 🇩🇪 und Portugisä 🇵🇹. Kane, Mbappe, Lukaku und Scamacca sind fürs Einnetzen zuständig. Torschützenkönig wird Harry Kane und Europameister endlich endlich England.
 
 Normalerweise wären jetzt die Fetzen geflogen. Doch dieses Mal begreife ich deinen Cut. Du hast vollkommen Recht, Italien aufzulisten, wäre reiner Selbstmord. 
 
