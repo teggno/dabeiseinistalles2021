@@ -10,7 +10,7 @@ Was er wohl gesagt hätte zur Staatsgarantie für Manuel Neuer und zum Meinungsu
 
 In puncto „Müller-Nachfolge“, ich meine den Gerd, passiert seit Jahren wenig bis gar nichts. Füllkrug ist kein Hrubesch und Havertz höchstens eine Lösung auf Zeit. Thomas Müller scheint mir prädestiniert für die Rolle des „Non Playing Captain“ und Sané als Mann für die kniffligen Situationen. Beide sind nicht mehr das, was sie mal waren.
 
-Kroos und nochmals Kroos. Seit seinem überraschenden Comeback ist die Selbsteinschätzung meiner deutschen Freunde auf einer Skala von 1-10 auf 11 gestiegen 😎. Keiner spielt die 5-Meter-Pässe genauer als er. Ihm deswegen den Kosenamen „Kurzpasstoni“ anzuhängen, geht in Richtung Beleidigung „ihrer Majestät“. Seine Flankenbälle sind inach wie vor extrem gefährlich, finden aber selten einen Abnehmer. Er ist die ordnende Hand mit ordentlich viel Druck auf den Schultern.
+Kroos und nochmals Kroos. Seit seinem überraschenden Comeback ist die Selbsteinschätzung meiner deutschen Freunde auf einer Skala von 1-10 auf 11 gestiegen 😎. Keiner spielt die 5-Meter-Pässe genauer als er. Ihm deswegen den Kosenamen „Kurzpasstoni“ anzuhängen, geht in Richtung Beleidigung „ihrer Majestät“. Seine Flankenbälle sind nach wie vor extrem gefährlich, finden aber selten einen Abnehmer. Er ist die ordnende Hand mit ordentlich viel Druck auf den Schultern.
 
 Mein Hauptaugenmerk liegt auf den Dreien hinter der Spitze. Gündoğan ist das mit Abstand schwächste Glied. Noch nie hat er im Nationaldress das gezeigt, was ihn bei Pep so beliebt machte. Wirz und speziell Musiala sind zwei Zauberlehrlinge, die, wenn ihre Tricks funktionieren, zum Besten an dieser Mini-WM gehören.
 
