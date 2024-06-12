@@ -1,6 +1,6 @@
 ---
 title: Weit und breit kein Kaiser
-draft: true
+draft: false
 date: 2024-06-12T08:25:54.592Z
 image: img/img_0527.jpeg
 ---
