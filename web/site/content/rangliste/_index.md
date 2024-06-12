@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Mary J. Blige & U2 ▶️ One
-  url: https://www.youtube.com/watch?v=ZpDQJnI4OhU&pp=ygUXdTIgdW5kIG1hcnkgaiBibGlnZSBvbmU%3D
+  title: RAFFI‘S JUKEBOX 🎸 Katja Ebstein ▶️ Wunder gibt es immer wieder
+  url: https://www.youtube.com/watch?v=veEHPthI3kY&pp=ygUpa2F0amEgZWJzdGVpbiB3dW5kZXIgZ2lidCBlcyBpbW1lciB3aWVkZXI%3D
   image: img/jukebox.jpg
   description: |
     
