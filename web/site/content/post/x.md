@@ -14,4 +14,6 @@ Kroos und nochmals Kroos. Seit seinem überraschenden Comeback ist die Selbstein
 
 Nicht nur Baustellen auch Kunstschätze hat das Land 🇩🇪. Ich denke da in erster Linie an die beiden Zauberlehrlinge Musiala und Wirz, die, wenn sie ihre Tricks auspacken, zum Besten an dieser Mini-WM gehören. Zum Glück muss ich nicht den Nagelsmann spielen. Ich hätte Angst um meine Fingernägel. Ist er nun eine Verlegenheitslösung oder hat er mehr drauf? Ein guter Vereinstrainer muss nicht zwangsläufig auf Anhieb ein erfolgreicher Bondscoach sein!
 
-Trotz vieler Bedenken erwarte ich die Deutschen dank Heimvorteil und mittlerer Reife unter den letzten 4! Ein weiterer Flop wäre unverzeihlich und würde das viel zitierte Sommermärchen abrupt beenden. Aufgepasst auf die Flamenco-Tänzer im Viertelfinale. Sie erwiesen sich in der Vergangenheit meistens als sehr unangenehm!  Wenn am Freitag Heidi Beckenbauer den EM-Pokal
+Trotz vieler Bedenken erwarte ich die Deutschen dank Heimvorteil und mittlerer Reife unter den letzten 4! Ein weiterer Flop wäre unverzeihlich und würde das viel zitierte Sommermärchen abrupt beenden. Aufgepasst auf die Flamenco-Tänzer im Viertelfinale. Sie erwiesen sich in der Vergangenheit meistens als sehr unangenehm! 
+
+Wenn am Freitag bei der Eröffnungsfeier Heidi Beckenbauer den EM-Pokal ins Stadion trägt, dürfte es einen Moment lang ganz still werden im Stadion. Franz wird sich die Sache von da oben aus anschauen und wenn er in unseren Gedanken liest, auf seine typische Art schmunzeln! So einen wirds nie mehr geben!
