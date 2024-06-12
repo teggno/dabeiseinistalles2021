@@ -10,7 +10,7 @@ Es ist wie immer, wenn unsere Pokerrunde zusammenkommt. 2/3 kamen auf den letzte
 
 Auf den ersten Blick ist eines unübersehbar. Der Niedergang einer Weltmacht! Nur Meyer-Burger fiel in diesen Tagen noch tiefer. Wenn selbst die letzten Partisanen die schwarze Flagge 🏴 hissen, muss man sehr besorgt sein, dass es nicht zu einem Desaster kommt. Ein wüstes „Gemetzel“ scheint vorprogrammiert. Morgarten war ein Pappenstiel. Dä Stauffacher und zwei seiner Kollegen gingen auf tutti und notierten unten rechts die Schweiz. Auch die Quoten besitzen hin und wieder eine Aussagekraft. Schenkt man ihnen Glauben gehen die La Macchias des öfteren mit der Roten Laterne spazieren. Zac, der Ananas liebt, bekommt sogar eine goldene mit auf den Weg. Unfassbar was vorne im Feld passiert! Schwemers Quote liegt bei 1. Ist es am Ende ein Fehler im System?
 
-Das letzte Wort  hat Frau Obimo. Mal schauen was sie aus dem Hut zaubert. Lilly bisch parat?  Frankreich 🇫🇷  England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹. Kane, Mbappe, Lukaku und Scamacca. Torschützenkönig Harry Kane und Europameister England.
+Das letzte Wort  hat wie üblich Frau Obimo. Mal schauen was ihr in den Sinn gekommen ist.. Lilly bisch parat?  Frankreich 🇫🇷  England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹. Kane, Mbappe, Lukaku und Scamacca. Torschützenkönig Harry Kane und Europameister England.
 
 Normalerweise wären jetzt die Fetzen geflogen. Doch dieses Mal verstehe ich deine Überlegungen. Du hast vollkommen Recht, Italien aufzulisten, wäre reiner Selbstmord. Du hast mich vor einem Riesenblödsinn bewahrt. Das werde ich dir nie vergessen 🥰
 
