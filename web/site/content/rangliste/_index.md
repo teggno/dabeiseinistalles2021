@@ -8,6 +8,8 @@ song:
   title: RAFFI‘S JUKEBOX 🎸 Katja Ebstein ▶️ Wunder gibt es immer wieder
   url: https://www.youtube.com/watch?v=veEHPthI3kY&pp=ygUpa2F0amEgZWJzdGVpbiB3dW5kZXIgZ2lidCBlcyBpbW1lciB3aWVkZXI%3D
   image: img/jukebox.jpg
-  description: "\n\n"
+  description: |
+    
+    Vom Wunder geküsst 💋 Wen trifft es dieses Mal❓
 type: rangliste
 ---
