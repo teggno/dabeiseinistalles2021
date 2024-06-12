@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-12T08:25:54.592Z
 image: img/img_0527.jpeg
 ---
-„Ja, is denn heut scho Weihnachten!“ Nein, lieber Franz, aber morgen ist es soweit Er war einzigartig, eine Lichtgestalt. Charmant und manchmal grantig. Der dir anständig sagen konnte, was für ein Idiot du bist. Das Sommermärchen 2006 war auch sein Verdienst. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Viele haben ihn fallen lassen. Vergessen hat er das nie.
+„Ja, is denn heut scho Weihnachten!“ Nein lieber Franz, aber morgen ist es soweit Er war einzigartig, eine Lichtgestalt. Charmant und manchmal grantig. Der dir anständig sagen konnte, was für ein Idiot du bist. Das Sommermärchen 2006 war auch sein Verdienst. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Viele haben ihn fallen lassen. Vergessen hat er das nie.
 
 Was er wohl gesagt hätte zur Staatsgarantie für Manuel Neuer und zum Meinungsumschwung von Toni Kroos? Nachdem mir soeben eine Verleumdungsklage ins Haus geflattert ist, darf und möchte ich mich zur Personalie „Torsteher“ nicht weiter äussern. Andere Baustellen 🚧 gibt es genug. Zum Beispiel Herr Kimmich! Das einstige Wunderkind auf der „6“ findet sich plötzlich auf seiner ungeliebten Aussenbahn wieder und verrichtet dort einen unauffälligen Job. Auch İlkay Gündoğan kann im Nationaldress keine Akzente setzen. Pep hat ihn ganz anders in Erinnerung.
 
