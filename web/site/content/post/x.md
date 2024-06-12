@@ -1,5 +1,5 @@
 ---
-title: Gedenkminute
+title: Weit und breit kein Kaiser
 draft: true
 date: 2024-06-12T08:25:54.592Z
 image: img/img_0523.jpeg
