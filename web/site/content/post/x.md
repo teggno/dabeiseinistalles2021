@@ -16,4 +16,4 @@ Nicht nur Baustellen, auch Kunstschätze hat das Land 🇩🇪. Ich denke da in 
 
 Trotz vieler Bedenken erwarte ich die Deutschen dank Heimvorteil und mittlerer Reife unter den letzten 4! Ein weiterer Flop wäre unverzeihlich und würde das viel zitierte Sommermärchen abrupt beenden. Aufgepasst auf die Flamenco-Tänzer im Viertelfinale. Sie erwiesen sich in der Vergangenheit meistens als sehr sehr unangenehm! 
 
-Wenn am Freitag bei der Eröffnungsfeier Heidi Beckenbauer den EM-Pokal ins Stadion trägt, dürfte es einen Moment lang ganz still werden. Franz wird sich die Sache von da oben aus anschauen und wenn er in unseren Gedanken liest, auf seine typische Art schmunzeln! So einen wie ihn, wird es nie mehr geben.
+Wenn am Freitag bei der Eröffnungsfeier Heidi Beckenbauer den EM-Pokal ins Stadion trägt und ihr Mann auf der Leinwand erscheint, dürfte es einen Moment lang ganz still werden. Franz wird sich die Sache anschauen und wenn er in unseren Gedanken liest, auf seine typische Art schmunzeln! So einen wie ihn, wird es nie mehr geben.
