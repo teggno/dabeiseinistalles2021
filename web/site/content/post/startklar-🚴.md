@@ -12,6 +12,6 @@ Auf den ersten Blick ist eines unübersehbar. Der Niedergang einer Weltmacht! Nu
 
 Das letzte Wort  hat wie üblich Frau Obimo. Mal schauen was ihr in den Sinn gekommen ist.. Lilly bisch parat?  Frankreich 🇫🇷  England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹. Kane, Mbappe, Lukaku und Scamacca. Torschützenkönig Harry Kane und Europameister England.
 
-Normalerweise wären jetzt die Fetzen geflogen. Doch dieses Mal verstehe ich deine Überlegungen. Du hast vollkommen Recht, Italien aufzulisten, wäre reiner Selbstmord. Du hast mich vor einem Riesenblödsinn bewahrt. Das werde ich dir nie vergessen 🥰
+Normalerweise wären jetzt die Fetzen geflogen. Doch dieses Mal begreife ich deinen Cut. Du hast vollkommen Recht, Italien aufzulisten, wäre reiner Selbstmord. 
 
 PS: Nach reiflicher Überlegung bin ich zum Schluss gekommen, dass Platz 1 „bevorzugt“ wird, Schliesslich geht’s um die Krone, auch wenn der Spass im Vordergrund steht. Das heisst, dass der Sieger mit Fr. 400.— bedacht wird. Die restlichen Fr. 110..— werden zwischen Platz 2 (Apéro-Gutschein Porto Sophie) Platz 3 (Fl. Wein) und Platz 51 🏮(Fl Kochwein 😎) aufgeteilt
