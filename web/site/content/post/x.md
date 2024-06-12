@@ -1,7 +1,7 @@
 ---
 title: Weit und breit kein Kaiser
 draft: false
-date: 2024-06-12T08:25:54.592Z
+date: 2024-06-12T21:50:10.164Z
 image: img/img_0527.jpeg
 ---
 „Ja, is denn heut scho Weihnachten!“ Nein lieber Franz, aber morgen ist es soweit Der Mann war einzigartig! Auf und neben dem Feld eine Lichtgestalt. Charmant und manchmal grantig. Der dir anständig sagen konnte, was für ein Idiot du bist. Das Sommermärchen 2006 war auch sein Verdienst. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Viele haben ihn fallen lassen. Vergessen hat er das nie.
