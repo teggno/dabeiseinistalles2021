@@ -1,7 +1,7 @@
 ---
 title: Vorhang auf!
 draft: true
-date: 2024-05-21T11:25:23.876Z
+date: 2024-06-12T17:52:47.441Z
 image: img/img_0498.jpeg
 ---
 Ausgeteilte Stimmzettel 50! Vergessen 1 🤦 Eingegangene Stimmzettel 51, Leer 0, ohne Fränkli 💶 5, mit Fränkli 💶 46., ungültig 0❗️Binär 51,  Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft es ja sein Ohrwurm 🫢 bis in meine Jukebox! Natürlich nur, wenn die helvetische Performance auf dem Rasen stimmt. Sollte die Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Wer in einem Atemzug mit den Beatles und den Stones genannt wird, hat es verdient am Prominententreff gespielt zu werden.
