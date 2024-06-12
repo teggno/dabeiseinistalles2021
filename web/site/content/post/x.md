@@ -1,7 +1,7 @@
 ---
 title: Gedenkminute
 draft: true
-date: 2024-06-05T16:22:42.695Z
+date: 2024-06-12T08:25:54.592Z
 image: img/img_0523.jpeg
 ---
 „Ja, is denn heut scho Weihnachten!“ Besser auf den Punkt bringen als der Kaiser, kann man es nicht. Er war einzigartig, eine Lichtgestalt. Charmant und manchmal grantig. Der dir anständig sagen konnte, was für ein Idiot du bist. Das Sommermärchen 2006 war auch sein Verdienst. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Viele haben ihn fallen lassen. Vergessen hat er das nie.
