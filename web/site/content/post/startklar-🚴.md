@@ -14,111 +14,109 @@ Von den 24 Teams haben 13 die Aufnahmeprüfung bestanden. Die restlichen 11 fiel
 
 PREISE: Nach reiflicher Überlegung bin ich zum Schluss gekommen, dass Platz 1 „bevorzugt“ wird. Schlieeslich geht’s um die Krone, auch wenn der Spass im Vordergrund steht. Das heisst, dass der Sieger mit Fr. 400.— bedacht wird. Die restlichen Fr. 130.— werden zwischen Platz 2 (Apéro-Gutschein Porto Sophie) Platz 3 (1 Flasche Wein) und der roten🏮Laterne (1 Flasche Spezial-Kochwein 😎) aufgeteilt.
 
-Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden sein. Die Kommentare folgen dahinter. Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, dann meldet euch ungeniert. 
+TEILNEHMER \
+01  ☀️ Liddy+Thomas Schwemer           
 
-\
-01  ☀️00 Liddy+Thomas Schwemer           
+02 👑  Cosimo Cataldo                   
 
-02 👑 00 Cosimo Cataldo                   
+03 ⛑️  Margot+Leo Hensch
 
-03 ⛑️ 00 Margot+Leo Hensch
+04  ⛸ Barbara+Urs Schläpfer
 
-04  ⛸00 Barbara+Urs Schläpfer
+05  🍍 Katja Lederle+Tommy Maucher
 
-05  🍍00 Katja Lederle+Tommy Maucher
+06 🛝  Claudia+Pepe Panucci
 
-06 🛝 00 Claudia+Pepe Panucci
+07 🔌  Kurt Meier
 
-07 🔌  00 Kurt Meier
+08 🥊  Salon Liotta  
 
-08 🥊 00 Salon Liotta  
+09 🎆  Steffi+Cristiano Pedron
 
-09 🎆 00 Steffi+Cristiano Pedron
+10 🍺   Baggerstube
 
-10 🍺 00 Baggerstube
+11 🔮   Bea Colaci
 
-11 🔮 00 Bea Colaci
+12 👣   Iveta+Andy Hermann
 
-12 👣 00 Iveta+Andy Hermann
+13 🎻   Franco Monferini 
 
-13 🎻 00 Franco Monferini 
+14 👩‍❤️‍👨   Claudia+Markus Singer
 
-14 👩‍❤️‍👨 00 Claudia+Markus Singer
+15 👖   Miro Berger 
 
-15 👖 00 Miro Berger 
+16 ⛑️   Kuno Schwarzer
 
-16 ⛑️ 00 Kuno Schwarzer
+17  🌈  Zeljko Berger
 
-17  🌈 00 Zeljko Berger
+18 🛵   Donato Carrieri
 
-18 🛵 00 Nunzia+Donato Carrieri
+19 🪇   Gianfranco Caporusso
 
-19 🪇 00 Gianfranco Caporusso
+20 🗝️   Notker Brandes
 
-20 🗝️ 00 Notker Brandes
+21 ✈️    Nico Colaci
 
-21 ✈️ 00 Nico Colaci
+22 🚂   Tina Bühler+Roland Haselbach
 
-22 🚂 00 Tina Bühler+Roland Haselbach
+23 🚁   Peter von Känel
 
-23 🚁 00 Peter von Känel
+24 🏄‍♂️   Renato Meier
 
-24 🏄‍♂️ 00 Renato Meier
+25 🍀   Gülay Turcan
 
-25 🍀 00 Gülay Turcan
+26 🛶   Leni+Luciano Schüepp
 
-26 🛶 00 Leni+Luciano Schüepp
+27 🏖️   Emma+Christian Bär
 
-27 🏖️ 00 Emma+Christian Bär
+28  🎈  Martha+Sergio Giménez
 
-28  🎈00 Martha+Sergio Giménez
+29 ⛽️   René Benz(ina)
 
-29 ⛽️ 00 René Benz(ina)
+30 🚀   Jeanette+Urs Affentranger
 
-30 🚀 00 Jeanette+Urs Affentranger
+31 🎣    Heidi+Roger Blatter
 
-31 🎣  00 Heidi+Roger Blatter
+32 🕺🏾    Koni Hornstein
 
-32 🕺🏾  00 Koni Hornstein
+33 🎢    Daniela+Paolo Padula
 
-33 🎢  00 Daniela+Paolo Padula
+34  🪭   Severin Stucky
 
-34  🪭 00 Severin Stucky
+35  🍀   Eva-Maria+Markus Heitz 
 
-35  🍀 00 Eva-Maria+Markus Heitz 
+36 🏇🏻   Inge Berger+Gregor Kessler
 
-36 🏇🏻 00 Inge Berger+Gregor
+37 🐆   Janis Hermann
 
-37 🐆 00 Janis Hermann
+38  🎈  Anton Teuffel
 
-38  🎈 00 Anton Teuffel
+39 🩴   Pina+Michele La Macchia 
 
-39 🩴 00 Pina+Michele La Macchia 
+40 🐅   Renato Petrillo
 
-40 🐅 00 Renato Petrillo
+41 🧗🏻‍♀️    Antonia Freer+Rolf Weigel
 
-41 🧗🏻‍♀️  00 Antonia Freer+Rolf Weigel
+42 👫    Rosmarie+Nunzio Padula 
 
-42 👫  00 Rosmarie+Nunzio Padula 
+43 🪂    Gina+Bruno Meier
 
-43 🪂  00 Gina+Bruno Meier
+44 🛟    Katy+Urs Näf
 
-44 🛟  00 Katy+Urs Näf
+45  🎉   Rosa+Marlen
 
-45  🎉 00 Rosa+Marlen
+46 ⚓️    Verena+Bruno Wacker 
 
-46 ⚓️  00 Verena+Bruno Wacker 
+47  ☔️   Daniela+Davide Brocca
 
-47  ☔️ 00 Daniela+Davide Brocca
+48  🥲   Mobby Sahli
 
-48  🥲 00 Mobby Sahli
+49  💃🏽   Made+Donato Carrieri
 
-49  💃🏽 00 Made+Donato Carrieri
+50  🧯   Lucchi+Giacomo Zaccaria 
 
-50  🧯 00 Lucchi+Giacomo Zaccaria 
+ 51 🧨    dog (Stefan Werner)
 
- 51 🧨 00 dog (Stefan Werner)
+  52 🥲   Mobby Sahli
 
-  52 🥲 00 Mobby Sahli
-
-  53  🏮 00 Lilly+Raffaele
+  53  🏮   Lilly+Raffaele
