@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-13T03:32:20.267Z
 image: img/img_0531.jpeg
 ---
-„Ja, is denn heut scho Weihnachten!“ Nein lieber Franz, aber morgen ist es soweit Der Kaiser war einzigartig! Auf und neben dem Feld eine Lichtgestalt. Charmant und manchmal grantig. Der dir anständig sagen konnte, was für ein Idiot du bist. Das Sommermärchen 2006 war auch sein Verdienst. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Viele haben ihn fallen lassen. Vergessen hat er das nie.
+„Ja, is denn heut scho Weihnachten!“ Nein lieber Franz, aber morgen ist es soweit Der Kaiser war einzigartig! Diese Eleganz am Ball hatte nicht mal Maradona. Er war charmant und manchmal grantig. Der dir anständig sagen konnte, was für ein Idiot du bist. Das Sommermärchen 2006 war auch sein Verdienst. Ich weiss nicht, was er heute denkt, wenn er von da oben zuschaut. Vielleicht, dass es ohne ihn diese EM gar nicht gäbe. Viele haben ihn fallen lassen. Vergessen hat er das nie.
 
 Was er wohl gesagt hätte zur Staatsgarantie für Manuel Neuer und zum Meinungsumschwung von Toni Kroos? Nachdem mir soeben eine Verleumdungsklage 📜 ins Haus geflattert ist, möchte ich mich zur Personalie „Torwart“ vorläufig nicht weiter äussern. Andere Baustellen 🚧 gibt es genug. Zum Beispiel Herr Kimmich! Das einstige Wunderkind auf der „6“ findet sich plötzlich auf seiner ungeliebten Aussenbahn wieder und verrichtet dort einen unauffälligen Nebenjob. Auch İlkay Gündoğan kann im Nationaldress keine Akzente setzen. Pep hat ihn ganz anders in Erinnerung.
 
