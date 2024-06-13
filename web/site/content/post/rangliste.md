@@ -81,7 +81,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 37 🐆 00 Janis Hermann
 
-38 🧨 00 Anton Teuffel
+38  🎈 00 Anton Teuffel
 
 39 🩴 00 Pina+Michele La Macchia 
 
