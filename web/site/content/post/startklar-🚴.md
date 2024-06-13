@@ -4,13 +4,11 @@ draft: true
 date: 2024-06-13T16:37:01.488Z
 image: img/img_0498.jpeg
 ---
-Ausgeteilte Stimmzettel 50❗️Vergessen gegangen 3 🥲! Nachzügler 1! Eingegangene Stimmzettel 53 - Leer 0 - ungültig 0❗️Binär 53 - Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft es ja sein Ohrwurm 🫢 bis in meine Jukebox! Natürlich nur, wenn die Performance von Shaqiri & Co. auf dem Rasen stimmt. Sollte die Schweizer Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Wer in einem Atemzug mit den „Beatles“ und den „Stones“ genannt wird, hätte es grundsätzlich verdient beim VIP-Event aufgelegt zu werden.
+Ausgeteilte Stimmzettel 50❗️Vergessen gegangen 3 🥲! Nachzügler 1! Eingegangene Stimmzettel 53 - Leer 0 - ungültig 0❗️Binär 53 - Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft es ja sein Ohrwurm 🫢 bis in meine Jukebox! Natürlich nur, wenn die Performance von Shaqiri & Co. auf dem Rasen stimmt. Sollte die Schweizer Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Wer in einem Atemzug mit den „Beatles“ und den „Stones“ genannt wird, darf beim VIP-Event nicht fehlen.
 
 Es war  wie immer, wenn unsere „Pokerrunde“ zusammenkommt. 2/3 kamen auf den letzten Drücker. Die Angst bei derart viel Prominenz die falsche Garderobe zu wählen, war allgegenwärtig. Welchen Farben 🎀 man vertrauen soll, scheint ringsherum Kopfzerbrechen bereitet zu haben. Freundschaftsspiele, denen man seit Jahren null Bedeutung schenkte, wurden auf einmal bis ins kleinste Detail seziert. Meine gutgemeinten Ratschläge landeten wie üblich in der Mülltonne. Stattdessen griff man schamlos zu Algorithmen und künstlicher Intelligenz
 
-Das letzte Wort hat wie immer Frau Obimo. Lilly, mit welchen Teams schickst du uns ins Verderben? Mit Frankreich 🇫🇷 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹 und Kane, Mbappe, Lukaku und Scamacca. Torschützenkönig wird Harry Kane und Europameister England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 .  Italien 🇮🇹 wäre reiner „Selbstmord“ 🥲 gewesen. 
-
-PREISE: 
+Das letzte Wort hat wie immer Frau Obimo. Lilly, mit welchen Teams schickst du uns ins Verderben 🙈 Frankreich 🇫🇷 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹 Kane, Mbappe, Lukaku und Scamacca. Torschützenkönig wird Harry Kane und Europameister England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 .  Italien 🇮🇹 wäre reiner „Selbstmord“ 🥲 gewesen. 
 
 TEILNEHMER \
 01  ☀️Liddy+Thomas Schwemer           
@@ -117,4 +115,4 @@ TEILNEHMER \
 
   52 🥲   Mobby Sahli
 
-  53  🏮   Lilly+Raffaele
+  53  🏮  Lilly+Raffaele
