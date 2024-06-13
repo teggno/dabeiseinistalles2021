@@ -1,5 +1,5 @@
 ---
-title: Vorhang auf!
+title: Vorhang auf❗️
 draft: true
 date: 2024-06-12T17:52:47.441Z
 image: img/img_0498.jpeg
