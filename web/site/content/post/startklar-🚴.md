@@ -6,16 +6,16 @@ image: img/img_0498.jpeg
 ---
 Ausgeteilte Stimmzettel 50❗️Vergessen gegangen 3 🥲! Nachzügler 1! Eingegangene Stimmzettel 53 - Leer 0 - ungültig 0❗️Binär 53 - Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft es ja sein Ohrwurm 🫢 bis in meine Jukebox! Natürlich nur, wenn die helvetische Performance auf dem Rasen stimmt. Sollte die Schweizer Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Wer in einem Atemzug mit den „Beatles“ und den „Stones“ genannt wird, hätte es grundsätzlich verdient beim VIP-Event aufgelegt zu werden.
 
-Es war  wie immer, wenn unsere „Pokerrunde“ zusammenkommt. 2/3 kamen auf den letzten Drücker. Die Angst bei derart viel Prominenz die falsche Garderobe zu wählen, war allgegenwärtig. Welchen Farben 🎀 man vertrauen soll, scheint ringsherum Kopfzerbrechen bereitet zu haben. Freundschaftsspiele, denen man seit Jahren null Bedeutung schenkte, wurden auf einmal bis ins kleinste Detail „usänandgno“. „Schpilt jetz dä Füllkrug oder dä Havertz vo Afang a“? Meine gutgemeinten Ratschläge landeten wie üblich in der Mülltonne. Stattdessen griff man schamlos zu Algorithmen und künstlicher Intelligenz.
+Es war  wie immer, wenn unsere „Pokerrunde“ zusammenkommt. 2/3 kamen auf den letzten Drücker. Die Angst bei derart viel Prominenz die falsche Garderobe zu wählen, war allgegenwärtig. Welchen Farben 🎀 man vertrauen soll, scheint ringsherum Kopfzerbrechen bereitet zu haben. Freundschaftsspiele, denen man seit Jahren null Bedeutung schenkte, wurden auf einmal bis ins kleinste Detail „usänandgno“. Meine gutgemeinten Ratschläge landeten wie üblich in der Mülltonne. Stattdessen griff man schamlos zu Algorithmen und künstlicher Intelligenz.
 
-An dieser Stelle möchte ich speziell die „New Entries“ begrüssen, die gewillt waren, eine separate Eintrittsgebühr zu bezahlen 😀 Herzlichen Dank an die La Macchias, die Gimenéz, die Singers, dä Kuno Schwarzer und a d’Gülay Turcan, die im Wettbüro am Boulevard bereits als Geheimfavoritin gehandelt wird. Ansonsten steht einer Neuauflage der Schlacht am Morgarten nichts mehr im Wege. Das Waffenarsenal ist beängstigend. “Dä Stauffacher und sin Kumpäl dä Fürscht“ ⛑️ gingen voll auf tutti und trugen unten rechts als Europameister die Helvetia ein 👍. Möge Göttin Fortuna ihnen beistehen
+An dieser Stelle möchte ich speziell die „New Entries“ begrüssen, die gewillt waren, Eintrittsgebühr zu bezahlen 😀 Herzlichen Dank an die La Macchias, die Gimenéz, die Singers, dä Kuno Schwarzer und a d’Gülay Turcan, die im Wettbüro am Boulevard bereits als Geheimfavoritin gehandelt wird. Ansonsten steht einer Neuauf
 
-Das letzte Wort hat wie immer Frau Obimo. Lilly, mit welchen Teams schickst du uns ins Verderben? Aha, d‘Franzosä 🇫🇷 d’Engländer 🏴󠁧󠁢󠁥󠁮󠁧󠁿 di Tütschä 🇩🇪 und Portugisä 🇵🇹“. Kane, Mbappe, Lukaku und Scamacca sind fürs Essentielle zuständig. Torschützenkönig wird Harry Kane und Europameister England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 . Aber dieses Mal  Italien 🇮🇹 verstehen. Es wäre reiner „Selbstmord“ 🥲 gewesen. 
+Das letzte Wort hat wie immer Frau Obimo. Lilly, mit welchen Teams schickst du uns ins Verderben? Mit Frankreich 🇫🇷 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹 und Kane, Mbappe, Lukaku und Scamacca. Torschützenkönig wird Harry Kane und Europameister England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 .  Italien 🇮🇹 wäre reiner „Selbstmord“ 🥲 gewesen. 
 
 PREISE: 
 
 TEILNEHMER \
-01  ☀️ Liddy+Thomas Schwemer           
+01  ☀️Liddy+Thomas Schwemer           
 
 02 👑  Cosimo Cataldo                   
 
