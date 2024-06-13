@@ -59,7 +59,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 26 🛶 00 Leni+Luciano Schüepp
 
-27 🧯 00 Lucchi+Giacomo Zaccaria 
+27 🏖️ 00 Emma+Christian Bär
 
 28  🎈00 Martha+Sergio Giménez
 
@@ -105,4 +105,6 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 49  💃🏽 00 Made+Donato Carrieri
 
-50  🏮 00 Lilly+Raffaele
+50  🧯 00 Lucchi+Giacomo Zaccaria 
+
+51   🏮 00 Lilly+Raffaele
