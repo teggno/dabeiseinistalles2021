@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-12T17:52:47.441Z
 image: img/img_0498.jpeg
 ---
-Ausgeteilte Stimmzettel 50! Vergessen 🤦1 Eingegangene Stimmzettel 50, Leer 0, ungültig 0❗️Binär 51,  Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft es ja sein Ohrwurm 🫢 bis in meine Jukebox! Natürlich nur, wenn die helvetische Performance auf dem Rasen stimmt. Sollte die Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Wer in einem Atemzug mit den Beatles und den Stones genannt wird, hätte es grundsätzlich verdient beim Prominententreff gespielt zu werden.
+Ausgeteilte Stimmzettel 50 Vergessen 🤦1 Eingegangene Stimmzettel 50, Leer 0, ungültig 0❗️Binär 50, Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft es ja sein Ohrwurm 🫢 bis in meine Jukebox! Natürlich nur, wenn die helvetische Performance auf dem Rasen stimmt. Sollte die Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Wer in einem Atemzug mit den Beatles und den Stones genannt wird, hätte es grundsätzlich verdient beim Prominententreff gespielt zu werden.
 
 Es ist wie immer, wenn unsere Pokerrunde zusammenkommt. 2/3 kamen auf den letzten Drücker. Die Angst bei derart viel Prominenz die falsche Garderobe zu wählen, war allgegenwärtig. Welchen Farben 🎀 man vertrauen soll, scheint ringsherum Kopfzerbrechen bereitet zu haben. Freundschaftsspiele, denen man seit Jahren null Bedeutung schenkte, wurden auf einmal bis ins kleinste Detail “usänandgno“. Spielt jetzt dä Füllkrug oder dä Havertz vo Afang a? Meine gutgemeinten Ratschläge landeten wie üblich in der Mülltonne. Stattdessen griff man schamlos zu Algorithmen und künstlicher Intelligenz.
 
