@@ -81,7 +81,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 37 🐆 00 Janis Hermann
 
-38 🧨 00 dog (Stefan Werner)
+38 🧨 00 Anton Teuffel
 
 39 🩴 00 Pina+Michele La Macchia 
 
@@ -107,4 +107,8 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 50  🧯 00 Lucchi+Giacomo Zaccaria 
 
-51   🏮 00 Lilly+Raffaele
+51   🧨 00 dog (Stefan Werner)
+
+52.  🥲 00 Mobby Sahli
+
+53. 🏮  00 Lilly+Raffaele
