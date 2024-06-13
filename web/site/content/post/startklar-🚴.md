@@ -10,7 +10,7 @@ Es war  wie immer, wenn unsere „Pokerrunde“ zusammenkommt. 2/3 kamen auf den
 
 An dieser Stelle möchte ich speziell die „New Entries“ begrüssen, die gewillt waren, eine separate Eintrittsgebühr zu bezahlen 😀 Herzlichen Dank an die La Macchias, die Gimenéz, die Singers, dä Kuno Schwarzer und a d’Gülay Turcan, die im Wettbüro am Boulevard bereits als Geheimfavoritin gehandelt wird. Ansonsten steht einer Neuauflage der Schlacht am Morgarten nichts mehr im Wege. Das Waffenarsenal ist beängstigend. “Dä Stauffacher und sin Kumpäl dä Fürscht“ ⛑️ gingen voll auf tutti und trugen unten rechts als Europameister die Helvetia ein 👍. Möge Göttin Fortuna ihnen beistehen
 
-Das letzte Wort hat wie immer Frau Obimo. Wieviele meiner unzähligen Fussball-Lektionen sind wohl hängengeblieben? „Lilly bisch parat? Aha, d‘Franzosä 🇫🇷 d’Engländer 🏴󠁧󠁢󠁥󠁮󠁧󠁿 di Tütschä 🇩🇪 und Portugisä 🇵🇹“. Kane, Mbappe, Lukaku und Scamacca sind fürs Essentielle zuständig. Torschützenkönig wird Harry Kane und Europameister England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 . Normalerweise wären jetzt die Fetzen geflogen. Aber dieses Mal kann ich ihre Skepsis gegenüber Italien 🇮🇹 verstehen. Es wäre reiner „Selbstmord“ 🥲 gewesen. 
+Das letzte Wort hat wie immer Frau Obimo. Lilly, mit welchen Teams schickst du uns ins Verderben? Aha, d‘Franzosä 🇫🇷 d’Engländer 🏴󠁧󠁢󠁥󠁮󠁧󠁿 di Tütschä 🇩🇪 und Portugisä 🇵🇹“. Kane, Mbappe, Lukaku und Scamacca sind fürs Essentielle zuständig. Torschützenkönig wird Harry Kane und Europameister England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 . Aber dieses Mal  Italien 🇮🇹 verstehen. Es wäre reiner „Selbstmord“ 🥲 gewesen. 
 
 PREISE: 
 
