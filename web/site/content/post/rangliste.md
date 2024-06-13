@@ -33,7 +33,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 13 🎻 00 Franco Monferini 
 
-14 🏖️ 00 Emma+Christian Bär
+14 👩‍❤️‍👨 00 Claudia+Markus Singer
 
 15 👖 00 Miro Berger 
 
@@ -59,7 +59,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 26 🛶 00 Leni+Luciano Schüepp
 
-27 🚜 00 Jacqueline+Klemenz Som
+27 🧯 00 Lucchi+Giacomo Zaccaria 
 
 28  🎈00 Martha+Sergio Giménez
 
@@ -105,8 +105,4 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 49  💃🏽 00 Made+Donato Carrieri
 
-50 🧯00 Lucchi+Giacomo Zaccaria 
-
-51  👩‍❤️‍👨00 Claudia+Markus Singer
-
-52  🏮00 Lilly+Raffaele
+50  🏮 00 Lilly+Raffaele
