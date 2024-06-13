@@ -1,7 +1,7 @@
 ---
 title: Vorhang auf❗️
 draft: true
-date: 2024-06-12T17:52:47.441Z
+date: 2024-06-13T16:37:01.488Z
 image: img/img_0498.jpeg
 ---
 Ausgeteilte Stimmzettel 50❗️Vergessen gegangen 3 🥲! Eingegangene Stimmzettel 52 - Leer 0 - ungültig 0❗️Binär 52 - Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft es ja sein Ohrwurm 🫢 bis in meine Jukebox! Natürlich nur, wenn die helvetische Performance auf dem Rasen stimmt. Sollte die Schweizer Nati mit ähnlich guten Stilnoten bedacht werden, stände einer Übermittlung des „Codes“ nichts mehr im Wege. Wer in einem Atemzug mit den „Beatles“ und den „Stones“ genannt wird, hätte es grundsätzlich verdient beim VIP-Event gespielt zu werden.
