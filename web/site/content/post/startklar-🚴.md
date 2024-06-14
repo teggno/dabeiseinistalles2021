@@ -8,7 +8,7 @@ Ausgeteilte Stimmzettel 50❗️Vergessen gegangene 2 🥲! Nachzügler 2!  Eing
 
 Es war  wie immer, wenn unsere „Pokerrunde“ zusammenkommt. 2/3 kamen auf den letzten Drücker. Die Angst bei derart viel Prominenz die falsche Garderobe zu wählen, war allgegenwärtig. Welchen Farben 🎀 man vertrauen soll, scheint ringsherum Kopfzerbrechen bereitet zu haben. Freundschaftsspiele, denen man seit Jahren null Bedeutung schenkte, wurden auf einmal bis ins kleinste Detail seziert. Meine gutgemeinten Ratschläge landeten wie üblich in der Mülltonne. Stattdessen griff man schamlos zu Algorithmen und künstlicher Intelligenz.
 
-Von den 24 vorgeschlagenen Nationen, behandelte man 11 wie verblühte Mauerblümchen am Wegesrand. 13 haben sich mehr oder weniger in die Gunst der „Anleger“ eingeschlichen. Mehr will ich nicht verraten. Nur soviel, die Schlacht am Morgarten ⚔️ war ein Pappenstiel.
+Von den 24 vorgeschlagenen Nationen, behandelte man 11 wie verblühte Mauerblümchen am Wegesrand. 13 haben sich mehr oder weniger in die Gunst der „Anleger“ eingeschlichen. Mehr will ich nicht verraten. Nur soviel, die Schlacht am Morgarten ⚔️ war gegenüber dem was uns hier erwartet ein Pappenstiel.
 
 Das letzte Wort hat wie immer Frau Obimo. Lilly, mit welchen Teams schickst du uns ins Verderben 🙈 Frankreich 🇫🇷 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹 Kane, Mbappe, Lukaku und Scamacca. Torschützenkönig wird Harry Kane und Europameister England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 .  Italien 🇮🇹 wäre reiner „Selbstmord“ 🥲 gewesen. 
 
