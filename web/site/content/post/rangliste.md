@@ -37,13 +37,13 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 15   30 Rosa+Marlen
 
-16  Kuno Schwarzer
+16   30 Severin Stucky
 
-17  🌈 00 Zeljko Berger
+17    30 Zeljko Berger
 
-18 🛵 00 Nunzia+Donato Carrieri
+18   30 Donato Carrieri
 
-19 00 Gianfranco Caporusso
+19   30 Gianfranco Caporusso
 
 20  00 Nunzio Padula
 
