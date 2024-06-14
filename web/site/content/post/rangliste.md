@@ -45,19 +45,19 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 19   30 Gianfranco Caporusso
 
-20  00 Nunzio Padula
+20   30 Nunzio Padula
 
-21 00 Memduh Aktas
+21    30 Memduh Aktas
 
-22 00 Pina+Michele La Macchia
+22    30 Pina+Michele La Macchia
 
-23 00 Peter von Känel
+23    30 Peter von Känel
 
-24 🏄‍♂️ 00 Renato Meier
+24    30 Renato Meier
 
-25 🍀 00 Gülay Turcan
+25    30 Gülay Turcan
 
-26 🛶 00 Leni+Luciano Schüepp
+26    30 Koni Hornstein 
 
 27 🏖️ 00 Emma+Christian Bär
 
@@ -69,7 +69,7 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 31 🎣  00 Heidi+Roger Blatter
 
-32 🕺🏾  00 Koni Hornstein
+32 🕺🏾  00 
 
 33 🎢  00 Daniela+Paolo Padula
 
@@ -99,9 +99,9 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 46  00 Jeanette+Urs Affentranger
 
-47  ☔️ 00 Daniela+Davide Brocca
+47  00 Daniela+Davide Brocca
 
-48  🐆 00 Janis Hermann
+48  00 Janis Hermann
 
 49   00 Claudia+Markus Singer
 
