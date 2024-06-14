@@ -61,15 +61,15 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 27    30 Emma+Christian Bär
 
-28    30Martha+Sergio Giménez
+28   30 Martha+Sergio Giménez
 
-29    30 René Benz(ina)
+29   30 René Benz(ina)
 
-30    30 Verena+Bruno Wacker
+30   30 Verena+Bruno Wacker
 
-31     30 Daniela+Paolo Padula
+31   30 Daniela+Paolo Padula
 
-32    30 Lilly+Raffaele
+32  30 Lilly+Raffaele
 
 33  00 Heidi+Roger Blatter
 
