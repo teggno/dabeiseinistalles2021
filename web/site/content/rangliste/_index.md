@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Major Tom  ▶️ Völlig losgelöst
-  url: https://www.youtube.com/watch?v=KQRaj1vcnrs&pp=ygUfdsO2bGxpZyBsb3NnZWzDtnN0IHZvbiBkZXIgZXJkZQ%3D%3D
+  title: RAFFI‘S JUKEBOX 🎸 Die toten Hosen  ▶️ Tage wie diese
+  url: https://www.youtube.com/watch?v=j09hpp3AxIE&pp=ygUOdGFnZSB3aWUgZGllc2U%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
