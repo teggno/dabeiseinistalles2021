@@ -7,11 +7,11 @@ image: img/img_0514.jpeg
 Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finden. Die Kommentare folgen dahinter. Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, dann meldet euch ungeniert. 
 
 \
-01 - 30 Liddy+Thomas Schwemer           
+01 - 30 Liddy+Thomas Schwemer  🥇       
 
-02 - 30 Cosimo Cataldo                   
+02 - 30 Bea Colaci 🥈               
 
-03 - 30 dog 
+03 - 30 Gülay Turcan
 
 04 - 30 Barbara+Urs Schläpfer
 
@@ -27,7 +27,7 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 10  - 30 Inge Berger+Gregor Kessler
 
-11  - 30 Bea Colaci
+11  - 30 Cosimo Cataldo
 
 12  - 30 Andy+Andi Hermann
 
@@ -55,7 +55,7 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 24  -  30 Renato Meier
 
-25  -   30 Gülay Turcan
+25  -  30 dog
 
 26  -  30 Koni Hornstein 
 
@@ -109,6 +109,6 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 51  -  00 Margot+Leo Hensch
 
-52  - 00 Mobby Sahli
+52  - 00 Mobby Sahli 
 
-53  - 00 Leni+Luciano Schüepp
+53  - 00 Leni+Luciano Schüepp 🏮
