@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-24T08:10:26.379Z
 image: img/img_0514.jpeg
 ---
-Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden sein. Die Kommentare folgen dahinter. Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, dann meldet euch ungeniert. 
+Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der BlogSeite zu finden. Die Kommentare folgen dahinter. Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, dann meldet euch ungeniert. 
 
 \
 01  30 Liddy+Thomas Schwemer           
