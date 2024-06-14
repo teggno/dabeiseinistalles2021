@@ -11,7 +11,7 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 02 - 30 Bea Colaci 🥈               
 
-03 - 30 Gülay Turcan
+03 - 30 Gülay Turcan 🥉
 
 04 - 30 Barbara Schläpfer
 
@@ -33,9 +33,9 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 13  - 30 Marta Giménez
 
-14  - 30 Lilly
+14  - 30 Emma Bär
 
-15  - 30 Andy+Andi Hermann
+15  - 30 Lilly Obimo
 
 16  - 30 Severin Stucky
 
@@ -59,7 +59,7 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 26  -  30 Koni Hornstein 
 
-27  - 30 Emma+Christian Bär
+27  - 30  Andy+Andi Hermann
 
 28  - 30 Renato Petrillo
 
