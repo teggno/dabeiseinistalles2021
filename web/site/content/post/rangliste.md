@@ -9,13 +9,13 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 \
 01 - 30 Katy Näf  🥇       
 
-02 - 30 Bea Colaci 🥈               
+02 - 30 Gülay Turcan 🥈               
 
-03 - 30 Gülay Turcan 🥉
+03 - 30 Rosa+Marlen 🥉
 
 04 - 30 Barbara Schläpfer
 
-05 - 30 Rosa+Marlen
+05 - 30 Bea Colaci
 
 06 - 30 Claudia Panucci
 
