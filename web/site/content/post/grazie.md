@@ -9,6 +9,6 @@ H﻿eute Abend gehts los und ich habe deine Bloggs gelesen und geniesse sie im H
 
 V﻿iel Spass und Freude
 
-Ich danke dir von ganzem Herzen für deine wundervollen Worte Stefania. Ich geniesse es, dass du dabei bist. Du bist die einzige die wirklich spürt, wieviel Leidenschaft ich hier „verbrauche“. Wenn es Italien läuft, würde ich gerne mal unser Lied spielen. Natürlich nur mit deinem Einverständnis.
+Ich danke dir von ganzem Herzen für deine wundervollen Worte Stefania. Ich geniesse es, dass du dabei bist. Du bist die einzige die wirklich spürt, wieviel Herzblut und Leidenschaft ich hier „verbrauche“. Wenn es Italien läuft, würde ich gerne mal unser Lied spielen. Natürlich nur mit deinem Einverständnis.
 
 Ciao
