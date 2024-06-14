@@ -7,19 +7,19 @@ image: img/img_0514.jpeg
 Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finden. Die Kommentare folgen dahinter. Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, dann meldet euch ungeniert. 
 
 \
-01 - 30 Liddy+Thomas Schwemer  🥇       
+01 - 30 Liddy Schwemer  🥇       
 
 02 - 30 Bea Colaci 🥈               
 
 03 - 30 Gülay Turcan
 
-04 - 30 Barbara+Urs Schläpfer
+04 - 30 Barbara Schläpfer
 
 05 - 30 Rosa+Marlen
 
 06 - 30 Claudia+Pepe Panucci
 
-07 - 30 Kurt Meier
+07 - 30 Pina La Macchia
 
 08 - 30 Salon Liotta  
 
@@ -49,7 +49,7 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 21   -  30 Memduh Aktas
 
-22   -  30 Pina+Michele La Macchia
+22   -  30 Kurt Meier
 
 23   - 30 Peter von Känel
 
