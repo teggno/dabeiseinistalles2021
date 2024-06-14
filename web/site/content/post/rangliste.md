@@ -59,13 +59,13 @@ Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Wenn’s so 
 
 26  -   30 Barbara+Urs Schläpfer
 
-27  -  30  Lilly+Raffaele
+27  -   30  Lilly+Raffaele
 
-28  -  30 Renato Petrillo
+28  -   30 Renato Petrillo
 
 29  -  30 Emma+Christian Bär
 
-30 -  30 Martha+Sergio Giménez
+30 -   30 Martha+Sergio Giménez
 
 31 -   30 Claudia+Pepe Panucci
 
