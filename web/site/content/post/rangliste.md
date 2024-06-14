@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-14T21:13:25.007Z
 image: img/img_0514.jpeg
 ---
-Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Wenn’s so weitergeht, lande ich in der Irrenanstalt. Wir Jungs sind nur noch Statisten. So war’s dann doch nicht gemeint mit der Frauenquote. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 6 Girls an der Spitze! Inge ganz obenauf! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
+Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Wenn’s so weitergeht, lande ich in der Irrenanstalt. Wir Jungs sind nur noch Statisten. So war’s dann doch nicht gemeint mit der Frauenquote. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 8 Girls an der Spitze! Inge ganz obenauf! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
 
 \
 01 - 50 Inge Berger  🥇       
@@ -19,9 +19,9 @@ Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Wenn’s so 
 
 06 - 40 Liddy Schwemer
 
-07 - 40 Renato Meier
+07 - 40 Daniela Padula
 
-08 - 40 Koni Hornstein
+08 - 40 Made Carrieri
 
 09  - 40 Salon Liotta
 
@@ -37,9 +37,9 @@ Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Wenn’s so 
 
 15  - 40 Gianfranco Caporusso
 
-16  - 40 Made+Donato Carrieri
+16  - 40 Koni Hornstein
 
-17  -  40 Daniela+Paolo Padula
+17  -  40 Renato Meier
 
 18  -  40 Memduh Aktas
 
