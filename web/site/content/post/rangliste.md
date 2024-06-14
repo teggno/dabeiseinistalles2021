@@ -15,7 +15,7 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 04 - 30 Barbara+Urs Schläpfer
 
-05 - 30 Renato Petrillo
+05 - 30 Rosa+Marlen
 
 06 - 30 Claudia+Pepe Panucci
 
@@ -35,7 +35,7 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 14  - 30 Made+Donato Carrieri
 
-15  - 30 Rosa+Marlen
+15  - 30 Renato Petrillo
 
 16  - 30 Severin Stucky
 
