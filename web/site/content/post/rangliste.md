@@ -41,7 +41,7 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 17  -  30 Zeljko Berger
 
-18  -  30 Donato Carrieri
+18  -  30 Donato Chaschtä
 
 19   - 30 Gianfranco Caporusso
 
