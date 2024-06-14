@@ -4,7 +4,9 @@ draft: true
 date: 2024-05-24T08:10:26.379Z
 image: img/img_0514.jpeg
 ---
-Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finden. Die Kommentare folgen dahinter. Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, dann meldet euch ungeniert. 
+Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finden. Die Kommentare folgen dahinter. Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, dann meldet euch ungeniert.
+
+Sogar in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 15 Ladies an der Spitze! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
 
 \
 01 - 30 Liddy Schwemer  🥇       
