@@ -37,7 +37,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 15  - 40 Gianfranco Caporusso
 
-16  -  40 Made+Donato Carrieri
+16  - 40 Made+Donato Carrieri
 
 17  -  30 Zeljko Berger
 
