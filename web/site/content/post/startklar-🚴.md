@@ -115,6 +115,6 @@ TEILNEHMER \
 
  51 🧨    dog (Stefan Werner)
 
-  52 🥲   Mobby Sahli
+ 52 🥁  Memduh Aktas
 
   53  🏮  Lilly+Raffaele
