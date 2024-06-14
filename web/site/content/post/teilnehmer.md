@@ -1,7 +1,7 @@
 ---
 title: "TEILNEHMER "
 draft: true
-date: 2024-06-13T21:03:39.597Z
+date: 2024-06-14T07:16:12.617Z
 image: img/img_0514.jpeg
 ---
 01  ☀️ Liddy+Thomas Schwemer           
