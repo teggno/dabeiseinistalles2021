@@ -71,7 +71,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 32 -  30 Franco Monferini
 
-33  - 00 Heidi+Roger Blatter
+33  - 10 Mobby
 
 34  - 00 Kuno Schwarzer
 
@@ -81,7 +81,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 37 -  00 Nico Colaci
 
-38 -  10 Mobby
+38 -  10 Heidi+Roger Blatter
 
 39 -  10 Tina+Roland Haselbach
 
