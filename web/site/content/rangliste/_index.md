@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Die Toten Hosen  ▶️ Tage wie dieser
+  title: RAFFI‘S JUKEBOX 🎸 Die Toten Hosen  ▶️ Tage wie  diese
   url: https://www.youtube.com/watch?v=j09hpp3AxIE&pp=ygUOdGFnZSB3aWUgZGllc2U%3D
   image: img/jukebox.jpg
   description: ""
