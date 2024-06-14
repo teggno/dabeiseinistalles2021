@@ -29,13 +29,13 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 11  - 30 Daniela Padula
 
-12  - 30 Andy+Andi Hermann
+12  - 30 Made Carrieri
 
-13  - 30 Franco Monferini 
+13  - 30 Marta Giménez
 
-14  - 30 Made+Donato Carrieri
+14  - 30 Lilly
 
-15  - 30 Renato Petrillo
+15  - 30 Andy+Andi Hermann
 
 16  - 30 Severin Stucky
 
@@ -61,7 +61,7 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 27  - 30 Emma+Christian Bär
 
-28  - 30 Martha+Sergio Giménez
+28  - 30 Renato Petrillo
 
 29  - 30 René Benz
 
@@ -69,7 +69,7 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 31 -  30 Cosimo Cataldo
 
-32 -  30 Lilly+Raffaele
+32 -  30 Franco Monferini
 
 33  - 00 Heidi+Roger Blatter
 
