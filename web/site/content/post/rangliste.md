@@ -17,7 +17,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 05  30 Renato Petrillo
 
-06. 30 Claudia+Pepe Panucci
+06  30 Claudia+Pepe Panucci
 
 07  30 Kurt Meier
 
@@ -27,9 +27,9 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 10  30 Inge Berger+Gregor Kessler
 
-11 🔮 00 Bea Colaci
+11   30 Bea Colaci
 
-12 👣 00 Iveta+Andy Hermann
+12  30 Andy+Andi Hermann
 
 13 🎻 00 Franco Monferini 
 
