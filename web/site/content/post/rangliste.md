@@ -7,15 +7,15 @@ image: img/img_0514.jpeg
 So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 15 Girls an der Spitze! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
 
 \
-01 - 40 Katy Näf  🥇       
+01 - 50 Inge Berger  🥇       
 
 02 - 40 Gülay Turcan 🥈               
 
-03 - 40 Rosa+Marlen 🥉
+03 - 40 Katy Näf 🥉
 
 04 - 40 Verena Wacker
 
-05 - 40 Inge Berger
+05 - 40 Rosa+Marlen
 
 06 - 40 Cosimo Cataldo
 
