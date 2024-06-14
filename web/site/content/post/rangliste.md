@@ -17,17 +17,17 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 05 - 30 Rosa+Marlen
 
-06 - 30 Claudia+Pepe Panucci
+06 - 30 Claudia Panucci
 
 07 - 30 Pina La Macchia
 
-08 - 30 Salon Liotta  
+08 - 30 Verena Wacker
 
-09  - 30 Urs+Katy Näf
+09  - 30 Katy Näf
 
-10  - 30 Inge Berger+Gregor Kessler
+10  - 30 Inge Berger
 
-11  - 30 Cosimo Cataldo
+11  - 30 Daniela Padula
 
 12  - 30 Andy+Andi Hermann
 
@@ -65,9 +65,9 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 29  - 30 René Benz
 
-30 - 30 Verena+Bruno Wacker
+30 - 30 Salon Liotta
 
-31 -  30 Daniela+Paolo Padula
+31 -  30 Cosimo Cataldo
 
 32 -  30 Lilly+Raffaele
 
