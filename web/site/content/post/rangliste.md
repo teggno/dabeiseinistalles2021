@@ -35,7 +35,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 14  - 40 René Benz
 
-15  - 30 Lilly+Raffaele
+15  - 40 Gianfranco Caporusso
 
 16  - 30 Barbara+Urs Schläpfer
 
@@ -43,7 +43,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 18  -  30 Donato Chaschtä
 
-19   - 30 Gianfranco Caporusso
+19   - 30 Lilly+Raffaele
 
 20   - 30 Daniela+Paolo Padula 
 
