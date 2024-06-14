@@ -7,108 +7,108 @@ image: img/img_0514.jpeg
 Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finden. Die Kommentare folgen dahinter. Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, dann meldet euch ungeniert. 
 
 \
-01  30 Liddy+Thomas Schwemer           
+01 - 30 Liddy+Thomas Schwemer           
 
-02  30 Cosimo Cataldo                   
+02 - 30 Cosimo Cataldo                   
 
-03  30 dog 
+03 - 30 dog 
 
-04  30 Barbara+Urs Schläpfer
+04 - 30 Barbara+Urs Schläpfer
 
-05  30 Renato Petrillo
+05 - 30 Renato Petrillo
 
-06  30 Claudia+Pepe Panucci
+06 - 30 Claudia+Pepe Panucci
 
-07  30 Kurt Meier
+07 - 30 Kurt Meier
 
-08  30 Salon Liotta  
+08 - 30 Salon Liotta  
 
-09  00 Urs+Katy Näf
+09  - 30 Urs+Katy Näf
 
-10  30 Inge Berger+Gregor Kessler
+10  - 30 Inge Berger+Gregor Kessler
 
-11   30 Bea Colaci
+11  - 30 Bea Colaci
 
-12  30 Andy+Andi Hermann
+12  - 30 Andy+Andi Hermann
 
-13   30 Franco Monferini 
+13  - 30 Franco Monferini 
 
-14   30 Made+Donato Carrieri
+14  - 30 Made+Donato Carrieri
 
-15   30 Rosa+Marlen
+15  - 30 Rosa+Marlen
 
-16   30 Severin Stucky
+16  - 30 Severin Stucky
 
-17    30 Zeljko Berger
+17  -  30 Zeljko Berger
 
-18   30 Donato Carrieri
+18  -  30 Donato Carrieri
 
-19   30 Gianfranco Caporusso
+19   - 30 Gianfranco Caporusso
 
-20   30 Nunzio Padula
+20   - 30 Nunzio Padula
 
-21    30 Memduh Aktas
+21   -  30 Memduh Aktas
 
-22    30 Pina+Michele La Macchia
+22   -  30 Pina+Michele La Macchia
 
-23    30 Peter von Känel
+23   - 30 Peter von Känel
 
-24    30 Renato Meier
+24  -  30 Renato Meier
 
-25    30 Gülay Turcan
+25  -   30 Gülay Turcan
 
-26    30 Koni Hornstein 
+26  -  30 Koni Hornstein 
 
-27    30 Emma+Christian Bär
+27  - 30 Emma+Christian Bär
 
-28   30 Martha+Sergio Giménez
+28  - 30 Martha+Sergio Giménez
 
-29   30 René Benz(ina)
+29  - 30 René Benz(ina)
 
-30   30 Verena+Bruno Wacker
+30 - 30 Verena+Bruno Wacker
 
-31   30 Daniela+Paolo Padula
+31 -  30 Daniela+Paolo Padula
 
-32  30 Lilly+Raffaele
+32 -  30 Lilly+Raffaele
 
-33  00 Heidi+Roger Blatter
+33  - 00 Heidi+Roger Blatter
 
-34  00 Kuno Schwarzer
+34  -  00 Kuno Schwarzer
 
-35  00 Eva-Maria+Markus Heitz 
+35  - 00 Eva-Maria+Markus Heitz 
 
-36  00 Baggerstube
+36  - 00 Baggerstube
 
-37  00 Nico Colaci
+37 -  00 Nico Colaci
 
-38  00 Anton Teuffel
+38 -  00 Anton Teuffel
 
-39  00 Tina+Roland Haselbach
+39 -  00 Tina+Roland Haselbach
 
-40 00 Katja Lederle+Tommy Maucher
+40 -  00 Katja Lederle+Tommy Maucher
 
-41  00 Antonia Freer+Rolf Weigel
+41  - 00 Antonia Freer+Rolf Weigel
 
-42  00 Notker Brandes
+42  - 00 Notker Brandes
 
-43  00 Gina+Bruno Meier
+43  - 00 Gina+Bruno Meier
 
-44  00 Steffi+Cristiano Pedron
+44  - 00 Steffi+Cristiano Pedron
 
-45  00 Miro Berger
+45  - 00 Miro Berger
 
-46  00 Jeanette+Urs Affentranger
+46  - 00 Jeanette+Urs Affentranger
 
-47  00 Daniela+Davide Brocca
+47  - 00 Daniela+Davide Brocca
 
-48  00 Janis Hermann
+48  - 00 Janis Hermann
 
-49  00 Claudia+Markus Singer
+49 -  00 Claudia+Markus Singer
 
-50  00 Lucchi+Giacomo Zaccaria 
+50 -  00 Lucchi+Giacomo Zaccaria 
 
- 51  00 Margot+Leo Hensch
+51  -  00 Margot+Leo Hensch
 
- 52 00 Mobby Sahli
+52  - 00 Mobby Sahli
 
- 53 00 Leni+Luciano Schüepp
+53  - 00 Leni+Luciano Schüepp
