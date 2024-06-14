@@ -33,7 +33,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 13  - 30 Marta Giménez
 
-14  - 30 Emma Bär
+14  - 30 Emma 
 
 15  - 30 Lilly Obimo
 
