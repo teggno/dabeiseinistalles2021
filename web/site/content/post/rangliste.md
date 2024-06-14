@@ -15,13 +15,13 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 04 - 40 Koni Hornstein
 
-05 - 30 Bea Colaci
+05 - 40 Wacker Verena
 
 06 - 30 Claudia Panucci
 
 07 - 30 Pina La Macchia
 
-08 - 30 Verena Wacker
+08 - 30 Bea Colaci
 
 09  - 30 Liddy Schwemer
 
