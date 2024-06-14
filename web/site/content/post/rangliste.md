@@ -19,13 +19,13 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 06. 30 Claudia+Pepe Panucci
 
-07 🔌  00 Kurt Meier
+07  30 Kurt Meier
 
-08 🥊 00 Salon Liotta  
+08  30 Salon Liotta  
 
-09 🎆 00 Steffi+Cristiano Pedron
+09  00 Urs+Katy Näf
 
-10 🍺 00 Baggerstube
+10  30 Inge Berger+Gregor Kessler
 
 11 🔮 00 Bea Colaci
 
@@ -77,7 +77,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 35  🍀 00 Eva-Maria+Markus Heitz 
 
-36 🏇🏻 00 Inge Berger+Gregor
+36 🏇🏻 00 Baggerstube
 
 37 🐆 00 Nico Colaci
 
@@ -93,7 +93,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 43 🪂  00 Gina+Bruno Meier
 
-44 🛟  00 Katy+Urs Näf
+44 🛟  00 Steffi+Cristiano Pedron
 
 45  🎉 00 Rosa+Marlen
 
