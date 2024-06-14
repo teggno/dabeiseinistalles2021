@@ -7,11 +7,11 @@ image: img/img_0514.jpeg
 So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 15 Girls an der Spitze! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
 
 \
-01 - 30 Katy Näf  🥇       
+01 - 40 Katy Näf  🥇       
 
-02 - 30 Gülay Turcan 🥈               
+02 - 40 Gülay Turcan 🥈               
 
-03 - 30 Rosa+Marlen 🥉
+03 - 40 Rosa+Marlen 🥉
 
 04 - 30 Barbara Schläpfer
 
@@ -57,7 +57,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 25  -  30 dog
 
-26  -  30 Koni Hornstein 
+26  -  30 Severin Stucky 
 
 27  - 30  Andy+Andi Hermann
 
