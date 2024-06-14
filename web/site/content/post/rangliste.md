@@ -13,7 +13,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 03 - 40 Rosa+Marlen 🥉
 
-04 - 30 Barbara Schläpfer
+04 - 40 Koni Hornstein
 
 05 - 30 Bea Colaci
 
