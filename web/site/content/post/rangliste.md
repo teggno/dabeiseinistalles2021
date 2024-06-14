@@ -43,7 +43,7 @@ Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Wenn’s so 
 
 18  -  40 Memduh Aktas
 
-19   - 30 Lilly+Raffaele
+19   - 30  Bea Colaci
 
 20   - 30 Zeljko Berger
 
@@ -59,7 +59,7 @@ Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Wenn’s so 
 
 26  -   30 Barbara+Urs Schläpfer
 
-27  -  30  Bea Colaci
+27  -  30  Lilly+Raffaele
 
 28  -  30 Renato Petrillo
 
