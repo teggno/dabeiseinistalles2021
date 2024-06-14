@@ -10,10 +10,12 @@ Es war  wie immer, wenn unsere „Pokerrunde“ zusammenkommt. 2/3 kamen auf den
 
 Von den 24 vorgeschlagenen Nationen, behandelte man 11 wie verblühte Mauerblümchen am Wegesrand. 13 haben sich mehr oder weniger in die Gunst der „Anleger“ eingeschlichen. Mehr will ich nicht verraten. Nur soviel, die Schlacht am Morgarten ⚔️ war gegenüber dem was uns hier erwartet ein Pappenstiel.
 
-Das letzte Wort hat wie immer Frau Obimo. Lilly bisch parat?Mit welchen Teams schickst du uns ins Verderben 🙈 Frankreich 🇫🇷 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹 Kane, Mbappe, Lukaku und Scamacca sind fürs Essentielle zuständig, Torschützenkönig wird Harry Kane und Europameister nach dem 💯sten Versuch England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 .  „Ja und wo sind die Pizza 🍕 Bäcker? Miär sind doch amtirändä Europameister.“  Über die nachfolgende Diskussion haben wir absolutes Stillschweigen vereinbart. Am Ende musste ich eingestehen. Es 🇮🇹 wäre reiner „Selbstmord“ 🥲 gewesen. 
+Das letzte Wort hat wie immer Frau Obimo. Lilly bisch parat?Mit welchen Teams schickst du uns ins Verderben 🙈 Frankreich 🇫🇷 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹 Kane, Mbappe, Lukaku und Scamacca sind fürs Essentielle zuständig, Torschützenkönig wird Harry Kane und Europameister nach dem 💯sten Versuch England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 .  „Ja und wo sind die Pizza 🍕 Bäcker? Miär sind doch amtirändä Europameister.“  Über die nachfolgende Diskussion haben wir absolutes Stillschweigen vereinbart. Am Ende musste ich eingestehen. Es 🇮🇹 wäre reiner „Selbstmord“ 🥲 gewesen.
+
+PREISE:  Nach reiflicher Überlegung, bin ich zu folgendem Schluss gekommen! Die  Nummer 1 erhält Fr. 400.— Schliesslich geht’s um die Krone, auch wenn der Spass im Vordergrund steht. Die restlichen Fr. 130.— werden auf Rang 2  (Apéro-Gutschein im Porto Sofie)  Rang 3 (1 Flasche Wein ) und die bedauernswerte Rote Laterne (1 exquisiter Kochwein 😀) verteilt. 
 
 TEILNEHMER \
-01  ☀️Liddy+Thomas Schwemer           
+01 ☀️Liddy+Thomas Schwemer           
 
 02 👑  Cosimo Cataldo                   
 
