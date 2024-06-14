@@ -1,7 +1,7 @@
 ---
 title: "RANGLISTE "
 draft: false
-date: 2024-05-24T08:10:26.379Z
+date: 2024-06-14T21:13:25.007Z
 image: img/img_0514.jpeg
 ---
 Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Wenn’s so weitergeht, lande ich in der Irrenanstalt. So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 6 Girls an der Spitze! Inge ganz obenauf! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
