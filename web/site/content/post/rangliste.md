@@ -2,16 +2,16 @@
 title: "RANGLISTE "
 draft: true
 date: 2024-05-24T08:10:26.379Z
-image: img/img_0509.jpeg
+image: img/img_0514.jpeg
 ---
 Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden sein. Die Kommentare folgen dahinter. Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, dann meldet euch ungeniert. 
 
 \
-01  ☀️00 Liddy+Thomas Schwemer           
+01  30 Liddy+Thomas Schwemer           
 
-02 👑 00 Cosimo Cataldo                   
+02  30 Cosimo Cataldo                   
 
-03 ⛑️ 00 Margot+Leo Hensch
+03  30 dog 
 
 04  ⛸00 Barbara+Urs Schläpfer
 
@@ -47,7 +47,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 20 🗝️ 00 Notker Brandes
 
-21 ✈️ 00 Nico Colaci
+21 ✈️ 00 Memduh Aktas
 
 22 🚂 00 Tina Bühler+Roland Haselbach
 
@@ -79,7 +79,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 36 🏇🏻 00 Inge Berger+Gregor
 
-37 🐆 00 Janis Hermann
+37 🐆 00 Nico Colaci
 
 38  🎈 00 Anton Teuffel
 
@@ -101,14 +101,14 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 47  ☔️ 00 Daniela+Davide Brocca
 
-48  🥲 00 Mobby Sahli
+48  🐆 00 Janis Hermann
 
 49  💃🏽 00 Made+Donato Carrieri
 
 50  🧯 00 Lucchi+Giacomo Zaccaria 
 
- 51 🧨 00 dog (Stefan Werner)
+ 51  00 Margot+Leo Hensch
 
-  52 🥲 00 Mobby Sahli
+  52 00 Mobby Sahli
 
   53  🏮 00 Lilly+Raffaele
