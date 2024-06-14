@@ -35,7 +35,7 @@ TEILNEHMER \
 
 11 🔮   Bea Colaci
 
-12 👣   Iveta+Andy Hermann
+12 👣   Andy+Andi Hermann
 
 13 🎻   Franco Monferini 
 
