@@ -10,7 +10,7 @@ Es war  wie immer, wenn unsere „Pokerrunde“ zusammenkommt. 2/3 kamen auf den
 
 Das letzte Wort hat wie immer Frau Obimo. Lilly bisch parat? Mit welchen Teams schickst du uns ins Verderben 🙈 Frankreich 🇫🇷 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Deutschland 🇩🇪 und Portugal 🇵🇹 Kane, Mbappe, Lukaku und Scamacca sind fürs Essentielle zuständig, Torschützenkönig wird Harry Kane und Europameister nach dem 💯sten Versuch England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 .  „Ja und wo sind die Pizza 🍕 Bäcker? Miär sind doch amtirändä Europameister.“  Über die nachfolgende Diskussion haben wir 2 absolutes Stillschweigen vereinbart. Am Ende musste ich eingestehen. Es 🇮🇹 wäre reiner „Selbstmord“ 🥲 gewesen.
 
-PREISE:  Nach reiflicher Überlegung, bin ich zu folgendem Schluss gekommen! Die  Nummer 1 erhält Fr. 400.— Schliesslich geht’s um die Krone, auch wenn der Spass im Vordergrund steht. Die restlichen Fr. 130.— werden auf Rang 2  (Apéro-Gutschein im Porto Sofie)  Rang 3 (1 Flasche Wein ) und die bedauernswerte Rote Laterne (1 exquisiter Kochwein 😀) verteilt. 
+PREISE:  Nach reiflicher Überlegung, bin ich zu folgendem Schluss gekommen! Die  Nummer 1 erhält Fr. 400.— Schliesslich geht’s um die Krone, auch wenn der Spass im Vordergrund steht. Die restlichen Fr. 130.— werden auf Rang 2  (Apéro-Gutschein im Porto Sofie)  Rang 3 (1 Flasche Wein ) und die bedauernswerte Rote Laterne (1 exquisiter Kochwein 😀) verteilt. Allen viel Spass und noch mehr „Fortune“.
 
 TEILNEHMER \
 01 ☀️Liddy+Thomas Schwemer           
