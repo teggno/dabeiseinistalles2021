@@ -8,8 +8,6 @@ song:
   title: RAFFI‘S JUKEBOX 🎸 Die Toten Hosen  ▶️ Tage wie dieser
   url: https://www.youtube.com/watch?v=veEHPthI3kY&pp=ygUpa2F0amEgZWJzdGVpbiB3dW5kZXIgZ2lidCBlcyBpbW1lciB3aWVkZXI%3D
   image: img/jukebox.jpg
-  description: |
-    
-    Vom Wunder geküsst 💋 Wen trifft es dieses Mal❓
+  description: ""
 type: rangliste
 ---
