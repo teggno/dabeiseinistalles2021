@@ -45,7 +45,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 19 🪇 00 Gianfranco Caporusso
 
-20 🗝️ 00 Notker Brandes
+20  00 Nunzio Padula
 
 21 ✈️ 00 Memduh Aktas
 
@@ -89,7 +89,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 41 🧗🏻‍♀️  00 Antonia Freer+Rolf Weigel
 
-42 👫  00 Rosmarie+Nunzio Padula 
+42  00 Notker Brandes
 
 43 🪂  00 Gina+Bruno Meier
 
