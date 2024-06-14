@@ -37,7 +37,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 15  - 30 Lilly Obimo
 
-16  - 30 Severin Stucky
+16  - 30 Barbara Schläpfer
 
 17  -  30 Zeljko Berger
 
