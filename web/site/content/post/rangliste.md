@@ -41,13 +41,13 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 17  -  40 Daniela+Paolo Padula
 
-18  -  30 Donato Chaschtä
+18  -  40 Memduh Aktas
 
 19   - 30 Lilly+Raffaele
 
 20   - 30 Zeljko Berger
 
-21   -  30 Memduh Aktas
+21   -  30 Donato Chaschtä
 
 22   -  30 Kurt Meier
 
