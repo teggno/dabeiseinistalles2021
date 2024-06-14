@@ -4,7 +4,7 @@ draft: true
 date: 2024-05-24T08:10:26.379Z
 image: img/img_0514.jpeg
 ---
-Hier tut sich Unglaubliches! Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 15 Ladies an der Spitze! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
+So war’s dann doch nicht gemeint! Wir sind nur noch Statisten. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 15 Ladies an der Spitze! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
 
 \
 01 - 30 Liddy Schwemer  🥇       
