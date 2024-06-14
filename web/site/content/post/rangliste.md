@@ -27,7 +27,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 10  -  40 Andy+Andi Hermann
 
-11  -  30 Daniela Padula
+11  -  40 Nunzio Padula 
 
 12  - 30 Made Carrieri
 
@@ -45,7 +45,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 19   - 30 Gianfranco Caporusso
 
-20   - 30 Nunzio Padula
+20   - 30 Daniela+Paolo Padula 
 
 21   -  30 Memduh Aktas
 
