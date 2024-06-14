@@ -31,11 +31,11 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 12  30 Andy+Andi Hermann
 
-13 🎻 00 Franco Monferini 
+13   30 Franco Monferini 
 
-14 👩‍❤️‍👨 00 Claudia+Markus Singer
+14   30 Made+Donato Carrieri
 
-15 👖 00 Miro Berger 
+15   30 Rosa+Marlen
 
 16 ⛑️ 00 Kuno Schwarzer
 
@@ -95,7 +95,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 44 🛟  00 Steffi+Cristiano Pedron
 
-45  🎉 00 Rosa+Marlen
+45  00 Miro Berger
 
 46 ⚓️  00 Verena+Bruno Wacker 
 
@@ -103,7 +103,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 48  🐆 00 Janis Hermann
 
-49  💃🏽 00 Made+Donato Carrieri
+49   00 Claudia+Markus Singer
 
 50  🧯 00 Lucchi+Giacomo Zaccaria 
 
