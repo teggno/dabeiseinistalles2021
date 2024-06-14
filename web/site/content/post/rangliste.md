@@ -13,11 +13,11 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 03  30 dog 
 
-04  ⛸00 Barbara+Urs Schläpfer
+04  30 Barbara+Urs Schläpfer
 
-05  🍍00 Katja Lederle+Tommy Maucher
+05  30 Renato Petrillo
 
-06 🛝 00 Claudia+Pepe Panucci
+06. 30 Claudia+Pepe Panucci
 
 07 🔌  00 Kurt Meier
 
@@ -85,7 +85,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 39 🩴 00 Pina+Michele La Macchia 
 
-40 🐅 00 Renato Petrillo
+40 🐅 00 Katja Lederle+Tommy Maucher
 
 41 🧗🏻‍♀️  00 Antonia Freer+Rolf Weigel
 
