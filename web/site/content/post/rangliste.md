@@ -29,7 +29,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 11  -  40 Nunzio Padula 
 
-12  - 30 Made+Donato Carrieri
+12  - 40 Severin Stucky
 
 13  - 30 Marta+Sergio Giménez
 
@@ -57,7 +57,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 25  -   30 dog
 
-26  -  30 Severin Stucky 
+26  -   30 Miro Berger
 
 27  -  30  Bea Colaci
 
