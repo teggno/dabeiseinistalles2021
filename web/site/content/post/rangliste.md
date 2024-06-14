@@ -65,7 +65,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 29 ⛽️ 00 René Benz(ina)
 
-30 🚀 00 Jeanette+Urs Affentranger
+30 🚀 00 Verena+Bruno Wacker
 
 31 🎣  00 Heidi+Roger Blatter
 
@@ -97,7 +97,7 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 45  00 Miro Berger
 
-46 ⚓️  00 Verena+Bruno Wacker 
+46  00 Jeanette+Urs Affentranger
 
 47  ☔️ 00 Daniela+Davide Brocca
 
