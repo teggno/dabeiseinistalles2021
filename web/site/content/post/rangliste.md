@@ -25,7 +25,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 09  - 40 Salon Liotta
 
-10  -  30 Bea Colaci 
+10  -  40 Andy+Andi Hermann
 
 11  -  30 Daniela Padula
 
@@ -81,13 +81,13 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 37 -  00 Nico Colaci
 
-38 -  00 Anton Teuffel
+38 -  10 Mobby
 
 39 -  10 Tina+Roland Haselbach
 
 40 -  00 Katja Lederle+Tommy Maucher
 
-41  - 00 Antonia Freer+Rolf Weigel
+41  -  00 Antonia Freer+Rolf Weigel
 
 42  - 00 Notker Brandes
 
@@ -109,7 +109,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 51  -  00 Margot+Leo Hensch
 
-52  - 00 Mobby Sahli 
+52  - 00 Anton Teuffel
 
 53  - 00 Leni+Luciano Schüepp 🏮
 
