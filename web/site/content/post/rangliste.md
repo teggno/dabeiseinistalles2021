@@ -7,110 +7,110 @@ image: img/img_0514.jpeg
 Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Wenn’s so weitergeht, lande ich im Irrenhaus. Wir Jungs sind nur noch Statisten. So war’s dann doch nicht gemeint mit der Frauenquote. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 8 Girls an der Spitze! Inge ganz obenauf! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
 
 \
-01 - 50 Inge Berger  🥇       
+01 = 50 Inge Berger  🥇       
 
-02 - 40 Gülay Turcan 🥈               
+02 = 40 Gülay Turcan 🥈               
 
-03 - 40 Katy Näf 🥉
+03 = 40 Katy Näf 🥉
 
-04 - 40 Verena Wacker
+04 = 40 Verena Wacker
 
-05 - 40 Rosa+Marlen
+05 = 40 Rosa+Marlen
 
-06 - 40 Liddy Schwemer
+06 = 40 Liddy Schwemer
 
-07 - 40 Daniela Padula
+07 =  40 Daniela Padula
 
-08 - 40 Made Carrieri
+08 = 40 Made Carrieri
 
-09  - 40 Salon Liotta
+09  = 40 Salon Liotta
 
-10  -  40 Andy+Andi Hermann
+10  = 40 Andy+Andi Hermann
 
-11  -  40 Nunzio Padula 
+11  = 40 Nunzio Padula 
 
-12  - 40 Severin Stucky
+12  = 40 Severin Stucky
 
-13  - 40 Cosimo Cataldo
+13  = 40 Cosimo Cataldo
 
-14  - 40 René Benz
+14  =  40 René Benz
 
-15  - 40 Gianfranco Caporusso
+15  =  40 Gianfranco Caporusso
 
-16  - 40 Koni Hornstein
+16  =  40 Koni Hornstein
 
-17  -  40 Renato Meier
+17  =  40 Renato Meier
 
-18  -  40 Memduh Aktas
+18   = 40 Memduh Aktas
 
-19   - 30  Bea Colaci
+19   = 30  Bea Colaci
 
-20   - 30 Zeljko Berger
+20   = 30 Zeljko Berger
 
-21   -  30 Donato Chaschtä
+21    = 30 Donato Chaschtä
 
-22   -  30 Kurt Meier
+22   =  30 Kurt Meier
 
-23   -  30 Peter von Känel
+23   =   30 Peter von Känel
 
-24  -   30 Pina+Michele La Macchia 
+24   =   30 Pina+Michele La Macchia 
 
-25  -   30 dog
+25   =   30 dog
 
-26  -   30 Barbara+Urs Schläpfer
+26  =   30 Barbara+Urs Schläpfer
 
-27  -   30  Lilly+Raffaele
+27  =   30  Lilly+Raffaele
 
-28  -   30 Renato Petrillo
+28  =   30 Renato Petrillo
 
-29  -  30 Emma+Christian Bär
+29  =   30 Emma+Christian Bär
 
-30 -   30 Martha+Sergio Giménez
+30  =   30 Martha+Sergio Giménez
 
-31 -   30 Claudia+Pepe Panucci
+31   =  30 Claudia+Pepe Panucci
 
-32 -  30 Franco Monferini
+32   = 30 Franco Monferini
 
-33  - 20 Tina+Roland Haselbach
+33   = 20 Tina+Roland Haselbach
 
-34  - 10  Baggerstube
+34  =  10  Baggerstube
 
-35  - 10 Mobby
+35  =  10 Mobby
 
-36  - 10 Katja Lederle+Tommy Maucher
+36  = 10 Katja Lederle+Tommy Maucher
 
-37 -  00 Nico Colaci
+37   = 00 Nico Colaci
 
-38 -  00 Heidi+Roger Blatter
+38  =  00 Heidi+Roger Blatter
 
-39 -  00 Eva-Maria Heitz
+39 =   00 Eva-Maria Heitz
 
-40 -  00 Anton Teuffel
+40 =  00 Anton Teuffel
 
-41  -  00 Antonia Freer+Rolf Weigel
+41  =  00 Antonia Freer+Rolf Weigel
 
-42  - 00 Notker Brandes
+42  = 00 Notker Brandes
 
-43  - 00 Gina+Bruno Meier
+43  =  00 Gina+Bruno Meier
 
-44  - 00 Steffi+Cristiano Pedron
+44  = 00 Steffi+Cristiano Pedron
 
-45  - 00 Miro Berger
+45   = 00 Miro Berger
 
-46  - 00 Jeanette+Urs Affentranger
+46  = 00 Jeanette+Urs Affentranger
 
-47  - 00 Daniela+Davide Brocca
+47  = 00 Daniela+Davide Brocca
 
-48  - 00 Janis Hermann
+48  = 00 Janis Hermann
 
-49 -  00 Claudia+Markus Singer
+49  = 00 Claudia+Markus Singer
 
-50 -  00 Lucchi+Giacomo Zaccaria 
+50  =  00 Lucchi+Giacomo Zaccaria 
 
-51  -  00 Margot+Leo Hensch
+51   =  00 Margot+Leo Hensch
 
-52  - 00  Kuno Schwarzer
+52  =  00  Kuno Schwarzer
 
-53  - 00 Leni+Luciano Schüepp 🏮
+53  = 00 Leni+Luciano Schüepp 🏮
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es unmöglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
