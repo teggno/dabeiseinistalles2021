@@ -17,7 +17,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 05 - 40 Rosa+Marlen
 
-06 - 40 Cosimo Cataldo
+06 - 40 Liddy Schwemer
 
 07 - 40 Renato Meier
 
@@ -31,7 +31,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 12  - 40 Severin Stucky
 
-13  - 30 Marta+Sergio Giménez
+13  - 30 Cosimo Cataldo
 
 14  - 30 Emma+Christian Bär 
 
@@ -65,7 +65,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 29  -  30 René Benz
 
-30 -  30 Liddy+Thomas Schwemer
+30 -  30 Martha+Sergio Giménez
 
 31 -   30 Claudia+Pepe Panucci
 
