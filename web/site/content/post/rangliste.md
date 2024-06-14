@@ -59,19 +59,19 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 26    30 Koni Hornstein 
 
-27 🏖️ 00 Emma+Christian Bär
+27    30 Emma+Christian Bär
 
-28  🎈00 Martha+Sergio Giménez
+28    30Martha+Sergio Giménez
 
-29 ⛽️ 00 René Benz(ina)
+29    30 René Benz(ina)
 
-30 🚀 00 Verena+Bruno Wacker
+30    30 Verena+Bruno Wacker
 
-31 🎣  00 Heidi+Roger Blatter
+31     30 Daniela+Paolo Padula
 
-32 🕺🏾  00 
+32    30 Lilly+Raffaele
 
-33 🎢  00 Daniela+Paolo Padula
+33  00 Heidi+Roger Blatter
 
 34  00 Kuno Schwarzer
 
@@ -103,12 +103,12 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 48  00 Janis Hermann
 
-49   00 Claudia+Markus Singer
+49  00 Claudia+Markus Singer
 
-50  🧯 00 Lucchi+Giacomo Zaccaria 
+50  00 Lucchi+Giacomo Zaccaria 
 
  51  00 Margot+Leo Hensch
 
-  52 00 Mobby Sahli
+ 52 00 Mobby Sahli
 
-  53  🏮 00 Lilly+Raffaele
+ 53 00 Leni+Luciano Schüepp
