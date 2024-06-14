@@ -61,9 +61,9 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 27  -  30  Bea Colaci
 
-28  - 30 Renato Petrillo
+28  -  30 Renato Petrillo
 
-29  - 30 René Benz
+29  -  30 René Benz
 
 30 -  30 Liddy+Thomas Schwemer
 
@@ -71,13 +71,13 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 32 -  30 Franco Monferini
 
-33  - 10 Mobby
+33  - 20 Tina+Roland Haselbach
 
-34  - 10 Kuno Schwarzer
+34  - 10  Baggerstube
 
-35  - 10 Tina+Roland Haselbach 
+35  - 10 Mobby
 
-36  - 10 Baggerstube
+36  - 10 Kuno Schwarzer
 
 37 -  00 Nico Colaci
 
