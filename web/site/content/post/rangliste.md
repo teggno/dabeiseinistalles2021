@@ -31,13 +31,13 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 12  - 30 Made+Donato Carrieri
 
-13  - 30 Marta Giménez
+13  - 30 Marta+Sergio Giménez
 
-14  - 30 Emma 
+14  - 30 Emma+Christian Bär 
 
 15  - 30 Lilly+Raffaele
 
-16  - 30 Barbara Schläpfer
+16  - 30 Barbara+Urs Schläpfer
 
 17  -  30 Zeljko Berger
 
@@ -51,15 +51,15 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 22   -  30 Kurt Meier
 
-23   - 30 Peter von Känel
+23   -  30 Peter von Känel
 
-24  -  30 Pina+Michele La Machia
+24  -   30 Pina+Michele La Macchia 
 
-25  -  30 dog
+25  -   30 dog
 
 26  -  30 Severin Stucky 
 
-27  - 30  Andy+Andi Hermann
+27  -  30  Bea Colaci
 
 28  - 30 Renato Petrillo
 
@@ -67,7 +67,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 30 -  30 Liddy+Thomas Schwemer
 
-31 -  30 Claudia+Pepe Panucci
+31 -   30 Claudia+Pepe Panucci
 
 32 -  30 Franco Monferini
 
