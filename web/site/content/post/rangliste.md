@@ -7,7 +7,7 @@ image: img/img_0514.jpeg
 So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 15 Girls an der Spitze! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
 
 \
-01 - 30 Liddy Schwemer  🥇       
+01 - 30 Katy Näf  🥇       
 
 02 - 30 Bea Colaci 🥈               
 
@@ -23,7 +23,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 08 - 30 Verena Wacker
 
-09  - 30 Katy Näf
+09  - 30 Liddy Schwemer
 
 10  - 30 Inge Berger
 
@@ -83,7 +83,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 38 -  00 Anton Teuffel
 
-39 -  00 Tina+Roland Haselbach
+39 -  10 Tina+Roland Haselbach
 
 40 -  00 Katja Lederle+Tommy Maucher
 
