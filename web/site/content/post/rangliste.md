@@ -73,17 +73,17 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 33  - 10 Mobby
 
-34  - 00 Kuno Schwarzer
+34  - 10 Kuno Schwarzer
 
-35  - 00 Eva-Maria+Markus Heitz 
+35  - 10 Tina+Roland Haselbach 
 
 36  - 10 Baggerstube
 
 37 -  00 Nico Colaci
 
-38 -  10 Heidi+Roger Blatter
+38 -  00 Heidi+Roger Blatter
 
-39 -  10 Tina+Roland Haselbach
+39 -  00 Eva-Maria Heitz
 
 40 -  00 Katja Lederle+Tommy Maucher
 
