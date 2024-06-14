@@ -77,7 +77,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 35  - 10 Mobby
 
-36  - 10 Kuno Schwarzer
+36  - 10 Katja Lederle+Tommy Maucher
 
 37 -  00 Nico Colaci
 
@@ -85,7 +85,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 39 -  00 Eva-Maria Heitz
 
-40 -  00 Katja Lederle+Tommy Maucher
+40 -  00 Anton Teuffel
 
 41  -  00 Antonia Freer+Rolf Weigel
 
@@ -109,7 +109,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 51  -  00 Margot+Leo Hensch
 
-52  - 00 Anton Teuffel
+52  - 00  Kuno Schwarzer
 
 53  - 00 Leni+Luciano Schüepp 🏮
 
