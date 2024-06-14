@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-14T21:13:25.007Z
 image: img/img_0514.jpeg
 ---
-Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Wenn’s so weitergeht, lande ich in der Irrenanstalt. Wir Jungs sind nur noch Statisten. So war’s dann doch nicht gemeint mit der Frauenquote. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 8 Girls an der Spitze! Inge ganz obenauf! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
+Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Wenn’s so weitergeht, lande ich im Irrenhaus. Wir Jungs sind nur noch Statisten. So war’s dann doch nicht gemeint mit der Frauenquote. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 8 Girls an der Spitze! Inge ganz obenauf! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
 
 \
 01 - 50 Inge Berger  🥇       
