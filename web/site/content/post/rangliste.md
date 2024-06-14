@@ -31,9 +31,9 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 12  - 40 Severin Stucky
 
-13  - 30 Cosimo Cataldo
+13  - 40 Cosimo Cataldo
 
-14  - 30 Emma+Christian Bär 
+14  - 40 René Benz
 
 15  - 30 Lilly+Raffaele
 
@@ -63,7 +63,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 28  -  30 Renato Petrillo
 
-29  -  30 René Benz
+29  -  30 Emma+Christian Bär
 
 30 -  30 Martha+Sergio Giménez
 
