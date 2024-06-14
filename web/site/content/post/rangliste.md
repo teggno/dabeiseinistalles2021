@@ -57,7 +57,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 25  -   30 dog
 
-26  -   30 
+26  -   30 Barbara+Urs Schläpfer
 
 27  -  30  Bea Colaci
 
