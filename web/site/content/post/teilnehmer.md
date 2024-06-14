@@ -70,7 +70,7 @@ image: img/img_0514.jpeg
 
 33 🎢    Daniela+Paolo Padula
 
-34  🪭   Severin Stucky
+34  🚧   Severin Stucky
 
 35  🍀   Eva-Maria+Markus Heitz 
 
