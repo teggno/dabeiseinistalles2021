@@ -1,7 +1,7 @@
 ---
 title: Vorhang auf❗️
-draft: true
-date: 2024-06-13T16:37:01.488Z
+draft: false
+date: 2024-06-14T08:12:50.943Z
 image: img/img_0498.jpeg
 ---
 Ausgeteilte Stimmzettel 50❗️Vergessen gegangene 2 🥲! Nachzügler 2!  Eingegangene Stimmzettel 53 - Leer 0 - ungültig 0❗️Binär 53 - Nonbinär 0! Nemo ist also nicht dabei. Vielleicht schafft es ja sein Ohrwurm 🫢 bis in meine Jukebox! Natürlich nur, wenn die Performance von Shaqiri & Co. auf dem Rasen stimmt. Sollte die Schweizer Nati mit ähnlich guten Stilnoten wie Mister Eurovision bedacht werden, stände einer Übermittlung seines „Codes“ nichts mehr im Wege. Wer in einem Atemzug mit den „Beatles“ und den „Stones“ genannt wird, der hat das Recht im VIP-Zelt angehört zu werden.
