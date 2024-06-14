@@ -63,7 +63,7 @@ Ein Wort noch zur Rangliste! Sie ist immer zuvorderst auf der Blogseite zu finde
 
 28  - 30 Martha+Sergio Giménez
 
-29  - 30 René Benz(ina)
+29  - 30 René Benz
 
 30 - 30 Verena+Bruno Wacker
 
