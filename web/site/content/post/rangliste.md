@@ -13,21 +13,21 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 03 - 40 Rosa+Marlen 🥉
 
-04 - 40 Koni Hornstein
+04 - 40 Verena Wacker
 
-05 - 40 Wacker Verena
+05 - 40 Inge Berger
 
-06 - 30 Claudia Panucci
+06 - 40 Cosimo Cataldo
 
-07 - 30 Pina La Macchia
+07 - 40 Renato Meier
 
-08 - 30 Bea Colaci
+08 - 40 Koni Hornstein
 
-09  - 30 Liddy Schwemer
+09  - 40 Salon Liotta
 
-10  - 30 Inge Berger
+10  -  30 Bea Colaci 
 
-11  - 30 Daniela Padula
+11  -  30 Daniela Padula
 
 12  - 30 Made Carrieri
 
@@ -35,7 +35,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 14  - 30 Emma 
 
-15  - 30 Lilly Obimo
+15  - 30 Lilly+Raffaele
 
 16  - 30 Barbara Schläpfer
 
@@ -53,7 +53,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 23   - 30 Peter von Känel
 
-24  -  30 Renato Meier
+24  -  30 Pina+Michele La Machia
 
 25  -  30 dog
 
@@ -65,9 +65,9 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 29  - 30 René Benz
 
-30 - 30 Salon Liotta
+30 -  30 Liddy+Thomas Schwemer
 
-31 -  30 Cosimo Cataldo
+31 -  30 Claudia+Pepe Panucci
 
 32 -  30 Franco Monferini
 
