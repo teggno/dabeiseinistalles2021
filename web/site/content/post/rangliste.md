@@ -39,13 +39,13 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 16  - 40 Made+Donato Carrieri
 
-17  -  30 Zeljko Berger
+17  -  40 Daniela+Paolo Padula
 
 18  -  30 Donato Chaschtä
 
 19   - 30 Lilly+Raffaele
 
-20   - 30 Daniela+Paolo Padula 
+20   - 30 Zeljko Berger
 
 21   -  30 Memduh Aktas
 
