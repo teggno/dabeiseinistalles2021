@@ -73,7 +73,7 @@ So war’s dann doch nicht gemeint! Wir Jungs sind nur noch Statisten. Selbst in
 
 33  - 00 Heidi+Roger Blatter
 
-34  -  00 Kuno Schwarzer
+34  - 00 Kuno Schwarzer
 
 35  - 00 Eva-Maria+Markus Heitz 
 
