@@ -37,21 +37,21 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 15   30 Rosa+Marlen
 
-16 ⛑️ 00 Kuno Schwarzer
+16  Kuno Schwarzer
 
 17  🌈 00 Zeljko Berger
 
 18 🛵 00 Nunzia+Donato Carrieri
 
-19 🪇 00 Gianfranco Caporusso
+19 00 Gianfranco Caporusso
 
 20  00 Nunzio Padula
 
-21 ✈️ 00 Memduh Aktas
+21 00 Memduh Aktas
 
-22 🚂 00 Tina Bühler+Roland Haselbach
+22 00 Pina+Michele La Macchia
 
-23 🚁 00 Peter von Känel
+23 00 Peter von Känel
 
 24 🏄‍♂️ 00 Renato Meier
 
@@ -73,27 +73,27 @@ Ein Wort noch zur Rangliste! Sie wird immer zuvorderst auf dem Blog zu finden se
 
 33 🎢  00 Daniela+Paolo Padula
 
-34  🪭 00 Severin Stucky
+34  00 Kuno Schwarzer
 
-35  🍀 00 Eva-Maria+Markus Heitz 
+35  00 Eva-Maria+Markus Heitz 
 
-36 🏇🏻 00 Baggerstube
+36  00 Baggerstube
 
-37 🐆 00 Nico Colaci
+37  00 Nico Colaci
 
-38  🎈 00 Anton Teuffel
+38  00 Anton Teuffel
 
-39 🩴 00 Pina+Michele La Macchia 
+39  00 Tina+Roland Haselbach
 
-40 🐅 00 Katja Lederle+Tommy Maucher
+40 00 Katja Lederle+Tommy Maucher
 
-41 🧗🏻‍♀️  00 Antonia Freer+Rolf Weigel
+41  00 Antonia Freer+Rolf Weigel
 
 42  00 Notker Brandes
 
-43 🪂  00 Gina+Bruno Meier
+43  00 Gina+Bruno Meier
 
-44 🛟  00 Steffi+Cristiano Pedron
+44  00 Steffi+Cristiano Pedron
 
 45  00 Miro Berger
 
