@@ -97,7 +97,7 @@ Inge+Liddy mit einem Riesenlauf. DAS Thema In Tägerwilen+Umgebung. Die Schweiz 
 
 45  =  30 Eva-Maria Heitz
 
-46  =  30Jeanette+Urs Affentranger
+46  =  30 Jeanette+Urs Affentranger
 
 47  =  30 Daniela+Davide Brocca
 
