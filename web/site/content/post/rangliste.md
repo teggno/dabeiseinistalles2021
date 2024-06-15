@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-14T22:05:26.252Z
 image: img/img_0514.jpeg
 ---
-Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Überall rote Striche machen! Wenn’s so weitergeht, lande ich im Irrenhaus. Wir Jungs sind nur noch Statisten. So war’s dann doch nicht gemeint m
+Inge+Liddy mit einem Riesenlauf. Ganz Tägerwilen+angrenzende Gemeinden reden davon. Die Schweiz än Wahnsinn und dä Ruäfär s‘Nonplusultra. So darf es weitergehen. Ich muss gleich zum nächsten Spiel. Wilde Toreros gegen die Grufties aus Kroatien. Doch aufgepasst! Modric und seine Kumpanen können es immer noch.
 
 \
 01 = 80 Inge Berger  🥇       
