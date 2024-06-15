@@ -1,10 +1,10 @@
 ---
 title: "RANGLISTE "
-draft: false
+draft: true
 date: 2024-06-14T22:05:26.252Z
 image: img/img_0514.jpeg
 ---
-Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Überall rote Striche machen! Wenn’s so weitergeht, lande ich im Irrenhaus. Wir Jungs sind nur noch Statisten. So war’s dann doch nicht gemeint mit der Frauenquote. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 8 Girls an der Spitze! Inge obenauf! Ein PC-Freak war eben hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
+Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Überall rote Striche machen! Wenn’s so weitergeht, lande ich im Irrenhaus. Wir Jungs sind nur noch Statisten. So war’s dann doch nicht gemeint m
 
 \
 01 = 80 Inge Berger  🥇       
