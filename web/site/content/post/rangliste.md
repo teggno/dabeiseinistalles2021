@@ -7,7 +7,7 @@ image: img/img_0514.jpeg
 Starke Reaktion nach dem 0:1! Nachher ein Spiel zum Einschlafen 😴
 
 \
-01 = 80 Rosa+Marlen  🥇       
+01 = 100 Nunzio Padula  🥇       
 
 02 = 80 Inge+Gregor🥈               
 
@@ -27,7 +27,7 @@ Starke Reaktion nach dem 0:1! Nachher ein Spiel zum Einschlafen 😴
 
 10  = 60 Martha+Sergio Giménez
 
-11  = 60 Franco Monferini 
+11  = 90 Franco Monferini 
 
 12  = 60 dä Chaschtä
 
@@ -57,7 +57,7 @@ Starke Reaktion nach dem 0:1! Nachher ein Spiel zum Einschlafen 😴
 
 25   =  40 Leni+Luciano Schüepp
 
-26  =   4O Nico Colaci
+26  =   70 Nico Colaci
 
 27  =   40 Miro Berger
 
@@ -67,7 +67,7 @@ Starke Reaktion nach dem 0:1! Nachher ein Spiel zum Einschlafen 😴
 
 30  =   40 Mobby
 
-31   =  30 Claudia+Pepe Panucci
+31   =   60 Claudia+Pepe Panucci
 
 32   = 30 Renato Petrillo
 
@@ -75,11 +75,11 @@ Starke Reaktion nach dem 0:1! Nachher ein Spiel zum Einschlafen 😴
 
 34  =  30 Roger Blatter
 
-35  =  30 Bea Colaci
+35  =  60 Bea Colaci
 
 36  =  30 Gina+Bruno
 
-37   =  30 Lilly+Raffaele
+37   = 30 Lilly+Raffaele
 
 38  =  30 Zeljko Berger
 
@@ -91,7 +91,7 @@ Starke Reaktion nach dem 0:1! Nachher ein Spiel zum Einschlafen 😴
 
 42  =  30 Notker Brandes
 
-43  = 30 Margot+Leo Hensch
+43  = 60 Margot+Leo Hensch
 
 44  = 30 Emma+Christian Bär
 
@@ -99,7 +99,7 @@ Starke Reaktion nach dem 0:1! Nachher ein Spiel zum Einschlafen 😴
 
 46  =  30 Jeanette+Urs Affentranger
 
-47  =  30 Daniela+Davide Brocca
+47  =   60 Daniela+Davide Brocca
 
 48  =  10 Baggerstube 
 
@@ -111,6 +111,6 @@ Starke Reaktion nach dem 0:1! Nachher ein Spiel zum Einschlafen 😴
 
 52  =  00  Janis Hermann
 
-53  =  00  Die Freigels🏮
+53  =  30  Die Freigels🏮
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es unmöglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
