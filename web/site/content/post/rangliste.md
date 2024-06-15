@@ -9,7 +9,7 @@ Zum Schluss brauchten wir Italiener den berühmten Schutzengel, der meine Jukebo
 \
 01 = 100 Nunzio Padula  🥇       
 
-02 = 80 Franco Monferini🥈               
+02 = 90 Franco Monferini🥈               
 
 03 = 80 Rosa+Marlen🥉
 
