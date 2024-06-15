@@ -65,7 +65,7 @@ Inge+Liddy mit einem Riesenlauf. DAS Thema In Tägerwilen+Umgebung. Die Schweiz 
 
 29  =   40 Salon Liotta
 
-30  =  30 Martha+Sergio Giménez
+30  =   40 Mobby
 
 31   =  30 Claudia+Pepe Panucci
 
@@ -87,7 +87,7 @@ Inge+Liddy mit einem Riesenlauf. DAS Thema In Tägerwilen+Umgebung. Die Schweiz 
 
 40 =  30 Claudia+Markus Singer
 
-41  =  30 Teuffel Anton
+41  =  30 Anton Teuffel
 
 42  =  30 Notker Brandes
 
