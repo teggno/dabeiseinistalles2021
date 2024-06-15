@@ -1,7 +1,7 @@
 ---
 title: Traumstart
 draft: true
-date: 2024-06-14T22:39:49.445Z
+date: 2024-06-15T06:44:29.585Z
 image: img/img_0532.jpeg
 ---
 „Schtrich mi“ ❌“! So der knappe Wortlaut eines mitternächtlichen Anrufs, der all die Verzweiflung derer zum Ausdruck brachte, die Deutschland auf dem Zettel vergessen haben. Ich kam nicht mal dazu den armen Kerl aufzumuntern, er hatte bereits aufgelegt. Jungs ich verstehe euch und wenn ihr dann noch nachschaut wie elegant es Kollegen von euch gelöst haben, die den Schreibkram ihrer Liebsten überliessen, ist der Frust perfekt. Und das ist erst der Anfang.
