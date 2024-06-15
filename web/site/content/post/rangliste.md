@@ -9,13 +9,13 @@ Starke Reaktion nach dem 0:1! Nachher ein Spiel zum Einschlafen 😴
 \
 01 = 100 Nunzio Padula  🥇       
 
-02 = 80 Inge+Gregor🥈               
+02 = 80 Franco Monferini🥈               
 
-03 = 80 René Benz
+03 = 80 Rosa+Marlen🥉
 
-04 = 70 Cosimo Cataldo
+04 = 80 René Benz
 
-05 = 70 Nunzio Padula
+05 = 80 Inge+Gregor
 
 06 = 70 Liddy+Thomas Schwemer
 
@@ -23,75 +23,75 @@ Starke Reaktion nach dem 0:1! Nachher ein Spiel zum Einschlafen 😴
 
 08 = 70 Pina+ Michele La Macchia
 
-09  = 60 Kurt Meier
+09  = 70 Cosimo Cataldo
 
-10  = 60 Martha+Sergio Giménez
+10  =  70 Memduh Aktas
 
-11  = 90 Franco Monferini 
+11  =  70 Nico Colaci
 
-12  = 60 dä Chaschtä
+12  =  70 Daniela+Paolo Padula
 
-13  = 60 Dog
+13  =  70 Salon Liotta
 
-14  = 50 Tina+Roland Haselbach
+14  =  60 Daniela+Davide Brocca
 
-15  =  40 Gianfranco Caporusso
+15  =  60 Renato Petrillo
 
-16  =  40 Koni Hornstein
+16  =  60 dä Chaschtä
 
-17  =  40 Renato Meier
+17  =  60 Dog 
 
-18   = 40 Memduh Aktas
+18   = 60 Martha+ Sergio Giménez 
 
-19   = 40 Katy+Urs Näf
+19   = 60 Claudia+Pepe Panucci
 
-20   = 40 Gülay Turcan
+20   = 60 Bea Colaci
 
-21    = 40 Made+Donato Carrieri
+21    = 60 Kurt Meier
 
-22   =  40 Andy+Andi Hermann
+22   =  60 Peter von Könel
 
-23   =  40 Severin Stucky
+23   =  60 Anton Teuffel
 
-24   =  40 Verena+Bruno Wacker
+24   =  60 Margot+Leo Hensch
 
-25   =  40 Leni+Luciano Schüepp
+25   =  50 Tina+Roland Haselbach
 
-26  =   70 Nico Colaci
+26  =   40 Leni+Luciano Schüepp
 
 27  =   40 Miro Berger
 
-28  =   40 Daniela+Paolo Padula
+28  =   40 Verena+Bruno Wacker
 
-29  =   40 Salon Liotta
+29  =   40 Gulay Turcan
 
 30  =   40 Mobby
 
-31   =   60 Claudia+Pepe Panucci
+31   =  40 Urs+Katy
 
-32   = 30 Renato Petrillo
+32   =  40 Gianfranco Caporusso
 
-33   = 30 Kuno Schwarzer
+33   =  40 Koni
 
-34  =  30 Roger Blatter
+34  =   40 Renato Meier
 
-35  =  60 Bea Colaci
+35  =  40 Baggerstube 
 
-36  =  30 Gina+Bruno
+36  =  40 Made+Donato Carrieri
 
-37   = 30 Lilly+Raffaele
+37   =  40 Andy+Andi Hermann
 
-38  =  30 Zeljko Berger
+38  =  40 Severin Stucky
 
-39 =  30 Peter von Känel 
+39 =   30 Zeljko Berger
 
 40 =  30 Claudia+Markus Singer
 
-41  =  30 Anton Teuffel
+41  =  30 Lilly+Raffaele
 
 42  =  30 Notker Brandes
 
-43  = 60 Margot+Leo Hensch
+43  =  30 Gina+Bruno Meier
 
 44  = 30 Emma+Christian Bär
 
@@ -99,18 +99,18 @@ Starke Reaktion nach dem 0:1! Nachher ein Spiel zum Einschlafen 😴
 
 46  =  30 Jeanette+Urs Affentranger
 
-47  =   60 Daniela+Davide Brocca
+47  =   30 Kuno Schwarzer
 
-48  =  10 Baggerstube 
+48  =   30 Roger Blatter
 
-49  =  10 Tommy+ Katja
+49  =   30 Zac
 
-50  =  00 Stephanie+Cristiano Pedron
+50  =   30 Stephanie+Cristiano Pedron
 
-51   =  00 Zacs
+51   =  30 die Freigels
 
-52  =  00  Janis Hermann
+52  =  10 Tommy+Katja
 
-53  =  30  Die Freigels🏮
+53  =   00 Janis 🏮
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es unmöglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
