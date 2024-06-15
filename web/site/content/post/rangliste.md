@@ -63,7 +63,7 @@ Inge+Liddy mit einem Riesenlauf. DAS Thema In Tägerwilen+Umgebung. Die Schweiz 
 
 28  =   40 Daniela+Paolo Padula
 
-29  =   30 Emma+Christian Bär
+29  =   40 Salon Liotta
 
 30  =  30 Martha+Sergio Giménez
 
@@ -93,7 +93,7 @@ Inge+Liddy mit einem Riesenlauf. DAS Thema In Tägerwilen+Umgebung. Die Schweiz 
 
 43  = 30 Margot+Leo Hensch
 
-44  = 00 
+44  = 30 Emma+Christian Bär
 
 45  =  30 Eva-Maria Heitz
 
