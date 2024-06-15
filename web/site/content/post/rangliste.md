@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-15T16:02:46.673Z
 image: img/img_0514.jpeg
 ---
-Inge+Liddy mit einem Riesenlauf. DAS Thema In Tägerwilen+Umgebung. Die Schweiz än Wahnsinn (do redemär spöötär no drüber) und dä Ruefer s‘Nonplusultra. So darf es gerne weitergehen. Ich muss gleich zum nächsten Spiel. Heissblütige Toreros gegen die Grufties aus Kroatien. Der junge Yamal gegen die Legende Modric …autsch zur Pause 3:0 ….Soll ich die roten Striche schon machen?
+Seit 2016 in der Versenkung verschwunden. Heute vor dem Abendspiel melden sie sich zurück.
 
 \
 01 = 80 Rosa+Marlen  🥇       
