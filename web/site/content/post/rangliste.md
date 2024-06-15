@@ -63,7 +63,7 @@ Zum Schluss brauchten wir Italiener den berühmten Schutzengel, der meine Jukebo
 
 28  =   40 Verena+Bruno Wacker
 
-29  =   40 Gulay Turcan
+29  =   40 Gülay Turcan
 
 30  =   40 Mobby
 
