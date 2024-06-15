@@ -7,23 +7,23 @@ image: img/img_0514.jpeg
 Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Überall rote Striche machen! Wenn’s so weitergeht, lande ich im Irrenhaus. Wir Jungs sind nur noch Statisten. So war’s dann doch nicht gemeint mit der Frauenquote. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 8 Girls an der Spitze! Inge obenauf! Ein PC-Freak war eben hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
 
 \
-01 = 50 Inge Berger  🥇       
+01 = 80 Inge Berger  🥇       
 
-02 = 40 Gülay Turcan 🥈               
+02 = 70 Liddy Schwemer 🥈               
 
-03 = 40 Katy Näf 🥉
+03 = 60 Chaschtä🥉
 
-04 = 40 Verena Wacker
+04 = 40 Verena+Bruno Wacker
 
 05 = 40 Rosa+Marlen
 
-06 = 40 Liddy Schwemer
+06 = 40 Salon Liotta
 
-07 =  40 Daniela Padula
+07 =  40 Daniela+Paolo Padula
 
-08 = 40 Made Carrieri
+08 = 40 Made+Donato Carrieri
 
-09  = 40 Salon Liotta
+09  = 40 Gülay Turcan
 
 10  = 40 Andy+Andi Hermann
 
@@ -43,15 +43,15 @@ Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Überall rot
 
 18   = 40 Memduh Aktas
 
-19   = 30  Bea Colaci
+19   = 40 Katy+Urs Näf
 
 20   = 30 Zeljko Berger
 
-21    = 30 Donato Chaschtä
+21    = 30 Margot+Leo Hensch
 
 22   =  30 Kurt Meier
 
-23   =   30 Peter von Känel
+23   =  30 Peter von Känel
 
 24   =   30 Pina+Michele La Macchia 
 
@@ -71,19 +71,19 @@ Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Überall rot
 
 32   = 30 Franco Monferini
 
-33   = 20 Tina+Roland Haselbach
+33   = 30 Kuno Schwarzer
 
-34  =  10  Baggerstube
+34  =  30 Roger Blatter
 
-35  =  10 Mobby
+35  =  30 Bea Colaci
 
-36  = 10 Katja Lederle+Tommy Maucher
+36  =  20 Tina+Roland Haselbach
 
-37   = 00 Nico Colaci
+37   = 10 Baggerstube
 
-38  =  00 Heidi+Roger Blatter
+38  =  10 Mobby
 
-39 =   00 Eva-Maria Heitz
+39 =  10 Katy+Tommy
 
 40 =  00 Anton Teuffel
 
@@ -91,7 +91,7 @@ Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Überall rot
 
 42  = 00 Notker Brandes
 
-43  =  00 Gina+Bruno Meier
+43  = 00 Gina+Bruno Meier
 
 44  = 00 Stephi+Cristiano Pedron
 
@@ -107,10 +107,10 @@ Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Überall rot
 
 50  =  00 Lucchi+Giacomo Zaccaria 
 
-51   =  00 Margot+Leo Hensch
+51   =  00 Leni+Luciano Schüepp
 
-52  =  00  Kuno Schwarzer
+52  =  00  Eva-Maria Heitz
 
-53  = 00 Leni+Luciano Schüepp 🏮
+53  =  00  Nico Colaci 🏮
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es unmöglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
