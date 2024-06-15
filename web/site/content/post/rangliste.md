@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-14T22:05:26.252Z
 image: img/img_0514.jpeg
 ---
-Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Überall rote Striche machen! Wenn’s so weitergeht, lande ich im Irrenhaus. Wir Jungs sind nur noch Statisten. So war’s dann doch nicht gemeint mit der Frauenquote. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 8 Girls an der Spitze! Inge ganz obenauf! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
+Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Überall rote Striche machen! Wenn’s so weitergeht, lande ich im Irrenhaus. Wir Jungs sind nur noch Statisten. So war’s dann doch nicht gemeint mit der Frauenquote. Selbst in Lourdes verstehen sie die Welt nicht mehr. Und dort sind Wunder an der Tagesordnung! 8 Girls an der Spitze! Inge obenauf! Ein PC-Freak war eben  hier und hat sämtliche Funktionen nochmals überprüft. Alles paletti!  Es stimmt 🙈🙈🙈
 
 \
 01 = 50 Inge Berger  🥇       
@@ -113,4 +113,4 @@ Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Überall rot
 
 53  = 00 Leni+Luciano Schüepp 🏮
 
-Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es unmöglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. „Old Fashion“!  Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
+Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es unmöglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
