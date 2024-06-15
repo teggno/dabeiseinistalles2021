@@ -93,7 +93,7 @@ Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Überall rot
 
 43  =  00 Gina+Bruno Meier
 
-44  = 00 Steffi+Cristiano Pedron
+44  = 00 Stephi+Cristiano Pedron
 
 45   = 00 Miro Berger
 
@@ -103,7 +103,7 @@ Puhhhh! Das war Schwerstarbeit. Füllkrug, Havertz, Musiala, Wirtz. Überall rot
 
 48  = 00 Janis Hermann
 
-49  = 00 Claudia+Markus Singer
+49  =  00 Claudia+Markus Singer
 
 50  =  00 Lucchi+Giacomo Zaccaria 
 
