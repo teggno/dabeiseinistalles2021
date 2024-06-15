@@ -83,7 +83,7 @@ Inge+Liddy mit einem Riesenlauf. DAS Thema In Tägerwilen+Umgebung. Die Schweiz 
 
 38  =  30 Zeljko Berger
 
-39 =  30 Peter Von Könel
+39 =  30 Peter von Känel 
 
 40 =  30 Claudia+Markus Singer
 
