@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-15T16:02:46.673Z
 image: img/img_0514.jpeg
 ---
-Inge+Liddy mit einem Riesenlauf. Ganz Tägerwilen+angrenzende Gemeinden reden davon. Die Schweiz än Wahnsinn und dä Ruäfär s‘Nonplusultra. So darf es weitergehen. Ich muss gleich zum nächsten Spiel. Heissblütige Toreros gegen die Grufties aus Kroatien. Doch aufgepasst! Modric und seine Kumpanen können es immer noch.
+Inge+Liddy mit einem Riesenlauf. Ganz Tägerwilen+angrenzende Gemeinden reden davon. Die Schweiz än Wahnsinn und dä Ruäfär s‘Nonplusultra. So darf es weitergehen. Ich muss gleich zum nächsten Spiel. Heissblütige Toreros gegen die Grufties aus Kroatien. Der junge Yamal gegen die Legende Modric. 
 
 \
 01 = 80 Inge Berger  🥇       
