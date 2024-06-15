@@ -11,7 +11,7 @@ Inge+Liddy mit einem Riesenlauf. DAS Thema In Tägerwilen+Umgebung. Die Schweiz 
 
 02 = 70 Liddy Schwemer 🥈               
 
-03 = 60 Chaschtä🥉
+03 = 60 Dä Chaschtä🥉
 
 04 = 40 Verena+Bruno Wacker
 
