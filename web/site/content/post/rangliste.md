@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-15T22:00:04.998Z
 image: img/img_0514.jpeg
 ---
-
+Zum Schluss brauchten wir Italiener den berühmten Schutzengel, der meine Jukebox heisslaufen liess. Buonanotte a tutti. Der Rest folgt morgen. 
 
 \
 01 = 100 Nunzio Padula  🥇       
