@@ -1,39 +1,39 @@
 ---
 title: "RANGLISTE "
-draft: false
+draft: true
 date: 2024-06-15T16:02:46.673Z
 image: img/img_0514.jpeg
 ---
 Inge+Liddy mit einem Riesenlauf. DAS Thema In Tägerwilen+Umgebung. Die Schweiz än Wahnsinn (do redemär spöötär no drüber) und dä Ruefer s‘Nonplusultra. So darf es gerne weitergehen. Ich muss gleich zum nächsten Spiel. Heissblütige Toreros gegen die Grufties aus Kroatien. Der junge Yamal gegen die Legende Modric …autsch zur Pause 3:0 ….Soll ich die roten Striche schon machen?
 
 \
-01 = 80 Inge Berger  🥇       
+01 = 80 Rosa+Marlen  🥇       
 
-02 = 70 Liddy Schwemer 🥈               
+02 = 80 Inge+Gregor🥈               
 
-03 = 60 Dä Chaschtä🥉
+03 = 80 René Benz
 
-04 = 40 Verena+Bruno Wacker
+04 = 70 Cosimo Cataldo
 
-05 = 40 Rosa+Marlen
+05 = 70 Nunzio Padula
 
-06 = 40 Salon Liotta
+06 = 70 Liddy+Thomas Schwemer
 
-07 =  40 Daniela+Paolo Padula
+07 = 70 Barbara+Urs Schläpfer
 
-08 = 40 Made+Donato Carrieri
+08 = 70 Pina+ Michele La Macchia
 
-09  = 40 Gülay Turcan
+09  = 60 Kurt Meier
 
-10  = 40 Andy+Andi Hermann
+10  = 60 Martha+Sergio Giménez
 
-11  = 40 Nunzio Padula 
+11  = 60 Franco Monferini 
 
-12  = 40 Severin Stucky
+12  = 60 dä Chaschtä
 
-13  = 40 Cosimo Cataldo
+13  = 60 Dog
 
-14  =  40 René Benz
+14  = 50 Tina+Roland Haselbach
 
 15  =  40 Gianfranco Caporusso
 
@@ -45,31 +45,31 @@ Inge+Liddy mit einem Riesenlauf. DAS Thema In Tägerwilen+Umgebung. Die Schweiz 
 
 19   = 40 Katy+Urs Näf
 
-20   = 30 Zeljko Berger
+20   = 40 Gülay Turcan
 
-21    = 30 Margot+Leo Hensch
+21    = 40 Made+Donato Carrieri
 
-22   =  30 Kurt Meier
+22   =  40 Andy+Andi Hermann
 
-23   =  30 Peter von Känel
+23   =  40 Severin Stucky
 
-24   =   30 Pina+Michele La Macchia 
+24   =  40 Verena+Bruno Wacker
 
-25   =   30 dog
+25   =  40 Leni+Luciano Schüepp
 
-26  =   30 Barbara+Urs Schläpfer
+26  =   4O Nico Colaci
 
-27  =   30  Lilly+Raffaele
+27  =   40 Miro Berger
 
-28  =   30 Renato Petrillo
+28  =   40 Daniela+Paolo Padula
 
 29  =   30 Emma+Christian Bär
 
-30  =   30 Martha+Sergio Giménez
+30  =  30 Martha+Sergio Giménez
 
 31   =  30 Claudia+Pepe Panucci
 
-32   = 30 Franco Monferini
+32   = 30 Renato Petrillo
 
 33   = 30 Kuno Schwarzer
 
@@ -77,40 +77,40 @@ Inge+Liddy mit einem Riesenlauf. DAS Thema In Tägerwilen+Umgebung. Die Schweiz 
 
 35  =  30 Bea Colaci
 
-36  =  20 Tina+Roland Haselbach
+36  =  30 Gina+Bruno
 
-37   = 10 Baggerstube
+37   =  30 Lilly+Raffaele
 
-38  =  10 Mobby
+38  =  30 Zeljko Berger
 
-39 =  10 Katy+Tommy
+39 =  30 Peter Von Könel
 
-40 =  00 Anton Teuffel
+40 =  30 Claudia+Markus Singer
 
-41  =  00 Antonia Freer+Rolf Weigel
+41  =  30 Teuffel Anton
 
-42  = 00 Notker Brandes
+42  =  30 Notker Brandes
 
-43  = 00 Gina+Bruno Meier
+43  = 30 Margot+Leo Hensch
 
-44  = 00 Stephi+Cristiano Pedron
+44  = 00 
 
-45   = 00 Miro Berger
+45  =  30 Eva-Maria Heitz
 
-46  = 00 Jeanette+Urs Affentranger
+46  =  30Jeanette+Urs Affentranger
 
-47  = 00 Daniela+Davide Brocca
+47  =  30 Daniela+Davide Brocca
 
-48  = 00 Janis Hermann
+48  =  10 Baggerstube 
 
-49  =  00 Claudia+Markus Singer
+49  =  10 Tommy+ Katja
 
-50  =  00 Lucchi+Giacomo Zaccaria 
+50  =  00 Stephanie+Cristiano Pedron
 
-51   =  00 Leni+Luciano Schüepp
+51   =  00 Zacs
 
-52  =  00  Eva-Maria Heitz
+52  =  00  Janis Hermann
 
-53  =  00  Nico Colaci 🏮
+53  =  00  Die Freigels🏮
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es unmöglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
