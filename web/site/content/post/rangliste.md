@@ -104,7 +104,7 @@ Ein unerwartetes Comeback der Jungs, die sich die Schmach der letzten Tage nicht
 
 49  =   30 Zac
 
-50  =   30 Stephanie+Cristiano Pedron
+50  =   30 Stephanie+Cristiano Pedron 🛟
 
 51   =  30 die Freigels
 
