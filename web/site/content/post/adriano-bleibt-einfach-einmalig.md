@@ -13,11 +13,9 @@ P﻿S: Du kannst meinerseits alles spielen auf der Jukebox und ich freue mich da
 
 B﻿uona domenica ...
 
-Hast du ä Schuälschätzli von anno dazumal wiedergetroffen? Ist immer wieder spannend so ein Wiedersehen. Wenn ich die Sachen nicht organisiere, tut es niemand. Ja die Lieder. Weisst du, da lass ich einfach mein Kopfkino laufen und ich bin dann auf einmal Adriano, der interessiert beobachtet. Das ist bei mir nie in den Hintergrund getreten. Ich bereue auch nichts, stell dir vor was ich alles verpasst hätte. Wenn ich die Extras einbaue, fangen alle an zu erröten ☺️ und fragen sich erstaunt…..gibt es da etwa noch einen „angel(o)“…..
+Mit Adriano ist das so wie mit dir! Habe ich das nicht schön gesagt 🤔 Hast du dein Schuälschätzli von anno dazumal wiedergetroffen? Ist immer wieder spannend so ein Wiedersehen. Wenn ich die Sachen nicht organisiere, tut es niemand. Ja die Lieder. Weisst du, da lass ich einfach mein Kopfkino laufen und ich bin dann auf einmal Adriano, der interessiert beobachtet. Das ist bei mir nie in den Hintergrund getreten. Ich bereue auch nichts, stell dir vor was ich alles verpasst hätte. Wenn ich die Extras einbaue, fangen alle an zu erröten ☺️ und fragen sich erstaunt…..gibt es da etwa noch einen „angel(o)“…..
 
 Buona serata
-
-
 
 .﻿..ja so eine Klassenzusammenkunft ist immer sehr spannend und bereichernd und wir haben eine Schulkameradin, die es immer wieder organisiert und auch immer wieder von uns allen motiviert wird es wieder zu tun. Solche Menschen sind auch ein Geschenk... oh ja ich habe ä Schuälschätzli von anno dazumal getroffen, aber dieses Schätzli ist ziemlich in die Jahre gekommen und auch "vom Leben verbraucht". Schon dazumal habe ich mal eine wunderschöne Kette bekommen mit einem Herz, das ich eine Woche später wieder zurückgeben musste, weil er es bei der Nachbarin geklaut hat (weissgold mit 18 Rubinen). Und ich dachte, er hat es am Jahrmarkt gekauft. Das hatte ziemliche Konsequenzen mitgezogen und sein Leben verlief weiter in diesem Stil. Aber er hat mir gestern als Ersatz ein neues Armband mitgebracht aus Stoff und darauf steht... ITALIA... Das hat mich berührt. 
 
