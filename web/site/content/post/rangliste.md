@@ -84,7 +84,7 @@ Ein unerwartetes Comeback der gedemütigten Jungs, die sich die Schmach der letz
 
 39 =   40 Kuno Schwarzer ⛑️
 
-40 =  40 Emma+Cristian
+40 =  40 Emma+Christian
 
 41  =  30 Claudia+Markus Singer 👩‍❤️‍👨
 
