@@ -51,7 +51,7 @@ image: img/2d5f077d-1b42-4583-b15a-ef2d97f19ee8.jpeg
 
 22   =  60 Peter von Könel
 
-23   =  60 Anton Teuffel
+23   =  60 Anton Teuffel 👍
 
 24   =  60 Margot+Leo Hensch ⛑️
 
