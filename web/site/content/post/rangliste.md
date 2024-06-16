@@ -38,7 +38,7 @@ Ein unerwartetes Comeback der Jungs, die sich die Schmach der letzten Tage nicht
 
 16  =  60 dä Chaschtä
 
-17  =  60 Dog 
+17  =  60 dä dog
 
 18   = 60 Martha+ Sergio Giménez 
 
@@ -88,7 +88,7 @@ Ein unerwartetes Comeback der Jungs, die sich die Schmach der letzten Tage nicht
 
 41  =  30 Lilly+Raffaele
 
-42  =  30 Notker Brandes
+42  =  30 dä Coc
 
 43  =  30 Gina+Bruno Meier
 
