@@ -37,7 +37,7 @@ image: img/2d5f077d-1b42-4583-b15a-ef2d97f19ee8.jpeg
 
 15  =  70 Miro Berger
 
-16  =  60 Daniela+Davide Brocca
+16  =  70 Margot+Leo Hensch ⛑️
 
 17  =  60 dä dog
 
@@ -53,7 +53,7 @@ image: img/2d5f077d-1b42-4583-b15a-ef2d97f19ee8.jpeg
 
 23   =  60 Anton Teuffel 👍
 
-24   =  60 Margot+Leo Hensch ⛑️
+24   =  60 Daniela+Davide Brocca
 
 25   =  60;Zeljko Berger
 
