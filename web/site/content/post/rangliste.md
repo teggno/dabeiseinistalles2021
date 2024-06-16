@@ -4,7 +4,8 @@ draft: false
 date: 2024-06-15T23:26:41.038Z
 image: img/img_0514.jpeg
 ---
-\
+Tag 2 mit formidablen Schweizern, einem Ruefer in Bestform, brandgefährlichen Spaniern, altgewordenen Kroaten und phantasielosen Italienern, die einen Schutzengel von Celentano brauchten, um nicht  schon jetzt in Rücklage zu geraten. Comeback der Männer, die sich die Schmach der letzten Tage nicht gefallen lassen wollten und mit Stammgast Nunzio, die Dinge wieder zurechtrückten
+
 01 = 100 Nunzio Padula  🥇       
 
 02 = 90 Franco Monferini🥈               
