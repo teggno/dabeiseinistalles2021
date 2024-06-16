@@ -8,17 +8,18 @@ Ein unerwartetes Comeback der gedemütigten Jungs, die sich die Schmach der letz
 
 👏👏👏 Marco van Basten 1988 (Bild rechts)
 
-01 = 100 Nunzio Padula  🥇       
+\
+01 = 100 Nico Colaci  🥇       
 
-02 = 90 Franco Monferini🥈               
+02 = 100 Nunzio Padula 🥈               
 
-03 = 80 Rosa+Marlen🥉
+03 = 90 Franco Monferini 🥉
 
 04 = 80 René Benz
 
 05 = 80 Inge+Gregor
 
-06 = 70 Liddy+Thomas Schwemer 🍀
+06 = 80 Rosa+Marlen 🍀
 
 07 = 70 Barbara+Urs Schläpfer 🛫
 
@@ -28,17 +29,17 @@ Ein unerwartetes Comeback der gedemütigten Jungs, die sich die Schmach der letz
 
 10  =  70 Memduh Aktas
 
-11  =  70 Nico Colaci
+11  =  70 Emma+Christian 
 
 12  =  70 Daniela+Paolo Padula
 
 13  =  70 Salon Liotta
 
-14  =  60 Daniela+Davide Brocca
+14  =  70 Schwemers
 
-15  =  60 Renato Petrillo
+15  =  70 Miro Berger
 
-16  =  60 dä Chaschtä
+16  =  60 Daniela+Davide Brocca
 
 17  =  60 dä dog
 
@@ -56,19 +57,19 @@ Ein unerwartetes Comeback der gedemütigten Jungs, die sich die Schmach der letz
 
 24   =  60 Margot+Leo Hensch ⛑️
 
-25   =  50 Tina+Roland Haselbach
+25   =  60;Zeljko Berger
 
-26  =   40 Leni+Luciano Schüepp
+26  =   60 Eva-Maria Heitz
 
-27  =   40 Miro Berger
+27  =   60 Gina+Bruno
 
-28  =   40 Verena+Bruno Wacker
+28  =   60 Renato Petrillo
 
-29  =   40 Gülay Turcan 🍀
+29  =   60 dä Chaschtä
 
-30  =   40 Mobby
+30  =   50 Tina+Roland
 
-31   =  40 Urs+Katy 🐌
+31   =   40 Katy+Urs Näf
 
 32   =  40 Gianfranco Caporusso
 
@@ -86,21 +87,21 @@ Ein unerwartetes Comeback der gedemütigten Jungs, die sich die Schmach der letz
 
 39 =   40 Kuno Schwarzer ⛑️
 
-40 =  40 Emma+Christian
+40 =   40 Verena+Bruno Wacker
 
-41  =  30 Claudia+Markus Singer 👩‍❤️‍👨
+41  =   40 Gülay Turcan
 
-42  =  30 dä Coc
+42  =  40 Mobby
 
-43  =  30 Gina+Bruno Meier
+43  =  40 Leni+Luciano Schüepp
 
-44  = 30 Lilly+Raffaele
+44  =  30 Claudia+Markus Singer
 
-45  =  30 Eva-Maria Heitz 🍀
+45  =  30 Lilly+Raffaele
 
 46  =  30 Jeanette+Urs Affentranger ⛵️
 
-47  =   30 Zeljko Berger
+47  =   30 dä Coc
 
 48  =   30 Roger Blatter
 
