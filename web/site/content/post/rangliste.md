@@ -4,12 +4,6 @@ draft: false
 date: 2024-06-15T23:26:41.038Z
 image: img/img_0514.jpeg
 ---
-
-
-
-
-
-
 \
 01 = 100 Nunzio Padula  🥇       
 
@@ -87,7 +81,7 @@ image: img/img_0514.jpeg
 
 38  =  40 Severin Stucky
 
-39 =   30 Zeljko Berger
+39 =   40 Kuno Schwarzer
 
 40 =  30 Claudia+Markus Singer
 
@@ -103,7 +97,7 @@ image: img/img_0514.jpeg
 
 46  =  30 Jeanette+Urs Affentranger
 
-47  =   30 Kuno Schwarzer
+47  =   30 Zeljko Berger
 
 48  =   30 Roger Blatter
 
