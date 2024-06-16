@@ -84,15 +84,15 @@ Ein unerwartetes Comeback der Jungs, die sich die Schmach der letzten Tage nicht
 
 39 =   40 Kuno Schwarzer ⛑️
 
-40 =  30 Claudia+Markus Singer 👩‍❤️‍👨
+40 =  40 Emma+Cristian
 
-41  =  30 Lilly+Raffaele
+41  =  30 Claudia+Markus Singer 👩‍❤️‍👨
 
 42  =  30 dä Coc
 
 43  =  30 Gina+Bruno Meier
 
-44  = 30 Emma+Christian Bär
+44  = 30 Lilly+Raffaele
 
 45  =  30 Eva-Maria Heitz 🍀
 
