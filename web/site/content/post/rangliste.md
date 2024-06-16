@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-15T23:26:41.038Z
 image: img/img_0514.jpeg
 ---
-Ein unerwartetes Comeback der Jungs, die sich die Schmach der letzten Tage nicht gefallen lassen wollten und mit Stammgast Nunzio, die Dinge wieder zurechtrückten. Unerwarteter Besuch aus dem Tabellenkeller! Wer hätte Herrn Monferini hier oben erwartet? Die grösste Gefahr geht jedoch von Platz 3 aus. Das sind ja die……🤫🤫🤫
+Ein unerwartetes Comeback der gedemütigten Jungs, die sich die Schmach der letzten Tage nicht gefallen lassen wollten und mit Stammgast Nunzio, die Dinge wieder zurechtrückten. Unerwarteter Besuch aus dem Tabellenkeller! Wer hätte Herrn Monferini hier oben erwartet? Die grösste Gefahr geht jedoch von Platz 3 aus. Das sind ja die……🤫🤫🤫
 
 01 = 100 Nunzio Padula  🥇       
 
