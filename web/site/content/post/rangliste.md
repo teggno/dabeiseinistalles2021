@@ -1,12 +1,10 @@
 ---
 title: "RANGLISTE "
 draft: false
-date: 2024-06-15T23:26:41.038Z
+date: 2024-06-16T17:02:59.630Z
 image: img/2d5f077d-1b42-4583-b15a-ef2d97f19ee8.jpeg
 ---
-Ein unerwartetes Comeback der gedemütigten Jungs, die sich die Schmach der letzten Tage nicht gefallen lassen wollten und mit Stammgast Nunzio, die Dinge wieder zurechtrückten. Unerwarteter Besuch aus dem Tabellenkeller! Wer hätte Herrn Monferini hier oben erwartet? Die grösste Gefahr geht jedoch von Platz 3 aus. Das sind ja die……🤫🤫🤫
-
-👏👏👏 Marco van Basten 1988 (Bild rechts)
+👏👏👏 Marco van Basten 1988 (Bild rechts) Das spektakulärste Tor der EM-Geschichte.Finale gegen Russland. Hollands einzige Trophäe bis zum heutigen Tag. Eigentlich hätten die Oranjes viel mehr aus sich machen müssen. Ob es dieses Mal klappt? Zumindest einer hat sich über den heutigen Sieg speziell gefreut. 
 
 \
 01 = 100 Nico Colaci  🥇       
