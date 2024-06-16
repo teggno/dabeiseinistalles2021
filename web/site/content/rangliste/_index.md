@@ -5,9 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Adriano Celentano  ▶️  Angel
-  url: https://www.youtube.com/watch?v=ItVjlRsa07Q&pp=ygUZYWRyaWFubyBjZWxlbnRhbm8gLSBhbmdlbA%3D%3D
+  title: RAFFI‘S JUKEBOX 🎸 The Turtles  ▶️  Eleonore
+  url: https://www.youtube.com/watch?v=phMWtWZaDPQ&pp=ygUQZWxlb25vcmUgdHVydGxlcw%3D%3D
   image: img/jukebox.jpg
-  description: Grazie Adriano, dä (Schutz)Engel hämmär brucht…..
+  description: Das waren noch Zeiten 🥲
 type: rangliste
 ---
