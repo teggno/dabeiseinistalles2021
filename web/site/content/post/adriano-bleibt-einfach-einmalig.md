@@ -13,4 +13,6 @@ P﻿S: Du kannst meinerseits alles spielen auf der Jukebox und ich freue mich da
 
 B﻿uona domenica ...
 
-Hast du ä Schuälschätzli von anno dazumal wiedergetroffen? Ist immer wieder spannend so ein Wiedersehen. Wenn ich die Sachen nicht organisiere, tut es niemand. Ja die Lieder. Weisst du, da lass ich einfach mein Kopfkino laufen und ich bin dann auf einmal Adriano, der interessiert beobachtet. Das ist bei mir nie in den Hintergrund getreten. Ich bereue auch nichts, stell dir vor was ich alles verpasst hätte. Wenn ich die Extras einbaue, fangen alle an zu erröten ☺️ und fragen sich ….ma chi e questa donna hot …..
+Hast du ä Schuälschätzli von anno dazumal wiedergetroffen? Ist immer wieder spannend so ein Wiedersehen. Wenn ich die Sachen nicht organisiere, tut es niemand. Ja die Lieder. Weisst du, da lass ich einfach mein Kopfkino laufen und ich bin dann auf einmal Adriano, der interessiert beobachtet. Das ist bei mir nie in den Hintergrund getreten. Ich bereue auch nichts, stell dir vor was ich alles verpasst hätte. Wenn ich die Extras einbaue, fangen alle an zu erröten ☺️ und fragen sich erstaunt…..gibt es da etwa noch einen „angel(o)“…..
+
+Buona serata
