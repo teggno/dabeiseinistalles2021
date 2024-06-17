@@ -9,3 +9,5 @@ Nach neun meist erfolgreichen Jahren hat sich Jürgen Klopp von seinen Fans in L
 Er hat Wort gehalten und nirgendwo anders unterschrieben. Mein Angebot, das man normalerweise nicht ablehnen kann 😎hat er dankend refüsiert. “La Vecchia Signora“ ist ihm zu  senil. Die Seele will er in den nächsten zwölf Monaten baumeln lassen und die Freiheit mit seiner Frau Ulla geniessen. „Die beste Entscheidung meines Lebens, sie geheiratet zu haben“, verriet er kürzlich im „Gazzetta dello Sport“ Interview. Dort war auch zu lesen dass er das Warmwasseraufbereiten perfektionieren will. Zur Freude seiner Spaghetti 🍝 all‘dente. Nicht mehr auf Kriegsfuss mit Fred Astaire 🕺🏾 zu sein, ist ihm eine weitere Herzensangelegenheit!
 
 Bei seiner Abschiedsparty hätte er liebend gerne mit Campinno und seinen Jungs zu „Tage wie dieser“ mitgesungen. Weil sie schon anderweitig gebucht waren, sprangen 2 lokale Bands in die Bresche und huldigten der Gegenwart. Von überaus gutem Geschmack zeugte seine zweite Bitte: „Stellt mir eine grosse Leinwand auf die Bühne und lasst die Beatles nochmals Revue passieren!“ Als Tribut an die Ewigkeit!
+
+Lukaku verseucht
