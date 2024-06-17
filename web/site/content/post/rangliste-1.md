@@ -2,6 +2,6 @@
 title: "RANGLISTE "
 draft: false
 date: 2024-06-17T07:07:12.808Z
-image: img/img_0536.jpeg
+image: ""
 ---
 ![](img/img_0535.jpeg)
