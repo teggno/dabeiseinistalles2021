@@ -1,7 +1,7 @@
 ---
 title: Voodoozauber
 draft: false
-date: 2024-06-17T23:06:32.884Z
+date: 2024-06-18T06:12:49.710Z
 image: img/img_0536.jpeg
 ---
 VAR+Voodoo zwingen der bemitleidenswerten Romelu Lukaku in die Knie! Böse Zungen behaupten, dass eine Massai mit Schweizerkreuz auf der Brust den „Bomber vom Dienst“ verhext hat. Ein Blick auf unseren Stimmzettel bringt mich noch um den letzten Schlaf: „Diä hät jo  au no dä Kane und dä Mbappé druf gno“ 🙈
