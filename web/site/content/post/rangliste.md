@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-16T17:02:59.630Z
 image: ""
 ---
-Runde 1 ist abgehakt! Eine Dichte wie am Engadiner Ski-Marathon! Kaum zu glauben was hier los ist. Ich hab gleich gemerkt, dass es an die Buletten geht. Zwischen 1 und 53 nur 60 Punkte Differenz!  Es wird spannend bleiben bis zum Schluss. 4x30+3x10! Die Performance der beiden Prinzessinnen ist gewaltig. Yakin braucht noch dringend 2 Orakel in seinem Staff. Aus dem fernen Neuseeland schwappen die ersten Gerüchte herüber. Die Schüepps gehen voll auf den Kochwein aus 😎
+Runde 1 ist abgehakt! Eine Dichte wie am Engadiner Ski-Marathon! Kaum zu glauben was hier los ist. Ich hab gleich gemerkt, dass es an die Buletten geht. Zwischen 1 und 53 nur 60 Punkte Differenz!  Es wird spannend bleiben bis zum Schluss. 4x30+3x10! Die Performance der Spitzenreiterinnen darf sich sehen lassen. Zur Feier des Tages entführt uns Peter Maffay noch runter an den Strand. Vergesst die Badekleider 👙nicht (Jukebox)
 
 \
 01 = 150 Rosa+Marlen  🥇       
