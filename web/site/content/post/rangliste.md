@@ -7,11 +7,11 @@ image: img/2d5f077d-1b42-4583-b15a-ef2d97f19ee8.jpeg
 👏👏👏 Marco van Basten 1988! Das spektakulärste Tor der EM-Geschichte. Finale gegen die damalige Sowjetunion. Der Ball senkt sich am hinteren Pfosten ins Tor. Hollands einzige Trophäe bis zum heutigen Tag. Eigentlich hätten die Oranjes viel mehr aus sich machen müssen. Ob es dieses Mal klappt? Einer hat sich ganz besonders über den heutigen Sieg gefreut. 
 
 \
-01 = 100 Nico Colaci  🥇       
+01 = 150 Rosa+Marlen  🥇       
 
-02 = 100 Nunzio Padula 🥈               
+02 = 140 Mobby 🥈               
 
-03 = 90 Franco Monferini 🥉
+03 = 140 René Benz 🥉
 
 04 = 80 René Benz
 
