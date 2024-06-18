@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-16T17:02:59.630Z
 image: ""
 ---
-Runde 1 ist abgehakt! Es geht zu und her wie am Engadiner Ski-Marathon! Kaum zu glauben was hier los ist. Ich hab gleich gemerkt, dass es an die Buletten geht. Keiner will sich eine Blösse geben. Jedes Tor bestimmt über Sein oder Nichtsein! 4x30+3x10! Die Performance deist atemberaubend wie die Fahrt mit Sting im Nacht 🚂 Zug nach Lissabon (Jukebox) 
+Runde 1 ist abgehakt! Es geht zu und her wie am Engadiner Ski-Marathon! Kaum zu glauben was hier los ist. Ich hab gleich gemerkt, dass es an die Buletten geht. Keiner will sich eine Blösse geben. Jedes Tor bestimmt über Sein oder Nichtsein! 4x30+3x10! Das Tempo der Spitzenreiterinnen ist atemberaubend!  Genauso wie die Fahrt im Nachtzug 🚂 mit Sting (Jukebox)
 
 \
 01 = 150 Rosa+Marlen  🥇       
