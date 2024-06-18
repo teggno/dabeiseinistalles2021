@@ -2,9 +2,9 @@
 title: Rangliste
 draft: true
 date: 2024-06-16T17:02:59.630Z
-image: img/2d5f077d-1b42-4583-b15a-ef2d97f19ee8.jpeg
+image: img/img_0537.jpeg
 ---
-👏👏👏 Marco van Basten 1988! Das spektakulärste Tor der EM-Geschichte. Finale gegen die damalige Sowjetunion. Der Ball senkt sich am hinteren Pfosten ins Tor. Hollands einzige Trophäe bis zum heutigen Tag. Eigentlich hätten die Oranjes viel mehr aus sich machen müssen. Ob es dieses Mal klappt? Einer hat sich ganz besonders über den heutigen Sieg gefreut. 
+Runde 1 ist abgehakt! Eine Dichte wie am Engadiner Ski-Marathon! Kaum zu glauben was hier los ist. Ich hab gleich gemerkt, dass es an die Buletten geht. Zwischen 1 und 53 nur 60 Punkte Differenz!  Es wird spannend bleiben bis zum Schluss. Spanien, Deutschland und die Schweiz spielten es am besten. Die Belgier und die Ukrainer fielen durch. 4x30+3x10! Die Performance der beiden Prinzessinnen ist gewaltig. Yakin braucht noch dringend 2 Orakel in seinem Staff. Aus dem fernen Neuseeland schwappen die ersten Gerüchte herüber. Die Schüepps gehen voll auf den Kochwein aus 😎
 
 \
 01 = 150 Rosa+Marlen  🥇       
