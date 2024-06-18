@@ -13,75 +13,75 @@ image: img/2d5f077d-1b42-4583-b15a-ef2d97f19ee8.jpeg
 
 03 = 140 René Benz 🥉
 
-04 = 80 René Benz
+04 = 130 Anton Teuffel
 
-05 = 80 Inge+Gregor
+05 = 130 Verena+Bruno Wacker
 
-06 = 80 Rosa+Marlen 🍀
+06 = 130 Nico Colaci
 
-07 = 70 Barbara+Urs Schläpfer 🛫
+07 = 130 Barbara+Urs Schläpfer 
 
-08 = 70 Pina+ Michele La Macchia
+08 = 130 Pina+Michele La Macchia
 
-09  = 70 Cosimo Cataldo
+09  = 130 Andy+Andi Hermann
 
-10  =  70 Memduh Aktas
+10  =  130  Memduh Aktas
 
-11  =  70 Emma+Christian 
+11  =   130 Emma+Christian 
 
-12  =  70 Daniela+Paolo Padula
+12  =  130 Schwemers
 
-13  =  70 Salon Liotta
+13  =  130 Miro Berger
 
-14  =  70 Schwemers
+14  =  130 Claudia+Markus Singer
 
-15  =  70 Miro Berger
+15  =  130 Gülay Turcan
 
-16  =  70 Margot+Leo Hensch ⛑️
+16  =  130 Koni Hornstein
 
-17  =  60 dä dog
+17  =  130 Peter von Könel
 
-18   = 60 Martha+ Sergio Giménez 👍 🇪🇸 
+18   = 130 Gianfranco Caporusso
 
-19   = 60 Claudia+Pepe Panucci
+19   = 130 Renato Meier
 
-20   = 60 Bea Colaci
+20   = 130 Cosimo Cataldo
 
-21    = 60 Kurt Meier
+21    = 130 Nunzio Padula
 
-22   =  60 Peter von Könel
+22   =  120 Kurt Meier
 
-23   =  60 Anton Teuffel 👍
+23   =  120 Claudia+Peppe Panucci
 
-24   =  60 Daniela+Davide Brocca
+24   = 120 Daniela+Davide Brocca
 
-25   =  60;Zeljko Berger
+25   =  120 Lilly+Raffaele
 
-26  =   60 Eva-Maria Heitz
+26  =   120 Zac
 
-27  =   60 Gina+Bruno
+27  =   120 Martha+Sergio Giménez
 
-28  =   60 Renato Petrillo
+28  =   120 Renato Petrillo
 
-29  =   60 dä Chaschtä
+29  =   120 dä Chaschtä
 
-30  =   50 Tina+Roland
+30  =   120 dä Dog
 
-31   =   40 Katy+Urs Näf
+31   =   120 Bea Colaci
 
-32   =  40 Gianfranco Caporusso
+32   =  120 Regula+Franco Monferini 
 
-33   =  40 Koni Hornstein
+33   =  110 Tina+Roland Haselbach
 
 34  =   40 Renato Meier
 
-35  =  40 Baggerstube 
+35  =  100 Baggerstube 
 
-36  =  40 Made+Donato Carrieri
+36  =  100 Made+Donato Carrieri
 
-37   =  40 Andy+Andi Hermann
+37   =  100 Salon Liotta
 
-38  =  40 Severin Stucky 🚀
+38  =  100 Severin Stucky 🚀
 
 39 =   40 Kuno Schwarzer ⛑️
 
@@ -91,26 +91,26 @@ image: img/2d5f077d-1b42-4583-b15a-ef2d97f19ee8.jpeg
 
 42  =  40 Mobby
 
-43  =  40 Leni+Luciano Schüepp
+43  =  100 Urs+Katy Näf
 
-44  =  30 Claudia+Markus Singer
+44  =  100 Margot+Leo Hensch
 
-45  =  30 Lilly+Raffaele
+45  =  100 Daniela+Paolo Padula
 
-46  =  30 Jeanette+Urs Affentranger ⛵️
+46  =  90 Die Freigels
 
-47  =   30 dä Coc
+47  =  90 Gina+Bruno Meier
 
-48  =   30 Roger Blatter
+48  =  90 Jeanette+Urs Affentranger 
 
-49  =   30 Zac
+49  =  90 dä Coc
 
-50  =   30 Stephanie+Cristiano Pedron 🛟
+50  =  90 Roger Blatter 
 
-51   =  30 die Freigels
+51   =  90 Janis
 
-52  =  10 Tommy+Katja 🍍
+52  =  90 Eva-Maria Heitz
 
-53  =   00 Janis 🏮
+53  =  90 Stephi+Cristiano Pedron
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es unmöglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
