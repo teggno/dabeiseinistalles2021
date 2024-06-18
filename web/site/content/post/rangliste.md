@@ -33,7 +33,7 @@ Runde 1 ist abgehakt! Es geht zu und her wie am Engadiner Ski-Marathon! Kaum zu 
 
 13  =  130 Miro Berger
 
-14  =  130 Claudia+Markus Singer
+14  =  130 Kuno Schwarzer 
 
 15  =  130 Gülay Turcan
 
@@ -49,7 +49,7 @@ Runde 1 ist abgehakt! Es geht zu und her wie am Engadiner Ski-Marathon! Kaum zu 
 
 21    = 130 Nunzio Padula
 
-22   =  130 Kuno Schwarzer
+22   =  120 Claudia+Markus Singer 
 
 23   =  120 Claudia+Peppe Panucci
 
