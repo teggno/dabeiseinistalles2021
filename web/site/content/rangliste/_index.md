@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S JUKEBOX 🎸 Edith Piaf  ▶️  Je ne regrette rien
   url: https://www.youtube.com/watch?v=rzy2wZSg5ZM&pp=ygUTamUgbmUgcmVncmV0dGUgcmllbg%3D%3D
   image: img/jukebox.jpg
-  description: ""
+  description: "Was für eine Ausstrahlung "
 type: rangliste
 ---
