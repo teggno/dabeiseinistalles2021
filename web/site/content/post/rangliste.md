@@ -2,9 +2,9 @@
 title: Rangliste
 draft: true
 date: 2024-06-16T17:02:59.630Z
-image: img/img_0537.jpeg
+image: ""
 ---
-Runde 1 ist abgehakt! Eine Dichte wie am Engadiner Ski-Marathon! Kaum zu glauben was hier los ist. Ich hab gleich gemerkt, dass es an die Buletten geht. Zwischen 1 und 53 nur 60 Punkte Differenz!  Es wird spannend bleiben bis zum Schluss. Spanien, Deutschland und die Schweiz spielten es am besten. Die Belgier und die Ukrainer fielen durch. 4x30+3x10! Die Performance der beiden Prinzessinnen ist gewaltig. Yakin braucht noch dringend 2 Orakel in seinem Staff. Aus dem fernen Neuseeland schwappen die ersten Gerüchte herüber. Die Schüepps gehen voll auf den Kochwein aus 😎
+Runde 1 ist abgehakt! Eine Dichte wie am Engadiner Ski-Marathon! Kaum zu glauben was hier los ist. Ich hab gleich gemerkt, dass es an die Buletten geht. Zwischen 1 und 53 nur 60 Punkte Differenz!  Es wird spannend bleiben bis zum Schluss. 4x30+3x10! Die Performance der beiden Prinzessinnen ist gewaltig. Yakin braucht noch dringend 2 Orakel in seinem Staff. Aus dem fernen Neuseeland schwappen die ersten Gerüchte herüber. Die Schüepps gehen voll auf den Kochwein aus 😎
 
 \
 01 = 150 Rosa+Marlen  🥇       
@@ -49,7 +49,7 @@ Runde 1 ist abgehakt! Eine Dichte wie am Engadiner Ski-Marathon! Kaum zu glauben
 
 21    = 130 Nunzio Padula
 
-22   =  120 Kurt Meier
+22   =  130 Kuno Schwarzer
 
 23   =  120 Claudia+Peppe Panucci
 
@@ -61,7 +61,7 @@ Runde 1 ist abgehakt! Eine Dichte wie am Engadiner Ski-Marathon! Kaum zu glauben
 
 27  =   120 Martha+Sergio Giménez
 
-28  =   120 Renato Petrillo
+28  =   120 Zeljko Berger
 
 29  =   120 dä Chaschtä
 
@@ -71,25 +71,25 @@ Runde 1 ist abgehakt! Eine Dichte wie am Engadiner Ski-Marathon! Kaum zu glauben
 
 32   =  120 Regula+Franco Monferini 
 
-33   =  110 Tina+Roland Haselbach
+33   =  120 Renato Petrillo
 
-34  =   100
+34  =   120 Kurt Meier
 
-35  =  100 Baggerstube 
+35  =   110 Katja+Tommy 
 
-36  =  100 Made+Donato Carrieri
+36  =   110 Tina+Roland
 
-37   =  100 Salon Liotta
+37   =  110 Inge+Gregor
 
-38  =  100 Severin Stucky 🚀
+38  =  100 Severin Stucky 
 
-39 =   40 Kuno Schwarzer ⛑️
+39 =   100 Baggerstube
 
-40 =   40 Verena+Bruno Wacker
+40 =   100 Leni+Luciano Schüepp
 
-41  =   40 Gülay Turcan
+41  =   100 Salon Liotta
 
-42  =  40 Mobby
+42  =  100 Simply the best
 
 43  =  100 Urs+Katy Näf
 
@@ -111,6 +111,6 @@ Runde 1 ist abgehakt! Eine Dichte wie am Engadiner Ski-Marathon! Kaum zu glauben
 
 52  =  90 Eva-Maria Heitz
 
-53  =  90 Stephi+Cristiano Pedron
+53  =  90 Stephi+Cristiano Pedron 🏮
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es unmöglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
