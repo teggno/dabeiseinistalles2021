@@ -53,7 +53,7 @@ image: img/2d5f077d-1b42-4583-b15a-ef2d97f19ee8.jpeg
 
 23   =  120 Claudia+Peppe Panucci
 
-24   = 120 Daniela+Davide Brocca
+24   =  120 Daniela+Davide Brocca
 
 25   =  120 Lilly+Raffaele
 
@@ -73,7 +73,7 @@ image: img/2d5f077d-1b42-4583-b15a-ef2d97f19ee8.jpeg
 
 33   =  110 Tina+Roland Haselbach
 
-34  =   40 Renato Meier
+34  =   100
 
 35  =  100 Baggerstube 
 
