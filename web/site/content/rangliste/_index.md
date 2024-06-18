@@ -5,9 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Edith Piaf  ▶️  Je ne regrette rien
-  url: https://www.youtube.com/watch?v=rzy2wZSg5ZM&pp=ygUTamUgbmUgcmVncmV0dGUgcmllbg%3D%3D
+  title: RAFFI‘S JUKEBOX 🎸 Sting  ▶️  La belle dame sans regrets
+  url: https://www.youtube.com/watch?v=_1LhdpEg42Y&pp=ygUgc3RpbmcgbGEgYmVsbGUgZGFtZSBzYW5zIHJlZ3JldHM%3D
   image: img/jukebox.jpg
-  description: "Was für eine Ausstrahlung "
+  description: ""
 type: rangliste
 ---
