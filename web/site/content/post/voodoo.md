@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-18T06:12:49.710Z
 image: img/img_0536.jpeg
 ---
-VAR+Voodoo zwingen den bemitleidenswerten Romelu Lukaku in die Knie! Böse Zungen behaupten, dass eine Massai mit Schweizerkreuz auf der Brust den „Bomber vom Dienst“ verhext hat. Ein Blick auf unseren Stimmzettel bringt mich noch um den letzten Schlaf: „Diä hät jo  au no dä Kane und dä Mbappé druf gno“ 🙈
+VAR+Voodoo zwingen den bemitleidenswerten Romelu Lukaku in die Knie! Böse Zungen behaupten, dass eine Massai mit Schweizerkreuz auf der Brust den „Bomber vom Dienst“ verhext hat. Ein Blick auf unseren Stimmzettel bringt mich noch um den letzten Schlaf: „Diä hät jo  au no dä Kane und dä Mbappé druf gno“.
 
 Ich weiss nicht was die 3 geschluckt haben. Es muss ihnen schlecht bekommen sein. Der Belgier darf wenigstens für sich in Anspruch nehmen, dass der Ball zweimal hinter der Linie war und die Technik ihn ausbremste. A propos VAR! Ist es nun legitim, dass 10 Millimeter Abseits über Sein oder Nichtsein entscheiden? Darf eine flüchtige Berührung mit der Hand, dich vor dem “Gericht“ schuldig sprechen? Meine Antwort wird immer dieselbe sein: „Ja“. Wenn ich nur daran denke, wieviele EM+WM Pokale in der Vergangenheit in die falschen Hände gerieten, bin ich nur dankbar für dieses Vehikel! Auch wenn uns ab und zu der Tarzanschrei im Halse stecken bleibt.
 
