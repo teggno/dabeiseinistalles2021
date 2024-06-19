@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-19T19:48:04.535Z
 image: img/img_0539.jpeg
 ---
-„Sherdan bisch dä Gröscht“! 
+„Sherdan bisch dä Gröscht“! „Wärs immär no nöd gmärkt hät 
 
 Sie gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert die Drinks. Der Junge ist Spitzenklasse! Trotzdem war es anfangs nicht so klar, wie das Resultat vermuten lässt. Szoboszlai, der beste Freistossschütze an diesem Turnier, hätte ihnen fast weh getan. Kroos dirigiert, Kimmich und Gündogan verbessert, Neuer souverän. Das Niveau steigt und steigt. Trotz allem hat die Schweiz eine (grosse) Chance!
 
@@ -114,4 +114,4 @@ Sie gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert die Drinks
 
 53  =  90 Gina+Bruno 🏮🙈
 
-Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es unmöglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
+Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
