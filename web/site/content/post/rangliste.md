@@ -44,7 +44,7 @@ Die Deutschen gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert 
 
 18   = 160 Inge+Gregor
 
-19   = 
+19   = 160 Bea Colaci
 
 20   = 150 Renato Petrillo
 
