@@ -1,5 +1,5 @@
 ---
-title: "Rangliste - Platz 1 Shaqiri "
+title: Rangliste - Platz 1 Shaqiri 👏👏👏
 draft: true
 date: 2024-06-19T19:48:04.535Z
 image: img/img_0539.jpeg
