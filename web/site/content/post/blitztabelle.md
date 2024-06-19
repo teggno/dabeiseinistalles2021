@@ -6,7 +6,7 @@ image: img/img_0541.jpeg
 ---
 „Wer sich hier nicht anschnallt, fällt vom Stuhl.“ Originalton Dani Kern. Besser kann man es nicht kommentieren. Es war ein Spektakel! Genau wie gestern Georgien gegen die Türkei! Viel spannender als die sogenannten Knüller, die viel versprachen und wenig hielten.
 
-Die stolzen Träger der „Roten Laterne“ und meine lieben Nachbarn Katja+Tommy baten mich um einen Gefallen, den ich ihnen nicht abschlagen konnte.„Mach doch schnäll ä  Blitztabällä, so schtömmär au mol witär vornä.“ Ich hab’s versucht „cari amici“, gebracht hat es am Ende wenig. Höchstens, dass jetzt noch Gina+Bruno auf mich sauer sind. 😢 Die Kroaten sollten ein paar ihrer Methusalems aussortieren, sonst wird das nichts mehr an dieser EM.
+Die stolzen Träger der „Roten Laterne“ und meine lieben Nachbarn Katja+Tommy baten mich um einen Gefallen, den ich ihnen nicht abschlagen konnte.„Mach doch schnäll ä  Blitztabällä, so schtömmär au mol witär vornä.“ Ich hab’s versucht „cari amici“, gebracht hat es am Ende wenig. Höchstens, dass jetzt auch noch Gina+Bruno auf mich sauer sind. 😢 Die Kroaten sollten ein paar ihrer Methusalems aussortieren, sonst wird das nichts mehr an dieser EM.
 
 Beim 18 Uhr Spiel ist nicht davon auszugehen, dass weitere Unregelmässigkeiten auftreten. Zu stark trumpfen die Deutschen im Moment  auf. Einzige Frage, wer netzt hier ein? Wirz, Musiala, Havertz oder Füllkrug. Viele hoffen auf Rüdiger! So bleibt der Schaden einigermassen überschaubar 😎 
 
