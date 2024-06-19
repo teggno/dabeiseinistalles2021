@@ -75,17 +75,17 @@ Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es
 
 34  =   130 Daniela+Paolo Padula
 
-35  =   120 Katja+Tommy 
+35  =   130 Katy+Urs Näf
 
-36  =   120 Inge+Gregor
+36  =   130 Kuno Schwarzer
 
-37   =  110 Tina+Roland
+37   =  130 Miro Berger
 
-38  =  110 Leni+Luciano Schüepp
+38  =   120 Claudia+Markus Singer
 
-39 =   100 Baggerstube
+39 =   120  Baggerstube
 
-40 =   100 Severin Stucky
+40 =   120 Severin Stucky
 
 41  =   100 Salon Liotta
 
