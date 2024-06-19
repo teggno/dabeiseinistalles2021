@@ -1,5 +1,5 @@
 ---
-title: Xxxxx
+title: Aufgalopp
 draft: true
 date: 2024-06-19T08:33:15.660Z
 image: img/img_0540.jpeg
