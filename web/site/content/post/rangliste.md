@@ -1,6 +1,6 @@
 ---
 title: Rangliste
-draft: false
+draft: true
 date: 2024-06-18T21:00:02.316Z
 image: img/img_0539.jpeg
 ---
