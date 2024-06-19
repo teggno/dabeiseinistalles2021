@@ -1,7 +1,7 @@
 ---
 title: Rangliste
 draft: true
-date: 2024-06-18T21:00:02.316Z
+date: 2024-06-19T19:48:04.535Z
 image: img/img_0539.jpeg
 ---
 
