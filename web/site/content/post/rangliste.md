@@ -4,9 +4,9 @@ draft: true
 date: 2024-06-19T19:48:04.535Z
 image: img/img_0539.jpeg
 ---
-„Sherdan bisch dä Gröscht“! „Wärs immär no nöd gmärkt hät isch sälbär tschuld! Oder magän aifach nöd.“ Die Schweiz knüpft nicht ganz an die Leistung gegen Ungarn und gerät in Rücklage.
+„Sherdan bisch dä Gröscht“! „Wärs immär no nöd gmärkt hät, isch sälbär tschuld! Oder magän aifach nöd.“ Die Schweiz knüpft nicht ganz an die Leistung gegen Ungarn an, gerät in Rücklage und fängt sich wieder auf. Das Achtelfinale ist eingetütet. Erstes Ziel erreicht. Am 23sten geht’s um die Wurst. Die Schweiz ist nicht chancenlos!
 
-Sie gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert die Drinks. Der Junge ist Spitzenklasse! Trotzdem war es anfangs nicht so klar, wie das Resultat vermuten lässt. Szoboszlai, der beste Freistossschütze an diesem Turnier, hätte ihnen fast weh getan. Kroos dirigiert, Kimmich und Gündogan verbessert, Neuer souverän. Das Niveau steigt und steigt. Trotz allem hat die Schweiz eine (grosse) Chance!
+Sie gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert die Drinks. Der Junge ist Spitzenklasse! Trotzdem war es anfangs nicht so klar, wie das Resultat vermuten lässt. Szoboszlai, der beste Freistossschütze an diesem Turnier, hätte ihnen fast weh getan. Kroos dirigiert, Kimmich und Gündogan verbessert, Neuer souverän. Das Niveau steigt und steigt. Deutschland ist mit einem Unentschieden Gruppensieger.
 
 01 = 190 Rosa+Marlen  🥇       
 
