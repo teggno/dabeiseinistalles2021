@@ -118,5 +118,3 @@ Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es
 52  =  90 Eva-Maria Heitz
 
 53  =  90 Gina+Bruno
-
-Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es unmöglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
