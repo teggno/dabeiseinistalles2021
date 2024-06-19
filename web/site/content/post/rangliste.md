@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-18T21:00:02.316Z
 image: img/img_0509.jpeg
 ---
-Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es  geschickt verteidigt. Runde 1 ist abgehakt! Es geht zu und her wie am Engadiner Ski-Marathon! Kaum zu glauben was hier los ist. Ich hab von Anfang an gemerkt, dass es an die Buletten geht. Nur 60 Punkte Unterschied zwischen Rang 1 und Rang 😂 Die meisten brachten ihre Teams unbeschadet „nach Hause“. Keiner will sich eine Blösse geben. Jedes Tor bestimmt über Sein oder Nichtsein! Der VAR wird je nach Verlauf gepriesen oder verdammt. 4x30+3x10! Das Tempo der Spitzenreiterinnen ist atemberaubend!  Genauso wie die Fahrt im Nachtzug 🚂 mit Sting (Jukebox)
+Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es  geschickt verteidigt. Runde 1 ist abgehakt! Es geht zu und her wie am Engadiner Ski-Marathon! Kaum zu glauben was hier los ist. Ich hab von Anfang an gemerkt, dass es an die Buletten geht. Nur 60 Punkte Unterschied zwischen Rang 1 und Rang 😂 Die meisten brachten ihre Teams unbeschadet „nach Hause“. Keiner will sich eine Blösse geben. Jedes Tor bestimmt über Sein oder Nichtsein! Der VAR wird je nach Verlauf gepriesen oder verdammt. 4x30+3x10! Das Tempo der Spitzenreiterinnen ist atemberaubend!  Genauso wie die Fahrt  im Nachtzug 🚂 mit Sting (Jukebox)
 
 \
 01 = 150 Rosa+Marlen  🥇       
