@@ -117,4 +117,4 @@ Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es
 
 52  =  90 Eva-Maria Heitz
 
-53  =  90 Gina+Bruno
+53  =  90 Gina+Bruno 🏮
