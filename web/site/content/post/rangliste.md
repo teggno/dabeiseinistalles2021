@@ -75,17 +75,17 @@ Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es
 
 34  =   120 Kurt Meier
 
-35  =   110 Katja+Tommy 
+35  =   120 Katja+Tommy 
 
-36  =   110 Tina+Roland
+36  =   120 Inge+Gregor
 
-37   =  110 Inge+Gregor
+37   =  110 Tina+Roland
 
-38  =  100 Severin Stucky 
+38  =  110 Leni+Luciano Schüepp
 
 39 =   100 Baggerstube
 
-40 =   100 Leni+Luciano Schüepp
+40 =   100 Severin Stucky
 
 41  =   100 Salon Liotta
 
@@ -97,9 +97,9 @@ Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es
 
 45  =  100 Daniela+Paolo Padula
 
-46  =  90 Die Freigels
+46  =  100 Stephi+Cristiano 
 
-47  =  90 Gina+Bruno Meier
+47  =  90  Die Freigels
 
 48  =  90 Jeanette+Urs Affentranger 
 
@@ -111,6 +111,6 @@ Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es
 
 52  =  90 Eva-Maria Heitz
 
-53  =  90 Stephi+Cristiano Pedron 🏮
+53  =  90 Gina+Bruno
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es unmöglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
