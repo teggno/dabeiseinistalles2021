@@ -4,14 +4,17 @@ draft: true
 date: 2024-06-18T21:00:02.316Z
 image: img/img_0539.jpeg
 ---
-Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es geschickt verteidigt. Runde 1 ist abgehakt! Es geht zu und her wie am Engadiner Ski-Marathon! Kaum zu glauben was hier los ist. Ich hab von Anfang an gemerkt, dass es an die Buletten geht. Nur 60 Punkte Unterschied zwischen Rang 1 und Rang 😂 Die meisten brachten ihre Teams unbeschadet „nach Hause“. Keiner will sich eine Blösse geben. Jedes Tor bestimmt über Sein oder Nichtsein! Der VAR wird gepriesen und gleich wieder verdammt. 4x30+3x10! Das Tempo der Spitzenreiterinnen ist atemberaubend!  Genauso wie die Fahrt  im Nachtzug 🚂 mit Sting (Jukebox)
 
-\
+
+
+
+
+
 01 = 190 Rosa+Marlen  🥇       
 
-02 = 170 René Benz            
+02 = 170 René Benz  🥈      
 
-03 = 170 Koni Hornstein
+03 = 170 Koni Hornstein 🥉
 
 04 = 170 Renato Meier
 
@@ -83,19 +86,19 @@ Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es
 
 38  =   120 Claudia+Markus Singer
 
-39 =   120  Baggerstube
+39 =    120  Daniela+Davide Brocca
 
-40 =   120 Severin Stucky
+40 =    120  Zac
 
 41  =   120 Tina+Roland
 
 42  =  120 Katja+Tommy
 
-43  =  100 Urs+Katy Näf
+43  =  110 Leni+Luciano Schüepp
 
 44  =  100 Margot+Leo Hensch
 
-45  =  100 Daniela+Paolo Padula
+45  =  100 Baggerstube
 
 46  =  100 Stephi+Cristiano 
 
@@ -111,6 +114,6 @@ Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es
 
 52  =  90 Eva-Maria Heitz
 
-53  =  90 Gina+Bruno
+53  =  90 Gina+Bruno 🏮🙈
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es unmöglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
