@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Eric Clapton  ▶️  Wonderful Tonight
-  url: https://www.youtube.com/watch?v=_1LhdpEg42Y&pp=ygUgc3RpbmcgbGEgYmVsbGUgZGFtZSBzYW5zIHJlZ3JldHM%3D
+  title: RAFFI‘S JUKEBOX 🎸 Santana   ▶️  smooth
+  url: https://www.youtube.com/watch?v=6Whgn_iE5uc&pp=ygUOc2FudGFuYSBzbW9vdGg%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
