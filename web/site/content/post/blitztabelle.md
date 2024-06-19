@@ -1,6 +1,6 @@
 ---
 title: Blitztabelle
-draft: true
+draft: false
 date: 2024-06-19T10:48:21.194Z
 image: img/img_0541.jpeg
 ---
@@ -8,9 +8,7 @@ image: img/img_0541.jpeg
 
 Die stolzen Träger der „Roten Laterne“ und meine lieben Nachbarn Katja+Tommy baten mich um einen Gefallen, den ich ihnen nicht abschlagen konnte.„Mach doch schnäll ä  Blitztabällä, so schtömmär au mol witär vornä.“ Ich hab’s versucht „cari amici“, gebracht hat es am Ende wenig. Höchstens, dass jetzt noch Gina+Bruno auf mich sauer sind. 😢 Die Kroaten sollten ein paar ihrer Methusalems aussortieren, sonst wird das nichts mehr an dieser EM.
 
-Einige, die weiter nach Kroatien wollten, sind bereits auf dem Rückweg in die Schweiz. Modric, Perisic, Brozovic und Kovacic haben ihre Hoffnungen zerstört. Ich hab schon im Vorfel Beim 18 Uhr Spiel sind weitere Defekte fast ausgeschlossen! Zu stark trumpfen die Deutschen im Moment  auf. Einzige Frage, wer netzt hier ein? Wirz, Musiala, Havertz oder Füllkrug. Viele hoffen auf Rüdiger! So bleibt der Schaden einigermassen überschaubar 😎
-
-Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es geschickt verteidigt. Runde 1 ist abgehakt! Es geht zu und her wie am Engadiner Ski-Marathon! Kaum zu glauben was hier los ist. Ich hab von Anfang an gemerkt, dass es an die Buletten geht. Nur 60 Punkte Unterschied zwischen Rang 1 und Rang 😂 Die meisten brachten ihre Teams unbeschadet „nach Hause“. Keiner will sich eine Blösse geben. Jedes Tor bestimmt über Sein oder Nichtsein! Der VAR wird gepriesen und gleich wieder verdammt. 4x30+3x10! Das Tempo der Spitzenreiterinnen ist atemberaubend!  Genauso wie die Fahrt  im Nachtzug 🚂 mit Sting (Jukebox)
+Beim 18 Uhr Spiel ist nicht davon auszugehen, dass weitere Unregelmässigkeiten auftreten. Zu stark trumpfen die Deutschen im Moment  auf. Einzige Frage, wer netzt hier ein? Wirz, Musiala, Havertz oder Füllkrug. Viele hoffen auf Rüdiger! So bleibt der Schaden einigermassen überschaubar 😎 
 
 \
 01 = 150 Rosa+Marlen  🥇       
