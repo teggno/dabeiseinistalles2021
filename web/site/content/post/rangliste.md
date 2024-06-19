@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-19T19:48:04.535Z
 image: img/img_0539.jpeg
 ---
-„Sherdan bisch dä Gröscht! Wärs immär no nöd gmärkt hät, isch sälbär tschuld! Oder magän aifach nöd. Nu dä Peter von Känel hät ä so richtig an än glaubt.“ Yakins Plan, ihn von Anfang an zu bringen, geht voll auf. Die Schweiz knüpft nicht ganz an die Leistung gegen die Ungaren an, gerät in Rücklage und fängt sich wieder auf. Das Achtelfinale ist  eingetütet. Wir feiern schon mal. Nicht überschwänglich, aber doch so, dass es in die Hüften geht. (Jukebox)
+„Sherdan bisch dä Gröscht! Wär‘s immär no nöd gmärkt hät, isch sälbär tschuld! Oder magän aifach nöd. Nu dä Peter von Känel hät ä so richtig an än glaubt.“ Yakins Plan, ihn von Anfang an zu bringen, geht voll auf. Die Schweiz knüpft nicht ganz an die Leistung gegen die Ungaren an, gerät in Rücklage und fängt sich wieder auf. Das Achtelfinale ist  eingetütet. Wir feiern schon mal. Nicht überschwänglich, aber doch so, dass es in die Hüften geht. (Jukebox)
 
 Die Deutschen gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert die Drinks. Der Junge ist Spitzenklasse! Trotzdem war es anfangs nicht so klar, wie das Resultat vermuten lässt. Szoboszlai, der beste Freistossschütze an diesem Turnier, hätte ihnen fast weh getan. Kroos dirigiert, Kimmich und Gündogan verbessert, Neuer souverän. Das Niveau steigt und steigt. Deutschland braucht gegen die Schweiz ein Unentschieden zum Gruppensieg!
 
