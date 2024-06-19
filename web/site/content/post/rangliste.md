@@ -4,9 +4,9 @@ draft: false
 date: 2024-06-19T19:48:04.535Z
 image: img/img_0539.jpeg
 ---
-Noch so eine „Wunderkiste“! „Sherdan bisch dä Gröscht! Wär‘s immär no nöd gmärkt hät, isch sälbär tschuld! Oder magän aifach nöd. Nu dä Peter von Känel hät ä so richtig an än glaubt.“ Yakins Plan, ihn von Anfang an zu bringen, geht voll auf. Die Schweiz knüpft nicht ganz an die Leistung gegen die Ungarn an, gerät in Rücklage und fängt sich wieder auf. Das Achtelfinale ist zu 99% eingetütet. Wir feiern schon mal. Nicht überschwänglich, aber doch so, dass es in die Hüften geht. (Jukebox)
+„Nomol sonä Wunderchischtä, Sherdan bisch dä Gröscht!“ Wär‘s immär no nöd glaubt, isch sälbär tschuld! Oder magän aifach nöd. Nu üsän Peter von Känel hät ä so richtig an än glaubt.“ Yakins Plan, ihn von Anfang an zu bringen, geht voll auf. Die Schweiz knüpft nicht ganz an die Leistung gegen die Ungarn an, gerät in Rücklage und fängt sich wieder auf. Das Achtelfinale ist zu 99% eingetütet. Wir feiern schon mal. Nicht überschwänglich, aber doch so, dass es in die Hüften geht. (Jukebox)
 
-Die Deutschen gewinnen auch im farbenfrohen Strand-Look! Und Musiala serviert die Drinks. Der Junge ist Spitzenklasse! Trotzdem war es anfangs nicht so klar, wie das Resultat es vermuten lässt. Szoboszlai, der beste Freistossschütze an diesem Turnier, hätte ihnen fast weh getan. Kroos dirigiert, Kimmich und Gündogan verbessert, Neuer souverän. Das Niveau steigt und steigt. Deutschland braucht gegen die Schweiz ein Unentschieden zum Gruppensieg!
+Die Deutschen sind auch im farbenfrohen Strand-Look nicht zu bremsen! Und Musiala serviert die Drinks. Der Junge ist Spitzenklasse! Trotzdem war es anfangs nicht so klar, wie das Resultat es vermuten lässt. Szoboszlai, der beste Freistossschütze an diesem Turnier, hätte ihnen fast weh getan. Kroos dirigiert, Kimmich und Gündogan verbessert, Neuer souverän. Das Niveau steigt und steigt. Deutschland braucht gegen die Schweiz ein Unentschieden zum Gruppensieg!
 
 01 = 190 Rosa+Marlen  🥇       
 
