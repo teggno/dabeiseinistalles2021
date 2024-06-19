@@ -115,4 +115,4 @@ Beim 18 Uhr Spiel ist nicht davon auszugehen, dass weitere Unregelmässigkeiten 
 
 52  =  90 Eva-Maria Heitz
 
-53  =  90 Gina+Bruno 🏮
+53  =  90 Gina+Bruno 🏮 🙈
