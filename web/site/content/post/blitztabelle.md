@@ -2,7 +2,7 @@
 title: Blitztabelle
 draft: false
 date: 2024-06-19T10:48:21.194Z
-image: img/img_0541.jpeg
+image: img/img_0542.jpeg
 ---
 „Wer sich hier nicht anschnallt, fällt vom Stuhl.“ Originalton Dani Kern. Besser kann man es nicht kommentieren. Es war ein Spektakel! Genau wie gestern Georgien gegen die Türkei! Viel spannender als die sogenannten Knüller, die viel versprachen und wenig hielten.
 
