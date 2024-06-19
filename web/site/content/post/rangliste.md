@@ -87,9 +87,9 @@ Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es
 
 40 =   120 Severin Stucky
 
-41  =   100 Salon Liotta
+41  =   120 Tina+Roland
 
-42  =  100 Simply the best
+42  =  120 Katja+Tommy
 
 43  =  100 Urs+Katy Näf
 
