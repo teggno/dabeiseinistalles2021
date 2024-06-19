@@ -20,7 +20,7 @@ Die Deutschen gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert 
 
 06 = 170 Peter von Känel
 
-07 = 160 Barbara+Urs Schläpfer 
+07 = 170 die Schwemers
 
 08 = 160 Pina+Michele La Macchia
 
@@ -36,7 +36,7 @@ Die Deutschen gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert 
 
 14  =  160 Peter von Känel
 
-15  =  160 die Schwemers
+15  =  160 Urs+Barbara Schläpfer
 
 16  =  160  Cosimo Cataldo
 
