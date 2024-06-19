@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-19T19:48:04.535Z
 image: img/img_0539.jpeg
 ---
-„Sherdan bisch dä Gröscht“! „Wärs immär no nöd gmärkt hät, isch sälbär tschuld! Oder magän aifach nöd.“ Yakins Plan, ihn von Anfang an zu bringen, geht voll auf. Die Schweiz knüpft nicht ganz an die Leistung gegen die Ungaren an, gerät in Rücklage und fängt sich wieder auf. Das Achtelfinale ist zu 99% eingetütet. Wir feiern schon mal. Nicht überschwänglich, eher ruhig und gediegen (Jukebox)
+„Sherdan bisch dä Gröscht“! „Wärs immär no nöd gmärkt hät, isch sälbär tschuld! Oder magän aifach nöd.“ Yakins Plan, ihn von Anfang an zu bringen, geht voll auf. Die Schweiz knüpft nicht ganz an die Leistung gegen die Ungaren an, gerät in Rücklage und fängt sich wieder auf. Das Achtelfinale ist zu 99% eingetütet. Wir feiern schon mal. Nicht überschwänglich, aber doch so, dass es in die Hüften geht. (Jukebox)
 
 Die Deutschen gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert die Drinks. Der Junge ist Spitzenklasse! Trotzdem war es anfangs nicht so klar, wie das Resultat vermuten lässt. Szoboszlai, der beste Freistossschütze an diesem Turnier, hätte ihnen fast weh getan. Kroos dirigiert, Kimmich und Gündogan verbessert, Neuer souverän. Das Niveau steigt und steigt. Deutschland braucht gegen die Schweiz ein Unentschieden zum Gruppensieg!
 
@@ -18,7 +18,7 @@ Die Deutschen gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert 
 
 05 = 170 Gülay Turcan
 
-06 = 160 Andi+Andy Hermann
+06 = 170 Peter von Känel
 
 07 = 160 Barbara+Urs Schläpfer 
 
@@ -40,11 +40,11 @@ Die Deutschen gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert 
 
 16  =  160  Cosimo Cataldo
 
-17  =  150 Bea Colaci
+17  =  150 Andi+Andy Hermann
 
-18   = 150 Inge+Gregor
+18   = 160 Inge+Gregor
 
-19   = 150 Franco Monferini 
+19   = 160 dä Chaschtä
 
 20   = 150 Renato Petrillo
 
@@ -58,13 +58,13 @@ Die Deutschen gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert 
 
 25   =  150 Zeljko Berger
 
-26  =   150 dä Chaschtä
+26  =   150 Franco Monferini
 
 27  =   150 Martha+Sergio Giménez
 
 28  =   140 Mobby
 
-29  =   130 Anton Teuffel
+29  =   140 Kuno Schwarzer
 
 30  =   130 Severin Stucky
 
@@ -78,7 +78,7 @@ Die Deutschen gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert 
 
 35  =   130 Katy+Urs Näf
 
-36  =   130 Kuno Schwarzer
+36  =   130 Anton Teuffel
 
 37   =  130 Miro Berger
 
@@ -94,7 +94,7 @@ Die Deutschen gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert 
 
 43  =  110 Leni+Luciano Schüepp
 
-44  =  100 Margot+Leo Hensch
+44  =  110 Margot+Leo Hensch
 
 45  =  100 Baggerstube
 
