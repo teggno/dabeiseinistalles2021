@@ -7,73 +7,73 @@ image: img/img_0539.jpeg
 Früher wenn Italien so spielte, sprach man von Catenaccio. Heutzutage heisst es geschickt verteidigt. Runde 1 ist abgehakt! Es geht zu und her wie am Engadiner Ski-Marathon! Kaum zu glauben was hier los ist. Ich hab von Anfang an gemerkt, dass es an die Buletten geht. Nur 60 Punkte Unterschied zwischen Rang 1 und Rang 😂 Die meisten brachten ihre Teams unbeschadet „nach Hause“. Keiner will sich eine Blösse geben. Jedes Tor bestimmt über Sein oder Nichtsein! Der VAR wird gepriesen und gleich wieder verdammt. 4x30+3x10! Das Tempo der Spitzenreiterinnen ist atemberaubend!  Genauso wie die Fahrt  im Nachtzug 🚂 mit Sting (Jukebox)
 
 \
-01 = 150 Rosa+Marlen  🥇       
+01 = 190 Rosa+Marlen  🥇       
 
-02 = 140 Mobby 🥈               
+02 = 170 René Benz            
 
-03 = 140 René Benz 🥉
+03 = 170 Koni Hornstein
 
-04 = 130 Anton Teuffel
+04 = 170 Renato Meier
 
-05 = 130 Verena+Bruno Wacker
+05 = 170 Gülay Turcan
 
-06 = 130 Nico Colaci
+06 = 160 Andi+Andy Hermann
 
-07 = 130 Barbara+Urs Schläpfer 
+07 = 160 Barbara+Urs Schläpfer 
 
-08 = 130 Pina+Michele La Macchia
+08 = 160 Pina+Michele La Macchia
 
-09  = 130 Andy+Andi Hermann
+09  = 160 Verena+Bruno Wacker
 
-10  =  130  Memduh Aktas
+10  =  160 Memduh Aktas
 
-11  =   130 Emma+Christian 
+11  =   160 Emma+Christian 
 
-12  =  130 Schwemers
+12  =  160 Nunzio Padula 
 
-13  =  130 Miro Berger
+13  =  160 Gianfranco Caporusso
 
-14  =  130 Kuno Schwarzer 
+14  =  160 Peter von Känel
 
-15  =  130 Gülay Turcan
+15  =  160 die Schwemers
 
-16  =  130 Koni Hornstein
+16  =  160  Cosimo Cataldo
 
-17  =  130 Peter von Könel
+17  =  150 Bea Colaci
 
-18   = 130 Gianfranco Caporusso
+18   = 150 Inge+Gregor
 
-19   = 130 Renato Meier
+19   = 150 Franco Monferini 
 
-20   = 130 Cosimo Cataldo
+20   = 150 Renato Petrillo
 
-21    = 130 Nunzio Padula
+21    = 150 Lilly+Raffaele
 
-22   =  120 Claudia+Markus Singer 
+22   =  150 Kurt Meier
 
-23   =  120 Claudia+Peppe Panucci
+23   =  150 Claudia+Peppe Panucci
 
-24   =  120 Daniela+Davide Brocca
+24   =  150 dä Dog
 
-25   =  120 Lilly+Raffaele
+25   =  150 Zeljko Berger
 
-26  =   120 Zac
+26  =   150 dä Chaschtä
 
-27  =   120 Martha+Sergio Giménez
+27  =   150 Martha+Sergio Giménez
 
-28  =   120 Zeljko Berger
+28  =   140 Mobby
 
-29  =   120 dä Chaschtä
+29  =   130 Anton Teuffel
 
-30  =   120 dä Dog
+30  =   130 Severin Stucky
 
-31   =   120 Bea Colaci
+31   =   130 Nico Colaci
 
-32   =  120 Regula+Franco Monferini 
+32   =  130  Salon Liotta
 
-33   =  120 Renato Petrillo
+33   =  130 Made+Donato Carrieri
 
-34  =   120 Kurt Meier
+34  =   130 Daniela+Paolo Padula
 
 35  =   120 Katja+Tommy 
 
