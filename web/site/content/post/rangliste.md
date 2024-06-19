@@ -4,9 +4,9 @@ draft: true
 date: 2024-06-19T19:48:04.535Z
 image: img/img_0539.jpeg
 ---
-Sie gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert die Drinks. Der Junge ist grosse Klasse und bescheiden dazu! Trotzdem war es anfangs nicht so klar, wie das Resultat vermuten lässt. Szoboszlai, der beste Freistossschütze an diesem Turnier, hätte ihnen fast weh getan. Kroos dirigiert, Kimmich und Gündogan verbessert, Neuer souverän. Das Niveau steigt und steigt. Trotz allem hat die Schweiz eine (grosse) Chance!
+„Sherdan bisch dä Gröscht“! 
 
-
+Sie gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert die Drinks. Der Junge ist Spitzenklasse! Trotzdem war es anfangs nicht so klar, wie das Resultat vermuten lässt. Szoboszlai, der beste Freistossschütze an diesem Turnier, hätte ihnen fast weh getan. Kroos dirigiert, Kimmich und Gündogan verbessert, Neuer souverän. Das Niveau steigt und steigt. Trotz allem hat die Schweiz eine (grosse) Chance!
 
 01 = 190 Rosa+Marlen  🥇       
 
