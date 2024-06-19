@@ -34,17 +34,17 @@ Die Deutschen gewinnen selbst im farbenfrohen Strand-Look! Und Musiala serviert 
 
 13  =  160 Gianfranco Caporusso
 
-14  =  160 Peter von Känel
+14  =  160 dä Chaschtä
 
 15  =  160 Urs+Barbara Schläpfer
 
 16  =  160  Cosimo Cataldo
 
-17  =  150 Andi+Andy Hermann
+17  =  160 Andi+Andy Hermann
 
 18   = 160 Inge+Gregor
 
-19   = 160 dä Chaschtä
+19   = 
 
 20   = 150 Renato Petrillo
 
