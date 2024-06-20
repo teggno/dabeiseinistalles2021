@@ -6,19 +6,19 @@ image: img/img_0539.jpeg
 ---
 01  =190 Rosa+Marlen  🥇       
 
-02 = 170 René Benz  🥈      
+02 = 170 Vonki 🥈      
 
-03 = 170 Koni Hornstein 🥉
+03 = 170 die Schwemers 🥉
 
 04 = 170 Renato Meier
 
-05 = 170 Gülay Turcan
+05 = 170 Gülay Turcan ☀️
 
-06 = 170 Vonki
+06 = 170 Koni Hornstein
 
-07 = 170 die Schwemers
+07 = 170 René Benz
 
-08 = 160 Pina+Michele La Macchia
+08 = 160 Pina+Michele La Macchia ✈️
 
 09  = 160 Verena+Bruno Wacker
 
@@ -32,15 +32,15 @@ image: img/img_0539.jpeg
 
 14  =  160 dä Chaschtä
 
-15  =  160 Urs+Barbara Schläpfer
+15  =  160 Urs+Barbara Schläpfer 🛫
 
-16  =  160  Cosimo Cataldo
+16  =  160  Cosimo Cataldo 🐆
 
 17  =  160 Andi+Andy Hermann
 
 18   = 160 Inge+Gregor
 
-19   = 150 Bea Colaci
+19   = 150 Bea Colaci 👍
 
 20   = 150 Renato Petrillo
 
@@ -62,17 +62,17 @@ image: img/img_0539.jpeg
 
 29  =   140 Kuno Schwarzer
 
-30  =   130 Severin Stucky
+30  =   130 Severin Stucky 💉
 
 31   =   130 Nico Colaci
 
 32   =  130  Salon Liotta
 
-33   =  130 Made+Donato Carrieri
+33   =  130 Made+Donato Carrieri 🚨
 
 34  =   130 Daniela+Paolo Padula
 
-35  =   130 Katy+Urs Näf
+35  =   130 Katy+Urs Näf 🎢
 
 36  =   130 Anton Teuffel
 
@@ -82,31 +82,31 @@ image: img/img_0539.jpeg
 
 39 =    120  Daniela+Davide Brocca
 
-40 =    120  Zac
+40 =    120  Zac 🚧
 
 41  =   120 Tina+Roland
 
-42  =  120 Katja+Tommy
+42  =  120 Katja+Tommy 🛟
 
-43  =  110 Leni+Luciano Schüepp
+43  =  110 Leni+Luciano Schüepp 🧗🏻‍♀️
 
-44  =  110 Margot+Leo Hensch
+44  =  110 Margot+Leo Hensch ⛑️
 
 45  =  110 Baggerstube
 
-46  =  100 Stephi+Cristiano 
+46  =  100 Stephi+Cristiano 🛴
 
 47  =  90  Die Freigels
 
-48  =  90 Jeanette+Urs Affentranger 
+48  =  90 Jeanette+Urs Affentranger 💊
 
-49  =  90 dä Coc
+49  =  90 dä Coc 🥤
 
-50  =  90 Roger Blatter 
+50  =  90 Roger Blatter 🐌
 
 51   =  90 Janis
 
-52  =  90 Eva-Maria Heitz
+52  =  90 Eva-Maria Heitz 🆘 
 
 53  =  90 Gina+Bruno 🏮🙈
 
