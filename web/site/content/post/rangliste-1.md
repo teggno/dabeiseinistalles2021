@@ -92,7 +92,7 @@ image: img/img_0539.jpeg
 
 44  =  110 Margot+Leo Hensch
 
-45  =  100 Baggerstube
+45  =  110 Baggerstube
 
 46  =  100 Stephi+Cristiano 
 
