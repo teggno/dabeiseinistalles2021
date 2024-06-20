@@ -4,10 +4,7 @@ draft: false
 date: 2024-06-19T06:48:04.188Z
 image: img/img_0539.jpeg
 ---
-\
-Fussball in Perfektion! Endlich sind die Spanier weggekommen von ihrem sterilen Tiki-Taka! Überfallartig lancieren sie ihre Angriffe. Schnell und trickreich ihre Aussen Williams und Yamal, die an frühere Dribbelkünstler von der Copacabana erinnern. Italien hatte nichts entgegenzusetzen. Nur Donnarumma und Barella ragen aus dem Mittelmass heraus. Spanien ist neben Deutschland der aktuell heisseste Anwärter auf den Titel. Schade, dass einer  nach dem Viertelfinale nach Hause geht.
-
-
+Erzählen kann man im Vorfeld viel. Die Antwort gibt immer der Rasen. Fussball in Perfektion! Endlich sind die Spanier weggekommen von ihrem sterilen Tiki-Taka! Überfallartig lancieren sie ihre Angriffe. Schnell und trickreich die Aussen Williams und Yamal, die an frühere Dribbelkünstler von der Copacabana erinnern. Italien hatte nichts entgegenzusetzen. Nur Donnarumma und Barella ragen aus dem Mittelmass heraus. Spanien ist neben Deutschland der aktuell heisseste Anwärter auf den Titel. Schade, dass einer  nach dem Viertelfinale nach Hause geht.
 
 01  =190 Rosa+Marlen 🎇 
 
