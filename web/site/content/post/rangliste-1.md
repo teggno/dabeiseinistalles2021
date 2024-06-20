@@ -40,7 +40,7 @@ image: img/img_0539.jpeg
 
 18   = 160 Inge+Gregor
 
-19   = 160 Bea Colaci
+19   = 150 Bea Colaci
 
 20   = 150 Renato Petrillo
 
