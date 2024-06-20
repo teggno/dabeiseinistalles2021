@@ -36,7 +36,7 @@ image: img/img_0539.jpeg
 
 15  =   180 Koni Hornstein 
 
-16  =   180 Vonki
+16  =   180 dä Vonki
 
 17  =   180 Andi+Andy Hermann
 
