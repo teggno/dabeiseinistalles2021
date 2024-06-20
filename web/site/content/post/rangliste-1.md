@@ -64,7 +64,7 @@ image: img/img_0539.jpeg
 
 29  =   170 Tina+Roland
 
-30  =   170 Bea Colaci💉
+30  =   170 Bea Colaci 
 
 31   =   170 Lilly+Raffaele
 
