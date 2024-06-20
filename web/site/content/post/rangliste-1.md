@@ -24,7 +24,7 @@ image: img/img_0539.jpeg
 
 09  = 200 Kurt Meier
 
-10  =  200 Renato Meier
+10  =  190 Renato Meier
 
 11  =   190 die Schwemers
 
