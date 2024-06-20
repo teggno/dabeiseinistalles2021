@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Santana   ▶️  smooth
-  url: https://www.youtube.com/watch?v=6Whgn_iE5uc&pp=ygUOc2FudGFuYSBzbW9vdGg%3D
+  title: RAFFI‘S JUKEBOX 🎸 Mina   ▶️  Ancora Ancora Ancora
+  url: https://www.youtube.com/watch?v=ua9u_AoKxgo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
