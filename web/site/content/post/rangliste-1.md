@@ -14,7 +14,7 @@ image: img/img_0539.jpeg
 
 04 = 210 Cosimo Cataldo
 
-05 = 200 Barbara+Urs Schläpfer
+05 = 210 Barbara+Urs Schläpfer
 
 06 = 200 Nunzio Padula 
 
