@@ -6,110 +6,110 @@ image: img/img_0539.jpeg
 ---
 „Isch nüd  gsi Mina, diä händ vil zwenig druf!“ Erzählen kann man sich im Vorfeld viel. Die Antwort gibt immer der Rasen! Endlich sind die Spanier von ihrem sterilen Tiki-Taka weggekommen. Gradlinig und in höchstem Tempo lancieren sie ihre Angriffe. Wieselflink und trickreich die Aussen. Williams und Yamal, erinnern an frühere Dribbelkünstler von der Copacabana. Ein Genuss ihnen zuzusehen. Italien hatte nichts entgegenzusetzen. Bis auf Donnarumma ragte aus dem Mittelmass heraus. Spanien ist neben Deutschland der aktuell heisseste Anwärter auf den Titel. Schade, dass einer nach dem Viertelfinale nach Hause geht.
 
-01  =190 Rosa+Marlen 🎇 
+01  =230 Rosa+Marlen 🎇 
 
-02 = 170 Vonki 🥈      
+02 = 220 René Benz🥈      
 
-03 = 170 die Schwemers 🥉
+03 = 210 Pina+Michele La Macchia 🥉
 
-04 = 170 Renato Meier
+04 = 210 Cosimo Cataldo
 
-05 = 170 Gülay Turcan ☀️
+05 = 200 Barbara+Urs Schläpfer
 
-06 = 170 Koni Hornstein
+06 = 200 Nunzio Padula 
 
-07 = 170 René Benz
+07 = 200 Regula+Franco Monferini 
 
-08 = 160 Pina+Michele La Macchia ✈️
+08 = 200 dä Dog
 
-09  = 160 Verena+Bruno Wacker
+09  = 200 Kurt Meier
 
-10  =  160 Memduh Aktas
+10  =  200 Renato Meier
 
-11  =   160 Emma+Christian 
+11  =   190 die Schwemers
 
-12  =  160 Nunzio Padula 
+12  =   190 Gülay Turcan
 
-13  =  160 Gianfranco Caporusso
+13  =   190 Martha+Sergio Giménez
 
-14  =  160 dä Chaschtä
+14  =   180 dä Chaschtä
 
-15  =  160 Urs+Barbara Schläpfer 🛫
+15  =   180 Koni Hornstein 
 
-16  =  160  Cosimo Cataldo 🐆
+16  =   180 Vonki
 
-17  =  160 Andi+Andy Hermann
+17  =   180 Andi+Andy Hermann
 
-18   = 160 Inge+Gregor
+18   =  180 Verena+Bruno Wacker
 
-19   = 150 Bea Colaci 👍
+19   =   180 Gianfranco Caporusso 
 
-20   = 150 Renato Petrillo
+20   =   180 Mobby
 
-21    = 150 Lilly+Raffaele
+21    =  180 Anton Teuffel
 
-22   =  150 Kurt Meier
+22   =  180 Miro Berger
 
-23   =  150 Claudia+Peppe Panucci
+23   =  180 Christian+Emma
 
-24   =  150 dä Dog
+24   =  180 Memduh Aktas
 
-25   =  150 Zeljko Berger
+25   =  170 Zeljko Berger
 
-26  =   150 Franco Monferini
+26  =   170 Nico Colaci
 
-27  =   150 Martha+Sergio Giménez
+27  =   170 Daniela+Davide Brocca
 
-28  =   140 Mobby
+28  =   170 Claudia+Markus Singer
 
-29  =   140 Kuno Schwarzer
+29  =   170 Tina+Roland
 
-30  =   130 Severin Stucky 💉
+30  =   170 Bea Colaci💉
 
-31   =   130 Nico Colaci
+31   =   170 Lilly+Raffaele
 
-32   =  130  Salon Liotta
+32   =  170 Nico Colaci
 
-33   =  130 Made+Donato Carrieri 🚨
+33   =  160 Inge+Gregor 
 
-34  =   130 Daniela+Paolo Padula
+34  =   160 Claudia+Peppe Panucci
 
-35  =   130 Katy+Urs Näf 🎢
+35  =   160 Kuno Schearzer
 
-36  =   130 Anton Teuffel
+36  =   160 Renato Petrillo
 
-37   =  130 Miro Berger
+37   =  150 Salon Liotta
 
-38  =   120 Claudia+Markus Singer
+38  =   150 Made+Donato Carrieri
 
-39 =    120  Daniela+Davide Brocca
+39 =    150 Urs+Katy Näf
 
-40 =    120  Zac 🚧
+40 =    150 Leni+Luciano Schüepp
 
-41  =   120 Tina+Roland
+41  =   140 Zac
 
-42  =  120 Katja+Tommy 🛟
+42  =  140 Gina+Bruno Meier
 
-43  =  110 Leni+Luciano Schüepp 🧗🏻‍♀️
+43  =  140 Roger Blatter
 
-44  =  110 Margot+Leo Hensch ⛑️
+44  =  140 Coc
 
-45  =  110 Baggerstube
+45  =  140 Jeanette+Urs
 
-46  =  100 Stephi+Cristiano 🛴
+46  =  130 Severin Stucky
 
-47  =  90  Die Freigels
+47  =  130 Katja+Tommy
 
-48  =  90 Jeanette+Urs Affentranger 💊
+48  =  130 Margot+Leo Hensch
 
-49  =  90 dä Coc 🥤
+49  =  130 Eva-Maria Heitz
 
-50  =  90 Roger Blatter 🐌
+50  =  130 Baggerstube
 
-51   =  90 Janis
+51   =  120 Stephi+Cristiano
 
-52  =  90 Eva-Maria Heitz 🆘 
+52  =  110 Janis
 
-53  =  90 Gina+Bruno 🏮🙈
+53  =  110 Die Freigels🏮
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
