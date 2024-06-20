@@ -1,7 +1,7 @@
 ---
 title: "RANGLISTE "
 draft: true
-date: 2024-06-20T06:46:22.618Z
+date: 2024-06-19T06:48:04.188Z
 image: img/img_0539.jpeg
 ---
 01  =190 Rosa+Marlen  🥇       
