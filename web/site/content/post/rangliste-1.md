@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-19T06:48:04.188Z
 image: img/img_0539.jpeg
 ---
-01  =190 Rosa+Marlen  🥇       
+01  =190 Rosa+Marlen 🎇 
 
 02 = 170 Vonki 🥈      
 
