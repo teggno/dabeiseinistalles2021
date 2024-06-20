@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-19T06:48:04.188Z
 image: img/img_0539.jpeg
 ---
-„Isch nüd  gsi Mina, diä händ zwenig drauf!“ Erzählen kann man sich im Vorfeld viel. Die Antwort gibt immer der Rasen! Endlich sind die Spanier von ihrem sterilen Tiki-Taka weggekommen. Gradlinig und in höchstem Tempo lancieren sie ihre Angriffe. Wieselflink und trickreich die Aussen. Williams und Yamal, erinnern an frühere Dribbelkünstler von der Copacabana. Ein Genuss ihnen zuzusehen. Italien hatte nichts entgegenzusetzen. Bis auf Donnarumma ragte aus dem Mittelmass heraus. Spanien ist neben Deutschland der aktuell heisseste Anwärter auf den Titel. Schade, dass einer nach dem Viertelfinale nach Hause geht.
+„Isch nüd  gsi Mina, diä händ vil zwenig druf!“ Erzählen kann man sich im Vorfeld viel. Die Antwort gibt immer der Rasen! Endlich sind die Spanier von ihrem sterilen Tiki-Taka weggekommen. Gradlinig und in höchstem Tempo lancieren sie ihre Angriffe. Wieselflink und trickreich die Aussen. Williams und Yamal, erinnern an frühere Dribbelkünstler von der Copacabana. Ein Genuss ihnen zuzusehen. Italien hatte nichts entgegenzusetzen. Bis auf Donnarumma ragte aus dem Mittelmass heraus. Spanien ist neben Deutschland der aktuell heisseste Anwärter auf den Titel. Schade, dass einer nach dem Viertelfinale nach Hause geht.
 
 01  =190 Rosa+Marlen 🎇 
 
