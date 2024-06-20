@@ -1,7 +1,7 @@
 ---
 title: Traumtor á la Shaqiri👏👏👏
 draft: false
-date: 2024-06-19T19:48:04.535Z
+date: 2024-06-20T06:26:51.304Z
 image: img/img_0546.jpeg
 ---
 „Nomol sonä Wunderchischtä, Sherdan bisch dä Gröscht!  Vo üs do, hät nu dä  Vonki a di glaubt.“ Wer es noch immer nicht glauben will, soll sich mal alle seine Tore an grossen Turnieren ansehen. Ein heisser Anwärter auf die Top Ten! Wenn man ihn natürlich nicht mag, liegt das Problem woanders! Yakins Plan, ihn von Anfang an zu bringen, geht voll auf. Die Schweiz vermag nicht an die Leistung vom Ungarn-Spiel anzuknüpfen, gerät in Rücklage und fängt sich wieder auf. Das Erreichen des Achtelfinals ist zu 99% eingetütet. Wir feiern schon mal jetzt. Nicht überschwänglich, aber doch so, dass es in die Hüften geht. (Jukebox)
