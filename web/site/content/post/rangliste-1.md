@@ -12,11 +12,11 @@ image: img/img_0539.jpeg
 
 03 = 210 Pina+Michele La Macchia 🥉
 
-04 = 210 Cosimo Cataldo
+04 = 210 Cosimo Cataldo 👣
 
-05 = 210 Barbara+Urs Schläpfer
+05 = 210 Barbara+Urs Schläpfer 🦾
 
-06 = 200 Nunzio Padula 
+06 = 200 Nunzio Padula 🥲
 
 07 = 200 Regula+Franco Monferini 
 
@@ -72,7 +72,7 @@ image: img/img_0539.jpeg
 
 33   =  170 Renato Petrillo
 
-34  =   160 Claudia+Peppe Panucci
+34  =   160 Claudia+Peppe Panucci 🥲
 
 35  =   160 Kuno Schwarzer
 
@@ -86,7 +86,7 @@ image: img/img_0539.jpeg
 
 40 =    150 Leni+Luciano Schüepp
 
-41  =   140 Zac
+41  =   140 Zac 🥊
 
 42  =  140 Gina+Bruno Meier
 
@@ -96,17 +96,17 @@ image: img/img_0539.jpeg
 
 45  =  140 Jeanette+Urs
 
-46  =  130 Severin Stucky
+46  =  130 Severin Stucky 🤕
 
 47  =  130 Katja+Tommy
 
-48  =  130 Margot+Leo Hensch
+48  =  130 Margot+Leo Hensch 
 
 49  =  130 Eva-Maria Heitz
 
 50  =  130 Baggerstube
 
-51   =  120 Stephi+Cristiano
+51   =  120 Stephi+Cristiano 🧳
 
 52  =  110 Janis
 
