@@ -26,7 +26,7 @@ image: img/img_0539.jpeg
 
 10  =  190 Renato Meier
 
-11  =   190 die Schwemers 💫
+11  =   190 die Schwemers 🌈
 
 12  =   190 Gülay Turcan 
 
@@ -60,7 +60,7 @@ image: img/img_0539.jpeg
 
 27  =   170 Daniela+Davide Brocca 
 
-28  =   170 Claudia+Markus Singer 🌈
+28  =   170 Claudia+Markus Singer 💥
 
 29  =   170 Tina+Roland
 
