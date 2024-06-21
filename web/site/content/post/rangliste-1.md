@@ -26,7 +26,7 @@ image: img/img_0539.jpeg
 
 10  =  190 Renato Meier
 
-11  =   190 die Schwemers
+11  =   190 die Schwemers 
 
 12  =   190 Gülay Turcan
 
@@ -60,7 +60,7 @@ image: img/img_0539.jpeg
 
 27  =   170 Daniela+Davide Brocca 
 
-28  =   170 Claudia+Markus Singer
+28  =   170 Claudia+Markus Singer 🌈
 
 29  =   170 Tina+Roland
 
@@ -80,9 +80,9 @@ image: img/img_0539.jpeg
 
 37   =  150 Salon Liotta
 
-38  =   150 Made+Donato Carrieri
+38  =   150 Made+Donato Carrieri 🎡
 
-39 =    150 Urs+Katy Näf
+39 =    150 Urs+Katy Näf ⛅️
 
 40 =    140 Daniela+Paolo Padula 🫢 🌚
 
@@ -96,11 +96,11 @@ image: img/img_0539.jpeg
 
 45  =  140 Jeanette+Urs
 
-46  =  130 Severin Stucky 🤕
+46  =  130 Severin Stucky 🔌
 
 47  =  130 Katja+Tommy
 
-48  =  130 Margot+Leo Hensch 
+48  =  130 Margot+Leo Hensch ⛑️
 
 49  =  130 Eva-Maria Heitz
 
