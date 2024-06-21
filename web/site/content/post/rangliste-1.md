@@ -72,25 +72,25 @@ Aufhellungen im Kanton Schaffhausen. Endlich ist Katy Näf aus dem Windschatten 
 
 33   =  170 Nico Colaci
 
-34  =   160 Claudia+Peppe Panucci 🏝️
+34  =   170 Daniela+Davide Brocca
 
-35  =   160 Kuno Schwarzer ⛑️
+35  =   170 Claudia+Markus Singer
 
-36  =   150;Leni+Luciano Schüepp
+36  =   170 Roger Blatter
 
-37   =  150 Inge+Gregor
+37   =  160 Claudia+Peppe Panucci
 
-38  =   150 
+38  =   160 Kuno Schwarzer
 
-39 =    150 Urs+Katy Näf ⛅️
+39 =    160 Inge+Gregor
 
-40 =    140 Daniela+Paolo Padula 🫢 🌚
+40 =    150 Leni+Luciano Schüepp
 
 41  =   140 Zac 🥊
 
 42  =  140 Gina+Bruno Meier
 
-43  =  140 Roger Blatter
+43  =  140 Daniela+Paolo Padula
 
 44  =  140 Coc
 
