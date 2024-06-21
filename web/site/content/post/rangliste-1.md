@@ -30,13 +30,13 @@ image: img/img_0539.jpeg
 
 12  =   190 Gülay Turcan
 
-13  =   190 Martha+Sergio Giménez
+13  =   190 Martha+Sergio Giménez  👍 🇪🇸 
 
 14  =   180 dä Chaschtä
 
 15  =   180 Koni Hornstein 
 
-16  =   180 dä Vonki
+16  =   180 dä Vonki 
 
 17  =   180 Andi+Andy Hermann
 
