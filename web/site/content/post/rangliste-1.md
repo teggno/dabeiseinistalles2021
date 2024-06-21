@@ -26,9 +26,9 @@ image: img/img_0539.jpeg
 
 10  =  190 Renato Meier
 
-11  =   190 die Schwemers 
+11  =   190 die Schwemers 💫
 
-12  =   190 Gülay Turcan
+12  =   190 Gülay Turcan 
 
 13  =   190 Martha+Sergio Giménez  👍 🇪🇸 
 
