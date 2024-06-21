@@ -20,7 +20,7 @@ image: img/img_0539.jpeg
 
 07 = 200 Regula+Franco Monferini 
 
-08 = 200 dä Dog
+08 = 200 dä Dog 🛸
 
 09  = 200 Kurt Meier 🛫
 
