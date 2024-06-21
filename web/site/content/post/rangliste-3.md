@@ -8,10 +8,8 @@ Freude pur nach dem Austria-Sieg! Katy Näf tritt endlich aus dem Windschatten i
 
 Les Bleus 🟦 gegen die Oranjes 🟧 0:0 (no comment)
 
-Joe Dassin hat sich schon im Vorfeld des Spiels Gedanken über die Franzosen gemacht:  „et si tu n‘existe pas“ ? (Jukebox) ist eine gute Frage.
+Joe Dassin hat sich schon im Vorfeld des Spiels Gedanken über die Franzosen gemacht:  „et si tu n‘existe pas“ ? (Jukebox) trifft den Nagel auf den Kopf.
 
 ![](img/img_0548.jpeg)
-
-
 
 ![]()
