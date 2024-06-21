@@ -1,6 +1,6 @@
 ---
 title: "RANGLISTE "
-draft: true
+draft: false
 date: 2024-06-20T21:29:16.380Z
 image: img/img_0539.jpeg
 ---
