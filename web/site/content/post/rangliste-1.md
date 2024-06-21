@@ -6,6 +6,9 @@ image: img/img_0539.jpeg
 ---
 Freude pur nach dem Austria-Sieg! Katy Näf tritt endlich aus dem Windschatten ihres „Guru“ und verbucht mit IHREN Österreichern wichtige Punkte auf dem Weg zur Spitze. Auch im Hause Blatter knallen die Sektkorken, Roger wittert  nach vielen Ausflügen in den ungemütlichen Tabellenkeller Morgenluft! Im Salon Liotta werden heute Abend dank Arnautovic Gratis-Frisuren auf den Kopf gezaubert und Tina hat zur hellen Freude ihres Roland zum ersten Mal ein Fussballspiel geschaut 😎 Bei Carrieris brechen mittlerweile alle Dämme. „Simply the best“ ist wieder da!
 
+Und jetzt „Les Bleus“ 🟦 gegen die „Oranjes“ 🟧
+
+\
 01  =230 Rosa+Marlen 🥇
 
 02 = 220 René Benz🥈      
