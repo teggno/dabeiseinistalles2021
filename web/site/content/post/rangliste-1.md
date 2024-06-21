@@ -81,19 +81,19 @@ Und jetzt „Les Bleus“ 🟦 gegen die „Oranjes“ 🟧
 
 36  =   170 Roger Blatter 🇦🇹 👍
 
-37   =  160 Claudia+Peppe Panucci
+37   =  170 Daniela+Paolo Padula
 
-38  =   160 Kuno Schwarzer
+38  =   160 Claudia+Peppe Panucci
 
 39 =    160 Inge+Gregor
 
-40 =    150 Leni+Luciano Schüepp
+40 =    160 Kuno Schwarzer
 
-41  =   140 Zac 
+41  =   150 Leni+Luciano Schüepp
 
 42  =  140 Gina+Bruno Meier
 
-43  =  140 Daniela+Paolo Padula
+43  =  140 Zac
 
 44  =  140 Coc
 
