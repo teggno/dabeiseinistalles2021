@@ -15,25 +15,25 @@ Und jetzt „Les Bleus“ 🟦 gegen die „Oranjes“ 🟧
 
 03 = 210 Pina+Michele La Macchia 🥉
 
-04 = 210 Cosimo Cataldo 👣
+04 = 210 Cosimo Cataldo 
 
-05 = 210 Barbara+Urs Schläpfer 🦾
+05 = 210 Barbara+Urs Schläpfer 
 
-06 = 200 Nunzio Padula 🥲
+06 = 200 Nunzio Padula 
 
-07 = 200 Regula+Franco Monferini 🎢
+07 = 200 Regula+Franco Monferini 
 
-08 = 200 dä Dog 🛸
+08 = 200 dä Dog 
 
-09  = 200 Kurt Meier 🛫
+09  = 200 Kurt Meier 
 
-10  =  200 Tina+Roland
+10  =  200 Tina+Roland  🇦🇹 👍
 
-11  =   190 die Schwemers 🌈
+11  =   190 die Schwemers 
 
 12  =   190 Gülay Turcan 
 
-13  =   190 Martha+Sergio Giménez  👍 🇪🇸 
+13  =   190 Martha+Sergio Giménez  👍 🇪🇸
 
 14  =   190 Renato Meier
 
@@ -59,15 +59,15 @@ Und jetzt „Les Bleus“ 🟦 gegen die „Oranjes“ 🟧
 
 25   =  180 Memduh Aktas
 
-26  =   180 Salon Liotta
+26  =   180 Salon Liotta 🇦🇹👍
 
-27  =   180 Simply the best
+27  =   180 Simply the best  🇦🇹 👍
 
-28  =   180 Urs+Katy Näf
+28  =   180 Urs+Katy 👍 🇦🇹 
 
 29  =   170 Zeljko Berger
 
-30  =   170 Bea Colaci  🏖️
+30  =   170 Bea Colaci  
 
 31   =   170 Lilly+Raffaele
 
@@ -79,7 +79,7 @@ Und jetzt „Les Bleus“ 🟦 gegen die „Oranjes“ 🟧
 
 35  =   170 Claudia+Markus Singer
 
-36  =   170 Roger Blatter
+36  =   170 Roger Blatter 🇦🇹 👍
 
 37   =  160 Claudia+Peppe Panucci
 
@@ -89,7 +89,7 @@ Und jetzt „Les Bleus“ 🟦 gegen die „Oranjes“ 🟧
 
 40 =    150 Leni+Luciano Schüepp
 
-41  =   140 Zac 🥊
+41  =   140 Zac 
 
 42  =  140 Gina+Bruno Meier
 
@@ -99,17 +99,17 @@ Und jetzt „Les Bleus“ 🟦 gegen die „Oranjes“ 🟧
 
 45  =  140 Jeanette+Urs
 
-46  =  130 Severin Stucky 🔌
+46  =  130 Severin Stucky 
 
 47  =  130 Katja+Tommy
 
-48  =  130 Margot+Leo Hensch ⛑️
+48  =  130 Margot+Leo Hensch 
 
 49  =  130 Eva-Maria Heitz
 
 50  =  130 Baggerstube
 
-51   =  120 Stephi+Cristiano 🧳
+51   =  120 Stephi+Cristiano 
 
 52  =  110 Janis
 
