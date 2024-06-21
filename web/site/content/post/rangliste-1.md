@@ -70,7 +70,7 @@ image: img/img_0539.jpeg
 
 32   =  170 Nico Colaci
 
-33   =  160 Renato Petrillo
+33   =  170 Renato Petrillo
 
 34  =   160 Claudia+Peppe Panucci
 
