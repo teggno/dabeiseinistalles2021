@@ -32,7 +32,7 @@ image: img/img_0539.jpeg
 
 13  =   190 Martha+Sergio Giménez  👍 🇪🇸 
 
-14  =   180 dä Chaschtä
+14  =   180 dä Chaschtä ⛱️
 
 15  =   180 Koni Hornstein 
 
@@ -58,21 +58,21 @@ image: img/img_0539.jpeg
 
 26  =   170 Nico Colaci
 
-27  =   170 Daniela+Davide Brocca
+27  =   170 Daniela+Davide Brocca 
 
 28  =   170 Claudia+Markus Singer
 
 29  =   170 Tina+Roland
 
-30  =   170 Bea Colaci 
+30  =   170 Bea Colaci  🏖️
 
 31   =   170 Lilly+Raffaele
 
-32   =  170 Nico Colaci
+32   =  170 Renato Petrillo
 
-33   =  170 Renato Petrillo
+33   =  170 
 
-34  =   160 Claudia+Peppe Panucci 🥲
+34  =   160 Claudia+Peppe Panucci 🏝️
 
 35  =   160 Kuno Schwarzer
 
