@@ -22,7 +22,7 @@ image: img/img_0539.jpeg
 
 08 = 200 dä Dog
 
-09  = 200 Kurt Meier
+09  = 200 Kurt Meier 🛫
 
 10  =  190 Renato Meier
 
