@@ -74,7 +74,7 @@ image: img/img_0539.jpeg
 
 34  =   160 Claudia+Peppe Panucci 🏝️
 
-35  =   160 Kuno Schwarzer
+35  =   160 Kuno Schwarzer ⛑️
 
 36  =   150;Leni+Luciano Schüepp
 
