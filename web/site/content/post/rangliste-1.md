@@ -42,9 +42,9 @@ Aufhellungen im Kanton Schaffhausen. Endlich ist Katy Näf aus dem Windschatten 
 
 18   =  180 Verena+Bruno Wacker
 
-19   =   180 Gianfranco Caporusso 
+19   =  180 Gianfranco Caporusso 
 
-20   =   180 Mobby
+20   =  180 Mobby
 
 21    =  180 Anton Teuffel
 
@@ -54,15 +54,15 @@ Aufhellungen im Kanton Schaffhausen. Endlich ist Katy Näf aus dem Windschatten 
 
 24   =  180 Dä Chaschtä
 
-25   =  170 Zeljko Berger
+25   =  180 Memduh Aktas
 
-26  =   170 Nico Colaci
+26  =   180 Salon Liotta
 
-27  =   170 Daniela+Davide Brocca 
+27  =   180 Simply the best
 
-28  =   170 Claudia+Markus Singer 💥
+28  =   180 Urs+Katy Näf
 
-29  =   170 
+29  =   170 Zeljko Berger
 
 30  =   170 Bea Colaci  🏖️
 
@@ -70,7 +70,7 @@ Aufhellungen im Kanton Schaffhausen. Endlich ist Katy Näf aus dem Windschatten 
 
 32   =  170 Renato Petrillo
 
-33   =  160 Inge+Gregor
+33   =  170 Nico Colaci
 
 34  =   160 Claudia+Peppe Panucci 🏝️
 
@@ -78,9 +78,9 @@ Aufhellungen im Kanton Schaffhausen. Endlich ist Katy Näf aus dem Windschatten 
 
 36  =   150;Leni+Luciano Schüepp
 
-37   =  150 Salon Liotta
+37   =  150 Inge+Gregor
 
-38  =   150 Simply the best
+38  =   150 
 
 39 =    150 Urs+Katy Näf ⛅️
 
