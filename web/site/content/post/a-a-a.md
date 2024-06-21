@@ -11,4 +11,4 @@ G﻿razie Raffaele, ich weiss es sehr zu schätzen ...
 
 
 
-Gerne geschehn! So stelle ich mir dich vor, wenn du dich voll gehen lässt. Zerzaustes Haar, halb unschuldig, halb frivol und mit diesem Lächeln im Gesicht, das an die „Lausbubenstreiche„ vergangener Tage erinnert…..
+Gern geschehn! So stelle ich mir dich vor, wenn du dich voll gehen lässt. Zerzaustes Haar, halb unschuldig, halb frivol und mit diesem Lächeln im Gesicht, das an die „Lausbubenstreiche„ vergangener Tage erinnert…..
