@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Mina   ▶️  Ancora Ancora Ancora
-  url: https://www.youtube.com/watch?v=ua9u_AoKxgo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
+  title: RAFFI‘S JUKEBOX 🎸 Joe Dassin  ▶️  et si tu n‘existe pas
+  url: https://www.youtube.com/watch?v=4kZ0EZg5JRU&pp=ygUiam9lIGRhc3NpbiBldCBzaSB0dSBuJ2V4aXN0YWlzIHBhcw%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
