@@ -1,7 +1,7 @@
 ---
 title: "RANGLISTE "
 draft: false
-date: 2024-06-20T21:29:16.380Z
+date: 2024-06-21T18:41:52.052Z
 image: img/img_0539.jpeg
 ---
 Freude pur nach dem Austria-Sieg! Katy Näf tritt endlich aus dem Windschatten ihres „Guru“ und verbucht mit IHREN Österreicheran wichtige Punkte. Auch im Hause Blatter knallen die Sektkorken, Roger wittert österreichische Morgenluft! Im Salon Liotta werden heute Abend dank Arnautovic Gratis-Frisuren auf den Kopf gezaubert und Tina hat zur hellen Freude ihres Roland zum ersten Mal ein Fussballspiel geschaut. Bei Carrieris brechen mittlerweile alle Dämme. Simply the best ist wieder da!
