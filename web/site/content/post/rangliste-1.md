@@ -70,13 +70,13 @@ image: img/img_0539.jpeg
 
 32   =  170 Renato Petrillo
 
-33   =  170 
+33   =  160 Inge+Gregor
 
 34  =   160 Claudia+Peppe Panucci 🏝️
 
 35  =   160 Kuno Schwarzer
 
-36  =   160 Inge+Gregor
+36  =   150;Leni+Luciano Schüepp
 
 37   =  150 Salon Liotta
 
@@ -84,7 +84,7 @@ image: img/img_0539.jpeg
 
 39 =    150 Urs+Katy Näf
 
-40 =    150 Leni+Luciano Schüepp
+40 =    140 Daniela+Paolo Padula 🫢 🌚
 
 41  =   140 Zac 🥊
 
