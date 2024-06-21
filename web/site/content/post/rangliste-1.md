@@ -70,13 +70,13 @@ image: img/img_0539.jpeg
 
 32   =  170 Nico Colaci
 
-33   =  160 Inge+Gregor 
+33   =  160 Renato Petrillo
 
 34  =   160 Claudia+Peppe Panucci
 
 35  =   160 Kuno Schwarzer
 
-36  =   160 Renato Petrillo
+36  =   160 Inge+Gregor
 
 37   =  150 Salon Liotta
 
