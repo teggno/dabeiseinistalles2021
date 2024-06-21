@@ -24,7 +24,7 @@ Aufhellungen im Kanton Schaffhausen. Endlich ist Katy Näf aus dem Windschatten 
 
 09  = 200 Kurt Meier 🛫
 
-10  =  190 Renato Meier
+10  =  200 Tina+Roland
 
 11  =   190 die Schwemers 🌈
 
@@ -32,7 +32,7 @@ Aufhellungen im Kanton Schaffhausen. Endlich ist Katy Näf aus dem Windschatten 
 
 13  =   190 Martha+Sergio Giménez  👍 🇪🇸 
 
-14  =   180 dä Chaschtä ⛱️
+14  =   190 Renato Meier
 
 15  =   180 Koni Hornstein 
 
@@ -52,7 +52,7 @@ Aufhellungen im Kanton Schaffhausen. Endlich ist Katy Näf aus dem Windschatten 
 
 23   =  180 Christian+Emma
 
-24   =  180 Memduh Aktas
+24   =  180 Dä Chaschtä
 
 25   =  170 Zeljko Berger
 
@@ -62,7 +62,7 @@ Aufhellungen im Kanton Schaffhausen. Endlich ist Katy Näf aus dem Windschatten 
 
 28  =   170 Claudia+Markus Singer 💥
 
-29  =   170 Tina+Roland
+29  =   170 
 
 30  =   170 Bea Colaci  🏖️
 
@@ -80,7 +80,7 @@ Aufhellungen im Kanton Schaffhausen. Endlich ist Katy Näf aus dem Windschatten 
 
 37   =  150 Salon Liotta
 
-38  =   150 Made+Donato Carrieri 🎡
+38  =   150 Simply the best
 
 39 =    150 Urs+Katy Näf ⛅️
 
