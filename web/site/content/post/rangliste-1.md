@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-20T21:29:16.380Z
 image: img/img_0539.jpeg
 ---
-Aufhellungen im Kanton Schaffhausen. Endlich ist Katy Näf aus dem Windschatten ihres „Guru“ getreten. Ihre Österreicher auf die sie unbedingt bestand, bringen den beiden wichtige Punkte ein. Ein paar Kilometer weiter knallen ebenfalls die Sektkorken. Roger wittert Morgenluft, nachdem er zum Stammgast im Tabellenkeller avanciert ist. Noch wilder geht’s in Kreuzlingen zu. Im Salon Liotta werden heute Abend dank Arnautovic Gratis-Frisuren auf den Kopf gezaubert.  Der Glücklichste von allen ist Roland Haselbach. Seine Tina hat zum ersten Mal ein Fussballspiel geschaut 😎
+Aufhellungen im Kanton Schaffhausen. Endlich ist Katy Näf aus dem Windschatten ihres „Guru“ getreten. Ihre Österreicher auf die sie unbedingt bestand, bringen den beiden wichtige Punkte ein. Ein paar Kilometer weiter knallen ebenfalls die Sektkorken. Roger wittert Morgenluft, nachdem er zum Stammgast im Tabellenkeller avanciert ist. Noch wilder geht’s in Kreuzlingen zu. Im Salon Liotta werden heute Abend dank Arnautovic Gratis-Frisuren auf den Kopf gezaubert. Der Glücklichste im Bunde ist Roland Haselbach. Seine Tina hat zum ersten Mal ein Fussballspiel geschaut hat.
 
 01  =230 Rosa+Marlen 🥇
 
