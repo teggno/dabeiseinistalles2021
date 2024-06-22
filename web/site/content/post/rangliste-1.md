@@ -55,7 +55,7 @@ Les Bleus 🟦 gegen die Oranjes 🟧 0:0 (no comment)
 
 23   =  190 Anton Teuffel
 
-24   =  190 de Sunneschi+de Chaschtä
+24   =  190 de Sunneschi+de Chaschtä ☀️
 
 25   =  190 Memduh Aktas
 
@@ -85,7 +85,7 @@ Les Bleus 🟦 gegen die Oranjes 🟧 0:0 (no comment)
 
 38  =   170  Claudia+Peppe Panucci
 
-39 =    170 Inge+Gregor
+39 =    170 Kuno Schwarzer
 
 40 =    160 Inge+Gregor
 
@@ -109,10 +109,10 @@ Les Bleus 🟦 gegen die Oranjes 🟧 0:0 (no comment)
 
 50  =  130 Margot+Leo Hensch
 
-51   =  120 Stephi+Cristiano 
+51   =  130 Stephi+Cristiano 
 
-52  =  110 Janis
+52  =  120 Janis
 
-53  =  110 Die Freigels🏮
+53  =  120 Die Freigels🏮
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
