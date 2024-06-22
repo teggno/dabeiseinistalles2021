@@ -27,7 +27,7 @@ Les Bleus 🟦 gegen die Oranjes 🟧 0:0 (no comment)
 
 09  = 200 Kurt Meier 
 
-10  =  200 Regula+Franco
+10  =  200 Regula+Franco Monferini
 
 11  =   200 die Schwemers 
 
