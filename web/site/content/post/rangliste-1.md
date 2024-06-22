@@ -49,7 +49,7 @@ Kommen heute Abend gewisse Girls oder auch Jungs unter enormen Druck (Jukebox) ð
 
 20   =  180 Mobby
 
-21    =  190 Salon Liotta ðŸ‡¦
+21    =  190 Salon Liotta 
 
 22   =  190 Koni Hornstein  
 
@@ -61,7 +61,7 @@ Kommen heute Abend gewisse Girls oder auch Jungs unter enormen Druck (Jukebox) ð
 
 26  =   190 dÃ¤ Vonki
 
-27  =   190 Simply the best  ðŸ‡¦
+27  =   190 Simply the best  
 
 28  =   190 Urs+Katy 
 
@@ -79,9 +79,9 @@ Kommen heute Abend gewisse Girls oder auch Jungs unter enormen Druck (Jukebox) ð
 
 35  =   180 Claudia+Markus Singer
 
-36  =   180 Daniela+Paolo Padula ðŸ‡¦
+36  =   180 Daniela+Paolo Padula 
 
-37   =  170 Roger Blatter ðŸ‡¦
+37   =  170 Roger Blatter 
 
 38  =   170  Claudia+Peppe Panucci
 
