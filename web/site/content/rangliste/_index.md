@@ -8,6 +8,6 @@ song:
   title: RAFFI‘S JUKEBOX 🎸 Rod Stewart+Amy Belle  ▶️  I don‘t want to talk about it
   url: https://www.youtube.com/watch?v=w46bWxS9IjY&pp=ygUWcm9kIHN0ZXdhcnQgYW15IGJlbGxlIA%3D%3D
   image: img/jukebox.jpg
-  description: Jungs 👨‍🦳 bitte volle Konzentration auf Rod
+  description: Jungs 👨‍🦳 bitte volle Konzentration auf Rod 😎
 type: rangliste
 ---
