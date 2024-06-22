@@ -99,15 +99,15 @@ Les Bleus 🟦 gegen die Oranjes 🟧 0:0 (no comment)
 
 45  =  150 Jeanette+Urs Affentranger 
 
-46  =  1Eva-Maria Heitz 
+46  =  150 Eva-Maria Heitz
 
-47  =  130 Katja+Tommy
+47  =  140 Katja+Tommy
 
-48  =  130 Margot+Leo Hensch 
+48  =  140 Severin Stucky
 
-49  =  130 Eva-Maria Heitz
+49  =  140 Baggerstube 
 
-50  =  130 Baggerstube
+50  =  130 Margot+Leo Hensch
 
 51   =  120 Stephi+Cristiano 
 
