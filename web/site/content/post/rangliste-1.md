@@ -23,7 +23,7 @@ Les Bleus 🟦 gegen die Oranjes 🟧 0:0 (no comment)
 
 07 = 210 dä Dog 
 
-08 = 210 Tina+Roland
+08 = 200 Tina+Roland 
 
 09  = 200 Kurt Meier 
 
