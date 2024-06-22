@@ -31,27 +31,27 @@ Kommen heute Abend gewisse Girls oder auch Jungs unter enormen Druck (Jukebox) �
 
 11  =   200 die Schwemers 
 
-12  =   200 Gülay Turcan 🎉
+12  =   200 Gülay Turcan 
 
 13  =   200 Martha+Sergio Giménez  
 
-14  =   200 Renato Meier 🛸
+14  =   200 Renato Meier 
 
 15  =   200 Miro Berger
 
 16  =   200 Christian+Emma
 
-17  =   190 Andi+Andy Hermann 🛫
+17  =   190 Andi+Andy Hermann 
 
-18   =  190 Verena+Bruno Wacker 🧨
+18   =  190 Verena+Bruno Wacker 
 
-19   =  190 Gianfranco Caporusso 🎈
+19   =  190 Gianfranco Caporusso 
 
 20   =  180 Mobby
 
 21    =  190 Salon Liotta 🇦
 
-22   =  190 Koni Hornstein  🚀
+22   =  190 Koni Hornstein  
 
 23   =  190 Anton Teuffel
 
