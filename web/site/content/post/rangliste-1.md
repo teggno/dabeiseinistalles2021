@@ -77,29 +77,29 @@ Les Bleus 🟦 gegen die Oranjes 🟧 0:0 (no comment)
 
 34  =   180 Daniela+Davide Brocca
 
-35  =   170 Claudia+Markus Singer
+35  =   180 Claudia+Markus Singer
 
-36  =   170 Roger Blatter 🇦🇹 👍
+36  =   180 Daniela+Paolo Padula 🇦🇹 👍
 
-37   =  170 Daniela+Paolo Padula
+37   =  170 Roger Blatter 🇦🇹👍
 
-38  =   160 Claudia+Peppe Panucci
+38  =   170  Claudia+Peppe Panucci
 
-39 =    160 Inge+Gregor
+39 =    170 Inge+Gregor
 
-40 =    160 Kuno Schwarzer
+40 =    160 Inge+Gregor
 
-41  =   150 Leni+Luciano Schüepp
+41  =   160 Leni +Luciano Schüepp
 
-42  =  140 Gina+Bruno Meier
+42  =  150 Gina+Bruno Meier
 
-43  =  140 Zac
+43  =  150 dä Coc
 
-44  =  140 Coc
+44 =   150 Zac
 
-45  =  140 Jeanette+Urs
+45  =  150 Jeanette+Urs Affentranger 
 
-46  =  130 Severin Stucky 
+46  =  1Eva-Maria Heitz 
 
 47  =  130 Katja+Tommy
 
