@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Joe Dassin  ▶️  et si tu n‘existe pas
-  url: https://www.youtube.com/watch?v=4kZ0EZg5JRU&pp=ygUiam9lIGRhc3NpbiBldCBzaSB0dSBuJ2V4aXN0YWlzIHBhcw%3D%3D
+  title: RAFFI‘S JUKEBOX 🎸 CCR  ▶️  Have you ever seen the rain
+  url: https://www.youtube.com/watch?v=qmYi5FlRIr0&pp=ygUfY2NyIGhhdmUgeW91IGV2ZXIgc2VlbiB0aGUgcmFpbg%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
