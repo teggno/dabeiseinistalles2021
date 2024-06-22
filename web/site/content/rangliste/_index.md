@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
   title: RAFFI‘S JUKEBOX 🎸 Queen -Bowie  ▶️  Under Pressure
-  url: https://www.youtube.com/watch?v=HglA72ogPCE&pp=ygUgdW5kZXIgcHJlc3N1cmUgcXVlZW4gZGF2aWQgYm93aWU%3D
+  url: https://www.youtube.com/watch?v=w46bWxS9IjY&pp=ygUWcm9kIHN0ZXdhcnQgYW15IGJlbGxlIA%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
