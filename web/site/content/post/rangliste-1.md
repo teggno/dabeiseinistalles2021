@@ -17,7 +17,7 @@ Les Bleus 🟦 gegen die Oranjes 🟧 0:0 (no comment)
 
 04 = 220  Cosimo Cataldo 
 
-05 = 220. Barbara+Urs Schläpfer 
+05 = 220  Barbara+Urs Schläpfer 
 
 06 = 210 Nunzio Padula 
 
