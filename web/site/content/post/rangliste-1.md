@@ -31,39 +31,39 @@ Kommen heute Abend gewisse Girls oder auch Jungs unter enormen Druck (Jukebox) �
 
 11  =   200 die Schwemers 
 
-12  =   200 Gülay Turcan 
+12  =   200 Gülay Turcan 🛸
 
 13  =   200 Martha+Sergio Giménez  
 
-14  =   200  Renato Meier
+14  =   200 Renato Meier
 
 15  =   200 Miro Berger
 
 16  =   200 Christian+Emma
 
-17  =   190 Andi+Andy Hermann
+17  =   190 Andi+Andy Hermann 🛫
 
-18   =  190 Verena+Bruno Wacker
+18   =  190 Verena+Bruno Wacker 🧨
 
 19   =  190 Gianfranco Caporusso 
 
 20   =  180 Mobby
 
-21    =  190 Salon Liotta 🇦🇹👍
+21    =  190 Salon Liotta 🇦
 
 22   =  190 Koni Hornstein 
 
 23   =  190 Anton Teuffel
 
-24   =  190 de Sunneschi+de Chaschtä ☀️
+24   =  190 de Sunneschi+de Chaschtä 
 
 25   =  190 Memduh Aktas
 
 26  =   190 dä Vonki
 
-27  =   190 Simply the best  🇦🇹 👍
+27  =   190 Simply the best  🇦
 
-28  =   190 Urs+Katy 👍 🇦🇹 
+28  =   190 Urs+Katy 
 
 29  =   190 Zeljko Berger
 
@@ -79,9 +79,9 @@ Kommen heute Abend gewisse Girls oder auch Jungs unter enormen Druck (Jukebox) �
 
 35  =   180 Claudia+Markus Singer
 
-36  =   180 Daniela+Paolo Padula 🇦🇹 👍
+36  =   180 Daniela+Paolo Padula 🇦
 
-37   =  170 Roger Blatter 🇦🇹👍
+37   =  170 Roger Blatter 🇦
 
 38  =   170  Claudia+Peppe Panucci
 
