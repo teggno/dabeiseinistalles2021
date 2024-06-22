@@ -23,11 +23,11 @@ Les Bleus 🟦 gegen die Oranjes 🟧 0:0 (no comment)
 
 07 = 210 dä Dog 
 
-08 = 200 Regula+Franco Monferini 
+08 = 210 Tina+Roland
 
 09  = 200 Kurt Meier 
 
-10  =  200 Tina+Roland  🇦🇹 👍
+10  =  200 Regula+Franco
 
 11  =   200 die Schwemers 
 
