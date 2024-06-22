@@ -13,69 +13,69 @@ Les Bleus 🟦 gegen die Oranjes 🟧 0:0 (no comment)
 
 02 = 230 René Benz🥈      
 
-03 = 210 Pina+Michele La Macchia 🥉
+03 = 220 Pina+Michele La Macchia 🥉
 
-04 = 210 Cosimo Cataldo 
+04 = 220  Cosimo Cataldo 
 
-05 = 210 Barbara+Urs Schläpfer 
+05 = 220. Barbara+Urs Schläpfer 
 
-06 = 200 Nunzio Padula 
+06 = 210 Nunzio Padula 
 
-07 = 200 Regula+Franco Monferini 
+07 = 210 dä Dog 
 
-08 = 200 dä Dog 
+08 = 200 Regula+Franco Monferini 
 
 09  = 200 Kurt Meier 
 
 10  =  200 Tina+Roland  🇦🇹 👍
 
-11  =   190 die Schwemers 
+11  =   200 die Schwemers 
 
-12  =   190 Gülay Turcan 
+12  =   200 Gülay Turcan 
 
-13  =   190 Martha+Sergio Giménez  👍 🇪🇸
+13  =   200 Martha+Sergio Giménez  
 
-14  =   190 Renato Meier
+14  =   200  Renato Meier
 
-15  =   180 Koni Hornstein 
+15  =   200 Miro Berger
 
-16  =   180 dä Vonki 
+16  =   200 Christian+Emma
 
-17  =   180 Andi+Andy Hermann
+17  =   190 Andi+Andy Hermann
 
-18   =  180 Verena+Bruno Wacker
+18   =  190 Verena+Bruno Wacker
 
-19   =  180 Gianfranco Caporusso 
+19   =  190 Gianfranco Caporusso 
 
 20   =  180 Mobby
 
-21    =  180 Anton Teuffel
+21    =  190 Salon Liotta
 
-22   =  180 Miro Berger
+22   =  190 Koni Hornstein 
 
-23   =  180 Christian+Emma
+23   =  190 Anton Teuffel
 
-24   =  180 Dä Chaschtä
+24   =  190 de Sunneschi+de Chaschtä
 
-25   =  180 Memduh Aktas
+25   =  190 Memduh Aktas
 
-26  =   180 Salon Liotta 🇦🇹👍
+26  =   190 dä Vonki
 
-27  =   180 Simply the best  🇦🇹 👍
+27  =   190 Simply the best  🇦🇹 👍
 
-28  =   180 Urs+Katy 👍 🇦🇹 
+28  =   190 Urs+Katy 👍 🇦🇹 
 
-29  =   170 Zeljko Berger
+29  =   190 Zeljko Berger
 
-30  =   170 Bea Colaci  
+30  =   190 Nico Colaci
 
-31   =   170 Lilly+Raffaele
+31   =   180 Lilly+Raffaele
 
-32   =  170 Renato Petrillo
+32   =  180  Renato Petrillo
 
-33   =  170 Nico Colaci
+33   =  180 Bea Colaci
 
-34  =   170 Daniela+Davide Brocca
+34  =   180 Daniela+Davide Brocca
 
 35  =   170 Claudia+Markus Singer
 
