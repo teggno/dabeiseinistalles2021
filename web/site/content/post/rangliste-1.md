@@ -49,7 +49,7 @@ Les Bleus 🟦 gegen die Oranjes 🟧 0:0 (no comment)
 
 20   =  180 Mobby
 
-21    =  190 Salon Liotta
+21    =  190 Salon Liotta 🇦🇹👍
 
 22   =  190 Koni Hornstein 
 
