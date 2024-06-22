@@ -9,9 +9,9 @@ Fussball ist zwar das halbe Leben, aber was wäre die Welt ohne „amore“! Ich
 Wechsel an der Spitze! Nach tagelanger Dominanz sind die Girls an der Spitze eingeholt worden. Neu hat sich das  spanische Überraschungsduo Martha+Sergio Giménez dazugesellt. Somit ist Durchgang 2 beendet. Ein souveränes Portugal wird von schlecht eingestellten Türken reichlich beschenkt. Ein besonderer Dank geht an Trainer Montella, der in alte italienische Untugenden verfiel und aus lauter Angst die Youngsters Guler und Yldiz draussen liess. Ronaldo trifft zum Leidwesen vieler das Tor nicht mehr. Die Roten Teufel melden sich zurück und retten einigen hier den Samstagabend. „Dä Luuukakuuu isch ä Tiär 🦧…….“
 
 \
-01  = 240 Rosa+Marlen 🥇
+01  = 240 Martha+Sergio Giménez🥇
 
-02 = 230 René Benz🥈      
+02 =  240 Rosa+MarlenRené Benz🥈      
 
 03 = 220 Pina+Michele La Macchia 🥉
 
