@@ -8,7 +8,7 @@ Fussball ist zwar das halbe Leben, aber was wäre die Welt ohne „amore“! Ich
 
 Wechsel an der Tabellenspitze! Nach tagelanger Dominanz sind die beiden Mädchen 👯‍♀️ auf dem obersten Podest abgelöst worden. Neu hat sich das  spanische Überraschungsduo Martha+Sergio Giménez dazugesellt. Durchgang 2 ist beendet. Die Rangliste nimmt langsam Formen an. Nach einer einstweiligen Verfügung der Nummern 48-53, wurde es mir strikte untersagt, über die unzumutbaren Verhältnisse im Untertagebau zu berichten. 
 
-Ein souveränes Portugal wird von schlecht eingestellten Türken reichlich beschenkt. Ein besonderer Dank geht an Trainer Montella, der in alte italienische Untugenden verfiel und aus lauter Angst die Youngsters Yldiz und Guler draussen liess. Ronaldo trifft zum Leidwesen vieler von uns das Tor nicht mehr. Die Roten Teufel melden sich zurück und retten einigen hier den Samstagabend. „Dä Luuukakuuu isch ändgültig värsüüüücht“. Darüber müssen wir unbedingt reden (Jukebox)
+Ein souveränes Portugal wird von schlecht eingestellten Türken mit dem Eigentor des Turniers beschenkt. Ein besonderer Dank geht dabei an Trainer Vincenzo Montella, der in alte italienische Untugenden zurück verfiel und aus taktischen Gründen die unberechenbaren Youngsters Yldiz und Guler draussen liess. Ronaldo trifft zum Leidwesen vieler von uns das Tor nicht mehr. Die Roten Teufel melden sich zurück und retten einigen hier den Samstagabend. „Dä Luuukakuuu isch ändgültig värsüüüücht“. Darüber müssen wir unbedingt reden (Jukebox)
 
 ![](img/img_0551.jpeg)
 
