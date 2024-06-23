@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-21T18:41:52.052Z
 image: img/img_0539.jpeg
 ---
-Zurrst mal herzliche Gratulation Eva-Maria zu deinem Geburtstag 🎂! Einen besseren Tag hättest du dir nicht aussuchen können. Ich weiss, dass du dir dieses Datum schon vor Monaten mit rotem Stift im Kalender angekreuzt hast. Dass du getürmt bist, ins hinterste Eck des Emmentals um den bösen Blicken der Schweizer Community zu entfliehen zeigt dein besonderes Einfühlungsvermögen für heikle Situationen. 
+Zurrst mal herzliche Gratulation Eva-Maria zu deinem Geburtstag 🎂! Einen besseren Tag hättest du dir nicht aussuchen können. Ich weiss, dass du dir dieses Datum schon vor Monaten mit rotem Stift im Kalender angekreuzt hast. Dass du getürmt bist, ins hinterste Eck des Emmentals um den bösen Blicken der Schweizer Community zu entfliehen zeigt dein besonderes Einfühlungsvermögen für heikle Situationen. Sollten deine “Lieblinge“ 🇩🇪 im dümmsten Moment versagen, hast du ja  im Notfall das Ersatztenue 🇨🇭dabei. Was gibt’s Schöneres als „Figgi und Mühli“ 🤫
 
 \
 01  = 240 Rosa+Marlen 🥇
