@@ -1,6 +1,6 @@
 ---
 title: "Zukunftspläne "
-draft: true
+draft: false
 date: 2024-06-23T15:51:37.749Z
 image: img/img_0552.jpeg
 ---
