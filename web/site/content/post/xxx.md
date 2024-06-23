@@ -8,7 +8,7 @@ Zuerst mal herzliche Gratulation zu deinem runden Geburtstag, Eva-Maria 🎂! Ei
 
 Ein wenig Kribbeln, mehr nicht! Das Spiel ist an und für sich bedeutungslos! Deutschland ist weiter und die Schweiz zu 99,9%! Klar wäre es schön den viermaligen Weltmeister zu schlagen. Aber ist es auch sinnvoll? Um diese Frage endgültig zu beantworten, müsste man jene Fähigkeiten besitzen, die man vor vielen hundert Jahren Nostradamus attestiert hat. Auf Gruppensieg oder Platz 2 zu spielen ist etwas für Spekulanten. Als unabhängiger Berater 🥸 von Yakin und Contini muss ich mir die Frage stellen, wie ich die unmittelbare Zukunft der Schweiz gestalten will. Versuche ich über Kroatien (Italien) weiter nach England zu gelangen oder über Dänemark (Serbien) nach Spanien? In Anbetracht der aktuellen Formstände würde ich Variante 1 klar bevorzugen. Das hiesse, dass ich heute Abend nicht auf Sieg spiele und den Nachbarn den Vortritt lasse. „Säg ämol Raffi, bisch du nümä ganz bachä“ 🫡
 
-![](img/img_0551.jpeg)
+![]()
 
 ![]()
 
