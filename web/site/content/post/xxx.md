@@ -1,7 +1,7 @@
 ---
-title: Rangliste
+title: "Zukunftspläne "
 draft: true
-date: 2024-06-23T15:33:46.504Z
+date: 2024-06-23T15:51:37.749Z
 image: img/img_0552.jpeg
 ---
 Zuerst mal herzliche Gratulation zu deinem runden Geburtstag, Eva-Maria 🎂! Einen besseren Tag hättest du dir nicht aussuchen können. Er wird so oder so in die  Geschichte eingehen. Dass du getürmt bist, „in die hinterste Ecke des Emmentals“, um den bösen Blicken unserer Schweizer Community zu entfliehen, zeigt dein besonderes Gespür für heikle Situationen. Sollten deine “Lieblinge“ 🇩🇪 heute Abend im dümmsten Moment versagen, hast du im Notfall das Ersatztricot 🇨🇭dabei. Was gibt’s Schöneres als „Figgi und Müli“ 😊
