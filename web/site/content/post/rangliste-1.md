@@ -4,9 +4,9 @@ draft: true
 date: 2024-06-21T18:41:52.052Z
 image: img/img_0552.jpeg
 ---
-Zuerst mal herzliche Gratulation zu deinem Geburtstag, Eva-Maria 🎂! Einen besseren Tag hättest du dir nicht aussuchen können. Er wird vielleicht in die Geschichte eingehen. Ich weiss, dass du dir als eingefleischter Fan des runden Leders dieses Datum schon vor Monaten mit rotem Stift  🖍️ im Kalender angekreuzt hast. Dass du getürmt bist, ins hinterste Eck des Emmentals, um den bösen Blicken der Schweizer Community zu entfliehen, zeigt dein besonderes Gespür für heikle Situationen. Sollten deine “Lieblinge“ 🇩🇪 heute Abend im dümmsten Moment versagen, hast du ja im Notfall das Ersatztenue 🇨🇭dabei. Was gibt’s Schöneres als „Figgi und Müli“ 😊
+Zuerst mal herzliche Gratulation zu deinem runden Geburtstag, Eva-Maria 🎂! Einen besseren Tag hättest du dir nicht aussuchen können. Er wird vielleicht in die Geschichte eingehen. Ich weiss, dass du dir als eingefleischter Fan des runden Leders dieses Datum schon vor Monaten im Kalender rot 🖍️notiert hast. Dass du getürmt bist, ins hinterste Eck des Emmentals, um den bösen Blicken der Schweizer Community zu entfliehen, zeigt dein besonderes Gespür für heikle Situationen. Sollten deine “Lieblinge“ 🇩🇪 heute Abend im dümmsten Moment versagen, hast du im Notfall das Ersatztenue 🇨🇭dabei. Was gibt’s Schöneres als „Figgi und Müli“ 😊
 
-Man spürt wie sie förmlich steigt! Wenn alles normal läuft, wird die Schweiz Gruppenzweiter.Noch wenige Stunden und dann könnte diese EM auf den Kopf gestellt werden. Es ist ja nicht so, d
+Soll man über Kroatien nach England oder über Dänemark nach Spanien? Diese Frage werfen nur Spekulanten auf. Alle andern üben sich in Geduld und harren der Dinge die da kommen. In Anbetracht der aktuellen Stärkeverhältnisse und Formstände würde ich als unabhängiger Dritter, der nach dem Italien-Aus um die nähere Zukunft  der Eidgenossen
 
 \
 01  = 240 Rosa+Marlen 🥇
