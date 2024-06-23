@@ -4,9 +4,7 @@ draft: true
 date: 2024-06-21T18:41:52.052Z
 image: img/img_0539.jpeg
 ---
-Freude pur nach dem Austria-Sieg! Katy Näf tritt endlich aus dem Windschatten ihres „Guru“ und verbucht mit IHREN Österreichern wichtige Punkte auf dem Weg zur Spitze. Auch im Hause Blatter knallen die Sektkorken🍾 Roger wittert  nach vielen Ausflügen in den ungemütlichen Tabellenkeller endlich Morgenluft! Im Salon Liotta werden heute Abend dank Arnautovic Gratis-Frisuren auf den Kopf gezaubert und Tina hat zur hellen Freude ihres Roland zum ersten Mal ein Fussballspiel geschaut 😎 Bei Carrieris brechen mittlerweile alle Dämme. „Simply the best“ ist wieder da! Nicht zum Feiern zu Mute ist den arg verschnupften Padulas, die trotz aller Liebe zu Austria, mit ganz anderen Problemen zu kämpfen haben.
-
-Kommen heute Abend gewisse Girls oder auch Jungs unter enormen Druck (Jukebox) 🤷‍♂️
+Zurrst mal herzliche Gratulation Eva-Maria zu deinem Geburtstag 🎂! Einen besseren Tag hättest du dir nicht aussuchen können. Ich weiss, dass du dir dieses Datum schon vor Monaten mit rotem Stift im Kalender angekreuzt hast. Dass du getürmt bist, ins hinterste Eck des Emmentals um den bösen Blicken der Schweizer Community zu entfliehen zeigt dein besonderes Einfühlungsvermögen für heikle Situationen. 
 
 \
 01  = 240 Rosa+Marlen 🥇
