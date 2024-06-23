@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-21T18:41:52.052Z
 image: img/img_0539.jpeg
 ---
-Zuerst mal herzliche Gratulation zu deinem Geburtstag, Eva-Maria🎂! Einen besseren Tag hättest du dir nicht aussuchen können. Er wird wenn möglich in die Geschichte eingehen. Ich weiss, dass du dir dieses Datum schon vor Monaten mit Rotstift 🖍️ im Kalender angekreuzt hast. Dass du getürmt bist, ins hinterste Eck des Emmentals um den bösen Blicken der Schweizer Community zu entfliehen zeigt dein besonderes Einfühlungsvermögen für heikle Situationen. Sollten deine “Lieblinge“ 🇩🇪 heut Abend im dümmsten Moment versagen, hast du ja  im Notfall das Ersatztenue 🇨🇭dabei. Was gibt’s Schöneres als „Figgi und Müli“ 😊
+Zuerst mal herzliche Gratulation zu deinem Geburtstag, Eva-Maria 🎂! Einen besseren Tag hättest du dir nicht aussuchen können. Er wird wenn möglich in die Geschichte eingehen. Ich weiss, dass du dir dieses Datum schon vor Monaten mit dem Rotstift 🖍️ im Kalender angekreuzt hast. Dass du getürmt bist, ins hinterste Eck des Emmentals um den bösen Blicken der Schweizer Community zu entfliehen, zeigt dein besonderes Gespür für heikle Situationen. Sollten deine “Lieblinge“ 🇩🇪 heut Abend im dümmsten Moment versagen, hast du ja  im Notfall das Ersatztenue 🇨🇭dabei. Was gibt’s Schöneres als „Figgi und Müli“ 😊
 
 \
 01  = 240 Rosa+Marlen 🥇
