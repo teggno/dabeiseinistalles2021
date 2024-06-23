@@ -5,9 +5,10 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Rod Stewart+Amy Belle  ▶️  I don‘t want to talk about it
-  url: https://www.youtube.com/watch?v=w46bWxS9IjY&pp=ygUWcm9kIHN0ZXdhcnQgYW15IGJlbGxlIA%3D%3D
+  title: "RAFFI‘S JUKEBOX 🎸 The Rolling Stones   ▶️ You can‘t always get what you
+    want "
+  url: https://www.youtube.com/watch?v=Ef9QnZVpVd8&pp=ygUieW91IGNhbid0IGFsd2F5cyBnZXQgd2hhdCB5b3Ugd2FudA%3D%3D
   image: img/jukebox.jpg
-  description: Jungs 👨‍🦳 bitte volle Konzentration auf den Herrn im gelben Jackett 😎
+  description: ""
 type: rangliste
 ---
