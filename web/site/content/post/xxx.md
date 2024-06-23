@@ -1,14 +1,14 @@
 ---
 title: Rangliste
-draft: false
-date: 2024-06-22T20:56:37.201Z
-image: img/img_0549.jpeg
+draft: true
+date: 2024-06-23T15:33:46.504Z
+image: img/img_0552.jpeg
 ---
-Fussball ist zwar das halbe Leben, aber was wäre die Welt ohne „amore“! Ich meine jetzt nicht „l’amour fou“ sondern die einzige die wirklich zählt 🥰 Spielereien rund um das Leder sind ja das eine, wenn es jedoch um echte Gefühle geht, verstehe ich keinen Spass. Da schrieb mir doch der Herzensbrecher von Rang 31 kurz vor Sonnenaufgang 🌄  du „Bobetto“ ich hab ein grösseres Problem. Bedauerlicherweise habe ich beim Ausfüllen des Stimmzettels meine Herz ♥️ Dame vergessen. Die vielen Turteltäubchen hier stolzieren jeden Abend Hand in Hand über den roten Teppich und wir haben jedesmal das Nachsehen. Natürlich habe ich mir gleich Sorgen gemacht! Bei den Scheidungsraten heutzutage weiss man ja nie. Als er mir gleich noch den passenden Text zur Wiedergutmachung lieferte, war ich gerührt! „Schrib doch vo jetz a nümä nur dä chaschtä, tuä doch au no min sunneschi ☀️ däzuä“.
+Zuerst mal herzliche Gratulation zu deinem runden Geburtstag, Eva-Maria 🎂! Einen besseren Tag hättest du dir nicht aussuchen können. Er wird so oder so in die  Geschichte eingehen. Dass du getürmt bist, in die hinterste Ecke des Emmentals, um den bösen Blicken unserer Schweizer Community zu entfliehen, zeigt dein besonderes Gespür für heikle Situationen. Sollten deine “Lieblinge“ 🇩🇪 heute Abend im dümmsten Moment versagen, hast du im Notfall das Ersatztricot 🇨🇭dabei. Was gibt’s Schöneres als „Figgi und Müli“ 😊
 
-Wechsel an der Tabellenspitze! Nach tagelanger Dominanz sind die beiden Mädchen 👯‍♀️ auf dem obersten Podest abgelöst worden. Neu hat sich das  spanische Überraschungsduo Martha+Sergio Giménez dazugesellt. Durchgang 2 ist beendet. Die Rangliste nimmt langsam Formen an. Nach einer einstweiligen Verfügung der Nummern 48-53, wurde es mir strikte untersagt, über die unzumutbaren Verhältnisse im Untertagebau zu berichten. 
+Ein wenig Kribbeln, mehr nicht! Das Spiel ist an und für sich bedeutungslos! Deutschland ist weiter und die Schweiz zu 99,9%! Klar wäre es schön den viermaligen Weltmeister zu schlagen. Aber ist es auch sinnvoll? Um diese Frage endgültig zu beantworten, müsste man jene Fähigkeiten besitzen, die man vor vielen hundert Jahren Nostradamus attestiert hat. Auf Gruppensieg oder Platz 2 zu spielen ist etwas für Spekulanten. Als unabhängiger Berater 🥸 von Yakin und Contini muss ich mir die Frage stellen, wie ich die unmittelbare Zukunft der Schweiz gestalten will. Versuche ich über Kroatien (Italien) weiter nach England zu gelangen oder über Dänemark (Serbien) nach Spanien? In Anbetracht der aktuellen Formstände würde ich Variante 1 klar bevorzugen. Würde bedeuten, dass ich heute Abend nicht auf Sieg spiele und den Nachbarn den Vortritt lasse. „Säg ämol, bisch du nümä ganz bachä“ 🫡
 
-Ein souveränes Portugal wird von schlecht eingestellten Türken mit dem Eigentor des Turniers beschenkt. Ein besonderer Dank geht dabei an Trainer Vincenzo Montella, der in alte italienische Untugenden zurückverfiel und aus taktischen Gründen die unberechenbaren Youngsters Yldiz und Guler draussen liess. Ronaldo trifft zum Leidwesen vieler von uns das Tor nicht mehr. Die Roten Teufel melden sich zurück und retten einigen hier den Samstagabend. „Dä Luuukakuuu isch ändgültig värsüüüücht“. 
+
 
 ![](img/img_0551.jpeg)
 
