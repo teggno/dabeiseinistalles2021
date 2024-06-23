@@ -6,7 +6,7 @@ image: img/img_0539.jpeg
 ---
 Zuerst mal herzliche Gratulation zu deinem Geburtstag, Eva-Maria 🎂! Einen besseren Tag hättest du dir nicht aussuchen können. Er wird wenn möglich in die Geschichte eingehen. Ich weiss, dass du dir dieses Datum schon vor Monaten mit rotem Stift  🖍️ im Kalender angekreuzt hast. Dass du getürmt bist, ins hinterste Eck des Emmentals, um den bösen Blicken der Schweizer Community zu entfliehen, zeigt dein besonderes Gespür für heikle Situationen. Sollten deine “Lieblinge“ 🇩🇪 heute Abend im dümmsten Moment versagen, hast du ja  im Notfall das Ersatztenue 🇨🇭dabei. Was gibt’s Schöneres als „Figgi und Müli“ 😊
 
-Man spürt wie sie förmlich steigt! Noch wenige Stunden und dann könnte diese EM auf den Kopf gestellt werden. Es ist ja nicht so, dass Glück im Fussball keine Rolle spielt. Meistens fängt das ja schon beim Auslosen an! Ob ich jetzt gegen den Sieger von Gruppe 3 oder jenen von Gruppe 5 spielen muss
+Man spürt wie sie förmlich steigt! Noch wenige Stunden und dann könnte diese EM auf den Kopf gestellt werden. Es ist ja nicht so, dass Glück im Fussball keine Rolle spielt. Meistens fängt die Fortune beim Auslosen schon  an! Ob ich jetzt gegen den Sieger von Gruppe 3 oder jenen von Gruppe 5 spielen muss ist ein Ding von grosser Tragweite. Ähnlich wie bei der die VAR! 
 
 \
 01  = 240 Rosa+Marlen 🥇
