@@ -1,6 +1,6 @@
 ---
 title: "Rangliste "
-draft: true
+draft: false
 date: 2024-06-23T15:27:08.840Z
 image: img/img_0552.jpeg
 ---
