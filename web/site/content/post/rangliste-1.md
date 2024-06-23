@@ -1,5 +1,5 @@
 ---
-title: "Zukunftspläne "
+title: "Rangliste "
 draft: true
 date: 2024-06-23T15:27:08.840Z
 image: img/img_0552.jpeg
