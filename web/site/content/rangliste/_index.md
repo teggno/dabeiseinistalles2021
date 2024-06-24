@@ -5,9 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX 🎸 The Rolling Stones   ▶️ You can‘t always get what you
-    want "
-  url: https://www.youtube.com/watch?v=Ef9QnZVpVd8&pp=ygUieW91IGNhbid0IGFsd2F5cyBnZXQgd2hhdCB5b3Ugd2FudA%3D%3D
+  title: "RAFFI‘S JUKEBOX 🎸 Biagio Antonacci   ▶️ Pazzo di Lei "
+  url: https://www.youtube.com/watch?v=xa1OiQV6Qes&pp=ygUdcGF6em8gZGkgbGVpIGJpYWdpbyBhbnRvbmFjY2k%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
