@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-24T04:26:36.682Z
 image: img/img_0555.jpeg
 ---
-Dieser Irgendjemand muss gespürt haben in welchem Riesendilemma ich stecke und er schickte mir heute Nacht nach Stunden der Insonnia diesen (Alb)Traum von „Zac“, ein alter Weggefährte von mir , mit dem ich mindestens 2 Jahre nicht mehr geredet habe, weil wir, was die „Alte Dame“ betrifft, nicht mehr auf derselben Wellenlänge waren.
+Dieser Irgendjemand muss gespürt haben in welchem Riesendilemma ich stecke und so schickte er mir heute Nacht nach Stunden der Insonnia,  diesen (Alb)Traum von „Zac“, ein alter Weggefährte von mir , mit dem ich mindestens 2 Jahre nicht mehr geredet habe, weil wir, was die „Alte Dame“ betrifft, nicht immer auf derselben Wellenlänge waren.
 
 Auf alle Fälle weckt mich dieser Halbverrückte und lässt mir eine Botschaft zukommen, die ihn dermassen viel Überwindung gekostet haben muss, dass er heute früh vor lauter Scham nicht bei der Arbeit erschienen ist: „Du, Bobetto, miär mönd hüt obig gegä Kroate verlürä“, damit wir nicht schon im Achtelfinale auf einen der heissesten Anwärter auf den Titel treffen. Zuerst habe ich ihn total entgeistert angeschaut und  wollte schon die 144 wählen, ehe mir klar wurde, der Typ hat Recht, das ist die ultimative Lösung!Ja liebe connazionali, so weit sind wir schon gekommen, dass wir vor einem ehemaligen „Entwicklungsland“ 🫢 i d‘Hosä machäd.
 
