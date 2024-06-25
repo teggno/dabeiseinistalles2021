@@ -9,4 +9,4 @@ was erlauben strunz? Trappatoni du alter Knabe ich versuche dich mehr schlecht a
 
 ich hab euch gepusht ich hab mich „verkauft“ aber den Rest müsst ihr schon selber machen. Hat am Ende dä Urs doch Recht wenn er sagt. Zum Schluss lassen meine Landsmänner die Flügel hängen. So ein „sackschwaches“ Italien läuft euch nie mehr über den Weg. Nicht wiederzuerkennen die Xhakas und Freuler…..und wo bleiben „Sommer“. Trap hatte es mit strunz, ich muss mir euren Keeper vornehmen. Erste Anzeichen „gebrechlicher“ Natur waren schon gegen Deutschland aufgetaucht. Dort rettete ihn noch der VAR.
 
-die Strafe folgt auf dem Fuss! Das hat mir meine Mutter schon beigebracht, als ich in Nachbars Garten allerlei Früchte stibitzen ging. Warum soll es den Spaniolitos anders ergehen? Da haben sie den Lauf des Lebens und was fällt ihnen ein? Ruhetag für das obere Kader!
+die Strafe folgt auf dem Fuss! Das hat mir meine Mutter schon beigebracht, als ich in Nachbars Garten allerlei Früchte stibitzen ging. Warum soll es den Spaniolitos anders ergehen? Da haben sie den Lauf des Lebens und was fällt ihnen ein? Ruhetag für das obere Kader! Das eröffnet ganz neue Perspektiven
