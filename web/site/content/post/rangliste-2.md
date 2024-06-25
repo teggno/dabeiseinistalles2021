@@ -8,9 +8,7 @@ Niederlassungsbewilligung um 5 Tage verlängert. Dieses Italien hat gegen die Sc
 
 Modric weint! Ich verstehe ihn! Ein Wechselbad der Gefühle dieser Art habe ich selten gesehen. Vom „Versager“ bis zum Retter der Nation  brauchte es ganze 30 Sekunden. Am Ende blieb ihm nur die tragische Figur. Kroatien wird für längere Zeit im Mittelmass verschwinden. Die goldene Generation ist alt geworden. Frisches Blut ist keines da! 
 
-Das Schlusswort gehört den Spaniern. Hätte Italien in so einer Lage 10 Neue gebracht, wäre die Mafia und ihre Machenschaften zitiert worden. Wenn es die Spanier tun ist alles normal. Ich zücke die gelbe Karte für  unsportliches Verhalten. Was wäre passiert wenn Albanien gewonnen hätte. In Ungarn und nicht nur da wären sie zurecht auf die Barrikaden. Auf meiner Beliebtheitsskala sind sie ein Stück nach unten gerutscht. Es gab schon Mannschaften, die haben nach so einem „Bschiss“ den Rhythmus verloren und rutschten in der Tabelle von ganz oben nach ganz unten….
-
-Autsch 😎 wa isch dänn do passiert 🙈
+Das Schlusswort gehört den Spaniern. Hätte Italien in so einer Lage 10 Neue gebracht, wäre die Mafia und ihre Machenschaften zitiert worden. Wenn es die Spanier tun, ist alles clever und normal. Ich zücke die gelbe Karte für  unsportliches Verhalten. Was wäre passiert wenn Albanien gewonnen hätte. In Ungarn und nicht nur da, wären sie zurecht auf die Barrikaden. Auf meiner Beliebtheitsskala sind sie ein Stück nach unten gerutscht. Es gab schon Mannschaften, die haben nach so einem „Bschiss“ den Rhythmus verloren und rutschten in der Tabelle von ganz oben nach ganz unten….Isch da öppä au do passiert 🙈
 
 ![](img/img_0559.jpeg)
 
