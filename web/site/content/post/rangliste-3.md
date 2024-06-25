@@ -4,8 +4,6 @@ draft: true
 date: 2024-06-25T21:02:25.622Z
 image: img/img_0539.jpeg
 ---
-2 Schlaftabletten (Frankreich+England) vermiesen uns den Abend. So macht Fussball keinen Spass. Wenigstens hält uns das Aufputschmittel Österreich einigermassen bei Laune. Das dürfte unseren neuen Leadern Tina+Roland egal sein, sie übernehmen erstmals die Tabellenführung. Ein wenig feiern wollen wir doch noch mit einem alten Klassiker, der uns an längst vergangene Zeiten erinnert. (Jukebox) Viel Spass e Buonanotte 
-
-
+2 Schlaftabletten (Frankreich+England) vermiesen uns den Abend. So macht Fussball keinen Spass. Wenigstens hält uns das Aufputschmittel Österreich einigermassen bei Laune. Das dürfte unseren neuen Leadern Tina+Roland egal sein, sie übernehmen erstmals die Tabellenführung. Ein wenig feiern wollen wir doch noch mit einem alten Klassiker, der uns an längst vergangene Zeiten erinnert. Sommer 1970 Jugendhuus Krüzlingä und die Mähnen fliegen nur so herum (Jukebox) Viel Spass e Buonanotte 
 
 ![](img/img_0561.jpeg)
