@@ -9,15 +9,15 @@ Zuers mal herzliche Gratulation zu deinem runden Geburtstag, Eva-Maria 🎂! Ein
 Ein wenig Kribbeln, mehr nicht! Das Spiel ist an und für sich bedeutungslos! Deutschland ist weiter und die Schweiz zu 99,9%! Klar wäre es schön den viermaligen Weltmeister zu schlagen. Aber ist es auch sinnvoll? Um diese Frage endgültig zu beantworten, müsste man jene Fähigkeiten besitzen, die man vor vielen hundert Jahren Nostradamus attestiert hat. Auf Gruppensieg oder Platz 2 zu spielen ist etwas für Spekulanten. Als unabhängiger Berater 🥸 von Yakin und Contini muss ich mir die Frage stellen, wie ich die unmittelbare Zukunft der Schweiz gestalten will. Versuche ich über Kroatien (Italien) weiter nach England zu gelangen oder über Dänemark (Serbien) nach Spanien? In Anbetracht der aktuellen Formstände würde ich Variante 1 klar bevorzugen. Das hiesse, 
 
 \
-01  = 240 Rosa+Marlen 🥇
+01  = 310 Tina+Roland 🥇
 
-02 = 230 René Benz🥈      
+02 =  310 René Benz🥈      
 
-03 = 220 Pina+Michele La Macchia 🥉
+03 =  310 Rosa+Marlen🥉
 
-04 = 220  Cosimo Cataldo 
+04 =  300 Pina+Michele La Macchia
 
-05 = 220  Barbara+Urs Schläpfer 
+05 =  300 Barbara+Urs Schläpfer 
 
 06 = 210 Nunzio Padula 
 
