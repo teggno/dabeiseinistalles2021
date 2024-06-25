@@ -1,7 +1,7 @@
 ---
 title: "Rangliste "
 draft: false
-date: 2024-06-24T21:45:46.654Z
+date: 2024-06-25T05:32:54.860Z
 image: img/img_0560.jpeg
 ---
 Niederlassungsbewilligung um 5 Tage verlängert. Dieses Italien hat gegen die Schweiz keine Chance. Es ist mir auch egal, denn dieses Team samt Trainer weckt keine Emotionen. Alles wirkt so bodenständig, Phantasie findet man nirgends. Spalletti schleicht die Linie auf und ab wie ein geprügelter Hund. Unter dem Vesuv war das anders. Da brodelte es in ihm. Einzelkrititk zu üben macht keinen Sinn. Alle bis auf den Torwart und Glücksfrosch Zaccagni bekommen im Zwischenzeugnis höchstens eine 4.
