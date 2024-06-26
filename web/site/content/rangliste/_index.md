@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
   title: RAFFI‘S JUKEBOX 🎸 Kaoma   ▶️  Lambada
-  url: https://www.youtube.com/watch?v=4wAPTsjhrjM&pp=ygUcZGVlcCBwdXJwbGUgY2jEsWxkIMSxbiB0xLFtZQ%3D%3D
+  url: https://www.youtube.com/watch?v=iyLdoQGBchQ&pp=ygUHbGFtYmFkYQ%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
