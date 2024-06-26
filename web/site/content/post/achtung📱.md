@@ -1,5 +1,5 @@
 ---
-title: Walk in the Park
+title: A Walk in the Park
 draft: true
 date: 2024-06-26T11:53:05.043Z
 image: img/img_0566.jpeg
