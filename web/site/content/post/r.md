@@ -1,5 +1,5 @@
 ---
-title: R
+title: Rangliste
 draft: true
 date: 2024-06-26T21:00:49.210Z
 image: img/img_0539.jpeg
