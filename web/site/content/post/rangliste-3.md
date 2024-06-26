@@ -4,7 +4,10 @@ draft: false
 date: 2024-06-25T21:02:25.622Z
 image: img/ea2d5874-8dde-44bd-8b39-bbc786bd99fb.jpeg
 ---
-2 Schlaftabletten (Frankreich+England) vermiesen uns den Abend. So macht Fussball keinen Spass. Wenigstens hält uns das Aufputschmittel Österreich einigermassen bei Laune. Das dürfte unseren neuen Leadern Tina+Roland egal sein, sie übernehmen erstmals die Tabellenführung. Ein wenig feiern wollen wir doch noch mit einem alten Klassiker, der uns an längst vergangene Zeiten erinnert. Sommer 1972, Jugendhuus Krüzlingä und wir schwenkten unsere Mähnen auf der Tanzfläche… (Jukebox) Viel Spass e Buonanotte
+2 Schlaftabletten (Frankreich+England) vermiesen uns den Abend. So macht Fussball keinen Spass. Wenigstens hält uns das Aufputschmittel Österreich einigermassen bei Laune. Haben wir uns von grossen Namen zu sehr verleiten lassen? Ich mag sie gar nicht aufzählen, so sehr stehen sie neben den Schuhen. Beim einen ist es die Maske, beim andern sind es die Stollen. beim dritten die Frisur! Eines haben sie alle gemeinsam. Sie sind müde und ausgelaugt. Premier League, Champions League und all die „Pokälchen“ die ausgespielt werden müssen, damit noch mehr Kohle in die Kassen kommt, zehren an der Substanz. Die UEFA schert sich einen Dreck darum und erfindet ständig neue Wettbewerbe. Die Spieler lassen es über sich ergehen. Schliesslich reicht ihr „Flüssiges“ erst für die nächsten drei Leben.
+
+Das dürfte unseren neuen Leadern Tina+Roland egal sein, sie übernehmen erstmals die Tabellenführung. Wenn Belgien, die Türkei und Portugal weiterkommen, beklagen wir nach der Vorrunde nur einen Totalschaden. Es gibt Leute hier, die machen gerne dort Urlaub. Das war auch der Grund für ihr Harekiri. \
+Wer dem ständigen Regen entfliehen möchte, geht auf meine Jukebox. Dort gibt’s einen Klassiker aus den frühen Siebziger, der putscht euch bestimmt wieder auf.  Sommer 1972, Jugendhuus Krüzlingä und wir schwenkten unsere Mähnen auf dem Parkett 
 
 ![](img/img_0564.jpeg)
 
