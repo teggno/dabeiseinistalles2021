@@ -1,7 +1,7 @@
 ---
 title: "Geldsorgen "
 draft: false
-date: 2024-06-25T21:02:25.622Z
+date: 2024-06-26T06:49:06.368Z
 image: img/img_0565.jpeg
 ---
 2 Schlaftabletten (Frankreich+England) vermiesen uns den Abend. So macht Fussball keinen Spass. Wenigstens hält uns das Aufputschmittel Österreich einigermassen bei Laune. Haben wir uns von grossen Namen zu sehr verleiten lassen? Ich mag sie gar nicht aufzählen, so sehr stehen sie neben den Schuhen. Beim einen ist es die Maske, beim andern sind es die Stollen. beim dritten die Frisur! Eines haben sie alle gemeinsam. Sie sind müde und ausgelaugt. Premier League, Champions League und all die „Pokälchen“ die ausgespielt werden müssen, damit noch mehr Kohle 💰 in die Kassen kommt, zehren an der Substanz. Die UEFA schert sich einen Dreck darum und erfindet ständig neue Wettbewerbe. Die Spieler lassen es über sich ergehen. Schliesslich reicht ihr „Flüssiges“ erst für die nächsten drei Leben.
