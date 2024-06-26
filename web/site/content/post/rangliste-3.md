@@ -8,7 +8,7 @@ image: img/img_0565.jpeg
 
 Das dürfte unseren neuen Leadern Tina+Roland egal sein, sie übernehmen erstmals die Tabellenführung. Wenn Belgien und die Türkei heute weiterkommen, beklagen wir nach der Vorrunde nur einen Totalschaden. Es gibt Leute hier, die machen gerne dort Urlaub. Laut gesicherten Quellen, der Hauptgrund für ihr Auswahlverfahren 😀 
 
-Wer dem ständigen Regen entfliehen möchte, hat die Möglichkeit auf meine Jukebox zu gehen und sich einen der grossen „Klassiker“ aus den frühen Siebziger reinzuziehen. Ähnlich wie Österreich, kann er Wunder bewirken. Sommer 1972, Jugendhuus Krüzlingä und wir schwenkten unsere Mähnen auf dem Parkett ….
+Wer dem ständigen Regen entfliehen möchte, hat die Möglichkeit auf meine Jukebox zu gehen und sich einen der grossen „Klassiker“ aus den frühen Siebziger reinzuziehen. Ähnlich wie Österreich, kann er Wunder bewirken. Sommer 1972, Jugendhuus Krüzlingä… und wir schwenkten unsere Mähnen auf dem Parkett ….
 
 ![](img/img_0564.jpeg)
 
