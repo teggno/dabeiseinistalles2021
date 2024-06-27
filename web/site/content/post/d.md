@@ -2,6 +2,7 @@
 title: A walk in the park
 draft: true
 date: 2024-06-27T03:46:01.739Z
+image: img/img_0566.jpeg
 ---
 
 
