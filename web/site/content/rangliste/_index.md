@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Kaoma   ▶️  Lambada
-  url: https://www.youtube.com/watch?v=iyLdoQGBchQ&pp=ygUHbGFtYmFkYQ%3D%3D
+  title: RAFFI‘S JUKEBOX 🎸 Zucchero&Miles Davies   ▶️  Dune Mosse
+  url: https://www.youtube.com/watch?v=A60xWr-nqv0&pp=ygUTenVjY2hlcm8gZHVuZSBtb3NzZQ%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
