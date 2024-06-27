@@ -1,7 +1,7 @@
 ---
 title: EU-Austritt?
 draft: false
-date: 2024-06-27T06:47:55.570Z
+date: 2024-06-27T06:54:14.228Z
 image: img/img_0571.jpeg
 ---
 Herzliche Gratulation an Georgien. Doch bei aller Euphorie für den „Underdog“ gilt es festzuhalten, dass dieses „Spiel unter Freunden“ „än Risächrampf“ war. Im Gegensatz zum Fall Spanien, wo alles nochmals gutging, ist in diesem Fall die ganze EM durcheinander gewirbelt worden.
