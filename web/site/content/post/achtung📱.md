@@ -4,6 +4,16 @@ draft: true
 date: 2024-06-26T11:53:05.043Z
 image: img/img_0566.jpeg
 ---
+Herzliche Gratulation an Georgien. Doch bei aller Euphorie für den „ Underdog“ halten wir fest, dass nicht alles mit „rechten Mitteln“ zuging! Nach dem Fall Spanien, notieren wir Schmierenkomödie Teil 2! “Spielertrainer“  Ronaldo und sein „Assistent MartinesHampelmann Martínez schicken Portugals B-Team aufs Feld und ebnen den Georgiern den Weg ins Achtelfinale. Ronaldo spielt natürlich von Anfang an und unterstreicht seine (Vor)Machtstellung im Team. Gonçalo Ramos und Diogo Jota (Liverpool und PSG) haben das Nachsehen. Fragen wir mal die Leidtragenden Ungarn was sie dazu meinen. Trainer Rossi überlässt Ungarns Präsident Orban das Wort, der Portugals Diplomaten ins Parlament zitiert. Es sind die üblichen Spielchen, die mit Fairness nichts mehr zu tun haben. Ab morgen ist alles vergessen. The show must go on! Die Gelackmeierten Ungarn fahren heim! Georgien darf sich freuen und hat sich als Gastgeschenk für seine lusitanischen Stammesbrüder einen feurigen Lambada gewünscht (Jukebox) Der restliche Kommentar folgt morgen. Buonanotte
+
+
+
+
+
+
+
+
+
 Damen mit Handys am Steuer, was für ein Ungeheuer 👹 Wer jetzt denkt, dass es sich um eine Lady im Cockpit eines SUV handelte, der irrt gewaltig. Es war ein Buggy, ein sogenannter Kinderwagen, der mich heute Morgen auf dem Gehsteig über den Haufen fuhr. Das arme Kind ist schier herausgefallen und mein Schienbein ist ramponiert. Von polizeilichen Protokollen habe ich abgesehen. Der Dame war es übrigens sehr unangenehm, dass ich ihren Dates im Wege gestanden bin. Es war übrigens nicht die „Erste“, die mir mit solchen Sch….-Gewohnheiten begegnet ist.
 
 Aussagekräftiger war die Tabelle noch nie. Die Vorrunde ist passé und von den 13 Auserwählten sind noch 12 im Rennen. Chapeau 🎩 Von Dubrovnik und seinen Sehenswürdigkeiten war schon einmal die Rede, diese Besichtigung fällt leider aus! Spanien, Österreich, Portugal und die Schweiz haben mich am meisten überzeugt. Von England, Frankreich, Italien Serbien und seinem kleinen Nachbarn bin ich total enttäuscht. Nobodys wie Slowenien, Georgien und Rumänien waren besser als ihr Ruf. „Müllern“, in Anlehnung an den unvergesslichen Gerd, fällt vielen noch schwerer als erwartet. Kane, Mbappé und wie sie alle heissen, haben das Zielwasser zuhause vergessen. Lukaku ist von dubiosen Scharlatanen umzingelt. Das Gesamt-Niveau ist beachtlich und wird ziemlich sicher noch besser. S‘käffälä ☕️ isch verbi, jetz wömmär schono chli meh gseh 👙.
