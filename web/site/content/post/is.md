@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-27T08:52:03.031Z
 image: img/img_0573.jpeg
 ---
-Sie mussten mich rausprügeln Ich wollte gar nicht mehr weg. Es war ein Frauen 🙈 Kloster! Die fussballverrückte Nonne, die mich zum Ausgang begleitete, übrigens eine Doppelbürgerin, schrie mir hinterher: „Hopp Schwiiiz“!
+Sie mussten mich rausprügeln Ich wollte gar nicht mehr weg. Es war ein Frauen 🙈 Kloster! Die fussballverrückte Nonne, die mich zum Ausgang begleitete, übrigens eine „Secondo“, schrie mir hinterher: „Hopp Schwiiiz“!
 
 Fast 69 Jahre sind ins Land gezogen, ohne dass ich je im Traum daran gedacht hätte, in diesem Duell der Gegensätze, für das ehemalige „Entwicklungsland“ 😁 Partei zu ergreifen. Heute ist es (fast) soweit! 49:51 schlägt mein Herz 💔 Auf die sich anbahnende Niederlage bin ich längst schon vorbereitet. Spalletti hätte mich fast eines Besseren belehrt, doch auch er kann aus einem unbeholfenen Gianluca Scamacca keinen Bomber à la Riva zaubern. Yakin hingegen ist im Besitze des Rohdiamanten Ndoye, der wie sein krummbeiniger Vorfahre Garrincha selbst die Slalomstangen schwindlig spielt. Der Junge hat viel Potential und wenn er auch noch wie gegen Deutschland trifft, steigt sein Marktwert ins Unermessliche. Akanji braucht nicht weiter vorgestellt zu werden. Nur soviel, warum laut ZDF-Experte Kramer, Calafiori und nicht der bestens ausgebildete Schweizer in die „Best of“ gehört, ist mir schleierhaft.
 
