@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-27T06:54:14.228Z
 image: img/img_0571.jpeg
 ---
-Herzliche Gratulation an Georgien. Doch bei aller Euphorie für den „Underdog“ gilt es festzuhalten, dass dieses „Spiel unter Freunden“ „än Risächrampf“ war. Im Gegensatz zum Fall Spanien, wo alles nochmals gutging, ist in diesem Fall die ganze EM durcheinander gewirbelt worden.
+Herzliche Gratulation an Georgien. Doch bei aller Sympathie für den „Underdog“ gilt es festzuhalten, dass dieses „Spiel unter Freunden“ „än Risächrampf“ war. Im Gegensatz zum Fall Spanien, wo alles nochmals gutging, ist in diesem Fall die ganze EM durcheinander gewirbelt worden.
 
 „Spielertrainer“ Ronaldo und sein „Assistent“ Martínez schicken am Abend Portugals B-Elf aufs Feld und ebnen den Georgiern den Weg ins Achtelfinale. Die Primadonna spielt natürlich von Anfang an und unterstreicht seine (Vor)Machtstellung im Team. Gonçalo Ramos und Diogo Jota (PSG und Liverpool) haben das Nachsehen. Fragen wir mal die leidtragenden Magyaren was sie dazu meinen. Trainer Rossi überlässt Ungarns Präsident Orban das Wort, der Portugals Diplomaten ins Parlament zitiert und ganz nebenbei einen Austritt aus der EU erwägt. 
 
