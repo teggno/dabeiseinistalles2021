@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
   title: "RAFFI‘S JUKEBOX 🎸  Cheat Codes  ▶️  Let’s talk about football 🏈 baby "
-  url: https://www.youtube.com/watch?v=A60xWr-nqv0&pp=ygUTenVjY2hlcm8gZHVuZSBtb3NzZQ%3D%3D
+  url: ""
   image: img/jukebox.jpg
   description: ""
 type: rangliste
