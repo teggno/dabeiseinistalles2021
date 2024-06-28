@@ -1,10 +1,10 @@
 ---
-title: "Verbrüderung "
+title: "Neuordnung "
 draft: true
 date: 2024-06-27T08:52:03.031Z
 image: img/img_0573.jpeg
 ---
-Sie mussten mich rausprügeln! Ich wollte gar nicht mehr weg. Es war ein Frauen 🙈 Kloster! Die fussballverrückte Nonne, die mich zum Ausgang begleitete, übrigens eine „Secondo“, schrie mir voller Inbrunst: „Hopp Schwiiiz“ hinterher!
+Sie mussten mich rausprügeln! Ich wollte gar nicht mehr weg. Es war ein Frauen 🙈 Kloster! Die fussballverrückte Nonne, die mich zum Ausgang begleitete, übrigens eine „Secondo“, schrie mir mit voller Inbrunst: „Hopp Schwiiiz“ hinterher!
 
 Was habe ich nicht alles getan um dieses Aufeinandertreffen platzen zu lassen. Im Halbfinale hätte ich ja blind unterschrieben, aber jetzt wo die Party so richtig in die Gänge  kommt 😢 und wir „pian piano“ gelernt haben, aufeinander einzugehen. Fast 69 Jahre sind ins Land gezogen, ohne dass ich je im Traum daran gedacht hätte, in diesem Duell der Gegensätze, für das ehemalige „Entwicklungsland“ 😁 Partei zu ergreifen. Heute ist es (fast) soweit! 49:51 geschah noch nie!
 
