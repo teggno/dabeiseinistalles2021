@@ -31,13 +31,13 @@ image: ""
 
 13  =   280 Renato Meier
 
-14  =   200 Renato Meier 
+14  =   270 Gülay Turcan
 
-15  =   200 Miro Berger
+15  =   270 Gianfranco Caporusso
 
-16  =   200 Christian+Emma
+16  =   270 die Singers
 
-17  =   190 Andi+Andy Hermann 
+17  =   270
 
 18   =  190 Verena+Bruno Wacker 
 
