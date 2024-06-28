@@ -83,7 +83,7 @@ image: ""
 
 39 =    240 Peter von Känel
 
-40 =    2 Inge+Gregor
+40 =    240 Inge+Gregor
 
 41  =    240 Eva-Maria
 
@@ -95,7 +95,7 @@ image: ""
 
 45  =   230 Kuno Schwarzer
 
-46  =   220  Bea Colaci
+46  =   230  Bea Colaci
 
 47  =   220  Katja+Tommy
 
@@ -103,7 +103,7 @@ image: ""
 
 49  =   220 Baggerstube 
 
-50  =  130 Margot+Leo Hensch
+50  =   220 Janis Hermann
 
 51   =  200 Die Freigels
 
