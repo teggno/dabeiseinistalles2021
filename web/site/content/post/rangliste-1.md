@@ -53,11 +53,11 @@ image: ""
 
 24   =  260 Katy+Urs Näf
 
-25   =  190 Memduh Aktas
+25   =  260 Liddy+Thomas Schwemer
 
-26  =   190 dä Vonki
+26  =   260 Daniela+Paolo Padula
 
-27  =   190 Simply the best  
+27  =   250 
 
 28  =   190 Urs+Katy 
 
