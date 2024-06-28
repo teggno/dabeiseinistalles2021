@@ -87,25 +87,25 @@ image: ""
 
 41  =    240 Eva-Maria
 
-42  =  150 Gina+Bruno Meier
+42  =   240 Zeljko Berger
 
-43  =  150 dä Coc
+43  =   240 Renato Petrillo
 
-44 =   150 Zac
+44 =    240 dä Sunneschi ☀️ dä Chaschtä
 
-45  =  
+45  =   230 Kuno Schwarzer
 
-46  =  150 Eva-Maria Heitz
+46  =   220  Bea Colaci
 
-47  =  140 Katja+Tommy
+47  =   220  Katja+Tommy
 
-48  =  140 Severin Stucky
+48  =   220 Severin Stucky
 
-49  =  140 Baggerstube 
+49  =   220 Baggerstube 
 
 50  =  130 Margot+Leo Hensch
 
-51   =  130 Stephi+Cristiano 
+51   =  200 Die Freigels
 
 52  =  190 Stephi+Cristiano Pedron
 
