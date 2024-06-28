@@ -57,9 +57,9 @@ image: ""
 
 26  =   260 Daniela+Paolo Padula
 
-27  =   250 
+27  =   250 dä Coc
 
-28  =   190 Urs+Katy 
+28  =   250 Severin Stucky
 
 29  =   190 Zeljko Berger
 
