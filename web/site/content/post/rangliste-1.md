@@ -77,13 +77,13 @@ image: ""
 
 36  =   250 Daniela+Davide Brocca
 
-37   =  240
+37   =  240 Gina+Bruno
 
-38  =   170  Claudia+Peppe Panucci
+38  =   240 Claudia+Peppe Panucci
 
-39 =    170 Kuno Schwarzer
+39 =    240 Kuno Schwarzer
 
-40 =    160 Inge+Gregor
+40 =    240 Inge+Gregor
 
 41  =   160 Leni +Luciano Schüepp
 
