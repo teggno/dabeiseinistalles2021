@@ -49,9 +49,9 @@ image: ""
 
 22   =  260 Koni Hornstein  
 
-23   =  190 Anton Teuffel
+23   =  260 Anton Teuffel
 
-24   =  190 de Sunneschi+de Chaschtä ☀️
+24   =  260 Katy+Urs Näf
 
 25   =  190 Memduh Aktas
 
