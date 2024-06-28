@@ -15,13 +15,13 @@ image: ""
 
 05 =  300 Martha+Sergio Giménez
 
-06 = 210 Nunzio Padula 
+06 =  290 Kurt Meier
 
-07 = 210 dä Dog 
+07 =   290 dä Dog 
 
-08 = 210 Tina+Roland 
+08 =   290 Cosimo Cataldo
 
-09  = 200 Kurt Meier 
+09  =  290 Barbara+Urs Schläpfer
 
 10  =  200 Regula+Franco Monferini
 
