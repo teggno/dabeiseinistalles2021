@@ -5,7 +5,7 @@ date: 2024-06-23T15:27:08.840Z
 image: ""
 ---
 \
-E-Mails von überall! Glückwünsche die mich überhaupt nicht betreffen. Hat die Schweiz gewonnen oder ich? Es war nur eine Vermutung, die ich in den letzten Wochen hier geäussert habe. Dass sie sich bewahrheitet hat, ist das Resultat langwieriger Recherchen. Dem Nachfahren von Stauffacher, der mir von der Rütliwiese postete, Herr Boccia endlich einer der in die Fusstapfen von Kachelmann tritt. Hä…ich bin doch Fussball-Prophet 🔮 Als die Schweiz nicht reüssierte hab ich schon schwarz gesehen. ABBA‘s „The winner takes it all“ ist dich wie gemacht dafür (Jukebox)
+E-Mails von überall! Glückwünsche die mich überhaupt nicht betreffen. Hat die Schweiz gewonnen oder ich? Es war nur eine Vermutung, die ich in den letzten Wochen hier geäussert habe. Dass sie sich bewahrheitet hat, ist das Resultat langwieriger Recherchen. Dem Nachfahren von Stauffacher, der mir von der Rütliwiese postete, Herr Boccia endlich einer der in die Fusstapfen von Kachelmann tritt, möchte ich entgegnen: Wie bitte, ich bin doch Fussball-Prophet 🔮 Als die Schweiz nicht reüssierte hab ich schon schwarz gesehen. ABBA‘s „The winner takes it all“ ist dich wie gemacht dafür (Jukebox)
 
 
 
