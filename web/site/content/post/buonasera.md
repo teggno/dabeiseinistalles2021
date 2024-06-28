@@ -1,5 +1,5 @@
 ---
-title: Buonasera 🎉
+title: Buonasera 🎉... Buonasera
 draft: true
 date: 2024-06-28T13:50:20.954Z
 ---
@@ -14,3 +14,15 @@ PS: Ruf doch mal an, ich bin bis Dienstag solo.
 Un abbraccio
 
 Raffaele
+
+C﻿iao Raffaele
+
+N﻿ein ich habe bei meinen Aufzählungen nichts vergessen, das dich interessieren könnte, ausser ein paar schönen Begegnungen mit Menschen, die auch so unterwegs sind. Tut mir leid, dass ich den Kinderwagen Text gelesen habe, aber ich weiss manchmal nicht, ob es für mich geschrieben ist oder ein Entwurf ist. Dann mach in Zukunft drei .... , dann weiss ich, dass es für mich bestimmt ist und so lese ich alles andere erst wenn es öffentlich ist. 
+
+J﻿a ich muss schmunzeln bei deinen Zeilen und wir sind und bleiben Freunde, aus meiner Sicht sehr gerne und wenn es für dich auch stimmt, dann umso schöner. Sonst hättest du es ja nicht geschrieben. Dass du am Anschlag bist tut mir leid, aber was auch immer das heisst, vielleicht erklärst du es mir ausführlicher wenn du magst. Deine Süchte gehören irgendwie zu dir schon das ganze Leben, aber haben wir das nicht alle irgendwie? 
+
+D﻿en anderen Text mit dem Feuerlöscher habe ich auch gelesen und da muss ich auch schmunzeln ... ich spüre darin auch Vertrauen, sonst würdest du nicht so schreiben. Wenn ich Gelegenheit habe rufe ich dich an.
+
+H﻿offentlich gewinnt die Schweiz, und dann wird ABBA gespielt und das nehme ich ganz persönlich. Ich danke dir von ganzem Herzen und weiss es sehr zu schätzen. 
+
+U﻿n abbraccio
