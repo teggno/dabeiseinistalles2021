@@ -99,7 +99,7 @@ image: ""
 
 47  =   220  Katja+Tommy
 
-48  =   220 Severin Stucky
+48  =   220 Zac
 
 49  =   220 Baggerstube 
 
