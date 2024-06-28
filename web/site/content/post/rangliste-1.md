@@ -23,9 +23,9 @@ image: ""
 
 09  =  290 Barbara+Urs Schläpfer
 
-10  =  200 Regula+Franco Monferini
+10  =  280 Roger Blatter
 
-11  =   200 die Schwemers 
+11  =   280 Nunzio Padula
 
 12  =   200 Gülay Turcan 
 
