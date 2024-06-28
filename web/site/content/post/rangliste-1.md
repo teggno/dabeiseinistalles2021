@@ -81,11 +81,11 @@ image: ""
 
 38  =   240 Claudia+Peppe Panucci
 
-39 =    240 Kuno Schwarzer
+39 =    240 Peter von Känel
 
 40 =    240 Inge+Gregor
 
-41  =   160 Leni +Luciano Schüepp
+41  =    240 Eva-Maria
 
 42  =  150 Gina+Bruno Meier
 
@@ -93,7 +93,7 @@ image: ""
 
 44 =   150 Zac
 
-45  =  150 Jeanette+Urs Affentranger 
+45  =  
 
 46  =  150 Eva-Maria Heitz
 
@@ -107,8 +107,8 @@ image: ""
 
 51   =  130 Stephi+Cristiano 
 
-52  =  120 Janis
+52  =  190 Stephi+Cristiano Pedron
 
-53  =  120 Die Freigels🏮
+53  =  190 Margot+Lei Hensch 🏮
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
