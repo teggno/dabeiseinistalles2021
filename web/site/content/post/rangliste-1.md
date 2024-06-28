@@ -61,17 +61,17 @@ image: ""
 
 28  =   250 Severin Stucky
 
-29  =   190 Zeljko Berger
+29  =   250 Salon Liotta
 
-30  =   190 Nico Colaci
+30  =   250 Memduh Aktas
 
-31   =   180 Lilly+Raffaele
+31   =   250  Lilly+Raffaele
 
-32   =  180  Renato Petrillo
+32   =  250 Leni+Luciano Schüepp
 
-33   =  180 Bea Colaci
+33   =  250 Christian Bär
 
-34  =   180 Daniela+Davide Brocca
+34  =   250 Jeanette+Urs Affentranger 
 
 35  =   180 Claudia+Markus Singer
 
