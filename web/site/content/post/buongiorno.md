@@ -23,7 +23,7 @@ Sollte die Schweiz morgen gewinnen könnte man es ja mit „the winner(in) takes
 
 Fast hätte ich den falschen Knopf erwischt und alles veröffentlicht 🙈….Stell dir vor wieviele Klicks es gegeben hätte 😎 
 
-PS: Verwende doch irgendwann nochmal einen deiner Wunder-Sätze wie….prendimi da dietro….du musst ja nicht mich damit gemeint haben…du kannst mich übrigens mal anrufen wenn du willst. Bin bis Dienstag solo….
+PS: Verwende doch irgendwann nochmal einen deiner Lieblings Bonmots, wie….prendimi da dietro….du musst ja nicht mich damit gemeint haben…du kannst mich übrigens mal anrufen wenn du willst. Bin bis Dienstag solo….
 
 Un abbraccio
 
