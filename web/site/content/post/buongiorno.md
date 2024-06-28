@@ -16,5 +16,3 @@ S﻿chaust du eigentlich jedes Spiel?
 I﻿ch wünsche dir einen wunderschönen sonnigen Ruhetag bis es morgen wieder los geht. 
 
 C﻿arissimmi saluti
-
-B﻿uongiorno Raffaele
