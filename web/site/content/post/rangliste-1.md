@@ -73,9 +73,9 @@ image: ""
 
 34  =   250 Jeanette+Urs Affentranger 
 
-35  =   180 Claudia+Markus Singer
+35  =   250 Nico Colaci
 
-36  =   180 Daniela+Paolo Padula 
+36  =   180
 
 37   =  170 Roger Blatter 
 
