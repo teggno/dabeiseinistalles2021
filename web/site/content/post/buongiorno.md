@@ -21,7 +21,9 @@ che sorpresa…..ich habe dich schon vermisst! Schade, dass du im Hintergrund au
 
 Sollte die Schweiz morgen gewinnen könnte man es ja mit „the winner(in) takes it all versuchen“. Ich stelle mir dich dann im kleinen Schwarzen und nichts darunter vor. Es war einfach zu geil mit dir um es auszublenden….
 
-Fast hätte ich den falschen Knopf erwischt und alles veröffentlicht 🙈….Stell dir vor wieviele Klicks es gegeben hätte 😎
+Fast hätte ich den falschen Knopf erwischt und alles veröffentlicht 🙈….Stell dir vor wieviele Klicks es gegeben hätte 😎 
+
+PS: Verwende doch irgendwann nochmal einen deiner wunderschönen Sätze wie….prendimi da dietro….du musst ja nicht mich damit meinen
 
 Un abbraccio
 
