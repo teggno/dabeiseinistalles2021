@@ -27,9 +27,9 @@ image: ""
 
 11  =   280 Nunzio Padula
 
-12  =   200 Gülay Turcan 
+12  =   280 Mobby
 
-13  =   200 Martha+Sergio Giménez  
+13  =   280 Renato Meier
 
 14  =   200 Renato Meier 
 
