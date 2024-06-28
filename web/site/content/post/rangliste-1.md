@@ -83,7 +83,7 @@ image: ""
 
 39 =    240 Peter von Känel
 
-40 =    240 Inge+Gregor
+40 =    2 Inge+Gregor
 
 41  =    240 Eva-Maria
 
