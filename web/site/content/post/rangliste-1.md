@@ -75,9 +75,9 @@ image: ""
 
 35  =   250 Nico Colaci
 
-36  =   250
+36  =   250 Daniela+Davide Brocca
 
-37   =  170 Roger Blatter 
+37   =  240
 
 38  =   170  Claudia+Peppe Panucci
 
