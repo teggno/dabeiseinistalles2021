@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-28T04:44:47.153Z
 image: img/img_0574.jpeg
 ---
-A dem Wuchänänd isch immär s‘Krüzlingär gsi! Das letzte in der Saison ging stets Anfang Juli über die Bühne; s‘Münschtärlinger! Angefangen hatte es mit äm Emmishofer am ersten Wochenende im Juni, dann gings uf Tägerwilä, das Beste weit und breit und vor äm Krüzlingär war noch das vu dä Italica. Einen Monat lang nur tschuttä. Das waren kleine Weltmeisterschaften. Wieviele Vaterunser haben wir jeweils am Samstagmorgen früh gebetet, dass äs jo nöd chunnt go rägnä ☔️ Sonst wurden die Turniere im Penaltyschiessen entschiedenÁ
+A dem Wuchänänd isch immär s‘Krüzlingär gsi! Das letzte in der Saison ging stets Anfang Juli über die Bühne; s‘Münschtärlinger! Angefangen hatte es mit äm Emmishofer am ersten Wochenende im Juni, dann gings uf Tägerwilä, das Beste weit und breit und vor äm Krüzlingär war noch das vu dä Italica. Einen Monat lang nur tschuttä. Das waren kleine Weltmeisterschaften. Wieviele Vaterunser haben wir jeweils am Samstagmorgen früh gebetet, dass äs jo nöd chunnt go rägnä ☔️ 
 
 Es gab die Boom-Jahre wo am Tägerwilär über 200 Mannschaften  teilnahmen. Der Sieger der Kategorie Nichtfussballer durfte nach London. Das waren die goldenen Zeiten und wenn s‘Schätzli oder s’ Müsli oder wie auch immer am Spielfeldrand stand, war man der glücklichste Mensch auf Erden.
 
