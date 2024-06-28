@@ -23,7 +23,9 @@ Sollte die Schweiz morgen gewinnen könnte man es ja mit „the winner(in) takes
 
 Fast hätte ich den falschen Knopf erwischt und alles veröffentlicht 🙈….Stell dir vor wieviele Klicks es gegeben hätte 😎 
 
-PS: Verwende doch irgendwann nochmal einen deiner wunderschönen Sätze wie….prendimi da dietro….du musst ja nicht mich damit gemeint haben…
+PS: Verwende doch irgendwann nochmal einen deiner Wunder-Sätze wie….prendimi da dietro….du musst ja nicht mich damit gemeint haben…
+
+
 
 Un abbraccio
 
