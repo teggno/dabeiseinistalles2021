@@ -1,6 +1,6 @@
 ---
 title: "Rausschmiss "
-draft: false
+draft: true
 date: 2024-06-28T22:56:11.260Z
 image: img/img_0573.jpeg
 ---
