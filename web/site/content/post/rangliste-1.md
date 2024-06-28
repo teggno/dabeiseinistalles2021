@@ -4,8 +4,6 @@ draft: true
 date: 2024-06-23T15:27:08.840Z
 image: ""
 ---
-
-
 \
 01  = 310 Tina+Roland 🥇
 
@@ -15,7 +13,7 @@ image: ""
 
 04 =  300 Pina+Michele La Macchia
 
-05 =  300 Barbara+Urs Schläpfer 
+05 =  300 Martha+Sergio Giménez
 
 06 = 210 Nunzio Padula 
 
