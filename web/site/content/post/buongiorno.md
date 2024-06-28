@@ -1,5 +1,5 @@
 ---
-title: Buongiorno
+title: Buongiorno 🎉🎈
 draft: true
 date: 2024-06-28T05:55:09.596Z
 ---
