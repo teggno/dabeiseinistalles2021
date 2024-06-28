@@ -75,7 +75,7 @@ image: ""
 
 35  =   250 Nico Colaci
 
-36  =   180
+36  =   250
 
 37   =  170 Roger Blatter 
 
