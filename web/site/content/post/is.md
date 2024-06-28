@@ -1,7 +1,7 @@
 ---
 title: "Rausschmiss "
 draft: true
-date: 2024-06-27T08:52:03.031Z
+date: 2024-06-28T22:56:11.260Z
 image: img/img_0573.jpeg
 ---
 Sie mussten mich rausprügeln! Ich wollte gar nicht mehr weg. Es war ein Frauenkloster! Die fussballverrückte Nonne, die mich zum Ausgang begleitete, übrigens eine „Secondo“, schrie mir mit voller Inbrunst: „Hopp Schwiiiz“ hinterher! Und vilä Dank 🙏 füär da schöne Liäd (Jukebox)
