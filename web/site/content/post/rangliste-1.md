@@ -37,17 +37,17 @@ image: ""
 
 16  =   270 die Singers
 
-17  =   270
+17  =   270 Franco Monferini 
 
-18   =  190 Verena+Bruno Wacker 
+18   =  270 Miro Berger
 
-19   =  190 Gianfranco Caporusso 
+19   =  270 simply the best 🙈
 
-20   =  180 Mobby
+20   =  260 Verena+Bruno Wacker
 
-21    =  190 Salon Liotta 
+21    =  260 Andy+Andi Hermann 
 
-22   =  190 Koni Hornstein  
+22   =  260 Koni Hornstein  
 
 23   =  190 Anton Teuffel
 
