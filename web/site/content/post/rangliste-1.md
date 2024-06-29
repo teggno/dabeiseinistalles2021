@@ -96,7 +96,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 44 =    240 dä Sunneschi ☀️ dä Chaschtä
 
-45  =   260 Kuno Schwarzer (kommt noch)
+45  =   240 Claudia+Peppe Panucci
 
 46  =   230  Bea Colaci
 
