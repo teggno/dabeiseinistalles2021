@@ -50,7 +50,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 21    =  270 Gianfranco Caporusso 
 
-22   =  260 Koni Hornstein  
+22   =  270 Inge +Gregor 
 
 23   =  260 Anton Teuffel
 
@@ -62,7 +62,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 27  =   260 Andi+Andy Hermann
 
-28  =   260 dä Coq
+28  =   260 Koni Hornstein
 
 29  =   250 Salon Liotta
 
@@ -80,13 +80,13 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 36  =   250 Daniela+Davide Brocca
 
-37   =  240 Gina+Bruno
+37   =  250 Severin Stucky
 
 38  =   240 Claudia+Peppe Panucci
 
 39 =    240 Peter von Känel
 
-40 =    270 Inge+Gregor (kommt noch)
+40 =    240 Gina+Bruno
 
 41  =    240 Eva-Maria
 
