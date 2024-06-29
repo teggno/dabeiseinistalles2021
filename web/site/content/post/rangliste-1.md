@@ -2,7 +2,7 @@
 title: "Rangliste Emojis "
 draft: true
 date: 2024-06-23T15:27:08.840Z
-image: ""
+image: img/img_0578.jpeg
 ---
 \
 E-Mails von überall! Glückwünsche die mich überhaupt nicht betreffen. Hat die Schweiz gewonnen oder ich? Es war nur eine Vermutung, die ich in den letzten Wochen hier geäussert habe. Dass sie sich bewahrheitet, ist das Resultat langwieriger Recherchen. Mit Hokuspokus hat das überhaupt nichts zu tun! Wenn jemand es verdient, gibt es nur eins
