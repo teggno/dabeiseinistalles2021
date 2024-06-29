@@ -112,6 +112,6 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 52  =   200 Die Freigels
 
-53  =  190 Stephi+Cristiano 🏮
+53  =   190 Stephi+Cristiano 🏮
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
