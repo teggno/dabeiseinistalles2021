@@ -68,7 +68,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 30  =    280 Memduh Aktas
 
-31   =   250  Lilly+Raffaele
+31   =    270 Claudia+Markus Singer
 
 32   =  250 Leni+Luciano Schüepp
 
