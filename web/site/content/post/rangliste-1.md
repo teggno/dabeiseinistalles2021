@@ -1,5 +1,5 @@
 ---
-title: "Rangliste Emojis "
+title: Rangliste
 draft: false
 date: 2024-06-29T18:20:51.612Z
 image: img/img_0578.jpeg
