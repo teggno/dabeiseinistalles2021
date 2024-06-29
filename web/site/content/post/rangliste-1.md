@@ -5,7 +5,7 @@ date: 2024-06-23T15:27:08.840Z
 image: img/img_0578.jpeg
 ---
 \
-Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent!  Noch schlimmer als erwartet. Mein Einbürgerungsgesuch  ist bereits unterwegs. Wollt ihr mich überhaupt noch 🙏 
+Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent!  Noch schlimmer als erwartet. Mein Einbürgerungsgesuch  ist bereits unterwegs. Wollt ihr mich überhaupt noch 🙏  Glückwünsche von überall, die aus Schweden 🇸🇪 sagen alles in einem Satz. (Jukebox)
 
 \
 01  = 310 Tina+Roland 🥇
