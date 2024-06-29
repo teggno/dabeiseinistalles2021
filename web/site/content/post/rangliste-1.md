@@ -46,7 +46,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 19   =   300 Made+Donato Carrieri 
 
-20   =  270 Claudia+Markus Singer 
+20   =   300 Verena+Bruno Wacker
 
 21    =  270 Gianfranco Caporusso 
 
