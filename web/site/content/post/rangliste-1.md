@@ -32,19 +32,19 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 12  =    320 Renato Meier
 
-13  =     310 Renato Meier
+13  =    310 Inge+Gregor
 
 14  =    310 Gülay Turcan
 
-15  =    310 Inge+Gregor
+15  =    300 Gianfranco Caporusso
 
-16  =   270 Gülay Turcan
+16  =    300 dä Sunne☀️schi+dä Chaschtä
 
-17  =   270 Franco Monferini 
+17  =    300 Franco Monferini 
 
-18   =  270 Miro Berger
+18   =   300 Andy+Andi Hermann
 
-19   =  270 simply the best 🙈
+19   =   300 Made+Donato Carrieri 
 
 20   =  270 Claudia+Markus Singer 
 
