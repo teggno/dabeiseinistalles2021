@@ -48,7 +48,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 20   =  270 Claudia+Markus Singer 
 
-21    =  260 Andy+Andi Hermann 
+21    =  270 Gianfranco Caporusso 
 
 22   =  260 Koni Hornstein  
 
@@ -60,7 +60,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 26  =   260 Daniela+Paolo Padula
 
-27  =   250 dä Coc
+27  =   260 Andi+Andy Hermann
 
 28  =   250 Severin Stucky
 
