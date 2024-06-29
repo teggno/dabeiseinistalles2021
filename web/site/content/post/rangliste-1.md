@@ -82,7 +82,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 37   =  250 Severin Stucky
 
-38  =   240 Claudia+Peppe Panucci
+38  =   250 dä Coq
 
 39 =    240 Peter von Känel
 
