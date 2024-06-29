@@ -70,21 +70,21 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 31   =    270 Claudia+Markus Singer
 
-32   =  250 Leni+Luciano Schüepp
+32   =   270 Miro Berger
 
-33   =  250 Christian Bär
+33   =   270 Claudia+Peppe Panucci
 
-34  =   250 Jeanette+Urs Affentranger 
+34  =    270 Renato Petrillo
 
-35  =   250 Nico Colaci
+35  =    270 Zeljko Berger
 
-36  =   250 Daniela+Davide Brocca
+36  =    270 Vonki
 
-37   =  250 Severin Stucky
+37   =   270
 
-38  =   250 dä Coq
+38  =   260 Bea Colaci
 
-39 =    250 Salon Liotta 
+39 =    260
 
 40 =    240 Gina+Bruno
 
