@@ -8,35 +8,35 @@ image: img/img_0578.jpeg
 Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent!  Noch schlimmer als erwartet. Mein Einbürgerungsgesuch ist bereits unterwegs. Wollt ihr mich überhaupt noch 🙏  Glückwünsche von überall! Die aus Schweden 🇸🇪 sagen alles in einem Satz. (Jukebox)
 
 \
-01  = 310 Tina+Roland 🥇
+01  = 350 ROSA+MARLEN 🥇
 
-02 =  310 René Benz🥈      
+02 =  340 René Benz🥈      
 
-03 =  310 Rosa+Marlen🥉
+03 =  330 Pina+Michele La Macchia 🥉
 
-04 =  300 Pina+Michele La Macchia
+04 =  330 Cosimo Cataldo
 
-05 =  300 Martha+Sergio Giménez
+05 =  330 Martha+Sergio Giménez
 
-06 =  290 Liddy+Thomas Scwemer
+06 =  320 Liddy+Thomas Schwemer
 
-07 =   290 dä Dog 
+07 =   320 dä Dog 
 
-08 =   290 Cosimo Cataldo
+08 =   320 Tina+Roland
 
-09  =  290 Barbara+Urs Schläpfer
+09  =  320 Barbara+Urs Schläpfer
 
-10  =  290 Kurt Meier
+10  =   320  Kurt Meier
 
-11  =   280 Nunzio Padula
+11  =    320 Nunzio Padula
 
-12  =   280 Mobby
+12  =    320 Renato Meier
 
-13  =   280 Renato Meier
+13  =     310 Renato Meier
 
-14  =   280 Roger Blatter
+14  =    310 Gülay Turcan
 
-15  =   270 Kuno Schwarzer
+15  =    310 Inge+Gregor
 
 16  =   270 Gülay Turcan
 
