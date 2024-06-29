@@ -80,27 +80,27 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 36  =    270 Vonki
 
-37   =   270
+37   =   260 Kuno Schwarzer
 
 38  =   260 Bea Colaci
 
-39 =    260
+39 =    260 Anton Teuffel
 
-40 =    240 Gina+Bruno
+40 =    250 Daniela+Davide Brocca 
 
-41  =    240 Eva-Maria
+41  =    250 Nico Colaci 
 
-42  =   240 Zeljko Berger
+42  =    250 Jeanette+Urs Affentranger 
 
-43  =   240 Renato Petrillo
+43  =   250 dä Coq
 
-44 =    240 Vonki
+44 =    250 Leni+Luciano Schüepp
 
-45  =   240 Claudia+Peppe Panucci
+45  =   240 Gina+Bruno
 
-46  =   230  Bea Colaci
+46  =   240 Eva-Maria Heitz
 
-47  =   220  Katja+Tommy
+47  =   230 Margot+Leo Hensch
 
 48  =   220 Zac
 
@@ -108,7 +108,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 50  =   220 Janis Hermann
 
-51   =   230 Margot+Leo Hensch 
+51   =   220 Tommy+Katja
 
 52  =   200 Die Freigels
 
