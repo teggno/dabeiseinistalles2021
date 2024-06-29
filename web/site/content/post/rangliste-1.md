@@ -52,7 +52,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 22   =  270 Inge +Gregor 
 
-23   =  260 Anton Teuffel
+23   =  270 dä Sunneschi ☀️dä Chaschtä
 
 24   =  260 Katy+Urs Näf
 
@@ -64,7 +64,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 28  =   260 Koni Hornstein
 
-29  =   250 Salon Liotta
+29  =   260 Anton Teuffel
 
 30  =   250 Memduh Aktas
 
@@ -84,7 +84,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 38  =   250 dä Coq
 
-39 =    240 Peter von Känel
+39 =    250 Salon Liotta 
 
 40 =    240 Gina+Bruno
 
@@ -94,7 +94,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 43  =   240 Renato Petrillo
 
-44 =    240 dä Sunneschi ☀️ dä Chaschtä
+44 =    240 Vonki
 
 45  =   240 Claudia+Peppe Panucci
 
