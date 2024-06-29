@@ -36,7 +36,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 14  =   280 Roger Blatter
 
-15  =   270 Gianfranco Caporusso
+15  =   270 Kuno Schwarzer
 
 16  =   270 Gülay Turcan
 
