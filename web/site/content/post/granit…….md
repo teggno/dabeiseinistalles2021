@@ -1,5 +1,5 @@
 ---
-title: Buonanotte Frau Granit……
+title: Buonanotte Frau aus  Granit……
 draft: true
 date: 2024-06-28T21:17:35.321Z
 image: img/img_0576.jpeg
