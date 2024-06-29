@@ -12,4 +12,4 @@ Auf die sich anbahnende Niederlage der Squadra Azzurra 💙 bin ich längst vorb
 
 Noch mehr an der Werbetrommel drehen geht nicht, liebe Schweizer. Jetzt liegt’s an euch. Wobei ich dieses winzige Detail, das nicht ganz unerheblich ist, noch loswerden will. Es kommt direkt aus Cisternino wo mein Albtraum „Zac“ gerade seine Seele baumeln lässt: „Du Bobetto“, hat er mir gemailt „häsch scho vergässä, dass du im „Coop“ immär a dä falschä Kassä schtosch 🤔
 
-PS: Eine Gefahr weniger für diä 💙 do! Die Schweiz ohne ihren 12. Mann Jorginho……Wa mainsch Zac…..chönnt da glich no langä…..uf z‘mol isch miär soooo schlächt 🤢…..
+PS: Eine Gefahr weniger für diä 💙 do! Die Schweiz ohne ihren 12. Mann Jorginho……Wa mainsch Zac…..chönnt da glich no langä…..uf z‘mol isch miär richtig schlächt 🤢…..
