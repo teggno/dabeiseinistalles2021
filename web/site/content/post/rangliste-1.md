@@ -5,13 +5,9 @@ date: 2024-06-23T15:27:08.840Z
 image: ""
 ---
 \
-E-Mails von überall! Glückwünsche die mich überhaupt nicht betreffen. Hat die Schweiz gewonnen oder ich? Es war nur eine Vermutung, die ich in den letzten Wochen hier geäussert habe. Dass sie sich bewahrheitet, ist das Resultat langwieriger Recherchen. Mit Hokuspokus hat das überhaupt nichts zu tun! Die Lorbeeren geb ich weiter. Nehmt Jungs, es gehört alles euch! (Jukebox)
+E-Mails von überall! Glückwünsche die mich überhaupt nicht betreffen. Hat die Schweiz gewonnen oder ich? Es war nur eine Vermutung, die ich in den letzten Wochen hier geäussert habe. Dass sie sich bewahrheitet, ist das Resultat langwieriger Recherchen. Mit Hokuspokus hat das überhaupt nichts zu tun! Wenn jemand es verdient, gibt es nur eins
 
 Vergiss es Baby. Es tut zwar sehr, sehr weh. Aber sollten wir nicht über Dringenderes reden 🫢
-
-
-
-
 
 \
 01  = 310 Tina+Roland 🥇
