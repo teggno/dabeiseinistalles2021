@@ -18,7 +18,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 05 =  300 Martha+Sergio Giménez
 
-06 =  290 Kurt Meier
+06 =  290 Liddy+Thomas Scwemer
 
 07 =   290 dä Dog 
 
@@ -26,7 +26,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 09  =  290 Barbara+Urs Schläpfer
 
-10  =  280 Roger Blatter
+10  =  290 Kurt Meier
 
 11  =   280 Nunzio Padula
 
@@ -34,11 +34,11 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 13  =   280 Renato Meier
 
-14  =   270 Gülay Turcan
+14  =   280 Roger Blatter
 
 15  =   270 Gianfranco Caporusso
 
-16  =   270 die Singers
+16  =   270 Gülay Turcan
 
 17  =   270 Franco Monferini 
 
@@ -46,7 +46,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 19   =  270 simply the best 🙈
 
-20   =  260 Verena+Bruno Wacker
+20   =  270 Claudia+Markus Singer 
 
 21    =  260 Andy+Andi Hermann 
 
