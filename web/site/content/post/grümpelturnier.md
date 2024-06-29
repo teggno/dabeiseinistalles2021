@@ -1,5 +1,5 @@
 ---
-title: "Grümpelturnier "
+title: Grümpelturniere
 draft: true
 date: 2024-06-28T04:44:47.153Z
 image: img/img_0574.jpeg
