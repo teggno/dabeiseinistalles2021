@@ -62,7 +62,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 27  =   260 Andi+Andy Hermann
 
-28  =   250 Severin Stucky
+28  =   260 dä Coq
 
 29  =   250 Salon Liotta
 
