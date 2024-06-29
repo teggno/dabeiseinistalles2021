@@ -48,25 +48,25 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 20   =   300 Verena+Bruno Wacker
 
-21    =  270 Gianfranco Caporusso 
+21    =   300 Koni Hornstein
 
-22   =  270 Inge +Gregor 
+22   =   290 Salon Liotta
 
-23   =  270 dä Sunneschi ☀️dä Chaschtä
+23   =   290 Daniela+Paolo Padula
 
-24   =  260 Katy+Urs Näf
+24   =   290 Katy+Urs Näf
 
-25   =  260 Verena+ Bruno Wacker
+25   =   280 Roger Blatter
 
-26  =   260 Daniela+Paolo Padula
+26  =    280 Mobby Sahli
 
-27  =   260 Andi+Andy Hermann
+27  =    280 Lilly+Raffaele
 
-28  =   260 Koni Hornstein
+28  =    280 Severin Stucky
 
-29  =   260 Anton Teuffel
+29  =    280 Emma+Christian 
 
-30  =   250 Memduh Aktas
+30  =    280 Memduh Aktas
 
 31   =   250  Lilly+Raffaele
 
