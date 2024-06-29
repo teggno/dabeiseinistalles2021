@@ -5,9 +5,7 @@ date: 2024-06-23T15:27:08.840Z
 image: img/img_0578.jpeg
 ---
 \
-E-Mails von überall! Glückwünsche die mich überhaupt nicht betreffen. Hat die Schweiz gewonnen oder ich? Es war nur eine Vermutung, die ich in den letzten Wochen hier geäussert habe. Dass sie sich bewahrheitet, ist das Resultat langwieriger Recherchen. Mit Hokuspokus hat das überhaupt nichts zu tun! Wenn jemand es verdient, gibt es nur eins
-
-Vergiss es Baby. Es tut zwar sehr, sehr weh. Aber sollten wir nicht über Dringenderes reden 🫢
+Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent!  Noch schlimmer als erwartet. Mein Einbürgerungsgesuch  ist bereits unterwegs. Wollt ihr mich überhaupt noch 🙏 
 
 \
 01  = 310 Tina+Roland 🥇
@@ -88,7 +86,7 @@ Vergiss es Baby. Es tut zwar sehr, sehr weh. Aber sollten wir nicht über Dringe
 
 39 =    240 Peter von Känel
 
-40 =    240 Inge+Gregor
+40 =    270 Inge+Gregor (kommt noch)
 
 41  =    240 Eva-Maria
 
@@ -98,7 +96,7 @@ Vergiss es Baby. Es tut zwar sehr, sehr weh. Aber sollten wir nicht über Dringe
 
 44 =    240 dä Sunneschi ☀️ dä Chaschtä
 
-45  =   230 Kuno Schwarzer
+45  =   260 Kuno Schwarzer (kommt noch)
 
 46  =   230  Bea Colaci
 
@@ -110,10 +108,10 @@ Vergiss es Baby. Es tut zwar sehr, sehr weh. Aber sollten wir nicht über Dringe
 
 50  =   220 Janis Hermann
 
-51   =  200 Die Freigels
+51   =   230 Margot+Leo Hensch 
 
-52  =  190 Stephi+Cristiano Pedron
+52  =   200 Die Freigels
 
-53  =  190 Margot+Lei Hensch 🏮
+53  =  190 Stephi+Cristiano 🏮
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
