@@ -56,7 +56,7 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 24   =  260 Katy+Urs Näf
 
-25   =  260 Liddy+Thomas Schwemer
+25   =  260 Verena+ Bruno Wacker
 
 26  =   260 Daniela+Paolo Padula
 
