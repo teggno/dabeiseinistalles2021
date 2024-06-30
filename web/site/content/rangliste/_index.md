@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Rolling Stones ▶️  Anybody Seen…
-  url: https://www.youtube.com/watch?v=BinwuzZVjnE&pp=ygUOcm9sbGluZyBzdG9uZXM%3D
+  title: RAFFI‘S JUKEBOX 🎸 Procol Harum ▶️  💋
+  url: https://www.youtube.com/watch?v=Mb3iPP-tHdA&pp=ygUjcHJvY29sIGhhcnVtIGEgd2hpdGVyIHNoYWRlIG9mIHBhbGU%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
