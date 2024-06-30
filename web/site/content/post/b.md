@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-30T11:19:06.902Z
 image: img/b50bfce6-7689-46f5-9680-d148a5f2fa5e.jpeg
 ---
-Auf vielfachen Wunsch aus dem Publikum und zur Überbrückung dieses unendlichen Vakuums ⚽️ ein Song aus der Ecke „ä Blueschtfahrt übers Land“ (Jukebox)
+Auf vielfachen Wunsch aus dem Publikum - um dieses ⚽️ unendliche Vakuum zu überbrücken „än Sunntignomittag im Green 🍏 Apple“ Bestseller auf dem Plattenteller 
 
 18 Uhr Viertelfinalgegner der Schweiz
 
