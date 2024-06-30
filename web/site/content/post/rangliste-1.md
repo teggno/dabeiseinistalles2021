@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-30T15:25:30.840Z
 image: img/img_0585.jpeg
 ---
-Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlechter als Italien. Fodden ist der Schlimmste. Die halbe Kompanie atmet durch! 
+Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlechter als Italien. Fodden ist der Schlimmste. Die halbe Kompanie atmet durch! Reicht das doch noch. Ja es reicht…..Kaaaaane……
 
 \
 01  = 380 ROSA+MARLEN 🥇
