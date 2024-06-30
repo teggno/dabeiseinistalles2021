@@ -1,10 +1,10 @@
 ---
-title: "RANGLISTE "
+title: RANGLISTE (Live Ticker)
 draft: false
 date: 2024-06-30T15:25:30.840Z
 image: img/img_0585.jpeg
 ---
-Färtig luschtig! Hier zittert die halbe Kompanie! Sind wir denn alles Verlierer (Jukebox) Dieses England ist noch schlechter als Italien. Die konnten nicht und die wollen scheinbar nicht. Wo ist Kane und wo ist Bellingham? Im Raume Tägerwilen beginnt man langsam zu träumen. Sind WIR 🇨🇭 schon im Halbfinale?
+Färtig luschtig! Hier zittert die halbe Kompanie! Sind wir denn alles Verlierer (Jukebox) Dieses England ist noch schlechter als Italien. Die konnten nicht und die wollen scheinbar nicht. Wo ist Kane und wo ist Bellingham?  Ich hab eure Punkte doch schon gebucht! Falls es so bleiben sollte, chrampf i hüt Nacht durä…
 
 \
 01  = 380 ROSA+MARLEN 🥇
