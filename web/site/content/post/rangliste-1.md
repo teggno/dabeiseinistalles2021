@@ -27,7 +27,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 10  =   370 Martha+Sergio
 
-11  =    360
+11  =    360 Liddy+Thomas
 
 12  =    360 Martha+Sergio
 
