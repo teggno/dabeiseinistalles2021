@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
   title: "RAFFI‘S JUKEBOX 🎸  Pink Floyd  ▶️  Wish you were here "
-  url: https://www.youtube.com/watch?v=84Tq-eAJIk4&pp=ygUdd2lzaCB5b3Ugd2VyZSBoZXJlIHBpbmsgZmxveWQ%3D
+  url: https://www.youtube.com/watch?v=QrkNYFAJaWY&pp=ygUVaG90ZWwgY2FsaWZvcm5pYSBsaXZl
   image: img/jukebox.jpg
   description: ""
 type: rangliste
