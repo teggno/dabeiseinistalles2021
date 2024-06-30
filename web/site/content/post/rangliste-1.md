@@ -40,7 +40,7 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 16  =    300 dä Sunne☀️schi+dä Chaschtä 🌚
 
-17  =    300 Franco Monferini 🚨
+17  =    300 Franco Monferini 🛩️
 
 18   =   300 Andy+Andi Hermann
 
