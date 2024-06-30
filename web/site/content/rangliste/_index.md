@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  The Eagles  ▶️  Hotel California
-  url: https://www.youtube.com/watch?v=QrkNYFAJaWY&pp=ygUVaG90ZWwgY2FsaWZvcm5pYSBsaXZl
+  title: RAFFI‘S JUKEBOX 🎸  Janis Joplin  ▶️  Me and…..
+  url: https://www.youtube.com/watch?v=5Cg-j0X09Ag&pp=ygUMamFuaXMgam9wbGlu
   image: img/jukebox.jpg
   description: ""
 type: rangliste
