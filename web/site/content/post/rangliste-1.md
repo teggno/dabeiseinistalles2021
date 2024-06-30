@@ -53,13 +53,13 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 23   =    340 Made+Donato
 
-24   =    330 Koni Hornstein
+24   =    340 Claudia+Markus
 
 25   =    330 Salon Liotta
 
-26  =     320 Katy+Urs
+26  =     330 Koni Hornstein
 
-27  =     320 Salon Liotta
+27  =     320 Kary+Urs
 
 28  =     320 Emma+Christian
 
