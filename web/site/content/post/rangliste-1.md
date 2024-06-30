@@ -1,6 +1,6 @@
 ---
 title: Live Ticker
-draft: false
+draft: true
 date: 2024-06-30T15:25:30.840Z
 image: img/img_0585.jpeg
 ---
@@ -13,23 +13,23 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 03 =  370 Pina+Michele La Macchia 🥉
 
-04 =  360 Cosimo Cataldo 🐆
+04 =  370 Cosimo Cataldo 🐆
 
-05 =  350 Renato Meier
+05 =  360 Renato Meier
 
-06 =  350 Liddy+Thomas Schwemer ☄️
+06 =  360 Liddy+Thomas Schwemer ☄️
 
-07 =   350 dä Dog 
+07 =   360 dä Dog 
 
-08 =   350 Tina+Roland
+08 =   360 Tina+Roland
 
-09  =  350 Barbara+Urs Schläpfer
+09  =  360 Barbara+Urs Schläpfer
 
-10  =   350 Kurt Meier
+10  =   360  Kurt Meier
 
-11  =    340 Gülay Turcan
+11  =    350 Gülay Turcan
 
-12  =    330 Martha+Sergio Giménez
+12  =    340 Martha+Sergio Giménez
 
 13  =    330 Koni Hornstein 
 
