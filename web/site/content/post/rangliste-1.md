@@ -73,7 +73,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 33   =    300 Renato Petrillo
 
-34  =     310
+34  =     310 Inge+Gregor
 
 35  =     310 Zeljko Berger
 
