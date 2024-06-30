@@ -13,9 +13,9 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 03 =  400 Pina+Michele La Macchia 🥉
 
-04 =  390 Cosimo Cataldo 🐆
+04 =  400 Cosimo Cataldo 🐆
 
-05 =  360 Renato Meier
+05 =  390 Renato Meier
 
 06 =  360 Liddy+Thomas Schwemer ☄️
 
