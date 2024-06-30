@@ -14,11 +14,11 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 03 =  330 Pina+Michele La Macchia 🥉
 
-04 =  330 Cosimo Cataldo
+04 =  330 Cosimo Cataldo 🐆
 
 05 =  330 Martha+Sergio Giménez
 
-06 =  320 Liddy+Thomas Schwemer
+06 =  320 Liddy+Thomas Schwemer 
 
 07 =   320 dä Dog 
 
@@ -34,7 +34,7 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 13  =    310 Inge+Gregor
 
-14  =    310 Gülay Turcan
+14  =    310 Gülay Turcan 🦋
 
 15  =    300 Gianfranco Caporusso
 
@@ -96,7 +96,7 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 44 =    250 Leni+Luciano Schüepp
 
-45  =   240 Gina+Bruno
+45  =   240 Gina+Bruno 🦅
 
 46  =   240 Eva-Maria Heitz
 
