@@ -47,7 +47,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 20   =   320 Nunzio Padula 🛩️
 
-21    =   320 Mobby
+21    =   330 Koni Hornstein 
 
 22   =    320 Salon Liotta
 
@@ -61,7 +61,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 27  =     320 Salon Liotta
 
-28  =     310 Emma+Christian
+28  =     320 Emma+Christian
 
 29  =     320 Lilly+Raffaele 
 
