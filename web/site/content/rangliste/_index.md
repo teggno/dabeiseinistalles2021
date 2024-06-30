@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX 🎸  Pink Floyd  ▶️  Wish you were here "
+  title: RAFFI‘S JUKEBOX 🎸  The Eagles  ▶️  Hotel California
   url: https://www.youtube.com/watch?v=QrkNYFAJaWY&pp=ygUVaG90ZWwgY2FsaWZvcm5pYSBsaXZl
   image: img/jukebox.jpg
   description: ""
