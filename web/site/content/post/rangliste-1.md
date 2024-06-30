@@ -23,7 +23,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 08 =   390 Barbara+Urs
 
-09  =  390 
+09  =  370 Regula+Franco 
 
 10  =   370 Martha+Sergio
 
