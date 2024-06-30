@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
   title: RAFFI‘S JUKEBOX 🎸  Aerosmith  ▶️    Crazy
-  url: https://www.youtube.com/watch?v=92cwKCU8Z5c&pp=ygUcYWJiYSB0aGUgd2lubmVyIHRha2VzIGl0IGFsbA%3D%3D
+  url: https://www.youtube.com/watch?v=rJpXr3w2bew&pp=ygUQIGFlcm9zbWl0aCBjcmF6eQ%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
