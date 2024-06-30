@@ -1,10 +1,10 @@
 ---
-title: Bäääällinghäm
+title: Live Ticker
 draft: false
 date: 2024-06-30T15:25:30.840Z
 image: img/img_0585.jpeg
 ---
-Hier zittert die halbe Kompanie! 
+Bääällinghäääm rettet „diä Pfiffä uá“ England. Die sind noch schlechter als Italien. 
 
 \
 01  = 380 ROSA+MARLEN 🥇
