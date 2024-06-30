@@ -39,13 +39,13 @@ Vor luutär Soccer ⚽️  isch SIE miär no dävogloffä. (Jukebox) Jetz muäni
 
 16  =    330 dä Sunne☀️schi+dä Chaschtä 🌚
 
-17  =    330 Franco Monferini 🛩️
+17  =    330 Franco Monferini  🚨
 
 18   =   330 Andy+Andi Hermann
 
 19   =   330 Made+Donato Carrieri 
 
-20   =   320 Nunzio Padula
+20   =   320 Nunzio Padula 🛩️
 
 21    =   320 Mobby
 
@@ -73,11 +73,11 @@ Vor luutär Soccer ⚽️  isch SIE miär no dävogloffä. (Jukebox) Jetz muäni
 
 33   =    300 Renato Petrillo
 
-34  =     290 Daniela+Paolo
+34  =     290 Daniela+Paolo 🛩️
 
 35  =     290 Anton Teuffel
 
-36  =     290 Bea Colaci
+36  =     290 Bea Colaci 😅
 
 37   =    290 Kuno Schwarzer ⛑️
 
@@ -89,7 +89,7 @@ Vor luutär Soccer ⚽️  isch SIE miär no dävogloffä. (Jukebox) Jetz muäni
 
 41  =     280 Jeanette+Urs
 
-42  =    270  Claudia+Peppe
+42  =    270  Claudia+Peppe 🛩️
 
 43  =   270 Gina+Bruno
 
@@ -99,7 +99,7 @@ Vor luutär Soccer ⚽️  isch SIE miär no dävogloffä. (Jukebox) Jetz muäni
 
 46  =   250 Nico Colaci
 
-47  =   250 Zac 
+47  =   250 Zac 🆘
 
 48  =   250 Janis
 
@@ -109,7 +109,7 @@ Vor luutär Soccer ⚽️  isch SIE miär no dävogloffä. (Jukebox) Jetz muäni
 
 51   =   230 Die Freigels
 
-52  =   230 Margot+Leo
+52  =   230 Margot+Leo ⛑️
 
 53  =   220  Stephi+Cristiano 🏮
 
