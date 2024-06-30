@@ -5,7 +5,7 @@ date: 2024-06-29T18:20:51.612Z
 image: img/img_0578.jpeg
 ---
 \
-Phänomenal! Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent!  Noch schlimmer als erwartet. Mein Einbürgerungsgesuch ist bereits unterwegs. Wollt ihr mich überhaupt noch 🙏  Glückwünsche von überall! Die aus Schweden 🇸🇪 sagen alles in einem Satz. (Jukebox)
+Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexistent!  Noch schlimmer als erwartet. Mein Einbürgerungsgesuch ist bereits unterwegs. Wollt ihr mich überhaupt noch 🙏  Glückwünsche von überall! Die aus Schweden 🇸🇪 treffen den Nagel auf den Kopf. (Jukebox)
 
 \
 01  = 350 ROSA+MARLEN 🥇
