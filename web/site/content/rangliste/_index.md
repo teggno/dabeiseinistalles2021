@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 The Beatles  ▶️  I‘m a Loser
-  url: https://www.youtube.com/watch?v=ukWRRNqMAZ4&pp=ygUTaW0gYSBsb3NlciBiZWF0bGVzIA%3D%3D
+  title: RAFFI‘S JUKEBOX 🎸 Neil Young  ▶️  Harvest Moon
+  url: https://www.youtube.com/watch?v=n2MtEsrcTTs&pp=ygUMaGFydmVzdCBtb29u
   image: img/jukebox.jpg
   description: ""
 type: rangliste
