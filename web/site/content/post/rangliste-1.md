@@ -25,9 +25,9 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 09  =  390 Barbara+Urs Schläpfer
 
-10  =   360  Kurt Meier
+10  =   370 Martha+Sergio
 
-11  =    350 Gülay Turcan
+11  =    370 Franco Monferini
 
 12  =    340 Martha+Sergio Giménez
 
