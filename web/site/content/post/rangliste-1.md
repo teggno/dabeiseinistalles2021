@@ -89,15 +89,15 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 41  =     280 Jeanette+Urs
 
-42  =    270  Claudia+Peppe 🛩️
+42  =     280 Leni+Luc
 
 43  =   270 Gina+Bruno
 
-44 =    270 Eva-Maria
+44 =    280 Nico Colaci
 
-45  =   250 Leni+Luciano
+45  =   280 Claudia+Peppe
 
-46  =   270 Nico Colaci
+46  =   280 Eva-Maria
 
 47  =   270 Baggerstube
 
