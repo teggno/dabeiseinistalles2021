@@ -6,7 +6,7 @@ image: img/img_0580.jpeg
 ---
 Man weiss in Hollywood nie! Da nominieren sie die komischsten Vögel! Die zwei, die letzte Nacht den Sprung unter die Top 8 geschafft haben, gehören zum Kreis der Favoriten! „Urs, warum fangsch jetz du a lachä“, wenn ich die Schweiz erwähne?
 
-Seit Wochen kämpfe ich hier um meinen ramponirerten Ruf! Bei meinen ehemaligen „connazionali“🤚galt ich bis gestern als Scharlatan und Nestbeschmutzer. Bei meinen zukünftigen Landsleuten 🤝 wurde ich nur müde belächelt. Meine langwierigen Recherchen, die mich bis in die tiefen Abgründe „freudscher Traumtheorien“ führten, bestätigten mir jedoch: hier handelt es sich um unleugbare Realitäten!
+Seit Wochen kämpfe ich hier um meinen ramponirerten 😎 Ruf! Bei meinen ehemaligen „connazionali“🤚galt ich bis gestern als Scharlatan und Nestbeschmutzer. Bei meinen zukünftigen Landsleuten 🤝 wurde ich nur müde belächelt. Meine langwierigen Recherchen, die mich bis in die tiefen Abgründe „freudscher Traumtheorien“ führten, bestätigten mir jedoch: hier handelt es sich um unleugbare Realitäten!
 
 Deutschland ist die eine! Die Trendbestätigung ist auch dank Göttin Fortuna geglückt. Der bemitleidenswerte Andersen wird dieses Spiel nie mehr aus den Gedanken verlieren. Nicht dass mir die Nagelsmänner den Kopf verdrehen! Konstant und solide mit gelegentlichen Ausflügen in die Virtuosität! Die Protagonisten sind immer dieselben. Nur der Dirigent scheint leicht  zu ermüden.
 
