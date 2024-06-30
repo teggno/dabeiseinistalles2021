@@ -1,5 +1,5 @@
 ---
-title: Kopfrechnen 🤦🏻‍♂️ Rangliste nach dem Abendspiel
+title: "RANGLISTE "
 draft: false
 date: 2024-06-30T18:22:19.138Z
 image: img/img_0586.jpeg
