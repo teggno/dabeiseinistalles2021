@@ -29,11 +29,11 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 11  =    360 Liddy+Thomas
 
-12  =    360 Martha+Sergio
+12  =    360 Renato Meier
 
-13  =    340 Made+Donato
+13  =    360 Mobby
 
-14  =    340 Verena+Bruno Wacker
+14  =    360 Nunzio Padula
 
 15  =    340 Gianfranco Caporusso
 
