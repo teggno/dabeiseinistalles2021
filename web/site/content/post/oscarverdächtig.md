@@ -14,4 +14,4 @@ Die ganz grosse Musik spielte gestern in Berlin. Fast keine Misstöne und das w�
 
 Urs‘ grosses Idol Contini und sein Kompagnon Yakin sind im Besitze einer kostbaren Ansammlung von Ausnahmekünstlern wie Akanji, Xhaka und Ndoye, die natürlich auf die Mithilfe von Personal aus dem oberen Kader angewiesen sind. „Old man“ Rodriguez, Rackerer Freuler und Spitzbuäb Vargas, sind nur drei davon. Eigentlich ist es ungerecht, einzelne aus dem eingespielten Ensemble hervorzuheben.
 
-Wenn die Slowaken nicht einen Glanztag erwischen, steht England als nächstes auf der Speisekarte. Bisher ungeniessbar, weil vom Küchenchef miserabel vorbereitet! Austauschen kann man ihn nicht, dafür ist es zu spät. Aber wenn er die Zubereitung seinen Spitzenköchen überlässt, ist ein Menue Surprise nicht auszuschliessen!
+Wenn die Slowaken nicht einen Glanztag erwischen, steht England als nächstes auf der Speisekarte. Bisher ungeniessbar, weil vom Küchenchef miserabel vorbereitet! Austauschen kann man ihn nicht, dafür ist es zu spät. Aber wenn er die Zubereitung seinen Spitzenköchen überlässt, ist ein Menu Surprise nicht auszuschliessen!
