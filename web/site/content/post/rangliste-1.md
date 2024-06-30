@@ -89,11 +89,11 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 41  =     280 Jeanette+Urs
 
-42  =     280 Leni+Luc
+42  =     290  Leni+Luc
 
-43  =   270 Gina+Bruno
+43  =    290 Nico Colaci
 
-44 =    280 Nico Colaci
+44 =    280 Severin Stucky
 
 45  =   280 Claudia+Peppe
 
