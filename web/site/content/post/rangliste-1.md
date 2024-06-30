@@ -28,7 +28,7 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 10  =   320  Kurt Meier
 
-11  =    320 Nunzio Padula
+11  =    320 Nunzio Padula 🛩️
 
 12  =    320 Renato Meier
 
@@ -38,9 +38,9 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 15  =    300 Gianfranco Caporusso
 
-16  =    300 dä Sunne☀️schi+dä Chaschtä
+16  =    300 dä Sunne☀️schi+dä Chaschtä 🌚
 
-17  =    300 Franco Monferini 
+17  =    300 Franco Monferini 🚨
 
 18   =   300 Andy+Andi Hermann
 
@@ -52,7 +52,7 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 22   =   290 Salon Liotta
 
-23   =   290 Daniela+Paolo Padula
+23   =   290 Daniela+Paolo Padula 🛩️
 
 24   =   290 Katy+Urs Näf
 
@@ -82,7 +82,7 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 37   =   260 Kuno Schwarzer
 
-38  =   260 Bea Colaci
+38  =   260 Bea Colaci 🛟
 
 39 =    260 Anton Teuffel
 
@@ -104,7 +104,7 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 48  =   230 Baggerstube
 
-49  =   220 Zac
+49  =   220 Zac 🚑 🆘 
 
 50  =   220 Janis Hermann
 
