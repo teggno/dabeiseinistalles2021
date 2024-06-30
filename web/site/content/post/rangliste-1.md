@@ -56,9 +56,9 @@ Phänomenal! Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent!
 
 24   =   290 Katy+Urs Näf
 
-25   =   280 Roger Blatter
+25   =   290 Mobby
 
-26  =    280 Mobby Sahli
+26  =    280 Roger Blatter
 
 27  =    280 Lilly+Raffaele
 
