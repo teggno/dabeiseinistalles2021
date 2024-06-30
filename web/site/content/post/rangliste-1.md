@@ -57,9 +57,9 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 25   =    310 Memduh Aktas
 
-26  =     310 Roger Blatter 🎣 
+26  =     320 Katy+Urs
 
-27  =     310 Lilly+Raffaele
+27  =     320 Salon Liotta
 
 28  =     310 Emma+Christian
 
