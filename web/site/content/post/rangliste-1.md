@@ -7,13 +7,13 @@ image: img/img_0585.jpeg
 Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlechter als Italien. Fodden ist der Schlimmste. Die halbe Kompanie atmet durch! Reicht das doch noch. Ja es reicht…..Kaaaaane……Was für ein Duuusel!
 
 \
-01  = 420 ROSA+MARLEN 🥇
+01  =  420 ROSA+MARLEN 🥇
 
-02 =  410 René Benz🥈      
+02 =  380 René Benz🥈      
 
-03 =  400  Pina+Michele La Macchia 🥉
+03 =  370 Pina+Michele La Macchia 🥉
 
-04 =  390 Cosimo Cataldo 🐆
+04 =  370 Cosimo Cataldo 🐆
 
 05 =  360 Renato Meier
 
@@ -43,39 +43,39 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 18   =   340  Andy+Andi Hermann
 
-19   =   340 Miro Berger
+19   =   330 Koni Hornstein 
 
-20   =   340 Anton Teuffel
+20   =   320 Nunzio Padula 🛩️
 
-21    =   340 Bruno+Verena 
+21    =   320 Mobby
 
-22   =    340 Guanfranco Caporusso
+22   =    320 Salon Liotta
 
-23   =    340 Made+Donato
+23   =    320 Katy+Urs
 
-24   =    330 Koni Hornstein
+24   =    310 Inge+Gregor
 
-25   =    330 Salon Liotta
+25   =    310 Memduh Aktas
 
-26  =     320 Katy+Urs
+26  =     310 Roger Blatter 🎣 
 
-27  =     320 Salon Liotta
+27  =     310 Lilly+Raffaele
 
-28  =     320 Emma+Christian
+28  =     310 Emma+Christian
 
-29  =     320 Lilly+Raffaele 
+29  =     300 Zeljko Berger
 
-30  =     320 Memduh Aktas 
+30  =     300 Vonki
 
-31   =     320 Daniela+Davide
+31   =     300 Claudia+Markus Singer
 
-32   =    320 Urs+ Jeanette
+32   =    300 Miro Berger
 
-33   =    320 dä Coq
+33   =    300 Renato Petrillo
 
-34  =     310 Zeljko Berger
+34  =     310 Inge+Gregor
 
-35  =     310 Inge+Gregor
+35  =     310 Zeljko Berger
 
 36  =     310 Renato Petrillo
 
