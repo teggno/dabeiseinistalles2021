@@ -1,5 +1,5 @@
 ---
-title: Mi dispiace….
+title: Mi dispiace….😔
 draft: true
 date: 2024-06-30T14:07:02.566Z
 ---
