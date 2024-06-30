@@ -77,11 +77,11 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 35  =     290 Anton Teuffel
 
-36  =     300 Bea Colaci 😅
+36  =     310 Renato Petrillo
 
-37   =    300  Kuno Schwarzer ⛑️
+37   =    310 Vonki
 
-38  =     280 Severin Stucky
+38  =     310 Gina+Bruno
 
 39 =      300 Bea Colaci
 
