@@ -63,9 +63,9 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 28  =     310 Emma+Christian
 
-29  =     300 Zeljko Berger
+29  =     320 Lilly+Raffaele 
 
-30  =     300 Vonki
+30  =     320 Memduh Aktas 
 
 31   =     320 Daniela+Davide
 
