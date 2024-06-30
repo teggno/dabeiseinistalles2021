@@ -2,116 +2,115 @@
 title: "RANGLISTE "
 draft: false
 date: 2024-06-30T03:33:00.655Z
-image: img/img_0578.jpeg
+image: img/img_0584.jpeg
 ---
-\
-Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexistent! Ein Trauerspiel! Noch schlimmer als erwartet. Mein Einbürgerungsgesuch ist bereits unterwegs. Wollt ihr mich überhaupt noch 🙏  Was isch dänn do unä los! Abär nöd scho widär diä 👯‍♀️ beidä.  Das wird ja langsam unheimlich 😶
+Hab den Briten-Triumph schon verbucht. Vor luutär Soccer ⚽️  isch SIE miär no dävogloffä. (Jukebox) Diä 🏴󠁧󠁢󠁥󠁮󠁧󠁿 wärdä doch nöd no verlüürä Stephi+Cristiano 😢 dänn isch abär alläs tschpot…..
 
 \
-01  = 350 ROSA+MARLEN 🥇
+01  = 380 ROSA+MARLEN 🥇
 
-02 =  340 René Benz🥈      
+02 =  370 René Benz🥈      
 
-03 =  330 Pina+Michele La Macchia 🥉
+03 =  360 Pina+Michele La Macchia 🥉
 
-04 =  330 Cosimo Cataldo 🐆
+04 =  360 Cosimo Cataldo 🐆
 
-05 =  330 Martha+Sergio Giménez
+05 =  350 Renato Meier
 
-06 =  320 Liddy+Thomas Schwemer ☄️
+06 =  350 Liddy+Thomas Schwemer ☄️
 
-07 =   320 dä Dog 
+07 =   350 dä Dog 
 
-08 =   320 Tina+Roland
+08 =   350 Tina+Roland
 
-09  =  320 Barbara+Urs Schläpfer
+09  =  350 Barbara+Urs Schläpfer
 
-10  =   320  Kurt Meier
+10  =   350 Kurt Meier
 
-11  =    320 Nunzio Padula 🛩️
+11  =    340 Gülay Turcan
 
-12  =    320 Renato Meier
+12  =    330 Martha+Sergio Giménez
 
-13  =    310 Inge+Gregor
+13  =    330 Koni Hornstein 
 
-14  =    310 Gülay Turcan 🦋
+14  =    330 Verena+Bruno Wacker
 
-15  =    300 Gianfranco Caporusso
+15  =    330 Gianfranco Caporusso
 
-16  =    300 dä Sunne☀️schi+dä Chaschtä 🌚
+16  =    330 dä Sunne☀️schi+dä Chaschtä 🌚
 
-17  =    300 Franco Monferini 🛩️
+17  =    330 Franco Monferini 🛩️
 
-18   =   300 Andy+Andi Hermann
+18   =   330 Andy+Andi Hermann
 
-19   =   300 Made+Donato Carrieri 
+19   =   330 Made+Donato Carrieri 
 
-20   =   300 Verena+Bruno Wacker
+20   =   320 Nunzio Padula
 
-21    =   300 Koni Hornstein
+21    =   320 Mobby
 
-22   =   290 Salon Liotta
+22   =    320 Salon Liotta
 
-23   =   290 Daniela+Paolo Padula 🛩️
+23   =    320 Katy+Urs
 
-24   =   290 Katy+Urs Näf
+24   =    310 Inge+Gregor
 
-25   =   290 Mobby
+25   =    310 Memduh Aktas
 
-26  =    280 Roger Blatter 🎣 
+26  =     310 Roger Blatter 🎣 
 
-27  =    280 Lilly+Raffaele
+27  =     310 Lilly+Raffaele
 
-28  =    280 Severin Stucky
+28  =     310 Emma+Christian
 
-29  =    280 Emma+Christian 
+29  =     300 Zeljko Berger
 
-30  =    280 Memduh Aktas
+30  =     300 Vonki
 
-31   =    270 Claudia+Markus Singer
+31   =     300 Claudia+Markus Singer
 
-32   =   270 Miro Berger
+32   =    300 Miro Berger
 
-33   =   270 Claudia+Peppe Panucci 🛩️
+33   =    300 Renato Petrillo
 
-34  =    270 Renato Petrillo
+34  =     290 Daniela+Paolo
 
-35  =    270 Zeljko Berger
+35  =     290 Anton Teuffel
 
-36  =    270 Vonki
+36  =     290 Bea Colaci
 
-37   =   260 Kuno Schwarzer ⛑️
+37   =    290 Kuno Schwarzer ⛑️
 
-38  =   260 Bea Colaci 🛟
+38  =     280 Severin Stucky
 
-39 =    260 Anton Teuffel
+39 =      280 dä Coq
 
-40 =    250 Daniela+Davide Brocca 
+40 =     280 Daniela+Davide Brocca 
 
-41  =    250 Nico Colaci 
+41  =     280 Jeanette+Urs
 
-42  =    250 Jeanette+Urs Affentranger 
+42  =    270  Claudia+Peppe
 
-43  =   250 dä Coq
+43  =   270 Gina+Bruno
 
-44 =    250 Leni+Luciano Schüepp
+44 =    260 Baggerstube
 
-45  =   240 Gina+Bruno 🦅
+45  =   250 Leni+Luciano
 
-46  =   240 Eva-Maria Heitz 🦅
+46  =   250 Nico Colaci
 
-47  =   230 Margot+Leo Hensch ⛑️
+47  =   250 Zac 
 
-48  =   230 Baggerstube
+48  =   250 Janis
 
-49  =   220 Zac 🚑 🆘 
+49  =   250 Katja+Tommy
 
-50  =   220 Janis Hermann
+50  =   240 Eva-Maria 
 
-51   =   220 Tommy+Katja
+51   =   230 Die Freigels
 
-52  =   200 Die Freigels
+52  =   230 Margot+Leo
 
-53  =   190 Stephi+Cristiano 🏮
+53  =   220  Stephi+Cristiano 🏮
 
 Ein Wort noch zur Rangliste! Ihr findet sie immer hier! Leider ist es mir nicht möglich, sie jeden Abend pünktlich zu aktualisieren. Ich wäre schlichtweg überfordert, weil ich alles von Hand eingeben muss. Daneben sollte ich auch noch feiern, trauern, Musik auflegen, kochen, waschen und bügeln 😎 Es kann also passieren, dass sie erst am Morgen danach erscheint. Sollte sich mal ein Fehler einschleichen, und das ist durchaus möglich, dann meldet euch ungeniert.
