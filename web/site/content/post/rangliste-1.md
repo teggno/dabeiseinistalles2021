@@ -37,9 +37,9 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 15  =    350 Gülay Turcan
 
-16  =    340 dä Sunne☀️schi+dä Chaschtä 🌚
+16  =    350 Roger Blatter
 
-17  =    340 Franco Monferini  
+17  =    340 dä Sunneschi+ dä Chaschtä
 
 18   =   340  Andy+Andi Hermann
 
