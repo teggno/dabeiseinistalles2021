@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Procol Harum ▶️  💋
-  url: https://www.youtube.com/watch?v=Mb3iPP-tHdA&pp=ygUjcHJvY29sIGhhcnVtIGEgd2hpdGVyIHNoYWRlIG9mIHBhbGU%3D
+  title: RAFFI‘S JUKEBOX 🎸  Neil Young  ▶️  Harvest Moon
+  url: https://www.youtube.com/watch?v=n2MtEsrcTTs&pp=ygUMaGFydmVzdCBtb29u
   image: img/jukebox.jpg
   description: ""
 type: rangliste
