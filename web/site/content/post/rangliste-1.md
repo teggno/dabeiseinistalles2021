@@ -79,7 +79,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 36  =     300 Bea Colaci 😅
 
-37   =    290 Kuno Schwarzer ⛑️
+37   =    300  Kuno Schwarzer ⛑️
 
 38  =     280 Severin Stucky
 
