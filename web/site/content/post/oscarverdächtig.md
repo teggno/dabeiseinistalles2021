@@ -3,4 +3,10 @@ title: Oscarverdächtig
 draft: true
 date: 2024-06-30T03:42:50.279Z
 ---
-\-
+Man weiss in Hollywood nie! Da nominieren sie die komischsten Vögel! Die zwei, die letzte Nacht den Sprung unter die Top 8 geschafft haben, gehören zum Kreis der Favoriten! Urs, warum fangsch jetz du á lachä, wenn ich die Schweiz erwähne?
+
+Seit Wochen kämpfe ich hier um meinen guten Ruf! In Italien galt ich bis gestern als Scharlatan und nördlich von Chiasso wurde ich müde belächelt. Meine langwierigen Recherchen, die mich bis in die tiefen Abgründe „freudscher Traumtheorien“ führte, bestätigten mir jedoch, dass es sich hier um unleugbare Realitäten handelt.
+
+Deutschland ist die eine! Die Trendbestätigung, auch dank Göttin Fortuna ist geglückt. Der bemitleidenswerte Andersen wird dieses Spiel nie mehr aus den Gedanken verlieren. Nicht dass mir die Nagelsmänner den Kopf verdreht hätten. Konstant und solide mit gelegentlichen Ausflügen in die Virtuosität! Die Protagonisten sind immer dieselben. Nur der Dirigent scheint zu ermüden.
+
+Die ganz grosse Musik spielte gestern in Berlin. Fast keine Misstöne und das während 90 Minuten. Dass auf der anderen Seite ein Sparringpartner stand, erstaunt zwar bei dessen Namen, aber nicht bei seiner Qualität. Weiter darauf einzugehen wäre Verschwendung von Raum und Zeit.
