@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  Neil Young  ▶️  Harvest Moon
-  url: https://www.youtube.com/watch?v=n2MtEsrcTTs&pp=ygUXbmVpbCB5b3VuZyBoYXJ2ZXN0IG1vb24%3D
+  title: "RAFFI‘S JUKEBOX 🎸  Pink Floyd  ▶️  Wish you were here "
+  url: https://www.youtube.com/watch?v=84Tq-eAJIk4&pp=ygUdd2lzaCB5b3Ugd2VyZSBoZXJlIHBpbmsgZmxveWQ%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
