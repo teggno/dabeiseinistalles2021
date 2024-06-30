@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  Aerosmith  ▶️    Crazy
-  url: https://www.youtube.com/watch?v=rJpXr3w2bew&pp=ygUQIGFlcm9zbWl0aCBjcmF6eQ%3D%3D
+  title: RAFFI‘S JUKEBOX 🎸  Neil Young  ▶️  Harvest Moon
+  url: https://www.youtube.com/watch?v=n2MtEsrcTTs&pp=ygUXbmVpbCB5b3VuZyBoYXJ2ZXN0IG1vb24%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
