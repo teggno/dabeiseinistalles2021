@@ -83,11 +83,11 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 38  =     280 Severin Stucky
 
-39 =      280 dä Coq
+39 =      300 Bea Colaci
 
-40 =     280 Daniela+Davide Brocca 
+40 =     300 Daniela+Davide Brocca 
 
-41  =     300 
+41  =     300 Kuno Schwarzer
 
 42  =    290  Leni+Luc
 
