@@ -71,11 +71,11 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 32   =    300 Miro Berger
 
-33   =    300 Renato Petrillo
+33   =    320 dä Coq
 
-34  =     310 Inge+Gregor
+34  =     310 Zeljko Berger
 
-35  =     310 Zeljko Berger
+35  =     310 Inge+Gregor
 
 36  =     310 Renato Petrillo
 
