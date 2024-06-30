@@ -55,7 +55,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 24   =    310 Inge+Gregor
 
-25   =    310 Memduh Aktas
+25   =    330 Koni Hornstein
 
 26  =     320 Katy+Urs
 
