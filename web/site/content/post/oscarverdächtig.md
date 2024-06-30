@@ -10,4 +10,6 @@ Seit Wochen kämpfe ich hier um meinen guten Ruf! In Italien galt ich bis gester
 
 Deutschland ist die eine! Die Trendbestätigung ist auch dank Göttin Fortuna geglückt. Der bemitleidenswerte Andersen wird dieses Spiel nie mehr aus den Gedanken verlieren. Nicht dass mir die Nagelsmänner den Kopf verdreht hätten. Konstant und solide mit gelegentlichen Ausflügen in die Virtuosität! Die Protagonisten sind immer dieselben. Nur der Dirigent scheint leicht  zu ermüden.
 
-Die ganz grosse Musik spielte gestern in Berlin. Fast keine Misstöne und das während 90 Minuten. Dass auf der anderen Seite ein Sparringpartner stand, erstaunt zwar bei dessen Namen, aber nicht bei seiner Qualität. Weiter darauf einzugehen wäre Verschwendung von Raum und Zeit. Spalletti und ein paar unserer Traumtänzer, haben die Situation komplett falsch eingeschätzt: Der Philosoph unter den Trainern hatte bis auf „Gigone“  nur Handlanger zur Verfügung.
+Die ganz grosse Musik spielte gestern in Berlin. Fast keine Misstöne und das während 90 Minuten. Dass auf der anderen Seite ein Sparringpartner stand, erstaunt zwar bei dessen Namen, aber nicht bei seiner Qualität. Weiter darauf einzugehen wäre Verschwendung von Raum und Zeit. Spalletti und ein paar unserer Traumtänzer haben die Situation komplett falsch eingeschätzt: Der Philosoph unter den Trainern hatte bis auf „Gigone“  nur Handlanger zur Verfügung.
+
+Urs‘ grosses Idol Contini und sein Kompagnon Yakin sind im Besitze einer Sammlung verschiedener Virtuosen. Akanji
