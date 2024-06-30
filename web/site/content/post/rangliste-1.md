@@ -93,13 +93,13 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 43  =   270 Gina+Bruno
 
-44 =    260 Baggerstube
+44 =    270 Eva-Maria
 
 45  =   250 Leni+Luciano
 
-46  =   250 Nico Colaci
+46  =   270 Nico Colaci
 
-47  =   270 
+47  =   270 Baggerstube
 
 48  =   260  Janis
 
