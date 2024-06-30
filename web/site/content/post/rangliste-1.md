@@ -87,9 +87,9 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 40 =     280 Daniela+Davide Brocca 
 
-41  =     280 Jeanette+Urs
+41  =     300 
 
-42  =     290  Leni+Luc
+42  =    290  Leni+Luc
 
 43  =    290 Nico Colaci
 
