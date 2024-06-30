@@ -2,9 +2,9 @@
 title: "RANGLISTE "
 draft: false
 date: 2024-06-30T15:25:30.840Z
-image: img/img_0584.jpeg
+image: img/img_0585.jpeg
 ---
-Vor luutär Soccer ⚽️  isch SIE miär no dävogloffä. (Jukebox) Jetz muäni si go suächä. Daher ist der Briten-Triumph schon gebucht! wenns söttäd verlüürä dänn isch für diä do do🏮 alläs tschpot…..
+Färtig luschtig! Dieses England  ist noch schlimmer als Italien. Die konnten nicht und die wollen scheinbar nicht. Wo ist Kane und wo ist Bellingham? Im Raume Tägerwilen beginnt man langsam zu träumen. Sind WIR 🇨🇭 schon im Halbfinale?
 
 \
 01  = 380 ROSA+MARLEN 🥇
