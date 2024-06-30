@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  LED Zeppelin ▶️ ………Whow
-  url: https://www.youtube.com/watch?v=HQmmM_qwG4k&pp=ygUebGVkIHplcHBlbGluIHdob2xlIGxvdHRhIGxvdmUg
+  title: RAFFI‘S JUKEBOX 🎸  Deep Purple ▶️ When á blind man…
+  url: https://www.youtube.com/watch?v=Ie7v3bYs-Ec&pp=ygUid2hlbiBhIGJsaW5kIG1hbiBjcmllcyBkZWVwIHB1cnBsZQ%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
