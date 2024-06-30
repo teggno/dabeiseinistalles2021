@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX 🎸  Rolling Stones  ▶️  Anybody seen my baby "
+  title: "RAFFI‘S JUKEBOX 🎸 The Beatles  ▶️  I‘m a Looser "
   url: https://www.youtube.com/watch?v=BinwuzZVjnE&pp=ygUjcm9sbGluZyBzdG9uZXMgYW55Ym9keSBzZWVuIG15IGJhYnk%3D
   image: img/jukebox.jpg
   description: ""
