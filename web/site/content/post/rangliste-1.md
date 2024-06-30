@@ -7,13 +7,13 @@ image: img/img_0585.jpeg
 Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlechter als Italien. Fodden ist der Schlimmste. Die halbe Kompanie atmet durch! Reicht das doch noch. Ja es reicht…..Kaaaaane……Was für ein Duuusel!
 
 \
-01  = 390 ROSA+MARLEN 🥇
+01  = 420 ROSA+MARLEN 🥇
 
-02 =  380 René Benz🥈      
+02 =  410 René Benz🥈      
 
-03 =  370 Pina+Michele La Macchia 🥉
+03 =  400  Pina+Michele La Macchia 🥉
 
-04 =  370 Cosimo Cataldo 🐆
+04 =  390 Cosimo Cataldo 🐆
 
 05 =  360 Renato Meier
 
