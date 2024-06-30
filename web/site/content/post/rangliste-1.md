@@ -67,9 +67,9 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 30  =     300 Vonki
 
-31   =     300 Claudia+Markus Singer
+31   =     320 Daniela+Davide
 
-32   =    300 Miro Berger
+32   =    320 Urs+ Jeanette
 
 33   =    320 dä Coq
 
