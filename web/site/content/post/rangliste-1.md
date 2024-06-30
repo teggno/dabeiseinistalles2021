@@ -99,13 +99,13 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 46  =   250 Nico Colaci
 
-47  =   250 Zac 🆘
+47  =   270 
 
-48  =   250 Janis
+48  =   260  Janis
 
-49  =   250 Katja+Tommy
+49  =   260 Katja+Tommy
 
-50  =   240 Eva-Maria 
+50  =   260 Zac
 
 51   =   240 Die Freigels
 
