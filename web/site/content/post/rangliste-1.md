@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-30T15:25:30.840Z
 image: img/img_0585.jpeg
 ---
-Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlechter als Italien. Fodden ist der Schlimmste. Die halbe Kompanie atmet durch! Reicht das doch noch. Ja es reicht…..Kaaaaane……
+Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlechter als Italien. Fodden ist der Schlimmste. Die halbe Kompanie atmet durch! Reicht das doch noch. Ja es reicht…..Kaaaaane……Was für ein Duuusel!
 
 \
 01  = 390 ROSA+MARLEN 🥇
@@ -31,19 +31,19 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 12  =    340 Martha+Sergio Giménez
 
-13  =    330 Koni Hornstein 
+13  =    340 Koni Hornstein 
 
-14  =    330 Verena+Bruno Wacker
+14  =    340 Verena+Bruno Wacker
 
-15  =    330 Gianfranco Caporusso
+15  =    340 Gianfranco Caporusso
 
-16  =    330 dä Sunne☀️schi+dä Chaschtä 🌚
+16  =    340 dä Sunne☀️schi+dä Chaschtä 🌚
 
-17  =    330 Franco Monferini  🚨
+17  =    340 Franco Monferini  🚨
 
-18   =   330 Andy+Andi Hermann
+18   =   340  Andy+Andi Hermann
 
-19   =   330 Made+Donato Carrieri 
+19   =   340 Made+Donato Carrieri 
 
 20   =   320 Nunzio Padula 🛩️
 
