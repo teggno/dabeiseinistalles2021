@@ -9,7 +9,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 \
 01  =  420 ROSA+MARLEN 🥇
 
-02 =  380 René Benz🥈      
+02 =  410 René Benz🥈      
 
 03 =  370 Pina+Michele La Macchia 🥉
 
