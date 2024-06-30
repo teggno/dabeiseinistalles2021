@@ -1,7 +1,7 @@
 ---
-title: B
+title: Blueschtfahrt
 draft: true
 date: 2024-06-29T15:32:40.871Z
-image: img/img_0578.jpeg
+image: img/b50bfce6-7689-46f5-9680-d148a5f2fa5e.jpeg
 ---
-STOP ⭕️ Einbürgerungsgesuch zurückgezogen❗️…..I blib diär 🇮🇹 füer immär troi 🥰
+Auf vielfachen Wunsch aus dem Publikum und zur Überbrückung dieses unendlichen Vakuums ⚽️ ein Song aus der Ecke „ä Blueschtfahrt ufs Land…(Jukebox)
