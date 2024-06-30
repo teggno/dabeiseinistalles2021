@@ -39,7 +39,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 16  =    340 dä Sunne☀️schi+dä Chaschtä 🌚
 
-17  =    340 Franco Monferini  🚨
+17  =    340 Franco Monferini  
 
 18   =   340  Andy+Andi Hermann
 
