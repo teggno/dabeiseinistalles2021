@@ -80,7 +80,7 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 36  =    270 Vonki
 
-37   =   260 Kuno Schwarzer
+37   =   260 Kuno Schwarzer ⛑️
 
 38  =   260 Bea Colaci 🛟
 
@@ -100,7 +100,7 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 46  =   240 Eva-Maria Heitz
 
-47  =   230 Margot+Leo Hensch
+47  =   230 Margot+Leo Hensch ⛑️
 
 48  =   230 Baggerstube
 
