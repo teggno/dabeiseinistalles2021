@@ -43,19 +43,19 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 18   =   340  Andy+Andi Hermann
 
-19   =   330 Koni Hornstein 
+19   =   340 Miro Berger
 
-20   =   320 Nunzio Padula 🛩️
+20   =   340 Anton Teuffel
 
-21    =   330 Koni Hornstein 
+21    =   340 Bruno+Verena 
 
-22   =    320 Salon Liotta
+22   =    340 Guanfranco Caporusso
 
-23   =    320 Katy+Urs
+23   =    340 Made+Donato
 
-24   =    310 Inge+Gregor
+24   =    330 Koni Hornstein
 
-25   =    330 Koni Hornstein
+25   =    330 Salon Liotta
 
 26  =     320 Katy+Urs
 
