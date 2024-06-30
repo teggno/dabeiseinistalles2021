@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-30T15:25:30.840Z
 image: img/img_0584.jpeg
 ---
-Habe  den Briten-Triumph schon verbucht. Vor luutär Soccer ⚽️  isch SIE miär no dävogloffä. (Jukebox)  wenn diä do do 🏴󠁧󠁢󠁥󠁮󠁧󠁿 söttäd verlüürä dänn isch für diä do do🏮 alläs tschpot…..
+Vor luutär Soccer ⚽️  isch SIE miär no dävogloffä. (Jukebox) Jetz muäni si go suächä. Daher ist der Briten-Triumph schon gebucht! wenns söttäd verlüürä dänn isch für diä do do🏮 alläs tschpot…..
 
 \
 01  = 380 ROSA+MARLEN 🥇
