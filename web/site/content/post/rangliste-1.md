@@ -13,7 +13,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 03 =  400 Pina+Michele La Macchia 🥉
 
-04 =  370 Cosimo Cataldo 🐆
+04 =  390 Cosimo Cataldo 🐆
 
 05 =  360 Renato Meier
 
