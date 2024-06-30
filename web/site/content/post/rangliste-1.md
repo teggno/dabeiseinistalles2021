@@ -11,7 +11,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 02 =  380 René Benz🥈      
 
-03 =  360 Pina+Michele La Macchia 🥉
+03 =  370 Pina+Michele La Macchia 🥉
 
 04 =  360 Cosimo Cataldo 🐆
 
