@@ -35,7 +35,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 14  =    360 Nunzio Padula
 
-15  =    340 Gianfranco Caporusso
+15  =    350 Gülay Turcan
 
 16  =    340 dä Sunne☀️schi+dä Chaschtä 🌚
 
