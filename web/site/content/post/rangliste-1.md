@@ -77,7 +77,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 35  =     290 Anton Teuffel
 
-36  =     290 Bea Colaci 😅
+36  =     300 Bea Colaci 😅
 
 37   =    290 Kuno Schwarzer ⛑️
 
