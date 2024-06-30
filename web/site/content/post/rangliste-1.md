@@ -73,9 +73,9 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 33   =    300 Renato Petrillo
 
-34  =     290 Daniela+Paolo 🛩️
+34  =     310
 
-35  =     290 Anton Teuffel
+35  =     310 Zeljko Berger
 
 36  =     310 Renato Petrillo
 
