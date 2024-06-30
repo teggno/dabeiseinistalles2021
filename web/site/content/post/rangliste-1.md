@@ -21,9 +21,9 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 07 =   390 dä Dog 
 
-08 =   360 Tina+Roland
+08 =   390 Tina+Roland
 
-09  =  360 Barbara+Urs Schläpfer
+09  =  390 Barbara+Urs Schläpfer
 
 10  =   360  Kurt Meier
 
