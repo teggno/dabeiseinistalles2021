@@ -5,7 +5,7 @@ date: 2024-06-30T03:33:00.655Z
 image: img/img_0578.jpeg
 ---
 \
-Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexistent! Ein Trauerspiel! Noch schlimmer als erwartet. Mein Einbürgerungsgesuch ist bereits unterwegs. Wollt ihr mich überhaupt noch 🙏  Glückwünsche von überall! Die aus Schweden 🇸🇪 treffen den Nagel auf den Kopf. (Jukebox) Abär nöd scho widär diä 👯‍♀️ beidä.  Das wird ja langsam unheimlich 
+Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexistent! Ein Trauerspiel! Noch schlimmer als erwartet. Mein Einbürgerungsgesuch ist bereits unterwegs. Wollt ihr mich überhaupt noch 🙏  Glückwünsche von überall! Die aus Schweden 🇸🇪 treffen den Nagel auf den Kopf. (Jukebox) Abär nöd scho widär diä 👯‍♀️ beidä.  Das wird ja langsam unheimlich 😶
 
 \
 01  = 350 ROSA+MARLEN 🥇
