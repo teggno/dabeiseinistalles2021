@@ -58,7 +58,7 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 25   =   290 Mobby
 
-26  =    280 Roger Blatter
+26  =    280 Roger Blatter 🎣 
 
 27  =    280 Lilly+Raffaele
 
@@ -98,7 +98,7 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 45  =   240 Gina+Bruno 🦅
 
-46  =   240 Eva-Maria Heitz
+46  =   240 Eva-Maria Heitz 🦅
 
 47  =   230 Margot+Leo Hensch ⛑️
 
