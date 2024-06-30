@@ -72,7 +72,7 @@ Phänomenal! Grosses Lob an die Schweiz. Ein Klassenunterschied!  Italien inexis
 
 32   =   270 Miro Berger
 
-33   =   270 Claudia+Peppe Panucci
+33   =   270 Claudia+Peppe Panucci 🛩️
 
 34  =    270 Renato Petrillo
 
