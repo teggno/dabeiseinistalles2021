@@ -29,7 +29,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 11  =    370 Franco Monferini
 
-12  =    340 Martha+Sergio Giménez
+12  =    360 Martha+Sergio
 
 13  =    340 Made+Donato
 
