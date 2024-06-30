@@ -2,6 +2,7 @@
 title: Oscarverdächtig
 draft: true
 date: 2024-06-30T03:42:50.279Z
+image: img/img_0580.jpeg
 ---
 Man weiss in Hollywood nie! Da nominieren sie die komischsten Vögel! Die zwei, die letzte Nacht den Sprung unter die Top 8 geschafft haben, gehören zum Kreis der Favoriten! Urs, warum fangsch jetz du á lachä, wenn ich die Schweiz erwähne?
 
