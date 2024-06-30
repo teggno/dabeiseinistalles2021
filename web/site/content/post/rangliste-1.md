@@ -27,7 +27,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 10  =   370 Martha+Sergio
 
-11  =    370 Franco Monferini
+11  =    360
 
 12  =    360 Martha+Sergio
 
