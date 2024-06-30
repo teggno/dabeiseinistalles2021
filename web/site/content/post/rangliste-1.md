@@ -1,11 +1,11 @@
 ---
-title: Aktualisierte Rangliste folgt morgen
+title: "RANGLISTE "
 draft: false
 date: 2024-06-29T18:20:51.612Z
 image: img/img_0578.jpeg
 ---
 \
-Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent!  Noch schlimmer als erwartet. Mein Einbürgerungsgesuch ist bereits unterwegs. Wollt ihr mich überhaupt noch 🙏  Glückwünsche von überall! Die aus Schweden 🇸🇪 sagen alles in einem Satz. (Jukebox)
+Phänomenal! Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent!  Noch schlimmer als erwartet. Mein Einbürgerungsgesuch ist bereits unterwegs. Wollt ihr mich überhaupt noch 🙏  Glückwünsche von überall! Die aus Schweden 🇸🇪 sagen alles in einem Satz. (Jukebox)
 
 \
 01  = 350 ROSA+MARLEN 🥇
@@ -102,9 +102,9 @@ Phänomenal Grosses Lob an die Schweiz. Eine Demonstration! Italien inexistent! 
 
 47  =   230 Margot+Leo Hensch
 
-48  =   220 Zac
+48  =   230 Baggerstube
 
-49  =   220 Baggerstube 
+49  =   220 Zac
 
 50  =   220 Janis Hermann
 
