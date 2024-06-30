@@ -31,7 +31,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 12  =    340 Martha+Sergio Giménez
 
-13  =    340 Koni Hornstein 
+13  =    340 Made+Donato
 
 14  =    340 Verena+Bruno Wacker
 
@@ -43,7 +43,7 @@ Bääällinghäääm rettet „diä Pfiffä us“ England. Die sind noch schlech
 
 18   =   340  Andy+Andi Hermann
 
-19   =   340 Made+Donato Carrieri 
+19   =   330 Koni Hornstein 
 
 20   =   320 Nunzio Padula 🛩️
 
