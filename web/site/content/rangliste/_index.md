@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  Janis Joplin  ▶️  Me and…..
-  url: https://www.youtube.com/watch?v=5Cg-j0X09Ag&pp=ygUMamFuaXMgam9wbGlu
+  title: RAFFI‘S JUKEBOX 🎸  LED Zeppelin ▶️ ………Whow
+  url: https://www.youtube.com/watch?v=HQmmM_qwG4k&pp=ygUebGVkIHplcHBlbGluIHdob2xlIGxvdHRhIGxvdmUg
   image: img/jukebox.jpg
   description: ""
 type: rangliste
