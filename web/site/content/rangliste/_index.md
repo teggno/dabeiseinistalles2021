@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Neil Young  ▶️  Harvest Moon
+  title: RAFFI‘S JUKEBOX 🎸 David Bowie  ▶️  Ziggy Stardust
   url: https://www.youtube.com/watch?v=n2MtEsrcTTs&pp=ygUMaGFydmVzdCBtb29u
   image: img/jukebox.jpg
   description: ""
