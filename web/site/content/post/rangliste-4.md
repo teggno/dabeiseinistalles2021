@@ -43,7 +43,7 @@ date: 2024-06-30T05:33:43.788Z
 
 20   =   340 Anton Teuffel
 
-21    =   340 Bruno+Verena 
+21    =   380 Lilly+Raffaele
 
 22   =    370 De Sunneschi+de Chaschtä
 
