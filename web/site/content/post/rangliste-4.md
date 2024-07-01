@@ -1,7 +1,7 @@
 ---
 title: RANGLISTE
 draft: false
-date: 2024-06-30T05:33:43.788Z
+date: 2024-07-01T22:03:20.335Z
 image: img/img_0585.jpeg
 ---
 
