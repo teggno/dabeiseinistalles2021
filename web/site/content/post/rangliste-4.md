@@ -49,7 +49,7 @@ date: 2024-06-30T05:33:43.788Z
 
 23   =    340 Made+Donato
 
-24   =    340 Claudia+Markus
+24   =    370 Regula+Franco
 
 25   =    370 Miro Berger 
 
