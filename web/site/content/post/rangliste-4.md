@@ -29,13 +29,13 @@ Ronaldo trägt sein
 
 12  =    360 Renato Meier
 
-13  =    400 Mobby
+13  =    400 Andy+Andi
 
-14  =    400
+14  =    400 Verena+Bruno
 
-15  =    400
+15  =    400 Gianfranco Caporusso
 
-16  =    400 Roger Blatter
+16  =    400 Claudia+Markus Singer
 
 17  =    390 Liddy+Thomas Schwemer
 
