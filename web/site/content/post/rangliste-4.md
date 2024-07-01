@@ -4,7 +4,9 @@ draft: false
 date: 2024-07-01T22:03:20.335Z
 image: img/img_0585.jpeg
 ---
+Aus und vorbei. Nach Kroatien, Italien und Dänemark streicht auch Belgien die Segel. Da waren’s nur noch 9! Lukaku im Gewand von  Fantomas und de Bruyne als Gelegenheitsarbeiter. Mitleid haben muss man mit Vertonghen, der sein letztes Spiel macht und ins eigene Tor trifft. Das Leben ist ungerecht. Es ist das Turnier der Eigentore. Frankreich ist weiter ohne zu brillieren. 
 
+0:0! Mit Jota und Felix auf der Bank wären Alternativen da. Wechselt er sich aus? Für 1.- Wetteinsatz gäbe es eine Million 🥳 Ich wusste es. Ein Penalty mit Ansage! Dai OblakJaaaaaaaaaaaaa. Es gibt noch Gerechtigkeit. Bravo Oblak! Und jetzt kommt er rein Ilicic wird die Partie entscheiden. Ein sportliches Drama bahnt sich an. Wenn die Dramaturgie stimmt. dann…..Nein sie stimmt nicht. Costa ist ein Teufelskerl. Ronaldo übernimmt als erster die Verantwortung. Das muss man ihm lassen. Portugal im Viertelfinale. Buonanotte. LED Zeppelin ist jetzt obligatorisch (Jukebox)
 
 01 =  450 ROSA+MARLEN 🥇
 
