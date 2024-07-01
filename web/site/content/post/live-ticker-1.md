@@ -1,6 +1,6 @@
 ---
 title: Live-Ticker noch ohne….
-draft: false
+draft: true
 date: 2024-07-01T18:05:08.682Z
 image: img/img_0588.png
 ---
@@ -8,4 +8,4 @@ Aus und vorbei. Nach Kroatien, Italien und Dänemark streicht auch Belgien die S
 
 Lässt  Ronaldos „Sklaventruppe“  auch den Slowenen den Vortritt? Man wäre geneigt zu sagen: Die Strafe folgt auf den Fuss! Er hadert mit Gott. Verwirft die Hände. Ich habe ihn sooooo auf dem Kicker. Seit eh und je! Er hat meine „Vecchia Signora“ vor Gericht gezogen, nachdem er sie sprichwörtlich ausgesaugt hatte. Wieder ein Freistoss in dein Himmel. Normalerweise ist es die Mauer. Er schiesst sie trotzdem! Alle anderen sind Statisten. Sie getrauen sich nicht aufzumucken. Der Elfer liegt in der Luft. Leao wird ihn rausholen.Ich sehe ihn kommen. Nur das nicht 🙈
 
-0:0! Mit Jota und Felix auf der Bank wären Alternativen da. Wechselt er sich aus? Für 1.- Wetteinsatz gäbe es eine Million 🥳 Ich wusste es. Jaaaaaaaaaaaaa. Es gibt noch Gerechtigkeit. Ein unerzogener Bengel. Bravo Oblak!
+0:0! Mit Jota und Felix auf der Bank wären Alternativen da. Wechselt er sich aus? Für 1.- Wetteinsatz gäbe es eine Million 🥳 Ich wusste es. Jaaaaaaaaaaaaa. Es gibt noch Gerechtigkeit. Ein unerzogener Bengel. Bravo Oblak! Und jetzt kommt er rein Ilicic wird die Partie entscheiden.
