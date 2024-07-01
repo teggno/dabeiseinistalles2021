@@ -2,7 +2,7 @@
 title: Live Ticker
 draft: false
 date: 2024-07-01T14:22:35.399Z
-image: img/img_0588.png
+image: img/img_0589.jpeg
 ---
 Ist heute Stucky-Tag? Ich würde es ihm gönnen. Er hätte es verdient, nach all den Anläufen, die ihn zwar immer wieder Morgenluft schnuppern lassen, ihn im Endeffekt aber dorthin verdonnern, wo er am liebsten zuhause ist, im Untertagebau. Wenn (⚠️)  Lukaku heute statt Schuhgrösse 49 das enger anliegende Paar anzieht, könnten die Marie Le Pen-Sympathiesanten ein Wunder erleben. Hiesse, dass ein paar von uns ihren Sommer-Urlaub vorverlegen könnten.
 
