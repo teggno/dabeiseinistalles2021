@@ -27,7 +27,7 @@ Ronaldo trägt sein
 
 11  =    360 Liddy+Thomas
 
-12  =    360 Renato Meier
+12  =    410 Gülay Turcan
 
 13  =    400 Andy+Andi
 
