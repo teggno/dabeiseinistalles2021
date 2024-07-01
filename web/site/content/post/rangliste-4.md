@@ -27,13 +27,13 @@ date: 2024-06-30T05:33:43.788Z
 
 12  =    360 Renato Meier
 
-13  =    360 Mobby
+13  =    400 Mobby
 
-14  =    360 Nunzio Padula
+14  =    400
 
-15  =    350 Gülay Turcan
+15  =    400
 
-16  =    350 Roger Blatter
+16  =    400 Roger Blatter
 
 17  =    390 Liddy+Thomas Schwemer
 
