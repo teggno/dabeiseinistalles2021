@@ -77,9 +77,9 @@ date: 2024-06-30T05:33:43.788Z
 
 37   =    310 Vonki
 
-38  =     310 Gina+Bruno
+38  =    340 Severin Stucky
 
-39 =      300 Bea Colaci
+39 =     340 Claudia+Peppe
 
 40 =    330 Daniela+Davide Brocca 
 
