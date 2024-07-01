@@ -4,7 +4,7 @@ draft: true
 date: 2024-06-28T04:44:47.153Z
 image: img/img_0574.jpeg
 ---
-„A dem Wuchänänd isch immär s‘Krüzlingär gsi!“ Das letzte in der Saison ging dann stets Anfang Juli über die Bühne; „s‘Münschtärlinger!“ Angefangen hatte es mit „äm Emmishofer“ am ersten Wochenende im Juni, dann gings uf „Tägerwilä“, das Beste weit und breit.  Und vor „äm Krüzlingär“ war noch das „vu dä Italica„ Einen Monat lang nur am ⚽️ norennä. Das waren kleine Weltmeisterschaften. Wieviele Vaterunser haben wir  am Samstagmorgen früh gebetet, dass „äs jo nöd chunnt go rägnä ☔️“ 
+Los ging’s jeweils Anfang Juni in Emmishofen! Damals in den späten 60ern waren Grümpelturniere noch etwas Besonderes. Kleine Weltmeisterschaften auf dem Lande. Die Teilnehmerzahlen waren enorm. s‘Tägerwilär, das beste weit und breit, zählte in den Glanzzeiten über 200 Mannschaften. Auch jenes von Kreuzlingen war weit über die Kantonsgrenze  hinaus, Wieviele Vaterunser haben wir  am Samstagmorgen früh gebetet, dass „äs jo nöd chunnt go rägnä ☔️“ 
 
 Es gab die Boom-Jahre wo am „Tägerwiler“ über 200 Mannschaften teilnahmen. Der Sieger der Kategorie Nichtfussballer durfte nach London. Das waren die Auf- und Abbruchzeiten und wenn s‘Schätzli oder s’ Müsli oder wie auch immer am Spielfeldrand stand, war man der glücklichste Mensch auf Erden.
 
