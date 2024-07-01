@@ -39,7 +39,7 @@ date: 2024-06-30T05:33:43.788Z
 
 18   =   340  Andy+Andi Hermann
 
-19   =   340 Miro Berger
+19   =   390 Nunzio Padula
 
 20   =   380 Roger Blatter
 
