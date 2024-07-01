@@ -23,7 +23,7 @@ Ronaldo trägt sein
 
 09  =  420 Regula+Franco 
 
-10  =   420 Martha+Sergio
+10  =   420 dä Dog
 
 11  =    420 Mobby
 
