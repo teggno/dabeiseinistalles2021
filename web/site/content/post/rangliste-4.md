@@ -47,7 +47,7 @@ date: 2024-06-30T05:33:43.788Z
 
 22   =    340 Guanfranco Caporusso
 
-23   =    340 Made+Donato
+23   =    370 Made+Donato
 
 24   =    370 Regula+Franco
 
