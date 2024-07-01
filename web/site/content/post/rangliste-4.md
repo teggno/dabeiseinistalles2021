@@ -83,9 +83,9 @@ date: 2024-06-30T05:33:43.788Z
 
 40 =     320 Daniela+Davide Brocca 
 
-41  =     300 Kuno Schwarzer
+41  =     330 Salon Liotta
 
-42  =    320 Bea Colaci
+42  =   330 Bea Colaci
 
 43  =   320  Nico Colaci
 
