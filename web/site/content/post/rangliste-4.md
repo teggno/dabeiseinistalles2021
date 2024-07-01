@@ -57,13 +57,13 @@ date: 2024-06-30T05:33:43.788Z
 
 27  =     320 Kary+Urs
 
-28  =     320 Emma+Christian
+28  =     350 Emma+Christian
 
-29  =     320 Lilly+Raffaele 
+29  =     350 Lilly+Raffaele 
 
-30  =     320 Memduh Aktas 
+30  =     350 Memduh Aktas 
 
-31   =     320 Daniela+Davide
+31   =     350  Daniela+Davide
 
 32   =    350  Urs+ Jeanette
 
