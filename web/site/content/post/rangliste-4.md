@@ -73,7 +73,7 @@ date: 2024-06-30T05:33:43.788Z
 
 35  =     310 Inge+Gregor
 
-36  =     310 Renato Petrillo
+36  =     Renato Petrillo
 
 37   =    310 Vonki
 
