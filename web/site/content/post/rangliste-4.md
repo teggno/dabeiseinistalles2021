@@ -81,7 +81,7 @@ date: 2024-06-30T05:33:43.788Z
 
 39 =      300 Bea Colaci
 
-40 =     300 Daniela+Davide Brocca 
+40 =     320 Daniela+Davide Brocca 
 
 41  =     300 Kuno Schwarzer
 
