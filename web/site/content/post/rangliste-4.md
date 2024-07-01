@@ -53,9 +53,9 @@ date: 2024-06-30T05:33:43.788Z
 
 25   =    330 Salon Liotta
 
-26  =     330 Koni Hornstein
+26  =     370 Anton Teuffel
 
-27  =     320 Kary+Urs
+27  =     360  Kary+Urs
 
 28  =     360 Kuno Schwarzer
 
