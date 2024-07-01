@@ -5,11 +5,11 @@ date: 2024-06-30T05:33:43.788Z
 ---
 Ronaldo trägt sein 
 
-01 = 420 ROSA+MARLEN 🥇
+01 =  450 ROSA+MARLEN 🥇
 
-02 =  410 René Benz🥈      
+02 =  440 René Benz🥈      
 
-03 =  400  Pina+Michele La Macchia 🥉
+03 =  400 Pina+Michele La Macchia 🥉
 
 04 =  400 Cosimo Cataldo 
 
@@ -17,11 +17,11 @@ Ronaldo trägt sein
 
 06 =  390 Tina+Roland
 
-07 =   390 dä Dog 
+07 =   420 Renato Meier
 
 08 =   420 Barbara+Urs Schläpfer
 
-09  =  420 Regula+Franco 
+09  =  420 Kurt Meier
 
 10  =   420 dä Dog
 
