@@ -35,9 +35,9 @@ date: 2024-06-30T05:33:43.788Z
 
 16  =    350 Roger Blatter
 
-17  =    340 dä Sunneschi+ dä Chaschtä
+17  =    390 Liddy+Thomas Schwemer
 
-18   =   340  Andy+Andi Hermann
+18   =   390 Koni Hornstein
 
 19   =   390 Nunzio Padula
 
