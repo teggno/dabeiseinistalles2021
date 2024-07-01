@@ -1,7 +1,7 @@
 ---
 title: RANGLISTE
 draft: false
-date: 2024-07-01T22:03:20.335Z
+date: 2024-07-01T22:32:23.428Z
 image: img/img_0585.jpeg
 ---
 Aus und vorbei. Nach Kroatien, Italien und Dänemark streicht auch Belgien die Segel. Da waren’s nur noch 9! Lukaku im Gewand von  Fantomas und de Bruyne als Gelegenheitsarbeiter. Mitleid haben muss man mit Vertonghen, der sein letztes Spiel macht und ins eigene Tor trifft. Das Leben ist ungerecht. Es ist das Turnier der Eigentore. Frankreich ist weiter ohne zu brillieren. 
