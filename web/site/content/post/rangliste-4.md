@@ -57,9 +57,9 @@ date: 2024-06-30T05:33:43.788Z
 
 27  =     320 Kary+Urs
 
-28  =     350 Emma+Christian
+28  =     360 Kuno Schwarzer
 
-29  =     350 
+29  =     350 Emma+Christian
 
 30  =     350 Memduh Aktas 
 
