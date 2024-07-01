@@ -3,6 +3,8 @@ title: RANGLISTE
 draft: true
 date: 2024-06-30T05:33:43.788Z
 ---
+Ronaldo trägt sein 
+
 01 = 420 ROSA+MARLEN 🥇
 
 02 =  410 René Benz🥈      
