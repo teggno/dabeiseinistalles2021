@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
   title: RAFFI‘S JUKEBOX 🎸 David Bowie  ▶️  Ziggy Stardust
-  url: https://www.youtube.com/watch?v=n2MtEsrcTTs&pp=ygUMaGFydmVzdCBtb29u
+  url: https://www.youtube.com/watch?v=na8xgu-KLAk&pp=ygUMZGF2aWQgYm93aWUg
   image: img/jukebox.jpg
   description: ""
 type: rangliste
