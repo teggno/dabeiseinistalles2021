@@ -1,9 +1,10 @@
 ---
 title: RANGLISTE
-draft: true
+draft: false
 date: 2024-06-30T05:33:43.788Z
+image: img/img_0585.jpeg
 ---
-Ronaldo trägt sein 
+
 
 01 =  450 ROSA+MARLEN 🥇
 
