@@ -108,3 +108,5 @@ date: 2024-06-30T05:33:43.788Z
 52  =   240 Margot+Leo 
 
 53  =   230  Stephi+Cristiano 🏮
+
+\*Wegen traditioneller Buchhaltung stets ohne Gewähr. Sollte sich der eine oder andere Fehler einschleichen, bitte unbedingt melden. Ich bügle ihn gleich aus!
