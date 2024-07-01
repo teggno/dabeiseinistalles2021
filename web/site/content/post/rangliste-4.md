@@ -1,7 +1,7 @@
 ---
 title: RANGLISTE
 draft: false
-date: 2024-07-01T05:33:43.788Z
+date: 2024-06-30T05:33:43.788Z
 ---
 01 = 420 ROSA+MARLEN 🥇
 
