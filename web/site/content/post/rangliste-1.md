@@ -1,5 +1,5 @@
 ---
-title: "RANGLISTE "
+title: Positionskämpfe
 draft: false
 date: 2024-06-30T21:15:01.162Z
 image: img/img_0587.jpeg
