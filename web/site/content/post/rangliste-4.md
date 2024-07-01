@@ -9,7 +9,7 @@ date: 2024-06-30T05:33:43.788Z
 
 03 =  400  Pina+Michele La Macchia 🥉
 
-04 =  400 Cosimo Cataldo 🐆
+04 =  400 Cosimo Cataldo 
 
 05 =  390 Kurt  Meier
 
@@ -105,6 +105,6 @@ date: 2024-06-30T05:33:43.788Z
 
 51   =   240 Die Freigels
 
-52  =   240 Margot+Leo ⛑️
+52  =   240 Margot+Leo 
 
 53  =   230  Stephi+Cristiano 🏮
