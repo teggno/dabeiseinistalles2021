@@ -6,7 +6,7 @@ image: img/img_0585.jpeg
 ---
 Aus und vorbei. Nach Kroatien, Italien und Dänemark streicht auch Belgien die Segel. Da waren’s nur noch 9! Lukaku im Gewand von  Fantomas und de Bruyne als Gelegenheitsarbeiter. Mitleid haben muss man mit Vertonghen, der sein letztes Spiel macht und ins eigene Tor trifft. Das Leben ist ungerecht. Es ist das Turnier der Eigentore. Frankreich ist weiter ohne zu brillieren. 
 
-Fast aber nur fast hätten die beiden Pensionäre Portugal zu Grabe getragen. Pepe langsamer als die Postzustellung in Tägerwilen rutscht aus und macht den Weg für Slowenien frei. Denkste! Sesko scheitert an seinen Nerven. Es wäre aber es ist nicht das Aus der Lusitaner. Obwohl Ronaldo alles tat um sein Land zu schädigen. Freistösse die lächerlich sind. Sein Ego ist unschlagbar. Keiner getraut sich aufzumucken. Am Ende ging alles nochmal gut. Dank Teufelskerl Costa. LED Zeppelin ist jetzt obligatorisch (Jukebox) Boa Noite 🇵🇹 
+Fast aber nur fast hätten die beiden Pensionäre Pepe und Ronaldo Portugal zu Grabe getragen. Am Ende zogen sie dank Torhüter Costa ihren Kopf noch einmal aus der Schlinge. Es ist unglaublich was sich der Wüstensohn alles erlaubt. Jeder Freistoss geht über ihn. Die Statisten schauen zu und haben nicht den Mut dazwischen zu gehen. Auswechseln darf man ihn nicht, sonst zieht er die Mannschaft zurück. Es ist eine Posse! Am Ende fliessen die Tränen. Alles ist wieder gut. Portugal steht im Viertelfinale.
 
 01 =  450 ROSA+MARLEN 🥇
 
