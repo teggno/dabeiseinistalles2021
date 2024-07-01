@@ -65,9 +65,9 @@ date: 2024-06-30T05:33:43.788Z
 
 31   =     320 Daniela+Davide
 
-32   =    320 Urs+ Jeanette
+32   =    350  Urs+ Jeanette
 
-33   =    320 dä Coq
+33   =    350  dä Coq
 
 34  =     340 Zeljko Berger
 
