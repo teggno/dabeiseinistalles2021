@@ -51,7 +51,7 @@ date: 2024-06-30T05:33:43.788Z
 
 24   =    340 Claudia+Markus
 
-25   =    330 Salon Liotta
+25   =    370 Miro Berger 
 
 26  =     370 Anton Teuffel
 
