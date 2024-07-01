@@ -41,7 +41,7 @@ date: 2024-06-30T05:33:43.788Z
 
 19   =   340 Miro Berger
 
-20   =   340 Anton Teuffel
+20   =   380 Roger Blatter
 
 21    =   380 Lilly+Raffaele
 
