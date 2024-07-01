@@ -6,9 +6,7 @@ image: img/img_0585.jpeg
 ---
 Aus und vorbei. Nach Kroatien, Italien und Dänemark streicht auch Belgien die Segel. Da waren’s nur noch 9! Lukaku im Gewand von  Fantomas und de Bruyne als Gelegenheitsarbeiter. Mitleid haben muss man mit Vertonghen, der sein letztes Spiel macht und ins eigene Tor trifft. Das Leben ist ungerecht. Es ist das Turnier der Eigentore. Frankreich ist weiter ohne zu brillieren. 
 
-Live Ticker
-
-0:0 zur Pause! Mit Jota und Felix auf der Bank wären Alternativen da. Wechselt er sich selbst aus? Für 1.- Wetteinsatz gäbe es eine Million 🥳 Ich wusste es. Ein Penalty mit Ansage! Dai OblakJaaaaaaaaaaaaa. Es gibt noch Gerechtigkeit. Bravo Oblak! Und jetzt kommt er rein Ilicic wird die Partie entscheiden. Ein sportliches Drama bahnt sich an. Wenn die Dramaturgie stimmt. dann…..Nein sie stimmt nicht. Costa ist ein Teufelskerl. Ronaldo übernimmt als erster die Verantwortung. Das muss man ihm lassen. Portugal im Viertelfinale. Buonanotte. LED Zeppelin ist jetzt obligatorisch (Jukebox)
+Fast aber nur fast hätten die beiden Pensionäre Portugal zu Grabe getragen. Pepe langsamer als die Postzustellung in Tägerwilen rutscht aus und macht den Weg für Slowenien frei. Denkste! Sesko scheitert an seinen Nerven. Es wäre aber es ist nicht das Aus der Lusitaner. Obwohl Ronaldo alles tat um sein Land zu schädigen. Freistösse die lächerlich sind. Sein Ego ist unschlagbar. Keiner getraut sich aufzumucken. Am Ende ging alles nochmal gut. Dank Teufelskerl Costa. LED Zeppelin ist jetzt obligatorisch (Jukebox) Boa Noite 🇵🇹 
 
 01 =  450 ROSA+MARLEN 🥇
 
