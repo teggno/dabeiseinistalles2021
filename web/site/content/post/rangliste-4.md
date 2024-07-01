@@ -45,7 +45,7 @@ date: 2024-06-30T05:33:43.788Z
 
 21    =   340 Bruno+Verena 
 
-22   =    340 Guanfranco Caporusso
+22   =    370 De Sunneschi+de Chaschtä
 
 23   =    370 Made+Donato
 
