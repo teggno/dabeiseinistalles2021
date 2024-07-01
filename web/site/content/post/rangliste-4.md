@@ -93,20 +93,20 @@ date: 2024-06-30T05:33:43.788Z
 
 45  =   280 Claudia+Peppe
 
-46  =   280 Eva-Maria
+46  =   320 Katja+Tommy
 
-47  =   270 Baggerstube
+47  =   320 Zac
 
-48  =   260  Janis
+48  =   310 Gina+Bruno
 
-49  =   260 Katja+Tommy
+49  =   310 Eva- Maria
 
-50  =   260 Zac
+50  =   300 Baggerstube
 
-51   =   240 Die Freigels
+51   =   270 Die Freigels
 
-52  =   240 Margot+Leo 
+52  =   270 Margot+Leo 
 
-53  =   230  Stephi+Cristiano 🏮
+53  =   260  Stephi+Cristiano 🏮
 
 \*Wegen traditioneller Buchhaltung stets ohne Gewähr. Sollte sich der eine oder andere Fehler einschleichen, bitte unbedingt melden. Ich bügle ihn gleich aus!
