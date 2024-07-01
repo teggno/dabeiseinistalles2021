@@ -85,7 +85,7 @@ date: 2024-06-30T05:33:43.788Z
 
 41  =     300 Kuno Schwarzer
 
-42  =    290  Leni+Luc
+42  =    320 Bea Colaci
 
 43  =   320  Nico Colaci
 
