@@ -69,13 +69,13 @@ date: 2024-06-30T05:33:43.788Z
 
 33   =    320 dä Coq
 
-34  =     310 Zeljko Berger
+34  =     340 Zeljko Berger
 
-35  =     310 Inge+Gregor
+35  =    340 Inge+Gregor
 
-36  =     Renato Petrillo
+36  =    340  Renato Petrillo
 
-37   =    310 Vonki
+37   =    340 Vonki
 
 38  =    340 Severin Stucky
 
