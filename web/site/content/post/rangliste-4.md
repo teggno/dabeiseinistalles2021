@@ -87,11 +87,11 @@ date: 2024-06-30T05:33:43.788Z
 
 42  =    290  Leni+Luc
 
-43  =    290 Nico Colaci
+43  =   320  Nico Colaci
 
-44 =    280 Severin Stucky
+44 =    320 Leni+Luc
 
-45  =   280 Claudia+Peppe
+45  =   320 Janis
 
 46  =   320 Katja+Tommy
 
