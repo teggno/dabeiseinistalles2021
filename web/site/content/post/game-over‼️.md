@@ -1,5 +1,5 @@
 ---
-title: Game over‼️
+title: Game over
 draft: true
 date: 2024-05-17T16:02:27.211Z
 image: img/img_0496.jpeg
