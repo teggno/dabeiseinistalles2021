@@ -9,11 +9,11 @@ Ronaldo trägt sein
 
 02 =  440 René Benz🥈      
 
-03 =  400 Pina+Michele La Macchia 🥉
+03 =  440 Tina+Roland 🥉
 
-04 =  400 Cosimo Cataldo 
+04 =  430 Cosimo Cataldo 
 
-05 =  390 Kurt  Meier
+05 =  430 Pina+Michele La Macchia
 
 06 =  390 Tina+Roland
 
