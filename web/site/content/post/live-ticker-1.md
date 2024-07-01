@@ -1,5 +1,5 @@
 ---
-title: Live-Ticker - Rangliste morgen - ich bin erledigt
+title: Live-Ticker
 draft: false
 date: 2024-07-01T18:05:08.682Z
 image: img/img_0588.png
