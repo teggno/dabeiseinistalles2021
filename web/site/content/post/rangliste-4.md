@@ -19,13 +19,13 @@ Ronaldo trägt sein
 
 07 =   390 dä Dog 
 
-08 =   390 Barbara+Urs
+08 =   420 Barbara+Urs Schläpfer
 
-09  =  370 Regula+Franco 
+09  =  420 Regula+Franco 
 
-10  =   370 Martha+Sergio
+10  =   420 Martha+Sergio
 
-11  =    360 Liddy+Thomas
+11  =    420
 
 12  =    410 Gülay Turcan
 
