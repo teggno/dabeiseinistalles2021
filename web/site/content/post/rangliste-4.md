@@ -96,7 +96,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 44 =    320 Leni+Luc 💉 
 
-45  =   320 Janis
+45  =   320 Janis 😴
 
 46  =   320 Katja+Tommy ⚓️
 
@@ -108,7 +108,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 50  =   300 Baggerstube 🚨
 
-51   =   270 Die Freigels 
+51   =   270 Die Freigels 🧗🏻‍♀️
 
 52  =   270 Margot+Leo ⛑️
 
