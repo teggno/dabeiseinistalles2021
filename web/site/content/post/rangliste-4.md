@@ -86,13 +86,13 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 39 =     340 Inge+Gregor
 
-40 =    330 Daniela+Paolo Padula 🤫
+40 =    330 Daniela+Paolo Padula 🤫 🦅
 
 41  =    330 Salon Liotta
 
 42  =   330 Bea Colaci  🛟
 
-43  =   320  Nico Colaci
+43  =   320  Nico Colaci 🐎
 
 44 =    320 Leni+Luc 💉 
 
@@ -104,7 +104,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 48  =   310 Gina+Bruno 🎡
 
-49  =   310 Eva- Maria 🛩️
+49  =   310 Eva- Maria 🦅
 
 50  =   300 Baggerstube 🚨
 
