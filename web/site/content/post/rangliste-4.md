@@ -94,7 +94,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 43  =   320  Nico Colaci
 
-44 =    320 Leni+Luc Spritze 💉 
+44 =    320 Leni+Luc 💉 
 
 45  =   320 Janis
 
