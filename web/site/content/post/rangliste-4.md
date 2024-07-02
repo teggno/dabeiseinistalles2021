@@ -16,7 +16,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 04 =  430 Cosimo Cataldo 🐅
 
-05 =  430 Pina+Michele La Macchia 
+05 =  430 Pina+Michele La Macchia 🎉
 
 06 =  420 Tina+Roland
 
@@ -60,7 +60,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 26  =     370 Anton Teuffel
 
-27  =     360  Kary+Urs
+27  =     360  Kary+Urs 
 
 28  =     360 Kuno Schwarzer ⛑️
 
@@ -70,9 +70,9 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 31   =     350 Daniela+Davide
 
-32   =    350  Urs+ Jeanette
+32   =    350  Urs+ Jeanette 💊
 
-33   =    350  dä Coq
+33   =    350  dä Coq 🔮
 
 34  =     340 Zeljko Berger
 
@@ -82,7 +82,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 37   =    340 Vonki
 
-38  =    340 Severin Stucky
+38  =    340 Severin Stucky  🪂 
 
 39 =     340 Claudia+Peppe 🔌
 
@@ -94,21 +94,21 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 43  =   320  Nico Colaci
 
-44 =    320 Leni+Luc
+44 =    320 Leni+Luc Spritze 💉 
 
 45  =   320 Janis
 
-46  =   320 Katja+Tommy
+46  =   320 Katja+Tommy ⚓️
 
 47  =   320 Zac 🍍
 
-48  =   310 Gina+Bruno
+48  =   310 Gina+Bruno 🎡
 
 49  =   310 Eva- Maria 🛩️
 
-50  =   300 Baggerstube
+50  =   300 Baggerstube 🚨
 
-51   =   270 Die Freigels 🧗🏻‍♀️
+51   =   270 Die Freigels 
 
 52  =   270 Margot+Leo ⛑️
 
