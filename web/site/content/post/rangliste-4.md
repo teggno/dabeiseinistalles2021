@@ -90,7 +90,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 41  =    330 Salon Liotta
 
-42  =   330 Bea Colaci
+42  =   330 Bea Colaci  🛟
 
 43  =   320  Nico Colaci
 
@@ -100,7 +100,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 46  =   320 Katja+Tommy
 
-47  =   320 Zac
+47  =   320 Zac 🍍
 
 48  =   310 Gina+Bruno
 
