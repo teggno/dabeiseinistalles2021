@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Led Zeppelin ▶️  🥳🥳🥳🥳🥳
-  url: https://www.youtube.com/watch?v=HQmmM_qwG4k&pp=ygUdbGVkIHplcHBlbGluIHdob2xlIGxvdHRhIGxvdmU%3D
+  title: RAFFI‘S JUKEBOX 🎸 Zucchero/Clapton ▶️  Hey Man
+  url: https://www.youtube.com/watch?v=Mc5_wroLcok&pp=ygUdaGV5IG1hbiB6dWNjaGVybyBlcmljIGNsYXB0b24%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
