@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX 🎸 Reinhard Fendrich  ▶️. I am from Austria 🇦🇹 "
-  url: https://www.youtube.com/watch?v=LO0QmmnuKtQ&pp=ygUQaSdtIGZyb20gYXVzdHJpYQ%3D%3D
+  title: "RAFFI‘S JUKEBOX 🎸 Reinhard Fendrich ▶️ Weil du…. 🇦🇹 "
+  url: https://www.youtube.com/watch?v=oTw3tHVkpdc&pp=ygUhd2VpbHN0IGEgaGVyeiBoYXN0IHdpZSBhIGJlcmd3ZXJr
   image: img/jukebox.jpg
   description: ""
 type: rangliste
