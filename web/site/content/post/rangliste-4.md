@@ -46,7 +46,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 19   =   390 Nunzio Padula 🛩️
 
-20   =   380 Roger Blatter 
+20   =   380 Roger Blatter 🎣 
 
 21    =   380 Lilly+Raffaele
 
