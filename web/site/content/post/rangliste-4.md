@@ -76,7 +76,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 34  =     340 Zeljko Berger
 
-35  =    340 Inge+Gregor
+35  =    340 Claudia+Peppe 🔌
 
 36  =    340 Renato Petrillo
 
@@ -84,7 +84,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 38  =    340 Severin Stucky  🪂 
 
-39 =     340 Claudia+Peppe 🔌
+39 =     340 Inge+Gregor
 
 40 =    330 Daniela+Paolo Padula 🤫
 
