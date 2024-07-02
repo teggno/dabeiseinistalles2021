@@ -60,7 +60,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 26  =     370 Anton Teuffel
 
-27  =     360  Kary+Urs 
+27  =     360  Katy+Urs 
 
 28  =     360 Kuno Schwarzer ⛑️
 
