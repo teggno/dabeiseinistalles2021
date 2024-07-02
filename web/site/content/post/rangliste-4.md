@@ -68,7 +68,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 30  =     350 Memduh Aktas 
 
-31   =     350 Daniela+Davide
+31   =     350 Daniela+Davide Brocca
 
 32   =    350  Urs+ Jeanette 💊
 
