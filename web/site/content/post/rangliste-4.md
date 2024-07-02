@@ -54,7 +54,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 23   =    370 Made+Donato
 
-24   =    370 Regula+Franco
+24   =    370 Regula+Franco 🔌
 
 25   =    370 Miro Berger 
 
@@ -68,7 +68,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 30  =     350 Memduh Aktas 
 
-31   =     350  Daniela+Davide
+31   =     350 Daniela+Davide
 
 32   =    350  Urs+ Jeanette
 
@@ -108,7 +108,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 50  =   300 Baggerstube
 
-51   =   270 Die Freigels
+51   =   270 Die Freigels 🧗🏻‍♀️
 
 52  =   270 Margot+Leo ⛑️
 
