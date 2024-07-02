@@ -86,7 +86,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 39 =     340 Claudia+Peppe 🔌
 
-40 =    330 Daniela+Davide Brocca 
+40 =    330 Daniela+Paolo Padula 🤫
 
 41  =    330 Salon Liotta
 
