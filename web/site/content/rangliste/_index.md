@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Zucchero/Clapton ▶️  Hey Man
-  url: https://www.youtube.com/watch?v=Mc5_wroLcok&pp=ygUdaGV5IG1hbiB6dWNjaGVybyBlcmljIGNsYXB0b24%3D
+  title: "RAFFI‘S JUKEBOX 🎸 Reinhard Fendrich  ▶️. I am from Austria 🇦🇹 "
+  url: https://www.youtube.com/watch?v=LO0QmmnuKtQ&pp=ygUQaSdtIGZyb20gYXVzdHJpYQ%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
