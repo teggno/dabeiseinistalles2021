@@ -1,5 +1,5 @@
 ---
-title: RANGLISTE
+title: Hey Man (Rangliste)
 draft: false
 date: 2024-07-02T04:15:14.610Z
 image: img/img_0591.jpeg
