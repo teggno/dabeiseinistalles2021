@@ -78,7 +78,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 35  =    340 Inge+Gregor
 
-36  =    340  Renato Petrillo
+36  =    340 Renato Petrillo
 
 37   =    340 Vonki
 
