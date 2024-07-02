@@ -14,9 +14,9 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 03 =  440 Martha+Sergio Giménez 🥉
 
-04 =  430 Cosimo Cataldo 
+04 =  430 Cosimo Cataldo 🐅
 
-05 =  430 Pina+Michele La Macchia
+05 =  430 Pina+Michele La Macchia 
 
 06 =  420 Tina+Roland
 
@@ -44,13 +44,13 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 18   =   390 Koni Hornstein
 
-19   =   390 Nunzio Padula
+19   =   390 Nunzio Padula 🛩️
 
 20   =   380 Roger Blatter
 
 21    =   380 Lilly+Raffaele
 
-22   =    370 De Sunneschi+de Chaschtä
+22   =    370 De Sunneschi☀️+de Chaschtä 🌚
 
 23   =    370 Made+Donato
 
@@ -84,7 +84,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 38  =    340 Severin Stucky
 
-39 =     340 Claudia+Peppe
+39 =     340 Claudia+Peppe 
 
 40 =    330 Daniela+Davide Brocca 
 
@@ -104,13 +104,13 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 48  =   310 Gina+Bruno
 
-49  =   310 Eva- Maria
+49  =   310 Eva- Maria 🛩️
 
 50  =   300 Baggerstube
 
 51   =   270 Die Freigels
 
-52  =   270 Margot+Leo 
+52  =   270 Margot+Leo ⛑️
 
 53  =   260  Stephi+Cristiano 🏮
 
