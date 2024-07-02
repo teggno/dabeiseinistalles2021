@@ -46,7 +46,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 19   =   390 Nunzio Padula 🛩️
 
-20   =   380 Roger Blatter
+20   =   380 Roger Blatter 
 
 21    =   380 Lilly+Raffaele
 
@@ -62,7 +62,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 27  =     360  Kary+Urs
 
-28  =     360 Kuno Schwarzer
+28  =     360 Kuno Schwarzer ⛑️
 
 29  =     350 Emma+Christian
 
@@ -84,7 +84,7 @@ Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu 
 
 38  =    340 Severin Stucky
 
-39 =     340 Claudia+Peppe 
+39 =     340 Claudia+Peppe 🔌
 
 40 =    330 Daniela+Davide Brocca 
 
