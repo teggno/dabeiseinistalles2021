@@ -1,6 +1,6 @@
 ---
 title: "Zerstörte Illusionen "
-draft: true
+draft: false
 date: 2024-07-02T22:38:05.504Z
 image: img/img_0593.jpeg
 ---
