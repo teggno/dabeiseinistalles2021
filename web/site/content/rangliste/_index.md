@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 Udo Jürgens  ▶️ Illusionen 🇦🇹
-  url: https://www.youtube.com/watch?v=Y79YzzfZ-h8&pp=ygUYdWRvIGrDvHJnZW5zIGlsbHVzaW9uZW4g
+  title: RAFFI‘S JUKEBOX 🎸  Shocking Blue  ▶️  Venus 🧜🏻‍♀️
+  url: https://www.youtube.com/watch?v=QRBBIgBPayk&pp=ygUTdmVudXMgc2hvY2tpbmcgYmx1ZQ%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
