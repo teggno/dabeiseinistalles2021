@@ -1,7 +1,7 @@
 ---
 title: "Zerstörte Illusionen "
 draft: false
-date: 2024-07-02T22:38:05.504Z
+date: 2024-07-03T05:44:07.398Z
 image: img/img_0593.jpeg
 ---
 Ist orange doch nicht aus der Mode? Und wer ist Cody Gapko? Spätestens jetzt wissen wir Bescheid!  Die ehemaligen Europameister möchten doch noch ein Wörtchen mitreden und Klopp‘s Empfehlung schlägt ein drittes Mal brutal zu.  Leider ist die Offensivkraft von Liverpool uns allen durch die Lappen gegangen. 
