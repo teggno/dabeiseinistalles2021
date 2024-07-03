@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX 🎸  The Carpenters  ▶️  It‘s Yesterday once more "
-  url: https://www.youtube.com/watch?v=FmL6It-NW2s&pp=ygU1aXQncyB5ZXN0ZXJkYXkgb25jZSBtb3JlIGF1ZHJleSBoZXBidXJuIHJvbWFuIGhvbGlkYXk%3D
+  title: RAFFI‘S JUKEBOX 🎸  Hetty &  ▶️ the Jazzato Band..
+  url: https://www.youtube.com/watch?v=J0ogqBcK9ow&pp=ygUaaGV0dHkgYW5kIHRoZSBqYXp6YXRvIGJhbmQ%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
