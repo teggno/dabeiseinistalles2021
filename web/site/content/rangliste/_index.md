@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX 🎸 Reinhard Fendrich ▶️ Weil du…. 🇦🇹 "
-  url: https://www.youtube.com/watch?v=oTw3tHVkpdc&pp=ygUhd2VpbHN0IGEgaGVyeiBoYXN0IHdpZSBhIGJlcmd3ZXJr
+  title: RAFFI‘S JUKEBOX 🎸 Udo Jürgens  ▶️ Illusionen 🇦🇹
+  url: https://www.youtube.com/watch?v=Y79YzzfZ-h8&pp=ygUYdWRvIGrDvHJnZW5zIGlsbHVzaW9uZW4g
   image: img/jukebox.jpg
   description: ""
 type: rangliste
