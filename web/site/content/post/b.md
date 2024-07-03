@@ -4,7 +4,7 @@ draft: false
 date: 2024-07-03T05:44:07.398Z
 image: img/img_0593.jpeg
 ---
-Ist orange doch nicht aus der Mode? Und wer ist Cody Gapko? Spätestens jetzt wissen wir Bescheid!  Die ehemaligen Europameister (Jukebox) möchten doch noch ein Wörtchen mitreden und Klopp‘s Empfehlung schlägt ein drittes Mal brutal zu.  Leider ist die Offensivkraft von Liverpool uns allen durch die Lappen gegangen. 
+Ist orange doch nicht aus der Mode? Und wer ist Cody Gapko? Spätestens jetzt wissen wir Bescheid!  Die ehemaligen Europameister (Jukebox) möchten doch noch ein Wörtchen mitreden und Klopp‘s Empfehlung schlägt ein drittes Mal brutal zu. Leider ist die Offensivkraft von Liverpool uns allen durch die Lappen gegangen. 
 
 Merih Demiral (Ex Juve 😎) köpft die Türkei in den siebten Fussballhimmel. Wie wichtig gut getretene Eckbälle sind, hat man gestern gesehen. Torwart Günok mit der Parade seines Lebens. Österreich lässt sich zweimal auf dieselbe Art übertölpeln. Arnautovic hat ihrem eingespielten System nicht gutgetan. Die besten Glückwünsche gehen nach Neuseeland zu Leni+Luc, die als einzige an Vincenzo Montellas Truppe geglaubt haben. Es war übrigens Leni’s glorreiche Idee 👍 
 
