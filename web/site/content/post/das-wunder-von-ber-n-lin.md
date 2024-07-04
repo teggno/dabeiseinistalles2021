@@ -1,6 +1,6 @@
 ---
 title: Das Wunder von Ber(n)lin
-draft: true
+draft: false
 date: 2024-07-04T11:24:11.194Z
 image: img/img_0595.jpeg
 ---
