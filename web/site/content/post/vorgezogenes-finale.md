@@ -4,7 +4,7 @@ draft: true
 date: 2024-07-02T06:08:46.573Z
 image: img/img_0596.jpeg
 ---
-Die 2 plus Österreich und die Schweiz hätte ich mir unter dem Christbaum🎄gewünscht. Leider ist das Leben kein Wunschkonzert und darum nehmen wir das, was uns geboten wird. War Füllkrugs Lastminute-Treffer gegen die Schweiz ein Schuss in den Ofen? Aus rein taktischer Sicht ja! Nagelsmann wird, sofern es in die Hosen geht, in seinen Memoiren darauf zurückkommen.
+Die 2 plus Österreich und die Schweiz hätte ich mir unter dem Christbaum🎄gewünscht. Leider ist das Leben kein Wunschkonzert und darum nehmen wir das, was uns geboten wird. War Füllkrugs Lastminute-Treffer gegen die Schweiz ein Schuss in den Ofen? Aus rein taktischer Sicht ja! Nagelsmann wird, sofern es gegen Spanien in die Hosen geht, in seinen Memoiren darauf zurückkommen.
 
 Zur Disposition standen in jenem Moment England oder Spanien. Ich hätte meinen Spielern untersagt  in die Nähe des schweizerischen Strafraums zu kommen. Laut betway.com wären Deutschlands Chancen im Viertelfinale gegen die “Siebenschläfer“ viel besser gewesen. Mit anderen Worten: Sie hätten sie weggeputzt. Jetzt kommt wie meistens bei solchen Gelegenheiten Pyrrhus ins Spiel.
 
