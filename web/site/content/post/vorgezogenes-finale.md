@@ -1,7 +1,7 @@
 ---
 title: Vorgezogener Final
 draft: true
-date: 2024-07-02T06:08:46.573Z
+date: 2024-07-04T18:30:00.368Z
 image: img/img_0596.jpeg
 ---
 Die 2 plus Österreich und die Schweiz hätte ich mir unter dem Christbaum🎄gewünscht. Leider ist das Leben kein Wunschkonzert und darum nehmen wir das, was uns geboten wird. War Füllkrugs Lastminute-Treffer gegen die Schweiz ein Schuss in den Ofen? Fragen wir König Pyrrhus! Er meint aus taktischer Sicht ja! Nagelsmann wird, sofern es gegen Spanien in die Hosen geht, in seinen Memoiren darauf zurückkommen. 
