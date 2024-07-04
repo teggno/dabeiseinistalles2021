@@ -7,6 +7,6 @@ Mit Udo ging die Party los und mit Udo geht sie zu Ende! Schliesslich stand er i
 
 Fällst du jetzt in ein tiefes Loch, hat mich Lilly kürzlich gefragt! Natürlich habe ich geantwortet, es ist nach jedem Rausch dasselbe. Normal geht nicht bei mir, entweder oder! Eigentlich hat mir das Erzählen mehr Spass gemacht, als der Fussball selbst. Schreib so, dass dich Frauen ohne viel Fussballwissen auch verstehen. Das Motto hat sich bewährt, schliesslich ist der Fussball keine Wissenschaft. 
 
-Ich habe mir angewöhnt, frühestens bei der Hymne einzuschalten. Seit ich mir die italienischen Sängerknaben antun musste, wird’s  noch etwas später. Bei den Spielen der Schweiz habe ich eine Ausnahme gemacht. Mit Ruefer, Huggel und Salzgeber bin ich sehr gut klar gekommen. 
+Ich habe mir angewöhnt, frühestens bei den Nationalhymnen einzuschalten. Seit ich mir die italienischen Sängerknaben antun musste, wurde es  noch etwas später. Bei den Spielen der Schweiz habe ich eine Ausnahme gemacht. Mit Ruefer, Huggel und Salzgeber bin ich sehr gut klar gekommen. 
 
-Ob ich es wieder tun würde, wie Udo es empfiehlt?  Da halt ich mich doch lieber an den guten Franz. Die WM 2026 kommt bestimmt. Man denke jetzt schon an die Tücken der Zeit. Amerika, …im Schuss bin! Eins habe ich gelernt: Sag niemals nie…..sag lieber Schau mer mal.
+Ob ich es wieder tun würde, wie Udo es empfiehlt?  Da halt ich mich doch lieber an den guten Franz. Die WM 2026 kommt bestimmt. Man denke jetzt schon an die Tücken der Zeit. Bin ich noch im Schuss und wie ist das in Amerika, um die Mittagszeit. Eins habe ich gelernt: Sag niemals nie…..sag lieber Schau mer mal.
