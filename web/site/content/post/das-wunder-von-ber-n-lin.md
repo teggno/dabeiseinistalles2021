@@ -1,7 +1,7 @@
 ---
 title: Das Wunder von Ber(n)lin
-draft: true
-date: 2024-07-04T11:24:11.194Z
+draft: false
+date: 2024-07-04T11:29:17.242Z
 image: img/img_0595.jpeg
 ---
 Als sich das Orakel von Tägerwilen anschickte, in den Katakomben von Lourdes nach der Wahrheit zu suchen, stiess er auf die geheimnisvollen Nummern   4️⃣  5️⃣0️⃣  2️⃣0️⃣  7️⃣0️⃣❗️Wie vielleicht einige aus dem Radio gehört haben, jährt sich heute das Wunder von Bern zum 7️⃣0️⃣sten Male. Niemand bis auf ein paar Berufsoptimisten hätte damals im Jahre 1954️⃣ im Entferntesten daran geglaubt, dass es die Deutschen reissen würden. Ungarn, eine der besten Mannschaften der letzten 💯 Jahre, schien unschlagba. In der Gruppenphase hatte man die BRD 8:3 niedergekantert, warum sollte es im Finale schief gehen. Trainer Sebes, der laut Überlieferung auf dem Sterbebett immer noch nicht begreifen wollte, dass seine Wunderelf den Kürzeren gezogen hatte, wiederholte ständig den Satz: „Wir haben verloren!“ 
