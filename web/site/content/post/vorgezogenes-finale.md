@@ -1,5 +1,5 @@
 ---
-title: Vorgezogenes Finale
+title: Vorgezogener Final
 draft: true
 date: 2024-07-02T06:08:46.573Z
 ---
