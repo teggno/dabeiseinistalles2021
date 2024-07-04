@@ -4,9 +4,9 @@ draft: false
 date: 2024-07-02T04:15:14.610Z
 image: img/img_0591.jpeg
 ---
-Aus und vorbei. Nach Kroatien, Italien und Dänemark streicht auch Belgien die Segel. Da waren’s nur noch 9! Lukaku im Gewand von  Fantomas und de Bruyne als Gelegenheitsarbeiter. Mitleid haben muss man mit Vertonghen, der sein letztes Spiel macht und ins eigene Tor trifft. Das Leben ist ungerecht. Es ist das Turnier der Eigentore. Frankreich ist weiter ohne zu brillieren. 
+Aus und vorbei. Nach Kroatien, Italien und Dänemark streicht auch Belgien die Segel. Da waren’s nur noch 9! Lukaku im Gewand von  Fantomas und de Bruyne als Gelegenheitsarbeiter. Mitleid haben muss man mit Vertonghen, der sein letztes Spiel macht und ins eigene Tor trifft. Das Leben ist ungerecht. Es ist das Turnier der Eigentore. Frankreich ist ohne zu brillieren weiter.
 
-Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu Grabe getragen. Am Ende ziehen sie dank Torhüter Diogo Costa, der drei Elfmeter hält, ihren Kopf noch einmal aus der Schlinge. Es ist unglaublich was sich der Wüstensohn erlaubt. Er hadert mit Gott, verwirft die Hände, belächelt den Schiri!  Jeder Freistoss geht über ihn. Keiner seiner  “Sklaven“ hat den Mut, Ansprüche zu stellen. Auswechseln darf man ihn nicht, sonst zieht er die Mannschaft zurück. Mitspieler, die in Grossclubs spielen, kommen dank seines Ego nie zum Einsatz. Der Trainer ist er. Martínez fungiert als Berater. Es ist eine Posse! Am Ende fliessen die Tränen. (🥲Jukebox) Alles ist wieder gut. Portugal steht im Viertelfinale.
+Fast aber nur fast hätten die beiden Pensionäre  Pepe und Ronaldo Portugal zu Grabe getragen. Am Ende ziehen sie dank Torhüter Diogo Costa, der drei Elfmeter hält, ihren Kopf noch einmal aus der Schlinge. Es ist unglaublich was sich der Wüstensohn erlaubt. Er hadert mit Gott, verwirft die Hände, belächelt den Schiri!  Jeder Freistoss geht über ihn. Keiner seiner  “Sklaven“ hat den Mut, Ansprüche zu stellen. Auswechseln darf man ihn nicht, sonst zieht er die Mannschaft zurück. Mitspieler, die in Grossclubs spielen, kommen dank seines Ego nie zum Einsatz. Der Trainer ist er. Martínez fungiert als Marionette. Es ist eine Posse! Am Ende fliessen die Tränen. (🥲Jukebox) Alles ist wieder gut. Portugal steht im Viertelfinale.
 
 01 =  450 ROSA+MARLEN 🥇
 
