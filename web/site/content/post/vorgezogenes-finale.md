@@ -6,7 +6,7 @@ image: img/img_0596.jpeg
 ---
 Die 2 plus Österreich und die Schweiz hätte ich mir unter dem Christbaum🎄gewünscht. Leider ist das Leben kein Wunschkonzert und darum nehmen wir das, was uns geboten wird. War Füllkrugs Lastminute-Treffer gegen die Schweiz ein Schuss in den Ofen? Aus rein taktischer Sicht zweifellos ja! Nagelsmann wird, sofern es in die Hosen geht, in seinen Memoiren darauf zurückkommen.
 
-Zur Disposition standen in jenem Moment England oder Spanien. Ich hätte meinen Spielern untersagt  in die Nähe des gegnerischen Strafraums zu kommen. Laut betway.com wären Deutschlands Chancen im Viertelfinale gegen die “Siebenschläfer“ viel besser gewesen. Mit anderen Worten: Sie hätten sie weggeputzt. Jetzt kommt wie meistens bei solchen Gelegenheiten Pyrrhus ins Spiel.
+Zur Disposition standen in jenem Moment England oder Spanien. Ich hätte meinen Spielern untersagt  in die Nähe des schweizerischen Strafraums zu kommen. Laut betway.com wären Deutschlands Chancen im Viertelfinale gegen die “Siebenschläfer“ viel besser gewesen. Mit anderen Worten: Sie hätten sie weggeputzt. Jetzt kommt wie meistens bei solchen Gelegenheiten Pyrrhus ins Spiel.
 
 Spanien ist bis anhin die Topmannschaft dieses Turniers. Trainer Luis de la Fuente, dessen Name schon fliessend daherkommt, hat seinen Jungs als er kam zuerst mal das nervtötende Klein-Kleinspiel abgewöhnt. Statt immer nur im Niemandsland drumrum zu machen, empfahl er seinen Spielern mehr in die Tiefe zu gehen. Williams und Yamal, beide pfeilschnell, sind wie geschaffen für dieses Konzept. Kimmich und Raum oder Mittelstädt werden sich warm anziehen müssen. Doch spielentscheidend sein, wird die Mittelachse. Und da sehe ich die Spanier klar im Vorteil. Trotz Toni Kroos. 
 
