@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  Hetty &  ▶️ the Jazzato Band..
-  url: https://www.youtube.com/watch?v=J0ogqBcK9ow&pp=ygUaaGV0dHkgYW5kIHRoZSBqYXp6YXRvIGJhbmQ%3D
+  title: RAFFI‘S JUKEBOX 🎸  Peter Maffay ▶️ Über sieben Brücken….
+  url: https://www.youtube.com/watch?v=eKwl5HclBeQ&pp=ygUicGV0ZXIgbWFmZmF5IMO8YmVyIHNpZWJlbiBicsO8Y2tlbg%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
