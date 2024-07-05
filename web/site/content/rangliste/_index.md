@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  Peter Maffay ▶️ Über sieben Brücken
-  url: https://www.youtube.com/watch?v=6tcBgBRziXQ&pp=ygUicGV0ZXIgbWFmZmF5IMO8YmVyIHNpZWJlbiBicsO8Y2tlbg%3D%3D
+  title: RAFFI‘S JUKEBOX 🎸  Enrique Iglesias ▶️ Bailamos
+  url: https://www.youtube.com/watch?v=5sye_VxmNZA&pp=ygUXanVsaW8gaWdsZXNpYXMgYmFpbGFtb3M%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
