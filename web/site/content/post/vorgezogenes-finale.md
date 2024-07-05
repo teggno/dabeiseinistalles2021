@@ -4,7 +4,7 @@ draft: true
 date: 2024-07-05T00:13:48.147Z
 image: img/img_0599.jpeg
 ---
-Warum A gegen B und nicht A gegen F? Weil Fussball Glückssache bleiben muss! Es soll auf Matthäus und Zidane ankommen, in welcher Reihenfolge sie die Lose ziehen. Die wahre Stärke der einzelnen Teams wird nicht berücksichtigt. Darum kommt es heute Abend schon jetzt zu diesen beiden Knallern. Ob Deutschland gegen Spanien oder Deutschland gegen die Türkei dasselbe ist? Vielleicht wird uns irgendwann KI die Antwort geben. Auch bei Abseits wissen wir erst seit VAR ob es wirklich Abseits war! 
+Warum A gegen B und nicht A gegen F? Weil Fussball Glückssache bleiben muss! Es soll auf Matthäus und Zidane ankommen, in welcher Reihenfolge sie die Lose ziehen. Die wahre Stärke der einzelnen Teams bleibt auf der Strecke. Darum kommt es heute Abend schon jetzt zu diesen beiden Strassenfegern. Ob Deutschland gegen Spanien oder Deutschland gegen die Türkei dasselbe ist? Vielleicht wird uns irgendwann KI die Antwort geben. Auch bei Abseits wissen wir erst seit VAR ob es wirklich Abseits war! 
 
 Noch schöner wäre ein Wunschkonzert, wo man seine Lieblinge nach Sympathie auswählen darf. Ich hätte mir die folgenden FAB FOUR ausgesucht: Spanien, Deutschland, die Schweiz und Österreich! Ich liebe wenn Theorien! Man kann mi einem Mal all seine Fehler ausbügeln. Nehmen wir zum Beispiel an, der Füllkrug hätte dieses Ausgleichstor gegen die Schweiz nicht geschossen. Dazu hätte es einen Nichtangriffspak gebraucht wie damals 1982 in Córdobá. aber das ist eine andere Geschichte. Es ist wie es ist, sagte kürzlich ein Kumpel von mir. Konzentriere dich darauf! Alles andere ist Kaffeesatz lesen!
 
