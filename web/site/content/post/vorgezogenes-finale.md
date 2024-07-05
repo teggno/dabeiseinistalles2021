@@ -1,5 +1,5 @@
 ---
-title: A
+title: KI oder Tombola?
 draft: true
 date: 2024-07-05T00:13:48.147Z
 image: img/img_0599.jpeg
