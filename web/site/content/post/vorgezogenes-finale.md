@@ -1,10 +1,10 @@
 ---
-title: Modusschwächen
+title: Losglück
 draft: true
 date: 2024-07-05T00:13:48.147Z
-image: ""
+image: img/img_0599.jpeg
 ---
-Warum A1 gegen B1 und nicht A1 gegen E1? Weil Fussball eine Glückssache bleiben soll. So wie der VAR erst nach Jahrzehnten von Kapitalfehlern eingeführt wurde, tun sich die Veranwortlichen schwer das Losverfahren zumindest zu hinterfragen. Denn es ist doch ein Unterschied ob es heute Abend aus deutscher Sicht gegen die Türkei und nicht gegen Spanien geht.
+Warum A gegen B und nicht A gegen F? Weil Fussball Glückssache bleiben muss! Es soll auf Zidane und Matthäus ankommen, in welcher Reihenfolge sie die Lose ziehen. Die wahre Stärke der Teams wird nicht berücksichtigt. Darum kommt es heute Abend schon jetzt zu diesen beiden Knallern. Ob Deutschland gegen Spanien oder Deutschland gegen die Türkei dasselbe ist? Vielleicht wird uns irgendwAnn mal KI die Antwort geben. Auch bei der VAR hat es Jahrzehnte gedauert bis Abseits wirklich Abseits war!
 
  
 
