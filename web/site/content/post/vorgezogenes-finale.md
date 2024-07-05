@@ -1,10 +1,10 @@
 ---
 title: Vorgezogener Final
 draft: true
-date: 2024-07-05T18:30:10.519Z
+date: 2024-07-05T00:13:48.147Z
 image: img/img_0596.jpeg
 ---
-Die 2 plus Österreich und die Schweiz hätte ich mir unter dem Christbaum🎄gewünscht. Leider ist das Leben kein Wunschkonzert und darum nehmen wir das, was uns geboten wird. War Füllkrugs Lastminute-Treffer gegen die Schweiz ein Schuss in den Ofen? Fragen wir König Pyrrhus! Er meint aus taktischer Sicht ja! Nagelsmann wird, sofern es gegen Spanien in die Hosen geht, in seinen Memoiren darauf zurückkommen. 
+Die 2 da oben plus Österreich und die Schweiz hätte ich mir unter dem Christbaum🎄gewünscht. Leider ist das Leben kein Wunschkonzert und darum nehmen wir das, was uns geboten wird. War Füllkrugs Lastminute-Treffer gegen die Schweiz ein Schuss in den Ofen? Fragen wir König Pyrrhus! Er meint aus taktischer Sicht ja! Nagelsmann wird, sofern es gegen Spanien in die Hosen geht, in seinen Memoiren darauf zurückkommen. 
 
 Spanien ist bis anhin die Topmannschaft dieses Turniers. Trainer Luis de la Fuente, dessen Name schon fliessend daherkommt, hat seinen Jungs als er kam zuerst mal das nervtötende Klein-Kleinspiel abgewöhnt. Statt immer nur im Niemandsland drumrum zu machen, empfahl er seinen Spielern mehr in die Tiefe zu gehen. Williams und Yamal, beide pfeilschnell, sind wie geschaffen für dieses Konzept. Kimmich und Raum oder Mittelstädt werden sich warm anziehen müssen. Doch spielentscheidend wird die Mittelachse sein. Und da sehe ich die Spanier klar im Vorteil. Trotz Toni Kroos. 
 
