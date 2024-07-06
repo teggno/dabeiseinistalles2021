@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  Enrique Iglesias ▶️ Bailamos
-  url: https://www.youtube.com/watch?v=5sye_VxmNZA&pp=ygUXanVsaW8gaWdsZXNpYXMgYmFpbGFtb3M%3D
+  title: RAFFI‘S JUKEBOX 🎸  Earl Grant ▶️ Jeder Traum hat ein Ende
+  url: https://www.youtube.com/watch?v=D3n1Y8lEqP8&pp=ygUjZWFybCBncmFudCBqZWRlciB0cmF1bSBoYXQgZWluIGVuZGU%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
