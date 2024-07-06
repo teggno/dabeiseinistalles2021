@@ -1,7 +1,7 @@
 ---
 title: Schöne Aussichten
-draft: true
-date: 2024-07-06T11:10:35.986Z
+draft: false
+date: 2024-07-06T14:23:05.854Z
 image: img/img_0601.jpeg
 ---
 „Du Urs, mainsch diä Frisä wüär au miär schto?“ Mein Stilist vom Salon Liotta, hat heute alle Hände voll zu tun. Statt „blau“ zu machen, (er hatte Haus und Hof darauf 🇩🇪 gewettet), mischt er im Atelier eine neue Farbkombination auf. Lila mit einer leichten Dosis pink! Zu Hippiezeiten waren wir verrückt danach 🥳
