@@ -4,7 +4,7 @@ draft: false
 date: 2024-07-06T14:23:05.854Z
 image: img/img_0601.jpeg
 ---
-„Du Urs, mainsch diä Frisä wüär au miär schto?“ Mein Stilist vom Salon Liotta, hat heute alle Hände voll zu tun. Statt „blau“ zu machen, (er hatte Haus und Hof darauf 🇩🇪 gewettet), mischt er im Atelier eine neue Farbkombination auf. Lila mit einer leichten Dosis pink! Zu Hippiezeiten waren wir verrückt danach 🥳
+„Du Urs, mainsch diä Frisä wüär au miär schto?“ Mein Stilist vom Salon Liotta, hat heute alle Hände voll zu tun. Statt „blau“ zu machen, (er hatte Haus und Hof darauf 🇩🇪 gewettet), mischt er im Atelier eine neue Farbkombination auf. Lila mit einer leichten Dosis pink! Zu Hippiezeiten waren wir verrückt danach 🧞‍♀️
 
 „Der Granit 🪨 von Xhaka“ erlaubte sich vor Jahren ähnliche Spässchen. Es kann sich ja jeder verunstalten wie er will, doch irgendwie lenkt das Ganze vom eigentlichen Geschehen ab. Deschamps hat „Antoinine“ Griezmann Derlei verboten! Und in den Niederlanden braucht man die Einwilligung vom Chef. Sind wir denn an der „Street Parade“, würde Franz sich verwundert fragen. Nein mein Lieber, im Gruselkabinett 👹
 
