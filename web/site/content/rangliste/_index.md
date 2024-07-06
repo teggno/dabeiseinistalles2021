@@ -5,9 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  Earl Grant ▶️ Jeder Traum hat ein Ende
-  url: https://www.youtube.com/watch?v=D3n1Y8lEqP8&pp=ygUjZWFybCBncmFudCBqZWRlciB0cmF1bSBoYXQgZWluIGVuZGU%3D
+  title: RAFFI‘S JUKEBOX 🎸 🎶 ⛑️ 🎶  ▶️ Ewigi Liäbi 🥰
+  url: https://www.youtube.com/watch?v=mWZaOzm7A2Y&pp=ygUhZXdpZ2kgbGllYmkgam9kbGVya2x1YiB3aWVzZW5iZXJn
   image: img/jukebox.jpg
-  description: Es tut uns allen leid Jungs 🇩🇪 Ihr hättet mehr verdient
+  description: ""
 type: rangliste
 ---
