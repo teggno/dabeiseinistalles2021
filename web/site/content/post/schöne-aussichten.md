@@ -8,4 +8,4 @@ image: img/img_0601.jpeg
 
 „Der Granit 🪨 von Xhaka“ erlaubte sich vor Jahren ähnliche Spässchen. Es kann ja jeder machen was er will, doch irgendwie lenkt das Ganze vom eigentlichen Geschehen ab. Deschamps hat „Antoinine“ Griezmann Derlei verboten! Und in Holland braucht man die Einwilligung vom Chef. Sind wir denn an der „Street Parade“ würde Franz sich verwundert fragen.
 
-Eigentlich ging’s ja um die 1️⃣0️⃣! Der Chefstratege hat von blondierten Strähnchen zum Glück Abstand genommen und konzentriert sich voll auf seine Aufgabe. Mission Halbfinale, Neuland für die Schweiz! Bei Gegner England gilt dasselbe wie bei la France! Wenn man sie nicht jetzt packt, wann dann?
+Eigentlich ging’s ja um die 1️⃣0️⃣! Der Chefstratege hat von blondierten Strähnchen zum Glück Abstand genommen und konzentriert sich voll auf seine Aufgabe. Mission Halbfinale, Neuland für die Schweiz! Bei Gegner England gilt dasselbe wie bei “La Grande Nation“! Wenn man sie nicht jetzt packt, wann dann? Es mag utopisch klingen, die Schweiz hat das Zeug fürs Finale!
