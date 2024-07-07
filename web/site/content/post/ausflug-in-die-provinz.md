@@ -7,4 +7,4 @@ Langsam kommt der Augenblick, da sich gewisse Leute die im vorderen Drittel plat
 
 Heute will ich mit meinem Cinquecento einen Auslug ins Mittelland machen. Dort wo die satten Kühe 🐄 weiden und die lahmen Enten friedlich im Teich herumplanschen. Es gibt Leute, die halten sich schon ein Leben lang dort auf. Ein zwei Schritte vor und dann gleich wieder zurück. Vom ersten Tag an machen sie es sich in dieser Gegend gemütlich, ohne sich je in höhere Regionen vorzuwagen.
 
-Rede nicht ständig um den Brei herum! Ruck ändlech mit dä Nämä usä!
+Rede nicht ständig um den Brei herum! Ruck ändlech mit dä Nämä usä! Da ich mich gerade im Füfländerblick oberhalb Heiden befinde und dieser „Acker“ immer noch da ist, dachte ich an ein Freundschafsspiel „6 gegä 6“. Team Nostalgie mit
