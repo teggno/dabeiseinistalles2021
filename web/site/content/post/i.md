@@ -12,4 +12,4 @@ Spanien, England, Frankreich und die Niederlande sind DIE 4, die es geschafft ha
 
 Die Rangliste wird später noch überarbeitet. Da hat’s den einen oder anderen Fauxpas drin. Musste schnell gehen gestern Abend. Jetzt lege ich mich wieder hin! Bis später.
 
-![](img/img_0604.jpeg)
+![](img/img_0605.jpeg)
