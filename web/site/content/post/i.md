@@ -10,6 +10,6 @@ Nervenstärke und eiskaltes Handeln sind Eigenschaften, die du unbedingt mitbrin
 
 Spanien, England, Frankreich und die Niederlande sind DIE 4, die es geschafft haben. Sehr viele hier liegen fast goldrichtig und haben deren 3! Einer hat sie alle erraten. Bravo 👏 Am Ende ist es doch noch eine Favoriten-EM geworden, vielleicht mit Ausnahme der Oranjes 🟧, die sich in den letzten Jahren aus diesem Kreis herausgespielt hatten.
 
-Die Rangliste wird später noch überarbeitet. Da hat’s den einen oder anderen Fauxpas drin. Musste schnell gehen gestern Abend. Jetzt lege ich mich wieder hin! Bis später.
+
 
 ![](img/img_0605.jpeg)
