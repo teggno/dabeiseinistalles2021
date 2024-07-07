@@ -6,7 +6,7 @@ image: img/img_0608.jpeg
 ---
 Der Fussball ist schnelllebig geworden, wie unser Alltag. Trauer und Freude, beschränken sich nur noch auf wenige Augenblicke, dann ist das Thema abgehakt. Früher hätte man sich tagelang über Akanji geärgert, der es mit einer Rückgabe versuchte und über Ruefer, der Pickford und Orsato, die Schuld an der Niederlage in die Schuhe schob. Ich bleibe ihm trotzdem treu! 
 
-England, Frankreich und die Niederlande gehören nach den Gesetzen der Ästhetik nicht in dieses Halbfinale. Die Holländer sind dank des idiotischen Modus weiter anwesend.  Die Engländer haben sich reingewürgt und die Franzosen sind im Schongang herreinspaziert. Andere die es verdient hätten sind ausgesperrt worden. Deutschland, Österreich und die Schweiz haben immer noch nicht begriffen, warum „Zutritt verboten“ am Eingang steht.
+England, Frankreich und die Niederlande gehören nach den Gesetzen der Ästhetik nicht in dieses Halbfinale. Die Holländer sind dank des idiotischen Modus weiter anwesend.  Die Engländer haben sich reingeduselt und die Franzosen sind im Schongang herreinspaziert. Andere die es verdient hätten sind ausgesperrt worden. Deutschland, Österreich und die Schweiz haben immer noch nicht begriffen, warum „Zutritt verboten“ am Eingang steht.
 
 Gurkentruppen gab es an dieser EM zuhauf. Italien war die Grösste. Gefolgt von den Portugiesen und den Kroaten. Die Halbfinalisten retten sich nur wegen des Resultats. Sie sind, so wie sie spielen, Feinde des Fussballs. Statt ihr Potential auszuschöpfen, taktieren sie sich von Runde zu Runde. Als Italiener staunt man über den sich wandelnden Geschmack der Fans. Früher wurde man nach solchen Darbietungen in Azurblau 💙  bös zusammengestaucht und indirekt für deren Leistungen an den Marterpfahl gebunden.
 
