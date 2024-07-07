@@ -1,7 +1,7 @@
 ---
 title: RANGLISTE (ohne Gewähr)
 draft: false
-date: 2024-07-06T21:00:33.533Z
+date: 2024-07-07T04:32:32.512Z
 image: img/img_0602.jpeg
 ---
 Es gibt keine Gerechtigkeit. Göttin Fortuna ist eine Engländerin. Die Briten haben Tag und Nacht geübt. So gut haben sie noch nie geschossen. Stopp 🛑 Genau hier liegt der Unterschied. Die Schweizer haben dem Penaltyschiessen zu wenig Beachtung geschenkt. Nicht von ungefähr scheitern sie stets bei derselben “Übung“. Vor drei Jahren gegen Spanien, 2006 gegen die Ukraine. Das beginnt schon beim Auswahlverfahren. Du kannst nicht nach dem Spiel hingehen und in die Runde fragen „Wer traut es sich zu“ Da braucht es Psychologen, die die Schützen bis tief ins Innerste analysieren und immer wieder auf solche Extremsituationen vorbereiten. Schliesslich schickst du auch nicht jeden auf den Mond 🌝 
