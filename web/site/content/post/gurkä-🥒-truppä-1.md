@@ -4,7 +4,7 @@ draft: true
 date: 2024-07-07T10:54:24.714Z
 image: img/img_0607.jpeg
 ---
-Der Fussball ist schnelllebig geworden, wie unser Alltag. Trauer und Freude, beschränken sich nur noch auf Augenblicke, dann ist das Thema abgehakt. Früher hätte man sich tagelang über Akanji geärgert, der es mit einer Rückgabe versuchte und über Rufer der Pickford und Orsato, die Schuld an der Niederlage in die Schuhe schob. Ich bleibe ihm trotzdem treu! 
+Der Fussball ist schnelllebig geworden, wie unser Alltag. Trauer und Freude, beschränken sich nur noch auf wenige Augenblicke, dann ist das Thema abgehakt. Früher hätte man sich tagelang über Akanji geärgert, der es mit einer Rückgabe versuchte und über Ruefer, der Pickford und Orsato, die Schuld an der Niederlage in die Schuhe schob. Ich bleibe ihm trotzdem treu! 
 
 England, Frankreich und die Niederlande gehören nach den Gesetzen der Ästhetik nicht in dieses Halbfinale. Die Holländer sind dank des idiotischen Modus weiter anwesend.  Die Engländer haben sich reingewürgt und die Franzosen sind im Schongang reinspaziert. Andere die es verdient hätten sind ausgesperrt worden. Deutschland, Österreich und die Schweiz haben immer noch nicht begriffen, warum „Zutritt verboten“ am Eingang steht.
 
