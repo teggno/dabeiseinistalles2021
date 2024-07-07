@@ -3,4 +3,6 @@ title: "Gurkä 🥒 truppä "
 draft: true
 date: 2024-07-07T09:36:08.612Z
 ---
-Früher na
+England, Frankreich und die Niederlande gehören nach den Gesetzen der Ästhetik nicht in dieses Halbfinale. Die Holländer sind dank des idiotischen Modus weiter anwesend.  Die Engländer haben sich reingewürgt und die Franzosen sind im Schongang reinspaziert. Andere die es verdient hätten sind ausgesperrt. Deutschland, Österreich und die Schweiz haben immer noch nicht begriffen, warum „Zutritt verboten“ am Eingang steht.
+
+Gurkentruppen gab es an dieser EM zuhauf. Italien war die Grösste. Gefolgt von den Portugiesen und den Kroaten. Die Halbfinalisten retten sich wegen des Resultats. Sie sind Feinde des Fussballs. Statt ihr Potential auszuschöpfen Taktieren sie sich ins Finale. Ich als Italiener, der jahrzehntelang deswegen zusammengestaucht wurde, möchte das an dieser Stelle gerne mal erwähnen. Was England zusammenspielt mit diesem Kader ist eine Zumutung. Die Franzosen genauso. dachte immer, dass es von Spiel zu Spiel schöner wird, aber das Gegenteil ist der Fall. Schlafwagen-Fussball wo man hinschaut. Der Fussball ist schnelllebig geworden, wie der Alltag. Freude und Trauer beschränken sich auf wenige Stunden, dann ist die Sache gegessen. Früher hätte man sich tagelang über Pickford aufgeregt, über Ruefer der es auf Orsato abgesehen hatte oder über Akanji der mit einer Rückgabe, den Anfang vom Ende einläutete.
