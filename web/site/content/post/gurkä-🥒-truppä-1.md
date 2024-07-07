@@ -12,6 +12,8 @@ Gurkentruppen gab es an dieser EM zuhauf. Italien war die Obergurke. England und
 
 Die Schweiz hätte es in der Hand gehabt, die Briten für „ihren Stifäl“ zu bestrafen. Wann wird die Türe in ein Finale jemals wieder so weit offen stehen? 2004 holten die Griechen mit weitaus weniger Substanz den Titel. Qualität die im englischen Team einfach nicht abgerufen wird. Über die Gründe kann nur spekuliert werden. Einzelne Spieler sind nicht wiederzuerkennen. Fodden hat noch keine einzige Flanke sauber in die Mitte geschlagen. Kane ist ein Totalausfall.
 
-Nicht viel besser die Franzosen. Griezmann existiert nicht mehr, Mbappé versteckt sich hinter der Maske und Deschamps feilt weiter an seiner  Überlebensstrategie herum. Zum Glück sind die Spanier noch da, die als einzige Lust auf Fussball wecken. Die UEFA wollte auf 32 aufstocken! Damit man in Vaduz und San Marino auch mal jubeln kann. Dabei wäre Redimensionierung das Gebot der Stunde! Streicht endlich diese unsäglichen „Extras“ wie Ligacup, Supercup, Club-WM, Nations-League etc. Wir möchten keine Stars im Sommerurlaub sehen.  Ich habe fertig!
+Nicht viel besser die Franzosen. Griezmann existiert nicht mehr, Mbappé versteckt sich hinter der Maske und Deschamps feilt weiter an seiner  Überlebensstrategie herum. Zum Glück sind die Spanier noch da, die als einzige Lust auf Fussball wecken. Die UEFA wollte auf 32 aufstocken! Damit man in Vaduz und San Marino auch mal jubeln kann. Dabei wäre Redimensionierung das Gebot der Stunde! Streicht endlich diese unsäglichen „Extras“ wie Ligacup, Supercup, Club-WM, Nations-League etc. Wir möchten keine Stars im Sommerurlaub sehen
+
+Ichhabe fertig! 🙅🏼
 
 PS: Für alle die Lust auf gute Musik haben, ein Sonntagabend-Leckerbissen der alten Schule (Jukebox)
