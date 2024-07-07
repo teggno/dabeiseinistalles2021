@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸 🎶 ⛑️ 🎶  ▶️ 🥰 🇨🇭 😍
-  url: https://www.youtube.com/watch?v=mWZaOzm7A2Y&pp=ygUhZXdpZ2kgbGllYmkgam9kbGVya2x1YiB3aWVzZW5iZXJn
+  title: RAFFI‘S JUKEBOX  🎸 THE BEATLES ▶️  Hey Jude
+  url: https://www.youtube.com/watch?v=A_MjCqQoLLA&pp=ygUIaGV5IGp1ZGU%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
