@@ -1,5 +1,5 @@
 ---
-title: Gurkentruppe
+title: Gurkentruppen
 draft: false
 date: 2024-07-07T11:09:32.133Z
 image: img/img_0608.jpeg
