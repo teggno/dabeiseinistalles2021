@@ -2,6 +2,7 @@
 title: Gurkä 🥒 truppä
 draft: true
 date: 2024-07-07T10:54:24.714Z
+image: img/img_0607.jpeg
 ---
 Der Fussball ist schnelllebig geworden, wie unser Alltag. Trauer und Freude, beschränken sich nur noch auf Augenblicke, dann ist das Thema abgehakt. Früher hätte man sich tagelang über Akanji geärgert, der es mit einer Rückgabe versuchte und über Rufer der Pickford und Orsato, die Schuld an der Niederlage in die Schuhe schob. Ich bleibe ihm trotzdem treu! 
 
