@@ -7,4 +7,4 @@ Der Arzt am Scheideweg! Sind es die „Spanish Eyes“ die einst Engelbert Humpe
 
 Ich mag die spanischen Momente an diesem Turnier. Sie geben mir die Kraft zum Weitermachen! Hoffentlich lassen sich die Artisten von den Minimalisten nicht aus dem Konzept bringen. Es wäre maximaler Ertrag mit minimaler Leistung. Das sehen viele hier logischerweise anders. Zuviel Flüssiges 💰 steht auf dem Spiel. Ob Mbappé sich befreien kann und Griezmann nicht schon entziffert ist von seinen spanischen Kollegen?
 
-Morgen folgt das kleine Halbfinale zwischen England und Niederlande. Zwei, die nicht wissen warum sie noch da sind. Obwohl ich mich nie für Eiskunstlaufen begeistern konnte, hätte ich dieses Mal
+Morgen folgt das kleine Halbfinale zwischen England und Niederlande. Zwei, die nicht wissen warum sie noch da sind. Obwohl ich mich nie für Eiskunstlaufen begeistern konnte, hätte ich dieses Mal eine Note für den künstlerischen Ausdruck begrüsst. Das nackte Resultat ist eine Lüge. Seit Samstagnacht beschleicht mich ein komisches Gefühl. Die werden doch nicht wegen dieser verflixten Wahrscheinlichkeitsrechnung nicht etwa just dieses Mal zuschlagen! Espana ole!
