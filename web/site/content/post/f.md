@@ -1,5 +1,5 @@
 ---
-title: F
+title: Spielverderber?
 draft: true
 date: 2024-07-07T16:55:40.596Z
 image: img/img_0611.jpeg
