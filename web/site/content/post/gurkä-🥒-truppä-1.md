@@ -14,4 +14,4 @@ Die Schweiz hätte es in der Hand gehabt, die Briten für „ihren Stifäl“ zu
 
 Nicht viel besser die Franzosen. Griezmann existiert nicht mehr, Mbappé versteckt sich hinter der Maske und Deschamps feilt weiter an seiner  Überlebensstrategie herum. Zum Glück sind die Spanier noch da, die als einzige Lust auf Fussball wecken. Die UEFA wollte auf 32 aufstocken! Damit man in Vaduz und San Marino auch mal jubeln kann. Dabei wäre Redimensionierung das Gebot der Stunde! Streicht endlich diese unsäglichen „Extras“ wie Ligacup, Supercup, Club-WM, Nations-League etc. Wir möchten keine Stars im Sommerurlaub sehen
 
-Ichhabe fertig! 🙅🏼
+Ich habe fertig! 🙅🏼
