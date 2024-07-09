@@ -1,5 +1,5 @@
 ---
-title: S
+title: "RANGLISTE "
 draft: true
 date: 2024-07-09T20:03:04.504Z
 image: img/img_0614.jpeg
