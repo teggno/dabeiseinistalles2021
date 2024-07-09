@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: Raffi‘s Jukebox  🎸 THE BEATLES ▶️  🧨 💫 🧯
-  url: https://www.youtube.com/watch?v=A_MjCqQoLLA&pp=ygUIaGV5IGp1ZGU%3D
+  title: Raffi‘s Jukebox  🎸 Adriano Celentano  ▶️  Il ragazzo della via Gluck
+  url: https://www.youtube.com/watch?v=iMxOluEwfVw&pp=ygUsaWwgcmFnYXp6byBkZWxsYSB2aWEgZ2x1Y2sgYWRyaWFubyBjZWxlbnRhbm8%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
