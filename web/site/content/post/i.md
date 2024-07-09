@@ -1,5 +1,5 @@
 ---
-title: "Aufräumarbeiten "
+title: Schade 😭
 draft: false
 date: 2024-07-07T04:32:32.512Z
 image: img/img_0602.jpeg
