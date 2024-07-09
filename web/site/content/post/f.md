@@ -4,7 +4,7 @@ draft: true
 date: 2024-07-09T09:08:21.454Z
 image: img/img_0611.jpeg
 ---
-Immer wieder „Blue Spanish Eyes“! Bei Spotify erlebt Engelbert Humperdinck’s Schmachtfetzen aktuell seinen sechsten Frühling. Dicht dahinter folgt das Duo Gainsbourg-Birkin, das auf Schloss Brunnegg seit Zeljkos Rückkehr aus Kroatien zum Dauerthema geworden ist. Es gibt viele hier, die sich zwischen den beiden Nummern nie entscheiden konnten. Spätestens um Mitternacht 🕛 ist damit Schluss!
+Immer wieder „Blue Spanish Eyes“! Bei Spotify erlebt Engelbert Humperdinck’s Schmachtfetzen aktuell seinen sechsten Frühling. Dicht dahinter folgt das Duo Birkin-Gainsbourg, das auf Schloss Brunnegg seit Zeljkos Rückkehr aus Kroatien zum Dauerthema geworden ist. Es gibt viele hier, die sich zwischen den beiden Nummern nie entscheiden konnten. Spätestens um Mitternacht 🕛 ist damit Schluss!
 
 Nachdem 7 verzweifelte Vatikan-Besucher Rom bei Nacht und Nebel verlassen mussten, 1 belgisches Bier ungeniessbar wurde, bei einer Tiroler-Lederhose die Hosenträger streikten, Ewigi Liäbi zweimal nur ein Versprechen war, das deutsche Sommermärchen für (nur) 5 abrupt zu Ende ging, bleiben die meisten hier in Lauerstellung und harren der Dinge die da kommen. Ich bin gerührt von diesem einsamen Botaniker, der seiner Dulcinea nicht verwelkte Tulpen 🌷 aus Amsterdam versprochen hat.
 
