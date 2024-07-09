@@ -6,7 +6,7 @@ image: img/img_0611.jpeg
 ---
 Immer wieder „Blue Spanish Eyes“! Bei Spotify erlebt Engelbert Humperdinck’s Schmachtfetzen aktuell seinen sechsten Frühling. Dicht dahinter folgt das Duo Birkin-Gainsbourg, das auf Schloss Brunnegg seit Zeljkos Rückkehr aus Kroatien zum Dauerthema geworden ist. Es gibt viele hier, die sich zwischen den beiden Nummern nie entscheiden konnten. Spätestens um Mitternacht 🕛 ist damit Schluss!
 
-Nachdem 7 verzweifelte Vatikan-Besucher Rom bei Nacht und Nebel verlassen mussten, 1 belgisches Bier ungeniessbar wurde, bei einer Tiroler-Lederhose die Hosenträger streikten, Ewigi Liäbi zweimal nur ein Versprechen war, das deutsche Sommermärchen für (nur) 5 abrupt zu Ende ging, bleiben die meisten hier in Lauerstellung und harren der Dinge die da kommen. 
+Nachdem 7 verzweifelte Vatikan-Besucher Rom bei Nacht und Nebel verlassen mussten, 1 belgisches Bier ungeniessbar wurde, bei einer Tiroler-Lederhose die Hosenträger streikten, Ewigi Liäbi zweimal nur ein Versprechen blieb, das deutsche Sommermärchen für (nur) 5 abrupt zu Ende ging, bleiben die meisten hier in Lauerstellung und harren der Dinge die da kommen. 
 
 Ich mag die spanischen Momente an diesem Turnier. Sie geben mir die Kraft zum Weitermachen! Hoffentlich lassen sich die Artisten von den Minimalisten nicht aus dem Konzept bringen. Es wäre maximaler Ertrag mit minimaler Leistung. Das sehen die meisten hier logischerweise anders. Zuviel Flüssiges 💰 steht auf dem Spiel. Ob Mbappé sich befreien kann und Griezmann nicht schon entziffert ist von seinen spanischen Kollegen?
 
