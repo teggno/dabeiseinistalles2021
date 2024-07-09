@@ -1,7 +1,7 @@
 ---
 title: Spielverderber
-draft: true
-date: 2024-07-09T09:08:21.454Z
+draft: false
+date: 2024-07-09T09:28:33.821Z
 image: img/img_0611.jpeg
 ---
 Immer wieder „Blue Spanish Eyes“! Bei Spotify erlebt Engelbert Humperdinck’s Schmachtfetzen aktuell seinen sechsten Frühling. Dicht dahinter folgt das Duo Birkin-Gainsbourg, das auf Schloss Brunnegg seit Zeljkos Rückkehr aus Kroatien zum Dauerthema geworden ist. Es gibt viele hier, die sich zwischen den beiden Nummern nie entscheiden konnten. Spätestens um Mitternacht 🕛 ist damit Schluss!
