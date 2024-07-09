@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: Raffi‘s Jukebox  🎸 Adriano Celentano  ▶️  Il ragazzo della via Gluck
+  title: RAFFI‘S JUKEBOX  🎸 Adriano Celentano  ▶️  Il ragazzo della via Gluck
   url: https://www.youtube.com/watch?v=iMxOluEwfVw&pp=ygUsaWwgcmFnYXp6byBkZWxsYSB2aWEgZ2x1Y2sgYWRyaWFubyBjZWxlbnRhbm8%3D
   image: img/jukebox.jpg
   description: ""
