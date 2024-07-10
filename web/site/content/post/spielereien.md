@@ -1,7 +1,8 @@
 ---
-title: "Spielereien "
+title: "Spurensuche "
 draft: true
 date: 2024-07-10T10:14:48.196Z
+image: img/img_0615.png
 ---
 35 haben mit der Sache leider nichts mehr zu tun. Bleiben 18, die sich noch Hoffnungen auf vordere Platzierungen machen dürfen und mit denen wir eine Spielerei, im Stile „who is who“ inszenieren wollen. Damit jeder seine Hirnzellen aktivieren muss, gab Sexualforscher Freud den Leuten ein Synonym, die Reihenfolge ist  natürlich ganz zufällig, sonst würde auch Banquette dahinterkommen 😂
 
