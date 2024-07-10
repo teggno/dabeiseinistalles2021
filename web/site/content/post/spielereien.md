@@ -1,5 +1,5 @@
 ---
-title: Auf der Spurensuche im Zahlensalat (Rangliste)
+title: Auf Spurensuche im Zahlensalat (Rangliste)
 draft: false
 date: 2024-07-10T23:38:58.812Z
 image: img/img_0615.png
