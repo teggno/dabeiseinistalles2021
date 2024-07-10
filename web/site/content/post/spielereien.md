@@ -1,7 +1,7 @@
 ---
 title: Auf der Spurensuche im Zahlensalat (Rangliste)
 draft: false
-date: 2024-07-10T10:14:48.196Z
+date: 2024-07-10T23:38:58.812Z
 image: img/img_0615.png
 ---
 Ein Spiel das nur von der Spannung lebte. Was für ein müder Kick in Halbzeit 2. Im Schach würde man von Remis sprechen. Tulpen 💐 aus Amsterdam gibt es heute keine. Dafür jede Menge Seufzer der Erleichterung! Kane im Sandwich und doch erster Anwärter auf die Torschützen-Krone 👑 England ist 3 Jahre nach dem Elfmeter-Drama erneut im EM- Finale! Vom künstlerischen Ausdruck her, gibt es keinen Zweifel; die Spanier machen es am Schönsten! Leider zählt das im Fussball nur bedingt. Mich beschleicht ein komisches Gefühl für Sonntag. Ich war noch nie ein guter Frauentröster.
