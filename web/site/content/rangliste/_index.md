@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Adriano Celentano  ▶️  Il ragazzo della via Gluck
-  url: https://www.youtube.com/watch?v=iMxOluEwfVw&pp=ygUsaWwgcmFnYXp6byBkZWxsYSB2aWEgZ2x1Y2sgYWRyaWFubyBjZWxlbnRhbm8%3D
+  title: RAFFI‘S JUKEBOX  🎸 Black Sabbath  ▶️  Paranoid
+  url: https://www.youtube.com/watch?v=0qanF-91aJo&pp=ygUXYmxhY2sgc2FiYmF0aCBwYXJhbm9pZCA%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
