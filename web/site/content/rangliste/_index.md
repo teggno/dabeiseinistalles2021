@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Black Sabbath  ▶️  Paranoid
-  url: https://www.youtube.com/watch?v=0qanF-91aJo&pp=ygUXYmxhY2sgc2FiYmF0aCBwYXJhbm9pZCA%3D
+  title: RAFFI‘S JUKEBOX  🎸 Aerosmith  ▶️  Crazy
+  url: https://www.youtube.com/watch?v=NMNgbISmF4I&pp=ygUPY3JhenkgYWVyb3NtaXRo
   image: img/jukebox.jpg
   description: ""
 type: rangliste
