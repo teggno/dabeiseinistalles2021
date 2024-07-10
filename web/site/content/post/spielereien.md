@@ -1,5 +1,5 @@
 ---
-title: "Spurensuche "
+title: "Rangliste+Spurensuche "
 draft: true
 date: 2024-07-10T10:14:48.196Z
 image: img/img_0615.png
