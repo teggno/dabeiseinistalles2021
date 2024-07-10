@@ -10,4 +10,4 @@ Nervenstärke und eiskaltes Handeln sind Eigenschaften, die du unbedingt mitbrin
 
 Spanien 🇪🇸 England  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Frankreich 🇫🇷 und die Niederlande  🇳🇱 sind die 4, die es ins Halbfinale geschafft haben. Sehr viele hier liegen fast goldrichtig und haben deren 3 auf ihrem Zettel verewigt.  Einer hat sie alle erraten. Bravo 👏 Am Ende ist es doch noch eine Favoriten-EM geworden, vielleicht mit Ausnahme der Oranjes 🟧, die sich in den letzten Jahren aus diesem Kreis herausgespielt hatten.
 
-![](img/img_0605.jpeg)
+![]()
