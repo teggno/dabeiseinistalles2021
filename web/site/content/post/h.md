@@ -1,7 +1,7 @@
 ---
 title: "Aufräumarbeiten "
-draft: true
-date: 2024-07-09T09:07:37.490Z
+draft: false
+date: 2024-07-10T07:28:10.147Z
 image: img/img_0612.jpeg
 ---
 So viele Ausfälle gab es noch nie!  Ich wollte sie schon alle aus der Wertung nehmen, bis mich Altmeister Alfred Hitchcock auf etwas Fundamentales aufmerksam machte: Du Raffi, ein wenig Spannung musst du schon noch aufrechterhalten. Trotz dieses berechtigten Einwandes möchte ich euch nachfolgend ein paar Schicksale, die mich wirklich bewegen, näherbringen.
