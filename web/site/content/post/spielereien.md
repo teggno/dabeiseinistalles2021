@@ -4,7 +4,7 @@ draft: false
 date: 2024-07-10T10:14:48.196Z
 image: img/img_0514.jpeg
 ---
-Ein Spiel das nur von der Spannung lebte. Was für ein müder Kick in Halbzeit 2. Im Schach ♟️ spräche man von Remis. Tulpen 💐 aus Amsterdam gibt es keine. Dafür jede Menge Seufzer der Erleichterung! Kane im Sandwich und doch erster Anwärter auf die Torschützen-Krone 👑 England ist 3 Jahre nach dem Elfmeter-Drama erneut im EM- Finale! Vom künstlerischen Ausdruck her, gibt es keinen Zweifel; die Spanier machen es am Schönsten! Leider zählt das im Fussball nur bedingt. Mich beschleicht ein komisches Gefühl für Sonntag ……Ich war noch nie ein guter Frauentröster.
+Ein Spiel das nur von der Spannung lebte. Was für ein müder Kick in Halbzeit 2. Im Schach ♟️ spräche man von Remis. Tulpen 💐 aus Amsterdam gibt es keine. Dafür jede Menge Seufzer der Erleichterung! Kane im Sandwich und doch erster Anwärter auf die Torschützen-Krone 👑 England ist 3 Jahre nach dem Elfmeter-Drama erneut im EM- Finale! Vom künstlerischen Ausdruck her, gibt es keinen Zweifel; die Spanier machen es am Schönsten! Leider zählt das im Fussball nur bedingt. Mich beschleicht ein komisches Gefühl für Sonntag. Ich war noch nie ein guter Frauentröster.
 
 01 =  600 René Benz
 
