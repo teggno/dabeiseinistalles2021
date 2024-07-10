@@ -74,9 +74,9 @@ Ein Spiel das nur von der Spannung lebte. Was für ein müder Kick in Halbzeit 2
 
 34  =     470 Made+Donato
 
-35  =      470 Eva-Maria
+35  =     470 Eva-Maria
 
-36  =     460Kuno Schwarzer
+36  =    460 Kuno Schwarzer
 
 37   =   450 Leni+Luc
 
@@ -96,15 +96,15 @@ Ein Spiel das nur von der Spannung lebte. Was für ein müder Kick in Halbzeit 2
 
 45  =   400 Salon Liotta
 
-46  =   380 Claudia+Peppe
+46  =   400 Baggerstube
 
 47  =   380 die Freigels
 
-48  =   370 Severin Stucky
+48  =   380 Claudia+Peppe
 
 49  =   370 Daniela+Paolo
 
-50  =   370 Baggerstube 
+50  =   370 Severin Stucky
 
 51   =   360  Stephi+Cristiano
 
