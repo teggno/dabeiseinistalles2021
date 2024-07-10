@@ -10,4 +10,110 @@ Ein Spiel das nur von der Spannung lebt. Was für ein müder Kick in Halbzeit 2.
 
 Beginnen wollen wir mit Spielervermittler Jorge Mendes, dann gehen wir über zu Torwart-Denkmal Sepp Maier, Finanzjongleurin Cathie Wood, Ex-Brasilien Linksaussen Roberto Rivelino 🙈, Bananarama, Wallstreet-Guru Warren Buffett, Julia Roberts+Richard Gere, Marathon-Man Kipchoge Keino, Party-Dancer John Travolta, Rad-Legende Eddy Merckx, Rocco Siffredi, Inter-Legende Sandro Mazzola, Ginger Rogers+Fred Astaire, Computer-Freak Bill Gates, Milan-Ikone Gianni Rivera, Gigi l‘amoroso, s’Fruäthwilär 👩‍❤️‍👨 und last but not least das Orakel von Tägerwilen, das mittlerweile die ganze Welt kennt 😎
 
-Keine Tulpen 💐 aus Amsterdam! Dafür jede Menge Seufzer der Erleichterung! Kane aufgewacht! England 3 Jahre nach dem Elfmeter-Drama erneut im Finale! Vom künstlerischen Ausdruck her, gibt es keine Zweifel; die Spanier machen es am Schönsten! Leider zählt das im Fussball nur bedingt und darum aufgepasst auf Hey Jude Bellingham und Kompanie! Mich beschleicht dieses komische Gefühl dass……Ich war noch nie ein guter Frauentröster.
+
+
+01 =  610 ROSA+MARLEN 🥇
+
+02 =  600 René Benz 
+
+03 =  590 Pina+Michele La Macchia
+
+04 =  590 Cosimo Cataldo 
+
+05 =  590 Miro Berger 
+
+06 =  580 dä dog 
+
+07 =  580 Tina+Roland
+
+08 =  580 Barbara+Urs Schläpfer
+
+09  = 570 Mobby 
+
+10  =  560 Claudia+Markus Singer
+
+11  =   550 Kurt Meier
+
+12  =   530 Anton Teuffel
+
+13  =   530  Martha+Sergio Gimenez 
+
+14  =   520 Renato Meier
+
+15  =   510  Gülay Turcan
+
+16  =   510  Emma+Christian
+
+17  =   510 Coq
+
+18   =  510 Jeanette+Urs
+
+19   =  510 Daniela+Davide Brocca
+
+20   =  510  Roger Blatter
+
+21    =  510 Zeljko Berger
+
+22   =   510 Gina+Bruno
+
+23   =   500 Verena+Bruno Wacker
+
+24   =   500 Andy+Andi Hermann
+
+25   =   500 Regula+Franco
+
+26  =    500 Guanfranco Caporusso
+
+27  =     490 Nunzio Padula
+
+28  =     490 Liddy+Thomas
+
+29  =     480 Kini Hornstein
+
+30  =     480 Lilly+Raffaele 
+
+31   =     480 Nico Colaci 
+
+32   =    470 Urs+Katy
+
+33   =    470 dä Sunneschi☀️+dä Chaschtä
+
+34  =     470 Made+Donato
+
+35  =      470 Eva-Maria
+
+36  =     460Kuno Schwarzer
+
+37   =   450 Leni+Luc
+
+38  =    450Memduh Aktas  
+
+39 =     440 Renato Petrillo
+
+40 =    430 Vonki
+
+41  =    430 Bea Colaci
+
+42  =   420 Zac
+
+43  =   420  Janis Hermann
+
+44 =    410 Katja+Tommy
+
+45  =   400 Salon Liotta
+
+46  =   380 Claudia+Peppe
+
+47  =   380 die Freigels
+
+48  =   370 Severin Stucky
+
+49  =   370 Daniela+Paolo
+
+50  =   370 Baggerstube 
+
+51   =   360  Stephi+Cristiano
+
+52  =    340 Inge+Gregor
+
+53  =    270 Margot+Leo 🏮
