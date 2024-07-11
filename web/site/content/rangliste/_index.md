@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Gary Moore  ▶️ Parisienne Walkways
-  url: https://www.youtube.com/watch?v=DwhJZwQTqVU&pp=ygUeZ2FyeSBtb29yZSBwYXJpc2llbm5lIHdhbGt3YXlz
+  title: RAFFI‘S JUKEBOX  🎸 Marcello Masroianni  ▶️ un amore grande
+  url: https://www.youtube.com/watch?v=kffaKHD4v9w&pp=ygUhdW4gYW1vcmUgZ3JhbmRlIHBlcHBpbm8gZ2FnbGlhcmRp
   image: img/jukebox.jpg
   description: ""
 type: rangliste
