@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Dire Straits  ▶️  Brothers in Arms
-  url: https://www.youtube.com/watch?v=jhdFe3evXpk&pp=ygUMZGlyZSBzdHJhaXRz
+  title: "RAFFI‘S JUKEBOX  🎸 Pink Floyd  ▶️  Wearing the inside out "
+  url: https://www.youtube.com/watch?v=nShc6s6vrhU&pp=ygUmd2VhcmluZyB0aGUgaW5zaWRlIG91dCBwaW5rIGZsb3lkIGxpdmU%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
