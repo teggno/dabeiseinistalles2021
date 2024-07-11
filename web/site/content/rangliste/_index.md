@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Ricchi e Poveri  ▶️ Come vorrei
-  url: https://www.youtube.com/watch?v=KT44aQ_10XM&pp=ygUYcmljY2hpIGUgcG92ZXJpIG1hcmxlbmEg
+  title: RAFFI‘S JUKEBOX  🎸 Matt Monro  ▶️ All of a Sudden
+  url: https://www.youtube.com/watch?v=WsP59ZuhPFY&pp=ygUPYWxsIG9mIGEgc3VkZGVu
   image: img/jukebox.jpg
   description: ""
 type: rangliste
