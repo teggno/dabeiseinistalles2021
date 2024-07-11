@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Jimi Hrndrix ▶️ All along the Watchtower
-  url: https://www.youtube.com/watch?v=6YoVJJmP_60&pp=ygUlamltaSBoZW5kcml4IGFsbCBhbG9uZyB0aGUgd2F0Y2h0b3dlcg%3D%3D
+  title: RAFFI‘S JUKEBOX  🎸 Joe Cocker  ▶️ With á little help for m fiends
+  url: https://www.youtube.com/watch?v=rUVEFkjqiEE&pp=ygUtam9lIGNvY2tlciB3aXRoIGEgbGl0dGxlIGhlbHAgZnJvbSBteSBmcmllbmRz
   image: img/jukebox.jpg
   description: ""
 type: rangliste
