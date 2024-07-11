@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 Pink Floyd  ▶️  Wearing the inside out "
-  url: https://www.youtube.com/watch?v=nShc6s6vrhU&pp=ygUmd2VhcmluZyB0aGUgaW5zaWRlIG91dCBwaW5rIGZsb3lkIGxpdmU%3D
+  title: RAFFI‘S JUKEBOX  🎸 Mick Jagger  ▶️  Hard Woman
+  url: https://www.youtube.com/watch?v=IcejzV-KGPI&pp=ygUWbWljayBqYWdnZXIgaGFyZCB3b21hbg%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
