@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Queen ▶️. Bohemian Rhapsody
-  url: https://www.youtube.com/watch?v=fJ9rUzIMcZQ&pp=ygUXcXVlZW4gYm9oZW1pYW4gcmhhcHNvZHk%3D
+  title: RAFFI‘S JUKEBOX  🎸 The Eagles ▶️. Hotel California
+  url: https://www.youtube.com/watch?v=QrkNYFAJaWY&pp=ygUXZWFnbGVzIGhvdGVsIGNhbGlmb3JuaWE%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
