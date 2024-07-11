@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Joe Cocker  ▶️ With á little help for m fiends
+  title: "RAFFI‘S JUKEBOX  🎸 Joe Cocker  ▶️ With a little help from my friends "
   url: https://www.youtube.com/watch?v=rUVEFkjqiEE&pp=ygUtam9lIGNvY2tlciB3aXRoIGEgbGl0dGxlIGhlbHAgZnJvbSBteSBmcmllbmRz
   image: img/jukebox.jpg
   description: ""
