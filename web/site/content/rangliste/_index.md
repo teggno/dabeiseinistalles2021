@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Led Zeppelin ▶️ Stairway to Heaven
-  url: https://www.youtube.com/watch?v=QkF3oxziUI4&pp=ygUfbGVkIHplcHBlbGluIHN0YWlyd2F5IHRvIGhlYXZlbg%3D%3D
+  title: RAFFI‘S JUKEBOX  🎸 Jimi Hrndrix ▶️ All along the Watchtower
+  url: https://www.youtube.com/watch?v=6YoVJJmP_60&pp=ygUlamltaSBoZW5kcml4IGFsbCBhbG9uZyB0aGUgd2F0Y2h0b3dlcg%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
