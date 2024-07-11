@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 Deep Purple  ▶️  When á blind man cries "
-  url: https://www.youtube.com/watch?v=TpKbmmm6D2o&pp=ygUiZGVlcCBwdXJwbGUgd2hlbiBhIGJsaW5kIG1hbiBjcmllcw%3D%3D
+  title: RAFFI‘S JUKEBOX  🎸 Queen ▶️. Bohemian Rhapsody
+  url: https://www.youtube.com/watch?v=fJ9rUzIMcZQ&pp=ygUXcXVlZW4gYm9oZW1pYW4gcmhhcHNvZHk%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
