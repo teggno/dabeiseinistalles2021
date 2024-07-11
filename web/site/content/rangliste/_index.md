@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 Joe Cocker  ▶️ With a little help from my friends "
-  url: https://www.youtube.com/watch?v=rUVEFkjqiEE&pp=ygUtam9lIGNvY2tlciB3aXRoIGEgbGl0dGxlIGhlbHAgZnJvbSBteSBmcmllbmRz
+  title: RAFFI‘S JUKEBOX  🎸 Gary Moore  ▶️ Parisienne Walkways
+  url: https://www.youtube.com/watch?v=DwhJZwQTqVU&pp=ygUeZ2FyeSBtb29yZSBwYXJpc2llbm5lIHdhbGt3YXlz
   image: img/jukebox.jpg
   description: ""
 type: rangliste
