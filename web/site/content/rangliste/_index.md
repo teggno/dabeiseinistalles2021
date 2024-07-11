@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Matt Monro  ▶️ All of a Sudden
-  url: https://www.youtube.com/watch?v=WsP59ZuhPFY&pp=ygUPYWxsIG9mIGEgc3VkZGVu
+  title: RAFFI‘S JUKEBOX  🎸 The Carpenters  ▶️ Yesterday once More
+  url: https://www.youtube.com/watch?v=yf2hDEpXZuo&pp=ygUidGhlIGNhcnBlbnRlcnMgeWVzdGVyZGF5IG9uY2UgbW9yZQ%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
