@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Mick Jagger  ▶️  Hard Woman
-  url: https://www.youtube.com/watch?v=IcejzV-KGPI&pp=ygUWbWljayBqYWdnZXIgaGFyZCB3b21hbg%3D%3D
+  title: "RAFFI‘S JUKEBOX  🎸 Deep Purple  ▶️  When á blind man cries "
+  url: https://www.youtube.com/watch?v=TpKbmmm6D2o&pp=ygUiZGVlcCBwdXJwbGUgd2hlbiBhIGJsaW5kIG1hbiBjcmllcw%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
