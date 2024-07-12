@@ -8,7 +8,7 @@ England wird es machen, obwohl Spanien im Moment besser ist und attraktiver spie
 
 Spanien hat den besseren Keeper. „Spinnen“ tun sie beide, aber das ist bei Torhütern normal 🤫. Unal Simon kann ein Spiel drehen, weil es in seinem Naturell verankert ist, unnötige Risiken einzugehen. Der Abwehrverbund gleicht sich in etwa aus. Frank Zappa, (Cuccurella) ist eine der positiven Überraschungen dieses Turniers.
 
-Das Mittelfeld gehört klar den Spaniern. Ruiz und Rodri haben viel die grösseren Überraschungsmomente als Rice und Manoo. Olmo stellt Bellingham aktuell in den Schatten. Im Sturm leben Williams und Yamal von ihrem jugendlichen Leichtsinn. Sakka zwar auch, aber Fodden ist blockiert. Einer der im richtigen Miment den Knopf aufmachen könnte. Im Sturmzentrum ist auc ein hinkender Kane eine „Vorstopper“ Morata klar überlegen!
+Das Mittelfeld gehört klar den Spaniern. Ruiz und Rodri haben viel die grösseren Überraschungsmomente als Rice und Manoo. Olmo stellt Bellingham aktuell in den Schatten. Im Sturm leben Williams und Yamal von ihrem jugendlichen Leichtsinn. Sakka zwar auch, aber Fodden ist blockiert. Einer der im richtigen Moment den Knopf aufmachen könnte. Im Sturmzentrum ist auch ein hinkender Kane eine „Vorstopper“ Morata meilenweit überlegen!
 
 Nach diesen mehr oder weniger logischen Erkenntnissen ist die Suppe gegessen! Spanien gewinnt 2:0!  jetzt kommen jedoch andere Konstellationen ins Spiel Nostradamus Freud, Sokrates und Salomon wollen ebenfalls ein Wörtchen mitreden. Letzterer ist das entscheidende Teilchen im ganzen Puzzle, denn er beurteilt die Dinge im Kontext des Übergeordneten. Und gerade hier haben die Briten Nachholbedarf.
 
