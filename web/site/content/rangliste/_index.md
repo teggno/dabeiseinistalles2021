@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Udo Lindenberg ▶️ Das Leben
-  url: https://www.youtube.com/watch?v=jvxqzBeUj-w&pp=ygUOdWRvIGxpbmRlbmJlcmc%3D
+  title: RAFFI‘S JUKEBOX  🎸 Smokie  ▶️  Lay back in the arms…..
+  url: https://www.youtube.com/watch?v=opJyRioBHp8&pp=ygUmc21va2llIGxheSBiYWNrIGluIHRoZSBhcm1zIG9mIHNvbWVvbmU%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
