@@ -4,7 +4,7 @@ draft: true
 date: 2024-07-12T08:03:52.140Z
 image: img/img_0619.jpeg
 ---
-Espana 🇪🇸 olé? Ist le 14 juillet in der Hand der Iberer Alcaraz+Yamal? Einer, welcher, beide, keiner⁉️ Solche Spielereien überlasse ich anderen. Ich konzentriere mich voll auf die grössere Kugel ⚽️ 
+Espana 🇪🇸 olé? Ist le 14 juillet in der Hand der Iberer Alcaraz+Yamal? Einer, welcher, beide, keiner⁉️ Solche Spielereien überlasse ich anderen, die von Tennis 🎾 mehr verstehen als ich. Meine Aufmerksamkeit  richtet sich auf den grösseren Ball ⚽️ 
 
 England wird es machen, obwohl Spanien im Moment besser ist und viel viel attraktiver spielt.! Das habe ich vor drei Jahren zwar auch erzählt und dann kam’s im Penaltyschiessen ganz anders, weil Italien Donnarumma zwischen den Pfosten hatte und England drei unreife Teenager antreten liess. Darin lag der Unterschied. Der Rest war 120 Minuten gegenseitige Rücksichtnahme.
 
