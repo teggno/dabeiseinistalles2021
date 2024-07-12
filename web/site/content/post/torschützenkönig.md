@@ -1,6 +1,6 @@
 ---
 title: "News zum Torschützenkönig "
-draft: true
+draft: false
 date: 2024-07-12T20:41:19.648Z
 image: img/img_0622.jpeg
 ---
