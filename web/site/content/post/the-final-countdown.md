@@ -8,9 +8,9 @@ England wird es machen, obwohl Spanien im Moment besser ist und attraktiver spie
 
 Spanien hat den besseren Keeper. „Spinnen“ tun sie beide, aber das ist bei Torhütern normal 🤫. Unal Simon kann dir ein Soiel drehen, weil es in seinem Naturell verankert ist, unnötige Risiken einzugehen. Der Abwehrverbund gleicht sich in etwa aus. Frank Zappa, (Cuccurella) ist eine der positiven Überraschungen dieses Turniers.
 
-Das Mittelfeld gehört klar den Spaniern. Ruiz und Rodri haben viel die grösseren Überraschungsmomente als Rice und Manoo. Olmo stellt Bellingham aktuell in den Schatten. Morata und Kane sind an normalen Tagen soweit voneinander entfernt wie die Erde und der Mars. Und Williams+Yamal sind wenn sie so auftreten wie bisher, Fodden und Sakka überlegen.
+Das Mittelfeld gehört klar den Spaniern. Ruiz und Rodri haben viel die grösseren Überraschungsmomente als Rice und Manoo. Olmo stellt Bellingham aktuell in den Schatten. Im Sturm leben Williams und Yamal von ihrem jugendlichen Leichtsinn. Sakka zwar auch, aber Fodden ist blockiert. Einer der im richtigen Miment den Knopf aufmachen könnte. Im Sturmzentrum ist auc ein hinkender Kane eine „Vorstopper“ Morata klar überlegen!
 
-Nach diesen Erkenntnissen ist alles gegessen 2:0 für Spanien! Doch jetzt kommen andere ins Spiel Freud, Nietsche, Sokrates und Salomon! Letzterer ist die wichtigste Person im ganzen Puzzle, denn er beurteilt die Dinge im Kontext des Übergeordneten. Und gerade hier haben die Briten Nachholbedarf.
+Nach diesen mehr oder weniger logischen Erkenntnissen ist die Suppe gegessen! Spanien gewinnt 2:0!  jetzt kommen jedoch andere Konstellationen ins Spiel Nostradamus Freud, Sokrates und Salomon wollen ebenfalls ein Wörtchen mitreden. Letzterer ist das entscheidende Teilchen im ganzen Puzzle, denn er beurteilt die Dinge im Kontext des Übergeordneten. Und gerade hier haben die Briten Nachholbedarf.
 
 Ich war unschuldige 11 als sich der Schweizer Schiri 1966 anschickte in Zusammenarbeit mit Linienrichter Bachramov das grösste Versehen seines Lebens zu begehen. Geoffenbartem Hurst bedankte sich und England wurde auf Kosten von Deutschland Weltmeister. Wer hätte damals gedacht, dass es 58 Jahre dauern würde, bis im Stile von Bobby Moore, Harry Kane einen wichtigen Pokal in den Abendhimmel strecken würde?
 
