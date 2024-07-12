@@ -6,7 +6,7 @@ image: img/img_0619.jpeg
 ---
 Espana 🇪🇸 olé? Ist le 14 juillet in der Hand der Iberer Alcaraz+Yamal? Einer, welcher, beide, keiner⁉️ Solche Spielereien überlasse ich anderen, die von Tennis 🎾 mehr verstehen als ich. Meine Aufmerksamkeit richtet sich ausschliesslich auf den grösseren Ball ⚽️ 
 
-England wird es machen, obwohl Spanien im Moment besser ist und viel viel attraktiver spielt.! Das habe ich vor drei Jahren zwar auch erzählt und dann kam’s im Penaltyschiessen ganz anders, weil Italien Donnarumma zwischen den Pfosten hatte und England drei unreife Teenager antreten liess. Darin lag der Unterschied. Der Rest war 120 Minuten gegenseitige Rücksichtnahme.
+England wird es machen, obwohl Spanien im Moment besser ist und viel viel attraktiver spielt.! Das habe ich vor drei Jahren zwar auch schon erzählt und dann kam’s im Penaltyschiessen ganz anders, weil Italien Donnarumma zwischen den Pfosten hatte und England drei unreife Teenager antreten liess. Darin lag der Unterschied. Der Rest war 120 Minuten gegenseitige Rücksichtnahme.
 
 Spanien hat den besseren Keeper. „Spinnen“ tun sie beide, aber das ist bei Torhütern ganz normal 🤫. Unai Simon kann ein Spiel in die falsche Richtung dirigieren, weil sein Naturell zu unnötigen Risiken neigt. Pickford versucht es mit Grimassen. Profis fallen selten darauf herein. Die hinteren Reihen scheinen mir in etwa auf demselben Level zu sein. „Frank Zappa“ auf links, ist eine der positiven Überraschungen dieses Turniers, was man von Trippier nicht unbedingt behaupten kann. 
 
