@@ -4,7 +4,7 @@ draft: true
 date: 2024-07-12T08:03:52.140Z
 image: img/img_0619.jpeg
 ---
-England wird es machen, obwohl Spanien im Moment besser ist und viel viel attraktiver spielt.! Das habe ich vor drei Jahren zwar auch erzählt und dann kam’s im Penaltyschiessen ganz anders, weil Italien Donnarumma zwischen den Pfosten hatte und England drei unreife Teenager antreten liess. Das war der Unterschied. Der Rest war 120 Minuten gegenseitige Rücksichtnahme. Wie meistens auf diesem Niveau lag es an den Details.
+England wird es machen, obwohl Spanien im Moment besser ist und viel viel attraktiver spielt.! Das habe ich vor drei Jahren zwar auch erzählt und dann kam’s im Penaltyschiessen ganz anders, weil Italien Donnarumma zwischen den Pfosten hatte und England drei unreife Teenager antreten liess. Darin lag der Unterschied. Der Rest war 120 Minuten gegenseitige Rücksichtnahme. 
 
 Spanien hat den besseren Keeper. „Spinnen“ tun sie beide, aber das ist bei Torhütern ganz normal 🤫. Unai Simon kann ein Spiel in die falsche Richtung drehen, weil sein Naturell zu unnötigen Risiken neigt. Der Abwehrverbund scheint mir in etwa auf demselben Level zu sein. Frank Zappa, (Cuccurella) ist eine der positiven Überraschungen dieses Turniers.
 
