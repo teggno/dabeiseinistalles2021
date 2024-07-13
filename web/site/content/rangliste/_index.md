@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Steppenwolf   ▶️  Born to be wild
-  url: https://www.youtube.com/watch?v=egMWlD3fLJ8&pp=ygUKZWFzeSByaWRlcg%3D%3D
+  title: "RAFFI‘S JUKEBOX  🎸 Europe   ▶️  The Final Countdown "
+  url: https://www.youtube.com/watch?v=9jK-NcRmVcw&pp=ygUTdGhlIGZpbmFsIGNvdW50ZG93bg%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
