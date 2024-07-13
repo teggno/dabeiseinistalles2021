@@ -4,7 +4,7 @@ draft: true
 date: 2024-07-12T08:03:52.140Z
 image: img/img_0619.jpeg
 ---
-Noch einmal Prophet spielen! Nach 6 Wochen „Hofnarr“ will ich mir diesen Spass unbedingt gönnen. Rückblende: 11. Juli 2021! Kurz vor dem EM-Finale kürt das Orakel von Tägerwilen England vorzeitig zum Eurropameister, obwohl seine Herzdame 🇮🇹 in die Sache verwickelt ist. Nachdem Gigi Donnarumma die drei Teenager Rashford, Sancho und Saka hypnotisiert, ist seine Vorhersage am A….🤫 Unverbesserliche Zocker, die seinen Prophezeiungen gefolgt sind, verlieren Haus und Hof. 😎
+Noch einmal Prophet spielen! Nach 6 Wochen „Hofnarr“ sei mir das gegönnt! Rückblende: 11. Juli 2021! Kurz vor dem EM-Finale kürt das Orakel von Tägerwilen England vorzeitig zum Eurropameister, obwohl seine Herzdame 🇮🇹 in die Sache verwickelt ist. Nachdem Gigi Donnarumma die drei Teenager Rashford, Sancho und Saka hypnotisiert, ist die Vorhersage futsch. Unverbesserliche Zocker, die den Prophezeiungen gefolgt sind, verlieren Haus und Hof. 😎
 
 14-07-2024! Fast dieselbe Ausgangslage! Spanien anstelle Italines! Und wieder „all in“ auf die „Three Lions“. Die ausführliche Rechtfertigung folgt hier.
 
