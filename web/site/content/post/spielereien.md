@@ -34,11 +34,11 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 12  =   530 Anton Teuffel
 
-13  =   530  Martha+Sergio Gimenez 
+13  =   830 Stephi+Cristiano
 
-14  =   520 Renato Meier
+14  =   780 René Benz
 
-15  =   510  Gülay Turcan
+15  =   740 Katja+Tommy
 
 16  =   690 Gina+Bruno
 
