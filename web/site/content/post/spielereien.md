@@ -10,7 +10,7 @@ Ein Spiel das nur von der Spannung lebte. Was für ein müder Kick in Halbzeit z
 
 Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
-01 =  1060 DOG 🏆
+01 =  1060 DOG  👑 🏆
 
 02 = 1030 Kurt Meier 🥈
 
