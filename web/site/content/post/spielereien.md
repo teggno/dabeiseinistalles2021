@@ -94,9 +94,9 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 42  =   420 Zac
 
-43  =   420  Janis Hermann
+43  =   460  Vonki
 
-44 =    410 Katja+Tommy
+44 =    460 Bea Colaci
 
 45  =   450 Janis Hermann
 
