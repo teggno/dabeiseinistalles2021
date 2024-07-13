@@ -78,15 +78,15 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 34  =     470 Made+Donato
 
-35  =     470 Eva-Maria
+35  =    490 470 Eva-Maria
 
 36  =    460 Kuno Schwarzer
 
 37   =   450 Leni+Luc
 
-38  =    450Memduh Aktas  
+38  =   490 Nunzio Padula  
 
-39 =     
+39 =    490 Kuno Schwarzer 
 
 40 =    480 Memduh Aktas
 
