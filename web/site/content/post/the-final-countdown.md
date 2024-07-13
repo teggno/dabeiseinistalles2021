@@ -12,6 +12,4 @@ In dieser Zeit hat sich die Gerechtigkeit alles zurückgeholt was nur möglich w
 
 Jetzt wo alles für die Iberer angerichtet war, lief alles für die Briten. Williams und Yamal wurden ausgeschaltet, das Mittelfeld existierte nicht mehr. All die Vorschusslorbeeren waren verflogen. Fodden spielte auf einmal auf, Kane war wiederauferstanden und Bellingham erinnerte an Madrid. Die Fussballwelt kam aus dem Staunen nicht mehr heraus. Und Southgate war auf einmal der Grösste. Niemand wusste genau was hinter dem Wunder von Berlin wirklich steckte. Jetzt wisst ihr Beschei.
 
-England, Kane und ich finden heute Abend nach unzähligen Dates endlich zusammen. Lieber spät als gar nie. Mir bringt die Liaison ausser der Rettung von Ansehen und Ehre nichts. Pecunia geht wieder einmal an die Falschen! Gerechtigkeit widerfährt halt doch nicht allen.
-
-Für Espana 🇪🇸 tut es mir leid 🥲. Por favor, perdoname.
+England, Kane und ich haben heute Abend nach unzähligen Dates endlich zusammengefunden. Mir bringt die Liaison ausser Ansehen und Ehre nichts. Pecunia geht wieder einmal an die Falschen! Gerechtigkeit widerfährt halt doch nicht allen. Für Espana 🇪🇸 tut es mir leid 🥲. Por favor, perdoname.
