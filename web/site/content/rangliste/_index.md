@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
   title: RAFFI‘S JUKEBOX  🎸 Peter Maffay   ▶️  Es war Sommer
-  url: ""
+  url: https://www.youtube.com/watch?v=-khXx1Y0WeU&pp=ygUbcGV0ZXIgbWFmZmF5IGVzIHdhciBzb21tZXIg
   image: img/jukebox.jpg
   description: ""
 type: rangliste
