@@ -4,7 +4,7 @@ draft: true
 date: 2024-07-12T08:03:52.140Z
 image: img/img_0619.jpeg
 ---
-Nach 6 Wochen Hofnarr spielen, noch einmal Prophet sein! Rückblende auf den 11. Juli 2021! Kurz vor dem EM-Finale kürt das Orakel von Tägerwilen England vorzeitig zum Eurropameister, obwohl seine Herzdame 🇮🇹 in die Sache verwickelt ist. Nachdem Gigi Donnarumma die drei Teenager Rashford, Sancho und Saka hypnotisiert hat, ist die Vorhersage futsch. Unverbesserliche Zocker, die den Prophezeiungen gefolgt sind, verlieren Haus und Hof. 
+Nach 6 Wochen Hofnarr spielen, noch einmal Prophet sein! Rückblende auf den 11. Juli 2021! Kurz vor dem EM-Finale kürt das „Orakel von Tägerwilen“ England vorzeitig zum Eurropameister, obwohl seine Herzdame 🇮🇹 in die Sache verwickelt ist. Nachdem Gigi Donnarumma die drei Teenager Rashford, Sancho und Saka hypnotisiert hat, ist die Vorhersage futsch. Unverbesserliche Zocker, die den Prophezeiungen gefolgt sind, verlieren Haus und Hof. 
 
 Drei Jahre später! 14. Juli 2024! Die Ausgangslage fast identisch! Spanien anstelle Italiens! Und wieder „all in“ auf die „Three Lions“. Einmal muss es ja klappen. Die ausführliche Rechtfertigung folgt hier.
 
