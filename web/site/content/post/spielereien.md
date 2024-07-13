@@ -10,29 +10,29 @@ Ein Spiel das nur von der Spannung lebte. Was für ein müder Kick in Halbzeit z
 
 Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
-01 =  600 René Benz
+01 =  1060 DOG 🏆
 
-02 =  600 Rosa+Marlen
+02 = 1030 Kurt Meier 🥈
 
-03 =  590 Pina+Michele La Macchia
+03 = 1000 Renato Meier 🥉
 
-04 =  590 Cosimo Cataldo 
+04 =  990 Emma+Christian 
 
-05 =  590 Miro Berger 
+05 =  990 Daniela+Davide
 
-06 =  580 dä dog 
+06 =  980 Gianfranco Caporusso
 
-07 =  580 Tina+Roland
+07 =  960 Lilly+Raffaele
 
-08 =  580 Barbara+Urs Schläpfer
+08 =  950 Made+Donato
 
-09  = 570 Mobby 
+09  = 910 Tina+Roland
 
-10  =  560 Claudia+Markus Singer
+10  =  900 Mobby
 
-11  =   550 Kurt Meier
+11  =   890 Claudia+Markus
 
-12  =   530 Anton Teuffel
+12  =   860 Die Freigels
 
 13  =   830 Stephi+Cristiano
 
