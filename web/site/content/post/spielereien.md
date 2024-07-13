@@ -98,15 +98,15 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 44 =    410 Katja+Tommy
 
-45  =   400 Salon Liotta
+45  =   450 Janis Hermann
 
-46  =   400 Baggerstube
+46  =   450 Leni+Luc
 
-47  =   380 die Freigels
+47  =   450 Zac
 
-48  =   380 Claudia+Peppe
+48  =   430 Salon Liotta
 
-49  =   370 Daniela+Paolo
+49  =   430 Baggerstube
 
 50  =   430 Margot+Leo
 
