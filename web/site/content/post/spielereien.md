@@ -108,10 +108,10 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 49  =   370 Daniela+Paolo
 
-50  =   370 Severin Stucky
+50  =   
 
-51   =   360  Stephi+Cristiano
+51   =   370 Severin Stucky
 
-52  =    340 Inge+Gregor
+52  =    370 Daniela+Paolo
 
 53  =    340 Inge+Gregor 🏮
