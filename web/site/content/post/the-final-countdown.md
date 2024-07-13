@@ -4,9 +4,7 @@ draft: true
 date: 2024-07-12T08:03:52.140Z
 image: img/img_0619.jpeg
 ---
-Nach 6 Wochen Hofnarr spielen, noch einmal Prophet sein! Rückblende auf den 11. Juli 2021! Kurz vor dem EM-Finale kürt das „Orakel von Tägerwilen“ England vorzeitig zum Eurropameister, obwohl seine Herzdame 🇮🇹 in die Sache verwickelt ist. Nachdem Gigi Donnarumma die drei Teenager Rashford, Sancho und Saka hypnotisiert hat, ist die Vorhersage futsch. Unverbesserliche Zockergrössen, die den Prophezeiungen gefolgt sind, verlieren Haus und Hof.  Drei Jahre später! 14. Juli 2024! Die Ausgangslage ist fast identisch! Spanien anstelle Italiens! Und wieder „all in“ auf die „Three 🦁🦁🦁 Lions“. Einmal muss es ja klappen mit dieser x-mal zitierten Wahrscheinlichkeits-Rechnung.
-
-Teamcheck! Spanien hat den besseren Goalie! „Spinnen“ tun sie beide, aber das ist bei Torhütern ganz normal  🫢. Unai Simon tendiert bei Abschlägen gerne mit dem Feuer zu spielen, weil sein Naturell zu unnötigen Risiken neigt. Pickford‘s Spezialität sind kindische Grimassen, die Elfmeterschützen aus dem Konzept bringen sollen. „Dumms Buäbäzüg“! Die Abwehrreihen scheinen mir in etwa auf demselben Level zu sein. „Frank Zappa“ überrascht! Trippier weniger.
+Football is coming home! Der Fluch ist besiegt! Die Strafe ist ausgesessen. 58 Jahre nachdem ihr den Deutschen den WM-Titel geklaut habt, seid ihr endlich frei von jeglicher Schuld Ja, Harry du darfst den Pot in den Abendhimmel heben. 
 
 Das Mittelfeld gehört ganz klar den Spaniern. Rodri und Ruiz haben mehr spontane Einfälle als Rice und Manoo. Olmo stellt Bellingham aktuell in den Schatten. Im Sturm leben Williams und Yamal von ihrem jugendlichen Leichtsinn. Saka zwar auch, aber Fodden ist total blockiert. Einer der im richtigen Moment explodieren  könnte. Im Sturmzentrum ist ein Vergleich Morata/Kane nicht möglich: Der eine verteidigt und der andere war fast noch nie da.
 
