@@ -8,7 +8,7 @@ Noch einmal Prophet spielen! Nach 6 Wochen „Hofnarr“ sei mir das gegönnt! R
 
 Drei Jahre später! 14. Juli 2024! Die Ausgangslage fast identisch! Spanien anstelle Italiens! Und wieder „all in“ auf die „Three Lions“. Einmal muss es ja klappen. Die ausführliche Rechtfertigung folgt hier.
 
-Spanien hat den besseren Goalie! „Spinnen“ tun sie beide, aber das ist bei Torhütern ganz normal  🫢. Unai Simon tendiert bei Abschlägen oft in Richtung „Spiel mit dem Feuer“ weil sein Naturell zu unnötigen Risiken neigt. Pickford‘s Spezialität sind Grimassen, die Elfmeterschützen aus dem Konzept bringen sollen. „Dumms Buäbäzüg“! Die Abwehrreihen scheinen mir in etwa auf demselben Level zu sein. „Frank Zappa“ auf links, ist eine der positiven Überraschungen dieses Turniers, was man auf der anderen Seite von Trippier nicht behaupten kann. 
+Spanien hat den besseren Goalie! „Spinnen“ tun sie beide, aber das ist bei Torhütern ganz normal  🫢. Unai Simon tendiert bei Abschlägen oft in Richtung „Spiel mit dem Feuer“ weil sein Naturell zu unnötigen Risiken neigt. Pickford‘s Spezialität sind Grimassen, die Elfmeterschützen aus dem Konzept bringen sollen. „Dumms Buäbäzüg“! Die Abwehrreihen scheinen mir in etwa auf demselben Level zu sein. „Frank Zappa“ auf links, ist eine der positiven Überraschungen dieses Turniers. 
 
 Das Mittelfeld gehört ganz klar den Spaniern. Rodri und Ruiz haben viel mehr spontane Einfälle als Rice und Manoo. Olmo stellt Bellingham aktuell in den Schatten. Im Sturm leben Williams und Yamal von ihrem jugendlichen Leichtsinn. Saka zwar auch, aber Fodden ist total blockiert. Einer der im richtigen Moment explodieren  könnte. Im Sturmzentrum ist auch ein hinkender Kane dem „Mädchen für alles Morata“ meilenweit überlegen!
 
