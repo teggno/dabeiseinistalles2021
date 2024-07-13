@@ -18,6 +18,4 @@ Ich war 11 als sich der Schweizer Schiri Gottfried Dienst im Jahre 1966 anschick
 
 In dieser Zeit hat sich die Gerechtigkeit alles zurückgeholt was nur möglich war. Unzählige Penaltyschiessen gingen verloren! Eine ganze Nation haderte mit dem Schicksal! Bis sie die Schweiz letzten Samstag von diesem Fluch erlöste. Nicht bloss die Elfer-Tragödien prägen das Bild. Als 1986 ein gewisser Maradona die Hand Gottes ins Spiel brachte, traten Millionen von Briten aus der Kirche aus. Ihr Glaube an Gerechtigkeit war zerstört. Sie waren die Deppen und Diego der gefeierote Held. Salomon notierte sich diese Dinge und am Ende gleicht er sie wieder aus. Spanien hat ja sein Konto längst überzogen. 2008 Europameister 2010 Dank Robben Weltmeister und 2012 an der EM von Italien mit Abschiedsgeschenken überhäuft.i
 
-
-
 Es gibt Leute hier, die stehen im Coop von zehnmal neunmal an der falschen Kasse. Das schaffen die wenigsten. Einmal jedoch,  liegen sie goldrichtig. Dieses Schicksal widerfährt den bisher zahmen „Lions 🦁“ heute Abend auch. Mutterland des Fussballs, beste Liga der Welt, teuerstes Personal weit und breit. Dass sie auch noch Yamal+Williams kaltstellen, ist ebenfalls von besonderer Tragweite. Wenn das nicht reicht, fresse ich einen Besen 🧹. „Auch ein blindes Huhn findet mal ein Korn!“ Espana 🇪🇸 lo siento mucho 🥲
