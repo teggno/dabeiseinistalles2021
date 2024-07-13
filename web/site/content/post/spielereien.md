@@ -88,7 +88,7 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 39 =     440 Renato Petrillo
 
-40 =    430 Vonki
+40 =     430 Vonki
 
 41  =    430 Bea C
 
@@ -108,7 +108,7 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 49  =   370 Daniela+Paolo
 
-50  =   
+50  =   430 Margot+Leo
 
 51   =   370 Severin Stucky
 
