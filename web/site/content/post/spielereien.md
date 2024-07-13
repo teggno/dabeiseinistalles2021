@@ -80,9 +80,9 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 35  =    490 470 Eva-Maria
 
-36  =    460 Kuno Schwarzer
+36  =    520 Liddy+Thomas
 
-37   =   450 Leni+Luc
+37   =   510 Koni Hornstein
 
 38  =   490 Nunzio Padula  
 
