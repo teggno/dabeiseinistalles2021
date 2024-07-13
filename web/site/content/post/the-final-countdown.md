@@ -1,6 +1,6 @@
 ---
 title: "The Final Countdown "
-draft: true
+draft: false
 date: 2024-07-13T22:07:03.943Z
 image: img/img_0619.jpeg
 ---
