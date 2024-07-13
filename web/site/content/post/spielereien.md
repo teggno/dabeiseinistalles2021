@@ -40,19 +40,19 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 15  =   510  Gülay Turcan
 
-16  =   510  Emma+Christian
+16  =   690 Gina+Bruno
 
-17  =   510 Coq
+17  =   680 Verena+Bruno
 
-18   =  510 Jeanette+Urs
+18   =  650 Katy+Urs
 
-19   =  510 Daniela+Davide Brocca
+19   =  650 De Sunnesch ☀️+de Chaschtä
 
-20   =  510  Roger Blatter
+20   =  630 Nico Colaci
 
 21    =  630 Rosa+Marlen
 
-22   =   630 Nico Colaci
+22   =   620 Miro Berger
 
 23   =   620 Pina+Michele
 
