@@ -62,15 +62,15 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 26  =    500 Guanfranco Caporusso
 
-27  =     490 Nunzio Padula
+27  =    540 Gülay Turcan
 
-28  =     490 Liddy+Thomas
+28  =    540 Jeanette+Urs
 
-29  =     480 Kini Hornstein
+29  =    540 Coq
 
-30  =     480 Lilly+Raffaele 
+30  =    540 Roger Blatter 
 
-31   =     480 Nico Colaci 
+31   =    540 Zeljko Berger
 
 32   =   530 Regula+Franco
 
