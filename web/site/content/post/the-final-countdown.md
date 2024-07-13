@@ -8,7 +8,7 @@ image: img/img_0619.jpeg
 
 14-07-2024! Nach dem Motto „ausser Spesen nichts gewesen“ begeht der Verrückte denselben Unfug noch einmal und liefert die Motivationen gleich hinterher!
 
-Fangen wir mit den Goalies an! Spanien hat den Besseren! „Spinnen“ tun sie beide, aber das ist bei Torhütern ganz normal 🤫. Unai Simon tendiert bei Abschlägen oft in Richtung „Spiel mit dem Feuer“ weil sein Naturell zu unnötigen Risiken neigt. Pickford‘s Spezialität sind Grimassen, mit denen er Elfmeterschützen aus dem Konzept bringen will. „Buäbäzüg“! Die Abwehrreihen scheinen mir in etwa auf demselben Level zu sein. „Frank Zappa“ auf links, ist eine der positiven Überraschungen dieses Turniers, was man auf der anderen Seite von Trippier nicht unbedingt behaupten kann. 
+Fangen wir mit den Goalies an! Spanien hat den Besseren! „Spinnen“ tun sie beide, aber das ist bei Torhütern ganz normal  🫢. Unai Simon tendiert bei Abschlägen oft in Richtung „Spiel mit dem Feuer“ weil sein Naturell zu unnötigen Risiken neigt. Pickford‘s Spezialität sind Grimassen, mit denen er Elfmeterschützen aus dem Konzept bringen will. „Buäbäzüg“! Die Abwehrreihen scheinen mir in etwa auf demselben Level zu sein. „Frank Zappa“ auf links, ist eine der positiven Überraschungen dieses Turniers, was man auf der anderen Seite von Trippier nicht unbedingt behaupten kann. 
 
 Das Mittelfeld gehört ganz klar den Spaniern. Rodri und Ruiz haben viel mehr spontane Einfälle als Rice und Manoo. Olmo stellt Bellingham aktuell in den Schatten. Im Sturm leben Williams und Yamal von ihrem jugendlichen Leichtsinn. Saka zwar auch, aber Fodden ist total blockiert. Einer der im richtigen Moment explodieren  könnte. Im Sturmzentrum ist auch ein hinkender Kane dem “Mädchen für alles“ Morata meilenweit überlegen!
 
