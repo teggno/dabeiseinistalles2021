@@ -38,27 +38,27 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 14  =   780 René Benz
 
-15  =   740 Katja+Tommy
+15  =   760 Barbara+Urs
 
-16  =   690 Gina+Bruno
+16  =   740 Katja+Tommy
 
-17  =   680 Verena+Bruno
+17  =   690 Gina+Bruno
 
-18   =  650 Katy+Urs
+18   =  680 Verena+Bruno
 
 19   =  650 De Sunnesch ☀️+de Chaschtä
 
-20   =  630 Nico Colaci
+20   =  650 Katy+Urs
 
 21    =  630 Rosa+Marlen
 
-22   =   620 Miro Berger
+22   =   630 Nico Colaci
 
 23   =   620 Pina+Michele
 
 24   =   620 Cosimo Cataldo
 
-25   =   610 Barbara+Urs
+25   =   620 Miro Berger
 
 26  =    560 Anton Teuffel
 
