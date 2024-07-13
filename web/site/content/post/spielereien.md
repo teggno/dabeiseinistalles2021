@@ -10,8 +10,6 @@ Ein Spiel das nur von der Spannung lebte. Was für ein müder Kick in Halbzeit z
 
 Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
-
-
 01 =  600 René Benz
 
 02 =  600 Rosa+Marlen
@@ -92,7 +90,7 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 40 =    430 Vonki
 
-41  =    430 Bea Colaci
+41  =    430 Bea C
 
 42  =   420 Zac
 
@@ -116,4 +114,4 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 52  =    340 Inge+Gregor
 
-53  =    270 Margot+Leo 🏮
+53  =    340 Inge+Gregor 🏮
