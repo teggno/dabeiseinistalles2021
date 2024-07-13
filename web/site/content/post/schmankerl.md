@@ -1,6 +1,6 @@
 ---
 title: Schmankerl 🎻
-draft: false
+draft: true
 date: 2024-07-13T12:30:18.021Z
 image: img/img_0620.jpeg
 ---
