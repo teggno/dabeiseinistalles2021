@@ -50,17 +50,17 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 20   =  510  Roger Blatter
 
-21    =  510 Zeljko Berger
+21    =  630 Rosa+Marlen
 
-22   =   510 Gina+Bruno
+22   =   630 Nico Colaci
 
-23   =   500 Verena+Bruno Wacker
+23   =   620 Pina+Michele
 
-24   =   500 Andy+Andi Hermann
+24   =   620 Cosimo Cataldo
 
-25   =   500 Regula+Franco
+25   =   610 Barbara+Urs
 
-26  =    500 Guanfranco Caporusso
+26  =    560 Anton Teuffel
 
 27  =    540 Gülay Turcan
 
