@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Steely Dan   ▶️  Rikki don‘t lose that number
-  url: https://www.youtube.com/watch?v=UfZWp-hGCdA&pp=ygUncmlra2kgZG9uJ3QgbG9zZSB0aGF0IG51bWJlciBzdGVlbHkgZGFu
+  title: "RAFFI‘S JUKEBOX  🎸 Julio Iglesias   ▶️  To all the girls I loved before "
+  url: https://www.youtube.com/watch?v=jqaeXuHLnEs&pp=ygUuanVsaW8gaWdsZXNpYXMgdG8gYWxsIHRoZSBnaXJscyBpIGxvdmVkIGJlZm9yZQ%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
