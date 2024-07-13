@@ -4,7 +4,7 @@ draft: true
 date: 2024-07-12T08:03:52.140Z
 image: img/img_0619.jpeg
 ---
-11-07-2021! Kurz vor dem EM-Finale kürt OVT (Orakel von Tägerwilen) England vorzeitig zum Eurropameister, obwohl seine Herz ♥️ Dame Italien 🇮🇹 in die Sache involviert ist. Nachdem Gigi Donnarumma die drei Teenager Rashford, Sancho und Saka hypnotisiert, ist seine Vorhersage am A….🤫 Unverbesserliche Zocker, die seiner Aussage gefolgt sind, verlieren Millionen 😎
+Noch einmal Prophet spielen! Nach 6 Wochen Hofnarr will ich mir diesen Spass gönnen. Rücjblende: 11-07-2021! Kurz vor dem EM-Finale kürt das Orakel von Tägerwilen England vorzeitig zum Eurropameister, obwohl seine Herz ♥️ Dame Italien 🇮🇹 in die Sache involviert ist. Nachdem Gigi Donnarumma die drei Teenager Rashford, Sancho und Saka hypnotisiert, ist seine Vorhersage am A….🤫 Unverbesserliche Zocker, die seiner Aussage gefolgt sind, verlieren Millionen 😎
 
 14-07-2024! Nach dem Motto „ausser Spesen nichts gewesen“ begeht der Verrückte denselben Unfug noch einmal und liefert die Motivationen gleich hinterher!
 
