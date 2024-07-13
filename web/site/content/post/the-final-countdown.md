@@ -4,7 +4,7 @@ draft: true
 date: 2024-07-12T08:03:52.140Z
 image: img/img_0619.jpeg
 ---
-Football is coming home! Der Fluch ist besiegt! Die Strafe ist ausgesessen. Wisst ihr überhaupt, warum ihr so lange aus dem Paradies ausgeschlossen wurdet? Mutterland des Fussballs, beste Liga der Welt. Guardiola, Klopp, Champions League, alles recht und gut. Aber was war mit euret Nati? Ich erzähle euch jetzt eine Geschichte, die iher so noch nie gehört habt.
+Football is coming home! Der Fluch ist besiegt! Die Strafe ist ausgesessen. Wisst ihr überhaupt, warum ihr so lange aus dem Paradies ausgeschlossen wurdet? Mutterland des Fussballs, beste Liga der Welt. Guardiola, Klopp, Champions League, alles recht und gut. Aber was war mit eurer Nati in all den Jahren? Ich erzähle euch jetzt eine Geschichte, die iher so noch nie gehört habt.
 
 Ich war 11 als sich der Schweizer Schiri Gottfried Dienst im Jahre 1966 anschickte, in Zusammenarbeit mit Linienrichter Bahramov, das grösste Versehen seines Lebens zu „begehen“. Geoff Hurst bedankte sich und England wurde auf Kosten von Deutschland Weltmeister. Wer hätte damals gedacht, dass es 58 Jahre dauern würde, bis Harry Kane im Stile von Bobby Moore den zweitwichtigsten Pokal in den Abendhimmel heben würde?
 
