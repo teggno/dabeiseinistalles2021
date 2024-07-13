@@ -76,9 +76,9 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 33   =    470 dä Sunneschi☀️+dä Chaschtä
 
-34  =     470 Made+Donato
+34  =    530 
 
-35  =    490 470 Eva-Maria
+35  =    530 Claudia+Peppe
 
 36  =    520 Liddy+Thomas
 
