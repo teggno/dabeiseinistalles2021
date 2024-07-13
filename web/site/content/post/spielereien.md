@@ -86,13 +86,13 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 38  =    450Memduh Aktas  
 
-39 =     440 Renato Petrillo
+39 =     
 
-40 =     430 Vonki
+40 =    480 Memduh Aktas
 
-41  =    430 Bea C
+41  =    470 Renato Petrillo
 
-42  =   420 Zac
+42  =   470 Eva-Maria
 
 43  =   460  Vonki
 
