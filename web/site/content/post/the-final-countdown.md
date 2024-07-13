@@ -4,9 +4,9 @@ draft: true
 date: 2024-07-12T08:03:52.140Z
 image: img/img_0619.jpeg
 ---
-11-07-2021! Kurz vor dem Endspiel kürt das OVT (Orakel von Tägerwilen) England vorzeitig zum Eurropameister! Nachdem Giggi Donnarumma die drei Teenager Rashford, Sancho und Sakko hypnotisiert, ist die Vorhersage am A….🤫 Unverbesserliche Zocker, die seiner Aussage gefolgt sind verlieren Millionen 😎
+11-07-2021! Kurz vor dem Finale kürt das OVT (Orakel von Tägerwilen) England vorzeitig zum Eurropameister! Nachdem Gigi Donnarumma die drei Teenager Rashford, Sancho und Saka hypnotisiert, ist seine Vorhersage am A….🤫 Unverbesserliche Zocker, die seiner Aussage gefolgt sind, verlieren Millionen 😎14-07-2024! Nach dem Motto „Nichts aus dem ganzen Unfug gelernt“ begeht der Verrückte denselben Fehler? noch einmal und liefert die Motivation gleich hinterher!
 
-Spanien hat den besseren Keeper. „Spinnen“ tun sie beide, aber das ist bei Torhütern ganz normal 🤫. Unai Simon kann ein Spiel in die falsche Richtung dirigieren, weil sein Naturell zu unnötigen Risiken neigt. Pickford versucht es mit Grimassen. Profis fallen selten darauf herein. Die hinteren Reihen scheinen mir in etwa auf demselben Level zu sein. „Frank Zappa“ auf links, ist eine der positiven Überraschungen dieses Turniers, was man von Trippier nicht unbedingt behaupten kann. 
+hat den besseren Keeper. „Spinnen“ tun sie beide, aber das ist bei Torhütern ganz normal 🤫. Unai Simon kann ein Spiel in die falsche Richtung dirigieren, weil sein Naturell zu unnötigen Risiken neigt. Pickford versucht es mit Grimassen. Profis fallen selten darauf herein. Die hinteren Reihen scheinen mir in etwa auf demselben Level zu sein. „Frank Zappa“ auf links, ist eine der positiven Überraschungen dieses Turniers, was man von Trippier nicht unbedingt behaupten kann. 
 
 Das Mittelfeld gehört ganz klar den Spaniern. Rodri und Ruiz haben viel mehr spontane Einfälle als Rice und Manoo. Olmo stellt Bellingham aktuell in den Schatten. Im Sturm leben Williams und Yamal von ihrem jugendlichen Leichtsinn. Sakka zwar auch, aber Fodden ist total blockiert. Einer der im richtigen Moment explodieren  könnte. Im Sturmzentrum ist auch ein hinkender Kane dem “Mädchen für alles“ Morata meilenweit überlegen!
 
