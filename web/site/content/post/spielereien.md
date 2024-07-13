@@ -72,7 +72,7 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 31   =     480 Nico Colaci 
 
-32   =    470 Urs+Katy
+32   =   530 Regula+Franco
 
 33   =   530 Martha+Sergio
 
