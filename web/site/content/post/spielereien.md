@@ -74,9 +74,9 @@ Das hälst du vor lauter Neugier 🤔 und Spannung ⚡️ kaum mehr aus.
 
 32   =    470 Urs+Katy
 
-33   =    470 dä Sunneschi☀️+dä Chaschtä
+33   =   530 Martha+Sergio
 
-34  =    530 
+34  =    530 Andy+Andi
 
 35  =    530 Claudia+Peppe
 
