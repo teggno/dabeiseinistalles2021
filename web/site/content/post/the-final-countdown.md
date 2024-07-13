@@ -6,7 +6,7 @@ image: img/img_0619.jpeg
 ---
 Noch einmal Prophet spielen! Nach 6 Wochen „Hofnarr“ will ich mir diesen Spass unbedingt gönnen. Rückblende: 11. Juli 2021! Kurz vor dem EM-Finale kürt das Orakel von Tägerwilen England vorzeitig zum Eurropameister, obwohl seine Herzdame 🇮🇹 in die Sache verwickelt ist. Nachdem Gigi Donnarumma die drei Teenager Rashford, Sancho und Saka hypnotisiert, ist seine Vorhersage am A….🤫 Unverbesserliche Zocker, die seinen Prophezeiungen gefolgt sind, verlieren Haus und Hof. 😎
 
-14-07-2024! Nach dem Motto „ausser Spesen nichts gewesen“ begeht der Verrückte denselben Unfug noch einmal und liefert die Motivationen gleich hinterher!
+14-07-2024! Fast dieselbe Ausgangslage! Spanien anstelle Italines! Und wieder „all in“ auf die „Three Lions“. Die ausführlich Rechtfertigung folgt hier.
 
 Fangen wir mit den Goalies an! Spanien hat den Besseren! „Spinnen“ tun sie beide, aber das ist bei Torhütern ganz normal  🫢. Unai Simon tendiert bei Abschlägen oft in Richtung „Spiel mit dem Feuer“ weil sein Naturell zu unnötigen Risiken neigt. Pickford‘s Spezialität sind Grimassen, mit denen er Elfmeterschützen aus dem Konzept bringen will. „Buäbäzüg“! Die Abwehrreihen scheinen mir in etwa auf demselben Level zu sein. „Frank Zappa“ auf links, ist eine der positiven Überraschungen dieses Turniers, was man auf der anderen Seite von Trippier nicht behaupten kann. 
 
