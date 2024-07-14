@@ -1,7 +1,7 @@
 ---
 title: "The Final Countdown "
 draft: false
-date: 2024-07-14T05:29:59.827Z
+date: 2024-07-14T16:11:39.372Z
 image: img/img_0619.jpeg
 ---
 Football is coming home! Die Strafe ist ausgesessen. Der Pot gehört euch! Ursprünglich zu lebenslang verdonnert, kommen die Engländer nach 58 Jahren vorzeitig frei. Wisst ihr überhaupt, warum sie so lange aus dem Paradies verstossen wurden?  Mutterland des Fussballs, beste Liga der Welt, Guardiola, Klopp, Champions League! Alles recht und gut. Aber was war mit dieser Nati in all den Jahren los? Ich erzähle euch jetzt eine Geschichte, die ihr so noch nie gehört habt.
