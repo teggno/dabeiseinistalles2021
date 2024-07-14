@@ -3,7 +3,7 @@ title: Das war’s 🥳
 draft: true
 date: 2024-07-14T06:39:19.248Z
 ---
-England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ist Europameister! Eine Ewigkeit nach dem letzten Triumph holen sich Kane & Company ein wenig überraschend den Titel. Irgend so ein Scharlatan hat es schon im Vorfeld herumerzählt. Droht ihm jetzt ein Verfahren wegen Manipulation? Spanische Behörden haben ihre Ermittlungen bereits aufgenommen.
+England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ist Europameister! Eine Ewigkeit nach dem letzten Triumph holen sich Kane & Company ein wenig überraschend den Titel. Irgend so ein Scharlatan hat es schon im Vorfeld herumerzählt. Droht ihm jetzt der Scheiterhaufen nachdem die spanischen Behörden Ermittlungen wegen Verbreitung bereits aufgenommen.
 
 Wenden wir uns nun ihm zu! Normalerweise fährt er bei solchen Veranstaltungen am liebsten Achterbahn🎢 Doch dieses Mal besann er sich eines Besseren und schlug im richtigen Moment zu. DOG, alias Stefan Werner, wir ziehen alle ehrfürchtig den Hut 🎩 Du hast einen hochstehenden Kampf zu deinen Gunsten entschieden. Deutschland-Frankreich-Spanien-England-Mbappé-Lukaku-Fernandes-Kane-TK:Kane-EM-England bringen dir stolze 1060 Punkte und einen Check über 400 Franken ein.
 
