@@ -5,7 +5,7 @@ date: 2024-07-14T06:39:19.248Z
 ---
 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ist Europameister! Eine Ewigkeit nach dem letzten Triumph holen sich Kane & Company ein wenig überraschend den Titel. Irgend so ein Scharlatan hat es schon im Vorfeld herumerzählt. Droht ihm jetzt ein Verfahren wegen Manipulation? Spanische Behörden haben ihre Ermittlungen bereits aufgenommen.
 
-Wenden wir uns nun ihm zu! Normalerweise fährt er bei solchen Veranstaltungen am liebsten Achterbahn🎢 Doch dieses Mal besann er sich eines Besseren und schlug im richtigen Moment zu. DOG, alias Stefan Werner, wir ziehen alle ehrfürchtig den Hut 🎩 Du hast einen hochstehenden Kampf zu deinen Gunsten entschieden. Deutschland-Frankreich-Spanien-England-Mbappé-Lukaku-Fernandes-Kane-TK:Kane-EM-England bringen dir stolze 1060 Punkte ein und einen Check über 400 Franken.
+Wenden wir uns nun ihm zu! Normalerweise fährt er bei solchen Veranstaltungen am liebsten Achterbahn🎢 Doch dieses Mal besann er sich eines Besseren und schlug im richtigen Moment zu. DOG, alias Stefan Werner, wir ziehen alle ehrfürchtig den Hut 🎩 Du hast einen hochstehenden Kampf zu deinen Gunsten entschieden. Deutschland-Frankreich-Spanien-England-Mbappé-Lukaku-Fernandes-Kane-TK:Kane-EM-England bringen dir stolze 1060 Punkte und einen Check über 400 Franken ein.
 
 Platz 2 und das ist die eigentliche Sensation geht an „Banquette“ alias Kurt Meier, der seinen Sohn Renato auf Platz 3 verweist. Liebe Baggerstube, was steht uns da in den nächsten Monaten bevor 🙈. Bei all den Festivitäten wollen wir das bittere Los unserer Inge Berger nicht vergessen. Am ersten Tag noch in Führung liegend, ging es Stufe um Stufe abwärts bis es nicht mehr weiter runterging 🏮
 
