@@ -10,6 +10,6 @@ song:
   image: img/jukebox.jpg
   description: >
     Europameister: Spanien 🇪🇸 Nr. 1 in der Jukebox-Hitparade: Mina: Ancora -
-    Ancora - Ancora
+    Ancora - Ancora 
 type: rangliste
 ---
