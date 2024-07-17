@@ -5,11 +5,11 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Mina   ▶️  Ancora Ancora Ancora
+  title: RAFFI‘S JUKEBOX  🎸  M…ina   ▶️  Ancora Ancora Ancora
   url: https://www.youtube.com/watch?v=ua9u_AoKxgo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
   image: img/jukebox.jpg
   description: >
-    Europameister: Spanien 🇪🇸 Nr. 1 in der Jukebox-Hitparade: Mina: Ancora -
-    Ancora - Ancora 
+    Zweimal die 1️⃣ ! Spanien auf dem Rasen und SIE auf dem Plattenteller. Ein
+    Feuer🔥Werk der Sinne 
 type: rangliste
 ---
