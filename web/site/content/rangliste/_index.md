@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist aktuell nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Udo Jürgens  ▶️  Ich würde es wieder tun
-  url: https://www.youtube.com/watch?v=vmOMVRI-RBU&pp=ygUYaWNoIHfDvHJkZSBlcyB3aWVkZXIgdHVu
+  title: RAFFI‘S JUKEBOX  🎸  Mina   ▶️  Ancora Ancora Ancora
+  url: https://www.youtube.com/watch?v=ua9u_AoKxgo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
   image: img/jukebox.jpg
   description: ""
 type: rangliste
