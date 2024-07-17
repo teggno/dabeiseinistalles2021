@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=ua9u_AoKxgo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
   image: img/jukebox.jpg
   description: >
-    Zweimal die 1️⃣ ! Spanien auf dem Rasen und SIE auf dem Plattenteller. Ein
-    Feuer🔥Werk der Sinne 
+    Zweimal die Nr. 1️⃣ ! Spanien auf dem Rasen und SIE auf dem Plattenteller.
+    Ein Feuer🔥Werk der Sinne 
 type: rangliste
 ---
