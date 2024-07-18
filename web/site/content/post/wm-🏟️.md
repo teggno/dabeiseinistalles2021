@@ -1,5 +1,5 @@
 ---
-title: "WM 🏟️ "
+title: 🏟️
 draft: true
 date: 2024-07-18T12:44:36.613Z
 ---
