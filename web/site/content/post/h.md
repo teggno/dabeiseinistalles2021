@@ -1,6 +1,6 @@
 ---
 title: "Aufräumarbeiten "
-draft: false
+draft: true
 date: 2024-07-10T07:28:10.147Z
 image: img/img_0612.jpeg
 ---
