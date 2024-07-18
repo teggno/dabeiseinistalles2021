@@ -7,4 +7,4 @@ Das Spektakel des Jahrhunderts! In Mexiko 🇲🇽, in Kanada 🇨🇦 und in de
 
 Was blieb mir da anderes übrig als diesen Wahnsinn mitzumachen? Erstmals nach 22 Jahren passe ich die Regeln an. Endlich müssen wir nicht mehr nur auf 4 Nationen und 4 Torschützen zurückgreifen. Wir verdoppeln auf 8+8! „Da wird jo richtig gail“ und ich habe noch mehr Arbeit!
 
-Nein, habe ich nicht. Denn ich habe mich entschieden das Feld zu verkleinern.! Es sind nur noch die aus der „engeren Familie“ dabei . Jene die stets Interesse zeigten. Mit über 70 fängt man an zu „siblä! Man sucht sich die Leute nach gewissen Kriterien aus!
+Nein, habe ich nicht. Denn ich habe mich entschieden das Feld zu verkleinern.! Es sind nur noch die aus der „engeren Familie“ dabei . Jene die stets mit Freude dabei waren. Die auch mal von sich was hören liessen. Mit über 70 fängt man an zu „siblä! Man sucht sich die Leute nach gewissen Kriterien aus!
