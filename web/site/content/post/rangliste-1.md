@@ -1,6 +1,6 @@
 ---
 title: Positionskämpfe
-draft: false
+draft: true
 date: 2024-07-01T05:38:17.804Z
 image: img/img_0587.jpeg
 ---
