@@ -2,7 +2,7 @@
 title: 🏟️
 draft: true
 date: 2024-07-18T12:44:36.613Z
-image: img/img_0629.jpeg
+image: img/img_0630.jpeg
 ---
 Es war eine harte Zeit! „Zwei Johr nu umämachä“ ging mächtig an die Substanz! Jetzt steht das Event des Jahrhunderts vor der Tür! In Mexiko 🇲🇽, Kanada 🇨🇦 und in den USA 🇺🇸! 5 Wochen lang! 48 Teams! 104 Spiele! Viele erst um Mitternacht! Kein Sex mehr, nur Fussball! Gehen die Ladies jetzt etwa „fremd“ oder leisten sie uns spät abends noch Gesellschaft?
 
