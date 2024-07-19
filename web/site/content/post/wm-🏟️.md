@@ -8,4 +8,4 @@ Es war eine harte Zeit! „Zwei Johr nu umämachä“ ging mächtig an die Subst
 
 22 Jahre lang gab es keinen triftigen Grund die Regeln zu ändern. Doch nach diesem Inflationsschub der FIFA bin ich genötigt an den Fundamenten zu rütteln! Die magische Zahl 6 löst die verstaubte Nummer 4 ab. Das hat den Vorteil,dass wir aus dem Vollen schöpfen können. Argentinien, Brasilien und und und! „Da wird so richtig gail“ und ich habe noch mehr Arbeit!
 
-Nein, habe ich nicht. Denn das Feld wird gestutzt! Waren es 2021 noch 77 wurden es 2024 deren 53! Nun sind nur noch die aus der „engeren Familie“ am Start, nämlich 36!  Mit anderen Worten, jene die es schätzen! Mit über 70  fängt man die Prioritäten anders zu setzen.
+Nein, habe ich nicht. Denn das Feld wird gestutzt! Waren es 2021 noch 77 Teilnehmer, wurden es 2024 deren 53! Nun sind nur noch die aus der „engeren Familie“ am Start, nämlich 39! Mit anderen Worten, jene die es wirklich schätzen! Mit über 70  fängt man an die Prioritäten anders zu setzen.
