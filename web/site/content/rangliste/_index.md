@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸   ▶️  "
+  title: RAFFI‘S JUKEBOX  🎸  Gino Paoli ▶️  l‘autostrada
   url: https://www.youtube.com/watch?v=ua9u_AoKxgo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
   image: img/jukebox.jpg
   description: "\n"
