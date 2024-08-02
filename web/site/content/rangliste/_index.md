@@ -6,7 +6,7 @@ showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
   title: RAFFI‘S JUKEBOX  🎸  Gino Paoli ▶️  l‘autostrada
-  url: https://www.youtube.com/watch?v=ua9u_AoKxgo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
+  url: https://www.youtube.com/watch?v=_sQH74RvWKg&pp=ygUXbCdhdXRvc3RyYWRhIGdpbm8gcGFvbGk%3D
   image: img/jukebox.jpg
   description: "\n"
 type: rangliste
