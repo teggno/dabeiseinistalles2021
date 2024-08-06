@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2024-07-17T14:59:26.489Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
   title: RAFFI‘S JUKEBOX  🎸 lo di schnäll ▶️ vu hinä duräschtossä
