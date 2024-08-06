@@ -10,6 +10,6 @@ song:
   image: img/jukebox.jpg
   description: >
     Dein Selbstporträt mit den leicht umhüllten (verbotenen) Früchten steht
-    neben mir e mi accende….
+    neben mir…….
 type: rangliste
 ---
