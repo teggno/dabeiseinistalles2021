@@ -5,11 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 lo di schnäll ▶️ vu hinä duräschtossä
-  url: https://www.youtube.com/watch?v=32QKq3QZ-ik&pp=ygUgcGF1bCBjYXJyYWNrIGhvdyBsb25nIHJlbWFzdGVyZWQ%3D
+  title: "RAFFI‘S JUKEBOX  🎸  ▶️ "
+  url: ""
   image: img/jukebox.jpg
-  description: >
-    Sono pazzo di te …hab dein Selbstporträt mit den leicht umhüllten
-    (verbotenen) Früchten vor mir ….
+  description: "\n"
 type: rangliste
 ---
