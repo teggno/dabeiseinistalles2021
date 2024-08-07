@@ -8,6 +8,8 @@ song:
   title: "RAFFI‘S JUKEBOX  🎸  ▶️ "
   url: https://www.youtube.com/watch?v=32QKq3QZ-ik&pp=ygUMcGF1bCBjYXJyYWNr
   image: img/jukebox.jpg
-  description: "\n"
+  description: >
+    Sono pazzo di te…..ich hab dein Selbstporträt mit den leicht verhüllten
+    (verbotenen) Früchten vor mir….
 type: rangliste
 ---
