@@ -9,6 +9,6 @@ song:
   url: https://www.youtube.com/watch?v=vwcyR4Rhh1Q&pp=ygUUcGlubyBkYW5pZWxlIGZlbW1lbmE%3D
   image: img/jukebox.jpg
   description: |
-    26 o 27  Anni fa….Seenachtsfest 1997, 1998❓Indimenticabile….
+    26 o 27 anni fa….Seenachtsfest …..🎆
 type: rangliste
 ---
