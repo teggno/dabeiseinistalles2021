@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 leg d‘Schträpsli a  ▶️ "
+  title: RAFFI‘S JUKEBOX  🎸 leg d‘Schträpsli a  ▶️ e vieni con me
   url: ""
   image: img/jukebox.jpg
   description: "\n"
