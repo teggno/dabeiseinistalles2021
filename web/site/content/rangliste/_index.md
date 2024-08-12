@@ -5,10 +5,10 @@ image: ""
 showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 leg d‘Schträpsli nomol a ▶️  I  h.. d… i..  "
+  title: RAFFI‘S JUKEBOX  🎸 leg d‘Schträpsli a ▶️  und säg nomol h..  m… i..
   url: https://www.youtube.com/watch?v=NYOQDnWFXYI&pp=ygUkbWUgYW5kIG1ycyBqb25lcyBiaWxseSBwYXVsIG9yaWdpbmFs
   image: img/jukebox.jpg
   description: |
-    Perche non vieni con me 🎇 adesso…piu tardi…..six thirty?
+    Perche non vieni con me 🎇 adesso…piu tardi…..six thirty….
 type: rangliste
 ---
