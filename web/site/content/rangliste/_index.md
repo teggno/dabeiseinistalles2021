@@ -9,6 +9,6 @@ song:
   url: https://www.youtube.com/watch?v=NYOQDnWFXYI&pp=ygUkbWUgYW5kIG1ycyBqb25lcyBiaWxseSBwYXVsIG9yaWdpbmFs
   image: img/jukebox.jpg
   description: |
-    Perche non vieni con me 🎇 adesso, piu tardi o mai?
+    Perche non vieni con me 🎇 adesso, piu tardi o quando vuoi
 type: rangliste
 ---
