@@ -5,10 +5,9 @@ image: ""
 showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Quella mano avvincente ▶️  nei miei Jeans👖
-  url: https://www.youtube.com/watch?v=vwcyR4Rhh1Q&pp=ygUUcGlubyBkYW5pZWxlIGZlbW1lbmE%3D
+  title: "RAFFI‘S JUKEBOX  🎸 leg d‘Schträpsli a  ▶️ "
+  url: ""
   image: img/jukebox.jpg
-  description: |
-    26 o 27 anni fa …..🎇
+  description: "\n"
 type: rangliste
 ---
