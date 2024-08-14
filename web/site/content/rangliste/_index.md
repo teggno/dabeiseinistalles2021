@@ -10,6 +10,6 @@ song:
   image: img/jukebox.jpg
   description: >
     Der Song hatte mir Mut gemacht…..vergebens. Doch in Gedanken war ich …. in
-    dir.
+    dir….
 type: rangliste
 ---
