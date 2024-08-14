@@ -9,7 +9,7 @@ song:
   url: ""
   image: img/jukebox.jpg
   description: >
-    Pino Daniele hatte mir Mut gemacht…..vergebens. Doch in Gedanken war ich ….
-    in dir.
+    Der Song hatte mir Mut gemacht…..vergebens. Doch in Gedanken war ich …. in
+    dir.
 type: rangliste
 ---
