@@ -5,10 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Pino Daniele ▶️  Anna verra
+  title: RAFFI‘S JUKEBOX  🎸 Pino Daniele ▶️  …… verra❓
   url: https://www.youtube.com/watch?v=txonUj-AFuI&pp=ygUYYW5uYSB2ZXJyYScgcGlubyBkYW5pZWxl
   image: img/jukebox.jpg
-  description: |
-    Original und unverdorben 
+  description: "\n"
 type: rangliste
 ---
