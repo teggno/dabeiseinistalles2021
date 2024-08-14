@@ -8,6 +8,7 @@ song:
   title: RAFFI‘S JUKEBOX  🎸 Pino Daniele ▶️  Anna verra
   url: https://www.youtube.com/watch?v=txonUj-AFuI&pp=ygUYYW5uYSB2ZXJyYScgcGlubyBkYW5pZWxl
   image: img/jukebox.jpg
-  description: "\n"
+  description: |
+    Original und unverfälscht 
 type: rangliste
 ---
