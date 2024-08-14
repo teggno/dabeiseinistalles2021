@@ -9,6 +9,6 @@ song:
   url: https://www.youtube.com/watch?v=txonUj-AFuI&pp=ygUYYW5uYSB2ZXJyYScgcGlubyBkYW5pZWxl
   image: img/jukebox.jpg
   description: |
-    Original und unverfälscht 
+    Original und unverdorben 
 type: rangliste
 ---
