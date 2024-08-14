@@ -9,7 +9,6 @@ song:
   url: https://www.youtube.com/watch?v=txonUj-AFuI&pp=ygUYYW5uYSB2ZXJyYScgcGlubyBkYW5pZWxl
   image: img/jukebox.jpg
   description: >
-    Der Song hatte mir Mut gemacht. Inutile, non mi hai accompagnato. Doch in
-    Gedanken war ich …. in dir
+    Der Song hatte mir Mut gemacht. Vergebens. Doch in Gedanken war ich …. in dir
 type: rangliste
 ---
