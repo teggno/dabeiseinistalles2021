@@ -1,6 +1,6 @@
 ---
 title: "Schweizer Ambitionen "
-draft: true
+draft: false
 date: 2024-06-09T06:41:07.095Z
 image: img/img_0525.jpeg
 ---
