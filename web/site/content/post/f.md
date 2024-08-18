@@ -1,6 +1,6 @@
 ---
 title: Spielverderber
-draft: true
+draft: false
 date: 2024-07-09T09:28:33.821Z
 image: img/img_0611.jpeg
 ---
