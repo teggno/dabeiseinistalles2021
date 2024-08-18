@@ -1,6 +1,6 @@
 ---
 title: Neuer oder ter Stegen?
-draft: true
+draft: false
 date: 2024-06-04T04:20:21.778Z
 image: img/img_0521.jpeg
 ---
