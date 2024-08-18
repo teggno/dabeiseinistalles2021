@@ -1,6 +1,6 @@
 ---
 title: Danke Franz
-draft: true
+draft: false
 date: 2024-06-13T03:32:20.267Z
 image: img/img_0531.jpeg
 ---
