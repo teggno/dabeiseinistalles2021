@@ -1,6 +1,6 @@
 ---
 title: Belgienopfer?
-draft: true
+draft: false
 date: 2024-07-01T14:22:35.399Z
 image: img/img_0589.jpeg
 ---
