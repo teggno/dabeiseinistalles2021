@@ -1,6 +1,6 @@
 ---
 title: Oscarverdächtig
-draft: true
+draft: false
 date: 2024-06-30T03:42:50.279Z
 image: img/img_0580.jpeg
 ---
