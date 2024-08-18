@@ -1,6 +1,6 @@
 ---
 title: Schöne Aussichten
-draft: true
+draft: false
 date: 2024-07-06T14:23:05.854Z
 image: img/img_0601.jpeg
 ---
