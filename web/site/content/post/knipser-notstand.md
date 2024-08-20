@@ -1,6 +1,6 @@
 ---
 title: Stürmermisere
-draft: false
+draft: true
 date: 2024-06-06T04:26:47.196Z
 image: img/img_0510.jpeg
 ---
