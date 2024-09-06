@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX 🎸  Leonard Cohen  ▶️   Dance me to the end of love "
-  url: https://www.youtube.com/watch?v=NGorjBVag0I&pp=ygUbZGFuY2UgbWUgdG8gdGhlIGVuZCBvZiBsb3Zl
+  title: RAFFI‘S JUKEBOX 🎸 Biagio Antonacci  ▶️  Pazzo di Lei
+  url: https://www.youtube.com/watch?v=xa1OiQV6Qes&pp=ygUdYmlhZ2lvIGFudG9uYWNjaSBwYXp6byBkaSBsZWk%3D
   image: img/jukebox.jpg
   description: "\n"
 type: rangliste
