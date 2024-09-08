@@ -1,0 +1,7 @@
+---
+title: "Wie hiess sie noch❓ "
+draft: true
+date: 2024-09-08T15:13:20.375Z
+image: img/img_0631.jpeg
+---
+Mit Elena fing alles an. Am Strand von Rimini. Da wusste ich, dass Fussball nicht alles war. Moni schrieb mir in der Mathematik-Stunde die schönsten Liebesbriefe und in Claudia war ich verliebt. Wenn ich Karin am Jahrmarkt zum Bobbahnfahren überredet hatte, war ich überglücklich. Vielen Dank liebe Schwerkraft. Dank dir habe ich sie nahe bei mir gespürt. Vor dem Schlussfez gabs im Singsaal den Film „Eine Stadt sucht einen Mörder“. Brigitte und ich haben ihn vor lauter Fummeln nicht gesehen. Mit Heidi habe ich in der Schwarzenbar in Altnau alles nochmals wiederholt. Als mir Margrit die Sterne näher brachte, wusste ich gar nicht, dass einer „Fellatio“ hiess. Von da an war ich nicht mehr zu bremsen. Das ging so weit, dass ich im TCS beim „Schutzbriefe zusammenstellen„ fast meine Nachbarin „gepackt“ hätte. Ich schäme mich heute noch. Als ich Doris kennenlernte, vergass ich alles um mich herum. Wir waren 23 Jahre lang zusammen, obwohl wir nicht füreinander bestimmt waren. Marianne und das Lehrlings-Skilager in Sedrun. Alle beim Skifahren. Bis auf uns zwei. Wenn sie mich im Maitlischlag entdeckt hätten, wären wir beide aus der Lehre geflogen. Wir trieben es überall. Am heissesten war es in der Umkleidekabine unseres Arbeitgebers. In Fiesch erlebte ich kurze Zeit später mit einer anderen Marianne die Tücken des Heu‘s!
