@@ -1,5 +1,5 @@
 ---
-title: "Wie hiess sie noch❓ "
+title: "Wie hiessen sie noch❓ "
 draft: true
 date: 2024-09-08T15:13:20.375Z
 image: img/img_0631.jpeg
