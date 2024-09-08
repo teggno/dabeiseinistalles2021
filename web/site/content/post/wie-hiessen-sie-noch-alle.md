@@ -1,0 +1,7 @@
+---
+title: Wie hiessen sie noch alle?
+draft: true
+date: 2024-09-08T12:13:00.553Z
+image: img/img_0632.jpeg
+---
+Mit Elena am Strand von Rimini fing es an. Dann Moni und Claudia aus der Klasse. Karin und dä Chüssitanz. Brigitte beim Film „eine Stadt sucht einen Mörder“. Yvonne und Annamaria mit denen ich nur Händchen hielt. Il falco di Torino, die ich im Tiffany von Rimini auf der Tanzfläche fast verschlang. Elisabeth, die mich vor dem Hotel (immer Rimini) morgens um fünf stehen liess. Margrit die mir an der Rosgartenstrasse beibrachte was Fellatio ist. Doris meine grosse Liebe, die ich besser nie kennengelernt hätte. Statt ins Green Apple direkt nach Hause und unser Leben wäre anders verlaufen. Vielleicht würde sie noch leben. Marianne im Schwimmbad in Sedrun unter der Dusche und dann in der Neher-Umkleidekabine i dä Schtifti.   Wenn sie uns erwischt hätten, wären wir beide aus der Lehre rausgeflogen. Irmgard, die viel älter war und viel mehr verstand.  Miriam aus Schwaderloh, die ich eine zeitlang jeden Freitag vor ihrer Disco abholte und die auf mein „Cunnilingus“ abfuhr. Andrea mit der ich unbeschwert durch die Gassen lief und die heute Bücher schreibt.
