@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  Mein Favorit zum ♋️ sten
+  title: RAFFI‘S JUKEBOX 🎸  Mein Favorit zu meinem ♋️ sten
   url: https://www.youtube.com/watch?v=kSS_V_qNdEw&pp=ygUhdGhlIGxvbmcgYW5kIHdpbmRpbmcgcm9hZCBiZWF0bGVz
   image: img/jukebox.jpg
   description: "\n"
