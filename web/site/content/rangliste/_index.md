@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  Schieb dein Höschen schnell zur Seite ▶️  meine Zunge
-    ist so scharf auf sie
+  title: RAFFI‘S JUKEBOX 🎸  Schieb dein Höschen schnell zur Seite ▶️ meine Zunge
+    ist verrückt nach ihr
   url: https://www.youtube.com/watch?v=kSS_V_qNdEw&pp=ygUhdGhlIGxvbmcgYW5kIHdpbmRpbmcgcm9hZCBiZWF0bGVz
   image: img/jukebox.jpg
   description: >
