@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2024-09-09T04:59:43.798Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
   title: RAFFI‘S JUKEBOX 🎸  Schieb dein Höschen schnell zur Seite ▶️ meine Zunge
