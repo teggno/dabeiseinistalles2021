@@ -5,14 +5,9 @@ image: ""
 showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  Schieb dein Höschen schnell zur Seite ▶️ meine Zunge
-    ist verrückt nach ihr
-  url: https://www.youtube.com/watch?v=x2spNWFpN7I&pp=ygUSdG9mZmVlIHZhc2NvIHJvc3Np
+  title: "RAFFI‘S JUKEBOX 🎸  ▶️ "
+  url: ""
   image: img/jukebox.jpg
-  description: >
-    Als Mister Cunnilingus 1996 auf Miss Fellatio traf - erfreute sich die
-    Nummer ganz besonderer Beliebtheit (ooooh wie ich deine laaaang gezogenen
-    Züge geliebt habe). Jetzt habe ich sie ♋️ trotz deiner Schmeicheleinheiten
-    auf dem Buckel….
+  description: "\n"
 type: rangliste
 ---
