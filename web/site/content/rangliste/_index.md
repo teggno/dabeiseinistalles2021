@@ -10,6 +10,6 @@ song:
   image: img/jukebox.jpg
   description: >
     Was für ein Feeling diese Musik auslösen kann! Die Vorfreude auszugehen! Ein
-    Mädchen zu treffen und dich zu verlieben. They never come back!
+    Mädchen zu treffen und dich zu verlieben. Die Zeiten kommen nie wieder.
 type: rangliste
 ---
