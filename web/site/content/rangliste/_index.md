@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=x2_D_piJPGY&pp=ygUXYW1lcmljYSB2ZW50dXJhIGhpZ2h3YXk%3D
   image: img/jukebox.jpg
   description: >
-    Was für ein Feeling! Die Vorfreude auszugehen! Ein Mädchen zu treffen und
-    dich zu verlieben. They never come back!
+    Was für ein Feeling diese Musik auslösen kann! Die Vorfreude auszugehen! Ein
+    Mädchen zu treffen und dich zu verlieben. They never come back!
 type: rangliste
 ---
