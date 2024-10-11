@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  America ▶️  Ventura Highway
+  title: RAFFI‘S JUKEBOX 🎸  America  ▶️  Ventura Highway
   url: https://www.youtube.com/watch?v=x2_D_piJPGY&pp=ygUXYW1lcmljYSB2ZW50dXJhIGhpZ2h3YXk%3D
   image: img/jukebox.jpg
   description: >
