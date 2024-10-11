@@ -5,11 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  America  ▶️  Ventura Highway
-  url: https://www.youtube.com/watch?v=x2_D_piJPGY&pp=ygUXYW1lcmljYSB2ZW50dXJhIGhpZ2h3YXk%3D
+  title: "RAFFI‘S JUKEBOX 🎸   ▶️  "
+  url: ""
   image: img/jukebox.jpg
-  description: >
-    Was für ein Feeling diese Musik auslösen kann! Die Vorfreude auszugehen! Ein
-    Mädchen zu treffen und dich zu verlieben. Die Zeiten kommen nie wieder.
+  description: "\n"
 type: rangliste
 ---
