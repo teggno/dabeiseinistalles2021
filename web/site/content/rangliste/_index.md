@@ -8,6 +8,8 @@ song:
   title: RAFFI‘S JUKEBOX 🎸  America ▶️  Ventura Highway
   url: https://www.youtube.com/watch?v=x2_D_piJPGY&pp=ygUXYW1lcmljYSB2ZW50dXJhIGhpZ2h3YXk%3D
   image: img/jukebox.jpg
-  description: "\n"
+  description: >
+    Was für ein Feeling! Die Vorfreude auszugehen! Ein Mädchen zu treffen und
+    dich zu verlieben. They never come back!
 type: rangliste
 ---
