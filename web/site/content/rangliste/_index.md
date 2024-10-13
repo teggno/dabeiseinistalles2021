@@ -5,32 +5,27 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  The Beatles  ▶️  Now and Then
-  url: https://www.youtube.com/watch?v=Opxhh9Oh3rg&pp=ygUUbm93IGFuZCB0aGVuIGJlYXRsZXM%3D
+  title: RAFFI‘S JUKEBOX 🎸  The Beatles  ▶️  Don‘t let me down
+  url: https://www.youtube.com/watch?v=NCtzkaL2t_Y&pp=ygUZZG9uJ3QgbGV0IG1lIGRvd24gYmVhdGxlcw%3D%3D
   image: img/jukebox.jpg
-  description: |
-    Ich weiß, es ist wahr
-    Es ist alles deinetwegen
-    Und wenn ich es schaffe
-    Ist es alles deinetwegen
+  description: |+
+    Lass mich nicht im Stich
+    Niemand hat mich je so geliebt wie sie es tut
+    Oh, das tut sie
+    Ja, das tut sie
+    Und wenn mich jemand je so liebte wie sie
+    Oh, dann sie nur sie. Lass mich nicht im Stich
+    Zum ersten Mal bin ich verliebt
+    Weißt du denn nicht, 
+    Es ist eine Liebe, die für die Ewigkeit gemacht ist
+    Eine Liebe ohne Vergangenheit Lass mich nicht im Stich
+    vom ersten Augenblick an hat sie mir richtig gut getan
+    Oh sie tat mir gut
+    Sie tat mir richtig gut
+    Ich glaube niemand tat mir jemals so gut getan
+    Oh, wie sie es tat
+    Sie tat mir richtig gut
 
-    [Strophe 1: John Lennon, John Lennon & Paul McCartney]
-    Und ab und zu
-    Wenn wir wieder anfangen müssen
-    Nun, wir werden sicher wissen
-    Dass ich dich lieben werde
 
-    [Chorus: John Lennon & Paul McCartney]
-    Ab und zu
-    Vermisse ich dich
-    Oh, ab und zu
-    Möchte ich, dass du für mich da bist
-    Immer zu mir zurückkehrst
-
-    [Strophe 2: John Lennon]
-    Ich weiß, es ist wahr
-    Es ist alles deinetwegеn
-    Und wenn du weggehst
-    Wеiß ich, du wirst nie bleiben
 type: rangliste
 ---
