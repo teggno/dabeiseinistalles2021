@@ -24,7 +24,7 @@ song:
 
     ist auf einmal verloren - Nichts ist geblieben - ausser diesem  Streicheln - dieser lustlose Rest von Zärtlichkeit - Und hältst du in deiner Hand - die in der Sonne verdorrten Blumen -
 
-    aus jenem jetzt längst vergangenen April - dann werden sie dir leidtun -
+    aus jenem längst vergangenen April - dann werden sie dir leidtun -
 
     Doch wenn du dann diese Unbekannte auf der Straße triffst - die du noch nie gesehen hast - wirst du sie mit Gold bedecken - für einen nie gegebenen Kuss - für eine neue Liebe 
 
