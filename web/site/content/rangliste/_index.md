@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=8LNuk0OgWhQ&pp=ygUdbGEgY2Fuem9uZSBkZWxsJ2Ftb3JlIHBlcmR1dG8%3D
   image: img/jukebox.jpg
   description: >+
-    Erinnerst du dich - wie die Veilchen erblühten
+    Erinnerst du dich - wie die Veilchen erblühten -
 
     Und weisst du noch - was wir uns damals versprachen -
 
