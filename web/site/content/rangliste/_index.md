@@ -13,7 +13,7 @@ song:
 
     Und weisst du noch - was wir uns damals versprachen -
 
-    Wir werden uns nie verlassen - niemals werden wir das tun
+    Wir werden uns nie verlassen - niemals werden wir das tun -
 
     Ich würde dir jetzt gerne dasselbe sagen -
 
