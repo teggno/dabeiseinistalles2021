@@ -17,11 +17,11 @@ song:
 
     Ich würde dir jetzt gerne dasselbe sagen -
 
-    Doch wie schnell meine Liebste - verblühen die Rosen 
+    Doch wie schnell meine Liebste - verblühen die Rosen -
 
     Die Liebe - die so leidenschaftlich war - che ci strappavamo i capelli - 
 
-    Ist auf einmal verloren - Nichts ist geblieben - ausser diesem lustlosen Streicheln - Der Rest von Zärtlichkeit - mehr nicht
+    ist auf einmal verloren - Nichts ist geblieben - ausser diesem lustlosen Streicheln - Ein kleiner Rest von Zärtlichkeit - mehr nicht
 
     Und hältst du in deiner Hand - die in der Sonne verdorrten Blumen -
 
