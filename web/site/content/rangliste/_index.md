@@ -14,7 +14,7 @@ song:
 
     Und an das - was wir uns damals versprachen -
 
-    nie werden wir uns verlassen - niemals werden wir das tun -
+    Nie werden wir uns verlassen - niemals werden wir das tun -
 
     Ich würde dir jetzt gerne dasselbe sagen -
 
