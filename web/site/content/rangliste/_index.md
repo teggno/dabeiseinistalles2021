@@ -10,11 +10,11 @@ song:
   image: img/jukebox.jpg
   description: >+
     Ich weiss - dass du das nie lesen wirst - wie solltest du auch -  aber wenn
-    -dann wrinnerst du dich vielleicht - wie die Veilchen erblühten -
+    -dann erinnerst du dich vielleicht - wie die Veilchen erblühten -
 
     Und an das - was wir uns damals versprachen -
 
-    nie werden wir uns verlassen - nie würden wir das tun -
+    nie werden wir uns verlassen - niemals werden wir das tun -
 
     Ich würde dir jetzt gerne dasselbe sagen -
 
