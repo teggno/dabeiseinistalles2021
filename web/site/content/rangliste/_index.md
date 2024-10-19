@@ -21,9 +21,7 @@ song:
 
     Die Liebe - die so leidenschaftlich war - che ci strappavamo i capelli - 
 
-    ist auf einmal verloren - Nichts ist geblieben - ausser diesem lustlosen Streicheln - Ein kleiner Rest von Zärtlichkeit - mehr nicht
-
-    Und hältst du in deiner Hand - die in der Sonne verdorrten Blumen -
+    ist auf einmal verloren - Nichts ist geblieben - ausser diesem Streicheln - ein lustloser Rest von Zärtlichkeit - Und hältst du in deiner Hand - die in der Sonne verdorrten Blumen -
 
     aus jenem jetzt längst vergangenen April - dann werden sie dir leidtun.
 
