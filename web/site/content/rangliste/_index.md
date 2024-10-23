@@ -15,7 +15,7 @@ song:
     was haben wir uns nicht alles versprochen -Nie werden wir uns verlassen -
     Ich würde dir heute gerne dasselbe sagen - Doch nun meine Liebste - sind
     alle Rosen 🌹 verblüht - Danilo - Locatelli - Vlahovic  und wie sie alle
-    heissen - es ist alles nur noch zum Heulen Die Liebe  🔥 die damals so
+    heissen - es ist nur noch zum Heulen Die Liebe 🔥 die damals so
     leidenschaftlich begann - che ci strappavamo i capelli - ist erloschen .-
     Nichts ist geblieben - ausser  dieser Wehmut nach längst vergangenen Tagen 
 
