@@ -16,7 +16,7 @@ song:
     werden wir uns verlassen - Ich würde dir heute gerne dasselbe sagen - Doch
     nun meine Liebste - sind alle Rosen 🌹 verblüht - Danilo - Locatelli -
     Vlahovic  und wie sie alle heissen - mir kommen nur noch die Tränen 😭 Die
-    Liebe 🔥 die damals so leidenschaftlich begann - che ci strappavamo i
+    Liebe 🤍🖤  die damals so leidenschaftlich 🔥 begann - che ci strappavamo i
     capelli - ist erloschen .- Nichts ist geblieben - ausser  dieser Wehmut nach
     längst vergangenen Tagen 
 
