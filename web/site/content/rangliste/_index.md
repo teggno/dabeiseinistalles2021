@@ -13,14 +13,12 @@ song:
     🥲 Erinnerst du dich wie die Veilchen🪻erblühten - damals Im Jahre 1960 -
     zuerst Sivori - poi Bettega - Platini - Gianluca Vialli - Was für
     Erinnerungen und was haben wir uns nicht alles versprochen -Nie werden wir
-    uns verlassen - Ich würde dir heute gerne dasselbe sagen - Doch jetzt meine
-    Liebste - sind die Rosen 🌹 verblüht - Danilo - Locatelli-Vlahovic - es ist
-    nur noch zum Heulen Die Liebe - die damals so leidenschaftlich war - che ci
-    strappavamo i capelli - ist auf einmal verlorengegangen.- Nichts ist
-    geblieben - ausser  dieser Wehmut nach längst vergangenen Tagen -  Ich
-    könnte mich jetzt auf die Suche machen nach jener Unbekannten die du
-    irgendwo auf der Straße triffst und mit Gold bedeckst für einen nie
-    gegebenen Kuss - für eine neue Liebe 🥰 
+    uns verlassen - Ich würde dir heute gerne dasselbe sagen - Doch nun meine
+    Liebste - sind alle Rosen 🌹 verblüht - Danilo - Locatelli - Vlahovic  und
+    wie sie alle heissen - es ist alles nur noch zum Heulen Die Liebe  🔥 die
+    damals so leidenschaftlich begann - che ci strappavamo i capelli - ist
+    erloschen .- Nichts ist geblieben - ausser  dieser Wehmut nach längst
+    vergangenen Tagen 
 
 
 
