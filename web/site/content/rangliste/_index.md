@@ -10,15 +10,13 @@ song:
   image: img/jukebox.jpg
   description: >+
     Der Abgesang auf meine Vecchia Signora nach einem Leben treuer Ergebenheit
-    🥲 Erinnerst du dich wie die Veilchen 🪻 erblühten - damals Im Jahre 1960
-    zuerst Sivori - poi Bettega - Platini - Gianluca Vialli - und an das - was
-    wir uns damals versprachen -
+    🥲 Erinnerst du dich wie die Veilchen 🪻 erblühten - damals Im Jahre 1960 -
+    zuerst Sivori - poi Bettega - Platini - Gianluca Vialli - Was für
+    Erinnerungen und was haben wir uns nicht alles versprochen -Nie werden wir
+    uns verlassen - niemals werden wir das tun - Ich würde dir heute gerne
+    dasselbe sagen -
 
-    Nie werden wir uns verlassen - niemals werden wir das tun -
-
-    Ich würde dir jetzt gerne dasselbe sagen -
-
-    Doch wie schnell meine Liebste - verblühen die Rosen -
+    Doch mit der Zeit meine Liebste - sind die Rosen 🌹 verblüht -
 
     Die Liebe - die so leidenschaftlich war - che ci strappavamo i capelli - 
 
