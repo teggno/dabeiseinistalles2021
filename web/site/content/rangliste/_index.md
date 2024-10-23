@@ -9,8 +9,8 @@ song:
   url: https://www.youtube.com/watch?v=8LNuk0OgWhQ&pp=ygUdbGEgY2Fuem9uZSBkZWxsJ2Ftb3JlIHBlcmR1dG8%3D
   image: img/jukebox.jpg
   description: >+
-    Der Abgesang auf meine Alte Dame nach einem Leben treuer Ergebenheit 🥲
-    Erinnerst du dich wie die Veilchen🪻erblühten - damals Im Jahre 1960 -
+    Der Abgesang auf meine Alte Dame nach einem Leben treuer Ergebenheit
+    🥰  Erinnerst du dich wie die Veilchen🪻erblühten - damals Im Jahre 1960 -
     zuerst Omar Sivori - poi Roberto Bettega - Michel Platini - Gianluca Vialli
     - Was für Erinnerungen und was haben wir uns nicht alles versprochen -Nie
     werden wir uns verlassen - Ich würde dir heute gerne dasselbe sagen - Doch
