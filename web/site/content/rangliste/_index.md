@@ -10,9 +10,9 @@ song:
   image: img/jukebox.jpg
   description: >+
     Noch was aus „Bella Italia“ 🇮🇹 Mein Favorit von „Adriano Nazionale“ 🎻  Un
-    ipotesi ☺️ Der DJ hätte diesen Song vor 50 Jahren aufgelegt - ich hätte all
-    meinen Mut zusammengenommen und dich gefragt: „vieni a ballare“ - „si,
-    vengo“ oder einen Korb 🧺 
+    ipotesi ☺️ Hätte der DJ diesen Song vor 50 Jahren aufgelegt - und ich hätte
+    all meinen Mut zusammengenommen und dich gefragt: „vieni a ballare“ -  was
+    hättest du geantwortet - „si, vengo“ oder da hast du einen Korb 🧺 
 
 
 
