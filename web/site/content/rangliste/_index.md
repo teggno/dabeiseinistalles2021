@@ -12,7 +12,7 @@ song:
     Noch was aus „Bella Italia“ 🇮🇹 Mein Favorit von „Adriano Nazionale“ 🎻  Un
     ipotesi ☺️ Hätte der DJ diesen Song vor 50 Jahren aufgelegt - und ich hätte
     all meinen Mut zusammengenommen und dich gefragt: „vieni a ballare“ -  was
-    hättest du geantwortet - „si, vengo“ oder da hast du einen Korb 🧺 
+    hättest du geantwortet - „si, vengo“ oder prenditi questo 🧺
 
 
 
