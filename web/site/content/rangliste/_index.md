@@ -8,8 +8,10 @@ song:
   title: RAFFI‘S JUKEBOX  🎸 Adriano Celentano ▶️  Angel
   url: https://www.youtube.com/watch?v=ItVjlRsa07Q&pp=ygUPY2VsZW50YW5vIGFuZ2Vs
   image: img/jukebox.jpg
-  description: |+
-    Mein Favorit von „Adriano Nazionale“ …….und nicht nur der Dessous wegen 
+  description: >+
+    Mein Favorit von „Adriano Nazionale“ 🎻  Un ipotesi ☺️ Der DJ hätte diesen
+    Song vor 50 Jahren aufgelegt - ich hätte all meinen Mut zusammengenommen und
+    dich gefragt: „vieni a ballare“ - „si, vengo“ oder einen Korb 🧺 
 
 
 
