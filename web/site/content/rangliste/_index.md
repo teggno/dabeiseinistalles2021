@@ -5,9 +5,14 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Biagio Antonacci ▶️  Pazzo di Lei
+  title: RAFFI‘S JUKEBOX  🎸 Adriano Celentano ▶️  Angel
   url: https://www.youtube.com/watch?v=xa1OiQV6Qes&pp=ygUdcGF6em8gZGkgbGVpIGJpYWdpbyBhbnRvbmFjY2k%3D
   image: img/jukebox.jpg
-  description: "\n\n\n\n\n"
+  description: |+
+    Mein Favorit von „Adriano Nazionale“ …….und nicht nur der Dessous 👙wegen 
+
+
+
+
 type: rangliste
 ---
