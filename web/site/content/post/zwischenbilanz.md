@@ -1,7 +1,7 @@
 ---
-title: "Zwischenbilanz "
+title: La grande tristezza
 draft: true
-date: 2024-10-30T23:03:52.083Z
+date: 2024-10-30T23:17:47.042Z
 image: img/1081749-18772051-2560-1440.jpg
 ---
 No mi dispiace, das sind nicht die von heute! Weit und breit kein Scirea, kein Zoff, von Platini und Bettega gar nicht zu reden. Sogar Brio se li mette tutti in tasca (ausser Bremer). Poi Gentile, altra robba. Bonini unser damaliges Mädchen für alles lässt Locatelli alt aussehen. E Pablito! Vlahovic kann ihm nicht mal die Schuhe putzen. Im Golf wäre er sein Caddy. Ein Viertel der Distanz ist absolviert. Hoffentlich ergeht es uns nicht wie Chelsea und ManU, die viel Geld reingesteckt haben und jahrelang nichts mehr holen. Gegen Empoli, Cagliari und Parma 6 Punkte liegen lassen. Ausser Conceicao alle anderen Neueinkäufe im roten Bereich. Bremer fehlt an allen Ecken und Enden. Vlahovic ist ein Fehleinkauf den wir leider nicht mehr loswerden. Die Kombination Gatti/Danilo ist ein Horror.  Savona positiv. Locatelli verbessert. Parma war besser und spielte so wie ich es eigentlich von Juve erwartet hätte. 7 Punkte Rückstand nach 10 Spielen bedeutet ca. 20-25 Punkte Rückstand am Schluss. Napoli sehr solid mit dem Conte-Effekt. Inter hinkt aber gewinnt. Atalanta im Vormarsch. Milan wird noch kommen, Lazio und Fiorentina in Lauerstellung. 
