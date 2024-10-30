@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX 🎸  The Carpenters  ▶️  Yesterday when I was young "
+  title: "RAFFI‘S JUKEBOX 🎸  The Carpenters  ▶️  It’s Yesterday once more "
   url: https://www.youtube.com/watch?v=FmL6It-NW2s&pp=ygUpYXVkcmV5IGhlcGJ1cm4gZ3JlZ29yeSBwZWNrIHJvbWFuIGhvbGlkYXk%3D
   image: img/jukebox.jpg
   description: |+
