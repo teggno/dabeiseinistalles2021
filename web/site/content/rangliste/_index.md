@@ -2,17 +2,12 @@
 title: Rangliste
 date: 2024-10-19T23:14:46.602Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  The Turtles  ▶️  Eleonore
-  url: https://www.youtube.com/watch?v=phMWtWZaDPQ&pp=ygUQZWxlb25vcmUgdHVydGxlcw%3D%3D
+  title: "RAFFI‘S JUKEBOX 🎸   ▶️  "
+  url: ""
   image: img/jukebox.jpg
-  description: |+
-    💃🏽🕺🏾…..Balliamo ……❓
-
-
-
-
+  description: "\n\n\n\n\n"
 type: rangliste
 ---
