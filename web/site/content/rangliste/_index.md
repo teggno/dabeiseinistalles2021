@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸  Biagio Antonacci  ▶️  Pazzo di Lei
-  url: https://www.youtube.com/watch?v=wrOiURD6kgc&pp=ygUMcGF6em8gZGkgbGVp
+  title: RAFFI‘S JUKEBOX 🎸  Mina  ▶️  🔥 💥 ⚡️
+  url: https://www.youtube.com/watch?v=ua9u_AoKxgo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
   image: img/jukebox.jpg
   description: "\n\n\n\n\n"
 type: rangliste
