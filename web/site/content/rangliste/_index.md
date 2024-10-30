@@ -9,14 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=kffaKHD4v9w&pp=ygUPdW4gYW1vcmUgZ3JhbmRl
   image: img/jukebox.jpg
   description: |+
-    Balliamo 💃🏽🕺🏾…….❓
-
-
-    Un amore grande
-    Grande come il mondo
-    Mi portavi la bellezza di un mattino
-    Un sorriso nei miei occhi
-    Un sorriso che oramai non c'è più
+    Balliamo 💃🏽🕺🏾……❓
 
 
 
