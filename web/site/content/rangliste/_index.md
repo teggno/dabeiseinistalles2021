@@ -34,7 +34,7 @@ song:
 
     di amarmi ancora,
 
-    di pigliarmi ancora,
+    di pigliarmi 🥳 ancora,
 
     farmi morire ancora
 
