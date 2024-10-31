@@ -6,7 +6,7 @@ showPlaceholder: true
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
   title: "RAFFI‘S JUKEBOX 🎸    ▶️  "
-  url: https://www.youtube.com/watch?v=ua9u_AoKxgo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
+  url: ""
   image: img/jukebox.jpg
   description: "\n\n\n\n\n"
 type: rangliste
