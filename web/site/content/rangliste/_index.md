@@ -36,7 +36,7 @@ song:
 
     di pigliarmi ancora,
 
-    farmi morire ancora
+    fammi morire ancora
 
     perché ti amo ancora… Confusione la tua mente
 
