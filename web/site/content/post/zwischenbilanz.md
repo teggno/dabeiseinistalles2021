@@ -1,6 +1,6 @@
 ---
 title: La grande tristezza
-draft: false
+draft: true
 date: 2024-10-30T23:17:47.042Z
 image: img/1081749-18772051-2560-1440.jpg
 ---
