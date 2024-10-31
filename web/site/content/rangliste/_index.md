@@ -10,7 +10,7 @@ song:
   image: img/jukebox.jpg
   description: >+
     Dafür ist Mina zurück und lässt sich nicht lumpen - 3 „Einschläge“ kurz
-    hintereinander 🙈 Se vuoi andare, ti capisco;
+    hintereinander 🙈🙈🙈 Se vuoi andare, ti capisco;
 
     se mi lasci, ti tradisco, sì…
 
