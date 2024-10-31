@@ -9,8 +9,8 @@ song:
   url: https://www.youtube.com/watch?v=ua9u_AoKxgo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
   image: img/jukebox.jpg
   description: >+
-    Dafür ist Mina zurück und lässt sich nicht lumpen 🙈 Se vuoi andare, ti
-    capisco;
+    Dafür ist Mina zurück und lässt sich nicht lumpen - 3 „Einschläge“ kurz
+    hintereinander 🙈 Se vuoi andare, ti capisco;
 
     se mi lasci, ti tradisco, sì…
 
