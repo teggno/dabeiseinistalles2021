@@ -8,6 +8,16 @@ song:
   title: "RAFFI‘S JUKEBOX 🎸    ▶️  "
   url: ""
   image: img/jukebox.jpg
-  description: "\n\n\n\n\n"
+  description: >+
+    Was haben Poggibonsi, Frauenfeld, Vereina, Steckborn, l‘autostrada, Ascona,
+    die Konstanzerstrasse, Siena 🥶, die Fliegaufstrasse, das Seenachtsfest,
+    Sirmione, il giardino, Bottighofen und natürlich Capri alles gemeinsam 🤷‍♂️
+    Ich war an all diesen Orten mit einer wundervollen Frau. Überall hat sie
+    sich etwas Besonderes einfallen lassen, ihre Phantasie kannte keine
+    Grenzen. 
+
+
+
+
 type: rangliste
 ---
