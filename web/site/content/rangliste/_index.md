@@ -15,7 +15,7 @@ song:
     alles gemeinsam 🤷‍♂️ Ich war an all diesen Orten mit dir, du wundervolle,
     einzigartige, heisse Frau 👩🏼 mit dem gewissen Etwas und diesen vielen
     Finessen. Wie leidenschaftlich haben wir uns geliebt, mit allem was
-    dazugehört ❤️🙈  Was würde mir nicht alles fehlen, wenn ich dir nicht
+    dazugehört ❤️🙈  Was würde ich nicht alles vermissen, wenn ich dir nicht
     begegnet wäre!
 
     Tanti Auguri 🎉🎈🥳 und dass du immer gesund bleibst, damit wir ab und zu noch ein paar Gedanken miteinander austauschen können. Oggi penso ganz besonders a te. Mal sehen ob du rausfindest welche Buchstaben hinter den Punkten verborgen sind 
