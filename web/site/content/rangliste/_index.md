@@ -13,7 +13,8 @@ song:
     Konstanzerstrasse, Siena 🥶, Bottighofen, die Fliegaufstrasse, Silvester 96,
     das Seenachtsfest, Sirmione, il giardino, Vereinaund natürlich Capri alles
     gemeinsam 🤷‍♂️ Ich war an all diesen Orten mit dir, du wundervolle, heisse
-    Frau. Was würde mir nicht alles fehlen, wenn ich dir nicht begegnet wäre?
+    Frau. Wie leidemhaben wir uns geliebt! Was würde mir nicht alles fehlen,
+    wenn ich dir nicht begegnet wäre?
 
 
 
