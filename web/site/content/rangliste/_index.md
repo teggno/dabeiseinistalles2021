@@ -9,8 +9,8 @@ song:
   url: ""
   image: img/jukebox.jpg
   description: >+
-    Tanti auguri 🎉 🎈 🥳 und dass du immer gesund bleibst. Ohne dich du
-    wundervolle, heisse, einzigartige Frau mit dem gewissen Etwas, hätte ich
+    Tanti auguri 🎉 🎈 🥳 bellissima und dass du immer gesund bleibst. Ohne dich
+    du wundervolle, heisse, einzigartige Frau mit dem gewissen Etwas, hätte ich
     viele unvergessliche Momente nie erlebt. In Ascona, auf der autostrada, in
     Frauenfeld oder in Steckborn, an der Konstanzerstrasse, in Siena 🥶,
     Bottighofen und  Sirmione, an der Fliegaufstrasse, in Poggibonsi, an
