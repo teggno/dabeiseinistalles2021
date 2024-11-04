@@ -18,7 +18,10 @@ song:
     Capri.  Oggi penso ganz besonders a te und so gegen Mittag (war’s damals
     glaub ich auch) bin ich in Gedanken im Minerva und schaue mir im Spiegel
     deine Kurven an. Mal sehen ob du rausfindest welche Buchstaben hinter den
-    Punkten verborgen sind 
+    Punkten verborgen sind.
+
+
+    Ti voglio bene 😍 
 
 
 
