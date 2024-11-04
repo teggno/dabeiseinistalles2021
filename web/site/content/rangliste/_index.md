@@ -9,16 +9,15 @@ song:
   url: ""
   image: img/jukebox.jpg
   description: >+
-    Vor 28 Jahren (incredibile) fing’s an und vor 20 JahrenWas haben Vereina,
-    Frauenfeld, l‘autostrada, Ascona, quell giardino, Steckborn, die
-    Konstanzerstrasse, Siena 🥶, Bottighofen, Sirmione, die Fliegaufstrasse,
-    Poggibonsi, Silvester 96, das Seenachtsfest, und Capri alles gemeinsam 🤷‍♂️
-    Ich war an all diesen Orten mit dir, du wundervolle, einzigartige, heisse
-    Frau 👩🏼 mit dem gewissen Etwas und diesen vielen Finessen. Wie
-    leidenschaftlich haben wir uns geliebt, mit allem was dazugehört ❤️🙈  Was
-    würde ich nicht alles vermissen, wenn ich dir nicht begegnet wäre!
-
-    Tanti Auguri 🎉🎈🥳 und dass du immer gesund bleibst, damit wir ab und zu noch ein paar Gedanken miteinander austauschen können. Oggi penso ganz besonders a te. Mal sehen ob du rausfindest welche Buchstaben hinter den Punkten verborgen sind 
+    Tanti auguri 🎉 🎈 🥳 und dass du immer gesund bleibst. Vor 28 Jahren
+    (incredibile) fing’s an und vor 20 JahrenWas haben Ohne dich du wundervolle,
+    einzigartige heisse Frau mit dem gewissen Etwas und vielen Finessen hätte
+    ich viele Episoden, die mir immer in Erinnerung bleiben werden nie erlebt.
+    In Ascona, auf der autostrada, in Frauenfeld oder in Steckborn, an der
+    Konstanzerstrasse, in Siena 🥶, Bottighofen und  Sirmione, an der
+    Fliegaufstrasse in Poggibonsi, an Silvester 96, am Seenachtsfest, und
+    natürlich in Capri. . Oggi penso ganz besonders a te. Mal sehen ob du
+    rausfindest welche Buchstaben hinter den Punkten verborgen sind 
 
 
 
