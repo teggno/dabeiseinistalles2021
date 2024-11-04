@@ -9,14 +9,14 @@ song:
   url: ""
   image: img/jukebox.jpg
   description: >+
-    Was haben Vereina, Frauenfeld, l‘autostrada, Ascona, quell giardino,
-    Steckborn, die Konstanzerstrasse, Siena 🥶, Bottighofen, Sirmione, die
-    Fliegaufstrasse, Poggibonsi, Silvester 96, das Seenachtsfest, und Capri
-    alles gemeinsam 🤷‍♂️ Ich war an all diesen Orten mit dir, du wundervolle,
-    einzigartige, heisse Frau 👩🏼 mit dem gewissen Etwas und diesen vielen
-    Finessen. Wie leidenschaftlich haben wir uns geliebt, mit allem was
-    dazugehört ❤️🙈  Was würde ich nicht alles vermissen, wenn ich dir nicht
-    begegnet wäre!
+    Vor 28 Jahren (incredibile) fing’s an und vor 20 JahrenWas haben Vereina,
+    Frauenfeld, l‘autostrada, Ascona, quell giardino, Steckborn, die
+    Konstanzerstrasse, Siena 🥶, Bottighofen, Sirmione, die Fliegaufstrasse,
+    Poggibonsi, Silvester 96, das Seenachtsfest, und Capri alles gemeinsam 🤷‍♂️
+    Ich war an all diesen Orten mit dir, du wundervolle, einzigartige, heisse
+    Frau 👩🏼 mit dem gewissen Etwas und diesen vielen Finessen. Wie
+    leidenschaftlich haben wir uns geliebt, mit allem was dazugehört ❤️🙈  Was
+    würde ich nicht alles vermissen, wenn ich dir nicht begegnet wäre!
 
     Tanti Auguri 🎉🎈🥳 und dass du immer gesund bleibst, damit wir ab und zu noch ein paar Gedanken miteinander austauschen können. Oggi penso ganz besonders a te. Mal sehen ob du rausfindest welche Buchstaben hinter den Punkten verborgen sind 
 
