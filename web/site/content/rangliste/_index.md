@@ -13,10 +13,12 @@ song:
     wundervolle, heisse, einzigartige Frau mit dem gewissen Etwas, hätte ich
     viele unvergessliche Momente nie erlebt. In Ascona, auf der autostrada, in
     Frauenfeld oder in Steckborn, an der Konstanzerstrasse, in Siena 🥶,
-    Bottighofen und  Sirmione, an der Fliegaufstrasse in Poggibonsi, an
+    Bottighofen und  Sirmione, an der Fliegaufstrasse, in Poggibonsi, an
     Silvester 96, in jenem Garten, am Seenachtsfest, und natürlich in
-    Capri.  Oggi penso ganz besonders a te und so gegen 11  Uhr nachts . Mal
-    sehen ob du rausfindest welche Buchstaben hinter den Punkten verborgen sind 
+    Capri.  Oggi penso ganz besonders a te und so gegen Mittag (war’s damals
+    glaub ich auch) bin ich in Gedanken im Minerva und schaue mir im Spiegel
+    deine Kurven an. Mal sehen ob du rausfindest welche Buchstaben hinter den
+    Punkten verborgen sind 
 
 
 
