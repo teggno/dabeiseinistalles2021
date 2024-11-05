@@ -14,12 +14,12 @@ song:
     einzigartige, heisse Frau mit dem gewissen Etwas! Und Ascona, die
     autostrada, Frauenfeld und Vernazza, die Konstanzerstrasse, Siena 🥶,
     Bottighofen und Sirmione, e quell bello giardino,  die Fliegaufstrasse,
-    Steckborn und Silvester 96, jenes Seenachtsfest, und natürlich Capri mit all
-    seinen besonderen Geschichten . Erinnerungen für die Ewigkeit. Oggi penso a
-    te dalla mattina alla sera und so gegen Mittag (war’s glaub ich damals auch)
-    bin ich in Gedanken im Minerva und schaue mir im Spiegel diese berühmte
-    Szene 🎬 nochmals an. Mal sehen ob du rausfindest, welche Buchstaben hinter
-    den Punkten verborgen sind.
+    Venezia, Steckborn und Silvester 96, jenes besagte Seenachtsfest, und
+    natürlich Capri mit all seinen besonderen Anekdoten. Erinnerungen für die
+    Ewigkeit. Oggi penso a te dalla mattina alla sera und so gegen Mittag (war’s
+    glaub ich damals auch) bin ich in Gedanken im Minerva und schaue mir im
+    Spiegel diese berühmte Szene 🎬 nochmals an. Mal sehen ob du rausfindest,
+    welche Buchstaben hinter den Punkten verborgen sind.
 
 
     Ti voglio bene 😍
