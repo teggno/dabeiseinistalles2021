@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 DJR  ▶️  m. l. f….. e penso a te
+  title: RAFFI‘S JUKEBOX  🎸 DJ R ▶️ m. l. f….. e penso a te
   url: ""
   image: img/jukebox.jpg
   description: >+
