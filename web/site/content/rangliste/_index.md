@@ -10,8 +10,8 @@ song:
   image: img/jukebox.jpg
   description: >+
     Tanti auguri 🎂🎈🎉 bellissima und dass du immer gesund bleibst. Ob 25 oder
-    54, sei sempre molto speciale. Was wäre der Vereina-Tunnel ohne dich, du
-    wundervolle, einzigartige, heisse Frau mit dem gewissen Etwas! Und
+    54 - sei sempre molto speciale. Was wäre der Vereina-Tunnel ohne dich - du
+    wundervolle - einzigartige - heisse Frau mit dem gewissen Etwas! Und
     Poggibonsi - Ascona - die autostrada - Vernazza - die Konstanzerstrasse
     -  Siena 🥶 - Bottighofen und Sirmione - e quell giardino mit lauter
     verbotenen Früchten 🍊🍊, die sehnlichst darauf warteten gepflückt zu werden
