@@ -9,15 +9,15 @@ song:
   url: https://www.youtube.com/watch?v=QBVcYgJ-RPE&pp=ygUbbHVjaW8gYmF0dGlzdGkgZSBwZW5zbyBhIHRl
   image: img/jukebox.jpg
   description: >+
-    Tanti auguri 🎉 🎈 🥳 bellissima und dass du immer gesund bleibst. Ob 25
-    oder 54, sei sempre molto speciale. Was wäre der Vereina-Tunnel ohne dich,
-    du wundervolle, einzigartige, heisse Frau mit dem gewissen Etwas! Und
+    Tanti auguri 🎂🎈🎉 bellissima und dass du immer gesund bleibst. Ob 25 oder
+    54, sei sempre molto speciale. Was wäre der Vereina-Tunnel ohne dich, du
+    wundervolle, einzigartige, heisse Frau mit dem gewissen Etwas! Und
     Poggibonsi - Ascona - die autostrada - Vernazza - die Konstanzerstrasse
     -  Siena 🥶 - Bottighofen und Sirmione - e quell giardino mit lauter
     verbotenen Früchten 🍊🍊, die sehnlichst darauf warteten gepflückt zu werden
     - Frauenfeld - Venezia - die Fliegaufstrasse mit diesen letzten fast
     unüberwindbaren Treppenstufen und erst das lodernde 🔥 Kamin - Steckborn‘s
-    Turm  und Silvester 96 -  jenes besagte Seenachtsfest und natürlich Capri
+    Turmbegehung  und Silvester 96 -  jenes Seenachtsfest und natürlich Capri
     mit all seinen besonderen Anekdoten. Erinnerungen die ich an einem
     besonderen Ort aufbewahre. Oggi penso dalla mattina alla sera  a te und so
     gegen Mittag (war’s glaub ich damals auch) bin ich in Gedanken im Minerva
