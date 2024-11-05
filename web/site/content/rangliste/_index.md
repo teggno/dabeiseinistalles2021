@@ -5,23 +5,24 @@ image: ""
 showPlaceholder: true
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX 🎸🎶 🥳 🎶 ▶️  m. l. f….. e penso a te
+  title: RAFFI‘S JUKEBOX  🎸 DJR  ▶️  m. l. f….. e penso a te
   url: ""
   image: img/jukebox.jpg
   description: >+
-    Tanti auguri 🎉 🎈 🥳 bellissima und dass du immer gesund bleibst. Ohne dich
-    du wundervolle, heisse, einzigartige Frau mit dem gewissen Etwas, hätte ich
-    viele unvergessliche Momente nie erlebt. In Ascona, auf der autostrada, in
-    Frauenfeld oder in Steckborn, an der Konstanzerstrasse, in Siena 🥶,
-    Bottighofen und  Sirmione, an der Fliegaufstrasse, in Poggibonsi, an
-    Silvester 96, in jenem Garten, am Seenachtsfest, und natürlich in
-    Capri.  Oggi penso ganz besonders a te und so gegen Mittag (war’s damals
-    glaub ich auch) bin ich in Gedanken im Minerva und schaue mir im Spiegel
-    deine Kurven an. Mal sehen ob du rausfindest welche Buchstaben hinter den
-    Punkten verborgen sind.
+    Tanti auguri 🎉 🎈 🥳 bellissima und dass du immer gesund bleibst. Ob 25
+    oder 54, sei sempre speciale. Ohne dich du wundervolle, heisse, einzigartige
+    Frau mit dem gewissen Etwas, hätte ich viele unvergessliche Momente nie
+    erlebt. In Ascona, auf der autostrada, in Frauenfeld oder in Vernazza, an
+    der Konstanzerstrasse, in Siena 🥶, Bottighofen und Sirmione, in quell
+    giardino, an der Fliegaufstrasse, in Steckborn und Poggibonsi, an Silvester
+    96 im?am Seenachtsfest, und natürlich in Capri.  Oggi penso a te dalla
+    mattina alla sera und so gegen Mittag (war’s damals glaub ich auch) bin ich
+    in Gedanken im Minerva und schaue mir im Spiegel diese berühmte Szene an.
+    Mal sehen ob du rausfindest welche Buchstaben hinter den Punkten verborgen
+    sind.
 
 
-    Ti voglio bene 😍 
+    Ti voglio bene 😍
 
 
 
