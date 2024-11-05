@@ -18,11 +18,11 @@ song:
     - Frauenfeld - Venezia - die Fliegaufstrasse mit diesen letzten fast
     unüberwindbaren Treppenstufen und erst das lodernde 🔥 Kamin - Steckborn‘s
     Turm  und Silvester 96 -  jenes besagte Seenachtsfest und natürlich Capri
-    mit all seinen besonderen Anekdoten. Erinnerungen die ich für immer
-    aufbewahre. Oggi penso dalla mattina alla sera  a te und so gegen Mittag
-    (war’s glaub ich damals auch) bin ich in Gedanken im Minerva und schaue mir
-    im Spiegel diese zensierte Szene 🎬 nochmals an. Bin gespannt ob du
-    rausfindest, welche Buchstaben hinter den Punkten verborgen sind.
+    mit all seinen besonderen Anekdoten. Erinnerungen die ich an einem
+    besonderen Ort aufbewahre. Oggi penso dalla mattina alla sera  a te und so
+    gegen Mittag (war’s glaub ich damals auch) bin ich in Gedanken im Minerva
+    und schaue mir im Spiegel diese zensierte Szene 🎬 nochmals an. Bin gespannt
+    ob du rausfindest, welche Buchstaben hinter den Punkten verborgen sind.
 
 
     Ti voglio bene 😍
