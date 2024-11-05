@@ -16,9 +16,9 @@ song:
     Bottighofen und Sirmione, e quell bello giardino,  die Fliegaufstrasse,
     Venezia, Steckborn und Silvester 96, jenes besagte Seenachtsfest, und
     natürlich Capri mit all seinen besonderen Anekdoten. Erinnerungen für die
-    Ewigkeit. Oggi penso a te dalla mattina alla sera und so gegen Mittag (war’s
-    glaub ich damals auch) bin ich in Gedanken im Minerva und schaue mir im
-    Spiegel diese berühmte Szene 🎬 nochmals an. Mal sehen ob du rausfindest,
+    Ewigkeit. Oggi penso dalla mattina alla sera  a te und so gegen Mittag
+    (war’s glaub ich damals auch) bin ich in Gedanken im Minerva und schaue mir
+    im Spiegel diese berühmte Szene 🎬 nochmals an. Mal sehen ob du rausfindest,
     welche Buchstaben hinter den Punkten verborgen sind.
 
 
