@@ -10,16 +10,17 @@ song:
   image: img/jukebox.jpg
   description: >+
     Tanti auguri 🎉 🎈 🥳 bellissima und dass du immer gesund bleibst. Ob 25
-    oder 54, sei sempre speciale. Was wäre Poggibonsi ohne dich, du wundervolle,
-    einzigartige, heisse Frau mit dem gewissen Etwas! Und Ascona, die
-    autostrada, Frauenfeld und Vernazza, die Konstanzerstrasse, Siena 🥶,
+    oder 54, sei sempre molto speciale. Was wäre Poggibonsi ohne dich, du
+    wundervolle, einzigartige, heisse Frau mit dem gewissen Etwas! Und Ascona,
+    die autostrada, Vereina und Vernazza, die Konstanzerstrasse, Siena 🥶,
     Bottighofen und Sirmione, e quell bello giardino,  die Fliegaufstrasse,
-    Venezia, Steckborn und Silvester 96, jenes besagte Seenachtsfest, und
-    natürlich Capri mit all seinen besonderen Anekdoten. Erinnerungen für die
-    Ewigkeit. Oggi penso dalla mattina alla sera  a te und so gegen Mittag
-    (war’s glaub ich damals auch) bin ich in Gedanken im Minerva und schaue mir
-    im Spiegel diese berühmte Szene 🎬 nochmals an. Bin gespannt ob du
-    rausfindest, welche Buchstaben hinter den Punkten verborgen sind.
+    Frauenfeld, Venezia, Steckborn und Silvester 96, jenes besagte
+    Seenachtsfest, und natürlich Capri mit all seinen besonderen Anekdoten.
+    Erinnerungen für die Ewigkeit. Oggi penso dalla mattina alla sera  a te und
+    so gegen Mittag (war’s glaub ich damals auch) bin ich in Gedanken im Minerva
+    und schaue mir im Spiegel diese sonst zensierte Szene 🎬 nochmals an. Bin
+    gespannt ob du rausfindest, welche Buchstaben hinter den Punkten verborgen
+    sind.
 
 
     Ti voglio bene 😍
