@@ -11,14 +11,16 @@ song:
   description: >+
     Tanti auguri 🎉 🎈 🥳 bellissima und dass du immer gesund bleibst. Ob 25
     oder 54, sei sempre molto speciale. Was wäre Poggibonsi ohne dich, du
-    wundervolle, einzigartige, heisse Frau mit dem gewissen Etwas! Und Ascona,
-    die autostrada, Vereina und Vernazza, die Konstanzerstrasse, Siena 🥶,
-    Bottighofen und Sirmione, die Fliegaufstrasse, quell giardino mit lauter
-    verbotenen Früchten 🍊, Frauenfeld, Venezia, Steckborn und Silvester 96,
-    jenes besagte Seenachtsfest, und natürlich Capri mit all seinen besonderen
-    Anekdoten. Erinnerungen für die Ewigkeit. Oggi penso dalla mattina alla
+    wundervolle, einzigartige, heisse Frau mit dem gewissen Etwas! Und Ascona -
+    die autostrada - Vereina und Vernazza - die Konstanzerstrasse -  Siena 🥶 -
+    Bottighofen und Sirmione - e quell giardino mit lauter verbotenen Früchten
+    🍊🍊, die sehnlichst darauf warteten gepflückt zu werden - Frauenfeld,
+    Venezia, die Fliegaufstrasse mit diesen letzten fast unüberwindbaren
+    Treppenstufen und erst das Kamin, Steckborn und Silvester 96, jenes besagte
+    Seenachtsfest, und natürlich Capri mit all seinen besonderen Anekdoten.
+    Erinnerungen die ich für immer aufbewahre. Oggi penso dalla mattina alla
     sera  a te und so gegen Mittag (war’s glaub ich damals auch) bin ich in
-    Gedanken im Minerva und schaue mir im Spiegel diese sonst zensierte Szene 🎬
+    Gedanken im Minerva und schaue mir im Spiegel diese zensierte Szene 🎬
     nochmals an. Bin gespannt ob du rausfindest, welche Buchstaben hinter den
     Punkten verborgen sind.
 
