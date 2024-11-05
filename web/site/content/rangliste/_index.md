@@ -13,9 +13,10 @@ song:
     oder 54, sei sempre speciale. Was wäre Poggibonsi ohne dich, du wundervolle,
     einzigartige, heisse Frau mit dem gewissen Etwas! Und Ascona, die
     autostrada, Frauenfeld und Vernazza, die Konstanzerstrasse, Siena 🥶,
-    Bottighofen und Sirmione, e quell giardino,  die Fliegaufstrasse, Steckborn
-    und Silvester 96, jenes Seenachtsfest, und natürlich Capri.  Oggi penso a te
-    dalla mattina alla sera und so gegen Mittag (war’s damals glaub ich auch)
+    Bottighofen und Sirmione, e quell bello giardino,  die Fliegaufstrasse,
+    Steckborn und Silvester 96, jenes Seenachtsfest, und natürlich Capri mit all
+    seinen besonderen Geschichten . Erinnerungen für die Ewigkeit. Oggi penso a
+    te dalla mattina alla sera und so gegen Mittag (war’s glaub ich damals auch)
     bin ich in Gedanken im Minerva und schaue mir im Spiegel diese berühmte
     Szene 🎬 nochmals an. Mal sehen ob du rausfindest, welche Buchstaben hinter
     den Punkten verborgen sind.
