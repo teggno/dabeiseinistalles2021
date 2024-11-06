@@ -18,10 +18,10 @@ song:
     Fliegaufstrasse mit diesen letzten fast unüberwindbaren Treppenstufen und
     erst das lodernde 🔥 Kamin - Steckborn‘s unvergessliche Turmbesteigung  und
     Silvester 96 wo dein Blick schon alles verriet - jenes versteckte Handspiel
-    am Seenachtsfest und natürlich Capri mit all seinen besonderen Anekdoten - .
-    Oggi penso dalla mattina alla sera  a te und so gegen Mittag (war’s glaub
-    ich damals auch) bin ich in Gedanken im Minerva und schaue mir im Spiegel
-    diese zensierte Szene 🎬 nochmals an. Bin gespannt ob du rausfindest, welche
+    am Seenachtsfest und natürlich Capri mit all seinen besonderen Anekdoten -
+    Oggi penso dalla mattina alla sera  a te und über Mittag (war’s damals glaub
+    ich auch) bin ich in Gedanken im Minerva und schaue mir im Spiegel diese
+    zensierte Szene 🎬 nochmals an. Bin gespannt ob du rausfindest, welche
     Buchstaben hinter den Punkten verborgen sind.
 
 
