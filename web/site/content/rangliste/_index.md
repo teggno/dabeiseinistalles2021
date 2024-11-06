@@ -14,12 +14,12 @@ song:
     wundervolle - begehrenswerte - heisse Frau mit dem gewissen Etwas!
     Und  Ascona - die autostrada - Vereina und Vernazza - die Konstanzerstrasse
     -  Siena 🥶 - Bottighofen und Sirmione - Frauenfeld - Venezia -  e quell
-    giardino, wo die Orangen 🍊🍊Knospen blühten wie auf dem Video -  die
+    giardino, wo nicht nur die Orangen 🍊🍊Knospen blühten -  die
     Fliegaufstrasse mit diesen letzten fast unüberwindbaren Treppenstufen und
     erst das lodernde 🔥 Kamin - Steckborn‘s unvergessliche Turmbesteigung  und
     Silvester 96 wo dein Blick schon alles verriet - jenes versteckte Handspiel
-    am Seenachtsfest  und natürlich Capri mit all seinen besonderen Anekdoten -
-    . Oggi penso dalla mattina alla sera  a te und so gegen Mittag (war’s glaub
+    am Seenachtsfest und natürlich Capri mit all seinen besonderen Anekdoten - .
+    Oggi penso dalla mattina alla sera  a te und so gegen Mittag (war’s glaub
     ich damals auch) bin ich in Gedanken im Minerva und schaue mir im Spiegel
     diese zensierte Szene 🎬 nochmals an. Bin gespannt ob du rausfindest, welche
     Buchstaben hinter den Punkten verborgen sind.
