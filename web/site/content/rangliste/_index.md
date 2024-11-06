@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2024-11-06T06:56:05.800Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
   title: RAFFI‘S JUKEBOX  🎸 DJ  R  ▶️  m. l. f….. e penso a te
