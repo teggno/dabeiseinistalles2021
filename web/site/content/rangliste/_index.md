@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: true
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Lucio Battisti ▶️  e penso a te
-  url: https://www.youtube.com/watch?v=QPPDFCjBvLM&pp=ygUbbHVjaW8gYmF0dGlzdGkgZSBwZW5zbyBhIHRl
+  title: RAFFI‘S JUKEBOX  🎸 Billy Joel   ▶️  Bleib just the way you are
+  url: ""
   image: img/jukebox.jpg
   description: >+
     Tanti auguri 🎂🎈🎉 bellissima und dass du immer gesund bleibst. Ob 25 oder
