@@ -17,12 +17,12 @@ song:
     die Orangen 🍊🍊Knospen blühten wie auf dem Video -  die Fliegaufstrasse mit
     diesen letzten fast unüberwindbaren Treppenstufen und erst das lodernde 🔥
     Kamin - Steckborn‘s unvergessliche Turmbesteigung  und Silvester 96 wo dein
-    Blick mich schon entfesselte - jenes Seenachtsfest und natürlich Capri mit
-    all seinen besonderen Anekdoten - Erinnerungen die ich für immer aufbewahre.
-    Oggi penso dalla mattina alla sera  a te und so gegen Mittag (war’s glaub
-    ich damals auch) bin ich in Gedanken im Minerva und schaue mir im Spiegel
-    diese zensierte Szene 🎬 nochmals an. Bin gespannt ob du rausfindest, welche
-    Buchstaben hinter den Punkten verborgen sind.
+    Blick schon alles verriet - jenes Handspiel am Seenachtsfest  und natürlich
+    Capri mit all seinen besonderen Anekdoten - Erinnerungen die ich für immer
+    aufbewahre. Oggi penso dalla mattina alla sera  a te und so gegen Mittag
+    (war’s glaub ich damals auch) bin ich in Gedanken im Minerva und schaue mir
+    im Spiegel diese zensierte Szene 🎬 nochmals an. Bin gespannt ob du
+    rausfindest, welche Buchstaben hinter den Punkten verborgen sind.
 
 
     Ti voglio bene 😍
