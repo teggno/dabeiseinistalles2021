@@ -10,21 +10,9 @@ song:
   image: img/jukebox.jpg
   description: >+
     Tanti auguri 🎂🎈🎉 bellissima und dass du immer gesund bleibst. Ob 25 oder
-    54 - sei sempre molto speciale. Was wäre Poggibonsi ohne dich - du
-    wundervolle - begehrenswerte - heisse Frau mit dem gewissen Etwas!
-    Und  Ascona - die autostrada - Vereina und Vernazza - die Konstanzerstrasse
-    -  Siena 🥶 - Bottighofen und Sirmione - Frauenfeld - Venezia -  e quell
-    giardino, wo nicht nur die Orangen 🍊🍊Knospen blühten -  die
-    Fliegaufstrasse mit diesen letzten fast unüberwindbaren Treppenstufen und
-    erst das lodernde 🔥 Kamin - Steckborn‘s unvergessliche Turmbesteigung  und
-    Silvester 96 wo dein Blick schon alles verriet - jenes versteckte Handspiel
-    am Seenachtsfest und natürlich Capri mit all seinen besonderen Anekdoten -
-    Oggi penso dalla mattina alla sera  a te und über Mittag (war’s damals glaub
-    ich auch) bin ich in Gedanken im Minerva und schaue mir im Spiegel diese
-    zensierte Szene 🎬 nochmals an. 
-
-
-    Ti voglio bene 😍
+    54 - sei sempre molto speciale. Wundervoll - einzigartig - begehrenswert und
+    heiss! Mir würde noch einiges mehr einfallen - doch für heute lass ich es
+    dabei Ti voglio bene 😍
 
 
 
