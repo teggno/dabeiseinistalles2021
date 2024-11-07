@@ -12,8 +12,7 @@ song:
     Tanti auguri 🎂🎈🎉 bellissima und dass du immer gesund bleibst. Ob 25 oder
     54 - sei sempre molto speciale. Wundervoll - einzigartig - begehrenswert und
     heiss!  Was wäre Poggibonsi ohne dich 🙈 Mir würde noch einiges mehr
-    einfallen - doch für heute lass ich es dabei.  Die zensierte Szene 🎬 vom
-    Minerva schaue ich mir  alleine  🥲 im Spiegel an. Ti voglio bene 😍
+    einfallen - doch für heute lass ich es dabei.  Ti voglio bene 😍
 
 
 
