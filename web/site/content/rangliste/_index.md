@@ -13,9 +13,9 @@ song:
     54 - sei sempre molto speciale. Wundervoll - einzigartig - begehrenswert und
     heiss!  Was wäre Poggibonsi ohne dich 🙈 Mir würde bestimmt noch einiges
     mehr einfallen - doch für heute lass ich es dabei.  Zur Feier deines Tages
-    mach ich noch schnell einen Ausflug ins Minerva und schau mir die pikante
-    Szene 🎬  nochmals im Spiegel an. Schade, dass du nicht auch kommst. Ti
-    voglio bene 😍
+    mach ich noch schnell einen Ausflug ins Minerva  und schau mir die Szene
+    🎬  nochmals im Spiegel an. Schade, dass du nicht auch kommst. Ti voglio
+    bene 😍
 
 
 
