@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Billy Joel   ▶️  Bleib….. just the way you are
+  title: RAFFI‘S JUKEBOX  🎸 Billy Joel   ▶️  Bleib immer…… just the way you are
   url: https://www.youtube.com/watch?v=i-XhgDysZ88&pp=ygUfYmlsbHkgam9lbCBqdXN0IHRoZSB3YXkgeW91IGFyZQ%3D%3D
   image: img/jukebox.jpg
   description: >+
