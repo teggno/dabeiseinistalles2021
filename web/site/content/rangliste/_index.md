@@ -13,7 +13,7 @@ song:
     54 - sei sempre molto speciale. Wundervoll - einzigartig - begehrenswert und
     heiss!  Was wäre Poggibonsi ohne dich 🙈 Mir würde bestimmt noch einiges
     mehr einfallen - doch für heute lass ich es dabei.  Zur Feier deines Tages
-    buche ich das Minerva in Capri und schau mir die Szene 🎬  nochmals im
+    buche ich jenes Zimmer im Minerva  und schau mir die Szene 🎬 nochmals im
     Spiegel an. Schade, dass du nicht auch kommst. Ti voglio bene 😍
 
 
