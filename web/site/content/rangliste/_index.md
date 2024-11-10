@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2024-11-06T07:46:46.258Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
   title: RAFFI‘S JUKEBOX  🎸 Billy Joel   ▶️  Bleib immer…… just the way you are
