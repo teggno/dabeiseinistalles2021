@@ -6,7 +6,7 @@ showPlaceholder: true
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
   title: RAFFI‘S JUKEBOX  🎸  🎶🎶🎶    ▶️   🎉🎉🎉
-  url: ""
+  url: https://www.youtube.com/watch?v=tupyt-LBZqs&pp=ygUjcXVlc3Rpb25lIGRpIGZlZWxpbmcgbWluYSBjb2NjaWFudGU%3D
   image: img/jukebox.jpg
   description: >+
     Hübsche Anekdote zum 11.11. 🥳 Hie und da - wenn ich mich an jenen Karneval
