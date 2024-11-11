@@ -5,16 +5,14 @@ image: ""
 showPlaceholder: true
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Billy Joel   ▶️  Bleib immer…… just the way you are
-  url: https://www.youtube.com/watch?v=i-XhgDysZ88&pp=ygUfYmlsbHkgam9lbCBqdXN0IHRoZSB3YXkgeW91IGFyZQ%3D%3D
+  title: RAFFI‘S JUKEBOX  🎸  🎶🎶🎶    ▶️   🎉🎉🎉
+  url: ""
   image: img/jukebox.jpg
   description: >+
-    Tanti auguri 🎂🎈🎉 bellissima und dass du immer gesund bleibst. Ob 25 oder
-    54 - sei sempre molto speciale. Wundervoll - einzigartig - begehrenswert und
-    heiss!  Was wäre Poggibonsi ohne dich 🙈 Mir würde bestimmt noch einiges
-    mehr einfallen - doch für heute lass ich es dabei.  Zur Feier deines Tages
-    buche ich jenes Zimmer im Minerva  und schau mir die Szene 🎬 nochmals im
-    Spiegel an. Schade, dass du nicht auch kommst. Ti voglio bene 😍
+    Hübsche Anekdote zum 11.11. 🥳 Hie und da - wenn ich mich an jenen Karneval
+    erinnere  - krame ich aus deinen Mails dieses eine hervor - das du so
+    ausserordentlich gekonnt punktiert hattest - dann wurde ich durch…….t - Das
+    waren noch Zeiten 🙈
 
 
 
