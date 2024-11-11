@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  THE FAB FOUR  ▶️  LASCIA STARE 🤔
-  url: https://www.youtube.com/watch?v=CGj85pVzRJs&pp=ygUJbGV0IGl0IGJl
+  title: RAFFI‘S JUKEBOX  🎸🎸🎸🎸🎸  ▶️  👏👏👏👏👏
+  url: https://www.youtube.com/shorts/ytyWIO4XVb8
   image: img/jukebox.jpg
   description: "\n\n\n\n\n\n\n\n\n\n\n\n"
 type: rangliste
