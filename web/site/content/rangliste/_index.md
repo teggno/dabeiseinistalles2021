@@ -9,7 +9,7 @@ song:
   url: https://www.youtube.com/watch?v=tupyt-LBZqs&pp=ygUjcXVlc3Rpb25lIGRpIGZlZWxpbmcgbWluYSBjb2NjaWFudGU%3D
   image: img/jukebox.jpg
   description: >+
-    Zum 11.11. - Anekdote zum Schmunzeln betreffend Karneval🥳 Hie und da - wenn
+    Eine hübsche Anekdote zum 11.11. betreffend Karneval 🥳 Hie und da - wenn
     ich mich an jenen Karneval 19?? erinnere  - krame ich aus deinen Mails
     dieses eine hervor - das du so ausserordentlich gekonnt (an)punktiert
     hattest - dann wurde ich durch…….t - Waren das noch Zeiten 
