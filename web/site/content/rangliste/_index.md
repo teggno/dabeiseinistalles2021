@@ -9,11 +9,10 @@ song:
   url: https://www.youtube.com/watch?v=QR1CwJTXUIk&pp=ygUSYmVhdGxlcyBpbiBteSBsaWZl
   image: img/jukebox.jpg
   description: >+
-    Es gibt Orte - an die ich mich mein ganzes Leben lang erinnern werde -
-    obwohl manche sich verändert haben - Manche sind verschwunden und manche
-    sind noch da - All diese Orte haben ihre Momente - mit Geliebten an die ich
-    mich noch immer erinnern kann - Manche sind tot und manche leben noch - In
-    meinem Leben habe ich sie alle geliebt.
+    Es gibt Orte - an die ich mich mein ganzes Leben lang erinnern werde - Viele
+    sind verschwunden und manche sind noch da - All diese Orte haben ihre
+    Momente - mit Geliebten an die ich mich noch immer erinnern kann - Manche
+    sind tot und manche leben noch - In meinem Leben habe ich sie alle geliebt.
 
 
 
