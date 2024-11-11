@@ -5,17 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  🎶🎶🎶    ▶️   🎉🎉🎉
+  title: "RAFFI‘S JUKEBOX  🎸  Minarette    ▶️   "
   url: https://www.youtube.com/watch?v=tupyt-LBZqs&pp=ygUjcXVlc3Rpb25lIGRpIGZlZWxpbmcgbWluYSBjb2NjaWFudGU%3D
   image: img/jukebox.jpg
-  description: >+
-    Eine hübsche Anekdote zum 11.11. betreffend Karneval 🥳 Hie und da - wenn
-    ich mich an jenen Karneval 19?? erinnere  - krame ich aus deinen Mails
-    dieses eine hervor - das du so ausserordentlich gekonnt (an)punktiert
-    hattest - dann wurde ich durch…….t - Waren das noch Zeiten 
-
-
-
-
+  description: "\n\n\n\n\n"
 type: rangliste
 ---
