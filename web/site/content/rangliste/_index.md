@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  THE BEATLES ▶️ While my guitar gently weeps
-  url: https://www.youtube.com/watch?v=VJDJs9dumZI&pp=ygUHYmVhdGxlcw%3D%3D
+  title: "RAFFI‘S JUKEBOX  🎸  THE BEATLES ▶️  IN MY LIFE "
+  url: https://www.youtube.com/watch?v=QR1CwJTXUIk&pp=ygUSYmVhdGxlcyBpbiBteSBsaWZl
   image: img/jukebox.jpg
   description: "\n\n\n\n\n"
 type: rangliste
