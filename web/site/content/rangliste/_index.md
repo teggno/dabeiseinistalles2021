@@ -5,29 +5,9 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸  THE BEATLES ▶️  IN MY LIFE "
-  url: https://www.youtube.com/watch?v=QR1CwJTXUIk&pp=ygUSYmVhdGxlcyBpbiBteSBsaWZl
+  title: RAFFI‘S JUKEBOX  🎸  THE BEATLES ▶️  LET IT BE
+  url: https://www.youtube.com/watch?v=CGj85pVzRJs&pp=ygUJbGV0IGl0IGJl
   image: img/jukebox.jpg
-  description: |+
-    There are places I′ll remember
-    All my life, though some have changed
-    Some forever, not for better
-    Some have gone and some remain
-
-    All these places have their moments
-    With lovers and friends I still can recall
-    Some are dead and some are living
-    In my life, I've loved them all
-
-
-
-
-
-
-
-
-
-
-
+  description: "\n\n\n\n\n\n\n\n\n\n\n\n"
 type: rangliste
 ---
