@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
   title: RAFFI‘S JUKEBOX  🎸 Eric Clapton ▶️  Autumn 🍁 Leaves
-  url: https://www.youtube.com/watch?v=VJDJs9dumZI&pp=ygUcd2hpbGUgbXkgZ3VpdGFyIGdlbnRseSB3ZWVwcw%3D%3D
+  url: https://www.youtube.com/watch?v=mDBiqKe-wMs&pp=ygUaYXV0dW1uIGxlYXZlcyBlcmljIGNsYXB0b24%3D
   image: img/jukebox.jpg
   description: "\n\n\n\n\n\n\n\n\n\n\n\n"
 type: rangliste
