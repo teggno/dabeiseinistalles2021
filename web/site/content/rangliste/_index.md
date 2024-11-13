@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Eric Clapton ▶️  Autumn 🍁 Leaves
-  url: https://www.youtube.com/watch?v=mDBiqKe-wMs&pp=ygUaYXV0dW1uIGxlYXZlcyBlcmljIGNsYXB0b24%3D
+  title: "RAFFI‘S JUKEBOX  🎸 Deep Purple  ▶️  When a blind man cries "
+  url: https://www.youtube.com/watch?v=jY2Jk1YMhI8&pp=ygUnZGVlcCBwdXJwbGUgd2hlbiBhIGJsaW5kIG1hbiBjcmllcyBsaXZl
   image: img/jukebox.jpg
   description: "\n\n\n\n\n\n\n\n\n\n\n\n"
 type: rangliste
