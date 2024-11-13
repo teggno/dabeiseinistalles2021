@@ -5,8 +5,8 @@ image: img/785fda2b-28ad-418a-879c-b5b26426fcd8.jpeg
 showPlaceholder: false
 placeholder: "Diese Seite ist zur Zeit nicht verfügbar "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 Deep Purple  ▶️  When a blind man cries "
-  url: https://www.youtube.com/watch?v=jY2Jk1YMhI8&pp=ygUnZGVlcCBwdXJwbGUgd2hlbiBhIGJsaW5kIG1hbiBjcmllcyBsaXZl
+  title: "RAFFI‘S JUKEBOX  🎸   ▶️  "
+  url: ""
   image: img/jukebox.jpg
   description: "\n\n\n\n\n\n\n\n\n\n\n\n"
 type: rangliste
