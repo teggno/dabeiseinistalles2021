@@ -1,6 +1,6 @@
 ---
 title: Rangliste
-date: 2024-11-06T07:46:46.258Z
+date: 2024-11-14T16:30:28.160Z
 image: ""
 showPlaceholder: false
 placeholder: "Diese Seite wurde gelöscht "
