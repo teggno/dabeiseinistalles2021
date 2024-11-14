@@ -1,5 +1,5 @@
 ---
-title: dabeisein ist alle
+title: "dabeisein ist alles "
 subtitle: null
 image: img/kinder_strassenfussball.jpg
 color: "#333"
