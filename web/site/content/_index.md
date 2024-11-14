@@ -1,6 +1,6 @@
 ---
-title: dabeisein ist alles
+title: dabeisein ist all
 subtitle: null
-image: img/img_0631.jpeg
+image: img/kinder_strassenfussball.jpg
 color: "#333"
 ---
