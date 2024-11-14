@@ -7,7 +7,7 @@ placeholder: "Diese Seite wurde gelöscht "
 song:
   title: "RAFFI‘S JUKEBOX  🎸   ▶️  "
   url: ""
-  image: img/img_0635.jpeg
+  image: img/img_0637.jpeg
   description: "\n\n\n\n\n\n\n\n\n\n\n\n"
 type: rangliste
 ---
