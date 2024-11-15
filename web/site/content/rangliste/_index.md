@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2024-11-14T16:30:28.160Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "Diese Seite wurde gelöscht "
 song:
   title: RAFFI‘S JUKEBOX  🎸 Scott McKenzie   ▶️  San Francisco
