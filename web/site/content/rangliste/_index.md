@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite wurde gelöscht "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Hetty & The Jazzato Band   ▶️  tu vuo fa l‘americano
-  url: https://www.youtube.com/watch?v=J0ogqBcK9ow&pp=ygUVdHUgdnVvIGZhIGwnYW1lcmljYW5v
+  title: RAFFI‘S JUKEBOX  🎸 Scott McKenzie   ▶️  San Francisco
+  url: https://www.youtube.com/watch?v=PQHb4z0prjo&pp=ygUcc2NvdHQgbWNrZW56aWUgc2FuIGZyYW5jaXNjbw%3D%3D
   image: img/img_0637.jpeg
   description: "\n\n\n\n\n\n\n\n\n\n\n\n"
 type: rangliste
