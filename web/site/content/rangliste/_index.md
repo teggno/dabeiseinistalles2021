@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "Diese Seite wurde gelöscht "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸   ▶️  "
+  title: RAFFI‘S JUKEBOX  🎸 Andreas Gabalier   ▶️  Einmal sehn wir uns wieder
   url: https://www.youtube.com/watch?v=vyQf9nB4eYk&pp=ygUVYW1vbCBzZWdtYSB1bnMgd2llZGVy
   image: img/img_0637.jpeg
   description: "\n\n\n\n\n\n\n\n\n\n\n\n"
