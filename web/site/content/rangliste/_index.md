@@ -5,8 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist momentan nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Mina  ▶️  siii pigliami e
-    prendimi…..ancora…..ancora…..ancora
+  title: RAFFI‘S JUKEBOX  🎸 Mina  ▶️  siii pigliami…..ancora…..ancora…..ancora
   url: ""
   image: img/img_0637.jpeg
   description: "….wenn wir schon bei Liebesbezeugungen sind…..vergiss bitte mein
