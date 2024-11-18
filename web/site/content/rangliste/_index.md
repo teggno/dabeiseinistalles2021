@@ -11,7 +11,7 @@ song:
   description: "….wenn wir schon bei Liebesbezeugungen sind, vergiss bitte mein
     90-tägiges Keuschheitsgelübde nicht das ich ablegen musste um dein Herz ♥️
     zu erobern, obwohl bellissima stets ohne Keuschheitsgürtel auf Stippvisite
-    kam. PS: ich lasse  Mina auf mein „come ti voglio“ antworten. anche se
+    kam. PS: ich lasse  Mina auf mein „come ti desidero“ antworten. anche se
     preferivo sentirlo dire da te, bastava solo con i puntini…..
 
 
