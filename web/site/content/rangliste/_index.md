@@ -12,8 +12,8 @@ song:
     90-tägiges Keuschheitsgelübde nicht das ich ablegen musste um dein Herz ♥️
     zu erobern……obwohl bellissima stets ohne Keuschheitsgürtel auf Stippvisite
     kam…….da hatte der scugnizzo im Video viel mehr Glück….PS: dabeiseinistalles
-    hat mir ausnahmsweise einen einmaligen Rollentausch angeboten…..du bello
-    ………ich bellissima …………siiii prendimiiiii…….🙈🙈🙈
+    hat mir nach soviel Liebesmüh ausnahmsweise einen einmaligen Rollentausch
+    angeboten…..du bello ………ich bellissima …………siiii prendimiiiii…….🙈🙈🙈
 
 
 
