@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2024-11-17T09:01:09.414Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "Diese Seite ist momentan nicht verfügbar "
 song:
   title: RAFFI‘S JUKEBOX  🎸 I Ricchi e poveri   ▶️  come (ti) vorrei (adesso)
@@ -11,7 +11,7 @@ song:
   description: "….wenn wir schon bei Liebesbezeugungen sind…..vergiss bitte mein
     90-tägiges Keuschheitsgelübde nicht das ich ablegen musste um dein Herz ♥️
     zu erobern……obwohl bellissima stets ohne Keuschheitsgürtel auf Stippvisite
-    kam…….da hatte il scugnizzo im Video viel mehr Glück….sie liess\ 
+    kam…….da hatte der scugnizzo im Video viel mehr Glück….
 
 
 
