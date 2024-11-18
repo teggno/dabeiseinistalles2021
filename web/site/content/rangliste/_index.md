@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2024-11-17T09:01:09.414Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "Diese Seite ist momentan nicht verfügbar "
 song:
   title: RAFFI‘S JUKEBOX  🎸 I Ricchi e Poveri   ▶️  come (ti) vorrei (adesso)
