@@ -12,7 +12,7 @@ song:
     90-tägiges Keuschheitsgelübde nicht das ich ablegen musste um dein Herz ♥️
     zu erobern……obwohl bellissima stets ohne Keuschheitsgürtel auf Stippvisite
     kam……PS: ich lasse  Mina auf mein „come ti vorrei adesso“ antworten……viel
-    lieber hätte ich es von dir gehört…..
+    lieber hätte ich es von dir gehört…..wenn auch nur con i punti….
 
 
 
