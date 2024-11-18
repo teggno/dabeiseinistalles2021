@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist momentan nicht verfügbar "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 I Ricchi e poveri   ▶️  come (ti) vorrei (adesso)
+  title: RAFFI‘S JUKEBOX  🎸 I Ricchi e Poveri   ▶️  come (ti) vorrei (adesso)
   url: https://www.youtube.com/watch?v=KT44aQ_10XM&pp=ygULY29tZSB2b3JyZWk%3D
   image: img/img_0637.jpeg
   description: "….wenn wir schon bei Liebesbezeugungen sind…..vergiss bitte mein
