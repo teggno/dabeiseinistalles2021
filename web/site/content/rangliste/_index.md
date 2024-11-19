@@ -12,7 +12,7 @@ song:
     90-tägiges Keuschheitsgelübde nicht das ich ablegen musste um dein Herz ♥️
     zu erobern, obwohl bellissima stets ohne Keuschheitsgürtel auf Stippvisite
     kam. PS: ich lasse  Mina auf mein „ti desidero tanto“ antworten. anche se
-    preferivo sentirlo dire da te, bastava solo con i puntini…..
+    preferivo sentirlo dire da te, bastavano solamente i puntini…..
 
 
 
