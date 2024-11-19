@@ -1,6 +1,6 @@
 ---
 title: Ritt auf der Rasierklinge?
-draft: true
+draft: false
 date: 2024-11-19T09:59:57.278Z
 image: img/img_0640.jpeg
 ---
