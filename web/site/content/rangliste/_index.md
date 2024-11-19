@@ -3,7 +3,7 @@ title: Rangliste
 date: 2024-11-17T09:01:09.414Z
 image: ""
 showPlaceholder: true
-placeholder: "Diese Seite ist momentan nicht verfügbar "
+placeholder: Diese Seite ist momentan nicht verfügbar 🥲
 song:
   title: RAFFI‘S JUKEBOX  🎸 (M) ina  ▶️  siii pigliamiii....ancora ancora ancora
   url: https://www.youtube.com/watch?v=ua9u_AoKxgo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
