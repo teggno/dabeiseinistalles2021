@@ -5,8 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist momentan nicht verfügbar 🥲
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Peter Cornelius  ▶️  (nicht nur) Der Kaffee ☕️ ist
-    fertig
+  title: RAFFI‘S JUKEBOX  🎸  Peter Cornelius  ▶️   Der Kaffee ☕️ ist fertig
   url: https://www.youtube.com/watch?v=FOEnFwKpDCA&pp=ygUlZGVyIGthZmZlZSBpc3QgZmVydGlnIHBldGVyIGNvcm5lbGl1cw%3D%3D
   image: img/img_0637.jpeg
   description: "\n\n "
