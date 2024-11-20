@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist momentan nicht verfügbar 🥲
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Peter Cornelius  ▶️  Der Kaffee ☕️ ist fertig
+  title: RAFFI‘S JUKEBOX  🎸  Adriano Celentano  ▶️  Alla fine rimase solo lei
   url: https://www.youtube.com/watch?v=ItVjlRsa07Q&pp=ygUPY2VsZW50YW5vIGFuZ2Vs
   image: img/img_0637.jpeg
   description: "\n\n "
