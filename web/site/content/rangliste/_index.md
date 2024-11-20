@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist momentan nicht verfügbar 🥲
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Am Ende blieb wenigstens ▶️ SIE
+  title: RAFFI‘S JUKEBOX  🎸 Am Ende blieb ihm nur noch  ▶️ Sie
   url: https://www.youtube.com/watch?v=ItVjlRsa07Q&pp=ygUXYW5nZWwgYWRyaWFubyBjZWxlbnRhbm8%3D
   image: img/img_0637.jpeg
   description: "\n\n "
