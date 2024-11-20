@@ -5,8 +5,8 @@ image: ""
 showPlaceholder: false
 placeholder: Diese Seite ist momentan nicht verfügbar 🥲
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 Adriano Celentano  ▶️  Menomale ch‘e rimasta lei "
-  url: https://www.youtube.com/watch?v=ItVjlRsa07Q&pp=ygUXYW5nZWwgYWRyaWFubyBjZWxlbnRhbm8%3D
+  title: RAFFI‘S JUKEBOX  🎸  Peter Cornelius  ▶️  Der Kaffee ☕️ ist fertig
+  url: https://www.youtube.com/watch?v=ItVjlRsa07Q&pp=ygUPY2VsZW50YW5vIGFuZ2Vs
   image: img/img_0637.jpeg
   description: "\n\n "
 type: rangliste
