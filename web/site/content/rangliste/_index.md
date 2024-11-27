@@ -10,10 +10,10 @@ song:
   image: img/img_0637.jpeg
   description: "
 
-    Wer weiss schon wann das Ende naht - und die letzte Illusion aus meinem
-    Kopf verschwindet - Ich hab ein gutes Leben gehabt - so ziemlich jede
-    Erfahrung gemacht - und mehr - viel mehr als das - ich tat es auf meine Art
-    getan - Klar habe ich vieles bereut - aber dann auch wieder wenig - um es
+    Wer weiss schon wann das Ende naht - und die letzte Illusion aus meinen
+    Gedanken  entschwindet - Ich hab ein gutes Leben gehabt - so ziemlich jede
+    Erfahrung gemacht - und mehr - viel mehr als das - ich tat alles auf meine
+    Art  - Klar habe ich vieles bereut - aber dann auch wieder wenig - um es
     überhaupt zu erwähnen - Ich tat - was ich tun musste - und habe alles ohne
     Ausnahme zu Ende gebracht - Ich plante jedes Vorhaben - sorgfältig bis ins
     Detail - und mehr - viel mehr als das - ich tat es auf meine Art - Ja es gab
