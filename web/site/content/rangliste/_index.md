@@ -16,7 +16,7 @@ song:
     meine Art getan - Vieles hab ich bereut - aber dann auch wieder wenig - um
     es überhaupt zu erwähnen - Ich tat - was ich tun musste - plante jedes
     Vorhaben sorgfältig bis ins Detail - und mehr viel mehr als das - ich tat es
-    immer auf meine Weise - Ja es gab Zeiten - Ich bin sicher - du hast es
+    immer auf meine Weise - Ja es gab Zeiten - ich bin sicher - du hast es
     gemerkt - da habe ich mich übernommen - Aber dennoch - wenn ich auch an
     manchem zweifelte - Ich hab's geschluckt - Ich hab mich gestellt - und tat
     es auf meine Weise - Ich habe geliebt -  gelacht und geweint - Ich habe
