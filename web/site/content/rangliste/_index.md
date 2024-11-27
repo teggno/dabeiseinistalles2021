@@ -31,18 +31,9 @@ song:
     hatte auch genug an Illusionen wegzustecken.
 
     Und jetzt - wo die Tränen verflogen sind - kann ich sogar darüber lachen
-    - Denn - was ist ein Mann - was hat er schon- wenn nicht sich selbst
-
-    Das zu sagen, was er wirklich fühlt,
-
-    Und nicht mit den Worten eines dessen, der kniet.
-
-    Die Bilanz zeigt: Ich habe einstecken müssen -
-
-    Aber ich hab' es auf meine Weise getan.
-
-
-    Ja, auf meine Weise.
+    - Denn - was ist ein Mann - was hat er schon- wenn nicht sich selbst - Das
+    zu sagen - was er wirklich fühlt - Ja - ich hab’s auf meine Art getan - nur
+    auf meine
 
 
     \ "
