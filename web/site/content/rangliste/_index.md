@@ -12,7 +12,7 @@ song:
 
     Wer weiss schon - wann das Ende naht
 
-    und die letzte Illusion aus meinem Geist verschwindet\ 
+    und die letzte Illusion aus meinem Geist verschwindet -
 
     Ich hab ein gutes Leben gehabt - so ziemlich jede Erfahrung gemacht -
     und mehr - viel mehr als das - ich hab's auf meine Art getan - Klar habe ich
