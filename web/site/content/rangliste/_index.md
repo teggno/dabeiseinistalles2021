@@ -14,15 +14,15 @@ song:
     entschwindet - wird mir klar - ich hab ein gutes Leben gehabt - so ziemlich
     jede Erfahrung gemacht - und mehr - viel mehr als das - ich hab alles auf
     meine Art getan - Vieles hab ich bereut - aber dann auch wieder wenig - um
-    es überhaupt zu erwähnen - Ich tat - was ich tun musste - und habe alles
-    ohne Ausnahme zu Ende gebracht - Ich plante jedes Vorhaben - sorgfältig bis
-    ins Detail - und mehr - viel mehr als das - ich tat es immer auf meine Weise
-    - Ja es gab Zeiten - Ich bin sicher - du hast es gemerkt - da habe ich mich
-    übernommen - Aber dennoch - wenn ich auch an manchem zweifelte - Ich hab's
-    geschluckt - Ich hab mich gestellt - und tat es auf meine Weise - Ich habe
-    geliebt -  gelacht und geweint - Ich habe Niederlagen weggesteckt -Und jetzt
-    - wo die Tränen verflogen sind - kann ich sogar darüber lachen - Denn - was
-    ist ein Mann - was hat er schon - wenn nicht sich selbst\ 
+    es überhaupt zu erwähnen - Ich tat - was ich tun musste - Ich plante jedes
+    Vorhaben - sorgfältig bis ins Detail - und mehr - viel mehr als das - ich
+    tat es immer auf meine Weise - Ja es gab Zeiten - Ich bin sicher - du hast
+    es gemerkt - da habe ich mich übernommen - Aber dennoch - wenn ich auch an
+    manchem zweifelte - Ich hab's geschluckt - Ich hab mich gestellt - und tat
+    es auf meine Weise - Ich habe geliebt -  gelacht und geweint - Ich habe
+    Niederlagen weggesteckt -Und jetzt - wo die Tränen verflogen sind - kann ich
+    sogar darüber lachen - Denn - was ist ein Mann - was hat er schon - wenn
+    nicht sich selbst\ 
 
 
     \ "
