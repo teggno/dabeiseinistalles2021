@@ -11,7 +11,7 @@ song:
   description: "
 
     Und jetzt wo das Ende naht - und die letzte Illusion aus meinen Gedanken
-    entschwindet - wird mir klar - ich hab ein gutes Leben gehabt - so ziemlich
+    entschwindet - wird mir klar - ich hab ein gutes Leben gehabt - So ziemlich
     jede Erfahrung gemacht - und mehr - viel mehr als das - ich hab alles auf
     meine Art getan - Vieles hab ich bereut - aber dann auch wieder wenig - um
     es überhaupt zu erwähnen - Ich tat - was ich tun musste - Ich plante jedes
