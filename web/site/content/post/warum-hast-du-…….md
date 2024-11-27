@@ -1,0 +1,6 @@
+---
+title: Warum hast du ……
+draft: true
+date: 2024-11-27T18:07:10.852Z
+---
+…..auf deinem Pilgerweg meine Texte gelesen……
