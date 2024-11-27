@@ -22,8 +22,8 @@ song:
     dann ausgespuckt - Ich habe mich allem gestellt - Blieb standhaft - und tat
     es auf meine Art - Ich habe geliebt -  gelacht und geweint - Ich habe
     Niederlagen weggesteckt Und jetzt - wo die Tränen verflogen sind - kann ich
-    sogar darüber lachen - Denn - was ist ein Mann - was hat er schon- wenn
-    nicht sich selbst -  Ja - ich tatves auf meine Art - nur auf meine
+    sogar darüber lachen - Denn - was ist ein Mann - was hat er schon - wenn
+    nicht sich selbst\ 
 
 
     \ "
