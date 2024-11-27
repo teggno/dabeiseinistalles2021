@@ -21,17 +21,14 @@ song:
     Aber dann auch wieder wenig - um es überhaupt zu erwähnen - Ich tat -
     was ich tun musste - und habe alles ohne Ausnahme zu Ende gebracht - Ich
     plante jedes Vorhaben - sorgfältig bis ins Detail - und mehr - viel mehr als
-    das - ich hab's auf meine Art getan - Ja, es gab Zeiten - Ich bin sicher -
+    das - ich hab's auf meine Art getan - Ja - es gab Zeiten - Ich bin sicher -
     du hast es gemerkt - da habe ich mich übernommen - Aber dennoch - wenn ich
     auch an manchem zweifelte - Ich hab's geschluckt und dann ausgespuckt - Ich
     habe mich allem gestellt - Blieb standhaft - und tat es auf meine Art - Ich
-    habe geliebt - habe gelacht - und habe geweint - Ich hatte auch genug an
-    Illusionen wegzustecken.
-
-    Und jetzt - wo die Tränen verflogen sind - kann ich sogar darüber lachen
-    - Denn - was ist ein Mann - was hat er schon- wenn nicht sich selbst - Das
-    zu sagen - was er wirklich fühlt - Ja - ich hab’s auf meine Art getan - nur
-    auf meine
+    habe geliebt -  gelacht und geweint - Ich hatte genug Niederlagen
+    wegzustecken - Und jetzt - wo die Tränen verflogen sind - kann ich sogar
+    darüber lachen - Denn - was ist ein Mann - was hat er schon- wenn nicht sich
+    selbst -  Ja - ich tatves auf meine Art - nur auf meine
 
 
     \ "
