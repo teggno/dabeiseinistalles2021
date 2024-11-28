@@ -12,7 +12,7 @@ song:
 
     ……die Illusion❓….Begraben, weil weder tiefsinnige Prosa noch vertraute
     Melodien den endgültigen Durchbruch schafften. Mrs Jones kam einfach nicht!
-    Weder um six thirty noch später 🤷‍♂️
+    Weder um six thirty noch später….
 
 
 
