@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n\n\n "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Billy Paul  ▶️  mi arrendo 🏳️
+  title: RAFFI‘S JUKEBOX  🎸  Billy Paul  ▶️  I give up 🏳️
   url: https://www.youtube.com/watch?v=Fu1UvoQg6nA&pp=ygUQbWUgYW5kIG1ycyBqb25lcw%3D%3D
   image: img/img_0637.jpeg
   description: "
