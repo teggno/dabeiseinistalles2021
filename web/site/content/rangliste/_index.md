@@ -10,7 +10,7 @@ song:
   image: img/img_0637.jpeg
   description: "
 
-    Grazie per le tue preocupazioni. Die Illusion❓begraben, weil weder
+    Grazie per le tue preoccupazioni. Die Illusion❓begraben, weil weder
     tiefsinnige Prosa noch vertraute Melodien den endgültigen Durchbruch
     schafften. Mrs Jones kam einfach nicht! Weder um six thirty noch sonst
     irgendwann…..
