@@ -10,7 +10,7 @@ song:
   image: img/img_0637.jpeg
   description: "
 
-    ……die Illusion❓…..begraben, weil weder tiefsinnige Prosa noch vertraute
+    ……die Illusion❓….Begraben, weil weder tiefsinnige Prosa noch vertraute
     Melodien den endgültigen Durchbruch schafften. Mrs Jones kam einfach nicht!
     Weder um six thirty noch später 🤷‍♂️
 
