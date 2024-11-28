@@ -2,8 +2,14 @@
 title: Rangliste
 date: 2024-11-27T16:18:44.959Z
 image: ""
-showPlaceholder: true
-placeholder: "\n\n\n\n\n "
+showPlaceholder: false
+placeholder: "Diese Seite ist nicht mehr verfügbar
+
+
+
+
+
+  \ "
 song:
   title: RAFFI‘S JUKEBOX  🎸  Billy Paul  ▶️  I give up 🏳️
   url: https://www.youtube.com/watch?v=Fu1UvoQg6nA&pp=ygUQbWUgYW5kIG1ycyBqb25lcw%3D%3D
