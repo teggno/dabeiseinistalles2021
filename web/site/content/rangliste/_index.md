@@ -2,8 +2,23 @@
 title: Rangliste
 date: 2024-11-27T16:18:44.959Z
 image: ""
-showPlaceholder: false
-placeholder: 🔌
+showPlaceholder: true
+placeholder: "……die Illusion❓…..begraben, weil weder tiefsinnige Prosa noch
+  vertraute Melodien den endgültigen Durchbruch schafften. Mrs Jones kam einfach
+  nicht um six thirty\ 
+
+
+
+
+
+
+
+
+  \\ 
+
+
+
+  \ "
 song:
   title: "RAFFI‘S JUKEBOX  🎸   ▶️   "
   url: ""
