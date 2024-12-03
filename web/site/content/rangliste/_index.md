@@ -15,8 +15,8 @@ song:
   url: https://www.youtube.com/watch?v=C9GlC9GyF4Y&pp=ygUVZWx2aXMgY29zdGVsbG8gYWxpc29u
   image: img/img_0637.jpeg
   description: "Wenn du willst, kann ich dir eine Plattform geben, wo nur wir uns
-    schreiben können. Egal welche Themen. Es bliebe unter uns, Ich würde gerne,
-    und du? Sag einfach si o no….ich bin dir nicht böse auch wenn du nein sagst
+    schreiben können. Egal welche Themen. Es bliebe unter uns, Sag einfach si o
+    no….ich bin dir nicht böse auch wenn du nein sagst
 
 
 
