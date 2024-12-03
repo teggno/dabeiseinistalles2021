@@ -15,7 +15,8 @@ song:
   url: ""
   image: img/img_0637.jpeg
   description: "Wenn du willst, kann ich dir eine Plattform geben, wo nur wir uns
-    schreiben können. Ich würde gerne, und du? Sag einfach si o no….
+    schreiben können. Es bliebe unter uns, Ich würde gerne, und du? Sag einfach
+    si o no….ich bin dir nicht böse auch wenn du nein sagst
 
 
 
