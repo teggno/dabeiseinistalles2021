@@ -16,7 +16,7 @@ song:
   image: img/img_0637.jpeg
   description: "Wenn du willst, kann ich dir eine Plattform geben, wo nur wir uns
     ab und zu schreiben können. Egal welche Themen. Es bliebe unter uns, Sag
-    einfach si o no….ich bin dir nicht böse auch wenn du nein sagst
+    einfach si o no. Ich bin dir nicht böse wenn du nein sagst
 
 
 
