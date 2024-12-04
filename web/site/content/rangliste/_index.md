@@ -14,9 +14,10 @@ song:
   title: RAFFI‘S JUKEBOX  🎸 Elvis Costello   ▶️  Alison
   url: https://www.youtube.com/watch?v=C9GlC9GyF4Y&pp=ygUVZWx2aXMgY29zdGVsbG8gYWxpc29u
   image: img/img_0637.jpeg
-  description: "Könnte….wollte….möchte 🤷‍♂️  Falls du eine Plattform haben
-    willst, wo wir uns ab und zu schreiben und alles unter uns bleibt….dann sag
-    einfach ja oder nein…..\ 
+  description: "Könnte….wollte….möchte 🤷‍♂️  Falls du eine Plattform brauchst, um
+    mir deine Gedanken näherzubringen, dann sag einfach ja. Wenn nicht, werde
+    ich meine „Berichterstattung“ samt Jukebox einstellen und die Zeilen nur
+    noch für mich schreiben ✍️ Vielleicht ist das eher in deinem Sinn.\ 
 
 
 
