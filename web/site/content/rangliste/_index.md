@@ -17,8 +17,8 @@ song:
   description: "Könnte….wollte….möchte 🤷‍♂️  Falls du eine Plattform brauchst,
     die nur uns beide was angeht, um mir deine Gedanken näherzubringen, dann sag
     einfach ja. Wenn nein, werde ich meine „Berichterstattung“ (weil zu
-    einseitig) samt Jukebox einstellen und die Zeilen nur noch für mich
-    schreiben ✍️ Vielleicht ist das eher in deinem Sinn. Baci
+    einseitig) samt Jukebox einstellen und meine spontanen „Einfälle“ nur noch
+    für mich zu Papier 📝 bringen. Vielleicht ist das eher in deinem Sinn. Baci
 
 
 
