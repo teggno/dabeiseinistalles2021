@@ -1,6 +1,6 @@
 ---
 title: Rangliste
-date: 2024-11-27T16:18:44.959Z
+date: 2024-12-07T15:36:28.138Z
 image: ""
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar
