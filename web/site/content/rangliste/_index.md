@@ -14,19 +14,6 @@ song:
   title: RAFFI‘S JUKEBOX  🎸 lo fai pure tu cosi  ▶️  ……😎
   url: ""
   image: img/img_0637.jpeg
-  description: "….was hälst du von….oggi….domani …..lunedi o martedi….🤷‍♂️……wenn
-    du Zeit und Lust hast…..kannst du mich ja mal anrufen…..📞
-
-
-
-
-
-
-
-
-
-
-
-    \ "
+  description: "\n\n\n\n\n\n\n\n\n\n\n "
 type: rangliste
 ---
