@@ -11,7 +11,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Machst du’s auch so   ▶️  😎
+  title: RAFFI‘S JUKEBOX  🎸 lo fai pure tu cosi  ▶️  ……😎
   url: ""
   image: img/img_0637.jpeg
   description: "….was hälst du von….oggi….domani …..lunedi o martedi….🤷‍♂️……wenn
