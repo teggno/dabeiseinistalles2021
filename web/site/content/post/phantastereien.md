@@ -1,7 +1,7 @@
 ---
 title: Eine verhängnisvolle Affäre
 draft: false
-date: 2024-12-08T13:34:09.242Z
+date: 2024-12-08T15:34:21.596Z
 image: img/img_0649.jpeg
 ---
 Lucky Luciano (Moggi) war Bahnwärter und hat es trotzdem geschafft! Warum sollte ich es nicht auch hinkriegen? Nichts gegen Cristiano Giuntoli aber hätten sie mir die 200 Millionen gegeben, würde Juve heute besser dastehen. Man muss nicht zwangsläufig ein begnadeter Fussballer gewesen sein um das Auge für die „Richtigen“ zu haben.
