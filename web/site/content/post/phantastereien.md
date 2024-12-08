@@ -1,5 +1,5 @@
 ---
-title: Verhängnisvolle Affäre
+title: Eine verhängnisvolle Affäre
 draft: false
 date: 2024-12-08T13:34:09.242Z
 image: img/img_0649.jpeg
