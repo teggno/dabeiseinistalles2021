@@ -1,6 +1,6 @@
 ---
 title: Phantastereien?
-draft: true
+draft: false
 date: 2024-12-08T13:34:09.242Z
 image: img/img_0647.jpeg
 ---
