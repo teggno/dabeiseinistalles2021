@@ -15,7 +15,7 @@ song:
   url: https://www.youtube.com/watch?v=HTC1kdpl6EE&pp=ygUZamFuaXMgam9wbGluIGtvem1pYyBibHVlcw%3D%3D
   image: img/img_0637.jpeg
   description: "Was für ein Anblick! Alles da was Rang und Namen hat. Und erst die
-    Musik. Vom Feinsten….💋
+    Musik. Vom Feinsten 🥳
 
 
 
