@@ -14,8 +14,8 @@ song:
   title: RAFFI‘S JUKEBOX  🎸 Janis Joplin ▶️ Kozmic Blues
   url: https://www.youtube.com/watch?v=HTC1kdpl6EE&pp=ygUZamFuaXMgam9wbGluIGtvem1pYyBibHVlcw%3D%3D
   image: img/img_0637.jpeg
-  description: "Was für ein Anblick! Alles da was Rang und Namen hat. Und erst die
-    Musik. Vom Feinsten 🥳
+  description: "Che bello….überall Frauen …..keine Handys…..und Musik vom
+    Feinsten….
 
 
 
