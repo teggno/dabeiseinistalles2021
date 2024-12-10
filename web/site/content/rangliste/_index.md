@@ -11,22 +11,9 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Janis Joplin ▶️ Kozmic Blues
-  url: https://www.youtube.com/watch?v=HTC1kdpl6EE&pp=ygUZamFuaXMgam9wbGluIGtvem1pYyBibHVlcw%3D%3D
+  title: "RAFFI‘S JUKEBOX  🎸  ▶️ "
+  url: ""
   image: img/img_0637.jpeg
-  description: "Che bello…jung….spensierati….strahlende Gesichter …..keine
-    Handys…..und Musik vom Feinsten….
-
-
-
-
-
-
-
-
-
-
-
-    \ "
+  description: "\n\n\n\n\n\n\n\n\n\n\n "
 type: rangliste
 ---
