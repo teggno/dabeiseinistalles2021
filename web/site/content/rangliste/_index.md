@@ -11,8 +11,8 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Billy Joel   ▶️  Vienna
-  url: https://www.youtube.com/watch?v=3jL4S4X97sQ&pp=ygURdmllbm5hIGJpbGx5IGpvZWw%3D
+  title: "RAFFI‘S JUKEBOX  🎸  Fleetwood Mac   ▶️  Man of the World "
+  url: https://www.youtube.com/watch?v=9GPR848mhIs&pp=ygUebWFuIG9mIHRoZSB3b3JsZCBmbGVldHdvb2QgbWFj
   image: img/img_0637.jpeg
   description: "\n\n\n\n\n\n\n\n\n\n\n "
 type: rangliste
