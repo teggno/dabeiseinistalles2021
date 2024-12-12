@@ -11,8 +11,9 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸  Fleetwood Mac   ▶️  Man of the World "
-  url: https://www.youtube.com/watch?v=9GPR848mhIs&pp=ygUebWFuIG9mIHRoZSB3b3JsZCBmbGVldHdvb2QgbWFj
+  title: "RAFFI‘S JUKEBOX  🎸 The Stylistics   ▶️  Can‘t give you anything but my
+    love "
+  url: https://www.youtube.com/watch?v=SFbA9wxD67o&pp=ygUydGhlIHN0eWxpc3RpY3MgY2FuJ3QgZ2l2ZSB5b3UgYW55dGhpbmcgYnV0IG15IGxvdmU%3D
   image: img/img_0637.jpeg
   description: "\n\n\n\n\n\n\n\n\n\n\n "
 type: rangliste
