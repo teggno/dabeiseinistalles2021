@@ -42,16 +42,16 @@ song:
     Siehst du denn nicht
     Wie es mit uns zwei jetzt steht
     Geht denn das in deinen Schädel nicht rein?
-    So geht's nimmer weiter
+    So geht's nicht mehr weiter
     Versteh doch
     Es muss einfach sein.
     Ja früher da haben wir noch Luftschlösser gebaut
     Und haben geträumt von einem Leben zu zweit
-    "Nie wird’s was gebn, was uns zwei trennen kann":
+    "Nie wird’s was geben, was uns zwei trennen kann":
     Man täuscht sich jetzt ist es so weit.
     Ich muss dir das jetzt einfach sagen
-    Doch wie fang ich nur an.
-    Was schaust mich denn so an?
+    Doch wie fang ich nur an…….
+    Was schaust du mich denn so an?
     Ach so, wir wollten miteinander reden.
     Nein, es war nicht so wichtig
     Komm gehen wir schlafen
