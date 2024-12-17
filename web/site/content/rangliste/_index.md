@@ -20,15 +20,15 @@ song:
     Und ich weiss nicht wie
     ich dir das alles beibringen werd′
     Denn dass wir zwei zusammengehören 
-    Des spürst doch schon lang nimmer mehr
+    Das spürst doch schon lange nicht mehr
     Du schaust mich an
-    Und i weiss ganz genau
+    Und ich weiss ganz genau
     Wir zwei leben aneinander vorbei
     Es hat doch keinen Sinn mehr mit uns
-    Siehst du das nicht ein?
-    Wir haben uns gern g'habt
+    Siehst du das denn nicht ein?
+    Wir haben uns gern gehabt
     Wir warn so verliebt
-    Dass die Leut sich an Kopf griffn haben.
+    Dass die Leut sich an Kopf gegriffen haben.
     Jetzt sind wir uns so egal
     Dass wir nicht einmal mehr miteinander streiten
     Ich muss dir das jetzt einfach sagen
