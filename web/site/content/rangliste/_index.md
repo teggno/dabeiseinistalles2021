@@ -11,7 +11,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Reinhard Fendrich  ▶️  Du sitzt vor mir
+  title: RAFFI‘S JUKEBOX  🎸 Rainhard Fendrich  ▶️  Du sitzt vor mir
   url: https://www.youtube.com/watch?v=8SLkDy0ZvTI&pp=ygUicmFpbmhhcmQgZmVuZHJpY2ggZHUgc2l0enQgdm9yIG1pcg%3D%3D
   image: img/img_0637.jpeg
   description: >-
