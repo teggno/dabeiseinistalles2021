@@ -18,7 +18,7 @@ song:
     
     Du sitzt vor mir - und ich weiss nicht wie
 
-    ich dir das alles beibringen soll - denn dass wir zwei zusammengehören - das spürst doch schon lange nicht mehr. Du schaust mich an - und ich weiss ganz genau - wir zwei leben aneinander vorbei. Es hat doch keinen Sinn mehr mit uns - siehst du das denn nicht ein?
+    ich dir das alles beibringen soll - denn dass wir zwei zusammengehören - das spürst doch schon lange nicht mehr. Du schaust mich an - und ich weiss ganz genau - wir zwei leben aneinander vorbei - es hat doch keinen Sinn mehr mit uns - siehst du das denn nicht ein?
 
     Wir haben uns gern gehabt - wir warn so verliebt - dass die Leut sich an den Kopf gegriffen haben.
 
