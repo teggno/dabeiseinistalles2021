@@ -34,7 +34,7 @@ song:
     Ich muss dir das jetzt einfach sagen
     Doch wie fang ich nur an
     Stell dir doch vor
-    Wia es mit uns äussern mal war
+    Wie es mit uns einmal war
     Fällt dir denn dabei gar nichts auf?
 
     Ein Leben so wie wir zwei das jetzt führen
