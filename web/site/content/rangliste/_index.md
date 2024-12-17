@@ -20,9 +20,7 @@ song:
 
     ich dir das alles beibringen soll - denn dass wir zwei zusammengehören - das spürst doch schon lange nicht mehr. Du schaust mich an - und ich weiss ganz genau - wir zwei leben aneinander vorbei. Es hat doch keinen Sinn mehr mit uns - siehst du das denn nicht ein?
 
-    Wir haben uns gern gehabt - wir warn so verliebt
-
-    dass die Leut sich an den Kopf gegriffen haben.
+    Wir haben uns gern gehabt - wir warn so verliebt - dass die Leut sich an den Kopf gegriffen haben.
 
     Jetzt sind wir uns so egal - dass wir nicht einmal mehr miteinander streiten können. Ich muss dir das jetzt einfach sagen - doch wie fang ich nur an? Stell dir doch vor - wid es mit uns einmal war - fällt dir denn dabei gar nichts auf? Ein Leben so wie wir zwei das jetzt führen - da pfeif ich doch drauf
 
