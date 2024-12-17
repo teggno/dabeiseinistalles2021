@@ -16,7 +16,7 @@ song:
   image: img/img_0637.jpeg
   description: >-
     
-    Du sitzt vor mir - und ich weiss nicht wie
+    Du sitzt vor mir - und ich weiss nicht - wie
 
     ich dir das alles beibringen soll - denn dass wir zwei zusammengehören - das spürst doch schon lange nicht mehr. Du schaust mich an - und ich weiss ganz genau - wir zwei leben aneinander vorbei - es hat doch keinen Sinn mehr mit uns - siehst du das denn nicht ein?
 
