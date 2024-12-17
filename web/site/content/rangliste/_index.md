@@ -22,7 +22,7 @@ song:
 
     Wir haben uns gern gehabt - wir warn so verliebt - dass die Leut sich an den Kopf gegriffen haben.
 
-    Jetzt sind wir uns so egal - dass wir nicht einmal mehr miteinander streiten können. Ich muss dir das jetzt einfach sagen - doch wie fang ich nur an? Stell dir doch vor - wid es mit uns einmal war - fällt dir denn dabei gar nichts auf? Ein Leben so wie wir zwei das jetzt führen - da pfeif ich doch drauf
+    Jetzt sind wir uns so egal - dass wir nicht einmal mehr miteinander streiten - Ich muss dir das jetzt einfach sagen - doch wie fang ich nur an? Stell dir doch vor - wid es mit uns einmal war - fällt dir denn dabei gar nichts auf? Ein Leben so wie wir zwei das jetzt führen - da pfeif ich doch drauf
 
     Siehst du denn nicht - wie es mit uns zwei jetzt steht - geht denn das in deinen Schädel nicht rein? So geht's nicht mehr weiter - versteh doch - es muss einfach sein.
 
