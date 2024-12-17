@@ -15,7 +15,7 @@ song:
   url: https://www.youtube.com/watch?v=cDxznVl6-ko&pp=ygUabWVuc2NoZW4gcmFpbmhhcmQgZmVuZHJpY2g%3D
   image: img/img_0637.jpeg
   description: >-
-    Die die  deine Hände drücken - 
+    Die dir deine Hände drücken - 
 
     und dann hinter deinem Rücken - 
 
