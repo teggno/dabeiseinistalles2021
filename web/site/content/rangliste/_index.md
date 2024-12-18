@@ -11,9 +11,9 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Ricky Nelson ▶️  Poor little Fool
-  url: https://www.youtube.com/watch?v=HmASthKcsA4&pp=ygUdcmlja3kgbmVsc29uIHBvb3IgbGl0dGxlIGZvb2w%3D
+  title: "RAFFI‘S JUKEBOX  🎸   ▶️  "
+  url: ""
   image: img/img_0637.jpeg
-  description: Armer, kleiner Narr 🤡 Wie konntest du nur 🤷‍♂️
+  description: ""
 type: rangliste
 ---
