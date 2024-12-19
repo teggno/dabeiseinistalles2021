@@ -2,6 +2,7 @@
 title: Er hat es wieder getan
 draft: true
 date: 2024-12-19T11:59:22.153Z
+image: img/img_0656.jpeg
 ---
 Er nannte sich immer mein Freund. Was ich nie verstanden habe. Für mich war er stets ein guter Schulkamerad, den unser Lehrer damals um 1967, als er mit seinen Eltern aus Jugoslawien in die Schweiz zog, neben mich in die Schulbank setzte. Wahrscheinlich wollte er das „Ausländer-Gesindel“ nebeneinander haben. Ich der Italiener aus Neapel, Werner Käfer der Österreicher aus Graz und eben dieser Neuankömmling Zeljko.
 
