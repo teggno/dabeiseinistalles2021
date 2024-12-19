@@ -4,7 +4,7 @@ draft: true
 date: 2024-12-19T11:59:22.153Z
 image: img/img_0656.jpeg
 ---
-Er nannte mich immer seinen Freund. Was ich nie richtig verstanden habe. Für mich war er stets ein guter Schulkamerad, den unser Lehrer damals im Jahre 1967, als er mit seinen Eltern aus Jugoslawien in die Schweiz zog, neben mich in die Schulbank setzte. Wahrscheinlich wollte er das „Ausländer-Gesindel“ nebeneinander haben. Ich der Italiener aus Neapel, Werner Käfer der Österreicher aus Graz und eben er, der Newcomer Zeljko Brdar.
+Er nannte mich immer seinen Freund. Was ich nie richtig verstanden habe. Für mich war er stets ein guter Schulkamerad, den unser Lehrer damals im Jahre 1967, als er mit seinen Eltern in die Schweiz zog, neben mich in die Schulbank setzte. Wahrscheinlich wollte er das „Ausländer-Gesindel“ nebeneinander haben. Ich der Italiener aus Neapel, Werner Käfer der Österreicher aus Graz und der Neue, Zeljko Brdar aus Jugoslawien.
 
 Für uns Jungs war er ab sofort „il papagallo jugoslavo“. Vielleicht weil er damals schon so viel redete. Meistens nur von sich. Und er wollte immer Recht haben. Die Girls lagen ihm zu Füssen. Er sah ja auch toll aus! Schwarzhaarig, gross, und auf seine Art charmant.  Sie flogen auf ihn. Margrit unsere Klassenbeste, die leider schon früh verstorben ist, war froh, dass endlich ein “wahrer Mann“ in der Klasse aufgetaucht war. Von uns Grünschnäbeln hatte sie genug. Nach der Primarschule trennten sich unsere Wege. Am ehesten traf man sich auf dem Fussballplatz. Im Egelsee und später im Hafenareal bei den Junioren des FC Kreuzlingen. Einmal sogar beim Schlittschuhlaufen im „Döbeli“, wo er mich unbeholfenen “Schrubädampfär“ kurzerhand über den Haufen fuhr.
 
