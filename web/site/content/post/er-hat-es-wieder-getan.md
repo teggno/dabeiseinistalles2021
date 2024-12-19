@@ -8,7 +8,7 @@ Er nannte sich immer mein Freund. Was ich nie verstanden habe. Für mich war er 
 
 Für uns Jungs war er ab sofort „il papagallo jugoslavo“. Vielleicht weil er damals schon so viel redete. Meistens nur von sich. Und er wollte immer Recht haben. Die Girls hatte er auf seiner Seite. Schwarzhaarig, gross, gut aussehend, sie flogen auf ihn. Margrit unsere Klassenbeste, die leider schon früh verstorben ist, war froh, dass endlich ein „Mann“ in der Klasse war. Von uns Grünschnäbeln hatte sie genug. 
 
-Nach der Primarschule trennten sich unsere Wege. Am ehesten traf man sich auf dem Fussballplatz. Im Egelsee und später bei d im Hafenareal bei den Junioren des FC Kreuzlingen. Einmal sogar beim Schlittschuhlaufen im „Döbeli“, wo er mich unbeholfenen „Eishockeyaner“ kurzerhand über den Haufen fuhr.
+Nach der Primarschule trennten sich unsere Wege. Am ehesten traf man sich auf dem Fussballplatz. Im Egelsee und später bei im Hafenareal bei den Junioren des FC Kreuzlingen. Einmal sogar beim Schlittschuhlaufen im „Döbeli“, wo er mich unbeholfenen „Eishockeyaner“ kurzerhand über den Haufen fuhr.
 
 Im „Green 🍏 Apple“, der angesagtesten Disco in der Umgebung, liefen wir uns als Teenager über den Weg. Zeljko hatte immer am meisten „Brot“ bei den Frauen. Neid empfand ich deswegen nie. Er war der Frauenversteher, der auf seine Weise, die Herzen eroberte. Ich hatte meinen eigenen Stil. Als er Inge, seine spätere Frau kennenlernte, sollten sich unsere Wege öfters kreuzen.
 
