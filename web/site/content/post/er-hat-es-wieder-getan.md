@@ -10,7 +10,7 @@ Für uns Jungs war er ab sofort „il papagallo jugoslavo“. Vielleicht weil er
 
 Nach der Primarschule trennten sich unsere Wege. Am ehesten traf man sich auf dem Fussballplatz. Im Egelsee und später im Hafenareal bei den Junioren des FC Kreuzlingen. Einmal sogar beim Schlittschuhlaufen im „Döbeli“, wo er mich unbeholfenen „Eishockeyaner“ kurzerhand über den Haufen fuhr.
 
-Im „Green 🍏 Apple“, der angesagtesten Disco in der Umgebung, liefen wir uns als Teenager über den Weg. Zeljko hatte immer am meisten „Brot“ bei den Frauen. Neid empfand ich deswegen nie. Er war der Frauenversteher, der auf seine Weise, die Herzen eroberte. Ich hatte meinen eigenen Stil. Als er Inge, seine spätere Frau kennenlernte, sollten sich unsere Wege öfters kreuzen.
+Im „Green 🍏 Apple“, der angesagtesten Disco in der Umgebung, liefen wir uns als Teenager über den Weg. Zeljko hatte immer am meisten „Brot“ bei den Frauen. Neid empfand ich deswegen nie. Er war der Frauenversteher, der auf seine Weise, die Herzen eroberte. Ich hatte meinen eigenen Stil. Als er Inge, seine spätere Frau kennenlernte, sollten sich unsere Wege des Öfteren kreuzen.
 
 Was ich nie verstand, aber zu ihm passt, ist, dass er seinen Namen änderte. Wahrscheinlich auf Drängen von Inge, die von Anfang an die Hosen anhatte. Aus Zeljko Brdar wurde fortan Zelko Berger! Als die beiden auf der Insel Mainau heirateten, führten Heinz, René, Lupo und ich den „Schwanensee“ auf, den uns Marlies in wochenlanger Schwerstarbeit beigebracht hatte.
 
