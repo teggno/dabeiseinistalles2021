@@ -1,6 +1,6 @@
 ---
 title: Zwischenzeugnis 🙈
-draft: true
+draft: false
 date: 2024-12-31T10:00:08.690Z
 image: img/img_0657.jpeg
 ---
