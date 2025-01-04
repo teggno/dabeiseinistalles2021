@@ -14,6 +14,7 @@ song:
   title: RAFFI‘S JUKEBOX  🎸  Deep Purple  ▶️  When a blind man cries
   url: https://www.youtube.com/watch?v=TpKbmmm6D2o&pp=ygUid2hlbiBhIGJsaW5kIG1hbiBjcmllcyBkZWVwIHB1cnBsZQ%3D%3D
   image: img/img_0637.jpeg
-  description: "\n"
+  description: |
+    Mi sembra Thiago Motta! Ein „Blinder“ der sich verirrt hat. Povera Juve 
 type: rangliste
 ---
