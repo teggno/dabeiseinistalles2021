@@ -16,7 +16,7 @@ song:
   image: img/img_0637.jpeg
   description: >
     Mi sembra Thiago Motta! Ein „Blinder“ der sich verirrt hat. Niemand versteht
-    was er vor seinem geistigen Auge 👁️ sieht. Povera Juve . Wann darfst du
+    was er vor seinem geistigen Auge 👁️ sieht. Povera Juve …..Wann darfst du
     wieder frei fliegen ……
 type: rangliste
 ---
