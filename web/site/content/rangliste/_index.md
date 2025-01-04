@@ -11,7 +11,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸    ▶️  "
+  title: RAFFI‘S JUKEBOX  🎸  Deep Purple  ▶️  When a blind man cries
   url: ""
   image: img/img_0637.jpeg
   description: "\n"
