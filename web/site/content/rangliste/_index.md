@@ -11,12 +11,9 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Deep Purple  ▶️  When a blind man cries
-  url: https://www.youtube.com/watch?v=TpKbmmm6D2o&pp=ygUid2hlbiBhIGJsaW5kIG1hbiBjcmllcyBkZWVwIHB1cnBsZQ%3D%3D
+  title: "RAFFI‘S JUKEBOX  🎸    ▶️  "
+  url: ""
   image: img/img_0637.jpeg
-  description: >
-    Mi sembra Thiago Motta! Ein „Blinder“ der sich verirrt hat. Niemand versteht
-    was er vor seinem geistigen Auge 👁️ sieht. Povera Juve …..Wann darfst du
-    endlich wieder frei fliegen ……
+  description: "\n"
 type: rangliste
 ---
