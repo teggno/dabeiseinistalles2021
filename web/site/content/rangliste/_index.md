@@ -17,6 +17,6 @@ song:
   description: >
     Mi sembra Thiago Motta! Ein „Blinder“ der sich verirrt hat. Niemand versteht
     was er vor seinem geistigen Auge 👁️ sieht. Povera Juve …..Wann darfst du
-    wieder frei fliegen ……
+    endlich wieder frei fliegen ……
 type: rangliste
 ---
