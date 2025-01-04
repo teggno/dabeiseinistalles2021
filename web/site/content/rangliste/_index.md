@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2024-12-31T10:04:25.835Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar
 
 
