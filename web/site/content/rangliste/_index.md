@@ -15,9 +15,18 @@ song:
   url: https://www.youtube.com/watch?v=vC0Qt1lvLq8&pp=ygUkdGltZSB3YWl0cyBmb3Igbm8gb25lIHJvbGxpbmcgc3RvbmVz
   image: img/img_0637.jpeg
   description: >
-    DIE ZEIT WARTET AUF NIEMANDEN
-
-
-    Vom Unglück überschattete Vergnügungen strömen an uns vorbei - Müssig und übersättigt wie wir sind - sehen wir sie vorbeifliegen - Und die Zeit wartet auf niemanden und sie wartet auch nicht auf mich - Sie kann ein Gebäude einstürzen lassen und das Gesicht einer Frau zerstörn - Stunden sind so kostbar wie Diamanten - verschwendet sie nicht - Die Zeit wartet auf niemanden - Vergünstigungen gibt es nicht - Die Zeit wartet auf niemanden und sie wartet auch nicht auf mich - Männer, sie erbauen Türme für ihr Ableben - ja, für ihren ewigen Ruhm - Hier kommt er - der Tod - schneidet und mäht - hört sein Gelächter über ihren Betrugsversuch - Die Zeit wartet auf niemanden und sie wartet auch nicht auf mich - Saugt ein euren Sommer - erntet euer Getreide - Die Träume der Nacht werden bei Tagesanbruch verschwunden sein - Denn die Zeit wartet auf niemanden und sie wartet auch nicht auf mich.
+    DIE ZEIT WARTET AUF NIEMANDEN ⏰ Vom Unglück überschattete Vergnügungen
+    strömen an uns vorbei - Müssig und übersättigt wie wir sind - sehen wir sie
+    vorbeifliegen - Und die Zeit wartet auf niemanden und sie wartet auch nicht
+    auf mich - Sie kann ein Gebäude einstürzen lassen und das Gesicht einer Frau
+    zerstörn - Stunden sind so kostbar wie Diamanten - verschwendet sie nicht -
+    Die Zeit wartet auf niemanden - Vergünstigungen gibt es nicht - Die Zeit
+    wartet auf niemanden und sie wartet auch nicht auf mich - Männer, sie
+    erbauen Türme für ihr Ableben - ja, für ihren ewigen Ruhm - Hier kommt er -
+    der Tod - schneidet und mäht - hört sein Gelächter über ihren Betrugsversuch
+    - Die Zeit wartet auf niemanden und sie wartet auch nicht auf mich - Saugt
+    ein euren Sommer - erntet euer Getreide - Die Träume der Nacht werden bei
+    Tagesanbruch verschwunden sein - Denn die Zeit wartet auf niemanden und sie
+    wartet auch nicht auf mich.
 type: rangliste
 ---
