@@ -22,10 +22,10 @@ song:
     zerstörn - Stunden sind so kostbar wie Diamanten - verschwendet sie nicht -
     Denn die Zeit wartet auf niemanden - und sie wartet auch nicht auf dich -
     Männer, sie erbauen Türme für ihr Ableben - ja, für ihren ewigen Ruhm - Hier
-    kommt er - der Tod - schneidet und mäht - hört sein Gelächter über ihren
-    Betrugsversuch - Die Zeit wartet auf niemanden und sie wartet auch nicht auf
-    mich - Saugt ein euren Sommer - erntet euer Getreide - Die Träume der Nacht
-    werden bei Tagesanbruch verschwunden sein - Denn die Zeit wartet auf
-    niemanden und sie wartet auch nicht auf mich.
+    kommt er - der Sänsemann - er schneidet und mäht - hört sein Gelächter über
+    ihren Betrugsversuch - Die Zeit wartet auf niemanden und sie wartet auch
+    nicht auf mich - Saugt ein euren Sommer - erntet euer Getreide - Die Träume
+    der Nacht werden bei Tagesanbruch verschwunden sein - Denn die Zeit wartet
+    auf niemanden und sie wartet auch nicht auf mich.
 type: rangliste
 ---
