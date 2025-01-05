@@ -15,6 +15,6 @@ song:
   url: ""
   image: img/img_0637.jpeg
   description: |
-    Auch das ist Deep Purple…..Grazie Jon Lord…..
+    Auch das ist Deep Purple…..
 type: rangliste
 ---
