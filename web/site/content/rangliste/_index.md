@@ -11,8 +11,8 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸   Jon Lord  ▶️   Pavane "
-  url: https://www.youtube.com/watch?v=Tq2x_jiPSoU&pp=ygUPam9uIGxvcmQgcGF2YW5l
+  title: RAFFI‘S JUKEBOX  🎸  The Rolling Stones ▶️  Time waits for no one
+  url: ""
   image: img/img_0637.jpeg
   description: |
     Auch das ist Deep Purple…..
