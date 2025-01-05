@@ -14,7 +14,6 @@ song:
   title: RAFFI‘S JUKEBOX  🎸  The Rolling Stones ▶️  Time waits for no one
   url: ""
   image: img/img_0637.jpeg
-  description: |
-    Auch das ist Deep Purple…..
+  description: "\n"
 type: rangliste
 ---
