@@ -17,11 +17,11 @@ song:
   description: >
     DIE ZEIT WARTET AUF NIEMANDEN ⏰ Vom Unglück überschattete Vergnügungen
     strömen an uns vorbei - Müssig und übersättigt wie wir sind - sehen wir sie
-    vorbeifliegen - Und die Zeit wartet auf niemanden und sie wartet auch nicht
-    auf mich - Sie kann ein Gebäude einstürzen lassen und das Gesicht einer Frau
+    vorbeifliegen - Die Zeit wartet auf niemanden und sie wartet auch nicht auf
+    mich - Sie kann ein Gebäude einstürzen lassen und das Gesicht einer Frau
     zerstörn - Stunden sind so kostbar wie Diamanten - verschwendet sie nicht -
-    Die Zeit wartet auf niemanden - Vergünstigungen gibt es nicht - Die Zeit
-    wartet auf niemanden und sie wartet auch nicht auf mich - Männer, sie
+    Denn die Zeit wartet auf niemanden - Vergünstigungen gibt es nicht - Die
+    Zeit wartet auf niemanden und sie wartet auch nicht auf mich - Männer, sie
     erbauen Türme für ihr Ableben - ja, für ihren ewigen Ruhm - Hier kommt er -
     der Tod - schneidet und mäht - hört sein Gelächter über ihren Betrugsversuch
     - Die Zeit wartet auf niemanden und sie wartet auch nicht auf mich - Saugt
