@@ -26,6 +26,6 @@ song:
     ihren Betrugsversuch - Die Zeit wartet auf niemanden und sie wartet auch
     nicht auf mich - Saugt ein euren Sommer - erntet euer Getreide - Die Träume
     der Nacht werden bei Tagesanbruch verschwunden sein - Denn die Zeit wartet
-    auf niemanden und sie wartet auch nicht auf mich.
+    auf niemanden und sie wartet auch nicht auf mich
 type: rangliste
 ---
