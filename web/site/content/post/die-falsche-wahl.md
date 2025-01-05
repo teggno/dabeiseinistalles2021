@@ -4,7 +4,7 @@ draft: true
 date: 2025-01-05T14:13:25.529Z
 image: img/img_0659.jpeg
 ---
-Sölli links oder rechts? Solange es nur der falsche Waldweg ist, sind die Konsequenzen überschaubar. Dramatisch wird’s erst wenn man für den Lebensweg den Falschen ausgesu hat. Im Fussball kann es kostspielig werden. Und den Fans zieht man den Boden unter den Füssen weg. So geschehen bei der „Alten Dame“, die unbedingt ihren in die Jahre gekommenen Dompteur loswerden wollte und danach vom Regen in die Traufe fiel.
+Sölli links oder rechts? Solange es nur der falsche Waldweg ist, sind die Konsequenzen überschaubar. Dramatisch wird’s erst, wenn man für den Lebensweg den Falschen ausgesucht hat. Im Fussball kann es kostspielig werden. Und den Fans zieht man den Boden unter den Füssen weg. So geschehen bei der „Alten Dame“, die unbedingt ihren in die Jahre gekommenen Dompteur loswerden wollte und danach vom Regen in die Traufe fiel.
 
 Vattene Max! Du ödest uns an! Der Tenor nach der letzten Saison war unüberhörbar! Und so war es auch nicht weiter verwunderlich, dass der alte Haudegen Allegri durch den innovativ-spritzigen Motta ausgetauscht wurde. Bei mir heulten die Sirenen bereits nach dem eigentlich nichtssagenden Freundschaftsspiel gegen Nürnberg auf.. 0:3 darfst du gegen einen solchen Gegner nie verlieren. Die ersten zwei Ligaspiele schienen mich Lügen zu strafen, bis die Misere richtig begann. Unzählige Unentschieden gegen Sparringpartner brachen Juve das Genick und heute am 5. Januar 2025 ist die Zwischenbilanz ernüchternd. Platz 5 mit 11 Punkten Rückstand auf die Spitze.
 
