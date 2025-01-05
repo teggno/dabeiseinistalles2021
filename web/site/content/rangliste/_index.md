@@ -11,7 +11,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸   John Lord ▶️  Pavane "
+  title: "RAFFI‘S JUKEBOX  🎸   Jon Lord  ▶️   Pavane "
   url: https://www.youtube.com/watch?v=Tq2x_jiPSoU&pp=ygUPam9uIGxvcmQgcGF2YW5l
   image: img/img_0637.jpeg
   description: |
