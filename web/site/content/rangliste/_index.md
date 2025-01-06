@@ -19,7 +19,7 @@ song:
     überschattete Vergnügungen strömen an uns vorbei - Müssig und übersättigt
     wie wir sind - sehen wir sie vorbeifliegen - Die Zeit wartet auf niemanden
     und sie wartet auch nicht auf mich - Sie kann ein Gebäude einstürzen lassen
-    und das Gesicht einer Frau zerstörn - Stunden sind so kostbar wie Diamanten
+    und das Gesicht einer Frau zerstör‘n - Stunden sind so kostbar wie Diamanten
     - verschwendet sie nicht - Denn die Zeit wartet auf niemanden - und sie
     wartet auch nicht auf dich - Männer, sie erbauen Türme für ihr Ableben - ja,
     für ihren ewigen Ruhm - Hier kommt er - der Sensenmann - er schneidet und
