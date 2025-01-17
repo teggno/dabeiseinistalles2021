@@ -15,7 +15,7 @@ song:
   url: https://www.youtube.com/watch?v=vC0Qt1lvLq8&pp=ygUkdGltZSB3YWl0cyBmb3Igbm8gb25lIHJvbGxpbmcgc3RvbmVz
   image: img/img_0637.jpeg
   description: >
-    DIE ZEIT WARTET AUF NIEMANDEN - AUCH NICHT AUF DICH  ⏰ Vom Unglück
+    DIE ZEIT 🕛 WARTET AUF NIEMANDEN - AUCH NICHT AUF DICH🙅🏿‍♂️ Vom Unglück
     überschattete Vergnügungen strömen an uns vorbei - Müssig und übersättigt
     wie wir sind - sehen wir sie vorbeifliegen - Die Zeit wartet auf niemanden
     und sie wartet auch nicht auf mich - Sie kann ein Gebäude einstürzen lassen
