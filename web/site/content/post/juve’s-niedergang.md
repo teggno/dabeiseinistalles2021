@@ -1,5 +1,5 @@
 ---
-title: "Juve’s Niedergang "
+title: "🆘 🛟 "
 draft: true
 date: 2025-01-25T19:55:24.631Z
 image: img/img_0661.jpeg
