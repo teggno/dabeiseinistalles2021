@@ -1,6 +1,6 @@
 ---
-title: Lichter 💡 löschen
-draft: true
+title: Lichterlöschen
+draft: false
 date: 2025-01-26T04:47:03.294Z
 image: img/img_0664.jpeg
 ---
