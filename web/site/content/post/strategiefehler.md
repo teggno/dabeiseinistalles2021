@@ -4,7 +4,7 @@ draft: true
 date: 2025-01-26T15:02:36.368Z
 image: img/img_0665.jpeg
 ---
-Wo sind die 65 Millionen aus dem Reich der Phantasie für den verkappten Aussendecker Cambiaso geblieben? Ein Spieler, der weder Fleisch 🥩 noch Fisch 🎣 verkörpert. Ein Durchschnitts-Allrounder, der weder stark in der Defensive ist noch außergewöhnliche Qualitäten in der Offensive besitzt. „Pep“ ein Meister auf seinem Gebiet, soll ein Auge auf ihn geworfen haben und die gewünschte Summe schon auf Abruf bereit halten. Es gibt sogar Experten, die diese Zahl als zu niedrig erachten. Fate ridere!
+Wo sind die 65 Millionen aus dem Reich der Phantasie für den verkappten Aussendecker Cambiaso geblieben? Ein Spieler, der weder Fleisch 🥩 noch Fisch 🎣 verkörpert. Ein Durchschnitts-Allrounder, der weder stark in der Defensive ist noch außergewöhnliche Qualitäten in der Offensive besitzt. „Pep“ ein Meister auf seinem Gebiet, soll ein Auge auf ihn geworfen haben und die gewünschte Summe auf Abruf bereit halten. Es gibt sogar Experten, die diese Zahl als zu niedrig erachten. Fate ridere!
 
 Heiss umworben soll auch unsere „Lumaccha“ Douglas Luiz sein. Ich habe bis heute nicht begriffen, ob es sich um den „Echten“ handelt, der von Birmingham wegzog um die „Vecchia Signora„ zu erobern. Schon einmal hatten wir so einen Fisch an der Angel. Sein Name: Aaron Ramsey! Machte in seiner Zeit bei Juve höchstens 10 Prozent der Spiele und füllte stetig sein Bankkonto. In Sachen Geldverprassen sind wir in einem Atemzug mit Chelsea und ManU zu nennen. Qualität ist dabei zweitrangig.
 
