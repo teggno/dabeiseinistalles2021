@@ -2,6 +2,7 @@
 title: "Strategiefehler "
 draft: true
 date: 2025-01-26T15:02:36.368Z
+image: img/img_0665.jpeg
 ---
 Wo sind die angedachten 65 Millionen für den verkappten Aussendecker Cambiaso? Ein Spieler, der weder Fleisch 🥩 noch Fisch 🎣 verkörpert. Ein „hundsgewöhnlicher“ Allrounder, der weder stark in der Defensive ist noch außergewöhnliche Qualitäten in der Offensive hat. „Pep“ ein Meister auf seinem Gebiet, soll ein Auge auf ihn geworfen haben und die gewünschte Summe schon auf Abruf bereit halten. Es gibt sogar Experten, die diese Zahl als zu niedrig erachten. Fate ridere!
 
