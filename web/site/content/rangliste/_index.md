@@ -11,8 +11,8 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸   ▶️  "
-  url: ""
+  title: "RAFFI‘S JUKEBOX  🎸  The Beatles ▶️  Yesterday "
+  url: https://www.youtube.com/watch?v=wXTJBr9tt8Q&pp=ygUKeWVzdGVyZGF5IA%3D%3D
   image: img/img_0637.jpeg
   description: "\n"
 type: rangliste
