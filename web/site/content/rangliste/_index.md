@@ -31,7 +31,7 @@ song:
     Leidenschaft - und jeder Funke der sich schnell entzündete - erlosch schon
     wieder bald - Die Freundschaften die ich schloss - sind fast alle im Sand
     verlaufen - Jetzt schmecke ich die Bitterkeit der Tränen auf meiner Zunge -
-    Die Zeit scheint gekommen - für meine Jugendsünden zu bezahlen - Ich bin der
+    Die Zeit scheint gekommen - für mein Gestern zu bezahlen - Ich bin der
     Einzige - der diesem Trauerspiel ein Ende bereiten kann - Gestern als ich
     noch jung war 🎉
 
