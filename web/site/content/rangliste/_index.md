@@ -17,15 +17,14 @@ song:
   description: >+
     YESTERDAY WHEN I WAS YOUNG 🎈Gestern - als ich noch jung war - schmeckte das
     Leben so süß wie Regen auf meiner Zunge - Ich habe aus dem Leben alles
-    rausgekitzelt - als wäre es ein Kinderspiel - So, wie eine leichte Brise am
-    Abend mit einer Kerzenflamme spielt - Die tausend Träume - die ich träumte -
-    die wundervollen Dinge die ich plante - irgendwie hab ich doch immer nur auf
-    Sand gebaut - ich lebte in der Nacht und scheute das grelle Tageslicht - und
-    erst jetzt sehe ich wie die Jahre dahingeflogen sind - Gestern als ich noch
-    jung war - warteten so viele Lieder darauf gesungen zu werden - die
-    wildesten Phantasien um ausgelebt zu werden - und so viel Leid - das meine
-    verblendeten Augen sich weigerten zu sehen - Ständig war ich auf der
-    Überholspur - und bemerkte nicht - wie die Jugend mir durch die Finger
+    rausgekitzelt - als wäre es ein Kinderspiel - Die tausend Träume - die ich
+    träumte - die wundervollen Dinge die ich plante - irgendwie hab ich doch
+    immer nur auf Sand gebaut - ich lebte in der Nacht und scheute das grelle
+    Tageslicht - und erst jetzt sehe ich wie die Jahre dahingeflogen sind -
+    Gestern als ich noch jung war - warteten so viele Lieder darauf gesungen zu
+    werden - die wildesten Phantasien um ausgelebt zu werden - und so viel Leid
+    - das meine verblendeten Augen sich weigerten zu sehen - Ständig war ich auf
+    der Überholspur - und bemerkte nicht - wie die Jugend mir durch die Finger
     rann  - ich dachte nie darüber nach - worum es im Leben wirklich geht - Ja
     damals - das waren ganz verrückte Zeiten - von Zeitverschwendung und
     Sinnesleere keine Spur -  das Spiel namens Liebe spielte ich voller Stolz
