@@ -28,7 +28,7 @@ song:
     mir durch die Finger rann  - ich dachte nie darüber nach - worum es im Leben
     wirklich geht - Ja damals - das waren ganz verrückte Zeiten - Von
     Zeitverschwendung und Sinnesleere keine Spur - Das Spiel namens Liebe
-    spielte ich voller Stolz und Leidenschaft - und jeder Funke den ich schnell
+    spielte ich voller Stolz und Leidenschaft - und jeder Funke der sich schnell
     entzündete - erlosch schon wieder bald - Die Freundschaften die ich schloss
     - sind fast alle im Sand verlaufen - Jetzt schmecke ich die Bitterkeit der
     Tränen auf meiner Zunge - Die Zeit scheint gekommen - um für meine
