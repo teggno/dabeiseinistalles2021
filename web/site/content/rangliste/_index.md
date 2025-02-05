@@ -19,7 +19,7 @@ song:
     Leben so süß wie Regen auf meiner Zunge - Ich habe aus dem Leben alles
     rausgekitzelt - als wäre es ein Kinderspiel - Die tausend Träume - die ich
     träumte - die wundervollen Dinge die ich plante - irgendwie hab ich doch
-    immer nur auf Sand gebaut - ich lebte in der Nacht und scheute das grelle
+    immer nur auf Sand gebaut - Ich lebte nachts und scheute das grelle
     Tageslicht - und erst jetzt sehe ich wie die Jahre dahingeflogen sind -
     Gestern als ich noch jung war - warteten so viele Lieder darauf gesungen zu
     werden - die wildesten Phantasien um ausgelebt zu werden - und so viel Leid
