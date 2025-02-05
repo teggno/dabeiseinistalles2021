@@ -22,7 +22,7 @@ song:
     hab ich immer nur auf Sand gebaut - Ich lebte nachts und scheute das grelle
     Tageslicht - Erst jetzt bemerke ich - wie die Jahre dahingeflogen sind -
     Gestern als ich noch jung war - warteten so viele Lieder darauf gesungen zu
-    werden - die wildesten Phantasien um ausgelebt zu werden - und so viel Leid
+    werden - Die wildesten Phantasien um ausgelebt zu werden - und so viel Leid
     - das meine verblendeten Augen sich weigerten zu sehen - Ständig war ich auf
     der Überholspur - und bemerkte nicht - wie die Jugend mir durch die Finger
     rann  - ich dachte nie darüber nach - worum es im Leben wirklich geht - Ja
