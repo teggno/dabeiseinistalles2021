@@ -20,9 +20,9 @@ song:
     dem Leben alles rausgekitzelt - als wäre es ein Kinderspiel - Die tausend
     Träume - die ich träumte - die wundervollen Dinge die ich plante - irgendwie
     hab ich immer nur auf Sand gebaut - Ich lebte nachts und scheute das grelle
-    Tageslicht - Erst jetzt bemerke ich - wie die Jahre dahingeflogen sind -
+    Tageslicht - Erst jetzt erkenne ich - wie die Jahre dahingeflogen sind -
     Gestern als ich noch jung war - warteten so viele Lieder darauf gesungen zu
-    werden - Die wildesten Phantasien um ausgelebt zu werden - und so viel Leid
+    werden - Die wildesten Phantasien um ausgelebt zu werden - Und so viel Leid
     - das meine verblendeten Augen sich weigerten zu sehen - Ständig war ich auf
     der Überholspur - und bemerkte nicht - wie die Jugend mir durch die Finger
     rann  - ich dachte nie darüber nach - worum es im Leben wirklich geht - Ja
