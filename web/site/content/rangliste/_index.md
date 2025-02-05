@@ -28,7 +28,10 @@ song:
     Überholspur - und bemerkte nicht - wie die Jugend mir durch die Finger
     rann  - ich dachte nie darüber nach - worum es im Leben wirklich geht - Ja
     damals - das waren ganz verrückte Zeiten - von Zeitverschwendung und
-    Sinnesleere keine Spur - 
+    Sinnesleere keine Spur -  das Spiel namens Liebe spielte ich voller Stolz
+    und Leidenschaft - und jeder Funke den ich schnell entzündete - erlosch
+    schon wieder bald - Die Freundschaften die ich schloss - sind fast alle im
+    Sand verlaufen - 
 
 type: rangliste
 ---
