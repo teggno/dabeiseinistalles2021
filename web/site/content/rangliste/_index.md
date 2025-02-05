@@ -26,7 +26,9 @@ song:
     wildesten Phantasien um ausgelebt zu werden - und so viel Leid - das meine
     verblendeten Augen sich weigerten zu sehen - Ständig war ich auf der
     Überholspur - und bemerkte nicht - wie die Jugend mir durch die Finger
-    rann  - ich dachte nie darüber nach - worum es im Leben wirklich geht - 
+    rann  - ich dachte nie darüber nach - worum es im Leben wirklich geht - Ja
+    damals - das waren ganz verrückte Zeiten - von Zeitverschwendung und
+    Sinnesleere keine Spur - 
 
 type: rangliste
 ---
