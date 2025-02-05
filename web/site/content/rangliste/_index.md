@@ -11,8 +11,8 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  The Rolling Stones ▶️  Time waits for no one
-  url: https://www.youtube.com/watch?v=vC0Qt1lvLq8&pp=ygUkdGltZSB3YWl0cyBmb3Igbm8gb25lIHJvbGxpbmcgc3RvbmVz
+  title: "RAFFI‘S JUKEBOX  🎸  Dusty Springfield ▶️  Yesterday when I was young "
+  url: https://www.youtube.com/watch?v=pSHI-NPC3Kg&pp=ygUseWVzdGVyZGF5IHdoZW4gaSB3YXMgeW91bmcgZHVzdHkgc3ByaW5nZmllbGQ%3D
   image: img/img_0637.jpeg
   description: "\n"
 type: rangliste
