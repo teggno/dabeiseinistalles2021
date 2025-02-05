@@ -16,7 +16,7 @@ song:
   image: img/img_0637.jpeg
   description: >+
     
-    Gestern - als ich noch jung war - schmeckte das Leben so süß wie Regen auf meiner Zunge - Scherzte ich über alles als wäre es ein albernes Spiel - Die tausend Träume die ich träumte - Die wundervollen Dinge - die ich plante - irgendwie habe ich immer auf Sand gebaut - 
+    Gestern - als ich noch jung war - schmeckte das Leben so süß wie Regen auf meiner Zunge - Scherzte ich über alles - als wäre es ein albernes Spiel - Die tausend Träume die ich träumte - Die wundervollen Dinge - die ich plante - irgendwie habe ich immer auf Sand gebaut - 
 
     Ich lebte nachts und mied das grelle Tageslicht - und erst jetzt sehe ich wie die Jahre davoneilen - Gestern - als ich noch jung war - wartetet so manches Lied darauf gesungen zu werden - Standen so viele Erlebnisse für mich bereit - Und so viel Leid wollten meine geblendeten Augen nicht sehen - Ich lief so schnell - dass ich nicht einmal bemerkte - wie die Zeit und die Jugend schliesslich zu Ende ging - und hörte  auf daran zu denken - worauf es im Leben wirklich ankommt
 
