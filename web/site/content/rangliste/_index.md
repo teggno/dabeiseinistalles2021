@@ -31,7 +31,10 @@ song:
     Sinnesleere keine Spur -  das Spiel namens Liebe spielte ich voller Stolz
     und Leidenschaft - und jeder Funke den ich schnell entzündete - erlosch
     schon wieder bald - Die Freundschaften die ich schloss - sind fast alle im
-    Sand verlaufen - 
+    Sand verlaufen - Jetzt schmecke ich die Bitterkeit der Tränen auf meiner
+    Zunge - die Zeit scheint gekommen - um für meine Jugendsünden zu bezahlen -
+    Ich bin der Einzige - der diesem Trauerspiel ein Ende bereiten kann -
+    Gestern - als ich noch jung war 
 
 type: rangliste
 ---
