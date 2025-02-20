@@ -1,5 +1,5 @@
 ---
-title: Il fallimento…..
+title: Il fallimento
 draft: true
 date: 2025-02-20T11:32:01.058Z
 image: img/img_0673.jpeg
