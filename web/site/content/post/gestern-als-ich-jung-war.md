@@ -1,5 +1,5 @@
 ---
-title: Gestern als ich jung war
+title: Gestern als ich noch jung war
 draft: true
 date: 2025-02-26T16:30:52.852Z
 ---
