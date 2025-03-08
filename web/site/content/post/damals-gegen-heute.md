@@ -1,5 +1,5 @@
 ---
-title: "Paradiesisch "
+title: A
 draft: true
 date: 2025-03-08T13:00:29.286Z
 image: img/img_0677.jpeg
