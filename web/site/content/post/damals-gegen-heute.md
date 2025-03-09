@@ -10,4 +10,4 @@ Jaschin-Scirea-Beckenbauer-Moore-Eusebio-Crujff-Maradona-Garrincha-Gerd Müller-
 
 Allison-Carvajal-Van Dyk-Rüdiger-Davies-Rodri-Messi-Yamal-Mbappé-Vinicius und Ronaldo.
 
-Am Ende stand es 3:2 für das Paradies! Schiedsrichter Gottfried Dienst durfte nach 60 Jahren Grübelei endlich seinen Fauxpas wiedergutmachen und Kaiser Franz freute sich diebisch über seinen Siegtreffer, der wieder nicht über der Linie war.
+Am Ende stand es 3:2 für das Paradies! Schiedsrichter Gottfried Dienst durfte nach 60 Jahren Grübelei endlich seinen Fauxpas wiedergutmachen und Kaiser Franz freute sich diebisch über seinen Siegtreffer, der wieder nicht hinter der Linie war.
