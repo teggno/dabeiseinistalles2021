@@ -33,7 +33,7 @@ song:
     verlaufen - Jetzt schmecke ich die Bitterkeit der Tränen auf meiner Zunge -
     Die Zeit scheint gekommen - für mein Gestern zu bezahlen - Ich bin der
     Einzige - der diesem Trauerspiel ein Ende bereiten kann - Gestern als ich
-    noch jung war 🎉
+    noch jung war 
 
 type: rangliste
 ---
