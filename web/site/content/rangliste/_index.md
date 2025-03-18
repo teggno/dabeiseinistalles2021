@@ -12,7 +12,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
   \ "
 song:
   title: RAFFI‘S JUKEBOX  🎸  ▶️
-  url: https://www.youtube.com/watch?v=pSHI-NPC3Kg&pp=ygUseWVzdGVyZGF5IHdoZW4gaSB3YXMgeW91bmcgZHVzdHkgc3ByaW5nZmllbGQ%3D
+  url: ""
   image: img/img_0637.jpeg
   description: ""
 type: rangliste
