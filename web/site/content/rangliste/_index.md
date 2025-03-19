@@ -12,7 +12,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
   \ "
 song:
   title: RAFFI‘S JUKEBOX  🎸 Andreas Gabalier  ▶️ Irgendwann sehn wir uns wieder
-  url: https://www.youtube.com/watch?v=QTpto1kywGE&pp=ygUfZ2FiYWxpZXIgYW1vaSBzZWcgbWEgdW5zIHdpZWRlcg%3D%3D
+  url: https://www.youtube.com/watch?v=vyQf9nB4eYk&pp=ygUkZ2FiYWxpZXIgZWlubWFsIHNlaGVuIHdpciB1bnMgd2llZGVy
   image: img/img_0637.jpeg
   description: In Erinnerung an Armando 💫  Beim Abschied wird uns oft erst klar -
     wie kostbar jeder Moment doch war
