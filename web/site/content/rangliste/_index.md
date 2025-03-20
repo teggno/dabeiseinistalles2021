@@ -11,8 +11,8 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Andreas Gabalier  ▶️ Irgendwann sehn wir uns wieder
-  url: https://www.youtube.com/watch?v=vyQf9nB4eYk&pp=ygUkZ2FiYWxpZXIgZWlubWFsIHNlaGVuIHdpciB1bnMgd2llZGVy
+  title: RAFFI‘S JUKEBOX  🎸 Riccardo Cocciante ▶️ Se stiamo insieme
+  url: https://www.youtube.com/watch?v=ecNqUr6LDuI&pp=ygUhY29jY2lhbnRlIHNlIHN0aWFtbyBpbnNpZW1lIHRlc3Rv
   image: img/img_0637.jpeg
   description: ""
 type: rangliste
