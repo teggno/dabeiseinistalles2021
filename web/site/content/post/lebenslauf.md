@@ -1,5 +1,5 @@
 ---
-title: Lebenslauf
+title: Lebenslauf Armando
 draft: true
 date: 2025-03-20T17:21:38.451Z
 ---
