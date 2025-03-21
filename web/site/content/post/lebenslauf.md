@@ -3,7 +3,7 @@ title: Lebenslauf
 draft: false
 date: 2025-03-20T17:21:38.451Z
 ---
-Armando ist am 2. Januar 1960 in Teolo, einem kleinen Dorf in der Nähe von Padua, als erster Sohn von Francesca Ruzzante-Pedron und Luigi Pedron zur Welt gekommen. Mit seinem jüngeren Bruder Mauro wuchs er bis zum Ende der Schulzeit bei seinen Grosseltern auf und zog danach im Teenageralter zusammen mit ihm von Italien in die Schweiz nach Kreuzlingen, wo seine Eltern und sein jüngster Bruder Cristiano bereits seit einigen Jahren lebten.
+Armando ist am 2. Januar 1960 in Teolo, einem kleinen Dorf in der Nähe von Padua, als erster Sohn von Francesca Ruzzante-Pedron und Luigi Pedron zur Welt gekommen. Mit seinem jüngeren Bruder Mauro wuchs er bis zum Ende der Schulzeit bei seinen Grosseltern auf und zog danach im Teenageralter zusammen mit ihm von Italien in die Schweiz nach Kreuzlingen, wo ihre Eltern und ihr jüngster Bruder Cristiano bereits seit einigen Jahren lebten.
 
 An der Seite seines Vaters arbeitete er anfangs auf dem Bau ehe er bei der damaligen Photocolor eine Anstellung in der Dunkelkammer fand. Er knüpfte neue Freundschaften und fühlte sich schon bald in seiner neuen Umgebung zuhause. Anschliessend führte ihn sein beruflicher Weg zur Saurer nach Arbon, später zur Abraxas nach St. Gallen und schliesslich zur Post nach Zürich.
 
