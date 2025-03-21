@@ -1,5 +1,5 @@
 ---
-title: "Armando‘s Lebenslauf "
+title: Lebenslauf
 draft: false
 date: 2025-03-20T17:21:38.451Z
 ---
