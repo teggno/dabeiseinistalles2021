@@ -3,4 +3,6 @@ title: Erbärmlich
 draft: true
 date: 2025-03-21T15:58:31.372Z
 ---
-Der Weg war steinig, der Berg zu hoch, die Kraft zu schwach, der Atem zu kurz. Ganz plötzlich bist du von uns gegangen, viel zu früh, still und leise.
+Der Weg war steinig, der Berg zu hoch, die Kraft zu schwach, der Atem zu kurz. Ganz plötzlich bist du von uns gegangen, viel zu früh, still und leise. Ich möchte mich im Namen meines Vaters Armando, seiner Ehefrau Renata, die über 44 Jahre an seiner Seite war, seiner Tochter Sara, seinem Sonnenschein, sowie mir seinem Sohn, aufrichtig bei all  jenen bedanken, die sich heute hier für meinen Vater bei der Kirche eingefunden haben, um ihm zu gedenken.
+
+Ich bin jedoch nicht gekommen um an einer Trauerfeier teilzunehmen. Heute findet hier keine Abdankung statt. Die offizielle Beisetzung und Abdankung meines Vaters hat vorgestern auf dem Friedhof in Amriswil im engsten Familienkreis stattgefunden. So wie es der Wille meines Vaters war.
