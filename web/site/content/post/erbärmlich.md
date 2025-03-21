@@ -7,4 +7,4 @@ Der Weg war steinig, der Berg zu hoch, die Kraft zu schwach, der Atem zu kurz. G
 
 Ich bin jedoch nicht gekommen um an einer Trauerfeier teilzunehmen. Heute findet hier keine Abdankung statt. Die offizielle Beisetzung und Abdankung meines Vaters hat vorgestern auf dem Friedhof in Amriswil im engsten Familienkreis stattgefunden. So wie es der Wille meines Vaters war.
 
-Vor zwei Tagen bin ich den schwierigsten Gang meines Lebens gegangen, als ich meinen geliebten Vater zu Grabe getragen habe. Nichtsahnend, dass wir heute in dieser Kirche diese schmerzhaften Gefühle noch einmal durchleben sollen
+Vor zwei Tagen bin ich den schwierigsten Gang meines Lebens gegangen, als ich meinen geliebten Vater zu Grabe getragen habe. Nichtsahnend, dass wir heute in dieser Kirche diese schmerzhaften Gefühle noch einmal durchleben sollen und in eine Familienfehde mit Cristiano hineingezogen werden.
