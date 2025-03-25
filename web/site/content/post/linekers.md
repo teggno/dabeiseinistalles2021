@@ -8,4 +8,4 @@ image: img/img_0680.jpeg
 
  „Wa verzellt dä  widdär für än saich“ werdet ihr euch jetzt denken. Warum nicht Brasilien, Deutschland, Italien, Argentinien, Frankreich, Spanien Uruguay oder gar die Schweiz? Die Antwort ist so simpel wie das Amen in der Kirche! T(homas) T(uchel)statt Gareth Southgate an der Linie und vereint mit meiner Wahrscheinlichkeitsrechnung, die nach vielen Fehlschlägen endlich zum Zug kommen wird. Natürlich gibt’s da noch den Jude Bellingham und den Harry Kane. Doch die sind „Beigemüse“! Die wahren Gründe liegen im Übergeordneten! Dort wo nur wenige Zutritt haben. Nicht wahr OVT 🙈🙈🙈
 
-PS: Abschreiben wie schon damals in der Schule auf eigene Gefahr!
+PS: Abschreiben - wie damals in der Schule - auf eigene Gefahr!
