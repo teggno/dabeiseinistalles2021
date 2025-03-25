@@ -1,6 +1,6 @@
 ---
 title: Lebenslauf
-draft: false
+draft: true
 date: 2025-03-20T17:21:38.451Z
 ---
 Armando ist am 2. Januar 1960 in Teolo, einem kleinen Dorf in der Nähe von Padua, als erster Sohn von Francesca Ruzzante-Pedron und Luigi Pedron zur Welt gekommen. Mit seinem jüngeren Bruder Mauro wuchs er bis zum Ende der Schulzeit bei den Grosseltern auf. Treuer Begleiter war ihm stets sein engster Freund Walter, mit dem er die ersten Bubenstreiche ausheckte. Im Teenager-Alter hiess es dann von der alten Heimat und seinen Freunden Abschied nehmen und zusammen mit Mauro ging es nach Kreuzlingen, wo bereits die Eltern und der jüngste Bruder Cristiano lebten.
