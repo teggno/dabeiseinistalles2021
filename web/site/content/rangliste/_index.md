@@ -11,8 +11,8 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Riccardo Cocciante ▶️ Se stiamo insieme
-  url: https://www.youtube.com/watch?v=ecNqUr6LDuI&pp=ygUhY29jY2lhbnRlIHNlIHN0aWFtbyBpbnNpZW1lIHRlc3Rv
+  title: RAFFI‘S JUKEBOX  🎸  The Beatles ▶️ I Should have known better
+  url: https://www.youtube.com/watch?v=Dm0008c79fQ&pp=ygUgc2hvdWxkIGhhdmUga25vd24gYmV0dGVyIGJlYXRsZXM%3D
   image: img/img_0637.jpeg
   description: ""
 type: rangliste
