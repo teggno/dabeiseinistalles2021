@@ -14,6 +14,7 @@ song:
   title: RAFFI‘S JUKEBOX  🎸   🥳 👌 😲  ▶️  🍅 🥚 🛟
   url: https://www.youtube.com/watch?v=IJs3Aytbybg&pp=ygUga3JlaXNjaGVuZGUgZmFucyBiZWkgZGVuIGJlYXRsZXM%3D
   image: img/img_0637.jpeg
-  description: ""
+  description: Das hatten wir doch schon mal! Nur hiessen sie damals Zaccüse,
+    Türbett, Barbuto und Pucchiachella……
 type: rangliste
 ---
