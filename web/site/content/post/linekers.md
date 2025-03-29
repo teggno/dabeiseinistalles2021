@@ -8,4 +8,4 @@ image: img/img_0680.jpeg
 
  „Wa verzellt dä  widdär für än saich“ werden jetzt einige denken. Warum nicht Brasilien, Deutschland, Italien, Argentinien, Frankreich, Spanien, Uruguay oder gar die Schweiz? Die Antwort ist so simpel wie das Amen in der Kirche! Thomas Tuchel statt Gareth Southgate an der Linie addiert mit meiner Wahrscheinlichkeitsrechnung, die nach vielen Fehlversuchen nicht mehr falsch liegen konnte. Angeführt von Jude Bellingham und Harry Kane, die endlich ihr ganzes Format auch in der Nationalmannschaft unter Beweis gestellt haben, is „Football coming Home“. 👏
 
-PS: Abschreiben auf eigene Gefahr! Nicht dass am Ende das OVT an der ganzen Misere Schuld ist.
+PS: Voraussage stimmt zu 99,99%! Blindes Vertrauen auf eigene Gefahr! Nicht dass am Ende das OVT an der ganzen Misere Schuld ist.
