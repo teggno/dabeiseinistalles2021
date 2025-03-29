@@ -11,10 +11,9 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸   🥳 👌 😲  ▶️  🍅 🥚 🛟
-  url: https://www.youtube.com/watch?v=IJs3Aytbybg&pp=ygUga3JlaXNjaGVuZGUgZmFucyBiZWkgZGVuIGJlYXRsZXM%3D
+  title: RAFFI‘S JUKEBOX  🎸 Leonard Cohen  ▶️  Famous Blue Raincoat
+  url: ""
   image: img/img_0637.jpeg
-  description: Das hatten wir doch schon mal! Nur hiessen sie damals Zaccüse,
-    Türbett, Barbuto und Pucchiachella……
+  description: ""
 type: rangliste
 ---
