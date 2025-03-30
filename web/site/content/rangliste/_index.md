@@ -20,7 +20,7 @@ song:
     beiden „F“ 🙈 Die Frauen und der Fussball! Doch nicht Real Madrid würde zum
     Tanz aufspielen, sondern Juventus Turin. Nur schade, dass wir das nicht mehr
     miterleben dürfen. Dafür haben wir den neuen Gene Hackman gefunden! „Il duro
-    mit Charme“. Igor sei definitiv uno di noi 🥳
+    mit Charme - Igor sei definitiv uno di noi“ 🥳
 
 type: rangliste
 ---
