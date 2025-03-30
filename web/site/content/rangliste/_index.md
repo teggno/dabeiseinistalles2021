@@ -15,11 +15,11 @@ song:
   url: https://www.youtube.com/watch?v=zKQfxi8V5FA&pp=ygUPemFnZXIgYW5kIGV2YW5z
   image: img/img_0637.jpeg
   description: >+
-    Wer sind Zager&Evans? 1969 besangen sie was 2525 los sein wird. Dass wir
-    nach wie vor der Kugel hinterherlaufen und selbstverständlich auch den
-    Girls. Doch nicht Real wird zum Tanz aufspielen, sondern Juventus Turin. Nur
-    schade, dass wir das nicht mehr miterleben dürfen. Dafür haben wir Igor! „Il
-    duro mit Charme“. Den neuen Gene Hackman!
+    Wer sind Zager&Evans? 1969 besangen sie was 2525 los sein wird. Nach dem
+    Motto „gebt ihnen das tägliche Brot“ überlebten nur die beiden „F“ 🙈 Frauen
+    und Fussball! Doch nicht Real werde zum Tanz aufspielen, sondern Juventus
+    Turin. Nur schade, dass wir das nicht mehr miterleben dürfen. Dafür haben
+    wir den neuen Gene Hackman! „Il duro mit Charme“. Igor sei uno di noi!
 
 type: rangliste
 ---
