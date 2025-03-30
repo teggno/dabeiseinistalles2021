@@ -16,11 +16,10 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Wer sind Zager&Evans? Ein Insider-Tipp wie Juve 🙈 1969 besangen sie was
-    2525 los sein wird. Wir werden immer noch der Kugel hinterherlaufen,
-    behaupteten sie!  Den Girls selbstverständlich auch! Doch nicht Real wird
-    zum Tanz aufspielen, sondern Juventus Turin. Nur schade, dass wir das nicht
-    mehr miterleben dürfen. Dafür gibt’s Igor! „Il duro mit Charme“. Mi riccorda
-    il grande Gene Hackman!
+    2525 los sein wird. Noch immer werden wir der Kugel hinterherlaufen! Und den
+    Girls natürlich auch! Doch nicht Real wird zum Tanz aufspielen, sondern
+    Juventus Turin. Nur schade, dass wir das nicht mehr miterleben dürfen. Dafür
+    gibt’s Igor! „Il duro mit Charme“. Mi riccorda il grande Gene Hackman!
 
 type: rangliste
 ---
