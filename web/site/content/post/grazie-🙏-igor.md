@@ -1,7 +1,9 @@
 ---
-title: Grazie 🙏 Igor
+title: In the year 2525!
 draft: true
 date: 2025-03-29T12:00:56.651Z
 image: img/img_0681.jpeg
 ---
-Nicht nur weil wir gewonnen haben! Das war quasi Pflicht! Du hast deine Jungs von den Fesseln befreit! Hast den Käfig aufgemacht und alle in die Freiheit entlassen! Yldiz mi sembrava Del Piero, Koop erinnerte an Zidane. Und Vlahovic lochte ein, wie damals Trezeguet! Endlich hat der Samstagabend einen Sinn für uns. Fertig mit dieser Motta-Frustration, die sich wie ein Schleier über unsere Gemüter legte. Siamo tornati a la grande!
+Wer kennt sie noch ausser ein paar Insidern? Zager&Evans! Sie besangen 1969 was 2525 los sein wird. Wir werden noch “kicken“, behaupten sie! Nicht Real wird die Musik machen, sondern Juve. Nur schade, dass wir das nicht mehr erleben. 
+
+Ich bin schon froh, dass ich Motta nicht mehr haben muss. Igor ist da! Mi riccorda Gene Hackman! Un duro mit Charme! Nicht dass er jetzt abgeräumt hätte, wie Cassius Clay damals als er hintereinander Sonny Liston, Joe Frazier und George Foreman vom Parkett fegte. Nein, er tat das Mögliche. Stoppte die Fahrt in den Abgrund
