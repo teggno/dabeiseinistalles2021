@@ -1,5 +1,5 @@
 ---
-title: In the year 2525!
+title: Grazie Igor - Bravo Yldiz
 draft: true
 date: 2025-03-29T12:00:56.651Z
 image: img/img_0681.jpeg
