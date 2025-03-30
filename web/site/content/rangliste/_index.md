@@ -19,7 +19,7 @@ song:
     Motto „gebt ihnen das tägliche Brot“ überlebten nur die beiden „F“ 🙈 Frauen
     und Fussball! Doch nicht Real würde zum Tanz aufspielen, sondern Juventus
     Turin. Nur schade, dass wir das nicht mehr miterleben dürfen. Dafür haben
-    wir den neuen Gene Hackman! „Il duro mit Charme“. Igor sei uno di noi!
+    wir den neuen Gene Hackman! „Il duro mit Charme“. Igor sei uno di noi 🥳
 
 type: rangliste
 ---
