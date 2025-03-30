@@ -19,8 +19,7 @@ song:
     2525 los sein wird. Wir werden immer noch der Kugel hinterherlaufen,
     behaupteten sie!  Den Girls selbstverständlich auch! Doch nicht Real wird
     zum Tanz aufspielen, sondern Juventus Turin. Nur schade, dass wir das nicht
-    mehr miterleben dürfen. Stattdessen geniessen wir Igor! Erinnert mich an
-    Gene Hackman! „Il duro“ mit Charme! Unser Fels in der Brandung!
+    mehr miterleben dürfen. 
 
 type: rangliste
 ---
