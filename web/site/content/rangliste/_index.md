@@ -11,7 +11,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Leonard Cohen  ▶️  Famous Blue Raincoat
+  title: RAFFI‘S JUKEBOX  🎸 Zager&Evans  ▶️  In the Year 2525
   url: https://www.youtube.com/watch?v=1ijyL-jeOJw&pp=ygUmZmFtb3VzIGJsdWUgcmFpbmNvYXQgbGl2ZSBhcmVuYSBsb25kb24%3D
   image: img/img_0637.jpeg
   description: ""
