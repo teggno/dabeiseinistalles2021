@@ -10,4 +10,4 @@ Ich bin schon froh, dass ich Motta nicht mehr haben muss. Benevento Igor! Mi ric
 
 Miracoli gibt’s keine mit diesem Orchester! Zuviele da, die den Ton nicht treffen. Gatti, Veiga und Kelly sono peggio di Danilo, Rugani und Legrotaglie! Den aufstrebenden Huijsen hat man verscherbelt. Locatelli non vale mezzo Khedira! Nico González auf den Spuren von Krasic, Koopmeiners mi fa pena und der Serbe betreibt den falschen Sport.
 
-Da sind wir auf einen Pfeiler wie Tudor angewiesen. Er ist im Stande die Barke
+Da sind wir auf einen Pfeiler wie Tudor angewiesen. Nächstes Wochenende nicht verlieren und wir sind durch!
