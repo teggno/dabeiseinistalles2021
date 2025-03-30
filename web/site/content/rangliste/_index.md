@@ -19,7 +19,8 @@ song:
     2525 los sein wird. Wir werden immer noch der Kugel hinterherlaufen,
     behaupteten sie!  Den Girls selbstverständlich auch! Doch nicht Real wird
     zum Tanz aufspielen, sondern Juventus Turin. Nur schade, dass wir das nicht
-    mehr miterleben dürfen. 
+    mehr miterleben dürfen. Dafür gibt’s Igor! „Il duro mit Charme“. Mi riccorda
+    il grande Gene Hackman!
 
 type: rangliste
 ---
