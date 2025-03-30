@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2024-12-31T10:04:25.835Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar
 
 
@@ -11,16 +11,9 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Zager&Evans  ▶️  In the Year 2525
+  title: "RAFFI‘S JUKEBOX  🎸  ▶️  "
   url: https://www.youtube.com/watch?v=zKQfxi8V5FA&pp=ygUPemFnZXIgYW5kIGV2YW5z
   image: img/img_0637.jpeg
-  description: >+
-    Wer waren Zager&Evans? 19♋️ (siamo sempre la) besangen sie was 2525 los sein
-    würde. Nach dem Motto „gebt ihnen das tägliche Brot“ überlebten nur die
-    beiden „F“ 🙈 Die Frauen und der Fussball! Doch nicht Real Madrid würde zum
-    Tanz aufspielen, sondern Juventus Turin. Nur schade, dass wir das nicht mehr
-    miterleben dürfen. Dafür haben wir den neuen Gene Hackman gefunden! „Il duro
-    mit Charme - Igor sei definitiv uno di noi“ 🥳
-
+  description: "\n\n"
 type: rangliste
 ---
