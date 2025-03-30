@@ -15,12 +15,12 @@ song:
   url: https://www.youtube.com/watch?v=zKQfxi8V5FA&pp=ygUPemFnZXIgYW5kIGV2YW5z
   image: img/img_0637.jpeg
   description: >+
-    Wer kennt sie noch ausser ein paar Insidern? Zager&Evans! Sie besangen 1969
+    Wer sind Zager&Evans? Die Frage ist nicht unberechtigt! 1969 besangen sie
     was 2525 los sein wird. Wir werden immer noch der Kugel hinterherlaufen,
     behaupteten sie!  Den Girls selbstverständlich auch! Doch nicht Real wird
     zum Tanz aufspielen, sondern Juventus Turin. Nur schade, dass wir das nicht
-    mehr miterleben dürfen. Grazie Igor! Mi riccordi il grande Gene Hackman! Un
-    „duro“ mit Charme! Ein Pfeiler, der dieses wacklige Gebilde zusammenhält. 
+    mehr miterleben dürfen. Stattdessen geniessen wir Igor! Erinnert mich an
+    Gene Hackman! „Il duro“ mit Charme! Unser Fels in der Brandung!
 
 type: rangliste
 ---
