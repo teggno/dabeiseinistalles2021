@@ -15,7 +15,7 @@ song:
   url: https://www.youtube.com/watch?v=zKQfxi8V5FA&pp=ygUPemFnZXIgYW5kIGV2YW5z
   image: img/img_0637.jpeg
   description: >+
-    Wer sind Zager&Evans? 19♋️ (siamo sempre la) besangen sie was 2525 los sein
+    Wer waren Zager&Evans? 19♋️ (siamo sempre la) besangen sie was 2525 los sein
     würde. Nach dem Motto „gebt ihnen das tägliche Brot“ überlebten nur die
     beiden „F“ 🙈 Frauen und Fussball! Doch nicht Real würde zum Tanz
     aufspielen, sondern Juventus Turin. Nur schade, dass wir das nicht mehr
