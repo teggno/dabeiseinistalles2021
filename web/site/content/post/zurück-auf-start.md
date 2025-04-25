@@ -4,7 +4,7 @@ draft: false
 date: 2025-04-25T11:38:39.086Z
 image: img/1081749-18772051-2560-1440.jpg
 ---
-Gente come questa voglio vedere! Keine halben Sachen mehr. Typen wie Brio und Bonini werden als „Mittelmass“ akzeptiert, der Rest muss mit dem Gütesiegel „Weltklasse“ versehen sein.
+Gente come questa voglio vedere! Keine halben Sachen mehr. Typen wie Brio und Bonini werden als „Mittelmass“ gerade noch so toleriert! Der Rest muss mit dem Gütesiegel „Weltklasse“ versehen sein.
 
 Mit grösster Wahrscheinlichkeit wird Juve die CL verpassen. Finanziell ein Desaster, sportlich nicht. Vielleicht ist die Europa League aktuell unser adäquateres zuhause. Was sofort in die Wege geleitet werden muss, ist eine Neuausrichtung. Giuntoli ist nach seinen Panikeinkäufen nicht mehr tragbar. Wer soviel Geld in den Sand setzt, hat bei Juve keine Zukunft. Ich tendiere in Richtung seriöser und bodenständiger direttori sportivi  à la Marotta oder Sartori. Für Tudor tut es mir leid. Wir brauchen einen TOP aus der vordersten Reihe. Da Guardiola und Klopp um Juve einen grossen Bogen machen, richten wir die Aufmerksamkeit auf das Machbare. Gasperini, Conte und Inzaghi!
 
