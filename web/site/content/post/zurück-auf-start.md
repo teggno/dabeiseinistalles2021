@@ -1,5 +1,5 @@
 ---
-title: Dove siete rimasti, Jungs 🥲
+title: Dove siete rimasti Jungs 🥲
 draft: false
 date: 2025-04-25T11:38:39.086Z
 image: img/1081749-18772051-2560-1440.jpg
