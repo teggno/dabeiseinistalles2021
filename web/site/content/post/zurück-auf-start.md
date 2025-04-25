@@ -15,9 +15,3 @@ Der Einkaufszettel ist nur mit Hochkarätern bestückt. Wie es sich für Juventu
 Donnarumma; Hakimi- Bremer-Calafiori-Davies; Thuram-Tonali-Barella; Salah-Osimhen-Yamal……
 
 Gli spiccioli 💰ci sono …..o no…..?
-
-
-
-
-
-Von meinem iPad gesendet
