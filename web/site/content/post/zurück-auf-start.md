@@ -14,6 +14,6 @@ Khéphren Thuram bekommt eine weitere Chance. McKennie, der den Sprung nie mache
 
 Nur mit Hochkarätern ist der Einkaufszettel bestückt. Wie es sich eben für Juventus Turin gehört. Oberste Priorität „un centrocampista con i piedi buoni“ und ein Mittelstürmer der die 9 im Blut hat! Spontan kommen mir Tonali, Barella, Osimhen und Lookman in den Sinn. Und hinten einer neben Bremer, der den öffnenden Pass spielen kann (Calafiori). Wenn wir uns wieder in die oberste Liga hieven wollen, sollten unsere Jungs ein Aushängeschild sein! (Italiener sind immer gern gesehen)
 
-Donnarumma; Hakimi- Bremer-Calafiori-Davies; Thuram-Tonali-Barella; Koopmeiners: Lookman-Osimhen
+Gli spiccioli 💰 ci sono…o no….?
 
-Gli spiccioli 💰ci sono …..o no…..?
+Donnarumma; Hakimi- Bremer-Calafiori-Davies; Thuram-Tonali-Barella; Koopmeiners: Lookman-Osimhen
