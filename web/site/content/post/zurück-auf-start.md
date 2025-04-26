@@ -4,7 +4,7 @@ draft: true
 date: 2025-04-25T11:38:39.086Z
 image: img/1081749-18772051-2560-1440.jpg
 ---
-Ha ragione Claudio Gentile! Ci vuole gente come questa! Typen wie Brio und Bonini! Mittelmässige Fussballler zwar, pero avevano le palle! E il resto erano campioni. Heute suchst du sie vergeblich.
+Ha ragione Claudio Gentile! Ci vuole gente come questa! Typen wie Brio und Bonini! Mittelmässige Fussballler zwar, pero avevano le palle! E il resto erano campioni. Heute suchst du sie vergebens.
 
 Hunderte von Millionen in den Sand gesetzt! Complimenti Signor Giuntoli! Ihnen fehlt das berühmte Näschen! Gelson Bremer ist der Einzige Mit Juveformat und den haben sie nicht einmal geholt. Einer von elf. Dä Räscht isch “non da Juve“!  Di Gregorio, Thuram und Koopmeiners kann man noch so knapp durchseuchen! Die anderen fallen durch. Allen voran die 9! Einer für Aufsteiger Sassuolo! Wo haben nur die vielen Experten die ganze Zeit hingeschaut?  Zusammen mit 65 Millionen-Missverständnis Cambiaso der grösste Reinfall in unserer Clubgeschichte! 
 
