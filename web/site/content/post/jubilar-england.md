@@ -8,6 +8,6 @@ Manchmal, wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufz
 
 Gordon Banks-George Cohen-Bobby Moore-Jack Charlton-Ray Wilson-Alan Ball-Nobby Stiles-Bobby Charlton-Martin Peters-Geoff Hurst-Roger Hunt
 
-Das Schicksal wollte es so, dass 60 Jahre danach nur noch einer am Leben ist: Sir Geoff Hurst, der im Finale 1966 dreimal einnetzte und dank seines „Wembley-Tores“ mindestens 100‘000 mal auf die Frage ob der Ball vor oder hinter der Linie aufsprang mit „yes I‘am sure, die Kugel war drin“ geantwortet hat. Sie war es nicht, wie die Technik später demonstrierte. Und da sind wir wieder „bi üsäs Godi Dienst“.
+Das Schicksal wollte es so, dass 60 Jahre danach nur noch einer am Leben ist: Sir Geoff Hurst, der im Finale 1966 dreimal einnetzte und dank seines „Wembley-Tores“ mindestens 100‘000 mal auf die Frage ob der Ball vor oder hinter der Linie aufsprang mit „yes I‘am sure, die Kugel war drin“ geantwortet hat. Sie war es nicht, wie die Technik später demonstrierte. Und da sind wir wieder „bi üsäm Godi Dienst“.
 
 Wer hätte damals gedacht, dass es mit den Briten bis zum heutigen Tag nie mehr klappen würde. Die laut Annalen Erfinder des Fussballs probierten es immer wieder. Stetiges Unvermögen im Elfmeterschiessen und die Hand Gottes stellten sich ihnen in den Weg. Das soll sich nun endgültig ändern. Harry Kane hat den Auftrag erhalten, den WM-Pokal am 19. Juli 2026 in den Nachthimmel von New Jersey zu heben. Meinen Segen hast du, capitano!
