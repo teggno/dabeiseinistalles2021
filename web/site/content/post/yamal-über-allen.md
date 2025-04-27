@@ -1,5 +1,5 @@
 ---
-title: Yamal und seine Brüder
+title: Über allen Yamal
 draft: true
 date: 2025-04-27T08:52:55.662Z
 image: img/img_0688.jpeg
