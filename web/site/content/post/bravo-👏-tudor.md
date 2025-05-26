@@ -8,7 +8,7 @@ Sei uno dei pocchi che si salva! Jungs, ihr habt mich gestern mindesten ein Jahr
 
 Los geht’s mit der Geldvernichtungsmaschine CRISTIANO GIUNTOLI, der fünf Nieten aus dem Topf fischte (Motta, Koopmeiners, Nico González, Douglas Luiz, Lloyd Kelly) und insgesamt 200 Millionen in den Sand gesetzt hat. Wann erhält er die Entlassungsurkunde?
 
-THIAGO MOTTA! Ein Eigenbrötler mit fixen Ideen, der zur Sorte Mensch gehört, die trotz Fehlern alles noch einmal gleich machen würden.
+THIAGO MOTTA! Ein Eigenbrötler mit fixen Ideen, der zur Sorte Mensch gehört, die trotz (Eigen)Fehlern alles noch einmal gleich machen würden.
 
 GELSON BREMER! Der Fels, der sich nie hätte verletzen dürfen. Er fehlte an allen Ecken und Enden!
 
