@@ -44,7 +44,7 @@ KENAN YLDIZ! Hat die selten blöde Angewohnheit (wie Del Piero) nach einem Tor d
 
 FRANCISCO CONCEICAO! Am Ende sind es die Details! Seine Dribbelstärke war spielentscheidend! Einer zwischen himmelhochjauchzend und zu Tode betrübt. Ich würde ihn behalten.
 
-SAMUEL MBANGULA! Ein Mitläufer mit seltenen „Highs“. In der Versenkung verschwunden.
+SAMUEL MBANGULA! Unauffällig in der Versenkung verschwunden.
 
 DUSAN VLAHOVIC! Ein Antifussballer mit 24 Millionen Bruttogehalt. Null Ausstrahlung! Schwache Persönlichkeit mit grosser Theatralik! Technische Limiten. Unfähig einen Ball zu halten und die Mannschaft aufrücken zu lassen! Wer den gekauft hat, MUSS sein Brevet abgeben. Zum Glück hat Elkann ein grosses Herz. Sonst würde er denjeinigen auf Schadenersatz einklagen. Un disastroooo.
 
