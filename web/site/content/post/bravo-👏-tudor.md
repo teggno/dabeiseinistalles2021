@@ -4,11 +4,11 @@ draft: false
 date: 2025-05-26T10:33:12.357Z
 image: img/img_0692.jpeg
 ---
-Sei uno dei pocchi che si salva! Wie jedes Jahr wenn die Saison vorüber ist, gibt’s die heiss begehrten Zeugnisse. Für einmal ohne Noten! Stattdessen wollen wir die Protagonisten einzeln auf die Bühne bitten und sie mit Lobhudeleien zuschütten! 
+Sei uno dei pocchi che si salva! Jungs, ihr habt mich gestern mindesten ein Jahr Leben gekostet! Wie jedes Jahr wenn die Saison vorüber ist, gibt’s die heiss begehrten Zeugnisse. Für einmal ohne Noten! Stattdessen wollen wir die Protagonisten einzeln auf die Bühne bitten und sie mit Lobhudeleien zuschütten! 
 
 Los geht’s mit der Geldvernichtungsmaschine CRISTIANO GIUNTOLI, der fünf Nieten aus dem Topf fischte (Motta, Koopmeiners, Nico González, Douglas Luiz, Lloyd Kelly) und insgesamt 200 Millionen in den Sand gesetzt hat. Wann erhält er die Entlassungsurkunde?
 
-THIAGO MOTTA! Ein Eigenbrötler mit fixen Ideen, der zur Sorte Mensch gehört, die trotz Versäumnissen alles noch einmal gleich machen würden.
+THIAGO MOTTA! Ein Eigenbrötler mit fixen Ideen, der zur Sorte Mensch gehört, die trotz Fehlern alles noch einmal gleich machen würden.
 
 GELSON BREMER! Der Fels, der sich nie hätte verletzen dürfen. Er fehlte an allen Ecken und Enden!
 
