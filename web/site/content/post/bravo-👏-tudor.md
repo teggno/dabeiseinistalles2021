@@ -24,7 +24,7 @@ NICOLO SAVONA! Gut begonnen und miserabel aufgehört! Trotz allem ein Verspreche
 
 ALBERTO COSTA! Mein Gefühl sagt, der könnte was werden.
 
-MANUEL LOCATELLI! Ein braver „gregario“ der gestern Verantwortung übernommen hat. Sein Elfer war zentnerschwer.
+MANUEL LOCATELLI! Einer von der Sorte „gregario“ der gestern für einmal Verantwortung übernommen hat. Sein Elfer war tonnenschwer.
 
 KEPHREN THURAM! Einer unserer wenigen Lichtblicke! Ein Puncher mit grossem Potential!
 
