@@ -10,7 +10,7 @@ Los geht’s mit der Geldvernichtungsmaschine CRISTIANO GIUNTOLI, der fünf Niet
 
 THIAGO MOTTA! Ein Eigenbrötler mit fixen Ideen, der zur Sorte Mensch gehört, der trotz (Eigen)Fehlern alles noch einmal gleich machen würde.
 
-GELSON BREMER! Ein Fels in der Brandung! Der Einzige im Team, der sich nie hätte verletzen dürfen. Che iella! Er fehlte an allen Ecken und Enden! 
+GELSON BREMER! Normalerweise DER Fels in der Brandung! Der Einzige im Team, der sich nie hätte verletzen dürfen. Che iella! Er fehlte an allen Ecken und Enden! 
 
 PIERRE KALULU! Der Disziplinierte, der kurz die Nerven verlor und uns fast in den „Tod“ geritten hätte.
 
