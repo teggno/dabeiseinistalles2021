@@ -26,7 +26,7 @@ ALBERTO COSTA! Mein Gefühl sagt, der könnte was werden.
 
 MANUEL LOCATELLI! Ein braver „gregario“ der gestern Verantwortung übernommen hat. Sein Elfer war zentnerschwer.
 
-KEPHREN THURAM! Einer unserer Lichtblicke! Ein Puncher mit grossem Potential!
+KEPHREN THURAM! Einer unserer wenigen Lichtblicke! Ein Puncher mit grossem Potential!
 
 WESTON MCKENNIE! Hat mich Lügen gestraft. Non e da juve und trotzdem war er da!
 
