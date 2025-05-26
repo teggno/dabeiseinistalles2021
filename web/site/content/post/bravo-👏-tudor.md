@@ -36,10 +36,12 @@ NICO GONZÁLEZ! Wer 35 Millionen für diesen Durchschnittsfussballer hinblätter
 
 DOUGLAS LUIZ! Böse Zungen behaupten, dass Aston Villa seinen „Cousin“ nach Turin geschickt hat.
 
-TEUN KOOPMEINERS! Da fehlen mir die Worte. Unter Gasp ein König bei uns ein Bettler.
+TEUN KOOPMEINERS! Da fehlen mir die Worte. Unter Gasp ein König - bei uns ein Bettler.
 
 KOLO MUANY! Nicht mein Fall, doch ohne seine Tore wären wir in der Conference League!
 
 KENAN YLDIZ! Hat die selten blöde Angewohnheit (wie Del Piero) nach einem Tor die Zunge rauszustrecken. Bei ihm bin ich hin und hergerissen. Ein ewiges Talent oder ein „Campione“?
 
-MBANGULA
+MBANGULA! Ein Mitläufer mit seltenen „Highs“. In der Versenkung verschwunden.
+
+DUSAN VLAHOVIC! Ein Antifussballer mit 24 Millionen Bruttogehalt. Null Ausstrahlung! Schwache Persönlichkeit mit grosser Theatralik! Technische Limiten. Unfähig einen Ball zu halten und die Mannschaft aufrücken zu lassen! Wer den gekauft hat, MUSS sein Brevet abgeben. Zum Glück hat Elkann ein grosses Herz. Sonst würde er denjeinigen auf Schadenersatz einklagen. Un disastroooo.
