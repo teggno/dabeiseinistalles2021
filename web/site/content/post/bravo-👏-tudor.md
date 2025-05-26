@@ -14,8 +14,9 @@ PIERRE KALULU! Der Disziplinierte, der kurz die Nerven verlor und uns fast in de
 
 FEDERICO GATTI! Il juventino doc, dem man eine grosse Zukunft in schwarzweiss wünschen würde. Wenn da nur nicht die technischen Limiten wären.
 
-RAMON VEIGA! Von Chelsea ausgeliehen\
-ANDREA CAMBIASO! Einer der überbewertesten Akteure, die ich je gesehen habe. Die 65 Millionen-Märchengeschichte aus Guardiola-Land stieg ihm zusätzlich in den Kopf. Seine stupiden Anfängerfehler hätten uns schier das Genick gebrochen.
+RENATO VEIGA! Von Chelsea ausgeliehen. Zuletzt in einer verunsicherten Abwehr noch der Beste.
+
+ANDREA CAMBIASO! Einer der überbewertetsten Akteure, die ich je gesehen habe. Die 65 Millionen-Märchengeschichte aus Guardiola-Land stieg ihm zusätzlich in den Kopf. Seine stupiden Anfängerfehler hätten uns schier das Genick gebrochen.
 
 NICOLO SAVONA! Gut begonnen und miserabel aufgehört! Trotz allem ein Versprechen für die Zukunft!
 
