@@ -4,7 +4,7 @@ draft: false
 date: 2025-05-26T10:33:12.357Z
 image: img/img_0692.jpeg
 ---
-Sei uno dei pochi che si salva! „Vecchia Signora“, du hast mich gestern mindestens ein Jahr Leben gekostet! Wie jedesmal wenn die Saison vorüber ist, gibt es als Zugabe die heiss begehrten Zeugnisse. Für einmal ohne Noten! Stattdessen wollen wir die Protagonisten einzeln auf die Bühne bitten und sie mit „Lobhudeleien“ überschütten! 
+Sei uno dei pochi che si salva! „Vecchia Signora“, du hast mich gestern mindestens ein Jahr Leben gekostet! Wie jedesmal wenn die Saison vorüber ist, gibt es als Zugabe die heiss begehrten Zeugnisse. Für einmal ohne Noten! Stattdessen wollen wir die Protagonisten einzeln auf die Bühne bitten und sie mit Lobeshymnen überschütten! 
 
 Los geht’s mit der Geldvernichtungsmaschine CRISTIANO GIUNTOLI, der fünf Nieten aus dem Hut zauberte (Motta, Koopmeiners, Nico González, Douglas Luiz, Lloyd Kelly) und insgesamt 200 Millionen in den Sand gesetzt hat. Wann erhält er die Entlassungsurkunde?
 
