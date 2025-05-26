@@ -30,7 +30,7 @@ KEPHREN THURAM! Einer unserer Lichtblicke! Ein Puncher mit grossem Potential!
 
 WESTON MCKENNIE! Hat mich Lügen gestraft. Non e da juve und trotzdem war er da!
 
-TIMOTHY WEAH! Mit Wehmut denke ich an seinen Vater.
+TIMOTHY WEAH! Mit Wehmut denke ich an seinen Vater zurück.
 
 NICO GONZÁLEZ! Wer 35 Millionen für diesen Durchschnittsfussballer hinblättert, gehört eingesperrt.
 
