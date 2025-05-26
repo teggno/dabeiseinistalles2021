@@ -15,7 +15,7 @@ song:
   url: https://www.youtube.com/watch?v=1ItLLu4wppo&pp=ygUZbWluYSBhbmNvcmEgYW5jb3JhIGFuY29yYQ%3D%3D
   image: img/img_0637.jpeg
   description: |+
-    Unberechenbar ☀️ ☔️ 🔥 Come la Juve…..
+    Unberechenbar ☀️ ☔️ 🔥 come la Juve
 
 type: rangliste
 ---
