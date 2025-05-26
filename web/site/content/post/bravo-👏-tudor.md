@@ -36,7 +36,7 @@ NICO GONZÁLEZ! Wer 35 Millionen für diesen Durchschnittsfussballer hinblätter
 
 DOUGLAS LUIZ! Böse Zungen behaupten, dass Aston Villa seinen „Cousin“ nach Turin geschickt hat.
 
-TEUN KOOPMEINERS! Da fehlen mir die Worte. Unter Gasp ein König - bei uns ein Bettler.
+TEUN KOOPMEINERS! Da fehlen mir die Worte. Unter Gasperini ein König - bei uns ein Bettler.
 
 KOLO MUANY! Nicht mein Fall, doch ohne seine Tore wären wir in der Conference League!
 
