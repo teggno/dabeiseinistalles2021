@@ -4,7 +4,7 @@ draft: true
 date: 2025-04-27T07:51:44.567Z
 image: img/img_0687.jpeg
 ---
-Manchmal, wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 1982, Brasilien 58+70, Deutschland 74, Argentinien 78 und jenes England von 66, das mit Hilfe von Schiedsrichter Godi Dienst  und Linienrichter Tofiq Bahramov den bis heute einzigen Titel auf Nationalmannschaftsebene einfuhr.
+Manchmal, wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 1982, Brasilien 58+70, Deutschland 74, Argentinien 78 und jenes England von 66, das mit Hilfe von Schiedsrichter Godi Dienst  und Linienrichter Tofiq Bahramov den bis heute einzigen Titel auf Nationalmannschaftsebene einfuhr. Namen die noch heute auf der Zunge zergehen.
 
 Gordon Banks-George Cohen-Bobby Moore-Jack Charlton-Ray Wilson-Alan Ball-Nobby Stiles-Bobby Charlton-Martin Peters-Geoff Hurst-Roger Hunt
 
