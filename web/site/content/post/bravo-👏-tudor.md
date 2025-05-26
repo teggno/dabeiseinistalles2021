@@ -8,7 +8,7 @@ Sei uno dei pochi che si salva! „Vecchia Signora“, du hast mich gestern mind
 
 Los geht’s mit der Geldvernichtungsmaschine CRISTIANO GIUNTOLI, der fünf Nieten aus dem Hut zauberte (Motta, Koopmeiners, Nico González, Douglas Luiz, Lloyd Kelly) und insgesamt 200 Millionen in den Sand gesetzt hat. Wann erhält er die Entlassungsurkunde?
 
-THIAGO MOTTA! Ein Eigenbrötler mit fixen Ideen, der zur Sorte Mensch gehört, die trotz (Eigen)Fehlern alles noch einmal gleich machen würden.
+THIAGO MOTTA! Ein Eigenbrötler mit fixen Ideen, der zur Sorte Mensch gehört, der trotz (Eigen)Fehlern alles noch einmal gleich machen würde.
 
 GELSON BREMER! Ein Fels in der Brandung! Der Einzige im Team, der sich nie hätte verletzen dürfen. Che iella! Er fehlte an allen Ecken und Enden! 
 
