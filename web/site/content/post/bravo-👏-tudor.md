@@ -42,6 +42,10 @@ KOLO MUANY! Nicht mein Fall, doch ohne seine Tore wären wir in der Conference L
 
 KENAN YLDIZ! Hat die selten blöde Angewohnheit (wie Del Piero) nach einem Tor die Zunge rauszustrecken. Bei ihm bin ich hin und hergerissen. Ein ewiges Talent oder ein „Campione“?
 
-MBANGULA! Ein Mitläufer mit seltenen „Highs“. In der Versenkung verschwunden.
+FRANCISCO CONCEICAO! Am Ende sind es die Details! Seine Dribbelstärke war spielentscheidend! Einer zwischen himmelhochjauchzend und zu Tode betrübt. Ich würde ihn behalten.
+
+SAMUEL MBANGULA! Ein Mitläufer mit seltenen „Highs“. In der Versenkung verschwunden.
 
 DUSAN VLAHOVIC! Ein Antifussballer mit 24 Millionen Bruttogehalt. Null Ausstrahlung! Schwache Persönlichkeit mit grosser Theatralik! Technische Limiten. Unfähig einen Ball zu halten und die Mannschaft aufrücken zu lassen! Wer den gekauft hat, MUSS sein Brevet abgeben. Zum Glück hat Elkann ein grosses Herz. Sonst würde er denjeinigen auf Schadenersatz einklagen. Un disastroooo.
+
+IGOR TUDOR! Er kam zum Glück noch rechtzeitig! Ein absoluter Realist! Kein Firlefanz wie sein Vorgänger. Und trotzdem bleibt er ein Feuerwehrmann! Ich mag ihn, doch die Zeichen stehen auf „Conte“! Auch wenn Zac un anno sabbatico einlegt. Hoffentlich hat Antonio aus seinen Fehlern gelernt. Mit Osimhen, Tonali, einem gesunden Bremer und einem überdurchschnittlichen Verteidiger an seiner Seite werden wir nächste Saison ein Wörtchen mitreden.
