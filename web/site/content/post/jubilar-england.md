@@ -6,7 +6,7 @@ image: img/img_0687.jpeg
 ---
 Manchmal, wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 1982, Brasilien 58+70, Deutschland 74, Argentinien 78 und jenes England von 66, das mit gütiger Mithilfe von Schiedsrichter Godi Dienst und Linienrichter Tofiq Bahramov den bis heute einzigen Titel auf Nationalmannschaftsebene in die Scheune fuhr.
 
-Gordon Banks-George Cohen-Bobby Moore-Jack Charlton-Ray Wilson-Alan Ball-Nobby Stiles-Bobby Charlton-Martin Peters-Geoff Hurst-Roger Hunt
+Gordon Banks-George Cohen-Bobby Moore-Jack Charlton-Ray Wilson-Alan Ball-Nobby Stiles-Bobby Charlton-Martin Peters-Geoff Hurst und Roger Hunt
 
 Das Schicksal wollte es so, dass 60 Jahre danach nur noch einer der einst Geadelten am Leben ist: Sir Geoff Hurst, der im Finale dreimal einnetzte und dank seines „Wembley-Tores“ lebenslänglich mit der Frage konfrontiert war, ob der Ball nun vor oder hinter der Linie aufsprungen war! „Yes, I‘am sure, die Kugel war drin“, hat er stets zu Protokoll gegeben.  Sie war es nicht, wie die Technik später demonstrierte. Und da sind wir wieder „bi üsäm Godi“. Böse Zungen behaupten, dass genau in jenem Moment die einstmals grosse Liebe zwischen Eidgenossen und Teutonen jäh zu Ende ging. 
 
