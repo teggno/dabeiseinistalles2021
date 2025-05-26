@@ -1,6 +1,6 @@
 ---
 title: Bravo  👏 Tudor
-draft: true
+draft: false
 date: 2025-05-26T10:33:12.357Z
 image: img/img_0692.jpeg
 ---
