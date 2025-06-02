@@ -4,7 +4,7 @@ draft: true
 date: 2025-04-27T07:51:44.567Z
 image: img/img_0687.jpeg
 ---
-Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 82, Brasilien 58+70, Deutschland 74 und Argentinien 78 sind in meinem Gedächtnis besonders haften geblieben. In diesen Tagen konzentrieren sich meine nächtlichen „Ausflüge“  im speziellen auf England sixtysix und die 11 Akteure die von Königin Elisabeth und Prinz Philipp zu „Sirs of the British Empire“ hochgestuft wurden.
+Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 82, Brasilien 58+70, Deutschland 74 und Argentinien 78 sind in meinem Gedächtnis besonders haften geblieben. In diesen Tagen konzentrieren sich meine nächtlichen „Ausflüge“  im speziellen auf England sixtysix und jene 11 Akteure, die von Königin Elisabeth zu „Sirs of the British Empire“ hochgestuft wurden.
 
 Gordon Banks-George Cohen-Bobby Moore-Jack Charlton-Ray Wilson-Alan Ball-Nobby Stiles-Bobby Charlton-Martin Peters-Geoff Hurst und Roger Hunt
 
