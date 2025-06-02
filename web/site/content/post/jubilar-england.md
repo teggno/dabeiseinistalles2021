@@ -4,7 +4,7 @@ draft: true
 date: 2025-04-27T07:51:44.567Z
 image: img/img_0687.jpeg
 ---
-Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 1982, Brasilien 58+70, Deutschland 74, Argentinien 78 und jenes England von 66, das mit gütiger Mithilfe von Gottfried Dienst und Tofiq Bahramov den bis heute einzigen Titel auf sein Konto verbuchen durfte.
+Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 1982, Brasilien 58+70, Deutschland 74, Argentinien 78 und England 66 sind in meinem Gedächtnis besonders haften geblieben. Ohne Schiedsrichter Gottfried Dienst und Linienrichter Tofik Bahramov wären die nachfolgenden Akteure vielleicht nie zu Rittern des Königreichs geschlagen worden.
 
 Gordon Banks-George Cohen-Bobby Moore-Jack Charlton-Ray Wilson-Alan Ball-Nobby Stiles-Bobby Charlton-Martin Peters-Geoff Hurst und Roger Hunt
 
