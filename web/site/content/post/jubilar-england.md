@@ -4,7 +4,7 @@ draft: true
 date: 2025-04-27T07:51:44.567Z
 image: img/img_0687.jpeg
 ---
-Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 1982, Brasilien 58+70, Deutschland 74, Argentinien 78 und England 66 sind in meinem Gedächtnis besonders haften geblieben. Ohne Schiedsrichter Gottfried Dienst und Linienrichter Tofik Bahramov wären die nachfolgenden Akteure vielleicht nie zu Rittern des Königreichs geschlagen worden.
+Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 82, Brasilien 58+70, Deutschland 74 und Argentinien 78 sind in meinem Gedächtnis besonders haften geblieben. In diesen Tagen liegt meine Aufmerksamkeit im speziellen auf den Rittern des britischen Königreichs. Es waren diese 11, die vor 60 Jahren von Königin Elisabeth und Prinz Philipp zu „Sirs“ hochgestuft wurden.
 
 Gordon Banks-George Cohen-Bobby Moore-Jack Charlton-Ray Wilson-Alan Ball-Nobby Stiles-Bobby Charlton-Martin Peters-Geoff Hurst und Roger Hunt
 
