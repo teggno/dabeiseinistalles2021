@@ -6,7 +6,7 @@ image: img/img_0687.jpeg
 ---
 Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 82, Brasilien 58+70, Deutschland 74 und Argentinien 78 sind in meinem Gedächtnis besonders haften geblieben. In diesen Tagen konzentrieren sich meine nächtlichen „Ausflüge“  im speziellen auf England sixtysix und jene 11 Akteure, die von Königin Elisabeth zu „Sirs of the British Empire“ hochgestuft wurden.
 
-Gordon Banks-George Cohen-Bobby Moore-Jack Charlton-Ray Wilson-Alan Ball-Nobby Stiles-Bobby Charlton-Martin Peters-Geoff Hurst und Roger Hunt
+Gordon Banks; George Cohen, Bobby Moore, Jack Charlton, Ray Wilson; Alan Ball, Nobby Stiles, Bobby Charlton, Martin Peters; Geoff Hurst, Roger Hunt
 
 Das Schicksal wollte es so, dass 60 Jahre danach nur noch einer der einst Geadelten am Leben ist: Sir Geoff Hurst, der im Finale dreimal einnetzte und dank seines „Wembley-Tores“ lebenslänglich mit der Frage konfrontiert war, ob der Ball nun vor oder hinter der Linie aufsprungen war! „Yes, I‘am sure, die Kugel war drin“, hat er stets zu Protokoll gegeben.  Sie war es nicht, wie die Technik später demonstrierte. Und da sind wir wieder „bi üsäm Godi“. Böse Zungen behaupten, dass genau in jenem Moment die einstmals grosse Liebe zwischen Eidgenossen und Teutonen jäh zu Ende ging. 
 
