@@ -1,5 +1,5 @@
 ---
-title: Favorit 4
+title: Favorit 2
 draft: true
 date: 2025-06-03T17:48:27.439Z
 ---
