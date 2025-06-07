@@ -11,7 +11,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 gimmär si schnäll  ▶️  du heissi Frau
+  title: RAFFI‘S JUKEBOX  🎸 dimmi una volta  ▶️  che lo vuoi
   url: https://www.youtube.com/watch?v=nJX_VRr4F2M&pp=ygUMcGF1bCBjYXJyYWNr
   image: img/img_0637.jpeg
   description: "\n\n"
