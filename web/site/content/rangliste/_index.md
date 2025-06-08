@@ -11,8 +11,8 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 dimmi una volta  ▶️  che lo vuoi
-  url: https://www.youtube.com/watch?v=nJX_VRr4F2M&pp=ygUMcGF1bCBjYXJyYWNr
+  title: "RAFFI‘S JUKEBOX  🎸   ▶️  "
+  url: ""
   image: img/img_0637.jpeg
   description: "\n\n"
 type: rangliste
