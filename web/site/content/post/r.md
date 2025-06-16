@@ -4,7 +4,7 @@ draft: true
 date: 2025-06-09T11:51:28.982Z
 image: img/img_0697.jpeg
 ---
-Als vor ziemlich genau einem Jahr, am 9. Juni 2025, das Orakel von Tägerwilen diese Zeilen zu Papier trug, war der ganze Stiefel von Como bis Siracusa in tiefster Agonie erstarrt. Das ging soweit, dass slebst die Gondolieri in der vielbesungenen Lagunenstadt ihre Gondeln dezent mit Trauerflore beflaggten. Innerhalb von wenigen Tagen war den Meistern des „Dolce far niente“ brutal vor Augen geführt worden, dass sie plötzlich den Status eines Fussball-Drittweltlandes innehatten. Als auch noch Sinner im Sandplatz-Jahrhundert-Spiel gegen Alcaraz den Kürzeren zog, war der Ofen endgültig aus.
+Als ziemlich genau vor einem Jahr, am 9. Juni 2025, das Orakel von Tägerwilen diese Zeilen zu Papier trug, war der ganze Stiefel von Como bis Siracusa in tiefster Agonie erstarrt. Das ging soweit, dass slebst die Gondolieri in der vielbesungenen Lagunenstadt ihre Gondeln dezent mit Trauerflore beflaggten. Innerhalb von wenigen Tagen war den Meistern des „Dolce far niente“ brutal vor Augen geführt worden, dass sie plötzlich den Status eines Fussball-Drittweltlandes innehatten. Als auch noch Sinner im Sandplatz-Jahrhundert-Spiel gegen Alcaraz den Kürzeren zog, war der Ofen endgültig aus.
 
 Gross waren die Erwartungen als in einer Nacht- und Nebelaktion Roberto Mancini von Luciano Spalletti abgelöst wurde. Der Mann, der einst Napoli zum Meister machte, sollte für Aufbruchstimmung sorgen. Stattdessen erlagen wir der Depression. Dabei waren die Eidgenossen nicht ganz unschuldig, hatten sie doch „Lucianone“ dermassen umgarnt, dass er Italien in einem einseitigen Achtelfinale der Lächerlichkeit preisgab. Nun, nachdem er auch in Norwegen Kult ist, redet er mit seinen Traubenstöcken!
 
