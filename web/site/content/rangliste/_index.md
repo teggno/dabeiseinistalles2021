@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2024-12-31T10:04:25.835Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "Diese Seite ist nicht mehr verfügbar
 
 
@@ -11,7 +11,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 🎶 🎶🎶 ▶️  🤔 🌋 🤫 "
+  title: RAFFI‘S JUKEBOX  🎸 🎶 🎶🎶 ▶️  🤔 🌋 🤫
   url: https://www.youtube.com/watch?v=Egs1uExRzF4&pp=ygUZcGF1bCBjYXJyYWNrIGV5ZXMgb2YgYmx1ZQ%3D%3D
   image: img/img_0637.jpeg
   description: >+
