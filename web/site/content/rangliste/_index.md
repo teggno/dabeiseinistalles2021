@@ -14,6 +14,8 @@ song:
   title: "RAFFI‘S JUKEBOX  🎸   ▶️  "
   url: ""
   image: img/img_0637.jpeg
-  description: "\n\n"
+  description: |+
+    Du weisst gar nicht, wie gut mir die Erinnerungen an dich tun.
+
 type: rangliste
 ---
