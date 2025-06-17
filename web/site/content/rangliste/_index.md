@@ -21,7 +21,7 @@ song:
     kommt dann immer diese Szene auf dem Tisch an der Fliegaufstrasse in den
     Sinn. als ich ihn langsam „uf dim fü…i  hin und her bewegte und du vor
     lauter Lust aufstöhntest…. „h.. m… i.. R…i  🫢 non ti arrabiare….öppis
-    gailärs wiä di gits nöd…..beweg dis fü…i uf minärä z…ä….e fammi impazzire….
+    gailärs wiä di gits nöd…..beweg dis fü…i uf minärä z…ä 
 
 
 type: rangliste
