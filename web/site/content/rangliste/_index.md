@@ -17,7 +17,7 @@ song:
   description: >+
     Du weisst gar nicht, wie mir die Erinnerungen an dich gut tun. Es entführt
     mich in eine andere Welt. Heute Nacht musste ich ständig daran denken, wie
-    du mir mal geschrieben bzw.. punktiert hast „dann wurde ich durchgest…t“ Mir
+    du mir mal geschrieben bzw. punktiert hast „dann wurde ich durchgest…t“ Mir
     kommt dann immer diese Szene auf dem Tisch an der Fliegaufstrasse in den
     Sinn. als ich ihn langsam „uf dim fü…i  hin und her bewegte und du vor
     lauter Lust „h.. m… i..“ schriest…..non ti arrabiare
