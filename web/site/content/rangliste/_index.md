@@ -11,7 +11,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 🎶 🎶🎶 ▶️  🤔 🌋 🤫
+  title: "RAFFI‘S JUKEBOX  🎸 "
   url: ""
   image: img/img_0637.jpeg
   description: "\n\n\n"
