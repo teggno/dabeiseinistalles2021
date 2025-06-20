@@ -11,7 +11,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  une chanson ▶️ de 1969
+  title: RAFFI‘S JUKEBOX  🎸  Jean François Michael ▶️ Adieu Jolie Candy
   url: https://www.youtube.com/watch?v=7Peh1BCD4Ik&pp=ygURYWRpZXUgam9saWUgY2FuZHk%3D
   image: img/img_0637.jpeg
   description: |+
