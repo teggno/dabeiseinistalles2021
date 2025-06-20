@@ -17,7 +17,7 @@ song:
   description: >+
     Weine nicht weil es vorbei ist - sondern lächle weil es so schön war
     (Gabriel Garcia Marquez). Une chanson de l’été 19♋️ dedicata a Rimini pour
-    la musique und an Mademoiselle M pour les numeros 🫢 inoubliable
+    la musique et á Mademoiselle M pour les numeros 🫢 inoubliable
 
 
 type: rangliste
