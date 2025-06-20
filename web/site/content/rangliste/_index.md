@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2024-12-31T10:04:25.835Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar
 
 
@@ -11,8 +11,8 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  ▶️
-  url: https://www.youtube.com/watch?v=jU8JiR62hU8&pp=ygUYcG9vaCB0YW50YSB2b2dsaWEgZGkgbGVp
+  title: RAFFI‘S JUKEBOX  🎸  une chanson ▶️ de 1969
+  url: https://www.youtube.com/watch?v=7Peh1BCD4Ik&pp=ygURYWRpZXUgam9saWUgY2FuZHk%3D
   image: img/img_0637.jpeg
   description: |+
     Weine nicht weil es vorbei ist - sondern lächle weil es so schön war
