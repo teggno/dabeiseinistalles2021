@@ -16,7 +16,8 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Weine nicht weil es vorbei ist - sondern lächle weil es so schön war
-    (Gabriel Garcia Marquez). Une chanson de l’été 1969 dedicata a Rimini
+    (Gabriel Garcia Marquez). Une chanson de l’été 1969 dedicata a Rimini pour
+    la musique e a M pour les numeros inoubliable
 
 
 type: rangliste
