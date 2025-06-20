@@ -15,9 +15,9 @@ song:
   url: https://www.youtube.com/watch?v=7Peh1BCD4Ik&pp=ygURYWRpZXUgam9saWUgY2FuZHk%3D
   image: img/img_0637.jpeg
   description: >+
-    Pour que tu ne dises pas que je pense toujours á cet la 🤫Une chanson de
+    Pour que tu ne dises pas que je pense toujours á cela l🤫Une chanson de
     l’été 19♋️ dedicata a Rimini pour la musique et á Mademoiselle M pour le(s)
-    numero(s) 🫢 inoubliable
+    numero(s) 🫢inoubliable
 
 
 type: rangliste
