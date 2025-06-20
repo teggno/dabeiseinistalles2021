@@ -16,8 +16,8 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Pour un sourire sur tes lèvres 👄 et pour que tu ne dises pas que je pense
-    toujours á cela 🤫 Une chanson de l’été 19♋️ dedicata a Rimini pour la
-    musique et á Mademoiselle M pour le(s) numero(s) 🫢inoubliable
+    toujours á cela 🤫 Une chanson de l’été 19♋️ dedicata a ma jeunesse pour la
+    musique et á Mademoiselle M pour ces numeros 🫢inoubliable
 
 
 type: rangliste
