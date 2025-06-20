@@ -15,8 +15,8 @@ song:
   url: https://www.youtube.com/watch?v=7Peh1BCD4Ik&pp=ygURYWRpZXUgam9saWUgY2FuZHk%3D
   image: img/img_0637.jpeg
   description: >+
-    Weine 🥲 nicht weil es vorbei ist - sondern lächle weil es so schön 👫 war
-    …..une chanson du 1969 dedicata a Rimini
+    Weine nicht weil es vorbei ist - sondern lächle weil es so schön war
+    (Gabriel Garcia Marquez). Une chanson de l’été 1969 dedicata a Rimini
 
 
 type: rangliste
