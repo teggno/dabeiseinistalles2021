@@ -11,12 +11,9 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 "
+  title: RAFFI‘S JUKEBOX   🎸 Come ti desidero ▶️ M
   url: https://www.youtube.com/watch?v=jU8JiR62hU8&pp=ygUYcG9vaCB0YW50YSB2b2dsaWEgZGkgbGVp
   image: img/img_0637.jpeg
-  description: |+
-    Come ti desidero….M….
-
-
+  description: "\n\n\n"
 type: rangliste
 ---
