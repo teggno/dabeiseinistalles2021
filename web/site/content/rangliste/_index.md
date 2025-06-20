@@ -14,6 +14,9 @@ song:
   title: RAFFI‘S JUKEBOX  🎸  ▶️
   url: https://www.youtube.com/watch?v=jU8JiR62hU8&pp=ygUYcG9vaCB0YW50YSB2b2dsaWEgZGkgbGVp
   image: img/img_0637.jpeg
-  description: "\n\n\n"
+  description: |+
+    Weine nicht weil es vorbei ist - sondern lächle weil es so schön war
+
+
 type: rangliste
 ---
