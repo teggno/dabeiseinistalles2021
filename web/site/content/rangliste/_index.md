@@ -16,7 +16,7 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Une chanson de l’été 19♋️ dedicata a ma jeunesse pour la musique et á
-    Mademoiselle M pour leurs numeros 🫢inoubliable
+    Mademoiselle M pour le(s)  numero(s) 🫢inoubliable
 
 
 type: rangliste
