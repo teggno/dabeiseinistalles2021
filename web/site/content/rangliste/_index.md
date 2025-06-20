@@ -15,8 +15,8 @@ song:
   url: https://www.youtube.com/watch?v=7Peh1BCD4Ik&pp=ygURYWRpZXUgam9saWUgY2FuZHk%3D
   image: img/img_0637.jpeg
   description: >+
-    Pour un sourir sur tes lèvres 👄 Pour que tu ne dises pas que je pense
-    toujours á cela 🤫Une chanson de l’été 19♋️ dedicata a Rimini pour la
+    Pour un sourire sur tes lèvres 👄 Pour que tu ne dises pas que je pense
+    toujours á cela 🤫 Une chanson de l’été 19♋️ dedicata a Rimini pour la
     musique et á Mademoiselle M pour le(s) numero(s) 🫢inoubliable
 
 
