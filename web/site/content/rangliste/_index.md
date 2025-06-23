@@ -16,7 +16,7 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Una canzone tua! Nachdenklich und unbeschwert zugleich. Ich glaube es lief
-    mal, als du ganz plötzlich den Spiegel 🙈hervorholtest. Ti sedevi su di me
+    mal, als du ganz plötzlich den Spiegel 🙈 hervorholtest. Ti sedevi su di me
     und wir hatten grossen Spass. Le mie mani uf dinä  haissä M🍊🍊 e tu che ti
     muovevi su e giu…..
 
