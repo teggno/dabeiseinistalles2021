@@ -15,7 +15,7 @@ song:
   url: https://www.youtube.com/watch?v=oK9N4GR0VvU&pp=ygUSdmFzY28gcm9zc2kgdG9mZmVl
   image: img/img_0637.jpeg
   description: |+
-    ….Ti voglio adesso…
+    ….Ti voglio adesso…dimmi che sei un po b…..a
 
 
 type: rangliste
