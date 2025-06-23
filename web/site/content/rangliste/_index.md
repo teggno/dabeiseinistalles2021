@@ -17,7 +17,7 @@ song:
   description: >+
     Una tua canzone! Nachdenklich und unbeschwert zugleich. Ich glaube sie lief
     mal, als du ganz plötzlich den Spiegel hervorgeholt hast. Ti sedevi su di me
-    und wir hatten grossen Spass. Lei mie mani uf dinä  haissä M…🍊🍊 e tu che
+    und wir hatten grossen Spass. Le mie mani uf dinä  haissä M…🍊🍊 e tu che
     giravi e giravi muovendoti su e giu
 
 
