@@ -11,8 +11,8 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Vasco Rossi 🪞 Toffee
-  url: https://www.youtube.com/watch?v=oK9N4GR0VvU&pp=ygUSdmFzY28gcm9zc2kgdG9mZmVl
+  title: RAFFI‘S JUKEBOX  🎸  🎶 👄 🎶
+  url: https://www.youtube.com/watch?v=iApH5EmTjwk&pp=ygUYcG9vaCB0YW50YSB2b2dsaWEgZGkgbGVp
   image: img/img_0637.jpeg
   description: |+
     ….Ti voglio adesso…dimmi che sei un po b…..a
