@@ -1,7 +1,7 @@
 ---
 title: Rangliste
 date: 2024-12-31T10:04:25.835Z
-image: img/scannen-2017-7-17-0006-1.jpeg
+image: img/img_0631.jpeg
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar
 
