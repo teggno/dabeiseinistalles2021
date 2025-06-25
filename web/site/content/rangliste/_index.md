@@ -16,7 +16,7 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Manchmal irrt man sich gewaltig! Glaubt felsenfest, dass er/sie auch mit von
-    der „Partie“ war. Bis man feststellt, dass es nur Wunschdenken war 😔
+    der „Partie“ ist. Bis man feststellt, dass es nur Wunschdenken war 😔
     Gabriel Garcia Marquez hat für solche Momente einen besonderen Satz kreiert:
     Weine nicht weil es vorbei ist 💋 sondern lächle weil es so schön war
 
