@@ -1,6 +1,6 @@
 ---
 title: Rangliste
-date: 2024-12-31T10:04:25.835Z
+date: 2025-06-25T09:45:06.072Z
 image: img/img_0631.jpeg
 showPlaceholder: false
 placeholder: "Diese Seite ist nicht mehr verfügbar
