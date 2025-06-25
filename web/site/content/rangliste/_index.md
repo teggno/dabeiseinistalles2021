@@ -15,7 +15,7 @@ song:
   url: https://www.youtube.com/watch?v=ILQlx-6oEYQ&list=RDILQlx-6oEYQ&start_radio=1&pp=ygUQZWxlb25vcmUgdHVydGxlc6AHAQ%3D%3D
   image: img/img_0637.jpeg
   description: |+
-    Weine nicht weil es vorbei ist - sondern lächle weil es so schön war
+    Weine nicht weil es vorbei ist 💋 sondern lächle weil es so schön war
 
 type: rangliste
 ---
