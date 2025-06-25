@@ -15,7 +15,7 @@ song:
   url: https://www.youtube.com/watch?v=ILQlx-6oEYQ&list=RDILQlx-6oEYQ&start_radio=1&pp=ygUQZWxlb25vcmUgdHVydGxlc6AHAQ%3D%3D
   image: img/img_0637.jpeg
   description: |+
-    More than 1️⃣0️⃣0️⃣0️⃣ words 💋
+    More than 1️⃣0️⃣0️⃣0️⃣ words 💋 
 
 type: rangliste
 ---
