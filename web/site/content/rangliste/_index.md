@@ -3,7 +3,7 @@ title: Rangliste
 date: 2024-12-31T10:04:25.835Z
 image: img/img_0631.jpeg
 showPlaceholder: false
-placeholder: "More than 1️⃣0️⃣0️⃣0️⃣ words 💋
+placeholder: "Diese Seite ist nicht mehr verfügbar
 
 
 
