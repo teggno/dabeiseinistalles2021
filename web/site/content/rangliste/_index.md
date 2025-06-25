@@ -11,7 +11,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 "
+  title: RAFFI‘S JUKEBOX  🎸  The Turtles ▶️ Eleonore
   url: https://www.youtube.com/watch?v=ILQlx-6oEYQ&list=RDILQlx-6oEYQ&start_radio=1&pp=ygUQZWxlb25vcmUgdHVydGxlc6AHAQ%3D%3D
   image: img/img_0637.jpeg
   description: "\n\n"
