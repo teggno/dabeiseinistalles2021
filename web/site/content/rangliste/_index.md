@@ -19,7 +19,7 @@ song:
     der „Partie“ ist. Bis man feststellt, dass es reines Wunschdenken war 😔
     Gabriel Garcia Marquez hat für solche Momente einen besonderen Satz
     geschaffen: Weine nicht weil es vorbei ist 🥲 sondern lächle weil es so
-    schön war💋
+    schön war 💋
 
 type: rangliste
 ---
