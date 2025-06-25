@@ -18,7 +18,7 @@ song:
     Manchmal irrt man sich gewaltig! Glaubt felsenfest, dass er/sie auch mit von
     der „Partie“ ist. Bis man feststellt, dass es nur Wunschdenken war 😔
     Gabriel Garcia Marquez hat für solche Momente einen besonderen Satz kreiert:
-    Weine nicht weil es vorbei ist 🥲 sondern lächle weil es so schön war 💋
+    Weine nicht weil es vorbei ist 🥲 sondern lächle weil es so schön war💋
 
 type: rangliste
 ---
