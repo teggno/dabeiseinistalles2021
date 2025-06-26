@@ -18,8 +18,7 @@ song:
     Sehr komplex! Du bist doch Skorpion 🦂 und nicht Waage ⚖️ Mi dai
     l’impressione, dass ich meine Feder ✍️ noch nicht beiseite legen soll. Mit
     51:49 ist das Resultat allerdings äusserst knapp ausgefallen. Und dieses
-    „und noch viel mehr“….. kannst du es evtl. in ein paar Emojis
-    darstellen….🤷‍♂️
+    „und noch viel mehr“….. erklär es mir doch mit ein paar Emojis….
 
 type: rangliste
 ---
