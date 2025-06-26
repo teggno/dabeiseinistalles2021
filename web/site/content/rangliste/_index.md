@@ -15,8 +15,9 @@ song:
   url: https://www.youtube.com/watch?v=m_qVhBzAoYk&list=RDm_qVhBzAoYk&start_radio=1&pp=ygUdb3ZlciBteSBzaG91bGRlciBwYXVsIGNhcnJhY2ugBwE%3D
   image: img/img_0637.jpeg
   description: >+
-    Una bomba 💣 come te……dann das Haus 🏠und ein Flirt😘…..ich bin zu blöd
-    ….Hilfe🆘 kannst du mir weiterhelfen….
+    Nächster Versuch: Il Gruftie (io) e la Teenagerin (tu) verbreiten zuhause
+    eine Bombenstimmung wenn zu sehr über 😘 alte Zeiten geredet wird….kalt oder
+    warm 🤷‍♂️
 
 type: rangliste
 ---
