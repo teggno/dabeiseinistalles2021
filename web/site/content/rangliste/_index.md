@@ -15,11 +15,10 @@ song:
   url: https://www.youtube.com/watch?v=m_qVhBzAoYk&list=RDm_qVhBzAoYk&start_radio=1&pp=ygUdb3ZlciBteSBzaG91bGRlciBwYXVsIGNhcnJhY2ugBwE%3D
   image: img/img_0637.jpeg
   description: >+
-    Nächster Versuch: la Teenagerin (tu) e il Gruftie (io) verbreiten zuhause
-    eine Bombenstimmung wenn zu sehr über alte Zeiten geredet wird….kalt oder
-    warm 🤷‍♂️……PS: Falls mir wieder mal eine Geschichte einfallen
-    sollte……kannst du sie ja kurz mit einem Emoji bewerten…..du kennst dich da
-    ja bestens aus
+    Nächster Versuch: la Teenagerin e il Gruftie verbreiten zuhause eine
+    Bombenstimmung wenn zu sehr über alte Zeiten geredet wird….kalt oder warm
+    🤷‍♂️……PS: Falls mir wieder mal eine Geschichte einfallen sollte……kannst du
+    sie ja kurz mit einem Emoji bewerten…..du kennst dich da ja bestens aus
 
 type: rangliste
 ---
