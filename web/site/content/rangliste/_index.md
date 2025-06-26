@@ -17,7 +17,7 @@ song:
   description: >+
     Hätte nie gedacht, dass ich irgendwann auf KI zurückgreifen muss. Ob das nun
     die tatsächliche Version ist? Meine sieht so aus: Teenagerin M + Gruftie R
-    verbreiten zuhause eine Bombenstimmung, wenn sie über alte Zeiten reden 🤫
+    verbreiten zuhause eine „Bombenstimmung“ wenn sie über alte Zeiten reden 🤫
     wie ist denn deine …..PS: Schick mir mal ein Emoji wenn du in Stimmung 🔥
     bist…..mir geht’s gerade wie den Pooh….
 
