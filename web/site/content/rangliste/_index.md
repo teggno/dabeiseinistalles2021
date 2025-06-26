@@ -18,7 +18,7 @@ song:
     M (Teenager) + R (Gruftie) das ist so aufregend und toll, dass ich dir einen
     Kuss aus meinem Zuhause schicke oder 
 
-    Möglichkeit 2 la Teenagerin e il Gruftie verbreiten zuhause eine Bombenstimmung wenn zu sehr über alte Zeiten geredet wird….was nun von beiden 🤷‍♂️
+    Möglichkeit 2 la Teenagerin e il Gruftie verbreiten zuhause eine derartige Bombenstimmung wenn über alte Zeiten geredet wird….was nun von beiden 🤷‍♂️
 
 type: rangliste
 ---
