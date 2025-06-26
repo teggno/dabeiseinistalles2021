@@ -14,8 +14,9 @@ song:
   title: RAFFI‘S JUKEBOX  🎸   ⚡️⚡️⚡️  ▶️ 🎶🎶🎶
   url: ""
   image: img/img_0637.jpeg
-  description: |+
-    Adesso ho capito!  Das hier 🎉 hat mich damals verwirrt…..
+  description: >+
+    Adesso ho capito!  Das hier 🎉 hat mich damals leider verwirrt…..schien wie
+    eine „Einladung“….
 
 type: rangliste
 ---
