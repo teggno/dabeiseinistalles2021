@@ -11,8 +11,8 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸   Ein paar Takte  ▶️  live aus dem Hallenstadion 😎
-  url: https://www.youtube.com/watch?v=m_qVhBzAoYk&list=RDm_qVhBzAoYk&start_radio=1&pp=ygUdb3ZlciBteSBzaG91bGRlciBwYXVsIGNhcnJhY2ugBwE%3D
+  title: "RAFFI‘S JUKEBOX  🎸     ▶️ "
+  url: ""
   image: img/img_0637.jpeg
   description: >+
     Nächster Versuch: la Teenagerin e il Gruftie verbreiten zuhause eine
