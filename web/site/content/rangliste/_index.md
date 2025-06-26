@@ -11,7 +11,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Per La Sphinx   ▶️   🎶🎶🎶
+  title: RAFFI‘S JUKEBOX  🎸  Für die Sphinx   ▶️   🎶🎶🎶
   url: https://www.youtube.com/watch?v=m_qVhBzAoYk&list=RDm_qVhBzAoYk&start_radio=1&pp=ygUdb3ZlciBteSBzaG91bGRlciBwYXVsIGNhcnJhY2ugBwE%3D
   image: img/img_0637.jpeg
   description: >+
