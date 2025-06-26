@@ -11,7 +11,7 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  🎰  ▶️   🎉 👎 🤔
+  title: RAFFI‘S JUKEBOX  🎸  Cosi difficile 🤷‍♂️  ▶️   🎉 👎 🤔
   url: https://www.youtube.com/watch?v=2E8EKEFQ_vU&list=RD2E8EKEFQ_vU&start_radio=1&pp=ygUdbWluYSBjb24gdGUgZG92csOyIGNvbWJhdHRlcmWgBwE%3D
   image: img/img_0637.jpeg
   description: >+
