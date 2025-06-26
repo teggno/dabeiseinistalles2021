@@ -14,8 +14,9 @@ song:
   title: RAFFI‘S JUKEBOX  🎸   Ein paar Takte  ▶️  live aus dem Hallenstadion 😎
   url: https://www.youtube.com/watch?v=m_qVhBzAoYk&list=RDm_qVhBzAoYk&start_radio=1&pp=ygUdb3ZlciBteSBzaG91bGRlciBwYXVsIGNhcnJhY2ugBwE%3D
   image: img/img_0637.jpeg
-  description: |+
-    Wenn du mal in Stimmungslage 💥 bist…..jetzt versuche ich mal zu entziffern
+  description: >+
+    Wenn du mal in der Stimmungslage 💥 bist…..ich habe ja keinen
+    Zauberstab…….jetzt versuche ich mal zu entziffern…..
 
 type: rangliste
 ---
