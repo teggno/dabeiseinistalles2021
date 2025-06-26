@@ -17,8 +17,7 @@ song:
   description: >+
     Nächster Versuch: la Teenagerin e il Gruftie verbreiten zuhause eine
     Bombenstimmung wenn zu sehr über alte Zeiten geredet wird….kalt oder warm
-    🤷‍♂️……PS: Falls mir wieder mal eine Geschichte einfallen sollte……kannst du
-    sie ja kurz mit einem Emoji bewerten…..du kennst dich da ja bestens aus
+    🤷‍♂️……
 
 type: rangliste
 ---
