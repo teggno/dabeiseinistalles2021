@@ -15,8 +15,8 @@ song:
   url: ""
   image: img/img_0637.jpeg
   description: >+
-    Adesso ho capito!  Der Satz „back on stage“ mit diesem hier 🎉 hat
-    mich  leider verwirrt
+    Adesso ho capito!  Den Satz „back on stage“ mit diesem hier 🎉 habe ich
+    total missverstanden.
 
 type: rangliste
 ---
