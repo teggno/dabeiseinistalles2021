@@ -16,8 +16,8 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Hätte nie gedacht, dass ich irgendwann auf KI zurückgreifen muss. Ob das nun
-    die tatsächliche Version ist? Meine sieht so aus: Teenagerin M + Gruftie R
-    verbreiten zuhause eine „Bombenstimmung“ wenn sie über alte Zeiten
+    die tatsächliche Version ist? Meine sieht etwa so aus: Teenagerin M +
+    Gruftie R verbreiten zuhause eine „Bombenstimmung“ wenn sie über alte Zeiten
     reden…..wie ist denn deine …..PS: Schick mir mal ein Emoji wenn du in
     Stimmung bist…..ich muss spüren dass du die Geschichten magst …..
 
