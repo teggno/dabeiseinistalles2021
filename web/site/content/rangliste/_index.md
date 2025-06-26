@@ -15,8 +15,8 @@ song:
   url: ""
   image: img/img_0637.jpeg
   description: >+
-    M (Teenager) + R (Gruftie) das ist so aufregend und toll, ich schicke dir
-    einen Kuss aus meinem Zuhause oder 
+    M (Teenager) + R (Gruftie) das ist so aufregend und toll, dass ich dir einen
+    Kuss aus meinem Zuhause schicke oder 
 
     Möglichkeit 2 la Teenagerin e il Gruftie verbreiten zuhause eine Bombenstimmung wenn zu sehr über alte Zeiten geredet wird….was nun von beiden 🤷‍♂️
 
