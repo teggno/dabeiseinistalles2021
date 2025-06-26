@@ -11,12 +11,12 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸   ▶️
+  title: "RAFFI‘S JUKEBOX  🎸   ▶️ Buonanotte "
   url: ""
   image: img/img_0637.jpeg
   description: >+
-    Adesso ho capito!  Das hier 🎉 hat mich damals leider verwirrt…..schien wie
-    eine „Einladung“….
+    Adesso ho capito!  Der Satz „back on stage“ mit diesem hier 🎉 hat
+    mich  leider verwirrt…..Sah wie eine „Einladung“ aus…..
 
 type: rangliste
 ---
