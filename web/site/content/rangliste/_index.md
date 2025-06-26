@@ -15,10 +15,9 @@ song:
   url: ""
   image: img/img_0637.jpeg
   description: >+
-    KI meint: M (Teenager) + R (Gruftie) das ist so aufregend und toll, dass ich
-    dir einen Kuss aus meinem Zuhause schicke oder 
-
-    meine Version: la Teenagerin e il Gruftie verbreiten zuhause eine derartige Bombenstimmung wenn über alte Zeiten geredet wird….was nun von beiden 🤷‍♂️……
+    KI Übersetzung  oder eher meine Version: la Teenagerin e il Gruftie
+    verbreiten zuhause eine derartige Bombenstimmung wenn über alte Zeiten
+    geredet wird….oder gibt es noch eine andere ….PS
 
 type: rangliste
 ---
