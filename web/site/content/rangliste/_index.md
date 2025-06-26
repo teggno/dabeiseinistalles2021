@@ -15,9 +15,10 @@ song:
   url: ""
   image: img/img_0637.jpeg
   description: >+
-    Nächster Versuch: la Teenagerin e il Gruftie verbreiten zuhause eine
-    Bombenstimmung wenn zu sehr über alte Zeiten geredet wird….kalt oder warm
-    🤷‍♂️……
+    M (Teenager) + R (Gruftie) das ist so aufregend und toll, ich schicke dir
+    einen Kuss aus meinem Zuhause oder 
+
+    Möglichkeit 2 la Teenagerin e il Gruftie verbreiten zuhause eine Bombenstimmung wenn zu sehr über alte Zeiten geredet wird….was nun von beiden 🤷‍♂️
 
 type: rangliste
 ---
