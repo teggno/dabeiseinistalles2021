@@ -11,8 +11,8 @@ placeholder: "Diese Seite ist nicht mehr verfügbar
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  More than 1️⃣0️⃣0️⃣0️⃣ words ▶️
-  url: https://www.youtube.com/watch?v=ILQlx-6oEYQ&list=RDILQlx-6oEYQ&start_radio=1&pp=ygUQZWxlb25vcmUgdHVydGxlc6AHAQ%3D%3D
+  title: RAFFI‘S JUKEBOX  🎸  🎰  ▶️   🎉 👎 🤔
+  url: https://www.youtube.com/watch?v=2E8EKEFQ_vU&list=RD2E8EKEFQ_vU&start_radio=1&pp=ygUdbWluYSBjb24gdGUgZG92csOyIGNvbWJhdHRlcmWgBwE%3D
   image: img/img_0637.jpeg
   description: >+
     Manchmal irrt man sich gewaltig! Glaubt felsenfest, dass er/sie auch mit von
