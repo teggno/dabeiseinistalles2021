@@ -16,7 +16,8 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Adesso ho capito!  Der Satz „back on stage“ mit diesem hier 🎉 hat
-    mich  leider verwirrt…..Sah wie eine „Einladung“ aus…..
+    mich  leider verwirrt…..Sah wie eine „Einladung“ aus…..Das hier  👎 wäre
+    vielleicht besser gewesen
 
 type: rangliste
 ---
