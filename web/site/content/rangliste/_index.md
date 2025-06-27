@@ -14,9 +14,6 @@ song:
   title: "RAFFI‘S JUKEBOX  🎸   ▶️ "
   url: ""
   image: img/img_0637.jpeg
-  description: >+
-    Adesso ho capito!  Den Satz „back on stage“ mit diesem hier 🎉 habe ich
-    total missverstanden.
-
+  description: "\n\n"
 type: rangliste
 ---
