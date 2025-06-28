@@ -1,6 +1,6 @@
 ---
 title: Rangliste
-date: 2025-06-27T03:23:55.822Z
+date: 2025-06-28T16:21:39.959Z
 image: ""
 showPlaceholder: true
 placeholder: "\nError 404 page not found\n\n\n "
