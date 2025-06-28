@@ -3,7 +3,7 @@ title: Rangliste
 date: 2025-06-27T03:23:55.822Z
 image: ""
 showPlaceholder: true
-placeholder: "\n\n\n\n "
+placeholder: "\nError 404 page not found\n\n\n "
 song:
   title: "RAFFI‘S JUKEBOX  🎸   ▶️ "
   url: ""
