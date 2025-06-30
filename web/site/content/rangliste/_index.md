@@ -3,7 +3,13 @@ title: Rangliste
 date: 2025-06-28T16:21:39.959Z
 image: ""
 showPlaceholder: true
-placeholder: "\noff stage forever 🎉\n\n\n "
+placeholder: "
+
+  Diese Seite ist nicht mehr verfügbar\ 
+
+
+
+  \ "
 song:
   title: "RAFFI‘S JUKEBOX  🎸   ▶️ "
   url: ""
