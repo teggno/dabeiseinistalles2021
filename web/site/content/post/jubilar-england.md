@@ -4,7 +4,7 @@ draft: true
 date: 2025-04-27T07:51:44.567Z
 image: img/img_0687.jpeg
 ---
-Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 1982+2006, Brasilien 1958+1970, Deutschland 1974 und Argentinien 1978 figurieren in meinem Gedächtnis ganz zuoberst. In diesen Tagen konzentrieren sich meine nächtlichen „Ausflüge“  im speziellen auf England sixtysix und jene 11 Akteure, die damals von Königin Elisabeth zu „Sirs of the British Empire“ geschlagen wurden.
+Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 1982+2006, Brasilien 1958+1970, Deutschland 1974 und Argentinien 1978 sind in meinem Gedächtnis zuoberst angesiedelt. In diesen Tagen konzentrieren sich meine nächtlichen „Ausflüge“  auf England nineteensixtysix! Hier nochmals jene 11 Akteure, die nach Erringen des WM-Titels von Königin Elisabeth zu „Sirs of the British Empire“ geschlagen wurden.
 
 Gordon Banks; George Cohen, Bobby Moore, Jack Charlton, Ray Wilson; Alan Ball, Nobby Stiles, Bobby Charlton, Martin Peters; Geoff Hurst und Roger Hunt.
 
