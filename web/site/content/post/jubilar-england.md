@@ -4,7 +4,7 @@ draft: true
 date: 2025-04-27T07:51:44.567Z
 image: img/img_0687.jpeg
 ---
-Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Brasilien 1958+1970, Deutschland 1974, Argentinien 1978 und natürlich Italien 1982+2006 sind in meinem Gedächtnis besonders haftengeblieben. In diesen Tagen konzentrieren sich meine nächtlichen „Ausflüge“  auf England nineteensixtysix und jene 11 Akteure, die nach Erringen des WM-Titels von Königin Elisabeth zu „Sirs of the British Empire“ geschlagen wurden. Für die Teenies unter uns wahrscheinlich „Neuland“! Für die Grufties ein Bad in der Nostalgie!
+Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Brasilien 1958+1970, Deutschland 1974, Argentinien 1978 und natürlich Italien 1982+2006 sind in meinem Gedächtnis besonders haftengeblieben. In diesen Tagen konzentrieren sich meine nächtlichen „Ausflüge“  auf England nineteensixtysix und jene 11 Akteure, die nach Erringen des WM-Titels von Königin Elisabeth zu „Sirs of the British Empire“ geschlagen wurden. Für die Teenies unter uns wahrscheinlich „Neuland“! Für die Grufties ein willkommenes Bad in der Nostalgie!
 
 Gordon Banks; George Cohen, Bobby Moore, Jack Charlton, Ray Wilson; Alan Ball, Nobby Stiles, Bobby Charlton, Martin Peters; Geoff Hurst und Roger Hunt.
 
