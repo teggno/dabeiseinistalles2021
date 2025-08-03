@@ -4,11 +4,11 @@ draft: true
 date: 2025-04-27T07:51:44.567Z
 image: img/img_0687.jpeg
 ---
-Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 1982+2006, Brasilien 1958+1970, Deutschland 1974 und Argentinien 1978 sind in meinem Gedächtnis besonders haftengeblieben. In diesen Tagen konzentrieren sich meine nächtlichen „Ausflüge“  auf England nineteensixtysix und jene 11 Akteure, die nach Erringen des WM-Titels von Königin Elisabeth zu „Sirs of the British Empire“ geschlagen wurden.
+Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Italien 1982+2006, Brasilien 1958+1970, Deutschland 1974 und Argentinien 1978 sind in meinem Gedächtnis besonders haftengeblieben. In diesen Tagen konzentrieren sich meine nächtlichen „Ausflüge“  auf England nineteensixtysix und jene 11 Akteure, die nach Erringen des WM-Titels von Königin Elisabeth zu „Sirs of the British Empire“ geschlagen wurden. Für die Teenies unter uns wahrscheinlich „Neuland“! Für die Grufties ein Bad in der Nostalgie!
 
 Gordon Banks; George Cohen, Bobby Moore, Jack Charlton, Ray Wilson; Alan Ball, Nobby Stiles, Bobby Charlton, Martin Peters; Geoff Hurst und Roger Hunt.
 
-Das Schicksal wollte es so, dass 60 Jahre danach nur noch einer der einst Geadelten am Leben ist: Sir Geoff Hurst! Ihm war es vergönnt im Finale dreimal einzunetzen! Dank seines „Wembley-Tores“ war er lebenslänglich mit der Frage konfrontiert, ob der Ball nun vor oder hinter der Linie aufsprungen sei. „Yes, I‘am sure, die Kugel war drin“, hat er stets zu Protokoll gegeben. Sie war es nicht, wie sich später dank weiterentwickelter Technik herausstellen sollte.
+Das Schicksal wollte es so, dass 60 Jahre danach nur noch einer der einst Geadelten am Leben ist: Sir Geoff Hurst! Ihm war es vergönnt im Finale dreimal einzunetzen! Dank seines „Wembley-Tores“ war er lebenslänglich mit der Frage konfrontiert, ob der Ball nun vor oder hinter der Linie aufsprungen war. „Yes, I‘am sure, die Kugel war drin“, hat er stets zu Protokoll gegeben. Sie war es nicht, wie sich später dank weiterentwickelter Technik herausstellen sollte.
 
 An dieser fussballhistorisch bedeutsamen Stelle muss es selbstverständlich Pflicht sein, einen Nebensatz einzuflechten. Damals am 30. Juli 1966 hievten sich nämlich zwei weitere Nebendarsteller fast gleichzeitig ins Rampenlicht. Schiedsrichter Gottfried Dienst und Linienrichter Tofik Bahramov! Beide kamen nach einem schweizerdeutsch-russischen Wortwechsel überein, dass der Ball die Linie um wenige Zentimeter überquert hatte. Auf der Anzeigetafel erschien unwiderruflich das vorentscheidende 3:2! Böse Zungen behaupten, dass die einstmals grosse Liebe zwischen Germanen und Eidgenossen genau in diesem Moment in die Brüche ging.
 
