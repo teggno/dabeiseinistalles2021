@@ -14,4 +14,4 @@ Dann war da noch diese verdammte Sucht! Kartenspielen in allen Variationen. Spä
 
 Einmal noch, im November 2020 bin ich von der Strasse abgekommen. Erotik in Worten ist etwas Aufregendes! Mit Stefania habe ich alles erlebt, was man sich vorstellen kann. Es fing an mit „ich begehre dich“!  Due pazzi, die es nicht mehr lassen konnten. Morgens, mittags und abends. Manchmal die halbe Nacht!  Ancora, ancora, ancora war unser Leitmotiv! Alles nur in der Phantasie! Wir kamen, ohne uns körperlich nahe zu kommen. Dann hat sie kalte Füsse bekommen oder es wurde ihr zu langweilig! Aufgeflogen ist es trotzdem! Ich weiss nicht, wie ich heil aus der Sache herausgekommen bin. Lilly ist bei mir geblieben und dafür bin ich ihr sehr dankbar.
 
-Nun bin ich in der „alles ist mir egal-Phase“ angelangt. Ich frage nach dem Sinn des Lebens und bin ziemlich schlecht drauf. Mir fehlen die Highlights von damals. Yesterday when I was young!
+Nun bin ich in der „alles ist mir egal-Phase“ angelangt. Ich frage nach dem Sinn des Lebens und bin ziemlich schlecht drauf. Mir fehlen die Highlights von damals. Ich sehne mich nach „Yesterday when I was young!“
