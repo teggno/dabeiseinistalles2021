@@ -1,7 +1,7 @@
 ---
 title: Du Traumtänzer, du!
 draft: false
-date: 2025-08-09T14:47:57.421Z
+date: 2025-08-12T23:17:51.032Z
 image: img/img_0631.jpeg
 ---
 Am Mittwoch den 5. Oktober 1955 abends um acht bin ich In der Klinik von Dr Juchli in Kreuzlingen zur Welt gekommen. Kaum da, soll ich vom Wickeltisch gefallen sein. Die Nachwehen sind bis heute zu spüren. Meine Eltern waren ein „Traumpaar“. Vater Waisenkind, Mutter von Heimweh geplagt. Beide stammten aus Ottaviano einem kleinen Vorort von Neapel. Nein, sie waren nicht füreinander geschaffen. Er ein waschechter „Schwiizär“, sie eine enttäuschte Neapolitanerin, die ihre grosse Liebe, den schönen „maresciallo“, an eine andere verloren hatte. Streitereien waren an der Tagesordnung. Scheidungsrichtertermine hatten Hochkonjunktur. Den endgültigen Schritt haben sie nie gewagt. Auch wegen meiner Schwester, die weder Mamma noch Papa verlieren wollte.
