@@ -4,7 +4,7 @@ draft: true
 date: 2025-08-12T23:17:51.032Z
 image: img/img_0631.jpeg
 ---
-Mittwoch 5. Oktober 1955! In der Klinik Juchli in Kreuzlingen laufen die Vorbereitungen auf Hochtouren. Punkt 20 Uhr ist es dann soweit. Kaum da, soll ich Baby gleich vom Wickeltisch auf den Kopf gefallen sein. Ein Einstand nach Mass. Die Nachwehen sind bis heute zu spüren.
+Mittwoch 5. Oktober 1955! In der Klinik Juchli in Kreuzlingen laufen die Vorbereitungen auf Hochtouren. Punkt 20 Uhr ist es dann soweit. Kaum da, soll ich Baby gleich vom Wickeltisch gefallen sein. Ein Einstand nach Mass. Die Nachwehen sind bis heute zu spüren.
 
 Meine Eltern waren ein „Traumpaar“. Vater laut Überlieferungen ein Waisenkind, (ich hab das Märchen nur zur Hälfte geglaubt) Mutter vom Heimweh geplagt. Beide stammten aus Ottaviano einem kleinen Vorort von Neapel. Er war schon im Jahre 1930 als kleiner Knirps mit seinen Pflegeeltern in die Schweiz ausgewandert. Nach regem Briefverkehr ist sie ihm im Jahre 1953 nach dem plötzlichen Tod ihrer geliebten Mutter fast widerwillig gefolgt. 1954 haben die beiden in Pompei geheiratet. Ihr Vater und ihr Bruder sind dann 1955 ebenfalls nach Kreuzlingen übergesiedelt. So fühlte sie sich einigermassen geborgen. Nein, meine Eltern waren nicht füreinander geschaffen. Er ein waschechter „Schwiizär“, sie eine enttäuschte Neapolitanerin, die ihre grosse Liebe, den schönen „maresciallo“, an eine andere verloren hatte. Streitereien waren an der Tagesordnung. Termine beim Scheidungsrichter hatten Hochkonjunktur. Den endgültigen Schritt haben sie nie gewagt. Auch wegen meiner Schwester, die weder Mamma noch Papa verlieren wollte.
 
