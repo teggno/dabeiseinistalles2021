@@ -1,5 +1,5 @@
 ---
-title: Neues Spiel 🎲 Neues Glück
+title: Liebling 🥰 so nicht!
 draft: true
 date: 2025-08-28T10:21:08.254Z
 image: img/img_0702.jpeg
