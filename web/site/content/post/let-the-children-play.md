@@ -8,4 +8,6 @@ Durchschnittsalter 69! Zum Glück sind ein paar Teenies dabei, die die Zahl nach
 
 Wenn 99 Zettel verteilt wurden und genauso viele den Weg zurück in meinen Briefkasten fanden, ist offiziell das Fieber ausgebrochen. Fast tausend Piepen wollen verteilt werden. Da tummeln sich altbekannte Gesichter, die schon bei der Erstauflage 2004 ihr Glück versuchten. Alle 99 wären in der Lage, auf dem Rummelplatz das Goldengoal zu schiessen! Doch nur einer wird gewinnen! Kuli lässt grüssen! Das goldene Näschen gepaart mit der unabdingbaren “Fortuna“, war schon immer die halbe Miete. Wer sich nicht traute einen Purzelbaum zu schlagen, wird höchstwahrscheinlich in der Anonymität verschwinden.
 
-Lilly hat auch dieses Mal alles dafür getan um uns 2 unter „fernerliefen“ aufzutauchen zu lassen. Kürzlich präsentierte sie mir die „Rechnung“. Hier ist sie, einsehbar für jedermann!
+Lilly hat auch dieses Mal alles dafür getan um uns 2 unter „fernerliefen“ aufzutauchen zu lassen. Kürzlich präsentierte sie mir die „Rechnung“. Hier ist sie, einsehbar für jedermann! ……………."………….
+
+PS: Die Zeitverschiebung dürfte mir in den nächsten Wochen das eine oder andere Schnippchen schlagen. Bis tief in die Nacht die vielen Höhepunkte aufzuschnappen und sie am anderen Morgen in Worte zu kleiden ist in meinem fortgeschrittenen Alter ein Ding der Unmöglichkeit. Daher bitte ich euch um Nachsicht, wenn ich vom Schlaf übermannt werde und sich die Artikel ab und zu verspäten.
