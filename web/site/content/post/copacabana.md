@@ -2,7 +2,7 @@
 title: "Copacabana "
 draft: true
 date: 2025-09-04T12:40:04.068Z
-image: img/img_0706.jpeg
+image: ""
 ---
 Wer im Sand die Kugel hundertmal hochhalten kann, ist noch lange kein Star! Sonst wären die Brasilianer Weltmeister auf Lebzeiten! Ihr Heilsbringer Carlo Ancelotti, auserkoren um die lange Durststrecke zu beenden, steht vor einer heiklen Aufgabe. Seit 2002 hat die Coppa dell Mondo nie mehr am Zuckerhut halt gemacht. Neymar ist kein Ronaldo, geschweige denn ein Pelé und seine Untertanen sind bis auf Allison und Vinicius  biederes Mittelmass. Vergeblich hält man Ausschau nach einem neuen „Garrincha“, die Verdeoros sind zu stromförmig geworden. War einst die Dribblekunst das Mass aller Dinge, ist Defensivstärke und Ballbesitz das Gebot der Stunde. So sehr ich Carlo auch mag, der oft im richtigen Moment am richtigen Ort war, mit diesem Kader traue ich ihm höchstens das Viertelfinale zu.
 
