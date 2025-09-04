@@ -10,4 +10,4 @@ Wenn 99 Zettel verteilt wurden und genauso viele den Weg zurück in meinen Brief
 
 Lilly hat auch dieses Mal alles dafür getan um uns 2 unter „fernerliefen“ aufzutauchen zu lassen. Kürzlich präsentierte sie mir die „Rechnung“. Hier ist sie, einsehbar für jedermann! ……………."………….
 
-PS: Die Zeitverschiebung dürfte mir in den nächsten Wochen das eine oder andere Schnippchen schlagen. Bis tief in die Nacht die vielen Höhepunkte aufzuschnappen und sie am anderen Morgen in Worte zu kleiden ist in meinem fortgeschrittenen Alter ein Ding der Unmöglichkeit. Daher bitte ich euch um Nachsicht, wenn ich vom Schlaf übermannt werde und sich die Artikel ab und zu verspäten.
+PS: Die Zeitverschiebung dürfte mir in den nächsten Wochen das eine oder andere Schnippchen schlagen. Bis tief in die Nacht die vielen Höhepunkte aufzuschnappen und sie am Morgen in Worte zu kleiden ist in meinem fortgeschrittenen Alter ein Ding der Unmöglichkeit. Daher bitte ich euch um Nachsicht, wenn ich vom Schlaf übermannt werde und sich die Artikel ab und zu verspäten.
