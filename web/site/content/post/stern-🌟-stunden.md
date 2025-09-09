@@ -15,4 +15,4 @@ date: 2025-09-09T10:10:11.371Z
 
 1958 sind die Tränen der Sambatänzer endlich getrocknet! Didi-Vava-Garrincha und der erst 17 jährige Edson do Santos de Nascimento, alias Pelé hatten den Zuckerhut dank ihres spektakulären Offensivfussballs fast zum Schmelzen gebracht. Das 4-2-4 war geboren!
 
-1962 und die Rauhbeine! Platzverweise en masse, die noch nicht mit roter Karte angezeigt wurden. Chile-Italien war der Höhepunkt. Wieder Brasilien dank Fliegenfänger Schroif und Pel-Vertreter Amarildo, der das Wunderkind würdig vertreten hatte.
+1962 war die WM der Platzverweise. Grätschen gehörten zum guten Ton und wilde Schlägereien sorgten für Abwechslung. Chile-Italien war der Tiefpunkt. Brasilien gelang es, den Tutel zu verteidigen. Auch ohne den verletzten Pelé, der durch  Amarildo würdig vertreten wurde.
