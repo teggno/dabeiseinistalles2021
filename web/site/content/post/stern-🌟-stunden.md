@@ -1,5 +1,5 @@
 ---
-title: Stern 🌟 stunden
+title: Stern 🌟 stunden - Teil 1
 draft: true
 date: 2025-09-09T10:10:11.371Z
 ---
