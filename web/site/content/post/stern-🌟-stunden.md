@@ -15,4 +15,4 @@ date: 2025-09-09T10:10:11.371Z
 
 1958 sind die Tränen der Sambatänzer endlich getrocknet! Didi-Vava-Garrincha und der erst 17 jährige Edson do Santos de Nascimento, alias Pelé hatten den Zuckerhut fast zum Schmelzen gebracht. Offensivfussball erster Güte. Die Welt sprach nur noch vom bahnbrechenden 4-2-4!
 
-1962 und die Rauhbeine! Platzverweise en masse, die noch nicht mit roter Karte angezeigt wurden. Chile-Italien war der Höhepunkt. Wieder Brasilien dank Fliegenfänger Schroif und ohne ihr verletztes Wunderkind Pelé, der sich durch Amarildo würdig vertreten liess.
+1962 und die Rauhbeine! Platzverweise en masse, die noch nicht mit roter Karte angezeigt wurden. Chile-Italien war der Höhepunkt. Wieder Brasilien dank Fliegenfänger Schroif und Pel-Vertreter Amarildo, der das Wunderkind würdig vertreten hatte.
