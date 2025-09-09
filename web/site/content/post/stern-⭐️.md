@@ -1,5 +1,5 @@
 ---
-title: "Stern ⭐️ "
+title: Stern ⭐️ Stunden Teil 2
 draft: true
 date: 2025-09-09T11:42:41.153Z
 ---
