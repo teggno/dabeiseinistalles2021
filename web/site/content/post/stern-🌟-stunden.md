@@ -16,7 +16,7 @@ image: img/img_0709.jpeg
 
 1958 sind die Tränen der Sambatänzer endlich getrocknet! Didi-Vava-Garrincha und der erst 17 jährige Edson do Santos de Nascimento, alias Pelé hatten den Zuckerhut dank ihres spektakulären Offensivfussballs fast zum Schmelzen gebracht. Das 4-2-4 war geboren!
 
-1962 war die WM der Platzverweise. Grätschen gehörten zum guten Ton und wilde Schlägereien sorgten für Abwechslung. Chile-Italien war der Tiefpunkt. Den Brasilianern gelang es, ihren Titel souverän zu verteidigen. Auch ohne den verletzten Pelé, der durch Amarildo würdig vertreten wurde. Spieler des Turniers war allerdings Rechtsaussen Garrincha, der noch heute als DER Dribblekönig par excellence gilt.
+1962 war die WM der Platzverweise. Grätschen gehörten zum guten Ton und wilde Schlägereien sorgten für Abwechslung. Chile-Italien war der Tiefpunkt. Den Brasilianern gelang es, ihren Titel souverän zu verteidigen. Auch ohne den verletzten Pelé, der durch Amarildo würdig vertreten wurde. Spieler des Turniers war allerdings Rechtsaussen Garrincha, der noch heute als DER Dribbelkönig par excellence gilt.
 
 1966 gab sich Queen Elisabeth die Ehre den Jungs um Kapitän Bobby Moore die Hände zu schütteln. Dass es bis heute Englands einziger Triumph an Europa- und Weltmeisterschaften bleiben würde, darf als Ironie des Schicksals bezeichnet werden. Ganz lupenrein war der Sieg allerdings nicht. Die genauen Umstände haben Schiedsrichter Dienst und Linienrichter Bachramov mit ins Grab genommen. 
 
