@@ -5,7 +5,7 @@ date: 2025-09-09T10:10:11.371Z
 ---
 1930! Premierenstimmung in Montevideo! Viele reisen mit dem Schiff an. Schliesslich gehen 13 Mannschaften an den Start. Die Urus machen sich ihren Heimvorteil zunutze und schreiben sich als erste auf dem Jules-Rimet-Pokal ein. 
 
-1934 ist Italien an der Reihe. Trainer Vittorio Pozzo baut auf Torhüter Combi und seine beiden Ausnahmestürmer Orsi und Meazza.
+1934 ist Italien an der Reihe. Trainer Vittorio Pozzo baut auf Torhüter Combi und seine beiden Ausnahmestürmer Orsi und Meazza. Im Finale haben die Tschechen das Nachsehen.
 
 1938 legt die Squadra Azzurra nach! Dieses Mal ist es Silvio Piola der mit 2 Endspiel-Treffern die Franzosen in die Knie zwingt! Dann ist Krieg und hintereinander fallen die Weltmeisterschaften 1942 und 1946 aus. 
 
