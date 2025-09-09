@@ -2,6 +2,7 @@
 title: Stern 🌟 stunden Teil 1
 draft: true
 date: 2025-09-09T10:10:11.371Z
+image: img/img_0709.jpeg
 ---
 1930! Aufbruchstimmung in Montevideo! Die Premiere steht vor der Tür. Viele reisen mit dem Schiff an. Schliesslich gehen 13 Mannschaften an den Start. Die Urus machen sich ihren Heimvorteil zunutze und schreiben sich als erste auf dem Jules-Rimet-Pokal ein. 
 
