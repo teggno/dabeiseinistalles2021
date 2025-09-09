@@ -13,6 +13,6 @@ date: 2025-09-09T10:10:11.371Z
 
 1954 redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der Deutschen gewesen sein muss, belegt die Tatsache, dass Trainer Szebes auf dem Sterbebett immer noch nicht glauben konnte, dass seine übermächtigen Ungarn nach einer 2:0 Führung das Heft aus der Hand gegeben hatten. Fritz Walter und Uwe Rahn entschieden das Duell gegen Ferenc Puskas und Sandor Koscics zu ihren Gunsten.
 
-1958 sind die Tränen der Sambatänzer getrocknet! Didi-Vava-Garrincha und der erst 17 jährige Edson do Santos de Nascimento, alias Pelé hatten den Zuckerhut fast zum Schmelzen gebracht. Offensivfussball erster Güte. Die Welt sprach nur noch vom bahnbrechenden 4-2-4!
+1958 sind die Tränen der Sambatänzer endlich getrocknet! Didi-Vava-Garrincha und der erst 17 jährige Edson do Santos de Nascimento, alias Pelé hatten den Zuckerhut fast zum Schmelzen gebracht. Offensivfussball erster Güte. Die Welt sprach nur noch vom bahnbrechenden 4-2-4!
 
 1962 und die Rauhbeine! Platzverweise en masse, die noch nicht mit roter Karte angezeigt wurden. Chile-Italien war der Höhepunkt. Wieder Brasilien dank Fliegenfänger Schroif und ohne ihr verletztes Wunderkind Pelé, der sich durch Amarildo würdig vertreten liess.
