@@ -7,4 +7,4 @@ date: 2025-09-09T11:42:41.153Z
 
 1970 und das Jahrtausendspiel! Wer dieses Drama auf die „LeinWand“ brachte, ist zweifelsohne oscarwürdig. Als Rivera kurz vor Ende der Verlängerung den Meier Sepp auf dem falschen Fuss erwischte, lag sich ein ganzes Volk in den Armen. Die Italiener waren so platt, dass sie im Endspiel dem „besten Team aller Zeiten“ nicht Paroli bieten konnten. Jairzinho, Gerson, Tostao, Rivelino und der wieder einmal überragende Pelé waren eine Nummer zu gross.
 
-1974 trafen die damals grössten Fussbalkästheten aufeinander. Wenn zwei sich bekanntlich streiten freut sich der Dritte. Und das war kein Geringerer als der Mann mit dem angeborenen Killerinstinkt: Tormaschine Gerd Müller! Unnachahmlich, einzigarti!g! Ohne sein Tir
+1974 trafen die damals grössten Fussbalkästheten aufeinander. Kaiser Franz und König Johan. Der eine spielte 50 MeterPässe aus dem Stand. Eine Augenweide. Der andere dirigierte im Mittelfeld und war torgefährlich. Entschieden wurde das Turnier von keinem der beiden. Die Rolle des Matchwinners übernahm Tormaschine Gerd Müller! Sein Schuss aus der Drehung ist in keiner Schule zu erlernen.
