@@ -4,7 +4,7 @@ draft: true
 date: 2025-09-09T10:10:11.371Z
 image: img/img_0709.jpeg
 ---
-1930! Aufbruchstimmung in Montevideo! Die Premiere steht vor der Tür. Viele reisen mit dem Schiff an. Schliesslich gehen 13 Mannschaften an den Start. Gastgeber Uruguay macht sich den Heimvorteil zunutze und schreibt sich als erste Nation auf dem Jules-Rimet-Pokal ein. 
+1930 WM-Premier! In Montevideo herrscht Aufbruchstimmung! Viele reisen mit dem Schiff an. Schliesslich gehen 13 Mannschaften an den Start. Gastgeber Uruguay macht sich den Heimvorteil zunutze und schreibt sich als erste Nation auf dem Jules-Rimet-Pokal ein. 
 
 1934 ist Italien an der Reihe. Trainer Vittorio Pozzo baut auf Torhüter Combi und seine beiden Ausnahmestürmer Orsi und Meazza. Im Finale haben die Tschechen das Nachsehen.
 
