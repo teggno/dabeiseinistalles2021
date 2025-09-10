@@ -20,7 +20,7 @@ image: img/img_0709.jpeg
 
 1966 gab sich Queen Elisabeth die Ehre den Jungs um Kapitän Bobby Moore die Hände zu schütteln. Dass es bis heute Englands einziger Triumph an Europa- und Weltmeisterschaften bleiben würde, darf als Ironie des Schicksals bezeichnet werden. Ganz lupenrein war der Sieg allerdings nicht. Die genauen Umstände haben Schiedsrichter Dienst und Linienrichter Bachramov mit ins Grab genommen. 
 
-1970 und das Spielmdes Jahrtausends! Wer dieses Drama auf die „LeinWand“ brachte, hätte zweifelsohne den Oscar verdient. Als Rivera kurz vor Ende der Verlängerung den Meier Sepp auf dem falschen Fuss erwischte, lag sich ein ganzes Volk in den Armen. Die Italiener waren so platt, dass sie im Endspiel dem „besten Team aller Zeiten“ nicht Paroli bieten konnten. Jairzinho, Gerson, Tostao, Rivelino und der wieder einmal überragende Pelé waren eine Nummer zu gross.
+1970 erlebt Mexixo das Spiel des Jahrtausends! Wer dieses Drama auf die „LeinWand“ brachte, hätte zweifelsohne den Oscar verdient. Als Rivera kurz vor Ende der Verlängerung den Meier Sepp auf dem falschen Fuss erwischte, lag sich ein ganzes Volk in den Armen. Die Italiener waren so platt, dass sie im Endspiel dem „besten Team aller Zeiten“ nicht Paroli bieten konnten. Jairzinho, Gerson, Tostao, Rivelino und der wieder einmal überragende Pelé waren eine Nummer zu gross.
 
 1974 trafen die damals grössten Fussballästheten aufeinander. Kaiser Franz und König Johan. Der eine spielte 50 MeterPässe aus dem Fussgelenk, der andere dirigierte sein Orchester. Entschieden wurde das Turnier von einem anderen. Die Rolle des Matchwinners übernahm Torhüterschreck Gerd Müller! Sein Schuss aus halber Drehung ist in keinem Lehrbuch zu finden. Gerd du bist und bleibst die beste 9!
 
