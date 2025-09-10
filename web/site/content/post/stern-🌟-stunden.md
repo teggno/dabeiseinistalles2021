@@ -8,7 +8,7 @@ image: img/img_0709.jpeg
 
 1934 ist Italien an der Reihe. Trainer Vittorio Pozzo baut auf Torhüter Combi und seine beiden Ausnahmestürmer Orsi und Meazza. Im Finale haben die Tschechen das Nachsehen.
 
-1938 legt die Squadra Azzurra nach! Dieses Mal ist es Silvio Piola der mit einem Doppelpack die Franzosen in die Knie zwingt! Dann ist Krieg und hintereinander fallen die Weltmeisterschaften 1942 und 1946 aus. 
+1938 legt die Squadra Azzurra nach! Dieses Mal ist es Silvio Piola der mit einem Doppelpack die Franzosen in die Knie zwingt! Die beiden Weltmeisterschaften von 1942 und 1946 fallen wegen des 2. Weltkrieges aus. 
 
 1950 geht als Brasiliens grösste Fussballtragödie in die Annalen ein. Vor 170‘000 Zuschauern verlieren sie zuhause im Maracana gegen die Urus, die dank Ausnahmekönner Schiaffino bereits ihren zweiten Titel eintüten. Tränen der Trauer lassen den Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordstand ansteigen.
 
