@@ -10,7 +10,7 @@ image: img/img_0709.jpeg
 
 1938 legt die Squadra Azzurra nach! Dieses Mal ist es Silvio Piola der mit einem Doppelpack die Franzosen in die Knie zwingt! Die beiden Weltmeisterschaften von 1942 und 1946 fallen wegen des 2. Weltkrieges aus. 
 
-1950 geht als Brasiliens grösste Fussballtragödie in die Annalen ein. Vor 170‘000 Zuschauern verlieren sie zuhause im Maracana gegen die Urus, die dank Ausnahmekönner Schiaffino bereits ihren zweiten Titel eintüten. Tränen der Trauer lassen den Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordstand ansteigen.
+1950 werden die Brasilianer nie vergessen. Fussballtragödie in die Annalen ein. Vor 170‘000 Zuschauern verlieren sie zuhause im Maracana gegen die Urus, die dank Ausnahmekönner Schiaffino bereits ihren zweiten Titel eintüten. Tränen der Trauer lassen den Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordstand ansteigen.
 
 1954 redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der Deutschen gewesen sein muss, belegt die Tatsache, dass Trainer Szebes auf dem Sterbebett immer noch nicht glauben konnte, dass seine übermächtigen Ungarn nach einer 2:0 Führung das Heft noch  aus der Hand gegeben hatten. Fritz Walter und Uwe Rahn entschieden das Duell gegen Ferenc Puskas und Sandor Koscics zu ihren Gunsten.
 
