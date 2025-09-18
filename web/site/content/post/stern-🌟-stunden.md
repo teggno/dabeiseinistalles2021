@@ -6,7 +6,7 @@ image: img/img_0709.jpeg
 ---
 1930 findet in Uruguay die erste WM statt! Montevideo ist bereit! Viele reisen mit dem Schiff an. Schliesslich gehen 13 Mannschaften an den Start. Die Gastgeber machen sich den Heimvorteil zunutze und schreiben sich als erste Nation auf dem Jules-Rimet-Pokal ein. 
 
-1934+1938 ist Italien zweimal an der Reihe. Trainer Vittorio Pozzo ist beide Male in der glücklichen Lage über Ausnahmestürmer zu verfügen. Zuerst Meazza und 4 Jahre später Piola. Tschechen und Franzosen müssen mit der Silbermedaille vorlieb nehmen.
+1934+1938 ist Italien zweimal an der Reihe. Trainer Vittorio Pozzo ist beide Male in der glücklichen Lage über Ausnahmestürmer zu verfügen. Giuseppe Meazza und Silvio Piola schreiben Geschichte.
 
 Die Weltmeisterschaften 1942 und 1946 fallen wegen des 2. Weltkrieges aus. 
 
