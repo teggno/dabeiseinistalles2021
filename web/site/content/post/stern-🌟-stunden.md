@@ -6,9 +6,9 @@ image: img/img_0709.jpeg
 ---
 1930 WM-Premiere! In Montevideo herrscht Aufbruchstimmung! Viele reisen mit dem Schiff an. Schliesslich gehen 13 Mannschaften an den Start. Gastgeber Uruguay macht sich den Heimvorteil zunutze und schreibt sich als erste Nation auf dem Jules-Rimet-Pokal ein. 
 
-1934 ist Italien an der Reihe. Trainer Vittorio Pozzo baut auf Torhüter Combi und seine beiden Ausnahmestürmer Orsi und Meazza. Im Finale haben die Tschechen das Nachsehen.
+1934+1938 ist Italien zweimal an der Reihe. Trainer Vittorio Pozzo ist beide Male in der glücklichen Lage über Ausnahmestürmer zu verfügen. Zuerst Meazza und 4 Jahre später Piola. Tschechen und Franzosen müssen mit der Silbermedaille vorlieb nehmen.
 
-1938 legt die Squadra Azzurra nach! Dieses Mal ist es Silvio Piola der mit einem Doppelpack die Franzosen in die Knie zwingt! Die beiden Weltmeisterschaften von 1942 und 1946 fallen wegen des 2. Weltkrieges aus. 
+Die Weltmeisterschaften 1942 und 1946 fallen wegen des 2. Weltkrieges aus. 
 
 1950 werden die Brasilianer nie vergessen. Fussballtragödie in die Annalen ein. Vor 170‘000 Zuschauern verlieren sie zuhause im Maracana gegen die Urus, die dank Ausnahmekönner Schiaffino bereits ihren zweiten Titel eintüten. Tränen der Trauer lassen den Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordstand ansteigen.
 
