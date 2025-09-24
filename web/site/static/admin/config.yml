@@ -1,0 +1,109 @@
+backend:
+  name: git-gateway
+
+locale: "de"
+
+media_folder: "web/site/static/img" # Folder where user uploaded files should go
+public_folder: "img"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Artikel" # Used in the UI, ie.: "New Post"
+    folder: "web/site/content/post" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Entwurf", name: "draft", widget: "boolean", default: true }
+      - { label: "Datum", name: "date", widget: "datetime" }
+      - { label: "Bild", name: "image", widget: "image", required: false }
+      - { label: "Inhalt", name: "body", widget: "markdown" }
+  - name: "pages"
+    label: "Seiten"
+    delete: false
+    files:
+      - file: "web/site/content/_index.md"
+        label: "Startseite"
+        name: "home"
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - {
+              label: Untertitel,
+              name: subtitle,
+              widget: string,
+              required: false,
+            }
+          - { label: Bild, name: image, widget: image }
+          - { label: 'Bild-Hintergrundfarbe', name: 'color', widget: 'color', required: true }
+      - file: "web/site/content/rangliste/_index.md"
+        label: "Rangliste"
+        name: "rangliste"
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: "Datum", name: "date", widget: "datetime" }
+          - { label: "Bild", name: "image", widget: "image", required: false }
+          - { label: "Platzhalter-Text anzeigen", name: "showPlaceholder", widget: "boolean", default: true }
+          - { label: "Platzhalter-Text", name: "placeholder", widget: "text", required: true }
+          - label: "Lied"
+            name: "song"
+            widget: "object"
+            required: true
+            fields: 
+            - { label: "Titel", name: "title", widget: "string", required: true }
+            - { label: "Beschreibung", name: "description", widget: "text", required: false }
+            - { label: "Youtube-Link", name: "url", widget: "string", required: false }
+            - { label: "Bild", name: image, widget: image, required: true }
+  - name: "game"
+    label: "Tippspiel"
+    delete: false
+    files:
+      - file: "game/teams.json"
+        label: "Teams"
+        name: "teams"
+        fields:
+          - label: "Teams"
+            name: "teams"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string", required: true }
+              - { label: "Siege", name: "victories", widget: "number", default: 0, value_type: "int", min: 0, required: true }
+              - { label: "Unentschieden", name: "draws", widget: "number", default: 0, value_type: "int", min: 0, required: true }
+      - file: "game/players.json"
+        label: "Spieler"
+        name: "players"
+        fields:
+          - label: "Spieler"
+            name: "players"
+            widget: "list"
+            summary: "{{fields.name}} {{fields.goals}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string", required: true }
+              - { label: "Tore", name: "goals", widget: "number", default: 0, value_type: "int", min: 0, required: true }
+      - file: "game/bets.json"
+        label: "Tipps"
+        name: "bets"
+        fields:
+          - label: "Tipps"
+            name: "bets"
+            widget: "list"
+            summary: "{{fields.lastName}} {{fields.firstName}}"
+            fields:
+              - { label: "Nachname", name: "lastName", widget: "string", required: true }
+              - { label: "Vorname", name: "firstName", widget: "string" }
+              - { label: "Mannschaft 1", name: "team1", widget: "relation", collection: "game", file: "teams", search_fields: ["teams.*.name"], value_field: "teams.*.name", required: true }
+              - { label: "Mannschaft 2", name: "team2", widget: "relation", collection: "game", file: "teams", search_fields: ["teams.*.name"], value_field: "teams.*.name", required: true }
+              - { label: "Mannschaft 3", name: "team3", widget: "relation", collection: "game", file: "teams", search_fields: ["teams.*.name"], value_field: "teams.*.name", required: true }
+              - { label: "Mannschaft 4", name: "team4", widget: "relation", collection: "game", file: "teams", search_fields: ["teams.*.name"], value_field: "teams.*.name", required: true }
+              - { label: "Europameister", name: "champion", widget: "relation", collection: "game", file: "teams", search_fields: ["teams.*.name"], value_field: "teams.*.name", required: true }
+              - { label: "Torschütze 1", name: "player1", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
+              - { label: "Torschütze 2", name: "player2", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
+              - { label: "Torschütze 3", name: "player3", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
+              - { label: "Torschütze 4", name: "player4", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
+              - { label: "Torschützenkönig", name: "topScorer", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: true }
+      - file: "game/results.json"
+        label: "Ergebnisse"
+        name: "results"
+        fields:
+          - { label: "Europameister", name: "champion", widget: "relation", collection: "game", file: "teams", search_fields: ["teams.*.name"], value_field: "teams.*.name", required: false }
+          - { label: "Torschützenkönig", name: "topScorer", widget: "relation", collection: "game", file: "players", search_fields: ["players.*.name"], value_field: "players.*.name", required: false }
+

@@ -1,0 +1,160 @@
+{
+  "players": [
+    {
+      "name": "Bale",
+      "goals": 0
+    },
+    {
+      "name": "Barella",
+      "goals": 1
+    },
+    {
+      "name": "Belotti",
+      "goals": 0
+    },
+    {
+      "name": "Benzema",
+      "goals": 4
+    },
+    {
+      "name": "Berardi",
+      "goals": 0
+    },
+    {
+      "name": "Bruno Fernandes",
+      "goals": 0
+    },
+    {
+      "name": "Burak Ylmaz",
+      "goals": 0
+    },
+    {
+      "name": "Chiesa",
+      "goals": 2
+    },
+    {
+      "name": "De Bruyne",
+      "goals": 1
+    },
+    {
+      "name": "Depay",
+      "goals": 2
+    },
+    {
+      "name": "Foden",
+      "goals": 0
+    },
+    {
+      "name": "Gavranovic",
+      "goals": 1
+    },
+    {
+      "name": "Giroud",
+      "goals": 0
+    },
+    {
+      "name": "Gnabry",
+      "goals": 0
+    },
+    {
+      "name": "Griezmann",
+      "goals": 1
+    },
+    {
+      "name": "Havertz",
+      "goals": 2
+    },
+    {
+      "name": "Hazard",
+      "goals": 0
+    },
+    {
+      "name": "Immobile",
+      "goals": 2
+    },
+    {
+      "name": "Insigne",
+      "goals": 2
+    },
+    {
+      "name": "João Felix",
+      "goals": 0
+    },
+    {
+      "name": "Kane",
+      "goals": 4
+    },
+    {
+      "name": "Lewandowski",
+      "goals": 3
+    },
+    {
+      "name": "Lukaku",
+      "goals": 4
+    },
+    {
+      "name": "Mbappé",
+      "goals": 0
+    },
+    {
+      "name": "Mertens",
+      "goals": 0
+    },
+    {
+      "name": "Modric",
+      "goals": 1
+    },
+    {
+      "name": "Morata",
+      "goals": 3
+    },
+    {
+      "name": "Moreno",
+      "goals": 0
+    },
+    {
+      "name": "Müller",
+      "goals": 0
+    },
+    {
+      "name": "Olmo",
+      "goals": 0
+    },
+    {
+      "name": "Pandev",
+      "goals": 1
+    },
+    {
+      "name": "Rashford",
+      "goals": 0
+    },
+    {
+      "name": "Rebic",
+      "goals": 0
+    },
+    {
+      "name": "Ronaldo",
+      "goals": 5
+    },
+    {
+      "name": "Seferovic",
+      "goals": 3
+    },
+    {
+      "name": "Shaqiri",
+      "goals": 3
+    },
+    {
+      "name": "Sterling",
+      "goals": 3
+    },
+    {
+      "name": "Torres",
+      "goals": 2
+    },
+    {
+      "name": "Werner",
+      "goals": 0
+    }
+  ]
+}

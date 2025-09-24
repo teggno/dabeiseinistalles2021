@@ -1,0 +1,40 @@
+<head>
+
+  <title>{{ .Title }} | {{ $.Site.Title }}</title>
+
+  {{ $stylesheet := .Site.Data.webpack.main }}
+  {{ with $stylesheet.css }}
+    <link href="{{ relURL . }}" rel="stylesheet">
+  {{ end }}
+
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+
+	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700|Beth+Ellen" rel="stylesheet">
+	
+	<!-- Favicons -->
+	<link rel="icon" type="image/png" href="/img/favicon.png" >
+	<meta name="theme-color" content="#fff">
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="Dabeisein ist alles">
+	<meta property="og:url" content="/">
+
+  {{ if .IsHome }}
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {{ end }}
+
+    {{ if not .Site.BuildDrafts }}
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-27XRWY0D58"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-P3P9EMC903');
+		</script>
+    {{ end }}
+</head>

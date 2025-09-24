@@ -1,0 +1,22 @@
+name: leaderboard
+on:
+  schedule:
+    # 21 is UTC which is 23 CET
+    - cron: '0,5,10,20,30,40,50,59 21 * * *'
+  workflow_dispatch:
+jobs:
+  calculate-leaderboard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+      - name: Calculate
+        run: |
+          cd leaderboard
+          node .
+      - name: Commit leaderboard.json
+        run: |
+          git config --global user.name 'Christian Bär'
+          git config --global user.email 'teggno@hotmail.com'
+          git commit -am "Update leaderboard.json"
+          git push

@@ -1,0 +1,70 @@
+{{ define "main" }}
+
+<!--<h1 class="center tc f2 pa2">Rangliste</h1>-->
+<div class="center grey-3 tc">
+  <p class="center tc" id="latestIntegratedFileProducedAt"></p>
+</div>
+
+{{ if .Params.image }}
+<div class="center"><img src="{{ .Params.image }}" alt="{{ .Title }}" /></div>
+{{ end }} 
+
+{{ if .Params.showPlaceholder }}
+<div class="center tc mw7">
+  {{ .Params.placeholder }}
+</div>
+{{ else }}
+<div class="center mw7">
+  {{ if .Params.song }}
+  <article class="center flex items-center">
+    <div class="pl3">
+      <img style="width: 200px" src="{{ .Params.song.image }}" alt="" />
+    </div>
+    <div class="pa3 flex flex-column justify-between">
+      <p>{{ .Params.song.description }}</p>
+      <a
+        href="{{ .Params.song.url }}"
+        target="_blank"
+        referrerpolicy="no-referrer"
+        >{{ .Params.song.title }}</a
+      >
+    </div>
+  </article>
+  {{ end }}
+
+  {{/*
+  <article class="mt3">
+    <table class="center collapse pv2 ph3">
+      <thead>
+        <tr>
+          <th class="pv2 ph3 tl f6 fw6 ttu">Rang</th>
+          <th class="tl f6 ttu fw6 pv2 ph3">Name</th>
+          <th class="tl f6 ttu fw6 pv2 ph3">Vorname</th>
+          <th class="tr f6 ttu fw6 pv2 ph3">Punkte</th>
+        </tr>
+      </thead>
+      <tbody>
+    {{ range $.Site.Data.leaderboard }}
+        <tr class="striped--near-white">
+          <td class="pv2 ph3 tr"> 
+            {{ .rank }}
+          </td>
+          <td class="pv2 ph3">
+            {{ .bet.lastName }}
+          </td>
+          <td class="pv2 ph3">
+            {{ .bet.firstName }}
+          </td>
+          <td class="pv2 ph3 tr">
+            {{ .points.totalPoints }}
+          </td>
+        </tr>
+    {{ end }}
+      </tbody>
+    </table>  
+  </article>
+  */}}
+</div>
+{{ end }}
+
+{{ end }}

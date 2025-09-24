@@ -1,0 +1,13 @@
+<div class="bg-off-white pv4">
+	<div class="mw7 center">
+		<ul class="flex-ns flex-wrap mhn1-ns">
+			{{ range (.Paginator 50).Pages.ByPublishDate.Reverse }}
+				<div class="ph1 w-50-ns flex">
+				  {{ .Render "li"}}
+				</div>
+			{{ end }}
+		</ul>
+		{{ partial "pagination" . }}
+
+	</div>
+</div>
