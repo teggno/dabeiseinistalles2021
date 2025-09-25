@@ -11,7 +11,7 @@ placeholder: "
 
   \ "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸  Ennio Morricone ▶️  C‘era una volta nell west "
+  title: RAFFI‘S JUKEBOX  🎸   ▶️
   url: https://www.youtube.com/watch?v=40rmHENoGsk&list=RD40rmHENoGsk&start_radio=1&pp=ygUXYydlcmEgdW5hIHZvbHRhIGlsIHdlc3SgBwE%3D
   image: img/img_0637.jpeg
   description: |+
