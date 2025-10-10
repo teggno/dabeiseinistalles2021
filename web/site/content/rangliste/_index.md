@@ -11,8 +11,8 @@ placeholder: "
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸   ▶️
-  url: https://www.youtube.com/watch?v=40rmHENoGsk&list=RD40rmHENoGsk&start_radio=1&pp=ygUXYydlcmEgdW5hIHZvbHRhIGlsIHdlc3SgBwE%3D
+  title: "RAFFI‘S JUKEBOX  🎸 Dusty Springfield  ▶️ Yesterday when I was young "
+  url: https://www.youtube.com/watch?v=pSHI-NPC3Kg&list=RDpSHI-NPC3Kg&start_radio=1&pp=ygUseWVzdGVyZGF5IHdoZW4gaSB3YXMgeW91bmcgZHVzdHkgc3ByaW5nZmllbGSgBwE%3D
   image: img/img_0637.jpeg
   description: "\n\n"
 type: rangliste
