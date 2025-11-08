@@ -15,7 +15,7 @@ song:
   url: https://www.youtube.com/watch?v=DBVnQwpTZ90&list=RDDBVnQwpTZ90&start_radio=1&pp=ygUTdGVuY28gdmVkcmFpIHZlZHJhaaAHAQ%3D%3D
   image: img/img_0637.jpeg
   description: |+
-    Für dich ……du wunderbare Frau 👩🏼……..
+    Non riesco mai á capirti……du wunderbare Frau 👩🏼……..
 
 type: rangliste
 ---
