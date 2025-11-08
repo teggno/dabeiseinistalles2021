@@ -16,7 +16,7 @@ Wegen des 2. Weltkrieges fallen die Weltmeisterschaften 1942 und 1946 leider aus
 
 1958 sind die Tränen der Sambatänzer endlich getrocknet! Gilmar-Djalma Santos-Didi-Vava-Garrincha und der erst 17 jährige Edson do Santos de Nascimento, alias Pelé hatten den Zuckerhut dank ihres spektakulären Offensivfussballs fast zum Schmelzen gebracht. Das revolutionäre 4-2-4 war geboren!
 
-1962 geht als die WM der bösen Buben in die Geschichte ein. Grätschen gehören zum guten Ton! Wilde Schlägereien sorgen für Abwechslung. Chile-Italien ist der absolute Tiefpunkt. Den Brasilianern gelingt es, ihren Titel souverän zu verteidigen. Auch ohne den verletzten Pelé, der durch Amarildo würdig vertreten wird. Spieler des Turniers ist Rechtsaussen Garrincha!  Als Dribbler bis heute unerreicht. 
+1962 geht als die WM der bösen Buben in die Geschichte ein. Grätschen gehören zum guten Ton! Wilde Schlägereien sorgen für Abwechslung. Chile-Italien ist der absolute „Höhepunkt“. Den Brasilianern gelingt es, ihren Titel souverän zu verteidigen. Auch ohne ihren verletzten Stürmerstar Pelé. Mann des Turniers ist Rechtsaussen Garrincha, der bis heute als Dribblekünstler par excellence in den Annalen gewürdigt wird.
 
 1966 gibt sich Queen Elisabeth die Ehre den Jungs um Kapitän Bobby Moore die Hände zu schütteln. Dass es bis heute Englands einziger Triumph an Europa- und Weltmeisterschaften geblieben ist, darf als Ironie des Schicksals bezeichnet werden. Ganz lupenrein war der Sieg allerdings nicht. Schiedsrichter Dienst und Linienrichter Bachramov wurden Jahre später von der Technik entlarvt! 
 
