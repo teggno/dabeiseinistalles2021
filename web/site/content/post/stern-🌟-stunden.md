@@ -8,7 +8,7 @@ image: img/img_0709.jpeg
 
 1934+1938 schaffen die Italiener unter Trainer Vittorio Pozzo das schier Unmögliche! Sie holen, angeführt von den Stürmern Giuseppe Meazza und Silvio Piola zweimal hintereinander den Pot.
 
-Wegen des 2. Weltkrieges fallen die Weltmeisterschaften 1942 und 1946 aus. 
+Wegen des 2. Weltkrieges fallen die Weltmeisterschaften 1942 und 1946 leider aus. 
 
 1950 wird in brasilianischen Überlieferungen noch heute als Jahr der Trauer zelebriert. Eine Fussballtragödie die ihresgleichen sucht. Vor der Rekordkulisse von 170‘000 Zuschauer zerstört Uru-Legende Schiaffino den Traum einer ganzen Nation. Tränen der Trauer lassen den Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordstand ansteigen. Uruguay ist zum zweiten Mal Weltmeister.
 
