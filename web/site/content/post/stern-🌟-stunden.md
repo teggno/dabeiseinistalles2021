@@ -8,7 +8,7 @@ image: img/img_0709.jpeg
 
 1934+1938 schaffen die Italiener unter Trainer Vittorio Pozzo das schier Unmögliche! Sie holen, angeführt von den Stürmern Giuseppe Meazza und Silvio Piola zweimal hintereinander den Pot.
 
-Die Weltmeisterschaften 1942 und 1946 fallen wegen des 2. Weltkrieges aus. 
+Wegen des 2. Weltkrieges fallen die Weltmeisterschaften 1942 und 1946 aus. 
 
 1950 gilt in brasilianischen Kalendern als Trauerjahr! Eine Fussballtragödie die ihresgleichen sucht. 170‘000 Zuschauer im Maracana und Millionen zuhause verstehen die Welt nicht mehr, als Uru-Ausnahmekönner Schiaffino seinen Landsleuten nach 1930 den zweiten WM-Titel sichert. Tränen der Trauer lassen den Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordstand ansteigen.
 
