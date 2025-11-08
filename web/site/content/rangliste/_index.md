@@ -15,7 +15,7 @@ song:
   url: https://www.youtube.com/watch?v=DBVnQwpTZ90&list=RDDBVnQwpTZ90&start_radio=1&pp=ygUTdGVuY28gdmVkcmFpIHZlZHJhaaAHAQ%3D%3D
   image: img/img_0637.jpeg
   description: |+
-    Per te ……du wunderbare Frau 👩🏼……..
+    Grazie per le tue Parole….du wunderbare Frau 👩🏼……..
 
 type: rangliste
 ---
