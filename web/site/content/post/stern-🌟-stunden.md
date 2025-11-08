@@ -10,7 +10,7 @@ image: img/img_0709.jpeg
 
 Wegen des 2. Weltkrieges fallen die Weltmeisterschaften 1942 und 1946 aus. 
 
-1950 gilt in brasilianischen Kalendern als Trauerjahr! Eine Fussballtragödie die ihresgleichen sucht. 170‘000 Zuschauer im Maracana und Millionen zuhause verstehen die Welt nicht mehr, als Uru-Ausnahmekönner Schiaffino seinen Landsleuten nach 1930 den zweiten WM-Titel sichert. Tränen der Trauer lassen den Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordstand ansteigen.
+1950 wird in brasilianischen Überlieferungen noch heute als Jahr der Trauer zelebriert. Eine Fussballtragödie die ihresgleichen sucht. Vor der Rekordkulisse von 170‘000 Zuschauer zerstört Uru-Legende Schiaffino den Traum einer ganzen Nation. Tränen der Trauer lassen den Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordstand ansteigen. Uruguay ist zum zweiten Mal Weltmeister.
 
 1954 redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der Deutschen gewesen sein muss, belegt die Tatsache, dass Trainer Szebes auf dem Sterbebett immer noch nicht glauben wollte, dass seine unschlagbaren Ungarn nach einer 2:0 Führung das Heft noch  aus der Hand gegeben hatten. Fritz Walter und Uwe Rahn entschieden das Duell gegen Ferenc Puskas und Sandor Koscics zu ihren Gunsten.
 
