@@ -18,7 +18,7 @@ Die Weltmeisterschaften 1942 und 1946 fallen wegen des 2. Weltkrieges aus.
 
 1962 geht als die WM der bösen Buben in die Geschichte ein. Grätschen gehören zum guten Ton! Wilde Schlägereien sorgen für Abwechslung. Chile-Italien ist der absolute Tiefpunkt. Den Brasilianern gelingt es, ihren Titel souverän zu verteidigen. Auch ohne den verletzten Pelé, der durch Amarildo würdig vertreten wird. Spieler des Turniers ist Rechtsaussen Garrincha!  Als Dribbler bis heute unerreicht. 
 
-1966 gab sich Queen Elisabeth die Ehre den Jungs um Kapitän Bobby Moore die Hände zu schütteln. Dass es bis heute Englands einziger Triumph an Europa- und Weltmeisterschaften geblieben ist, darf als Ironie des Schicksals bezeichnet werden. Ganz lupenrein war der Sieg allerdings nicht. Schiedsrichter Dienst und Linienrichter Bachramov wurden Jahre später von der Technik entlarvt! 
+1966 gibt sich Queen Elisabeth die Ehre den Jungs um Kapitän Bobby Moore die Hände zu schütteln. Dass es bis heute Englands einziger Triumph an Europa- und Weltmeisterschaften geblieben ist, darf als Ironie des Schicksals bezeichnet werden. Ganz lupenrein war der Sieg allerdings nicht. Schiedsrichter Dienst und Linienrichter Bachramov wurden Jahre später von der Technik entlarvt! 
 
 1970 erlebt Mexixo das Spiel des Jahrtausends! Wer dieses Drama auf die „LeinWand“ brachte, hätte zweifelsohne den Oscar verdient. Als Rivera kurz vor Ende der Verlängerung den Meier Sepp auf dem falschen Fuss erwischte, lag sich ein ganzes Volk in den Armen. Die Italiener waren so platt, dass sie im Endspiel dem „besten Team aller Zeiten“ nicht Paroli bieten konnten. Jairzinho, Gerson, Tostao, Rivelino und der wieder einmal überragende Pelé waren eine Nummer zu gross.
 
