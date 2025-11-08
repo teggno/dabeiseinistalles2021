@@ -4,13 +4,13 @@ draft: true
 date: 2025-09-09T10:10:11.371Z
 image: img/img_0709.jpeg
 ---
-1930 findet in Uruguay die erste WM statt! Montevideo heisst insgesamt 13 Mannschaften willkommen. Die meisten kommen mit dem Schiff. Der Gastgeber macht sich den Heimvorteil zunutze und schreibt sich als erste Nation auf dem Jules-Rimet-Pokal ein. 
+1930 geht in Uruguay die erste WM über die Bühne! Montevideo heisst insgesamt 13 Mannschaften willkommen. Die meisten kommen mit dem Schiff. Der Gastgeber macht sich den Heimvorteil zunutze und schreibt sich als erste Nation auf dem Jules-Rimet-Pokal ein. 
 
-1934+1938 ist Italien zweimal an der Reihe. Trainer Vittorio Pozzo ist in der glücklichen Lage über Ausnahmestürmer zu verfügen. Giuseppe Meazza und Silvio Piola schreiben Geschichte.
+1934+1938 schaffen die Italiener unter Trainer Vittorio Pozzo das schier Unmögliche! Sie holen, angeführt von den Stürmern Giuseppe Meazza und Silvio Piola zweimal hintereinander den Pokal.
 
 Die Weltmeisterschaften 1942 und 1946 fallen wegen des 2. Weltkrieges aus. 
 
-1950 haben die  Brasilianer im Kalender schwarz angestrichen. Eine Fussballtragödie die ihresgleichen sucht. Vor 170‘000 Zuschauern verlieren sie zuhause im Maracana gegen die Urus, die dank Ausnahmekönner Schiaffino bereits ihren zweiten Pokal in die Vitrine stellen. Tränen der Trauer lassen den Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordstand ansteigen.
+1950 gikt in brasilianischen Kalendern als Trauerjahr! Eine Fussballtragödie die ihresgleichen sucht. 170‘000 Zuschauer im Maeacana und Millionen zuhause verstehen die Welt nicht mehr! Uru-Ausnahmekönner Schiaffino sichert seinem Land nach 1930 den zweiten Titel. Tränen der Trauer lassen den Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordstand ansteigen.
 
 1954 redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der Deutschen gewesen sein muss, belegt die Tatsache, dass Trainer Szebes auf dem Sterbebett immer noch nicht glauben konnte, dass seine übermächtigen Ungarn nach einer 2:0 Führung das Heft noch  aus der Hand gegeben hatten. Fritz Walter und Uwe Rahn entschieden das Duell gegen Ferenc Puskas und Sandor Koscics zu ihren Gunsten.
 
