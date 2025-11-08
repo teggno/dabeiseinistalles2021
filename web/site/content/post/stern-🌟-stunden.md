@@ -12,7 +12,7 @@ Wegen des 2. Weltkrieges fallen die Weltmeisterschaften 1942 und 1946 leider aus
 
 1950 wird in brasilianischen Überlieferungen noch heute als Jahr der Tragödie zelebriert. Fussball kann so weh tun! Vor der Rekordkulisse von 170‘000 Zuschauern zerstört Uru-Legende Schiaffino den Traum einer ganzen Nation. Vor lauter Tränen soll der Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordstand gestiegen sein. Uruguay ist zum zweiten Mal Weltmeister.
 
-1954 redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der Deutschen gewesen sein muss, belegt die Tatsache, dass Trainer Szebes auf dem Sterbebett immer noch nicht glauben wollte, dass seine unschlagbaren Ungarn nach einer 2:0 Führung das Heft noch  aus der Hand gegeben hatten. Fritz Walter und Uwe Rahn entschieden das Duell gegen Ferenc Puskas und Sandor Koscics zu ihren Gunsten.
+1954 redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der Deutschen gewesen sein muss, belegt die Tatsache, dass Trainer Szebes auf dem Sterbebett immer noch nicht glauben wollte, dass seine unschlagbaren Ungarn nach einer 2:0 Führung das Heft noch  aus der Hand gegeben hatten. Fritz Walter und Uwe Rahn hatten Ferenc Puskas und Sandor Koscics den Schneid abgekauft. 
 
 1958 sind die Tränen der Sambatänzer endlich getrocknet! Gilmar-Djalma Santos-Didi-Vava-Garrincha und der erst 17 jährige Edson do Santos de Nascimento, alias Pelé hatten den Zuckerhut dank ihres spektakulären Offensivfussballs fast zum Schmelzen gebracht. Das revolutionäre 4-2-4 war geboren!
 
