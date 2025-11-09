@@ -15,8 +15,8 @@ song:
   url: ""
   image: img/img_0637.jpeg
   description: >+
-    Grazie per le tue belle Parole….du wunderbare Frau 👩🏼……..ich mag es wenn
-    du Skorpion 🦂 meine Silhouette betrachtest
+    Grazie per le belle Parole….du wunderbare Frau 👩🏼……..ich mag es wenn du
+    Skorpion 🦂 meine Silhouette betrachtest….
 
 type: rangliste
 ---
