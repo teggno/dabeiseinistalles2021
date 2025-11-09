@@ -14,10 +14,6 @@ song:
   title: RAFFI‘S JUKEBOX  🎸  ▶️  soll ich dir was spielen 🎁 ❓
   url: ""
   image: img/img_0637.jpeg
-  description: >+
-    Dir zuzusehn, wenn du dir intensiv unsere Nummer(n) vorstellst…..und dabei
-    dein Fingerspitzengefühl einsetzt….sarebbe uno dei miei grandi desideri….
-
-
+  description: "\n\n\n"
 type: rangliste
 ---
