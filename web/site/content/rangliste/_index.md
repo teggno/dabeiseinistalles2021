@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2025-06-28T16:21:39.959Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: "
 
   Diese Seite ist nicht mehr verfügbar\ 
@@ -14,6 +14,10 @@ song:
   title: RAFFI‘S JUKEBOX  🎸  ▶️  soll ich dir was spielen 🎁 ❓
   url: ""
   image: img/img_0637.jpeg
-  description: "\n\n\n"
+  description: >+
+    Grazie per le belle parole……du wunderbare Frau 👩🏼……ich mag es wenn du
+    Skorpion 🦂 meine Silhouette betrachtest…..
+
+
 type: rangliste
 ---
