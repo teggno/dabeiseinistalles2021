@@ -11,7 +11,7 @@ placeholder: "
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  ▶️  soll ich dir was spielen 🎂
+  title: RAFFI‘S JUKEBOX  🎸  ▶️  soll ich dir was spielen 🎁
   url: ""
   image: img/img_0637.jpeg
   description: >+
