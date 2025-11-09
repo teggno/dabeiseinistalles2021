@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2025-06-28T16:21:39.959Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: "
 
   Diese Seite ist nicht mehr verfügbar\ 
@@ -11,7 +11,7 @@ placeholder: "
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  ▶️  soll ich dir was spielen 🎁
+  title: RAFFI‘S JUKEBOX  🎸  ▶️  soll ich dir was spielen 🎁 ❓
   url: ""
   image: img/img_0637.jpeg
   description: >+
