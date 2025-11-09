@@ -15,8 +15,8 @@ song:
   url: ""
   image: img/img_0637.jpeg
   description: >+
-    Dir zuzusehn, wenn du dein Fingerspitzengefühl einsetzt und dir intensiv
-    unsere Nummer(n) vorstellst…..
+    Dir zuzusehn, wenn du dir intensiv unsere Nummer(n) vorstellst…..und dabei
+    dein Fingerspitzengefühl einsetzt….sarebbe uno dei miei grandi desideri….
 
 
 type: rangliste
