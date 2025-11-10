@@ -14,6 +14,10 @@ song:
   title: RAFFI‘S JUKEBOX  🎸  ▶️  Soll ich dir was spielen 🎶 ❓
   url: ""
   image: img/img_0637.jpeg
-  description: "\n\n\n"
+  description: >+
+    Grazie per le belle parole…..du wunderbare Frau. Ich mag es, wenn du
+    Skorpion 🦂 meine Silhouette betrachtest….
+
+
 type: rangliste
 ---
