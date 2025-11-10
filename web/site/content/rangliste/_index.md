@@ -15,7 +15,7 @@ song:
   url: ""
   image: img/img_0637.jpeg
   description: >+
-    Ich mag dein Fingerspitzengefühl zwischen ☀️ den Zeilen lesen. Du bist so
+    Ich mag dein Fingerspitzen☀️Gefühl zwischen den Zeilen lesen. Du bist so
     anders….
 
 
