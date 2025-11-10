@@ -14,8 +14,9 @@ song:
   title: RAFFI‘S JUKEBOX  🎸  ▶️  Soll ich dir was spielen 🎶 ❓
   url: ""
   image: img/img_0637.jpeg
-  description: |+
-    Ich mag dein Fingerspitzengefühl zwischen…. ☀️ den Zeilen lesen
+  description: >+
+    Ich mag dein Fingerspitzengefühl zwischen…. ☀️ den Zeilen lesen….du bist so
+    anders….
 
 
 type: rangliste
