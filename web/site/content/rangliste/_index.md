@@ -15,8 +15,8 @@ song:
   url: ""
   image: img/img_0637.jpeg
   description: >+
-    Ich mag dich, zwischen….den Zeilen lesen. Vielleicht ist es dein
-    Fingerspitzengefühl…..das meine Phantasie anregt…..
+    Ich mag dich, zwischen….den Zeilen lesen. Es ist dein subtiles
+    Fingerspitzengefühl…..das meine Phantasie ☀️so anregt…..
 
 
 type: rangliste
