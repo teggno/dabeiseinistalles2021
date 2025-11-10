@@ -16,7 +16,7 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Ich mag dein Fingerspitzen☀️Gefühl zwischen den…..Zeilen. Du bist so anders
-    M…..
+    …
 
 
 type: rangliste
