@@ -15,7 +15,7 @@ song:
   url: ""
   image: img/img_0637.jpeg
   description: |+
-    Ich mag dein Fingerspitzengefühl….zwischen ☀️ den Zeilen lesen
+    Ich mag dein Fingerspitzengefühl zwischen…. ☀️ den Zeilen lesen
 
 
 type: rangliste
