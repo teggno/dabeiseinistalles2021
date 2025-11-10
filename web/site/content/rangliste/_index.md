@@ -15,8 +15,8 @@ song:
   url: ""
   image: img/img_0637.jpeg
   description: >+
-    Ich mag dein Fingerspitzen☀️Gefühl zwischen…. den Zeilen lesen. Auch wenn
-    mich die Illusion irreführt. Du bist so anders…
+    Ich mag dein Fingerspitzen☀️Gefühl zwischen…. den Zeilen. Auch wenn mich die
+    Illusion irreführt. Du bist so anders…
 
 
 type: rangliste
