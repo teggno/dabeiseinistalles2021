@@ -11,13 +11,9 @@ placeholder: "
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  ▶️   🎶 🎶 🎶 ❓
+  title: "RAFFI‘S JUKEBOX  🎸  ▶️   "
   url: ""
   image: img/img_0637.jpeg
-  description: >+
-    Ich mag dein Fingerspitzen☀️Gefühl zwischen den…..Zeilen. Du bist so anders
-    …
-
-
+  description: "\n\n\n"
 type: rangliste
 ---
