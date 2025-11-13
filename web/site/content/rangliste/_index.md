@@ -14,6 +14,10 @@ song:
   title: "RAFFI‘S JUKEBOX  🎸  ▶️   "
   url: ""
   image: img/img_0637.jpeg
-  description: "\n\n\n"
+  description: >+
+    Grazie per le belle parole du wunderbare Frau. Ich mag es wenn der Skorpion
+    🦂 meine Silhouette betrachtet….
+
+
 type: rangliste
 ---
