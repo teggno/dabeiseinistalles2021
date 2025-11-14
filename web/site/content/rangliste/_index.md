@@ -14,6 +14,11 @@ song:
   title: "RAFFI‘S JUKEBOX  🎸  ▶️   "
   url: ""
   image: img/img_0637.jpeg
-  description: "\n\n\n"
+  description: >+
+    wie immer mit Fingerspitzengefühl ausgewählt…..beim Studium der deutschen
+    Übersetzung rot 😊 geworden ……jetzt muss ich nur noch den Tonarm leicht
+    anheben und die passende Rille auf der Langspielplatte finden….
+
+
 type: rangliste
 ---
