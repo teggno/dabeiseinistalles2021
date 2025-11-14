@@ -18,7 +18,7 @@ song:
     wie immer mit viel Fingerspitzengefühl ausgewählt…..beim Lesen der deutschen
     Übersetzung fast umgekippt ……war das vor einem Club 🙈 jetzt muss ich nur
     noch den Tonarm leicht anheben und die passende Rille auf der
-    Langspielplatte finden….
+    Langspielplatte finden….dann läuft dein Song 🎶 
 
 
 type: rangliste
