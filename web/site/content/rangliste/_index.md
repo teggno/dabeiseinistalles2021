@@ -17,8 +17,8 @@ song:
   description: >+
     wie immer mit viel Fingerspitzengefühl ausgewählt…..beim Lesen der deutschen
     Übersetzung schier umgekippt ……war das wirklich vor einem Club 🤷‍♂️ jetzt
-    muss ich nur noch den Tonarm in die richtige Position bringen um die
-    passende Rille auf der LP zu finden….dann läuft der Klassiker…..
+    muss ich nur noch den Tonarm in die richtige Position bringen und die
+    passende Rille auf der LP finden….dann läuft der Klassiker…..
 
 
 type: rangliste
