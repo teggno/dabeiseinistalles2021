@@ -18,8 +18,7 @@ song:
     wie immer mit viel Fingerspitzengefühl ausgewählt…..beim Lesen der deutschen
     Übersetzung fast umgekippt ……war das wirklich vor einem Club 🤷‍♂️ jetzt
     muss ich nur noch den Tonarm in die richtige Position bringen um die
-    passende Rille auf der Langspielplatte zu finden….dann läuft der
-    Klassiker…..
+    passende Rille auf der LP zu finden….dann läuft der Klassiker…..
 
 
 type: rangliste
