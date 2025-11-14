@@ -16,8 +16,8 @@ song:
   image: img/img_0637.jpeg
   description: >+
     wie immer mit viel Fingerspitzengefühl ausgewählt…..beim Lesen der deutschen
-    Übersetzung fast umgekippt ……war das vor einem Club 🙈 jetzt muss ich nur
-    noch den Tonarm leicht anheben und die passende Rille auf der
+    Übersetzung fast umgekippt ……war das wirklich vor einem Club 🤷‍♂️ jetzt
+    muss ich nur noch den Tonarm leicht anheben und die passende Rille auf der
     Langspielplatte finden….dann läuft der Klassiker…..
 
 
