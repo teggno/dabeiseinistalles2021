@@ -16,8 +16,9 @@ song:
   image: img/img_0637.jpeg
   description: >+
     wie immer mit viel Fingerspitzengefühl ausgewählt…..beim Lesen der deutschen
-    Übersetzung fast rot 😊 geworden ……jetzt muss ich nur noch den Tonarm leicht
-    anheben und die passende Rille auf der Langspielplatte finden….
+    Übersetzung fast umgekippt ……war das vor der Disco 🙈 jetzt muss ich nur
+    noch den Tonarm leicht anheben und die passende Rille auf der
+    Langspielplatte finden….
 
 
 type: rangliste
