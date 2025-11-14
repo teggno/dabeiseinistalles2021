@@ -17,7 +17,7 @@ song:
   description: >+
     wie immer mit viel Fingerspitzengefühl ausgewählt…..beim Lesen der deutschen
     Übersetzung schier umgekippt ……war das wirklich vor einem Club 🤷‍♂️
-    menomale che ci siamo incontrati….jetzt muss ich nur noch den Tonarm in die
+    menomale che l’abbiamo vissuto….jetzt muss ich nur noch den Tonarm in die
     richtige Position bringen und die passende Rille auf der LP finden….dann
     läuft der Klassiker…..
 
