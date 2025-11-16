@@ -14,8 +14,6 @@ Skorpione sind Wasserzeichen – das macht sie emotional, sinnlich und tief. Kei
 
 Und wie? Ganz unterschiedlich: 49 % schauen Pornos, 70 % vertrauen auf ihre Hände, 40 % lassen ihre Fantasie spielen, Selbstbefriedigung ist hier kein Ersatz – sie ist ein Ritual.
 
-Auch in Sachen Wünsche bleibt’s spannend: 44 % wünschen sich mehr Sex, 35 % mehr Abwechslung. Nach dem Liebesspiel lieben 56 % Nähe und Kuscheln, während 51 % lieber in wohliger Entspannung nachglühen.
-
 ## Von Fantasien, Fetischen und Höhenflügen
 
 Unter der Oberfläche brodelt’s:
