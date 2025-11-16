@@ -11,9 +11,8 @@ Skorpione sind Wasserzeichen – das macht sie emotional, sinnlich und tief. Kei
 
 * 60 % befriedigen sich regelmäßig
 * 29 % starten direkt nach dem Aufwachen voller Energie
-* 28 % genießen bewusst ihre „Me-Time“
 
-Und wie? Ganz unterschiedlich: 49 % schauen Pornos, 70 % vertrauen auf ihre Hände, 40 % lassen ihre Fantasie spielen. [Selbstbefriedigung](https://www.familie.de/familienleben/6-sexy-tipps-wie-sich-jede-frau-durch-selbstbefriedigung-besser-fuehlt--01HKCWR7G5S854DB9D0HZZX3FZ) ist hier kein Ersatz – sie ist ein Ritual.
+Und wie? Ganz unterschiedlich: 49 % schauen Pornos, 70 % vertrauen auf ihre Hände, 40 % lassen ihre Fantasie spielen, Selbstbefriedigung ist hier kein Ersatz – sie ist ein Ritual.
 
 Auch in Sachen Wünsche bleibt’s spannend: 44 % wünschen sich mehr Sex, 35 % mehr Abwechslung. Nach dem Liebesspiel lieben 56 % Nähe und Kuscheln, während 51 % lieber in wohliger Entspannung nachglühen.
 
