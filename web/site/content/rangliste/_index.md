@@ -16,10 +16,10 @@ song:
   image: img/img_0637.jpeg
   description: >+
     wie immer mit viel Fingerspitzengefühl ausgewählt…..beim Lesen der deutschen
-    Übersetzung schier umgekippt ……war das wirklich vor einem Club 🤷‍♂️
-    menomale che l’abbiamo vissuto….jetzt muss ich nur noch den Tonarm in die
-    richtige Position bringen und die passende Rille auf der LP finden….dann
-    läuft der Klassiker…..
+    Übersetzung bin ich schier umgekippt ……war das wirklich vor einem Club 🤷‍♂️
+    che bello che l‘abbiamo vissuto insieme….jetzt muss ich nur noch den Tonarm
+    in die richtige Position bringen und die passende Rille auf der LP
+    finden….dann läuft der Klassiker…..
 
 
 type: rangliste
