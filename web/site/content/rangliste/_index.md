@@ -18,7 +18,7 @@ song:
     wie immer mit viel Fingerspitzengefühl ausgewählt…..beim Lesen der deutschen
     Übersetzung bin ich schier umgekippt ……war das wirklich vor einem Club
     🤷‍♂️  Die Recherche auf meinem Blog ➡️ scheint es zumindest teilweise zu
-    bestätigen 🙈
+    bestätigen 
 
 
 type: rangliste
