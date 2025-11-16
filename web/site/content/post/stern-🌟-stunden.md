@@ -10,7 +10,7 @@ image: img/img_0709.jpeg
 
 Wegen des 2. Weltkrieges fallen die Weltmeisterschaften 1942 und 1946 leider aus. 
 
-1950 wird in brasilianischen Geschichtsbüchern als das Jahr der Demütigung zelebriert.  (Damals konnte noch niemand ahnen, dass es 64 Jahre später zu einem ähnlichen Debakel kommen würde). Vor der Rekordkulisse von 170‘000 Zuschauern zerstört Uru-Legende Schiaffino den Traum einer ganzen Nation. Vor lauter Tränen soll der Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordstand gestiegen sein. Uruguay ist zum zweiten Mal Weltmeister.
+1950 wird in brasilianischen Geschichtsbüchern als das Jahr der Demütigung zelebriert.  (Damals konnte noch niemand ahnen, dass es 64 Jahre später zu einem ähnlichen Debakel kommen würde). Vor der Rekordkulisse von 170‘000 Zuschauern zerstört Uru-Legende Schiaffino den Traum einer ganzen Nation. Vor lauter Tränen soll der Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordniveau gestiegen sein. Uruguay ist zum zweiten Mal Weltmeister.
 
 1954 redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der Deutschen gewesen sein muss, belegt die Tatsache, dass Trainer Szebes auf dem Sterbebett immer noch nicht glauben wollte, dass seine unschlagbaren Ungarn nach einer 2:0 Führung das Heft noch  aus der Hand gegeben hatten. Fritz Walter und Uwe Rahn hatten Ferenc Puskas und Sandor Koscics den Schneid abgekauft. 
 
