@@ -4,7 +4,7 @@ draft: true
 date: 2025-09-09T10:10:11.371Z
 image: img/img_0709.jpeg
 ---
-1930 geht in Uruguay die erste WM über die Bühne! Montevideo heisst insgesamt 13 Mannschaften willkommen. Die meisten erreichen Südamerika mit dem Schiff. Der Gastgeber macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem goldenen Jules Rimet Wanderpokal.
+1930 bekommt der Fussball endlich was ihm gebührt! Das WM-Turnier wird aus der Taufe gehoben. In Montevideo treffen insgesamt 13 Mannschaften ein. Die meisten erreichen Südamerika mit dem Schiff. Der Gastgeber macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem goldenen Jules Rimet Wanderpokal.
 
 1934+1938 schaffen die Italiener unter Trainer Vittorio Pozzo das schier Unmögliche! Sie holen, angeführt von den Stürmern Giuseppe Meazza und Silvio Piola zweimal hintereinander den Pot.
 
