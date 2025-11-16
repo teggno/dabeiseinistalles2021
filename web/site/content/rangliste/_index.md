@@ -16,8 +16,8 @@ song:
   image: img/img_0637.jpeg
   description: >+
     wie immer mit viel Fingerspitzengefühl ausgewählt…..beim Lesen der deutschen
-    Übersetzung bin ich schier umgekippt ……war das wirklich vor einem Club 🤷‍♂️
-    Die Recherche auf meinem Blog ➡️ scheint es zumindest teilweise zu
+    Übersetzung bin ich schier umgekippt ……war das wirklich vor einem Club
+    🤷‍♂️  Die Recherche auf meinem Blog ➡️ scheint es zumindest teilweise zu
     bestätigen 🙈
 
 
