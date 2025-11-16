@@ -17,7 +17,7 @@ song:
   description: >+
     wie immer mit viel Fingerspitzengefühl ausgewählt…..beim Lesen der deutschen
     Übersetzung bin ich schier umgekippt ……war das wirklich vor einem Club 🤷‍♂️
-    sono felice che l‘abbiamo vissuto insieme….
+    Die Recherche auf meinem Blog ➡️ scheint es zu bestätigen……
 
 
 type: rangliste
