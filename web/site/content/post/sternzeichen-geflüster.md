@@ -1,5 +1,5 @@
 ---
-title: Numero Uno
+title: "Klassenprimus "
 draft: true
 date: 2025-11-16T12:25:42.594Z
 image: img/img_0715.jpeg
@@ -10,7 +10,7 @@ Tiefgründig, wild und unersättlich – Skorpione leben die Liebe mit jeder Zel
 
 Skorpione sind Wasserzeichen – das macht sie emotional, sinnlich und tief. Kein Wunder, dass sie auch beim Thema Lust neue Maßstäbe setzen.
 
-* 60 % befriedigen sich regelmäßig 🙈🙈🙈
+* 60 % befriedigen sich regelmäßig 
 
 Und wie? Ganz unterschiedlich: 49 % schauen Pornos, 70 % vertrauen auf ihre Hände, 40 % lassen ihre Fantasie spielen, Selbstbefriedigung ist hier kein Ersatz – sie ist ein Ritual.
 
