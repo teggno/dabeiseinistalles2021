@@ -21,7 +21,7 @@ Unter der Oberfläche brodelt’s:
 * 31 % träumen von Sex in der Öffentlichkeit
 * 28 % würden dabei gerne ein Toy einsetzen
 * 19 % wünschen sich ein Abenteuer auf einer Party
-* und 8 % sogar im Flugzeug
+* und 8 % mögen es im Fahrstuhl 
 
   ## Zufriedenheitsweltmeister
 
