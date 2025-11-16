@@ -35,3 +35,7 @@ Unter der Oberfläche brodelt’s:
   * 18 % haben wöchentlich Sex
 
   Auch beim Höhepunkt zeigen sie Tempo: 37 % kommen in nur fünf bis zehn Minuten – pure Intensität in Bestform.
+
+  ## Skorpione sind sexuelle Leidenschaft pur
+
+  Wer einem Skorpion begegnet, begegnet der puren Lust. Sie sind die Architekten der Leidenschaft, die Meister der Tiefe und die wahren Grenzgänger des Begehrens. Das restliche Jahr 2025 hält also noch einige Entdeckungen bereit – sinnlich, wild und authentisch.
