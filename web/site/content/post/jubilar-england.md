@@ -4,7 +4,7 @@ draft: true
 date: 2025-04-27T07:51:44.567Z
 image: img/img_0687.jpeg
 ---
-Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Brasilien 1958+1970, Deutschland 1974, Argentinien 1978 und Italien 1982+2006 haben in meinen Erinnerungen einen besonderen Platz. In diesen Nächten bin ich auf England’s Helden von nineteensixtysix fokussiert, die nach dem WM-Triumph von Königin Elisabeth zu „Sirs of the British Empire“ geschlagen wurden. 
+Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Brasilien 1958+1970, Deutschland 1954+1974, Argentinien 1978 und Italien 1982+2006 haben in meinen Erinnerungen einen besonderen Platz. In diesen Nächten bin ich auf England’s Helden von nineteensixtysix fokussiert, die nach dem WM-Triumph von Königin Elisabeth zu „Sirs of the British Empire“ geschlagen wurden. 
 
 Gordon Banks; George Cohen, Bobby Moore, Jack Charlton, Ray Wilson; Alan Ball, Nobby Stiles, Bobby Charlton, Martin Peters; Geoff Hurst und Roger Hunt.
 
