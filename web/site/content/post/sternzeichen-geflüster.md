@@ -1,5 +1,5 @@
 ---
-title: Sternzeichen-Geflüster
+title: Nomber 1️⃣
 draft: true
 date: 2025-11-16T12:25:42.594Z
 ---
