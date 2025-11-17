@@ -16,8 +16,7 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Wie immer mit viel Fingerspitzengefühl ausgewählt. Typisch Skorpion, wie
-    mein nebenstehender BLOG ➡️ herausgefunden hat. Bei „Due Vite“ auf deutsch,
-    bin ich übrigens schier umgekippt. War das wirklich vor einem Club 🤷‍♂️  
+    mein nebenstehender BLOG ➡️ herausgefunden hat. 
 
 
 type: rangliste
