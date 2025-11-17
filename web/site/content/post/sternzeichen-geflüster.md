@@ -27,7 +27,7 @@ Unter der Oberfläche brodelt’s:
 
   ## Zufriedenheitsweltmeister
 
-  Skorpione wissen, was sie wollen – und sie wissen, wie sie es bekommen. 42 % sind mit ihrem Sexleben zufrieden, und ihre Statistik spricht Bände:
+  Skorpione wissen, was sie wollen – und sie WISSEN, wie sie es BEKOMMEN. 42 % sind mit ihrem Sexleben zufrieden, und ihre Statistik spricht Bände:
 
   * 9 % haben täglich Sex
   * 32 % haben mehrmals im Monat Sex
