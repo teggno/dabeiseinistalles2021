@@ -14,7 +14,7 @@ Das macht sie emotional, sinnlich und tief. Kein Wunder, dass sie auch beim Them
 
   29 % starten direkt nach dem Aufwachen voller Energie 
 
-Und wie? Ganz unterschiedlich: 49 % schauen Pornos, 70 % vertrauen auf ihre Hände, 40 % lassen ihre Fantasie spielen, Selbstbefriedigung ist hier kein Ersatz – sie ist ein Ritual.
+Und wie? Ganz unterschiedlich: 49 % schauen Pornos,  40 % lassen ihre Fantasie spielen, Selbstbefriedigung ist hier kein Ersatz – sie ist ein Ritual.
 
 ## Von Fantasien, Fetischen und Höhenflügen
 
