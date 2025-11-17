@@ -6,7 +6,7 @@ image: img/img_0715.jpeg
 ---
 Tiefgründig, wild und unersättlich – Skorpione leben die Liebe mit jeder Zelle ihres Körpers und sie haben am häufigsten Sex von allen Sternzeichen. Wenn sie begehren, dann richtig. Kein anderes Sternzeichen vereint so viel Leidenschaft, Neugier und Tiefe zwischen den Laken wie der Skorpion.
 
-## Lust in ihrer reinsten Form – das Wasserzeichen Skorpion
+## Lust in ihrer reinsten Form 
 
 Das macht sie emotional, sinnlich und tief. Kein Wunder, dass sie auch beim Thema Lust neue Maßstäbe setzen.
 
