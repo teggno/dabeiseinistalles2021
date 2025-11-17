@@ -17,9 +17,8 @@ song:
   description: >+
     wie immer mit viel Fingerspitzengefühl ausgewählt. Typisch
     Skorpion!  Möchtest du mehr über das geheimnisvolle Sternzeichen erfahren?
-    Auf meinen Blog findest du es. Bei Mengonis deutschen Lied-Übersetzung bin
-    ich übrigens schier umgekippt. War das wirklich vor einem Club 🤷‍♂️  Deve
-    essere stato molto appassionante 🎇
+    Auf meinen Blog findest du es. Bei „Due Vite“ auf deutsch, bin ich übrigens
+    schier umgekippt. War das wirklich vor einem Club 🤷‍♂️  
 
 
 type: rangliste
