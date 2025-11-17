@@ -16,7 +16,7 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Wie immer mit viel Fingerspitzengefühl ausgewählt. Typisch Skorpion, wie
-    mein nebenstehender BLOG ➡️ herausgefunden hat. 
+    mein nebenstehender BLOG ➡️ nach intensiver Recherche herausgefunden hat. 
 
 
 type: rangliste
