@@ -10,7 +10,9 @@ Tiefgründig, wild und unersättlich – Skorpione leben die Liebe mit jeder Zel
 
 das macht sie emotional, sinnlich und tief. Kein Wunder, dass sie auch beim Thema Lust neue Maßstäbe setzen.
 
-* 60 % befriedigen sich laut Statistik regelmäßig 
+* 60 % befriedigen sich laut Statistik regelmäßig
+
+  29 % starten direkt nach dem Aufwachen voller Energie 
 
 Und wie? Ganz unterschiedlich: 49 % schauen Pornos, 70 % vertrauen auf ihre Hände, 40 % lassen ihre Fantasie spielen, Selbstbefriedigung ist hier kein Ersatz – sie ist ein Ritual.
 
