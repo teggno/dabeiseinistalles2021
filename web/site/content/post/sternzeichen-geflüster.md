@@ -1,6 +1,6 @@
 ---
 title: "Klassenprimus "
-draft: true
+draft: false
 date: 2025-11-16T12:25:42.594Z
 image: img/img_0715.jpeg
 ---
