@@ -15,11 +15,11 @@ song:
   url: https://www.youtube.com/watch?v=_iS4STWKSvk&list=RD_iS4STWKSvk&start_radio=1&pp=ygUWZHVlIHZpdGUgbWFyY28gbWVuZ29uaaAHAQ%3D%3D
   image: img/img_0637.jpeg
   description: >+
-    wie immer mit viel Fingerspitzengefühl ausgewählt, typisch Skorpion möchte
-    man anfügen. Möchtest du mehr über dieses geheimnisvolle Sternzeichen
-    erfahren? Dann klicke auf meinen Blog!  Beim Lesen des auf deutsch
-    übersetzten Songtextes, bin ich schier umgekippt. War das wirklich vor einem
-    Club 🤷‍♂️  Deve essere stato molto appassionante 🎇
+    wie immer mit viel Fingerspitzengefühl ausgewählt, typisch
+    Skorpion!  Möchtest du mehr über das geheimnisvolle Sternzeichen erfahren?
+    Auf meinen Blog erfährst du es. Beim Lesen der deutschen Lied-Übersetzung
+    bin ich übrigens schier umgekippt. War das wirklich vor einem Club
+    🤷‍♂️  Deve essere stato molto appassionante 🎇
 
 
 type: rangliste
