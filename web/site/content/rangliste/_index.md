@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2025-06-28T16:21:39.959Z
 image: ""
-showPlaceholder: false
+showPlaceholder: true
 placeholder: "
 
   Diese Seite ist nicht mehr verfügbar\ 
@@ -11,13 +11,9 @@ placeholder: "
 
   \ "
 song:
-  title: RAFFI‘S JUKEBOX  🎸  Ich begehre  ▶️  DICh
-  url: https://www.youtube.com/watch?v=_iS4STWKSvk&list=RD_iS4STWKSvk&start_radio=1&pp=ygUWZHVlIHZpdGUgbWFyY28gbWVuZ29uaaAHAQ%3D%3D
+  title: "RAFFI‘S JUKEBOX  🎸   ▶️  "
+  url: ""
   image: img/img_0637.jpeg
-  description: >+
-    Wie immer mit viel Fingerspitzengefühl ausgewählt. Typisch Skorpion, wie
-    mein nebenstehender BLOG ➡️ nach intensiver Recherche herausgefunden hat. 
-
-
+  description: "\n\n\n"
 type: rangliste
 ---
