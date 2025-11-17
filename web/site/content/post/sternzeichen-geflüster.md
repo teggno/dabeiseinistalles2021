@@ -8,7 +8,7 @@ Tiefgründig, wild und unersättlich – Skorpione leben die Liebe mit jeder Zel
 
 ## Lust in ihrer reinsten Form – das Wasserzeichen Skorpion
 
-das macht sie emotional, sinnlich und tief. Kein Wunder, dass sie auch beim Thema Lust neue Maßstäbe setzen.
+Das macht sie emotional, sinnlich und tief. Kein Wunder, dass sie auch beim Thema Lust neue Maßstäbe setzen.
 
 * 60 % befriedigen sich laut Statistik regelmäßig
 
