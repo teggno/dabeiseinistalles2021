@@ -16,7 +16,7 @@ Das macht sie emotional, sinnlich und tief. Kein Wunder, dass sie auch beim Them
 
 Und wie? Ganz unterschiedlich: 49 % schauen Pornos,  40 % lassen ihre Phantasie spielen, Selbstbefriedigung ist hier kein Ersatz – sie ist ein Ritual.
 
-## Von Fantasien, Fetischen und Höhenflügen
+## Von Phantasien, Fetischen und Höhenflügen
 
 Unter der Oberfläche brodelt’s:
 
