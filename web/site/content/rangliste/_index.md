@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "
 
-  Diese Seite ist nicht mehr verfügbar\ 
+  Diese Seite ist hat keine Lust mehr
 
 
 
