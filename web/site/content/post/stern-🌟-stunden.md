@@ -1,6 +1,6 @@
 ---
 title: Stern 🌟 stunden Teil 1
-draft: false
+draft: true
 date: 2025-09-09T10:10:11.371Z
 image: ""
 ---
