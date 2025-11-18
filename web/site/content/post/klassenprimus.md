@@ -6,7 +6,7 @@ image: img/img_0715.jpeg
 ---
 # Liebesleben vom Sternzeichen Skorpion: Geheime Wünsche und echte Leidenschaften
 
-Tiefgründig, wild und unersättlich – Skorpione leben die Liebe mit jeder Zelle ihres Körpers und sie haben am häufigsten Sex von allen Sternzeichen. Wenn sie begehren, dann richtig. Der **AMORELIE Sexreport 2025** offenbart: Kein anderes Sternzeichen vereint so viel Leidenschaft, Neugier und Tiefe zwischen den Laken wie der Skorpion.
+Tiefgründig, wild und unersättlich – Skorpione leben die Liebe mit jeder Zelle ihres Körpers und sie haben am häufigsten Sex von allen Sternzeichen. Wenn sie begehren, dann richtig. Der Kein anderes Sternzeichen vereint so viel Leidenschaft, Neugier und Tiefe zwischen den Laken wie der Skorpion.
 
 ## Lust in ihrer reinsten Form – das Wasserzeichen Skorpion
 
@@ -16,7 +16,7 @@ Skorpione sind Wasserzeichen – das macht sie emotional, sinnlich und tief. Kei
 * 29 % starten direkt nach dem Aufwachen voller Energie
 * 28 % genießen bewusst ihre „Me-Time“
 
-Und wie? Ganz unterschiedlich: 49 % schauen Pornos, 70 % vertrauen auf ihre Hände, 40 % lassen ihre Fantasie spielen. [Selbstbefriedigung](https://www.familie.de/familienleben/6-sexy-tipps-wie-sich-jede-frau-durch-selbstbefriedigung-besser-fuehlt--01HKCWR7G5S854DB9D0HZZX3FZ) ist hier kein Ersatz – sie ist ein Ritual.
+Und wie? Ganz unterschiedlich: 49 % schauen Pornos, 70 % vertrauen auf ihre Hände, 40 % lassen ihre Fantasie spielen.  Sie ist hier kein Ersatz – sie ist ein Ritual.
 
 Auch in Sachen Wünsche bleibt’s spannend: 44 % wünschen sich mehr Sex, 35 % mehr Abwechslung. Nach dem Liebesspiel lieben 56 % Nähe und Kuscheln, während 51 % lieber in wohliger Entspannung nachglühen.
 
