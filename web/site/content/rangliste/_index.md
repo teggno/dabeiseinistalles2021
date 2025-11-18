@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "
 
-  Diese Seite ist hat keine Lust mehr
+  Dieser Seite 📜 ist die Lust vergangen\ 
 
 
 
