@@ -25,6 +25,20 @@ Unter der Oberfläche brodelt’s:
 * 31 % träumen von Sex in der Öffentlichkeit
 * 28 % würden dabei gerne ein Toy einsetzen
 * 19 % wünschen sich ein Abenteuer auf einer Party
-* und 8 % sogar im Flugzeug
+* und 8 % sogar im Fahrstuhl
 
-Bei Kinks und Vorlieben zeigen Skorpione klare Linien: 45 % stehen auf bestimmte Körperteile, 42 % auf Bondage oder BDSM, und 47 % lieben es, Rollen zu leben – ob dominant oder hingebungsvoll.
+
+
+## Zufriedenheitsweltmeister
+
+Skorpione wissen, was sie wollen – und sie wissen, wie sie es bekommen. 42 % sind mit ihrem Sexleben zufrieden, und ihre Statistik spricht Bände:
+
+* 9 % haben täglich Sex
+* 32 % haben mehrmals im Monat Sex
+* 18 % haben wöchentlich Sex
+
+Auch beim Höhepunkt zeigen sie Tempo: 37 % kommen in nur fünf bis zehn Minuten – pure Intensität in Bestform.
+
+## Skorpione sind sexuelle Leidenschaft pur
+
+Wer einem Skorpion begegnet, begegnet der puren Lust. Sie sind die Architekten der Leidenschaft, die Meister der Tiefe und die wahren Grenzgänger des Begehrens. Das restliche Jahr 2025 hält also noch einige Entdeckungen bereit – sinnlich, wild und authentisch.
