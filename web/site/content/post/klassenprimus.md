@@ -14,9 +14,8 @@ Skorpione sind Wasserzeichen – das macht sie emotional, sinnlich und tief. Kei
 
 * 60 % befriedigen sich regelmäßig
 * 29 % starten direkt nach dem Aufwachen voller Energie
-* 28 % genießen bewusst ihre „Me-Time“
 
-Und wie? Ganz unterschiedlich: 49 % schauen Pornos, 70 % vertrauen auf ihre Hände, 40 % lassen ihre Fantasie spielen.  Sie ist hier kein Ersatz – sie ist ein Ritual.
+  Und wie? Ganz unterschiedlich: 49 % schauen Pornos, 70 % vertrauen auf ihre Hände, 40 % lassen ihre Fantasie spielen.  Sie ist hier kein Ersatz – sie ist ein Ritual.
 
 ## Von Fantasien, Fetischen und Höhenflügen
 
