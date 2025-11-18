@@ -2,7 +2,7 @@
 title: Stern 🌟 stunden Teil 1
 draft: true
 date: 2025-09-09T10:10:11.371Z
-image: img/img_0709.jpeg
+image: ""
 ---
 1930 bekommt der Fussball endlich was ihm gebührt! Das WM-Turnier wird aus der Taufe gehoben. In Montevideo treffen insgesamt 13 Mannschaften ein. Die meisten erreichen Südamerika mit dem Schiff. Fehlende Devisen und notorische Flugangst sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem goldenen Jules Rimet Wanderpokal.
 
