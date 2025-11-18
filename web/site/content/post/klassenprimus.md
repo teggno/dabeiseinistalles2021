@@ -6,7 +6,7 @@ image: img/img_0715.jpeg
 ---
 # Liebesleben vom Sternzeichen Skorpion: Geheime Wünsche und echte Leidenschaften
 
-Tiefgründig, wild und unersättlich – Skorpione leben die Liebe mit jeder Zelle ihres Körpers und sie haben am häufigsten Sex von allen Sternzeichen. Wenn sie begehren, dann richtig. Der Kein anderes Sternzeichen vereint so viel Leidenschaft, Neugier und Tiefe zwischen den Laken wie der Skorpion.
+Tiefgründig, wild und unersättlich – Skorpione leben die Liebe mit jeder Zelle ihres Körpers und sie haben am häufigsten Sex von allen Sternzeichen. Wenn sie begehren, dann richtig. Denn kein anderes Sternzeichen vereint so viel Leidenschaft, Neugier und Tiefe zwischen den Laken wie der Skorpion.
 
 ## Lust in ihrer reinsten Form – das Wasserzeichen Skorpion
 
