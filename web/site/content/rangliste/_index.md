@@ -12,7 +12,7 @@ placeholder: "
   \ "
 song:
   title: RAFFI‘S JUKEBOX  🎸 ich sollte mir  ▶️  dich abgewöhnen…..
-  url: https://www.youtube.com/watch?v=_iS4STWKSvk&list=RD_iS4STWKSvk&start_radio=1&pp=ygUQbWVuZ29uaSBkdWUgdml0ZaAHAQ%3D%3D
+  url: https://www.youtube.com/watch?v=7y6wGkeCnRc&list=RD7y6wGkeCnRc&start_radio=1&pp=ygUMcGlubyBkYW5pZWxloAcB
   image: img/img_0637.jpeg
   description: "\n\n\n"
 type: rangliste
