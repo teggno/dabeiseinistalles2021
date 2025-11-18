@@ -1,5 +1,5 @@
 ---
-title: "Klassenprimus "
+title: klassenprimus
 draft: false
 date: 2025-11-18T10:13:02.726Z
 image: img/img_0719.jpeg
