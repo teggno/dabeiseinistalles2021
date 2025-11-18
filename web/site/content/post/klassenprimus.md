@@ -1,7 +1,7 @@
 ---
-title: klassenprimus
+title: "Klassenprimus "
 draft: false
-date: 2025-11-18T10:13:02.726Z
+date: 2025-11-18T14:03:23.644Z
 image: img/img_0719.jpeg
 ---
 # Liebesleben vom Sternzeichen Skorpion: Geheime Wünsche und echte Leidenschaften
