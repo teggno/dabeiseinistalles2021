@@ -1,8 +1,8 @@
 ---
 title: Happy Birthday 🎂
-draft: true
+draft: false
 date: 2025-04-27T07:51:44.567Z
-image: img/img_0687.jpeg
+image: ""
 ---
 Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Brasilien 1958+1970, Deutschland 1954+1974, und Italien 1982+2006 haben in meinen Erinnerungen einen besonderen Platz. In diesen Nächten bin ich auf England’s Helden von nineteensixtysix fokussiert, die nach dem WM-Triumph von Königin Elisabeth zu „Sirs of the British Empire“ geschlagen wurden. 
 
