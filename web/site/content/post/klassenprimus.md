@@ -26,8 +26,6 @@ Unter der Oberfläche brodelt’s:
 * 19 % wünschen sich ein Abenteuer auf einer Party
 * und 8 % sogar im Fahrstuhl
 
-
-
 ## Zufriedenheitsweltmeister
 
 Skorpione wissen, was sie wollen – und sie wissen, wie sie es bekommen. 42 % sind mit ihrem Sexleben zufrieden, und ihre Statistik spricht Bände:
@@ -40,4 +38,4 @@ Auch beim Höhepunkt zeigen sie Tempo: 37 % kommen in nur fünf bis zehn Minuten
 
 ## Skorpione sind sexuelle Leidenschaft pur
 
-Wer einem Skorpion begegnet, begegnet der puren Lust. Sie sind die Architekten der Leidenschaft, die Meister der Tiefe und die wahren Grenzgänger des Begehrens. Das restliche Jahr 2025 hält also noch einige Entdeckungen bereit – sinnlich, wild und authentisch.
+Wer einem Skorpion begegnet, begegnet der puren Lust. Sie sind die Architekten der Leidenschaft, die Meister der Tiefe und die wahren Grenzgänger des Begehrens. Das restliche Jahr 2025 hält also noch einige Entdeckungen bereit – sinnlich, wild und authentisch. (lJUKEBOX 🎸)
