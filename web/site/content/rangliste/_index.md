@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "
 
-  Dieser Seite 📜 ist die Lust vergangen\ 
+  Dieser Seite 📜 ist die Lust vergangen 😞
 
 
 
