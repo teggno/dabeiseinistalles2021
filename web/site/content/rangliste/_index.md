@@ -11,7 +11,7 @@ placeholder: "
 
   \ "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸   ▶️  "
+  title: RAFFI‘S JUKEBOX  🎸 ich sollte mir  ▶️  dich abgewöhnen…..
   url: ""
   image: img/img_0637.jpeg
   description: "\n\n\n"
