@@ -11,8 +11,8 @@ placeholder: "
 
   \ "
 song:
-  title: "RAFFI‘S JUKEBOX  🎸 🎆🎇   ▶️  "
-  url: https://www.youtube.com/watch?v=pSHI-NPC3Kg
+  title: "RAFFI‘S JUKEBOX  🎸  ▶️  "
+  url: ""
   image: img/img_0637.jpeg
   description: "\n\n\n"
 type: rangliste
