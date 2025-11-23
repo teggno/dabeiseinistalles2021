@@ -16,4 +16,7 @@ Phase 4 \
 Algorithmus-Papst Damien Comolli übernimmt das Ruder! Spieler werden nach Statistiken verpflichtet! Haudegen und Eigengewächs Tudor wird zum Mister gemacht. Anfänglich geht alles gut, bis auch er an seinen Nobodys scheitert. Lucianone Spalletti alias Sigmund Freud springt in die Bresche. Sein Fiasko mit der Nationalmannschaft liegt wenige Monate zurück.   Er redet due Mannschaft begreiflicherweise schön. Doch aus Zapponis lässt sich nichts machen.
 
 Phase 5 \
-Juve fällt immer weiter zurück. Von Spalletti-Touch keine Rede! Der Mann ist unsicher und schwerfällig geworden.
+Juve fällt immer weiter zurück. Von Spalletti-Touch keine Rede! Der Mann ist unsicher und schwerfällig geworden. Sein Sturm ist ein laues Lüftchen. Erinnerungen an Scirea, Cabrini, Platini und Bettega werden wach. Momentan würde es auch ein Granit Xhaka tun. Doch der hat keine Lust. Wie die meisten, die mehr als einen 5 Meterpass spielen können.
+
+Phase 6. \
+Die Champions-League hängt an einem seidenen Faden.
