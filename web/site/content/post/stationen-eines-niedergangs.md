@@ -5,8 +5,8 @@ date: 2025-11-23T07:40:38.926Z
 image: img/img_0720.jpeg
 ---
 Phase 1\
-9 Meistertitel in Folge, 2 Champions League Finale! Alles läuft wie geschmiert! Italien trägt weiss-schwarz. Zwischen Juve und dem Rest liegen Welten! Agnelli, Marotta, Nedved, Conte, Allegri, Buffon, Chiellini, Pirlo, Tevez & many more! Die Alte Dame kann jeden haben, den sie will! \
-\
+9 Meistertitel in Folge, 2 Champions League Finale! Alles läuft wie geschmiert! Italien trägt weiss-schwarz. Zwischen Juve und dem Rest liegen Welten! Agnelli, Marotta, Nedved, Conte, Allegri, Buffon, Chiellini, Pirlo, Tevez & many more! Die Alte Dame kann jeden haben, den sie will. Sogar CR7!
+
 Phase 2 \
 Der Grössenwahn greift um sich!  Sportdirektor Marotta wird abserviert (zu Inter), sein Ziehsohn Paratici neu installiert und „Edeln…e“ Ronaldo für 300 Millionen (Ablöse+Gehalt) angeheuert! Mit der Vorgabe CL-Sieg! Scudetto allein ist zu banal geworden. Einen Auftrag, den er nie erfüllen wird. Auch Sarri nicht, der den Verantwortlichen als Versuchskaninchen dient. Fussball fürs Auge heisst die neue Devise! Gewinnen allein, genügt nicht mehr. Doch es fehlt an der nötigen Zeit.  Der Druck ist riesig. Trotz Meistertitel muss Maurizio nach einer Saison gehn, Andrea Pirlo „Il maestro“ steht bereit! Ein Flop mit Ansage! Dann kommt es zu Allegris Comeback! Auf italienisch „eine aufgewärmte Minestra“. Die Brühe ist ungeniessbar! Verbotene??? Bilanztransaktionen führen nach monatelangen Gerichtsverhandlungen zu schmerzlichen Punkteabzügen. Die Einnahmen aus der nächsten CL sind dahin. Agnelli, Nedved und Paratici kriegen zwischen zwei und drei Jahren Berufsverbot. 
 
