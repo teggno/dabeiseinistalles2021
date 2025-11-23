@@ -13,4 +13,7 @@ Phase 3 \
 Die Technokraten kommen an Bord! Big Boss John Elkann, Scanavino und wie sie alle heissen! Die Bilanz wird immer roter! Kapitalerhöhungen am laufenden Band! Über eine Milliarde! Sachverstand fehlt! Geldverschwendung für durchschnittliche Spieler! Vlahovic, Douglas Luiz, Nico González, Openda, David, Locatelli, Koopmeiners!  Um die Verluste auszugleichen werden Nachwuchsspieler für wenig Geld verhökert! Hujsen, Savona! Abrutschen in der Tabelle. Newcomer Motta kriegt die Mannschaft nicht in den Griff! Sportdirektor Giuntoli setzt auf die falschen Pferde. Beide entlassen!
 
 Phase 4 \
-Algorithmus-Papst Damien Comolli übernimmt das Ruder! Spieler werden nach Statistiken verpflichtet! Haudegen und Eigengewächs Tudor wird zum Mister gemacht. Anfänglich geht alles gut, bis auch er an seinen Nobodys scheitert.
+Algorithmus-Papst Damien Comolli übernimmt das Ruder! Spieler werden nach Statistiken verpflichtet! Haudegen und Eigengewächs Tudor wird zum Mister gemacht. Anfänglich geht alles gut, bis auch er an seinen Nobodys scheitert. Lucianone Spalletti alias Sigmund Freud springt in die Bresche. Sein Fiasko mit der Nationalmannschaft liegt wenige Monate zurück.   Er redet due Mannschaft begreiflicherweise schön. Doch aus Zapponis lässt sich nichts machen.
+
+Phase 5 \
+Juve fällt immer weiter zurück. Von Spalletti-Touch keine Rede! Der Mann ist unsicher und schwerfällig geworden.
