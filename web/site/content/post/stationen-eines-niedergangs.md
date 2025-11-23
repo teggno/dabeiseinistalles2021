@@ -8,7 +8,7 @@ Phase 1\
 9 Meistertitel in Folge, 2 Champions League Finale! Conte, Allegri, Marotta, Agnelli! Buffon, Chiellini, Pirlo, Tevez & many more! Die Welt liegt Juve zu Füssen! Die Alte Dame kann  jeden haben, den sie will! \
 \
 Phase 2 \
-Der Grössenwahn! Marotta abserviert (zu Inter) Paratici installiert. Ronaldo bei Sothebys für insgesamt 300 Millionem ersteigert! Sarri ausprobiert! Ungeduld! Lehrling Pirlo in die Kommandokabine! Flop! Aufgewärmte Minestra Allegri zurück! Ungeniessbar! Verbotene??? Bilanztransaktionen! Punkteabzüge! Berufsverbot für Agnelli, Nedved und Paratici!
+Der Grössenwahn setzt ein! Marotta wird abserviert (zu Inter) Paratici neu installiert. “Edeln…e“ Ronaldo für insgesamt 300 Millionem angeheuert! Maurizio Sarri wird zum Versuchskaninchen! Weit und breit herrscht Ungeduld! Professor weg, Pirlo rein! Flop mit Ansage! Aufgewärmte Minestra Allegri kehrt zurück! Ungeniessbar! Verbotene??? Bilanztransaktionen! Punkteabzüge! Berufsverbot für Agnelli, Nedved und Paratici!
 
 Phase 3 \
 Die Technokraten kommen an Bord! Big Boss John Elkann, Scanavino und wie sie alle heissen! Die Bilanz wird immer roter! Kapitalerhöhungen am laufenden Band! Über eine Milliarde! Sachverstand fehlt! Geldverschwendung für durchschnittliche Spieler! Vlahovic, Douglas Luiz, Nico González, Openda, David, Locatelli, Koopmeiners!  Um die Verluste auszugleichen werden Nachwuchsspieler für wenig Geld verhökert! Hujsen, Savona! Abrutschen in der Tabelle. Newcomer Motta kriegt die Mannschaft nicht in den Griff! Sportdirektor Giuntoli setzt auf die falschen Pferde. Beide entlassen!
