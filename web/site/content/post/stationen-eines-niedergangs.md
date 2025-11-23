@@ -20,4 +20,4 @@ Phase 5 \
 Juve fällt immer weiter zurück. Von Spalletti-Touch keine Rede! Der Mann ist unsicher und schwerfällig geworden. Ignoriert gewisse Spieler! Der Sturm ist inexistent! Die Verteidigung wackelt. Das Mittelfeld stottert. Ein Granit Xhaka wäre Gold wert. Doch der hat keine Lust. Wie die meisten, die mehr als einen 5-Meterpass spielen können.
 
 Phase 6. \
-Die Champions-League hängt an einem seidenen Faden. Wenn Spalletti es nicht schafft, steht Antonio in den Startlöchern. Zac stellt seine „Familienbande“ zur Disposition. Un anno sabbatico steht im Raum. Bobetto wartet immer noch vergebens auf einen Anruf aus der Kommandozentrale. Hätten sie nur ihm damals die Milliarde in die Hände gedrückt 😎
+Die Champions-League hängt an einem seidenen Faden. Wenn Spalletti es nicht schafft, steht Messias Antonio in den Startlöchern. Zac stellt seine „Familienbande“ zur Disposition. „Un anno sabbatico“ steht im Raum. Bobetto wartet immer noch vergebens auf einen Anruf aus der Kommandozentrale. Hätten sie nur ihm damals die Milliarde in die Hände gedrückt 😎
