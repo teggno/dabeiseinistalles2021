@@ -7,4 +7,4 @@ Eins vorweg! Ich mag sie nicht, diese zweckoptimistischen Aussagen im Stile von 
 
 Doch davon will man im Land der inbrünstigen Hymne-Sänger nichts wissen. Schliesslich ist man viermaliger Weltmeister. Dass die Zeiten von Tardelli, Scirea und Rossi längst passé sind, scheint in den Köpfen verwöhnter Tifosis nicht angekommen zu sein. Wir Normalsterbliche würden uns selbst mit Pirlo, Totti und Del Piero zufriedengeben. 
 
-Stattdessen schlagen wir uns mit Bastoni, Di Lorenzo, Politano und Locatelli herum.
+Stattdessen schlagen wir uns mit Bastoni, Politano und Locatelli herum. Drei Spieler, die früher nicht einmal im erweiterten 50-Mann-Kader Platz gefunden hätten. Waren es früher die Eidgenossen, die überall spöttisches Mitleid erregten, sind es heute die Söhne der einstigen Einwanderer-Generation.
