@@ -5,7 +5,7 @@ date: 2025-11-23T07:40:38.926Z
 image: img/img_0720.jpeg
 ---
 Phase 1\
-9 Meistertitel in Folge, 2 Champions League Finale! Conte, Allegri, Marotta, Agnelli! Buffon, Chiellini, Pirlo, Tevez & many more! Die Welt liegt Juve zu Füssen! Die Alte Dame kann  jeden haben, die du willst \
+9 Meistertitel in Folge, 2 Champions League Finale! Conte, Allegri, Marotta, Agnelli! Buffon, Chiellini, Pirlo, Tevez & many more! Die Welt liegt Juve zu Füssen! Die Alte Dame kann  jeden haben, den sie will! \
 \
 Phase 2 \
 Der Grössenwahn! Marotta abserviert (zu Inter) Paratici installiert. Ronaldo bei Sothebys für insgesamt 300 Millionem ersteigert! Sarri ausprobiert! Ungeduld! Lehrling Pirlo in die Kommandokabine! Flop! Aufgewärmte Minestra Allegri zurück! Ungeniessbar! Verbotene??? Bilanztransaktionen! Punkteabzüge! Berufsverbot für Agnelli, Nedved und Paratici!
