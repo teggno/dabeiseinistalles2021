@@ -17,7 +17,7 @@ Phase 4 \
 Algorithmus-Papst Damien Comolli übernimmt das Ruder! Spieler werden nach Statistiken verpflichtet! Haudegen und Eigengewächs Tudor wird zum „Mister“ befördert. Anfänglich geht alles gut, bis auch er an seinen Nobodys scheitert. Lucianone Spalletti alias Sigmund Freud springt in die Bresche. Gibt sich mit einem Sechsmonatekontrakt zufrieden. Sein Fiasko mit der Nationalmannschaft liegt wenige Monate zurück.  Er redet die Mannschaft verständlicherweise in den Himmel. Doch aus „Zapponis„ lässt sich kein Team formen.
 
 Phase 5 \
-Juve fällt immer weiter zurück. Von Spalletti-Touch keine Rede! Der Mann ist unsicher und schwerfällig geworden. Ignoriert gewisse Spieler! Der Sturm ist inexistent! Die Verteidigung wackelt. Das Mittelfeld stottert. Ein Granit Xhaka wäre Gold wert. Doch der hat keine Lust. Wie die meisten, die mehr als einen 5-Meterpass spielen können.
+Juve fällt immer weiter zurück. Von Spalletti-Touch keine Rede! Der Mann ist unsicher und schwerfällig geworden. Ignoriert gewisse Spieler! Ist er wieder der Falsche?  Der Sturm ist inexistent! Die Verteidigung wackelt. Das Mittelfeld stottert. Ein Granit Xhaka wäre Gold wert. Doch der hat keine Lust. Wie die meisten, die mehr als einen 5-Meterpass spielen können.
 
 Phase 6. \
 Die Champions-League hängt an einem seidenen Faden. Wenn Spalletti es nicht schafft, steht Messias Antonio in den Startlöchern. Zac stellt seine „Familienbande“ zur Disposition. „Un anno sabbatico“ steht im Raum. Bobetto wartet immer noch vergebens auf einen Anruf aus der Kommandozentrale. Hätten sie nur ihm damals die Milliarde in die Hände gedrückt 😎
