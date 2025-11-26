@@ -14,7 +14,7 @@ Wegen des 2. Weltkrieges fallen die Weltmeisterschaften 1942 und 1946 leider aus
 
 1954 redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der Deutschen gewesen sein muss, belegt die Tatsache, dass Trainer Szebes auf dem Sterbebett immer noch nicht glauben wollte, dass seine unschlagbaren Ungarn nach einer 2:0 Führung das Heft noch  aus der Hand gegeben hatten. Fritz Walter und Uwe Rahn hatten Ferenc Puskas und Sandor Koscics den Schneid abgekauft. 
 
-1958 sind die Tränen der Sambatänzer endlich getrocknet! Gilmar-Djalma Santos-Didi-Vava-Garrincha und der erst 17 jährige Edson do Santos de Nascimento, alias Pelé hatten den Zuckerhut dank ihres spektakulären Offensivfussballs fast zum Schmelzen gebracht. Das revolutionäre 4-2-4 war geboren!
+1958 sind die Tränen der Sambatänzer endlich getrocknet! Gilmar-die Brüder Nilton und Djalma Santos-Didi-Vava-Garrincha und der erst 17 jährige Edson do Santos de Nascimento, alias Pelé hatten den Zuckerhut dank ihres spektakulären Offensivfussballs fast zum Schmelzen gebracht. Das revolutionäre 4-2-4 war geboren!
 
 1962 geht als die WM der bösen Buben in die Geschichte ein. Grätschen gehören zum guten Ton! Wilde Schlägereien sorgen für Abwechslung. Chile-Italien ist der absolute „Höhepunkt“. Den Brasilianern gelingt es, ihren Titel souverän zu verteidigen. Auch ohne ihren verletzten Stürmerstar Pelé. Mann des Turniers ist Rechtsaussen Garrincha, der bis heute als Dribblekünstler par excellence in den Annalen gewürdigt wird.
 
