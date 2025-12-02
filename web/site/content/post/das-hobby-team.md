@@ -6,7 +6,7 @@ image: img/img_0724.jpeg
 ---
 Wänn vor lutär Haggä, Rumba, Molotov, Poker, Coiffeur und Schufflä ♠️ Jass vergessen geht, dass neben der Zockerei noch andere Vergnügen existieren, kommt derjenige wie gerufen, der den Einfall hat, wie man diese „Suchtopfer“ aus ihrer ausweglosen Situation herausholen könnte.
 
-Somit war die Geburtsstunde einer Kneipenmannschaft nicht mehr weit. Zuerst musste ein passender Name gefunden werden. FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten der Gestrandeten mittlerweile dort  ihren ZweitWohnsitz aufgestellt. Es fehlten nur noch die Betten 🛌 Als man davon ausgehen musste, dass der OFV diese Bezeichnung ablehnen würde und das „Starensemble“ nicht gerade von Ausnahmetalenten übersät war, entschied man sich in einer geheimen Abstimmung für den Begriff „Hobby-Team“.
+Somit war die Geburtsstunde einer Kneipenmannschaft nicht mehr weit. Zuerst musste ein passender Name gefunden werden. FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten der Gestrandeten mittlerweile dort  ihren ZweitWohnsitz aufgestellt. Es fehlten nur noch die Betten 🛌 Als man davon ausgehen musste, dass der OFV diese Bezeichnung ablehnen würde und das „Starensemble“ nicht gerade von Ausnahmetalenten übersät war, entschied man sich für den Begriff „Hobby-Team“.
 
 Leider hat man es damals versäumt, ein Tagebuch zu führen. Es hätte ein Bestseller werden können, nur schon der illustren Köpfe wegen. Leute die beim Jonglieren nicht über zweimal hoch herauskamen, wollten unbedingt einen Pass beantragen.  Plötzlich litten die Jungs nicht mehr nur am Jassfieber! Das Fussballfieber war ausgebrochen.
 
