@@ -10,4 +10,4 @@ Somit war die Geburtsstunde einer Kneipenmannschaft nicht mehr weit. Zuerst muss
 
 Leider hat man es damals verpasst ein Tagebuch zu führen. Es hätte ein Bestseller werden können, nur schon der illustren Köpfe wegen. Leute die noch nie einen Ball mehr als fünfmal jongliert hatten, wollten unbedingt einen Pass beantragen.  Plötzlich litten die Jungs nicht mehr nur am Jassfieber! Das Fussballfieber war ausgebrochen.
 
-Mit einem für damalige Verhältnisse hochmodernen 4-3-3 ging es zum ersten Freundschaftsspiel gegen die Kreuzlinger-Reserven. Auf dem Spielbogen standen Baffi; Wisi-Teacher-Illov-Schuhmake; Ruppli
+Mit einem für damalige Verhältnisse hochmodernen 4-3-3 ging es zum ersten Freundschaftsspiel gegen die Kreuzlinger-Reserven. Auf dem Spielbogen standen Baffi; Wisi-Teacher-Iller-Schuhmake; Willi Meier-Heinz Ruppli-René Maier; Berni-Brunette und Linksaussen Banquette.
