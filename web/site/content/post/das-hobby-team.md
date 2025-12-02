@@ -4,9 +4,9 @@ draft: true
 date: 2025-12-02T14:03:28.842Z
 image: img/img_0724.jpeg
 ---
-Wänn vor lutär Haggä und Pokär, Molotov und Rumba, Coiffeur- und Schufflä ♠️ Jass in Vergessenheit gerät, dass neben der Zockerei noch andere Vergnügen existieren, kommt derjenige wie gerufen, der die Idee hat, wie man „Suchtopfer“ aus ihrer ausweglosen Situation befreit.
+Wänn vor lutär Haggä und Pokär, Molotov und Rumba, Coiffeur- und Schufflä ♠️ Jass in Vergessenheit gerät, dass neben der Zockerei noch andere Vergnügen existieren, kommt derjenige wie gerufen, der die Idee hat, wie man „Suchtopfer“ aus ihrer ausweglosen Situation befreit. Die Geburtsstunde der „Kneipenmannschaft“ rückte näher!
 
-Von da an gab es kein Halten mehr. Die Geburtsstunde einer Kneipenmannschaft war nicht mehr weit. Zuerst musste ein passender Name gefunden werden. FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten der Gestrandeten mittlerweile dort  ihren Zweitwohnsitz aufgestellt. Es fehlten lediglich die Matratzen. Als man davon ausgehen musste, dass der OFV diese Bezeichnung ablehnen würde und das „Starensemble“ nicht gerade von Ausnahmetalenten übersät war, entschied man sich für die Bezeichnung F.C. Kreuzlingen „Hobby-Team“.
+Zuerst musste ein passender Name gefunden werden. FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten der Gestrandeten mittlerweile dort  ihren Zweitwohnsitz aufgestellt. Es fehlten lediglich die Matratzen. Als man davon ausgehen musste, dass der OFV diese Bezeichnung ablehnen würde und das „Starensemble“ nicht gerade von Ausnahmetalenten übersät war, entschied man sich für die Bezeichnung F.C. Kreuzlingen „Hobby-Team“.
 
 Leider hat man es damals versäumt, ein Tagebuch zu führen. Es hätte ein Bestseller werden können, nur schon der illustren Köpfe wegen. Leute die beim Jonglieren Mühe hatten, das Leder mehr als zweimal über dem Boden zu halten, wollten unbedingt einen Spieler-Pass beantragen.  Plötzlich litten die Jungs nicht mehr nur an Jassfieber! Die Fussballmanie war ausgebrochen.
 
