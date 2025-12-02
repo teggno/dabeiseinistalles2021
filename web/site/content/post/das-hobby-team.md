@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-02T14:03:28.842Z
 image: img/img_0724.jpeg
 ---
-Wänn vor lutär Haggä, Rumba, Molotov, Poker, Coiffeur und Schufflä ♠️ Jass vergessen geht, dass neben der Zockerei noch andere Vergnügen existieren, kommt derjenige wie gerufen, der die Kraft aufbringt, diesen „Suchtopfern“ einen Weg aus ihrer ausweglosen Situation aufzuzeigen.
+Wänn vor lutär Haggä, Rumba, Molotov, Poker, Coiffeur und Schufflä ♠️ Jass vergessen geht, dass neben der Zockerei noch andere Vergnügen existieren, kommt derjenige wie gerufen, der den Einfall hat, wie man diesen „Suchtopfern“ aus ihrer ausweglosen Situation heraushel könnte. 
 
 Somit war die Geburtsstunde einer Kneipenmannschaft nicht mehr weit. Zuerst musste ein passender Name gefunden werden. FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten der Gestrandeten mittlerweile dort  ihren ZweitWohnsitz aufgestellt. Es fehlten nur noch die Betten 🛌 Als man davon ausgehen musste, dass der OFV diese Bezeichnung ablehnen würde und das „Starensemble“ nicht gerade von Ausnahmetalenten übersät war, entschied man sich in einer geheimen Abstimmung für den Begriff „Hobby-Team“.
 
