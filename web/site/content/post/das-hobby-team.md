@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-02T14:03:28.842Z
 image: img/img_0724.jpeg
 ---
-Wänn vor lutär Haggä und Pokär, Molotov und Rumba, Coiffeur- und Schufflä ♠️ Jass in Vergessenheit gerät, dass neben der Zockerei noch andere Vergnügen existieren, kommt derjenige wie gerufen, der die Idee hat, wie man „Suchtopfer“ aus ihrer ausweglosen Situation befreien könnte.
+Wänn vor lutär Haggä und Pokär, Molotov und Rumba, Coiffeur- und Schufflä ♠️ Jass in Vergessenheit gerät, dass neben der Zockerei noch andere Vergnügen existieren, kommt derjenige wie gerufen, der die Idee hat, wie man „Suchtopfer“ aus ihrer ausweglosen Situation befreit.
 
 Von da an gab es kein Halten mehr. Die Geburtsstunde einer Kneipenmannschaft war nicht mehr weit. Zuerst musste ein passender Name gefunden werden. FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten der Gestrandeten mittlerweile dort  ihren Zweitwohnsitz aufgestellt. Es fehlten lediglich die Matratzen. Als man davon ausgehen musste, dass der OFV diese Bezeichnung ablehnen würde und das „Starensemble“ nicht gerade von Ausnahmetalenten übersät war, entschied man sich für die Bezeichnung F.C. Kreuzlingen „Hobby-Team“.
 
