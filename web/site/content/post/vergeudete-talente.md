@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-02T10:20:06.929Z
 image: img/img_0723.jpeg
 ---
-Garrincha, Gascoigne, Cassano, George Best, Pogba, Mario Balotelli und viele mehr. Sie alle haben eins gemeinsam! Den Mythos ihr Talent vergeudet zu haben! Während man Garrincha und Frauenschwarm Best trotz nächtlicher Eskapaden in der höchsten Fussballzunft ansiedeln muss, sind bei den anderen gewisse Zweifel nicht von der Hand zu weisen.
+Garrincha, Gascoigne, Cassano, Best, Pogba, Balotelli und viele mehr. Sie alle haben eins gemeinsam! Den Mythos ihr Talent vergeudet zu haben! Während man Garrincha und Frauenschwarm Best trotz nächtlicher Eskapaden in der höchsten Fussballzunft ansiedeln muss, sind bei den anderen gewisse Zweifel nicht von der Hand zu weisen.
 
 Hatten sie wirklich soviel Genialität in den Füssen, dass ihnen ein Platz in der „Hall of Fame der Gescheiterten“ sicher gewesen wäre? Wieviele auf dieser Welt kokettieren gerne mit der Aussage: „Ja wenn ich nur nicht meinem feuchtfröhlichen Lebenswandel erlegen wäre, hätte ich es weit bringen können“. Dabei fehlte ihnen vor allem eins! Der unbändige Wille sich durchzusetzen! 
 
