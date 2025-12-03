@@ -2,7 +2,7 @@
 title: Happy Birthday 🎂
 draft: true
 date: 2025-04-27T07:51:44.567Z
-image: img/img_0721.jpeg
+image: img/img_0687.jpeg
 ---
 Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Brasilien 1958+1970, Deutschland 1954+1974 und Italien 1982+2006 haben es mir besonders angetan. Gerade in diesen Nächten konzentrieren sich meine Gedanken auf England’s Helden von nineteensixtysix!  Königin Elisabeth fiel die Ehre zuteil, sie nach dem WM-Triumph zu „Sirs of the British Empire“ zu schlagen. Und das waren sie:
 
