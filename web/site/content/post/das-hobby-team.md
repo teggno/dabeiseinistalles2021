@@ -1,5 +1,5 @@
 ---
-title: S‘ Hobby-Team
+title: s’Hobby-Team
 draft: true
 date: 2025-12-02T14:03:28.842Z
 image: img/img_0724.jpeg
