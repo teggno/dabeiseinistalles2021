@@ -6,7 +6,9 @@ image: img/img_0724.jpeg
 ---
 Wänn vor lutär Haggä und Pokärä, Molotov und Rumba, Guggitaler und Zügua, Coiffeur- und Schufflä ♠️ Jass, andere Vergnügungen in Vergessenheit geraten, ist die Zeit für ein Reset gekommen. Suchtopfer sind in solch heiklen Situationen oft auf sich alleine gestellt. Ein Ausweg aus der Sackgasse scheint unmöglich. Da ist jede Hilfe willkommen.
 
-Zuerst musste ein passender Name gefunden werden. FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten der Gestrandeten mittlerweile dort  ihren Zweitwohnsitz bezogen. Es fehlten lediglich die Matratzen. Als man davon ausgehen musste, dass der OFV diese Bezeichnung ablehnen würde und das „Starensemble“ nicht gerade von Ausnahmetalenten übersät war, entschied man sich einstimmig für FC Kreuzlingen „Hobby-Team“.
+„Schtatt änand nu Kolä abnäh, gömmär zämä go tschuttä“. Die Idee schien perfekt. War sie auch umsetzbar? Schliesslich brauchte es einen Verein, der diese schwer zu integrierenden Querulanten bei sich aufnahm. Als der FC Kreuzlingen sein Einverständnis signalisierte, war der Weg frei. Jetzt musste nur noch ein passender Name gefunden werden.
+
+FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten der Gestrandeten mittlerweile dort  ihren Zweitwohnsitz bezogen. Es fehlten lediglich die Matratzen. Als man davon ausgehen musste, dass der OFV diese Bezeichnung ablehnen würde und das „Starensemble“ nicht gerade von Ausnahmetalenten übersät war, entschied man sich einstimmig für FC Kreuzlingen „Hobby-Team“.
 
 Leider hat man es damals versäumt, ein Tagebuch zu führen. Es hätte ein Bestseller werden können, nur schon der illustren Köpfe wegen. Leute die beim Jonglieren Mühe hatten, das Leder mehr als zweimal in der Luft zu halten, wollten unbedingt einen Spieler-Pass beantragen. Plötzlich litten die Jungs nicht mehr nur an Jassfieber! Die Fussballmanie war ausgebrochen.
 
