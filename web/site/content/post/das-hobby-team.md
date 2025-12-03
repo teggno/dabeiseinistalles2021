@@ -12,7 +12,7 @@ FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten
 
 Leider hat man es damals versäumt, ein Tagebuch zu führen. Es hätte ein Bestseller werden können, nur schon der illustren Köpfe wegen. Leute die beim Jonglieren Mühe hatten, das Leder mehr als zweimal in der Luft zu halten, wollten unbedingt einen Spieler-Pass beantragen. Plötzlich war den Jungs bewusst, dass da noch mehr war als diese 36 Karten. Eine neue Manie war ausgebrochen. 
 
-Mit einem für damalige Verhältnisse revolutionären 4-3-3 ging es zum ersten Freundschaftsspiel „gegä s’Zwei“!  D’Chärtlär ufäm “Wembleyrasä“! In der Kabine ein Hauch von „Finale“. Auf der Tafel hatte der Coach im Stile „Trappatoni“ jede Position mit einem Namen besetzt. Die Startelf war bereit: Baffi; Teacher, Mario Gaccioli, Kurt Iller, Schuhmake; Luciano Schüepp, Heinz Ruppli, René Maier, Berni Veit, Bruno Wacker und Linksaussen Banquette. 
+Mit einem für damalige Verhältnisse revolutionären 4-3-3 ging es zum ersten Freundschaftsspiel „gegä s’Zwei“!  D’Chärtlär ufäm “Wembleyrasä“! In der Kabine ein Hauch von „Finale“. Auf der Tafel hatte der Coach im Stile „Trappatoni“ jede Position mit einem Namen besetzt. Die Startelf war bereit: Baffi; Teacher, Mario Gaccioli, Kurt Iller, Schuhmake; Luciano Schüepp, Heinz Ruppli, René Maier; Berni Veit, Bruno Wacker und Linksaussen Banquette. 
 
 Fast noch hochkarätiger war die Ersatzbank bestückt. Dä Soppi, dä Pölv, dä Willi und dä Bruno Meier, dä Wisi und dä Geni liefen sich vorsichtshalber schon mal warm. Dass die Partie am Ende nur 5:3 für den Gegner ausging, liess die Euphorie in den siebten Himmel steigen. Bereits war von Durchmarsch die Rede. Spätestens da hätte ich auf die Bremse treten müssen.
 
