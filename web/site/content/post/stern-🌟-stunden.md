@@ -16,7 +16,7 @@ image: img/img_0722.jpeg
 
 1958 sind die Tränen der Sambatänzer endlich getrocknet! Gilmar-die Brüder Nilton und Djalma Santos-Didi-Vava-Garrincha und der erst 17 jährige Edson do Santos de Nascimento, alias Pelé hatten den Zuckerhut dank ihres spektakulären Offensivfussballs fast zum Schmelzen gebracht. Das revolutionäre 4-2-4 war geboren!
 
-1962 geht als die WM der bösen Buben in die Geschichte ein. Grätschen gehören zum guten Ton! Wilde Schlägereien sorgen für Abwechslung. Chile-Italien ist der absolute „Höhepunkt“. Den Brasilianern gelingt es, ihren Titel souverän zu verteidigen. Auch ohne ihren verletzten Stürmerstar Pelé. Mann des Turniers ist Rechtsaussen Garrincha, der bis heute als der Erfinder der Dribblekunst gilt.
+1962 geht als die WM der bösen Buben in die Geschichte ein. Grätschen gehören zum guten Ton! Wilde Schlägereien sorgen für Abwechslung. Chile-Italien ist der absolute „Höhepunkt“. Den Brasilianern gelingt es, ihren Titel souverän zu verteidigen. Auch ohne ihren verletzten Stürmerstar Pelé. Mann des Turniers ist Rechtsaussen Garrincha, der noch heute als Erfinder der Dribblekunst gerrieten wird.
 
 1966 ist der Fluch endlich besiegt. Die vermeintlichen Erfinder des Fussballs sind am Ziel. Dass es bis heute Englands einziger Triumph an Europa- und Weltmeisterschaften geblieben ist, darf als Ironie des Schicksals bezeichnet werden. 
 
