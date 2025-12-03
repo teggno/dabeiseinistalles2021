@@ -6,8 +6,6 @@ image: img/img_0628.jpeg
 ---
 Somm, Berni, Blasi, Katinka, Portugal, Rudi+Martina, Simon, Carmen, Bärämäx, Ernst,
 
+Spanien, England, Schweiz, Norwegen, Frankreich, Argentinien,
 
-
-
-
-Spanien, England, Schweiz, Norwegen, Frankreich, Argentinien
+Mbappé, Kane, Lautaro, Haaland, Woltemade, Yamal
