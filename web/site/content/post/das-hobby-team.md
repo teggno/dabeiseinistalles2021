@@ -6,7 +6,7 @@ image: img/img_0724.jpeg
 ---
 Wänn vor lutär Haggä und Pokärä, Molotov und Rumba, Guggitaler und Zügua, Coiffeur- und Schufflä ♠️ Jass, andere Vergnügungen in Vergessenheit geraten, ist die Zeit für ein Reset gekommen. Suchtopfer sind in solch heiklen Situationen oft auf sich alleine gestellt. Ein Ausweg aus der Sackgasse scheint unmöglich. Da ist jede Hilfe willkommen.
 
-„Schtatt änand nu d’Cholä abnäh, gömmär zämä go tschuttä“. Die Idee schien perfekt. War sie auch umsetzbar? Schliesslich brauchte es einen Verein, der diese schwer zu integrierenden Querulanten bei sich aufnahm. Als der FC Kreuzlingen sein Einverständnis signalisierte, war der Weg frei. Jetzt musste nur noch ein passender Name gefunden werden.
+„Schtatt änand nu d’Cholä abneh, gömmär zämä go tschuttä“. Die Idee schien perfekt. War sie auch umsetzbar? Schliesslich brauchte es einen Verein, der diese schwer zu integrierenden Querulanten bei sich aufnahm. Als der FC Kreuzlingen sein Einverständnis signalisierte, war der Weg frei. Jetzt musste nur noch ein passender Name gefunden werden.
 
 FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten der Gestrandeten an der Sonnenstrasse 6 ihren Zweitwohnsitz bezogen. Bis auf die Matratzen war alles vorhanden. Als man davon ausgehen musste, dass der OFV diese Bezeichnung ablehnen würde und das „Starensemble“ nicht gerade von Ausnahmetalenten übersät war, entschied man sich für den  Begriff „Hobbyteam“, der dem Ganzen einen Anstrich von Andersartigkeit geben sollte.
 
