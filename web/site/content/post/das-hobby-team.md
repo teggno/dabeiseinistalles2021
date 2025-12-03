@@ -14,7 +14,7 @@ Leider hat man es damals versäumt, ein Tagebuch zu führen. Es hätte ein Bests
 
 Mit einem für damalige Verhältnisse revolutionären 433 ging es zum ersten Freundschaftsspiel „gegä s’Zwei“!  D’Chärtlär ufäm “Wembleyrasä“! In der Kabine ein Hauch von „Finale“. Auf der Tafel hatte der Coach im Stile „Trappatonis“ jede Position mit einem Namen besetzt. Die Startelf sah folgendermassen aus: Baffi; Teacher, Mario Gaccioli, Kurt Iller, Schuhmake; Luciano Schüepp, Heinz Ruppli, René Maier; Berni Veit, Bruno Wacker und Linksaussen Banquette. 
 
-Fast noch hochkarätiger war die Ersatzbank bestückt. Dä Soppi, dä Pölv, dä Willi und dä Bruno Meier, dä Wisi und dä Geni liefen sich vorsichtshalber schon mal warm. Dass die Partie am Ende nur 5:3 für den Gegner ausging, liess die Euphorie in den siebten Himmel steigen. Bereits war von Durchmarsch die Rede. Spätestens da hätte ich auf die Bremse treten müssen.
+Fast noch hochkarätiger war die Ersatzbank bestückt. Dä Soppi, dä Pölv, dä Willi und dä Bruno Meier, dä Wisi und dä Geni liefen sich vorsichtshalber schon mal warm. Dass die Partie am Ende nur 5:3 für den Gegner ausging, liess die Euphorie in den siebten Himmel wachsen. Bereits war von Durchmarsch die Rede. Spätestens da hätte ich auf die Bremse treten müssen.
 
 Dann kam Wittenbach! Ein trüber Sonntagmorgen im August 1980!  Im Sanktgallischen nieselte es! Kaum ein Supporter war mitgereist. Nur Rolf und Dog waren da. Als Neuling in der 5. Liga waren wir noch leicht desorientiert. Nachdem man Kurt I. noch rechtzeitig aus der Nachtschicht geholt hatte, pfiff der Schiri die Partie an.
 
