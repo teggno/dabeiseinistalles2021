@@ -1,5 +1,5 @@
 ---
-title: s’Hobby-Team
+title: "Üsäs Hobbyteam "
 draft: true
 date: 2025-12-02T14:03:28.842Z
 image: img/img_0724.jpeg
