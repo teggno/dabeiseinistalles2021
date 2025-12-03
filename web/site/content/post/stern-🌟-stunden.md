@@ -6,9 +6,9 @@ image: img/img_0722.jpeg
 ---
 1930 bekommt der Fussball endlich was ihm gebührt! Ein Turnier, das die Völker vereinen soll, wird aus der Taufe gehoben. In Montevideo geben sich „nur“ 13 Mannschaften ein Stelldichein. Die meisten reisen mit dem Schiff an. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules Rimet Wanderpokal, der von nun an alle vier Jahre einen neuen Eintrag bekommen sollte.
 
-1934+1938 schaffen die Italiener unter Trainer Vittorio Pozzo das schier Unmögliche! Sie holen, angeführt von den Stürmern Giuseppe Meazza und Silvio Piola zweimal hintereinander den Pot.
+1934+1938 schaffen die Italiener unter Trainer Vittorio Pozzo das schier Unmögliche! Sie holen, angeführt von den Stürmern Giuseppe Meazza und Silvio Piola zweimal hintereinander den Pot. Bennito Mussolini strahlt vor Glück. Die Propaganda-Maschinerie läuft auf Hochtouren,
 
-Wegen des 2. Weltkrieges fallen die Weltmeisterschaften 1942 und 1946 leider aus. 
+1942+1946 fällt die WM  wegen des 2. Weltkrieges aus.  
 
 1950 wird in brasilianischen Geschichtsbüchern als das Jahr der Demütigung zelebriert.  (Damals konnte noch niemand ahnen, dass es 64 Jahre später zu einem ähnlichen Debakel kommen würde). Vor der Rekordkulisse von 170‘000 Zuschauern zerstört Uru-Legende Schiaffino den Traum einer ganzen Nation. Vor lauter Tränen soll der Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordniveau gestiegen sein. Uruguay ist zum zweiten Mal Weltmeister.
 
