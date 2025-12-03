@@ -26,6 +26,8 @@ Unvergessen bleibt das Derby gegen Emmishofen. Mit Renato Petrillo, Nunzio Padul
 
 An dieser Stelle darf die Partie auf dem idyllischen Aussichtspunkt hoch über Steckborn nicht unerwähnt bleiben. In Starbesetzung angetreten, lagen wir zur Pause 1:6 zurück, ehe sich Marco von Basten alias Andy Hermann auf seine wahren Stärken besann und sechsmal hintereinander einnetzte. Das 7:6 Schlussresultat bleibt einer der Meilensteine.
 
+Genauso als uns in der Kantonsschulturnhalle im Februar 1981 Gladbach-Legende Günter Netzer seine Aufwartung machte.
+
 Als wir schliesslich in die 4. Liga aufstiegen, ahnte niemand, dass es der Anfang vom Ende sein würde. Gerade noch hatten wir im Globetrotter mit Erdbeer-Daiquiris den Aufstieg gefeiert. Dass wir damals am Zoll nicht festgenommen wurden, ist mir heute noch ein Rätsel. Spassvogel „Lupo“ hat uns mit seinem Sondereinsatz das Leben gerettet. Wehwehchen da, Absagen dort, auf einmal war die Luft draussen. Die Mannschaft löste sich in ihre Einzelteile auf. Zumindest auf dem Rasen. Denn neben dem Platz lebte das Hobbyteam dank des unermüdlichen Einsatzes von Kurt M. weiter.
 
 Jahr für Jahr stand ein Abstecher in die grosse weite Welt auf dem Programm. Anfangs bewegte man sich in der näheren Umgebung. Reiste mit der Deutschen Bahn nach Düsseldorf, Amsterdam, Hamburg und Wien. Am „Bärämäx“ fiel die delikate Aufgabe zu, vorsichtshalber die Zug-Abteile auszumessen und die passenden Jasstische zu besorgen. Von Konstanz bis Düsseldorf war man im Dauer ♥️♠️♦️♣️Einsatz.  In Offenburg ging’s zwischendurch auf dem Bahnsteig weiter. Von der vorbeiziehenden Landschaft haben wir nur wenig gesehen. Der Spielteufel hatte uns fest im Griff.
