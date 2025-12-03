@@ -8,7 +8,7 @@ Wänn vor lutär Haggä und Pokärä, Molotov und Rumba, Guggitaler und Zügua, 
 
 „Schtatt änand nu d’Cholä abnäh, gömmär zämä go tschuttä“. Die Idee schien perfekt. War sie auch umsetzbar? Schliesslich brauchte es einen Verein, der diese schwer zu integrierenden Querulanten bei sich aufnahm. Als der FC Kreuzlingen sein Einverständnis signalisierte, war der Weg frei. Jetzt musste nur noch ein passender Name gefunden werden.
 
-FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten der Gestrandeten an der Sonnenstrasse ihren Zweitwohnsitz bezogen. Bis auf die Matratzen war eigentlich alles da. Als man davon ausgehen musste, dass der OFV diese Bezeichnung ablehnen würde und das „Starensemble“ nicht gerade von Ausnahmetalenten übersät war, entschied man sich für den  Begriff „Hobbyteam“, der dem Ganzen einen Anstrich von Besonderheit geben sollte.
+FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten der Gestrandeten an der Sonnenstrasse ihren Zweitwohnsitz bezogen. Bis auf die Matratzen war eigentlich alles da. Als man davon ausgehen musste, dass der OFV diese Bezeichnung ablehnen würde und das „Starensemble“ nicht gerade von Ausnahmetalenten übersät war, entschied man sich für den  Begriff „Hobbyteam“, der dem Ganzen einen Anstrich von Andersartigkeit geben sollte.
 
 Leider hat man es damals versäumt, ein Tagebuch zu führen. Es hätte ein Bestseller werden können, nur schon der illustren Köpfe wegen. Leute die beim Jonglieren Mühe hatten, das Leder mehr als zweimal in der Luft zu halten, wollten unbedingt einen Spieler-Pass beantragen. Plötzlich war den Jungs bewusst, dass da noch mehr ist als „nur„ 36 Karten. Die Fussballmanie war ausgebrochen.
 
