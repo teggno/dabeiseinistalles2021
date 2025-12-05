@@ -4,4 +4,4 @@ draft: true
 date: 2025-12-05T11:38:06.784Z
 image: img/img_0725.jpeg
 ---
-Als am 5. Dezember die Zeremonie vorbei war, begann das grosse Rechnen. Algorithmen, KI, Intuition, Glück, alles wurde in die Waagschale geworfen. Hatte man nun eine Hammergruppe erwischt oder war einem Göttin Fortuna hold gewesen. Nicht an diesem bunten Treiben beteiligt, waren wieder einmal die Italiener. Ihren Überlegungen ging jedesmal ein wenn voraus. Sie
+Bereits am 5. Dezember entschied sich, wer Weltmeister wird! Jetzt brauchen wir nur noch rauszufinden, wie die Weichen gestellt wurden. Wir wissen zum Beispiel dass es höchstwahrscheinlich nicht zu einem Finale ….:…. kommen wird. Da soll mir einer noch sagen, dass (Los)Glück keine Rolle spielt
