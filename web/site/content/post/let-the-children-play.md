@@ -2,6 +2,7 @@
 title: "Let the children play "
 draft: true
 date: 2025-12-03T10:56:00.848Z
+image: img/img_0726.jpeg
 ---
 Die Frage war nur noch wieviel!? Als es dann nach den wilden Sechzigern aussah, lief alles auf sixtysix hinaus! Von Variante 2 riet man mir dringend ab! Mit 66 Jahren soll ja bekanntlich alles noch mal von vorne anfangen und noch lange nicht Schluss sein. Schau mär mal!
 
