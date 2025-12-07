@@ -1,9 +1,11 @@
 ---
-title: Route 66
+title: Sixtysix!
 draft: true
 date: 2025-12-03T10:56:00.848Z
 image: img/img_0728.jpeg
 ---
-Die Frage war nur noch wieviel!? Als es dann nach den wilden Sechzigern aussah, lief alles auf sixtysix hinaus! Von Variante 2 riet man mir dringend ab! Mit 66 Jahren soll ja bekanntlich alles noch mal von vorne anfangen. Was sofort ins Auge sticht. Es sind alle da! Keiner der VIP’S hat nur den Anschein erweckt, seinen Platz für jemand anders zu räumen. Ausspannen am Palmenstrand 🏝️ Fehlanzeige! Zuviel steht auf dem Spiel. Die Klatschspalten sind hungrig!  An dieser Stelle möchte ich unbedingt einen Wunsch loswerden. Liebe Fortuná, nimm dich ihrer an! Lass sie nicht schon wieder ein Mauerblümchen-Dasein fristen. Den Stuckys, Brandes, Weigels, Pedrons, Affentrangers und Heitz. Wie gern würde ich dieses Mal auf einen Besuch im Untertagebau verzichten. Ich weiss, sie sind selber Schuld, “schturi chöpf“, halt, die keine Hilfe annehmen wollen.  Und trotzdem überkommt mich das Mitleid, wenn ich sie schon nach wenigen Tagen mit dem Besenwagen einsammeln muss.
+Die Frage war nur noch wieviel!? Als es dann nach den wilden Sechzigern aussah, lief alles auf sixtysix hinaus! Von Variante 2 hatte man ihm vorsorglich abgeraten. Mit 66 Jahren da fängt das Leben an! Udos Botschaft war in Srein gemeisselt Was sofort ins Auge stach. Es waren alle da! Keiner der VIP’S hatte nur den Anschein erweckt, seinen Platz für jemand anders zu räumen. Ausspannen am Palmenstrand 🏝️ Fehlanzeige! Zuviel stand  auf dem Spiel. Die Klatschspalten waren hungrig! 
+
+An dieser Stelle möchte ich unbedingt einen Wunsch loswerden. Liebe Fortuná, nimm dich ihrer an! Lass sie nicht schon wieder ein Mauerblümchen-Dasein fristen. Den Stuckys, Brandes, Weigels, Pedrons, Affentrangers und Heitz. Wie gern würde ich dieses Mal auf einen Besuch im Untertagebau verzichten. Ich weiss, sie sind selber Schuld, “schturi chöpf“, halt, die keine Hilfe annehmen wollen.  Und trotzdem überkommt mich das Mitleid, wenn ich sie schon nach wenigen Tagen mit dem Besenwagen einsammeln muss.
 
 Auffallend sind dieses Mal die vielen Schweizer Nominierungen. Ein Ruck ist durch‘s Land gegangen. Injiziert von einem Jungen vom Bosporus namens Yakin! Lange ein rotes Tuch! Vogel, Gambler, Taugenichts. Er hatte einen schweren Stand. Bis auch der letzte „Hinterwäldler“ gemerkt hat, dass dä Murat öppis druff hät. Und siehe da, jetzt haben ihn alle lieb. Denn mit ihm lassen sich Luftschlösser bauen. Bingt dä üs öppä no dä WM-Titäl?
