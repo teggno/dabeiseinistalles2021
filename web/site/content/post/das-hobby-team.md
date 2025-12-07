@@ -10,7 +10,7 @@ image: img/img_0724.jpeg
 
 FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten der Gestrandeten an der Sonnenstrasse 6 ihren Zweitwohnsitz bezogen. Bis auf die Matratzen war alles vorhanden. Als man davon ausgehen musste, dass der OFV diese Bezeichnung ablehnen würde und das „Starensemble“ nicht gerade mit Ausnahmetalenten gesegnet war, entschied man sich für den  Begriff „Hobbyteam“, der dem Ganzen einen Anstrich von Andersartigkeit geben sollte.
 
-Leider hat man es damals versäumt, ein Tagebuch zu führen. Es hätte ein Bestseller werden können, nur schon der illustren Köpfe wegen. Leute die beim Jonglieren Mühe hatten, das Leder mehr als zweimal in der Luft zu halten, wollten unbedingt einen Spieler-Pass beantragen. Plötzlich war den Jungs bewusst, dass da noch mehr war als diese 36 Karten. Eine neue Manie war ausgebrochen. 
+Leider hat man es damals versäumt, ein Tagebuch zu führen. Es hätte ein Bestseller werden können, nur schon der illustren Köpfe wegen. Leute die beim Jonglieren Mühe hatten, das Leder mehr als zweimal in der Luft zu halten, wollten unbedingt einen Spieler-Pass beantragen. Plötzlich war den Jungs bewusst, dass „chärtlä allai“ nicht das Evangelium sein konnte. Eine neue Manie war ausgebrochen. 
 
 Mit einem für damalige Verhältnisse revolutionären 4-3-3 ging es zum ersten Freundschaftsspiel „gegä s’Zwei“!  In der Kabine ein Hauch von „Finale“. Auf der Tafel hatte der Coach im Stile „Trappatoni“ jede Position mit einem Namen besetzt. Die Startelf durfte sich sehen lassen:: Baffi; Teacher, Mario Gaccioli, Kurt Iller, Schuhmake; Luciano Schüepp, Heinz Ruppli, René Maier; Berni Veit, Bruno Wacker und Linksaussen Banquette. 
 
