@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-02T14:03:28.842Z
 image: img/img_0724.jpeg
 ---
-Wänn vor lutär Haggä und Pokärä, Molotov und Rumba, Guggitaler und Zügua, Coiffeur- und Schufflä ♠️ Jass, andere Vergnügungen in Vergessenheit geraten, ist die Zeit für ein Reset gekommen. Suchtopfer sind in solch heiklen Situationen oft auf sich alleine gestellt. Ein Ausweg aus der Sackgasse scheint unmöglich. Da ist jede Hilfe willkommen.
+„Wänn vor lutär Haggä und Pokärä, Molotov und Rumba, Guggitaler und Zügua, Coiffeur- und Schufflä ♠️ Jass“, andere Vergnügungen in Vergessenheit geraten, ist die Zeit für ein Reset gekommen. Suchtopfer sind in solch heiklen Situationen oft auf sich alleine gestellt. Ein Ausweg aus der Sackgasse scheint unmöglich. Da ist jede Hilfe willkommen.
 
 „Schtatt änand nur d’Chölä 💶 abneh, gömmär zämä go tschuttä“ ⚽️. Die Idee schien perfekt. War sie auch umsetzbar? Schliesslich brauchte es einen Verein, der diese schwer zu integrierenden Querulanten bei sich aufnahm. Als der FC Kreuzlingen sein Einverständnis signalisierte, war der Weg frei. Jetzt musste nur noch ein passender Name gefunden werden.
 
@@ -12,7 +12,7 @@ FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten
 
 Leider hat man es damals versäumt, ein Tagebuch zu führen. Es hätte ein Bestseller werden können, nur schon der illustren Köpfe wegen. Leute die beim Jonglieren Mühe hatten, das Leder mehr als zweimal in der Luft zu halten, wollten unbedingt einen Spieler-Pass beantragen. Plötzlich war den Jungs bewusst, dass da noch mehr war als diese 36 Karten. Eine neue Manie war ausgebrochen. 
 
-Mit einem für damalige Verhältnisse revolutionären 4-3-3 ging es zum ersten Freundschaftsspiel „gegä s’Zwei“!  In der Kabine ein Hauch von „Finale“. Konzentration aufs Wesentliche! Auf der Tafel hatte der Coach im Stile „Trappatonis“ jede Position mit einem Namen besetzt. Die Startelf hatte Konturen angenommen: Baffi; Teacher, Mario Gaccioli, Kurt Iller, Schuhmake; Luciano Schüepp, Heinz Ruppli, René Maier; Berni Veit, Bruno Wacker und Linksaussen Banquette. 
+Mit einem für damalige Verhältnisse revolutionären 4-3-3 ging es zum ersten Freundschaftsspiel „gegä s’Zwei“!  In der Kabine ein Hauch von „Finale“. Auf der Tafel hatte der Coach im Stile „Trappatonis“ jede Position mit einem Namen besetzt. Die Startelf hatte Konturen angenommen: Baffi; Teacher, Mario Gaccioli, Kurt Iller, Schuhmake; Luciano Schüepp, Heinz Ruppli, René Maier; Berni Veit, Bruno Wacker und Linksaussen Banquette. 
 
 Fast noch hochkarätiger war die Ersatzbank bestückt. Dä Soppi, dä Pölv, dä Willi und dä Bruno Meier, dä Wisi und dä Geni liefen sich vorsichtshalber schon mal warm. Dass die Partie am Ende nur 5:3 für den Gegner ausging, liess die Euphorie in den siebten Himmel wachsen. Bereits war von Durchmarsch die Rede. Spätestens da hätte ich auf die Bremse treten müssen.
 
