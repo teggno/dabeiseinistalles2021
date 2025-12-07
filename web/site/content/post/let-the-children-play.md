@@ -12,4 +12,4 @@ Auffallend sind dieses Mal die vielen Schweizer Nominierungen. Ein Ruck ist durc
 
 Kann sein, wenn man OVT und seiner Dulcinea Glauben schenken will. Obwohl SIE diesmal wie in guten alten Zeiten dem Sachverstand 🤫 den Vortritt liess. Frankreich auf Kosten von Deutschland, Spanien, England, Argentinien und die Aussenseiter aus Norwegen und der Schweiz. Ein Sextett aus Tradition und Übermut. Ancelotti hat mein Statement gelesen und ist ausser sich vor Wut. Was du übergehst meine Brasileiros? Ja Carlo, du hast deine Schäfchen schon längst im Trockenen. 
 
-Sehr auf Contenance aus, war ich bei den Knipsern. Haaland, Mbappé und Kane sind fast bei allen vertreten. Woltemade Lautaro und Merino eröffnen mir eine gewisse Selbständigkeit.
+Sehr auf Contenance bedacht, war ich bei den Knipsern. Haaland, Mbappé und Kane sind fast bei allen vertreten. Woltemade Lautaro und Merino eröffnen mir eine gewisse Selbständigkeit.
