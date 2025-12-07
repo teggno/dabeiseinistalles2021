@@ -10,4 +10,6 @@ An dieser Stelle möchte ich unbedingt einen Wunsch loswerden. Liebe Fortuná, n
 
 Auffallend sind dieses Mal die vielen Schweizer Nominierungen. Ein Ruck ist durch‘s Land gegangen. Injiziert vom Jungen vom Bosporus! Lange Zeit ein rotes Tuch! Vogel, Gambler, Taugenichts. Alles durfte man über Yakin sagen. Er hatte einen schweren Stand. Bis auch der letzte „Hinterwäldler“ gemerkt hat, dass dä Murat öppis druff hät. Und siehe da, jetzt haben ihn alle lieb. Denn mit ihm lassen sich (Luft)Schlösser bauen. Bingt dä üs öppä no dä WM-Titäl?
 
-Kann sein, wenn man OVT und seiner Dulcinea Glauben schenken will. Obwohl sie diesmal wie in guten alten Zeiten dem Sachverstand 🤫 das letzte Wort liess.
+Kann sein, wenn man OVT und seiner Dulcinea Glauben schenken will. Obwohl SIE diesmal wie in guten alten Zeiten dem Sachverstand 🤫 den Vortritt liess. Frankreich auf Kosten von Deutschland, Spanien, England, Argentinien und die Aussenseiter aus Norwegen und der Schweiz. Ein Sextett aus Tradition und Übermut. Ancelotti hat mein Statement gelesen und ist ausser sich vor Wut. Was du übergehst meine Brasileiros? Ja Carlo, du hast deine Schäfchen schon längst im Trockenen. 
+
+Sehr auf Contenance aus, war ich bei den Knipsern. Haaland, Mbappé und Kane sind fast bei allen vertreten. Woltemade Lautaro und Merino eröffnen mir eine gewisse Selbständigkeit.
