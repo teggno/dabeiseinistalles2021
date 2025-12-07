@@ -34,4 +34,4 @@ Jahr für Jahr stand ein Abstecher in die grosse weite Welt auf dem Programm. An
 
 Mit Prag, Barcelona, Neapel, Cancun, Havanna, Isla Margerita, Ibiza, Warschau, Budapest, Rio, Bangkok, Helsinki, Kopenhagen, Dresden, Las Vegas, New York, Berlin, Madrid, und und und sind es inzwischen über 40 Destinationen geworden. Rund ein Dutzend der Sorte „harter Kern“ ist übriggeblieben. Der Rest hat sich zurückgezogen und einige sind leider viel zu früh von uns gegangen.
 
-Heinz Ruppli, Adrian Goldinger, Remo Hirzel, Garry Schranz, Willi Meier, René Maier, Hampi Beyeler, Christian Forster, Alois  Kressibucher, Eugen Gremli, Armando Pedron. Falls im Jenseits ein Revival stattgefunden hat, dürfte es an Geschichten von damals nicht gefehlt haben. Mit René als Zeremoniemeister, der mit seinen Sprüchen die Runde bestens unterhalten hat.
+Heinz Ruppli, Adrian Goldinger, Remo Hirzel, Garry Schranz, Willi Meier, René Maier, Hampi Beyeler, Christian Forster, Alois  Kressibucher, Eugen Gremli, Armando Pedron. Falls im Jenseits ein Revival stattgefunden hat, dürfte es an Geschichten von damals nicht gefehlt haben. Mit René als “Kompaniechalb“…
