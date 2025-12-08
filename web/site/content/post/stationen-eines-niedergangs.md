@@ -1,6 +1,6 @@
 ---
 title: Stationen eines Niedergangs
-draft: true
+draft: false
 date: 2025-11-23T07:40:38.926Z
 image: img/img_0720.jpeg
 ---
