@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-03T10:56:00.848Z
 image: img/img_0728.jpeg
 ---
-Die Frage war nur noch wieviel!? Als es dann allmählich nach den wilden Sechziger aussah, lief alles auf sixtysix hinaus! Von Variante 2 hatte man mir vorsorglich abgeraten. Mit 66 Jahren da fängt das Leben an! Udos Botschaft ist in Stein gemeisselt Was sofort ins Auge stIch. Es sind alle da! Keiner der VIP’S hatte nur den Anschein erweckt, seinen Platz für jemand anders zu räumen. Ausspannen am Palmenstrand 🏝️ Fehlanzeige! Zuviel stecht auf dem Spiel. Die Klatschspalten sind hungrig! 
+Die Frage war nur noch wieviel!? Als es dann allmählich nach den wilden Sechziger aussah, lief alles auf sixtysix hinaus! Von Variante 2 hatte man mir vorsorglich abgeraten. Mit 66 Jahren da fängt das Leben an! Udos Botschaft ist in Stein gemeisselt Was aufgeweckten Zeitgenossen sofort ins Auge sticht. Es sind alle da! Keiner der VIP’S hatte nur den Anschein erweckt, seinen Platz für jemand anders zu räumen. Ausspannen am Palmenstrand 🏝️ Fehlanzeige! Zuviel stecht auf dem Spiel. Die Klatschspalten sind hungrig! 
 
 An dieser Stelle möchte ich unbedingt einen Wunsch loswerden. Liebe Fortuná, nimm dich ihrer an! Lass sie nicht schon wieder ein Mauerblümchen-Dasein fristen. Den Stuckys, Brandes, Weigels, Pedrons, Affentrangers und Heitz. Wie gern würde ich dieses Mal auf einen Besuch im Untertagebau verzichten. Ich weiss, sie sind selber Schuld, “schturi grindä“, halt, die keine Hilfe annehmen wollen.  Und trotzdem überkommt mich das Mitleid, wenn ich sie schon nach wenigen Tagen mit dem Besenwagen einsammeln muss.
 
