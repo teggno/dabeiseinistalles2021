@@ -1,5 +1,5 @@
 ---
-title: Alläs für än frankä
+title: Alläs für än Frankä
 draft: false
 date: 2025-12-08T11:40:29.725Z
 image: img/img_0732.jpeg
