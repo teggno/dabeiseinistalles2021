@@ -1,7 +1,7 @@
 ---
 title: Alläs für än frankä
-draft: true
-date: 2025-12-08T11:02:32.606Z
+draft: false
+date: 2025-12-08T11:40:29.725Z
 image: img/img_0732.jpeg
 ---
 Wieviel springt auf dem Flohmarkt für Kelly, Koopmeiners, Rugani, Locatelli, Miretti, McKennie, Kostic, João Mario, Cambiaso, Cabal, David, Openda und Vlahovic raus? Ist wenigstens die Standmiete gedeckt? 13 „Utensilien“ die beim FC Bayern keinen Platz hätten, wohlverstanden auf der Bank. 13 „Mädchen für alles“. Buoni per tutto und gleichzeitig für gar nichts.
