@@ -1,5 +1,5 @@
 ---
-title: Grümpi
+title: "Grümpi Münschtärlingä "
 draft: true
 date: 2025-12-06T09:38:47.574Z
 image: img/img_0730.jpeg
