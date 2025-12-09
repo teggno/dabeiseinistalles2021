@@ -23,4 +23,4 @@ Was wäre 1998 ohne Zizou? Frankreich liegt ihrer Majestät zu Füssen. Während
 
 2018 gerät fast in Vergessenheit. Ist es der Austragungsort der einem Bauchweh bereitet. Aussenseiter Kroatien stösst bis ins Finale vor und muss sich erst dort den Franzosen geschlagen geben. Didier Deschamps „entdeckt“ seinen Sprössling Mbappé, Modric wird als bester Spieler gewählt und Putin hat sein Fest.
 
-2022 stösst in neue Dimensionen vor. Der Wüstensand beherbergt die Welt. Und zwar im Winter. Infantino stellt den Kalender auf den Kopf und alle nicken. Es schlägt die alles entscheidende Sequenz für Kolo Muani. Frankreich oder Argentinien? Das Schicksal entscheidet sich für Messi, der mit Hilfe seines Keepers seinen lang gehegten Kindestraum erfüllt.
+2022 stösst in neue Dimensionen vor. Der Wüstensand beherbergt die Welt. Und zwar im Winter. Infantino stellt den Kalender auf den Kopf und alle nicken. Es schlägt die alles entscheidende Sekunde für Kolo Muani. Frankreich oder Argentinien? Das Schicksal entscheidet sich für Messi, der mit Hilfe seines Keepers seinen lang gehegten Kindestraum erfüllt.
