@@ -20,3 +20,7 @@ Was wäre 1998 ohne Zizou? Frankreich liegt ihrer Majestät zu Füssen. Während
 2010 hat Arjen Robben die Entscheidung auf dem Fuss! Doch am Ende jubeln Xavi und Iniesta, die Erfinder des Tiki-Taka! In Südafrika bringen „nervtötende Vuvuzelas“ nicht nur die Protagonisten aus der Ruhe. Zuhause vor dem Bildschirm glaubt man dem Karneval von Rio beizuwohnen. Liebgewordene Traditionen passen nicht überall ins Bild.
 
 2014 demütigt der bis dahin dreimalige Weltmeister seinen „Vorgesetzten“ und holt sich die Auszeichnung zum vierten Mal. Jeder Schuss ein Treffer, Brasilien traut im Halbfinale seinen Augen nicht! Zuhause 7:1 abgeschossen zu werden tut richtig weh! Die Copacabana versinkt nach 1950 zum zweiten Mal im Tränenmeer. Deutschland‘s Lauf ist auch von den Tangotänzern nicht zu stoppen. Mario Götze geht mit seinem „One-Hit-Wonder“ in die Geschichte ein.
+
+2018 gerät fast in Vergessenheit. Ist es der Austragungsort der einem Bauchweh bereitet. Aussenseiter Kroatien stösst bis ins Finale vor und muss sich erst dort den Franzosen geschlagen geben. Didier Deschamps „entdeckt“ seinen Sprössling Mbappé, Modric wird als bester Spieler gewählt und Putin hat sein Fest.
+
+2022 stösst in neue Dimensionen vor. Der Wüstensand beherbergt die Welt. Und zwar im Winter. Infantino stellt den Kalender auf den Kopf und alle nicken. Es schlägt die alles entscheidende Sequenz für Kolo Muani. Frankreich oder Argentinien? Das Schicksal entscheidet sich für Messi, der mit Hilfe seines Keepers seinen lang gehegten Kindestraum erfüllt.
