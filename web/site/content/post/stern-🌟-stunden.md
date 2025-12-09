@@ -20,7 +20,7 @@ image: img/img_0722.jpeg
 
 1966 ist der Fluch endlich besiegt. England ist am Ziel. Geoff Hurst trifft dreimal ins Schwarze. Dass es bis heute ihr einziger Triumph an Europa- und Weltmeisterschaften geblieben ist, bleibt vielen ein Rätsel. 
 
-1970 erlebt Mexixo das Spiel des Jahrtausends! Wer dieses Drama auf die „LeinWand“ brachte, hätte zweifelsohne den Oscar verdient. Als Rivera kurz vor Ende der Verlängerung den Meier Sepp auf dem falschen Fuss erwischte, lag sich ein ganzes Volk in den Armen. Im Final war dann gegen das „beste Team aller Zeiten“ kein Kraut gewachsen. Gerson, Jairzinho, Rivelino und der wieder einmal überragende Pelé waren eine Nummer zu gross.
+1970 erlebt Mexixo das Spiel des Jahrtausends! Wer dieses Drama auf die „LeinWand“ brachte, hätte zweifelsohne den Oscar verdient. Als Rivera kurz vor Ende der Verlängerung den Meier Sepp auf dem falschen Fuss erwischt, liegt sich ein ganzes Volk in den Armen. Im Final ist dann gegen das „beste Team aller Zeiten“ kein Kraut gewachsen. Gerson, Jairzinho, Rivelino und der wieder einmal überragende Pelé sind eine Nummer zu gross.
 
 1974 treffen die damals grössten Fussballästheten aufeinander. Franz Beckenbauers 50 Meterpässe aus dem Fussgelenk sind eine Augenweide! Johan Crujff’s Dirigentensoli eine Symphonie Die Rolle des WM- Helden fällt  jedoch ein anderen zu! Kleines, dickes Müller! Sein Schuss aus halber Drehung ist bis heute in keinem Lehrbuch zu finden. Gerd, du bist und bleibst die grösste Nummer 9 aller Zeiten.
 
