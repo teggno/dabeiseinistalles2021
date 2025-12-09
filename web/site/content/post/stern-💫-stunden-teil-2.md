@@ -13,7 +13,7 @@ date: 2025-11-27T09:32:39.307Z
 
 Was wäre 1998 ohne Zizou? Frankreich liegt ihrer Majestät zu Füssen. Während Ronaldo, der Brasilianer auf dem stillen Häuschen „durchfällt“, reisst Zidane La Grande Nation aus ihrem Dornröschenschlaf! Viele können mit Verantwortung nicht umgehen. Er reisst sie förmlich an sich!
 
-2002 hält Oliver Kahn alles was auf ihn zukommt. Bis auf jenen „Bodenroller“, der abgegeben von Ronaldos Innenkante, unter seinem Bauch durchrutscht. Manchmal genügt ein Augenblick um deinen Nimbus zu zerstören. Bei Oli hielt sich der Schaden in Grenzen. Die Verdeoros jubelten zum fünften und bis heute letzten Mal.
+2002 wird Italien von Schiedsrichter Moreno vernichtet. Oliver Kahn hält alles was auf ihn zukommt. Bis auf jenen „Bodenroller“, der abgegeben von Ronaldos Innenkante, unter seinem Bauch durchrutscht. Manchmal genügt ein Augenblick um deinen Nimbus zu zerstören. Bei Oli hielt sich der Schaden in Grenzen. Die Verdeoros jubelten zum fünften und bis heute letzten Mal. 
 
 2006 geschieht das siebte Weltwunder. Von einem internen Skandal (Calciopoli) gebeutelt, reist die Squadra Azzurra ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und schaltet den Vorwärtsgang ein. Nobody Grosso wiederfährt die Ehre, mit seinem entscheidenden Elfer das Tor zum Paradies aufzuschliessen. Doch was wäre passiert wenn Zidane nicht ausgerastet wäre? Die Antwort kennt nur der Wind!
 
