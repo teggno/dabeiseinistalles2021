@@ -4,7 +4,7 @@ draft: true
 date: 2025-11-27T09:32:39.307Z
 image: img/img_0733.jpeg
 ---
-1982 steigt Enzo Bearzot mit seinen Jungs endgültig in den Olymp auf. Fast mi derselben Elf von 78! Nur Pechvogel Bettega fehlt! Zoffs Paraden, Tardellis Urschrei, Pablitos Wiedergeburt!  Die Azzurri räumten nach verhaltenem Beginn alles weg, was sich ihnen in den Weg stellt.. Argentinien, Brasilien und Deutschland verstehen die Welt nicht mehr. Staatspräsident Pertini zeigt der ganzen Welt seine Freude. Danke Jungs, es war der schönste Moment ⚽️  meines Lebens. 
+1982 steigt Enzo Bearzot mit seinen Jungs endgültig in den Olymp auf. Fast mit derselben Elf von 78! Nur Pechvogel Bettega fehlt! Zoffs Paraden, Tardellis Urschrei, Pablitos Wiedergeburt!  Die Azzurri räumen nach enttäuschendem Beginn alles weg, was sich ihnen in den Weg stellt.. Argentinien, Brasilien und Deutschland verstehen die Welt nicht mehr. Staatspräsident Pertini zeigt der ganzen Welt seine Freude. Danke Jungs, es war der schönste ⚽️-Moment  meines Lebens. 
 
 1986 verneigt sich die Fussballwelt vor Diego Armando Maradona! Obwohl sie weiss, dass er irgendwie “bschissä hät“. Manchen lässt man mehr durch als anderen. Wer weiss was passiert wäre, wenn die „Hand Gottes“ nicht im Spiel gewesen wäre! Hätte sein Slalomlauf genügt! Englands Klatschpresse war ausser sich. Den Argentiniern war’s egal!
 
