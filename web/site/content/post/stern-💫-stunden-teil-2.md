@@ -8,7 +8,7 @@ image: img/img_0733.jpeg
 
 1986 verneigt sich die Fussballwelt vor Diego Armando Maradona! Obwohl sie weiss, dass er irgendwie “bschissä hät“. Manchen lässt man mehr durch als anderen. Wer weiss was passiert wäre, wenn die „Hand Gottes“ nicht im Spiel gewesen wäre! Hätte sein Slalomlauf genügt! Englands Klatschpresse war ausser sich. Den Argentiniern war’s egal!
 
-1990 hat Andy Brehme die Ruhe weg, als er im Finale den Elfer eiskalt am Penaltykiller …. vorbei unten links im Kasten versorgt. Diegos Tränen lassen mich kalt. Irgendwann bezahlst du für Vergangenes! Franz Beckenbauer dreht vor der Pokalübergabe gedankenverloren seine Runde. Einen zweiten Kaiser wird es nie mehr geben.
+1990 hat Andy Brehme die Ruhe weg, als er im Finale den Elfer eiskalt am Penaltykiller …. vorbei unten links im Kasten versorgt. Diego weint und vergisst dabei, dass sich das Leben alles zurückholt. Franz Beckenbauer dreht gedankenverloren seine Runden. Einen zweiten Kaiser wird es nie mehr geben.
 
 1994 lässt Roberto Baggio immer noch nicht los! Wie konnte ich damals jenen Penalty in den Nachthimmel von Pasadena hauen! Ich der mit der Kugel immer auf „du“ war! Schlaflose Nächte, in denen er schweissgebadet aufwacht, begleiten ihn noch heute. Brasilien hatte eine der unspektakulärsten Weltmeisterschaften nach Hause gemogelt. 
 
