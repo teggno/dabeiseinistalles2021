@@ -4,7 +4,7 @@ draft: true
 date: 2025-04-27T07:51:44.567Z
 image: img/img_0687.jpeg
 ---
-Manchmal wenn ich nachts nicht schlafen kann, überkommt mich das Verlangen „Ehemalige“ aufzuzählen. Brasilien 1958+1970, Deutschland 1954+1974 und Italien 1982+2006 haben es mir besonders angetan. Kurz vor dem Sechzigsten konzentrieren sich meine Gedanken auf England’s Helden von nineteensixtysix!  Königin Elisabeth fiel damals die Ehre zuteil, sie nach dem WM-Triumph zu „Sirs of the British Empire“ zu schlagen. 11 Jungs die England nie vergessen hat!
+Manchmal wenn ich nachts nicht schlafen kann, überkommt mich das Verlangen „Ehemalige“ aufzuzählen. Brasilien 1958+1970, Deutschland 1954+1974 und Italien 1982+2006 haben es mir besonders angetan. Kurz vor ihrem Sechzigsten konzentrieren sich meine Gedanken auf England’s Helden von nineteensixtysix!  Königin Elisabeth fiel damals die Ehre zuteil, sie nach dem WM-Triumph zu „Sirs of the British Empire“ zu schlagen. 11 Jungs die England nie vergessen hat!
 
 Gordon Banks; George Cohen, Bobby Moore, Jack Charlton, Ray Wilson; Alan Ball, Nobby Stiles, Bobby Charlton, Martin Peters; Geoff Hurst und Roger Hunt.
 
