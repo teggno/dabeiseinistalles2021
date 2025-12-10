@@ -1,5 +1,5 @@
 ---
-title: Happy Birthday 🎂
+title: Happy 🎂 Birthday
 draft: true
 date: 2025-04-27T07:51:44.567Z
 image: img/img_0687.jpeg
