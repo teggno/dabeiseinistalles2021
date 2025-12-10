@@ -1,5 +1,5 @@
 ---
-title: Haissisch du Wirtz?
+title: Heissen Sie Wirtz?
 draft: true
 date: 2025-12-10T13:45:23.237Z
 image: img/img_0734.jpeg
