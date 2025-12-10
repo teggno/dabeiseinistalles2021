@@ -16,7 +16,7 @@ Was wäre 1998 ohne Zizou? Frankreich lag  ihrer Majestät zu Füssen. Während 
 
 2002 wird Italien von einem Unparteiischen namens Moreno aufs Abstellgleis geführt. Deutschland hat mehr Glück. Oliver Kahn hält alles was auf ihn zukommt. Bis auf jenen „Bodenroller“, der abgegeben von Ronaldos Innenkante, unter seinem Bauch hindurch rutscht. Manchmal genügt ein Augenblick um deinen Nimbus zu zerstören. Bei Oli hielt sich der Schaden in Grenzen. Die Verdeoros jubelten zum fünften Mal und sind bis heute Rekordhalter.
 
-2006 geschieht so etwas wie das siebte Wektwunder. Von einem internen Skandal (Calciopoli) gebeutelt, reist die Squadra Azzurra ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und schaltet den Vorwärtsgang ein. Nobody Grosso wiederfährt die Ehre, mit seinem entscheidenden Elfer das Tor zum Paradies aufzuschliessen. Doch was wäre passiert wenn Zidane nicht ausgerastet wäre? Die Antwort kennt nur der Wind!
+2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) gebeutelt, reist die Squadra Azzurra ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und schaltet den Vorwärtsgang ein. Nobody Grosso wiederfährt die Ehre, mit seinem entscheidenden Elfer das Tor zum Paradies aufzuschliessen. Doch was wäre passiert wenn Zidane nicht ausgerastet wäre? Die Antwort kennt nur der Wind!
 
 2010 hat Arjen Robben die Entscheidung auf dem Fuss! Doch am Ende jubeln Xavi und Iniesta, die Erfinder des Tiki-Taka! In Südafrika bringen „nervtötende Vuvuzelas“ nicht nur die Protagonisten aus der Ruhe. Zuhause vor dem Bildschirm glaubt man dem Karneval von Rio beizuwohnen. Liebgewordene Traditionen passen nicht überall ins Bild.
 
