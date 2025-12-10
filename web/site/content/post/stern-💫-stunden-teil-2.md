@@ -12,7 +12,7 @@ image: img/img_0733.jpeg
 
 1994 lässt Roberto Baggio immer noch nicht los! Wie konnte er damals jenen Penalty in den Nachthimmel von Pasadena hauen! Er der mit der Kugel immer auf „du“ war! Schlaflose Nächte, in denen er schweissgebadet aufwacht, begleiten ihn noch heute. Brasilien hatte eine der unspektakulärsten Weltmeisterschaften nach Hause gemogelt. 
 
-Was wäre 1998 ohne Zizou? Frankreich liegt ihrer Majestät zu Füssen. Während Ronaldo, der Brasilianer auf dem stillen Häuschen „durchfällt“, reisst Zidane La Grande Nation aus ihrem Dornröschenschlaf! Viele können mit Verantwortung nicht umgehen. Er reisst sie förmlich an sich!
+Was wäre 1998 ohne Zizou? Frankreich lag  ihrer Majestät zu Füssen. Während Ronaldo, der Brasilianer auf dem stillen Häuschen „durchfällt“, reisst Zidane La Grande Nation aus ihrem Dornröschenschlaf! Viele können mit Verantwortung nicht umgehen. Er reisst sie förmlich an sich!
 
 2002 wird Italien von Schiedsrichter Moreno vernichtet. Oliver Kahn hält alles was auf ihn zukommt. Bis auf jenen „Bodenroller“, der abgegeben von Ronaldos Innenkante, unter seinem Bauch durchrutscht. Manchmal genügt ein Augenblick um deinen Nimbus zu zerstören. Bei Oli hielt sich der Schaden in Grenzen. Die Verdeoros jubelten zum fünften und bis heute letzten Mal. 
 
