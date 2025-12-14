@@ -9,3 +9,5 @@ Die 3 drängen sich auf! Und wer noch? Wer auf Erfahrung schwört, der begibt si
 Ronaldo, Woltemade, Etikete, Palmer, Messi, Lautaro, Alvarez, Merino, Embolo, David, Vinicius, Gapko, Depay, Salah, De Bruyne, Lukaku, Arnautovic, Retegui, Kean usw. 
 
 Fündig geworden! Ist euer Favorit dabei. Bin gespannt, wen ihr noch aus dem Hut zaubert
+
+never complain…never explain….Königin Elisabeth
