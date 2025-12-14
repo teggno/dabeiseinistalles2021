@@ -14,6 +14,61 @@ song:
   title: RAFFI‘S JUKEBOX  🎸 Renato Corsone  ▶️   O suspiro
   url: https://www.youtube.com/watch?v=pcMtFI3K6oc&list=RDpcMtFI3K6oc&start_radio=1&pp=ygUeVHUgcXVhbm7DpCBwYXNzw6QgbcOkIGZhaSB2ZW5poAcB
   image: img/img_0637.jpeg
-  description: "\n\n\n"
+  description: |+
+    
+    FAMOUS BLUE RAINCOAT LYRICS ÜBERSETZUNG
+
+    Es ist vier Uhr früh, im späten Dezember
+    Ich schreibe Dir eigentlich nur, um zu sehen, ob es Dir besser geht
+    New York ist kalt, aber ich mag, wo ich nun lebe
+    Den ganzen Abend über klingt Musik durch die Clinton Street.
+
+    Ich habe gehört, dass Du Dir dein kleines Haus tief in der Wüste baust
+    Du lebst nun für nichts mehr, ich hoffe, Du behältst noch die Übersicht.
+
+    Ja, und Jane kam vorbei, mit einer Locke Deines Haars,
+    Sie sagte, dass Du sie ihr gabst
+    In jener Nacht, in der Du plantest, reinen Tisch zu machen*
+    Hast du jemals reinen Tisch gemacht?
+
+    Ah, das letzte Mal, als wir Dich sahen, sahst Du um so vieles älter aus
+    Dein berühmter blauer Regenmantel war an der Schulter zerrissen
+    Du warst am Bahnhof, um jeden Zug abzupassen
+    Und Du kamst zurück nach Hause ohne Lili Marleen
+
+    Du teiltest mit meiner Frau eine Spur deines Lebens
+    Und als sie zurückkam, war sie niemandes Frau
+
+
+    WERBUNG
+
+
+
+    Nun, ich sehe Dich dort mit einer Rose zwischen den Zähnen
+    Einer von diesen schmalen Zigeunerdieben
+    Nun, ich sehe Jane ist erwacht
+
+    Sie lässt Dir Grüße ausrichten.
+
+    Und was soll ich Dir sagen, mein Bruder, mein Mörder
+    Was könnte ich überhaupt sagen?
+    Ich denke, dass ich Dich vermisse
+    Ich denke, dass ich Dir vergebe
+    Ich bin froh, dass Du meinen Weg gekreuzt hast
+
+    Wenn Du jemals vorbeikommen solltest
+    Um Jane zu sehen oder mich
+    Lass Dir sagen, dass Dein Feind schläft und seine Frau frei ist
+
+    Ja, ich danke Dir,
+    Dass Du die Sorge aus ihren Augen genommen hast
+    Ich dachte, sie sei ein Teil von ihr, deswegen habe ich es nie versucht
+
+    Und Jane kam vorbei, mit einer Locke Deines Haars
+    Sie sagte, dass Du sie ihr gabst
+    In jener Nacht, in der Du plantest, reinen Tisch zu machen*
+
+    Hochachtungsvoll L. Cohen
+
 type: rangliste
 ---
