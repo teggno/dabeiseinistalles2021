@@ -25,9 +25,6 @@ song:
 
     Ich habe gehört, dass Du Dir dein kleines Haus tief in der Wüste baust
     Du lebst nun für nichts mehr, ich hoffe, Du behältst noch die Übersicht.
-
-    Ja, und Jane kam vorbei, mit einer Locke Deines Haars,
-    Sie sagte, dass Du sie ihr gabst
     In jener Nacht, in der Du plantest, reinen Tisch zu machen*
     Hast du jemals reinen Tisch gemacht?
 
