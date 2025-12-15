@@ -34,9 +34,10 @@ song:
     Was könnte ich überhaupt noch sagen?
     Ich denke, dass ich Dich vermisse. Ich denke, dass ich dir verziehen habe.
     Ich bin froh, dass Du meinen Weg gekreuzt hast.
-    Ja, ich danke Dir.
+    Und ich danke Dir, 
     Dass Du Dir Sorgen um mich machst.
-    Ja, Ich lebe für nichts mehr.
+    Ja, ich lebe für nichts mehr.
+
 
 
 
