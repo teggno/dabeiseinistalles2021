@@ -29,7 +29,7 @@ song:
     Das letzte Mal, als ich Dich sah, sahst Du so traurig und alt aus.
     Dein berühmter blauer Regenmantel war an der Schulter zerrissen.
     Du warst am Bahnhof, um jeden Zug abzupassen.
-    Und dann kamst Du zurück nach Hause ohne Lilli Marlen.
+    Und dann kamst Du zurück nach Hause ohne Lili Marleen.
     Was soll ich Dir noch sagen.
     Was könnte ich überhaupt noch sagen?
     Ich denke, dass ich Dich vermisse.
