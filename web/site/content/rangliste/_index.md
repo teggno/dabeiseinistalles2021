@@ -12,7 +12,7 @@ placeholder: "
   \ "
 song:
   title: RAFFI‘S JUKEBOX  🎸 Leonard Cohen   ▶️   Famous Blue Raincoat
-  url: https://www.youtube.com/watch?v=IPgz84lIp9s&list=RDIPgz84lIp9s&start_radio=1
+  url: https://www.youtube.com/watch?v=IPgz84lIp9s&list=RDIPgz84lIp9s&start_radio=1&pp=ygUubGVvbmFyZCBjb2hlbiBmYW1vdXMgYmx1ZSByYWluY29hdCBsaXZlIGxvbmRvbqAHAQ%3D%3D
   image: img/img_0637.jpeg
   description: |+
     
