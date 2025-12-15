@@ -26,7 +26,7 @@ song:
     Du lebst nun für nichts mehr, ich hoffe, Du behältst noch die Übersicht.
     In jener Nacht, in der Du plantest, reinen Tisch zu machen.
     Hast du jemals reinen Tisch gemacht?
-    Das letzte Mal, als ich Dich sah, sahst Du so traurig und alt aus.
+    Das letzte Mal, als ich Dich sah, sahst Du so traurig und abgekämpft aus.
     Dein berühmter blauer Regenmantel war an der Schulter zerrissen.
     Du warst am Bahnhof, um jeden Zug abzupassen.
     Und dann kamst Du zurück nach Hause ohne Lili Marleen.
