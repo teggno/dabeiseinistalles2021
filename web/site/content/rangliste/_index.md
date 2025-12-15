@@ -26,17 +26,17 @@ song:
     Du lebst nun für nichts mehr, ich hoffe, Du behältst noch die Übersicht.
     In jener Nacht, in der Du plantest, reinen Tisch zu machen.
     Hast du jemals reinen Tisch gemacht?
-    Das letzte Mal, als ich Dich sah, sahst Du traurig und viel älter aus.
+    Das letzte Mal, als ich Dich sah, sahst Du sehr viel älter aus.
     Dein berühmter blauer Regenmantel war an der Schulter zerrissen.
-    Du warst am Bahnhof, um jeden Zug abzupassen.
+    Du warst am Bahnhof, um keinen Zug zu verpassen.
     Und dann kamst Du zurück nach Hause ohne Lili Marleen.
-    Was soll ich Dir noch sagen.
+    Was soll ich Dir sagen.
     Was könnte ich überhaupt noch sagen?
     Ich denke, dass ich Dich vermisse. Ich denke, dass ich dir verziehen habe.
     Ich bin froh, dass Du meinen Weg gekreuzt hast.
     Und ich danke Dir, 
     Dass Du Dir Sorgen um mich machst.
-    Ja, ich lebe für nichts mehr.
+    O ja,  ich lebe für nichts mehr.
 
 
 
