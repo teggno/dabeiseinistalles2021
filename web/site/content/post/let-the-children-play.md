@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-03T10:56:00.848Z
 image: img/img_0728.jpeg
 ---
-Die Frage war nur noch wieviel!? Als es dann allmählich nach den wilden Sechziger aussah, lief alles auf sixtysix hinaus! Von Variante 2 hatte man mir vorsorglich abgeraten. Mit 66 Jahren da fängt das Leben an! Udos Botschaft ist in Stein gemeisselt Was aufgeweckten Zeitgenossen sofort ins Auge sticht. Es sind alle da! Keiner der VIP’S hatte nur den Anschein erweckt, seinen Platz für jemand anders zu räumen. Dolcefarniente unter dem Sonnenschirm 🏖️ ist auf später verschoben. Zuviel steht  auf dem Spiel. Die Klatschspalten wollen mit Gossip gefüllt werden! 
+Die Frage war nur noch wieviel!? Als es dann allmählich nach den wilden Sechziger aussah, lief alles auf die sixtysix hinaus! Von Variante 2 hatte man mir vorsorglich abgeraten. Mit 66 Jahren da fängt das Leben an! Udos Botschaft ist in Stein gemeisselt Was aufgeweckten Zeitgenossen sofort ins Auge sticht. Es sind alle da! Keiner der VIP’S hatte nur den Anschein erweckt, seinen Platz für jemand anders zu räumen. Dolcefarniente unter dem Sonnenschirm 🏖️ ist auf später verschoben. Zuviel steht  auf dem Spiel. Die Regenbogenpresse sucht nach Opfern.
 
 An dieser Stelle möchte ich unbedingt einen Wunsch loswerden. Liebe Fortuna, nimm dich ihrer an! Lass sie nicht schon wieder ein Mauerblümchen-Dasein fristen. Die Stuckys, Brandes, Weigels, Pedrons, Affentrangers, Petrillos und  Schüepps sehnen sich nach jahrelangem Tunnelbau auf ein wenig Sonne. Ich  weiss, es sind alles “schturi grindä“,  die keine Hilfe annehmen wollen.  Und trotzdem überkommt mich das Mitleid, wenn ich sie schon nach wenigen Tagen mit dem Besenwagen einsammeln muss.
 
