@@ -16,7 +16,7 @@ Mit einem für damalige Verhältnisse revolutionären 4-3-3 ging es zum ersten F
 
 Fast noch hochkarätiger war die Ersatzbank bestückt. Dä Soppi, dä Pölv, dä Willi und dä Bruno Meier, dä Wisi und dä Geni liefen sich vorsichtshalber schon mal warm. Dass die Partie am Ende nur 5:3 für den Gegner ausging, liess die Euphorie in den siebten Himmel wachsen. Bereits war von Durchmarsch die Rede. Spätestens da hätte ich auf die Bremse treten müssen.
 
-Dann kam Wittenbach! Ein trüber Sonntagmorgen im August 1980!  Im Sanktgallischen nieselte es! Kaum ein Supporter war mitgereist. Nur Rolf und Dog waren da. Als Neuling in der 5. Liga waren wir noch leicht desorientiert. Nachdem man Kurt I. noch rechtzeitig aus der Nachtschicht geholt hatte, pfiff der Schiri die Partie an.
+Dann kam Wittenbach! Ein trüber Sonntagmorgen im August 1980!  Im Sanktgallischen nieselte es! Kaum ein Supporter war mitgereist. Nur Rolf und Dog harrten der Dinge, die da kommen sollten. Als Neuling in der 5. Liga waren wir noch leicht desorientiert. Nachdem man Kurt I. noch rechtzeitig aus der Nachtschicht geholt hatte, pfiff der Schiri die Partie an.
 
 Es sollte ein Desaster werden. Als uns Geni auf Pass von Brunette wie aus heiterem Himmel in Führung schoss und wir uns bereits in den Armen lagen, entschied der Referee auf Abseits. Anschliessend sind wir nie mehr über die Mittellinie gekommen. Beim Stande von 0:10 flog dem bemitleidenswerten Schreiberling eine Direktabnahme aus wenigen Metern direkt an die Birne. Am Ende hiess es 0:14. In der Umkleidekabine herrschte Totenstille. Als René das Wort ergriff und von „am beschtä hörämer grad widdär uf“ sprach, schienen alle still vor sich hin zu nicken. Doch zum Glück kam es nicht so weit.
 
