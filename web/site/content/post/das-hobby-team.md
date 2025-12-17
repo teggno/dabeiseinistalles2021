@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-02T14:03:28.842Z
 image: img/img_0724.jpeg
 ---
-„Wänn vor lutär Haggä und Pokärä, Molotov und Rumba, Guggitaler und Zügua, Coiffeur- und Schufflä ♠️ Jass“, andere Vergnügungen in Vergessenheit geraten, ist es Teit über die Bücher 📚 zu gehen. Suchtopfer sind in solch heiklen Situationen oft auf sich alleine gestellt. Ein Ausweg aus der Sackgasse scheint unmöglich. Da ist jede Hilfe willkommen.
+„Wänn vor lutär Haggä und Pokärä, Molotov und Rumba, Guggitaler und Zügua, Coiffeur- und Schufflä ♠️ Jass“, andere Vergnügungen in Vergessenheit geraten, ist es Zeit über die Bücher 📚 zu gehen. Suchtopfer sind in solch heiklen Situationen oft auf sich alleine gestellt. Ein Ausweg aus der Sackgasse scheint unmöglich. Da ist jede Hilfe willkommen.
 
 „Schtatt änand nur d’Chölä 💶 abneh, gömmär zämä go tschuttä“ ⚽️. Die Idee schien perfekt. War sie auch umsetzbar? Schliesslich brauchte es einen Verein, der diese schwer zu integrierenden Querulanten bei sich aufnahm. Als der FC Kreuzlingen sein Einverständnis signalisierte, war der Weg frei. Jetzt musste nur noch ein passender Name gefunden werden.
 
