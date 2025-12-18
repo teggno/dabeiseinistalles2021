@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-03T10:56:00.848Z
 image: img/img_0728.jpeg
 ---
-Es ist fast so wie ein Klassentreffen. Sind auch alle da, die insgeheim erwartet wurden? Ich darf euch alle beruhigen! Keiner der „Very Important Persons“ ist abgesprungen! Dolcefarniente unterm Sonnenschirm 🏖️ kann warten. Zuviel steht auf dem Spiel. Der gute Ruf will verteidigt werden. Am Ende war die Frage nur noch wieviel?! Als es dann knapp vor Verfallsdatum immer mehr nach den wilden Sechziger aussah, lief alles auf die 66 hinaus! Von Variante 2 hatte man mir vorsorglich abgeraten. 
+Es ist fast so wie ein Klassentreffen. Sind auch alle anwesend, die insgeheim erwartet wurden? Ich darf euch alle beruhigen! Keiner der „Very Important Persons“ ist abgesprungen! Dolcefarniente unterm Sonnenschirm 🏖️ kann warten. Zuviel steht auf dem Spiel. Der gute Ruf will verteidigt werden. Am Ende war die Frage nur noch wieviel?! Als es dann knapp vor Verfallsdatum immer mehr nach den wilden Sechziger aussah, lief alles auf die 6️⃣6️⃣hinaus! Von Variante 2 hatte man mir vorsorglich abgeraten. 
 
 An dieser Stelle möchte ich unbedingt einen Wunsch loswerden. Liebe Fortuna, nimm dich ihrer an! Lass sie nicht schon wieder ein Mauerblümchen-Dasein fristen. Die Brandes, Näfs, Pedrons, Affentrangers, Petrillos, Schüepps, Weigels und Stuckys sehnen sich nach jahrelangem Untertagebau auf ein wenig Sonne. Ich  weiss, es sind alles “schturi grindä“,  die keine Hilfe annehmen wollen.  Und trotzdem überkommt mich das Mitleid, wenn ich sie schon nach wenigen Tagen mit dem Besenwagen einsammeln muss.
 
