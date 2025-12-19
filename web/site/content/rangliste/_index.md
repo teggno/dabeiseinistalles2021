@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2025-06-28T16:21:39.959Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: "
 
   Dieser Seite 📜 ist die Lust vergangen 😞
