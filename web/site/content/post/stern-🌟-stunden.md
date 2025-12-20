@@ -9,7 +9,9 @@ image: img/img_0722.jpeg
 
 1930 bekommt der Fussball endlich was ihm gebührt! Ein Turnier, das die Völker vereinen soll, wird aus der Taufe gehoben. In Montevideo geben sich „nur“ 13 Mannschaften ein Stelldichein. Die meisten reisen mit dem Schiff an. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules Rimet Wanderpokal, der von nun an alle vier Jahre einen neuen Eintrag bekommen sollte.
 
-1934 verdient sich Italien den ersten Eintrag in the Best of! Angeführt von  den Ausnahmestürmern PIola und Meazza setzen sie sich im Finale
+1934 verdient sich Italien den ersten Eintrag in the Best of! Angeführt von  den Ausnahmestürmern PIola und Meazza setzen sich die Azzurri vor heimischer Kulisse durch. Fader Beigeschmack: Benito Mussolini schlachtet die WM für seine eigenen Zwecke aus.
+
+1938 das Double! Trainer Pozzo, der schon vier Jahre zuvor den Taktstock geschwungen hatte, macht sich unsterblich! Italien schlägt im Finale die Ungarn mit 4:2!
 
 1942+1946 fällt die WM  wegen des 2. Weltkrieges aus.  
 
