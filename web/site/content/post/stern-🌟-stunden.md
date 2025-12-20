@@ -23,7 +23,7 @@ image: img/img_0722.jpeg
 
 1962 geht als die WM der bösen Buben in die Geschichte ein. Grätschen gehören zum guten Ton! Wilde Schlägereien sorgen für Abwechslung. Chile-Italien ist der absolute „Höhepunkt“. Den Brasilianern gelingt es, ihren Titel souverän zu verteidigen. Auch ohne ihren verletzten Stürmerstar Pelé. Mann des Turniers ist Rechtsaussen Garrincha, der mit seinen Dribblings die gegnerischen Abwehrreihen schwindlig spielt.
 
-1966 ist der Fluch endlich besiegt. Fussballerfinder England ist am Ziel. Geoff Hurst trifft dreimal ins Schwarze. Dass es bis heute ihr einziger Triumph an Europa- und Weltmeisterschaften geblieben ist, bleibt vielen ein Rätsel. 
+1966 ist der Fluch endlich besiegt. Fussballerfinder England ist am Ziel. Geoff Hurst trifft dreimal ins Schwarze. Doch sein Wembley-Tor sorgt für Diskussionen, die bis heute nicht ausgeklungen sind. Wieso es ihr einziger Triumph an Europa- und Weltmeisterschaften geblieben ist, bleibt vielen ein Rätsel. 
 
 1970 erlebt Mexixo das Spiel des Jahrtausends! Wer dieses Drama auf die „LeinWand“ brachte, hätte zweifelsohne den Oscar verdient. Als Rivera kurz vor Ende der Verlängerung den Meier Sepp auf dem falschen Fuss erwischt, liegt sich ein ganzes Volk in den Armen. Im Final ist dann gegen das „beste Team aller Zeiten“ kein Kraut gewachsen. Gerson, Jairzinho, Rivelino und der wieder einmal überragende Pelé sind eine Nummer zu gross.
 
