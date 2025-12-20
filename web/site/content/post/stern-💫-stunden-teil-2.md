@@ -15,7 +15,7 @@ WM 🏟️ 1982-2022
 
 1994 hinterlässt bei Roberto Baggio bis heute seine Spuren..Wie konnte er damals jenen Penalty in den Nachthimmel von Pasadena hämmern? Er der mit dem Leder immer auf „du“ war! Brasilien hatte dank Romario eine der unspektakulärsten Weltmeisterschaften nach Hause gemogelt. 
 
-Was wäre 1998 ohne Zizou? Frankreich lag  ihrer Majestät zu Füssen. Während Ronaldo, der Brasilianer auf dem stillen Häuschen „durchfällt“, reisst Zidane La Grande Nation aus ihrem Dornröschenschlaf! Viele können mit Verantwortung nicht umgehen. Er riss sie förmlich an sich!
+Was wäre 1998 ohne Zizou? Frankreich lag  ihrer Majestät zu Füssen. Während Ronaldo, der Brasilianer auf dem stillen Häuschen „durchfällt“, reisst Zidane La Grande Nation aus ihrem Dornröschenschlaf! Vive la France!
 
 2002 wird Italien von einem Unparteiischen namens Moreno aufs Abstellgleis geführt. Deutschland hat mehr Glück. Oliver Kahn hält alles was auf ihn zukommt. Bis auf jenen „Bodenroller“, der abgegeben von Ronaldos Innenkante, unter seinem Bauch hindurch rutscht. Manchmal genügt ein Augenblick um deinen Nimbus zu zerstören. Bei Oli hielt sich der Schaden in Grenzen. Die Verdeoros jubelten zum fünften Mal und sind bis heute Rekordhalter.
 
