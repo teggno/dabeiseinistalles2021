@@ -29,4 +29,4 @@ image: img/img_0722.jpeg
 
 1974 treffen die damals grössten Fussballästheten aufeinander. Franz Beckenbauers 50 Meterpässe aus dem Fussgelenk sind eine Augenweide! Johan Crujff’s Spielübersicht eine Symphonie Die Rolle des WM- Helden fällt  jedoch einem anderen zu! Kleines, dickes Müller verewigt sich mit seinem Abstauber aus halber Drehung, der in keinem Lehrbuch zu finden ist. Gerd, du bist und bleibst die grösste Nummer 9 aller Zeiten.
 
-1978 haben Rob Rensenbrink und Roberto Bettega die Seuche am Fuss.  Weder die Niederländer noch die Italiener schlagen aus ihrer komfortablen Position Profit Stattdessen ist es Mario Kempes der in Buenos Aires zum Tango einlädt. Argentinien ist zum ersten Mal Weltmeister.
+1978 haben Rob Rensenbrink und Roberto Bettega die Seuche am Fuss.  Weder die Niederländer noch die Italiener schlagen aus ihrer komfortablen Position. Profit Stattdessen ist es Mario Kempes der in Buenos Aires zum Tango einlädt. Argentinien ist zum ersten Mal Weltmeister.
