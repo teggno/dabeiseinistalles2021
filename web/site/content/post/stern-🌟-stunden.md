@@ -1,5 +1,5 @@
 ---
-title: Stern 🌟 stunden Teil 1
+title: Sternstunden Teil 1
 draft: true
 date: 2025-09-09T10:10:11.371Z
 image: img/img_0722.jpeg
