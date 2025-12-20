@@ -17,7 +17,7 @@ WM 🏟️ 1982-2022
 
 Was wäre 1998 ohne Zizou? Frankreich lag  ihrer Majestät zu Füssen. Während Ronaldo, der Brasilianer auf dem stillen Häuschen „durchfällt“, reisst Zidane La Grande Nation aus ihrem Dornröschenschlaf! Vive la France!
 
-2002 wird Italien von einem “Parteiischen„ namens Moreno aufs Abstellgleis manövriert. Deutschland hat mehr Glück. Oliver Kahn hält alles was auf ihn zukommt. Bis auf jenen „Bodenroller“, der abgegeben von Ronaldos Innenkante, unter seinem Bauch hindurch rutscht. Manchmal genügt ein Augenblick um deinen Nimbus zu zerstören. Bei Oli hielt sich der Schaden in Grenzen. Die Verdeoros jubelten zum fünften Mal und sind bis heute Rekordhalter.
+2002 wird Italien von einem “Parteiischen„ namens Moreno aufs Abstellgleis manövriert. Deutschland hat mehr Glück. Oliver Kahn hält alles was auf ihn zukommt. Bis auf jenen Bodenroller, der abgegeben von Ronaldos Innenkante, unter seinem Bauch hindurch rutscht. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Bei Oli hielt sich der Schaden in Grenzen. Die Verdeoros jubelten zum fünften Mal und bleiben bis heute Rekordhalter.
 
 2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) gebeutelt, reist die Squadra Azzurra ans Sommermärchen als krasser Aussenseiter nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und schaltet den Vorwärtsgang ein. Nobody Grosso wiederfährt die Ehre, mit seinem entscheidenden Elfer das Tor zum Paradies aufzuschliessen. Doch was wäre passiert wenn Zidane nicht ausgerastet wäre? Die Antwort kennt nicht mal Materazzi!
 
