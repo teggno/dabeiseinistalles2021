@@ -5,7 +5,7 @@ date: 2025-09-09T10:10:11.371Z
 image: img/img_0722.jpeg
 ---
 \
-1930-1978
+ WM 🏟️ 1930-1978
 
 1930 bekommt der Fussball endlich was ihm gebührt! Ein Turnier, das die Völker vereinen soll, wird aus der Taufe gehoben. In Montevideo geben sich „nur“ 13 Mannschaften ein Stelldichein. Die meisten reisen mit dem Schiff an. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules Rimet Wanderpokal, der von nun an alle vier Jahre einen neuen Eintrag bekommen sollte.
 
