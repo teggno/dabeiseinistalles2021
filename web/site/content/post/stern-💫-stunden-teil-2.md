@@ -13,7 +13,7 @@ WM 🏟️ 1982-2022
 
 1990 hat Andy Brehme die Ruhe weg, als er im Finale den Elfer eiskalt am Penaltykiller …. vorbei im linken unteren Eck versorgt. Diego weint bittere Tränen und vergisst dabei, dass das Leben gibt und nimmt. Franz Beckenbauer dreht im Römer OlympiaStadion gedankenverloren seine Runden. Einen zweiten Kaiser wird es nie mehr geben.
 
-1994 lässt Roberto Baggio immer noch nicht los! Wie konnte er damals jenen Penalty in den Nachthimmel von Pasadena hauen! Er der mit der Kugel immer auf „du“ war! Schlaflose Nächte, in denen er schweissgebadet aufwacht, begleiten ihn noch heute. Brasilien hatte eine der unspektakulärsten Weltmeisterschaften nach Hause gemogelt. 
+1994 hinterlässt bei Roberto Baggio bis heute seine Spuren..Wie konnte er damals jenen Penalty in den Nachthimmel von Pasadena hämmern? Er der mit dem Leder immer auf „du“ war! Brasilien hatte dank Romario eine der unspektakulärsten Weltmeisterschaften nach Hause gemogelt. 
 
 Was wäre 1998 ohne Zizou? Frankreich lag  ihrer Majestät zu Füssen. Während Ronaldo, der Brasilianer auf dem stillen Häuschen „durchfällt“, reisst Zidane La Grande Nation aus ihrem Dornröschenschlaf! Viele können mit Verantwortung nicht umgehen. Er riss sie förmlich an sich!
 
