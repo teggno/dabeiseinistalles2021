@@ -6,7 +6,7 @@ image: img/img_0739.jpeg
 ---
 Als Typ mit harter Schale und weichem Kern wusstest du wie du die Jungs anzupacken hast. Nach Seelenforscher Spalletti hatten wir einen Draufgänger mit Einfühlungsvermögen dringend nötig. Viele meiner Kumpels zweifelten bis zuletzt an deiner Kompetenz. Vielleicht weil du früher die Drecksarbeit für FiligranTechniker Pirlo erledigen musstest. Wie soll ein Wadenbeisser seinen Schülern das Pressing beibringen.
 
-Dä Samichlaus in Form des „Babbo 🎅 Natale“ war ihm soeben im Traum erschienen und hatte ihm ein unglaubliches Märchen aufgetischt. Gigi sag deinem Chef, dass alles ein Happyend haben wird. Nordirland läuft im Playoff Halbfinale ohne George Best auf. Und im Finale von Sarajevo gegen Oldie Dzeko fügt sich ein Wunder ans andere. 
+Sei un grande Rino! Ich ziehe den Hut vor dir! Auch wenn es an der WM nicht nach Plan laufen sollte. Wichtig war, dass wir nicht zum dritten Mal hintereinander mit Abwesenheit geglänzt haben. Endlich dürfen Teenager zwischen Caglliari und Como für ihr Land Dä Samichlaus in Form des „Babbo 🎅 Natale“ war ihm soeben im Traum erschienen und hatte ihm ein unglaubliches Märchen aufgetischt. Gigi sag deinem Chef, dass alles ein Happyend haben wird. Nordirland läuft im Playoff Halbfinale ohne George Best auf. Und im Finale von Sarajevo gegen Oldie Dzeko fügt sich ein Wunder ans andere. 
 
 Gattuso war ausser sich vor Freude. Betete zum Dank drei Vaterunser! Gerade noch hatte man sein gelobtes Land von BBB- auf CCC- abgestuft. Bananenrepublik pur! Die Ratingagenturen hatten kein Pardon gekannt. Und jetzt das!  Italien war mit von der Partie. Pünktlich zur Pubertät durften die Jungs zwischen Como und Siracusa ihrem Vaterland erstmals die Daumen drücken.
 
