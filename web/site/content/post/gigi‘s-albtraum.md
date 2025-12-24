@@ -8,7 +8,7 @@ Als Typ mit harter Schale und weichem Kern wusstest du wie du die Jungs anzupack
 
 Sei un grande Rino! Ich ziehe den Hut vor dir! Auch wenn es an der WM nicht nach Plan laufen sollte. Wichtig war, dass wir nicht zum dritten Mal hintereinander mit Abwesenheit geglä haben. Endlich dürfen Teenager zwischen Caglliari und Como für ihr Land durchs Feuer gehen. Und ganz nebenbei haben wir das Vergnügen, uns mit Goliath Helvetia zu messen.
 
-Für Salti Mortali wie 1982+2006 wird es nicht reichen. Das wissen bis auf ein paar Traumtänzer alle. Ich bin schon froh, wenn wir hinter der Schweiz und Kanada als einer der acht besten Gruppendritten die Vorrunde überstehen. Dabei sein ist alles! Die Zocker vom Bodensee sind überglücklich, dass du (Rino) den Sommer 26 gerettet hast. Ohne dich wäre es zu keinem Revival gekommen. 
+Für Salti Mortali wie 1982+2006 wird es nicht reichen. Das wissen bis auf ein paar Traumtänzer alle. Ich bin schon froh, wenn wir hinter der Schweiz und Kanada als einer der acht besten Gruppendritten die Vorrunde überstehen. Dabei sein ist alles! Die Zocker vom Bodensee sind überglücklich, dass du (Rino) den Sommer 26 gerettet hast. Ohne dich wäre es zu keinem Revival gekommen. Da will ich dir unbedingt noch eine Geschichte erzählen. Du weisst ja, dass aus Schwazenbachs Zeiten ein paar Lemminge übriggeblieben sind, die im besten Falle uns den Daumen drückten, wenn es gegen die Germanen ging. Eben diese Jungs, du wirst es kaum glauben, haben nach dem Schlusspfiff gegen Wales lauter geschrien als ich. Aus Freude nicht aus Wut. Denn jetzt dürfen sie auch dabeisein bei der grossen Party 🎉.
 
 
 
