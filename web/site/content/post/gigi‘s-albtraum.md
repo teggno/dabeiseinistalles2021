@@ -1,10 +1,10 @@
 ---
-title: Gigi‘s Traum
+title: "Grazie 🥰 Rino "
 draft: true
 date: 2025-12-05T23:00:00.000Z
 image: img/img_0731.jpeg
 ---
-Schweissgebadet klopfte er an Gennaro‘s Schlafgemach! Dä Samichlaus in Form des „Babbo 🎅 Natale“ war ihm soeben im Traum erschienen und hatte ihm ein unglaubliches Märchen aufgetischt. Gigi sag deinem Chef, dass alles ein Happyend haben wird. Nordirland läuft im Playoff Halbfinale ohne George Best auf. Und im Finale von Sarajevo gegen Oldie Dzeko fügt sich ein Wunder ans andere. 
+Als Typ mit harter Schale und weichem Kern wusstest du wie du die Jungs anpacken musstest. Nach Psychoanalytiker Spalletti hatten wir einen Draufgänger mit Einfühlungsvermögen dringend nötig. Dä Samichlaus in Form des „Babbo 🎅 Natale“ war ihm soeben im Traum erschienen und hatte ihm ein unglaubliches Märchen aufgetischt. Gigi sag deinem Chef, dass alles ein Happyend haben wird. Nordirland läuft im Playoff Halbfinale ohne George Best auf. Und im Finale von Sarajevo gegen Oldie Dzeko fügt sich ein Wunder ans andere. 
 
 Gattuso war ausser sich vor Freude. Betete zum Dank drei Vaterunser! Gerade noch hatte man sein gelobtes Land von BBB- auf CCC- abgestuft. Bananenrepublik pur! Die Ratingagenturen hatten kein Pardon gekannt. Und jetzt das!  Italien war mit von der Partie. Pünktlich zur Pubertät durften die Jungs zwischen Como und Siracusa ihrem Vaterland erstmals die Daumen drücken.
 
