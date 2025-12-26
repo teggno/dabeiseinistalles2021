@@ -4,6 +4,8 @@ draft: true
 date: 2025-12-02T14:03:28.842Z
 image: img/img_0724.jpeg
 ---
+Von aussen sah der Laden fast unscheinbar aus! Doch wenn man eintrat, während man den schweren schwarzen Vorhang beiseite schob, erhöhte sich automatisch die Pulsfrequenz. Hier verbrachten wir unsere besten Jahre. Gefangen zwischen Herz ❤️ Eggä ♦️Chrüz ♣️  und Schufflä ♠️.
+
 „Wänn vor lutär Haggä+Pokärä, Molotov+Rumba, Guggitalär+Coiffeur, Schufflä ♠️ Jass+Scala Quaranta“🃏 andere Vergnügungen in Vergessenheit geraten, ist es Zeit über die Bücher 📚 zu gehen. Suchtopfer sind in solch heiklen Situationen oft auf sich alleine gestellt. Ein Ausweg aus der Sackgasse scheint unmöglich. Da ist jede Hilfe willkommen.
 
 „Schtatt änand numä d’Chölä 💶 abneh, gömmär zämä go tschuttä“ ⚽️. Die Idee schien perfekt. War sie auch umsetzbar? Schliesslich brauchte es einen Verein, der diese schwer zu integrierenden Querulanten bei sich aufnahm. Als der FC Kreuzlingen sein Einverständnis signalisierte, war der Weg frei. Jetzt musste nur noch ein passender Name gefunden werden.
