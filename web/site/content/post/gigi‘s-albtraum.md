@@ -6,7 +6,7 @@ image: img/img_0739.jpeg
 ---
 Als Typ mit harter Schale und weichem Kern wusstest du wie du die Jungs anzupacken hast. Nach Seelenforscher Spalletti hatten wir einen Draufgänger mit Einfühlungsvermögen dringend nötig. Viele meiner Kumpels haben  bis zuletzt an deiner Kompetenz gezweifelt. Vielleicht weil du früher die Drecksarbeit für FiligranTechniker Pirlo erledigen musstest. Wie soll ein Wadenbeisser wissen wie man presst.
 
-„Sei un grande Rino!“ Ich ziehe den Hut vor dir! Auch wenn es an der WM nicht nach Plan laufen sollte. Wichtig war, dass wir nicht zum dritten Mal hintereinander mit Abwesenheit geglänzt haben. Endlich dürfen die Teenager zwischen Cagliari und Como an einer WM für ihr Land jubeln. Dass Goliath Helvetia in derselben Gruppe beheimatet ist, macht alles noch viel interessanter.
+„Sei un grande Rino!“ Ich ziehe den Hut vor dir! Auch wenn es an der WM nicht nach Plan laufen sollte. Wichtig war, dass wir nicht zum dritten Mal hintereinander mit Abwesenheit geglänzt haben. Endlich dürfen die Teenager zwischen der Lombardei und Sizilien für ihr Land an einer WM jubeln. Dass Goliath Helvetia in derselben Gruppe beheimatet ist, macht alles noch viel interessanter.
 
 Für „Salti Mortali“ wie 82+06 wird es diesmal kaum reichen. Das weiss bis auf ein paar Traumtänzer die ganze Fussballwelt. Ich bin schon froh, wenn wir hinter der Schweiz und Kanada als einer der acht besten Gruppendritten die Vorrunde überstehen. Dabeisein wird das höchste der Gefühle sein. Die Zockergemeinde vom Bodensee ist überglücklich, dass du ihnen, lieber Gennaro, den Sommer gerettet hast. Ohne dich wäre es zu keiner Revival-Party gekommen.
 
