@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-05T23:00:00.000Z
 image: img/img_0739.jpeg
 ---
-Als Typ mit harter Schale und weichem Kern wusstest du wie du die Jungs anzupacken hast. Nach Seelenforscher Spalletti hatten wir einen Draufgänger mit Einfühlungsvermögen dringend nötig. Viele meiner Kumpels haben  bis zuletzt an deiner Kompetenz gezweifelt. Vielleicht weil du früher die Drecksarbeit für FiligranTechniker Pirlo erledigen musstest. Wie soll ein Wadenbeisser seinen Schülern das Pressing beibringen.
+Als Typ mit harter Schale und weichem Kern wusstest du wie du die Jungs anzupacken hast. Nach Seelenforscher Spalletti hatten wir einen Draufgänger mit Einfühlungsvermögen dringend nötig. Viele meiner Kumpels haben  bis zuletzt an deiner Kompetenz gezweifelt. Vielleicht weil du früher die Drecksarbeit für FiligranTechniker Pirlo erledigen musstest. Wie soll ein Wadenbeisser wissen wie man presst.
 
 „Sei un grande Rino!“ Ich ziehe den Hut vor dir! Auch wenn es an der WM nicht nach Plan laufen sollte. Wichtig war, dass wir nicht zum dritten Mal hintereinander mit Abwesenheit geglänzt haben. Endlich dürfen die Teenager zwischen Cagliari und Como an einer WM für ihr Land jubeln. Dass Goliath Helvetia in derselben Gruppe beheimatet ist, macht alles noch viel interessanter.
 
