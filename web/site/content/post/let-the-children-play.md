@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-03T10:56:00.848Z
 image: img/img_0728.jpeg
 ---
-Als es knapp vor Verfallsdatum immer mehr nach den wilden Sechziger aussah, lief alles auf die 6️⃣6️⃣hinaus!  Von Variante 2 hatte man mir vorsorglich abgeraten. 
+Als es knapp vor Verfallsdatum immer mehr nach den wilden Sechziger aussah, lief alles auf die 6️⃣6️⃣hinaus!  Von Variante 2 hatte man mir vorsorglich abgeraten. Auffallend, dass keiner der Eingeladenen der Veranstaltung ferngeblieben ist. Selbst aus Neuseeland flatterte die Flugpost ins Haus. KI, Algorithmen, Fachbücher, Expertenmeinungen, alles wurde herbeigezogen um möglichst weit vorne zu landen. Es ist doch soooo schön, wenn man seinen Namen zuvorderst sieht.
 
 Auffallend sind dieses Mal die vielen Nominierungen mit dem Schweizer🇨🇭Kreuz. Ein Ruck ist durch die “Klasse“ gegangen. Injiziert hat das Ganze „Murat der Taugenichts“, der bei vielen Ureidgenossen bis vor kurzem einen schweren Stand hatte. Der wird uns doch am Ende nicht alle Lügen strafen und das Wunder von Bern in den Schatten stellen!
 
