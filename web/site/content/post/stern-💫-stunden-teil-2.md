@@ -19,7 +19,7 @@ Was wäre 1998 ohne Zizou? La Grande Nation liegt ihrem „Algerier“ zu Füsse
 
 2002 hält Oliver Kahn alles was auf ihn zukommt. Bis auf jenen Bodenroller, der abgegeben von Ronaldos Innenkante, unter seinem Bauch hindurchrutscht. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Bei Oli hielt sich der Schaden in Grenzen. Die Verdeoros jubeln zum fünften Mal und bleiben bis heute Rekordhalter.
 
-2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) gebeutelt, reist die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und schaltet den Vorwärtsgang ein. Nobody Grosso wiederfährt die Ehre, mit seinem entscheidenden Elfer das Tor zum Paradies aufzustossen. Doch was wäre passiert wenn Zidane nicht ausgerastet wäre? Die Antwort kennt nicht mal Materazzi!
+2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) gebeutelt, reist die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und schaltet den Vorwärtsgang ein. Nobody Grosso wiederfährt die Ehre, mit seinem entscheidenden Elfer das Tor zum Paradies aufzustossen. Doch was wäre passiert wenn Zidane nicht ausgerastet wäre? Die Antwort kennt nur Materazzi!
 
 2010 und die Vuvuzelas! Eine Plage für jeden Fan. Ob Sieg oder Niederlage, sie tönen immer gleich. Im Finale hat Arjen Robben die Entscheidung auf dem Fuss!  Über den Niederländern muss ein Fluch liegen. Am Ende jubeln nämlich die Spanier. Xavi und Iniesta, lassen daraufhin das Tiki-Taka patentieren. 
 
