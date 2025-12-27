@@ -4,7 +4,7 @@ draft: true
 date: 2025-04-27T07:51:44.567Z
 image: img/img_0687.jpeg
 ---
-Manchmal wenn ich nachts nicht schlafen kann, überkommt mich das Verlangen „Ehemalige“ aufzuzählen. Brasilien 1970, Deutschland 1974, und Italien 1982 haben es mir besonders angetan. In diesen Tagen konzentrieren sich meine Gedanken auf das Jahr nineteensixtysix!  Queen Elisabeth fiel damals die Ehre zuteil, Englands Helden nach dem WM-Triumph zu „Sirs of the British Empire“ zu schlagen. Ihre Namen gingen in die Geschichte ein.
+Manchmal wenn ich nachts nicht schlafen kann, überkommt mich das Verlangen „Ehemalige“ aufzuzählen. Brasilien 1970, Deutschland 1974, und Italien 1982 haben es mir besonders angetan. In diesen Tagen konzentrieren sich meine Gedanken auf das Jahr nineteensixtysix!  Queen Elisabeth fiel damals die Ehre zu, Englands Helden nach dem WM-Triumph zu „Sirs of the British Empire“ zu schlagen. Ihre Namen gingen in die Geschichte ein.
 
 Gordon Banks; George Cohen, Bobby Moore, Jack Charlton, Ray Wilson; Alan Ball, Nobby Stiles, Bobby Charlton, Martin Peters; Geoff Hurst und Roger Hunt.
 
