@@ -23,7 +23,7 @@ Was wäre 1998 ohne Zizou? La Grande Nation liegt ihrem „Algerier“ zu Füsse
 
 2010 und die Vuvuzelas! Eine Plage für jeden Fan. Ob Sieg oder Niederlage, sie tönen immer gleich. Im Finale hat Arjen Robben die Entscheidung auf dem Fuss!  Über den Niederländern muss ein Fluch liegen. Am Ende jubeln die Spanier. Xavi und Iniestas Tiki-Taka wird patentiert.
 
-2014 demütigt der dreimalige Weltmeister den fünfmaligen. Jeder Schuss ein Treffer. Brasilien traut im Halbfinale seinen Augen nicht! Zuhause 7:1 abgeschossen zu werden tut richtig weh! Die Copacabana versinkt nach 1950 zum zweiten Mal im Tränenmeer. Deutschland‘s Lauf ist auch von den Tangotänzern nicht zu stoppen. Mario Götze geht mit seinem „One-Hit-Wonder“ in die Geschichte ein.
+2014 demütigt Deutschland Brasilien. Jeder Schuss ein Treffer.  Zuhause 7:1 abgeschossen zu werden tut richtig weh! Die Copacabana versinkt nach 1950 zum zweiten Mal im Tränenmeer. Deutschland‘s Lauf ist auch von den Tangotänzern nicht zu stoppen. Mario Götze geht mit seinem „One-Hit-Wonder“ in die Geschichte ein.
 
 2018 gerät fast in Vergessenheit. Ist es der Austragungsort der einem Bauchweh bereitet. Aussenseiter Kroatien stösst bis ins Finale vor und muss sich erst dort den Franzosen geschlagen geben. Didier Deschamps „entdeckt“ seinen Sprössling Mbappé, Modric wird als bester Spieler gewählt und Putin dankt der FIFA.
 
