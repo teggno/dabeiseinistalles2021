@@ -11,7 +11,7 @@ WM 🏟️ 1982-2022
 
 1986 verneigt sich die Fussballwelt vor Diego Armando Maradona! Obwohl sie weiss, dass er irgendwie “bschissä hät“. Manchen lässt man mehr durch als anderen. Wer weiss was passiert wäre, wenn die „Hand Gottes“ nicht im Spiel gewesen wäre! Hätte sein Slalomlauf genügt? Englands Klatschpresse war ausser sich. Den Argentiniern war’s egal!
 
-1990 hat Andy Brehme die Ruhe weg, als er im Finale den Elfer eiskalt am Penaltykiller …. vorbei im linken unteren Eck versorgt. Diego weint bittere Tränen und vergisst dabei, dass das Leben gibt und nimmt. Franz Beckenbauer dreht im Römer OlympiaStadion gedankenverloren seine Runden. Einen zweiten Kaiser wird es nie mehr geben.
+1990 hat Andy Brehme die Ruhe weg, als er im Finale den Elfer eiskalt am Penaltykiller …. vorbei im linken unteren Eck versenkt. Diego weint bittere Tränen und vergisst dabei, dass das Leben gibt und nimmt. Franz Beckenbauer dreht im Römer OlympiaStadion gedankenverloren seine Runden. Einen zweiten Kaiser wird es nie mehr geben.
 
 1994 hinterlässt bei Roberto Baggio bis heute seine Spuren..Wie konnte er damals jenen Penalty in den Nachthimmel von Pasadena hämmern? Er der mit dem Leder immer auf „du“ war! Brasilien hatte dank Romario eine der unspektakulärsten Weltmeisterschaften nach Hause gemogelt. 
 
