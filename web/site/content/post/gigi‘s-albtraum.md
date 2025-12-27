@@ -1,5 +1,5 @@
 ---
-title: "Grazie 🥰 Rino "
+title: "Grazie 🥰 Gennaro "
 draft: true
 date: 2025-12-05T23:00:00.000Z
 image: img/img_0739.jpeg
