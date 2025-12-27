@@ -21,7 +21,7 @@ Was wäre 1998 ohne Zizou? La Grande Nation liegt ihrem „Algerier“ zu Füsse
 
 2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) gebeutelt, reist die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und schaltet den Vorwärtsgang ein. Nobody Grosso wiederfährt die Ehre, mit seinem entscheidenden Elfer das Tor zum Paradies aufzustossen. Doch was wäre passiert wenn Zidane nicht ausgerastet wäre? Die Antwort kennt nur Materazzi!
 
-2010 und die Vuvuzelas! Eine Plage für jeden Fan. Ob Sieg oder Niederlage, sie tönen immer gleich. Im Finale hat Arjen Robben die Entscheidung auf dem Fuss!  Über den Niederländern muss ein Fluch liegen. Am Ende jubeln nämlich die Spanier. Xavi und Iniesta, lassen daraufhin das Tiki-Taka patentieren. 
+2010 und die Vuvuzelas! Eine Plage für jeden Fan. Ob Sieg oder Niederlage, sie tönen immer gleich. Im Finale hat Arjen Robben die Entscheidung auf dem Fuss!  Über den Niederländern muss ein Fluch liegen. Am Ende jubeln die Spanier. Xavi und Iniestas Tiki-Taka wird patentiert.
 
 2014 demütigt der dreimalige Weltmeister den fünfmaligen. Jeder Schuss ein Treffer. Brasilien traut im Halbfinale seinen Augen nicht! Zuhause 7:1 abgeschossen zu werden tut richtig weh! Die Copacabana versinkt nach 1950 zum zweiten Mal im Tränenmeer. Deutschland‘s Lauf ist auch von den Tangotänzern nicht zu stoppen. Mario Götze geht mit seinem „One-Hit-Wonder“ in die Geschichte ein.
 
