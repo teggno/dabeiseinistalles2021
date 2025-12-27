@@ -15,7 +15,7 @@ WM 🏟️ 1982-2022
 
 1994 schiesst Roberto Baggio seinen Elfer in den Nachthimmel von Pasadena. Er der mit dem Leder stets auf „du“ war! Brasilien sagte Dankeschön und brachte eine der unspektakulärsten Weltmeisterschaften nach Hause. Romario wird bestimmt anderer Ansicht sein.
 
-Was wäre 1998 ohne Zizou? Frankreich lag  ihrer Majestät zu Füssen. Während Ronaldo, der Brasilianer auf dem stillen Häuschen „durchfällt“, reisst Zidane La Grande Nation aus ihrem Dornröschenschlaf! Vive la France!
+Was wäre 1998 ohne Zizou? La Grande Nation liegt ihrem „Algerier“ zu Füssen. Der in sich gekehrte Tausendsassa übernimmt endlich die nötige Verantwortung. Zidane, der Ausnahmekönner, der sein Talent in den Dienst der Mannschaft stellt. Ronaldo der Brasilianer verschob seine Gala auf später! 
 
 2002 wird Italien von einem “Parteiischen„ namens Moreno aufs Abstellgleis manövriert. Deutschland hat mehr Glück. Oliver Kahn hält alles was auf ihn zukommt. Bis auf jenen Bodenroller, der abgegeben von Ronaldos Innenkante, unter seinem Bauch hindurch rutscht. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Bei Oli hielt sich der Schaden in Grenzen. Die Verdeoros jubelten zum fünften Mal und bleiben bis heute Rekordhalter.
 
