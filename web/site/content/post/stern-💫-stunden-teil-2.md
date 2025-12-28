@@ -29,4 +29,4 @@ Was wäre 1998 ohne Zizou? La Grande Nation liegt ihrem „Algerier“ zu Füsse
 
 2022 stösst in neue Dimensionen vor. Der Wüstensand beherbergt die Fussballwelt. Und all das im Winter. Infantino stellt den Kalender auf den Kopf und alle nicken. Kolo Muani hat Sekunden vor Schluss die Entscheidung auf dem „Schlappen“. Argentiniens Keeper Martínez sagt „no senor“ und Messi erfüllt sich seinen grösstender Kindestraum.
 
-Und 2026? 48 Teams, soviel wie noch nie, nehmen den Erdball in Beschlag. Spanien gilt als Favorit, doch Achtung auf die Schweiz! Am 19. Juli gegen Mitternacht wissen wir’s! Bis dahin gute Unterhaltung!
+Und 2026? 48 Teams, soviel wie noch nie, nehmen die Kugel in Beschlag. Spanien gilt als Favorit, doch Achtung auf die Schweiz! Am 19. Juli  knapp vor Mitternacht wissen wir mehr!
