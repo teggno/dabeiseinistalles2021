@@ -13,7 +13,7 @@ WM 🏟️ 1982-2022
 
 1990 hat Andy Brehme die Ruhe weg, als er im Finale das direkte Duell gegen Penaltykiller Goycochea mit einem Schuss ins linke untere Eck für sich entscheidet. Maradona weint bei der Pokalübergabe bittere Tränen und vergisst, dass das Leben manchmal gibt und manchmal nimmt. Während sich Matthäus, Völler & Co. feiern lassen, dreht Franz Beckenbauer gedankenverloren seine Runden. Einen zweiten Kaiser wird es nie mehr geben.
 
-1994 schiesst Roberto Baggio seinen Elfer in den Nachthimmel von Pasadena. Er der mit dem Leder stets auf „du“ war! Brasilien sagte Dankeschön und brachte eine der unspektakulärsten Weltmeisterschaften nach Hause. Romario wird bestimmt anderer Ansicht sein.
+1994 schiesst Roberto Baggio seinen Elfer in den Nachthimmel von Pasadena. Er der mit dem Leder stets auf „du“ war! Brasilien sagte Dankeschön und brIngo eine der unspektakulärsten Weltmeisterschaften nach Hause. Romario wird bestimmt anderer Ansicht sein.
 
 Was wäre 1998 ohne Zizou? La Grande Nation liegt ihrem „Algerier“ zu Füssen. Der in sich gekehrte Tausendsassa übernimmt endlich die nötige Verantwortung. Zidane, der Ausnahmekönner, der sein Talent in den Dienst der Mannschaft stellt. Ronaldo der Brasilianer verschob seine Gala auf später! 
 
