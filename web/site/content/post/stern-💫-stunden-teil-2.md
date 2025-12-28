@@ -27,6 +27,6 @@ Was wäre 1998 ohne Zizou? La Grande Nation liegt ihrem „Algerier“ zu Füsse
 
 2018 gerät fast in Vergessenheit. Ist es der Austragungsort der einem Bauchweh bereitet. Aussenseiter Kroatien stösst bis ins Finale vor und muss sich erst dort den Franzosen geschlagen geben. Didier Deschamps „entdeckt“ seinen Sprössling Mbappé, Modric wird als bester Spieler gewählt und Putin dankt der FIFA.
 
-2022 stösst in neue Dimensionen vor. Der Wüstensand beherbergt die Fussballwelt. Und all das im Winter. Infantino stellt den Kalender auf den Kopf und alle nicken. Es schlägt die alles entscheidende Sekunde für Kolo Muani. Frankreich oder Argentinien? Das Schicksal entscheidet sich für Messi, der mit Hilfe seines Keepers seinen lang gehegten Kindestraum erfüllt.
+2022 stösst in neue Dimensionen vor. Der Wüstensand beherbergt die Fussballwelt. Und all das im Winter. Infantino stellt den Kalender auf den Kopf und alle nicken. Kolo Muani hat Sekunden vor Schluss die Entscheidung auf dem „Schlappen“. Keeper Martínez sagtFrankreich oder Argentinien? Das Schicksal entscheidet sich für Messi, der mit Hilfe seines Keepers seinen lang gehegten Kindestraum erfüllt.
 
 Und 2026? 48 Teams, soviel wie noch nie, nehmen den Erdball in Beschlag. Spanien gilt als Favorit, doch Achtung auf die Schweiz! Am 19. Juli gegen Mitternacht wissen wir’s! Bis dahin gute Unterhaltung!
