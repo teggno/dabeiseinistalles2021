@@ -13,13 +13,13 @@ WM 🏟️ 1982-2022
 
 1990 hat Andy Brehme die Ruhe weg, als er im Finale das direkte Duell gegen Penaltykiller Goycochea mit einem Schuss ins linke untere Eck für sich entscheidet. Maradona weint bei der Pokalübergabe bittere Tränen und vergisst, dass das Leben manchmal gibt und manchmal nimmt. Während sich Matthäus, Völler & Co. feiern lassen, dreht Franz Beckenbauer gedankenverloren seine Runden. Einen zweiten Kaiser wird es nie mehr geben.
 
-1994 schiesst Roberto Baggio seinen Elfer in den Nachthimmel von Pasadena. Er der mit dem Leder stets auf „du“ war! Brasilien sagte Dankeschön und brIngo eine der unspektakulärsten Weltmeisterschaften nach Hause. Romario wird bestimmt anderer Ansicht sein.
+1994 schiesst Roberto Baggio seinen Elfer in den Nachthimmel von Pasadena. Er der mit dem Leder stets auf „du“ war! Brasilien sagte Dankeschön und brIngt eine der unspektakulärsten Weltmeisterschaften nach Hause. Romario wird bestimmt anderer Ansicht sein.
 
-Was wäre 1998 ohne Zizou? La Grande Nation liegt ihrem „Algerier“ zu Füssen. Der in sich gekehrte Tausendsassa übernimmt endlich die nötige Verantwortung. Zidane, der Ausnahmekönner, der sein Talent in den Dienst der Mannschaft stellt. Ronaldo der Brasilianer verschob seine Gala auf später! 
+Was wäre 1998 ohne Zizou? La Grande Nation liegt ihrem „Algerier“ zu Füssen. Der in sich gekehrte Tausendsassa übernimmt endlich die nötige Verantwortung. Zidane zeigt Ronaldo den Meister wird es am Tag darauf in den Gazetten heissen. 
 
 2002 hält Oliver Kahn alles was auf ihn zukommt. Bis auf jenen Bodenroller, der abgegeben von Ronaldos Innenkante, unter seinem Bauch hindurchrutscht. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Bei Oli hielt sich der Schaden in Grenzen. Die Verdeoros jubeln zum fünften Mal und bleiben bis heute Rekordhalter.
 
-2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) gebeutelt, reist die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und schaltet den Vorwärtsgang ein. Nobody Grosso wiederfährt die Ehre, mit seinem entscheidenden Elfer das Tor zum Paradies aufzustossen. Doch was wäre passiert wenn Zidane nicht ausgerastet wäre? Die Antwort kennt nur Materazzi!
+2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) durchgeschütitelt, reist die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und schaltet den Vorwärtsgang ein. Nobody Grosso wiederfährt die Ehre, mit seinem entscheidenden Elfer das Tor zum Paradies aufzustossen. Doch was wäre passiert wenn Zidane die Nerven nicht verloren hätte. Die Antwort kennt nur Materazzi!
 
 2010 und die Vuvuzelas! Eine Plage für jeden Fan. Ob Sieg oder Niederlage, sie tönen immer gleich. Im Finale hat Arjen Robben die Entscheidung auf dem Fuss!  Über den Niederländern muss ein Fluch liegen. Am Ende jubeln die Spanier. Xavi und Iniestas Tiki-Taka wird patentiert.
 
