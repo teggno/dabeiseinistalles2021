@@ -19,9 +19,9 @@ Was wäre 1998 ohne Zizou? La Grande Nation liegt ihrem „Algerier“ zu Füsse
 
 2002 hält Oliver Kahn alles was auf ihn zukommt. Bis auf jenen Bodenroller, der abgegeben von Ronaldos Innenkante, unter seinem Bauch hindurchrutscht. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Bei Oli hielt sich der Schaden in Grenzen. Die Verdeoros jubeln zum fünften Mal und bleiben bis heute Rekordhalter.
 
-2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) durchgeschütitelt, reist die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und schaltet den Vorwärtsgang ein. Nobody Grosso wiederfährt die Ehre, mit seinem entscheidenden Elfer das Tor zum Paradies aufzustossen. Doch was wäre passiert wenn Zidane die Nerven nicht verloren hätte. Die Antwort kennt nur Materazzi!
+2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) durchgeschütitelt, reist die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und schaltet den Vorwärtsgang ein. Nobody Grosso wiederfährt die Ehre, mit seinem entscheidenden Elfer das Tor zum Paradies aufzustossen. Doch was wäre passiert, wenn Zidane nicht auf Materazzi‘s Provokationen hereingefallen wäre?
 
-2010 und die Vuvuzelas! Eine Plage für jeden Fan. Ob Sieg oder Niederlage, sie tönen immer gleich. Im Finale hat Arjen Robben die Entscheidung auf dem Fuss!  Über den Niederländern muss ein Fluch liegen. Am Ende jubeln die Spanier. Xavi und Iniestas Tiki-Taka wird patentiert.
+2010 und die Vuvuzelas! Eine Plage für jeden Fan. Ob Sieg oder Niederlage, sie kommen immer im gleichen Ton daher. Im Finale hat Arjen Robben die Entscheidung auf dem Fuss!  Über den Niederländern muss ein WM-Fluch liegen. Am Ende jubeln die Spanier. Xavi und Iniesta lassen ihr Tiki-Taka patentieren.
 
 2014 demütigt Deutschland Brasilien. Jeder Schuss ein Treffer.  Zuhause 7:1 abgeschossen zu werden tut richtig weh! Die Copacabana versinkt nach 1950 zum zweiten Mal im Tränenmeer. Deutschland‘s Lauf ist auch von den Tangotänzern nicht zu stoppen. Mario Götze geht mit seinem „One-Hit-Wonder“ in die Geschichte ein.
 
