@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-03T10:56:00.848Z
 image: img/img_0728.jpeg
 ---
-Als es knapp vor Verfallsdatum immer mehr nach den wilden Sechziger aussah und Dreien wegen falscher Papiere die Teilnahme verweigert wurde, lief alles auf die 6️⃣6️⃣hinaus!  Es freut mich ausserordentlich, dass keiner der Eingeladenen der Party ferngeblieben ist. Besann man sich in vergangenen Jahren ausschliesslich auf Fachwissen und Intuition, haben dieses Mal Algorithmen, spirituelle Rituale und KI in die Entscheidungsfindung mitreingespielt. Ein weiteres Indiz, dass man nicht nur dabeisein will. Es ist doch soooooo schön, wenn man seinen Namen weit vorne sieht.
+Als es knapp vor Verfallsdatum immer mehr nach den wilden Sechziger aussah und Dreien wegen falscher Papiere die Teilnahme verweigert wurde, lief alles auf die 6️⃣6️⃣hinaus!  Es freut mich ausserordentlich, dass keiner der Eingeladenen der Party ferngeblieben ist. Besann man sich in vergangenen Jahren ausschliesslich auf Fachwissen und Intuition, haben dieses Mal Algorithmen, spirituelle Rituale und KI in die Entscheidungsfindung mitreingespielt. Ein weiteres Indiz, dass man nicht nur dabeisein will. Es ist doch soooooo schön, wenn man seinen Namen weit oben sieht.
 
 Erstaunlich wie der Wind gedreht hat. Waren es früher höchstens eine Handvoll, die sich mit dem Schweizer🇨🇭Kreuz identifizierten,  sind es heute mehr als zwanzig, die den Eidgenossen ein Vordringen in die „Best of 6“ zutrauen. Nicht unwesentlich daran beteiligt ist „Murat der Taugenichts“, der bei vielen Urschweizern bis vor kurzem einen schweren Stand hatte. Geht er gar als Weltmeistermacher in die Geschichtsbücher ein?
 
