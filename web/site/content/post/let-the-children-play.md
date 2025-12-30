@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-03T10:56:00.848Z
 image: img/img_0728.jpeg
 ---
-Als es knapp vor Verfallsdatum immer mehr nach den wilden Sechziger aussah, und Dreien wegen falscher Papiere die Teilnahme verweigert wurde, lief alles auf die 6️⃣6️⃣hinaus!  Von ähnlichem Zahlenmaterial hatte man mir vorsorglich abgeraten. Auffallend, dass keiner der Eingeladenen der Veranstaltung ferngeblieben ist. Selbst aus Neuseeland flatterte ein Lottozettel ins Haus. Algorithmen, Fachbücher, Expertenmeinungen, spirituelle Rituale und KI! Alles wurde herbeigezogen um möglichst weit vorne zu landen. Es ist doch soooo schön, wenn man seinen Namen zuoberst sieht.
+Als es knapp vor Verfallsdatum immer mehr nach den wilden Sechziger aussah und Dreien wegen falscher Papiere die Teilnahme verweigert wurde, lief alles auf die 6️⃣6️⃣hinaus!  Auffallend, dass keiner der Eingeladenen der Veranstaltung ferngeblieben ist. Selbst aus Neuseeland flatterte ein Lottozettel ins Haus. Algorithmen, Fachbücher, Expertenmeinungen, spirituelle Rituale und KI! Alles wurde herbeigezogen um möglichst weit vorne zu landen. Es ist doch soooo schön, wenn man seinen Namen zuoberst sieht.
 
 Erstaunlich wie der Wind gedreht hat. Waren es früher höchstens eine Handvoll, die sich mit dem Schweizer🇨🇭Kreuz identifizierten,  sind es heute mehr als zwanzig, die den Eidgenossen ein Vordringen in die „Best of“ zutrauen. Injiziert hat das Ganze „Murat der Taugenichts“, der bei vielen Urschweizern bis vor kurzem einen schweren Stand hatte. Geht er gar als Weltmeistermacher in die Annalen ein?
 
