@@ -12,4 +12,4 @@ Das wär ein Ding! Soweit aus dem Fenster lehnen, wollte sich das Orakel von Tä
 
 Das Thema Dividenden wollen wir auch nicht vergessen! 66 Gambler zahlten 660 Franken in die Kasse ein!  444 Franken in bar liegen für die Nummer 1 bereit! Ein Brunch-Gutschein über 150 Franken aus dem Hause „Porto Sophie“ geht an die Nummer 2 und ein Apéro-Gutschein über Fr. 50.- von derselben Adresse an die Nummer 3. Bleiben 16 Franken übrig, die der tapferen Roten🏮Laterne in Form eines edlen Jahrgangs🍷 gutgeschrieben werden.
 
-Ich freue mich zusammen mit euch auf 6 spannende Wochen. Natürlich darf beim üblichen Klatsch und Tratsch die musikalische Untermalung nicht fehlen, Meine Jukebox wird euch wie gewohnt mit Titeln aus auf der guten alten Zeit durch den….führen. Plattenwünsche aus dem Publikum sind herzlich willkommen!
+Ich freue mich zusammen mit euch auf 6 spannende Wochen. Natürlich darf beim üblichen Klatsch und Tratsch die musikalische Untermalung nicht fehlen. Meine Jukebox wird euch wie gewohnt mit Titeln aus auf der guten alten Zeit durch den heissen Sommer führen. Plattenwünsche aus dem Publikum sind dabei herzlich willkommen!
