@@ -4,7 +4,7 @@ draft: false
 date: 2026-01-04T07:35:57.372Z
 image: img/screenshot_20260104_094836_editor-lite.jpeg
 ---
-Juve war dran! Die beste Vorstellung seit Menschengedenken! Zehn zu null Chancen. Ballstaffetten aus dem Bilderbuch! Dann kommen drei Taugenichtse daher und machen die Gala kaputt! Frage an euch Rechtsexperten: Sind Regressansprüche  seitens des Vereins möglich? Wenn ich bei meinen Klatsch- und Tratsch-Geschichten fahrlässig ans Werk gehe, werde ich zur Rechenschaft gezogen 😀 Warum sollte das bei David, Cambiaso und Openda nicht möglich sein?
+Juve war dran! Die beste Vorstellung seit Menschengedenken! Zehn zu null Chancen. Ballstaffetten aus dem Bilderbuch! Dann kommen drei Taugenichtse daher und machen die Gala kaputt! Frage an euch Rechtsexperten: Sind Regressansprüche  seitens des Vereins möglich? Wenn ich bei meinen Klatsch- und Tratsch zu sehr ins Detail 👩‍❤️‍👨 gehe, werde ich zur Rechenschaft gezogen. Warum sollte das bei David, Cambiaso und Openda nicht möglich sein?
 
 Ein Trio mit dem Fussball-IQ einer Maus 🐁 Cambiaso bestätigt zum x-ten Male, dass er höchstens in der Kombüse eingesetzt werden kann. Kartoffeln schälen, Salat waschen, Müll wegräumen. Herd bedienen verboten! Der ist fähig und zündet den ganzen Khan an! Guardiola soll ihm am 1. April 2025 ein Angebot über 60 Millionen unterbreitet haben. Ein paar Traumtänzer fielen auf den  Aprilscherz herein.
 
