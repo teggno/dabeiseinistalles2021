@@ -10,6 +10,6 @@ Ein Trio mit dem Fussball-IQ einer Maus 🐁 Cambiaso bestätigt zum x-ten Male,
 
 Jonathan David ist ein Phänomen! Zum Nulltarif und mit besten Empfehlungen aus Lille gekommen, entpuppt sich der Kanadier als weiterer Fehleinkauf. Ist am Ende sein Zwillingsbruder nach Turin gekommen. Wäre Barbüz bei seiner Penalty-Rückgabe zwischen den Pfosten gestanden, hätte er sich zu Tode gelacht.
 
-Poi Openda! Er kann nicht mal was dafür! Algorithmiker Comolli wollte ihn um jeden Preis haben. Am Ende rief er für die Fälschung 40 Millionen auf. Im Versteigerungslokal brach Gelächter aus. Niemand hatte mitgeboten. 
+Lois Openda! Leipzigs Edelreservist. Unser Algorithmiker Damien Comolli wollte ihn um jeden Preis haben. Am Ende rief er für die Fälschung 40 Millionen auf. Im Versteigerungslokal brach Gelächter aus. Niemand hatte mitgeboten. 
 
 Juve war dran! Bot die beste Vorstellung seit langem. 10 zu 0 Chancen. Ballstaffetten aus dem Bilderbuch in Höchsttempo!
