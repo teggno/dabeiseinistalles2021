@@ -6,7 +6,7 @@ image: img/screenshot_20260104_094836_editor-lite.jpeg
 ---
 Juve war dran! Die beste Vorstellung seit Menschengedenken! Zehn zu null Chancen. Ballstaffetten aus dem Bilderbuch! Dann kommen drei Taugenichtse und machen die Gala kaputt! Frage an euch Rechtsexperten: Sind Regressansprüche  seitens des Vereins möglich? Wenn Zaccüz in der Mowag fahrlässig ans Werk geht, wird er zur Rechenschaft gezogen! Warum sollte das bei David, Cambiaso und Openda nicht möglich sein?
 
-Ein Trio mit dem Fussball-IQ einer Maus 🐁 Cambiaso bestätigt zum x-ten Male, dass er höchstens in der Kombüse eingesetzt werden kann. Kartoffeln schälen, Salat waschen, Müll wegräumen. Herd bedienen verboten! Der ist fähig und zündet den ganzen Kan an! Guardiola soll ihm am 1. April 2025 ein Angebot über 60 Millionen unterbreitet haben. Ein paar Traumtänzer fielen auf den  Aprilscherz herein.
+Ein Trio mit dem Fussball-IQ einer Maus 🐁 Cambiaso bestätigt zum x-ten Male, dass er höchstens in der Kombüse eingesetzt werden kann. Kartoffeln schälen, Salat waschen, Müll wegräumen. Herd bedienen verboten! Der ist fähig und zündet den ganzen Khan an! Guardiola soll ihm am 1. April 2025 ein Angebot über 60 Millionen unterbreitet haben. Ein paar Traumtänzer fielen auf den  Aprilscherz herein.
 
 Jonathan David ist ein Phänomen! Zum Nulltarif und mit besten Empfehlungen aus Lille gekommen, entpuppt sich der Kanadier als weiterer Fehleinkauf. Ist am Ende sein Zwillingsbruder nach Turin gekommen 😎 Wäre Barbüz bei seiner Penalty-Rückgabe zwischen den Pfosten gestanden, hätte er sich zu Tode gelacht.
 
