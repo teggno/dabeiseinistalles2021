@@ -2,7 +2,7 @@
 title: "Schadensersatz "
 draft: true
 date: 2026-01-04T07:35:57.372Z
-image: img/img_0743.jpeg
+image: img/screenshot_20260104_094836_editor-lite.jpeg
 ---
 Juve war dran! Die beste Vorstellung seit Menschengedenken! Zehn zu null Chancen. Ballstaffetten aus dem Bilderbuch! Dann kommen drei Taugenichtse und machen die Gala kaputt! Frage an euch Rechtsexperten: Sind Regressansprüche  seitens des Vereins möglich? Wenn Zaccüz in der Mowag fahrlässig ans Werk geht, wird er zur Rechenschaft gezogen! Warum sollte das bei Cambiaso, David und Openda nicht möglich sein?
 
@@ -12,4 +12,4 @@ Jonathan David ist ein Phänomen! Zum Nulltarif und mit besten Empfehlungen aus 
 
 Lois Openda! Leipzigs Edelreservist. Unser Algorithmiker Damien Comolli wollte ihn um jeden Preis haben. Am Ende rief er für die Fälschung 40 Millionen auf. Bei Sotheby’s brach Gelächter aus. Niemand hatte mitgeboten.
 
-Zum Glück können David und Openda nicht für die Nationalmannschaft aufgeboten werden. Cambiaso hingegen schon! Caro Gennaro, lass die Finger
+Zum Glück können David und Openda nicht für die Nationalmannschaft aufgeboten werden. Cambiaso hingegen schon! Caro Gennaro, lass die Finger davon. Sonst passiert noch folgendes! Play-off-Finale in Cardiff! 94. Minute! Italien führt 2:1! Donnarumma leicht angeschlagen überlässt den Abstoss Cambiaso und der nimmt versehentlich den Ball in die Hand. Wales gleicht aus und gewinnt anschliessend das Elfmeterschiessen. Und ich flieg auf die Seychellen 🇸🇨
