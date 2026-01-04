@@ -8,7 +8,7 @@ Juve war dran! Die beste Vorstellung seit Menschengedenken! Zehn zu null Chancen
 
 Ein Trio mit dem Fussball-IQ einer Maus 🐁 Cambiaso bestätigt zum x-ten Male, dass er höchstens in der Kombüse eingesetzt werden kann. Kartoffeln schälen, Salat waschen, Müll wegräumen. Herd bedienen verboten! Der ist fähig und zündet den ganzen Khan an! Guardiola soll ihm am 1. April 2025 ein Angebot über 60 Millionen unterbreitet haben. Ein paar Traumtänzer fielen auf den  Aprilscherz herein.
 
-Jonathan David ist ein Phänomen! Zum Nulltarif und mit besten Empfehlungen aus Lille angereist, entpuppt sich der Kanadier als weiterer Fehleinkauf. Ist am Ende sein Zwillingsbruder nach Turin gekommen 😎 Wäre Barbüz bei seiner Penalty-Rückgabe zwischen den Pfosten gestanden, hätte er sich zu Tode gelacht.
+Jonathan David ist ein Phänomen! Zum Nulltarif und mit besten Empfehlungen aus Lille angereist, entpuppt sich der Kanadier als weiterer Fehleinkauf. Ist am Ende sein Zwillingsbruder nach Turin gekommen 😎 Wäre Renato P. bei seiner Penalty-Rückgabe zwischen den Pfosten gestanden, hätte er sich zu Tode gelacht.
 
 Lois Openda! Letzten August im Sommerschlussverkauf von Leipzig geholt. Unser Algorithmiker Damien Comolli wollte ihn um jeden Preis haben. Am Ende rief er für die Fälschung 40 Millionen auf. Bei Sotheby’s brach schallendes Gelächter aus. Niemand hatte mitgeboten.
 
