@@ -12,4 +12,4 @@ Jonathan David ist ein Phänomen! Zum Nulltarif und mit besten Empfehlungen aus 
 
 Lois Openda! Leipzigs Edelreservist. Unser Algorithmiker Damien Comolli wollte ihn um jeden Preis haben. Am Ende rief er für die Fälschung 40 Millionen auf. Bei Sotheby’s brach Gelächter aus. Niemand hatte mitgeboten.
 
-Zum Glück können David und Openda nicht für die Nati aufgeboten
+Zum Glück können David und Openda nicht für die Nationalmannschaft aufgeboten werden. Cambiaso hingegen schon! Caro Gennaro, lass die Finger
