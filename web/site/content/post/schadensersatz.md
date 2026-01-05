@@ -1,6 +1,6 @@
 ---
 title: "Schadensersatz "
-draft: false
+draft: true
 date: 2026-01-04T07:35:57.372Z
 image: img/screenshot_20260104_094836_editor-lite.jpeg
 ---
