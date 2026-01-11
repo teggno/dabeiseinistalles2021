@@ -1,5 +1,5 @@
 ---
-title: "Sinneswandel "
+title: Schicksalsmelodie
 draft: true
 date: 2026-01-11T11:28:19.183Z
 ---
