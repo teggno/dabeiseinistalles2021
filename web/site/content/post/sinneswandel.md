@@ -6,7 +6,7 @@ image: img/img_0004.jpeg
 ---
 Wird die Musik für Italien spielen? Blüht die Love-Story zwischen der WM und der Squadra Azzurra endlich wieder auf? Gefühle können spontan entstehen oder sie entwickeln sich während der Zeit. Waren meine Gedanken 2018 und 2022 von tiefer Verunsicherung geprägt, sind sie heute von Sinneswandel und Aufbruch bestimmt. Liebe connazionali, wir werden dabeisein! 
 
-Ventura, Schweden, die Stimmung! 2018 lief alles falsch. 2022 deutete nichts darauf hin. Gerade erst hatten Mancinis Jungs relativ souverän die EM nach Hause geschaukelt. Erst als Brasiliens Überläufer Jorginho mit zwei verschossenen Elfmetern die Qualli an die Eidgenossen verschenkte, kam in meiner Magengegend ein flaues Gefühl auf. Das sich abrupt verstärkte, als Portugal als Playoff-Finalgegner zugelost wurde. Zwischenstation Nordmazedonien sollte im Halbfinale als Aufbaugegner dienen. Was dann geschah, rangiert in der Aufzählung italienischer Blamagen nach Nordkorea 1966 auf Platz 2. Ein harmloser Schuss aus zwanzig Metern besiegelte die nächste Vakanz! Statt in die Wüste zu fahren, verlustierte man sich auf den Malediven.
+Der „Norden“ scheint uns nicht zu bekommen. Spätestens seit 1966 mussten wir uns mit diesem Phänomen auseinandersetzen, als uns ein gewisser Pak do Ik zum Gespött des Universums machte. Seither wissen wir, dass mit Nordkorea auf der ganzen Linie nicht zu spassen ist.
 
 Mein Enkel zwischenzeitlich sechzehn konvertierte enttäuscht zu den Eidgenossen über. Eine Ära ging zu Ende. Nun kämpfen wir Italos wiedergegen diese Dämonen an, die uns in schlaflosen Nächten plötzlich überfallen und nicht mehr los lassen. Bereits wird Infantino höflich angefragt, ob man die Refeeres zu einem Workshop an die Costa Smeralda aufbieten dürfe.
 
