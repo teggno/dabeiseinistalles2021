@@ -7,7 +7,7 @@ image: img/img_0004.jpeg
 \
 Verfasst am  11. Januar 2026! 
 
-Spielt die Musik für Idie Squadra Azzurra, wenn es um alles oder nichts gehtÖ Blüht die Love-Story zwischen dir und deiner geliebten WM endlich wieder auf? Gefühle können spontan entstehen oder sie entwickeln sich während der Zeit. Waren meine Gedanken 2018 und 2022 von tiefer Verunsicherung geprägt, sind sie heute von Sinneswandel und Aufbruch bestimmt. Liebe connazionali, wir werden dabeisein! 
+Spielt die Musik für dich auf, wenn es um alles oder nichts gehtÖ Blüht die Love-Story zwischen dir und deiner geliebten WM endlich wieder auf? Gefühle können spontan entstehen oder sie entwickeln sich während der Zeit. Waren meine Gedanken 2018 und 2022 von tiefer Verunsicherung geprägt, sind sie heute von Sinneswandel und Aufbruch bestimmt. Liebe connazionali, wir werden dabeisein! 
 
 Der „Norden“ scheint uns nicht zu bekommen. Spätestens seit 1966 müssen wir uns mit diesem Phänomen auseinandersetzen, als uns ein gewisser Pak do Ik zum Gespött des Universums machte. Seither wissen wir, dass mit Nordkorea auf der ganzen Linie nicht zu spassen ist. 2018 warenuns wiederum Angriffe aus nördlichen Gefielden feindlich gestimmt. Schweden nahm in Russland Teil. Wir blieben zuhause.
 
