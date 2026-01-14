@@ -23,27 +23,27 @@ song:
     könnten wir diese Nacht verträumen.
 
     Der Vollmond geht auf,
-    Lass uns in seinem Licht tanzen gehen.
+    lass uns in seinem Licht tanzen gehen.
     Wir wissen doch wo die Musik spielt,
-    Lass uns hinaus gehen und die Nacht spüren.
+    lass uns hinaus gehen und die Nacht spüren.
 
     Weil ich immer noch in dich verliebt bin,
-    Möchte ich dich wieder tanzen sehen.
+    möchte ich dich wieder tanzen sehen.
     Weil ich immer noch in dich verliebt bin,
-    Möchte ich dich in meinen Armen halten 
+    möchte ich dich in meinen Armen halten 
 
     Als wir noch Fremde waren,
-    Beobachtete ich dich aus der Ferne.
+    beobachtete ich dich aus der Ferne.
     Als wir Liebende waren,
-    Liebte ich dich mit meinem ganzen Herzen.
+    liebteich dich mit meinem ganzen Herzen.
 
-    Aber jetzt wird es spät,
-    Und der Mond klettert schon hoch,
+    Aber jetzt wird es spät
+    und der Mond klettert schon hoch,
     Ich möchte feiern
     und den Mondschein in deinen Augen sehen.
 
     Weil ich immer noch in dich verliebt bin,
-    Möchte ich dich wieder tanzen sehen.
+    möchte ich dich wieder tanzen sehen.
     Weil ich immer noch in dich verliebt bin,
     möchte ich dich nie mehr loslassen 
 
