@@ -8,4 +8,4 @@ image: img/img_0005.jpeg
 
 Es ist grau und ungemütlich draussen. Ich sitze am Fenster und schaue in die Ferne. Nostalgie kommt auf, die sich schon bald in Melancholie verwandelt. Bald ist es soweit. Während die Kapverden, Usbekistan und Curacao nach Fünfsterne-Suiten Ausschau halten, tüftelt der viermalige Weltmeister an seiner Taktik für Sein oder Nichtsein herum. Selbst bei 48 Mitwirkenden hat es für eine Direkt-Qualifikation nicht gereicht.
 
-Früher, als wir in den Gremien noch Einfluss hatten, wäre das nie passiert. In Oslo gegen  Norwegen
+Früher, als wir in den Gremien noch Einfluss hatten, wäre das nie passiert. Anfang Juni, wenn alle ausgelaugut und müde sind, In Oslo gegen  Norwegen das alles entscheidende Qualispiel! So ein Blödsinn! Die Quittung war gesalzen! 0:3 aus und vorbei! Spalletti, der schon nach der peinlichen EM-Darbietung gegen die Eidgenossen hätte gehen müssen, wurde in einer Nacht- und Nebelaktion abserviert
