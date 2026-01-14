@@ -33,7 +33,7 @@ song:
     Als wir noch Fremde waren,
     beobachtete ich dich aus der Ferne.
     Als wir Liebende waren,
-    liebteich dich mit meinem ganzen Herzen.
+    liebte ich dich mit meinem ganzen Herzen.
 
     Aber jetzt wird es spät
     und der Mond klettert schon hoch,
