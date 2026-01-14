@@ -17,7 +17,7 @@ song:
   description: |+
     HARVEST MOON 
 
-    Komm ein bisschen näher.
+    Komm ein bisschen näher
     und hör was ich dir zu sagen habe.
     Genau wie damals 
     könnten wir diese Nacht verträumen.
@@ -28,9 +28,7 @@ song:
     lass uns hinaus gehen und die Nacht spüren.
 
     Weil ich immer noch in dich verliebt bin,
-    möchte ich dich wieder tanzen sehen.
-    Weil ich immer noch in dich verliebt bin,
-    möchte ich dich in meinen Armen halten 
+    möchte ich dich nochmals tanzen sehen.
 
     Als wir noch Fremde waren,
     beobachtete ich dich aus der Ferne.
@@ -43,9 +41,8 @@ song:
     und den Mondschein in deinen Augen sehen.
 
     Weil ich immer noch in dich verliebt bin,
-    möchte ich dich wieder tanzen sehen.
-    Weil ich immer noch in dich verliebt bin,
-    möchte ich dich nie mehr loslassen 
+    möchte ich dich nochmals tanzen sehen.
+
 
 
 
