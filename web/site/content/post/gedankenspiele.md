@@ -10,4 +10,4 @@ Es ist grau und ungemütlich draussen. Ich sitze am Fenster und schaue in die Fe
 
 Früher, als wir in den Gremien noch Einfluss hatten, wäre das nie passiert. Anfang Juni, wenn alle müde sind, nach Oslo gegen  Norwegen! Das alles entscheidende Qualispiel zum Aperitif! Die Quittung war gesalzen! 0:3 - aus und vorbei! Spalletti, der schon nach der peinlichen EM-Darbietung gegen die Eidgenossen hätte gehen müssen, wurde in einer Nacht- und Nebelaktion abserviert. Königsmacher Buffon entschied sich für Wadenbeisser Gattuso.
 
-Das Los war milde un brutal zugleich! Im Halbfinale zuhause gegen Nordirland. Im Finale auswärts in Cardiff oder Sarajevo!
+Das Los war milde un brutal zugleich! Im Halbfinale zuhause gegen Nordirland.Das Finale gegen ? in Cardiff oder Sarajevo!
