@@ -8,4 +8,6 @@ image: img/img_0005.jpeg
 
 Es ist grau und ungemütlich draussen. Ich sitze am Fenster und schaue in die Ferne. Nostalgie kommt auf, die sich schon bald in Melancholie verwandelt. In wenigen Wochen ist es soweit. Während die Kapverden, Usbekistan und Curacao nach Fünfsterne-Suiten Ausschau halten, tüftelt der viermalige Weltmeister an seiner Sein oder Nichtsein-Taktik herum. Selbst bei 48 Mitwirkenden hat es für eine Direkt-Qualifikation nicht gereicht.
 
-Früher, als wir in den Gremien noch Einfluss hatten, wäre das nie passiert. Anfang Juni, wenn alle müde sind, zum Auftakt In Oslo gegen  Norwegen! Das alles entscheidende Qualispiel Die Quittung war gesalzen! 0:3 - aus und vorbei! Spalletti, der schon nach der peinlichen EM-Darbietung gegen die Eidgenossen hätte gehen müssen, wurde in einer Nacht- und Nebelaktion abserviert. Königsmacher Buffon entschied sich für Wadenbeisser Gattuso.
+Früher, als wir in den Gremien noch Einfluss hatten, wäre das nie passiert. Anfang Juni, wenn alle müde sind, nach Oslo gegen  Norwegen! Das alles entscheidende Qualispiel zum Aperitif! Die Quittung war gesalzen! 0:3 - aus und vorbei! Spalletti, der schon nach der peinlichen EM-Darbietung gegen die Eidgenossen hätte gehen müssen, wurde in einer Nacht- und Nebelaktion abserviert. Königsmacher Buffon entschied sich für Wadenbeisser Gattuso.
+
+Das Los war milde un brutal zugleich! Im Halbfinale zuhause gegen Nordirland. Im Finale auswärts in Cardiff oder Sarajevo!
