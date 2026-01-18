@@ -1,6 +1,6 @@
 ---
 title: That‘s Football
-draft: true
+draft: false
 date: 2026-01-18T23:23:02.489Z
 image: img/img_0006.jpeg
 ---
