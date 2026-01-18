@@ -6,7 +6,7 @@ image: img/img_0006.jpeg
 ---
 Wer es nicht gesehen hat - hat etwas verpasst!
 
-Afrika-Cup-Finale Marokko-Senegal! Letzte Minute der regulären Spielzeit. Der Schiri, ein Kongolese, pfeift nach VAR Intervention einen umstrittenen Penalty für Marokko, nachdem er ein paar Minuten vorher den Senegalesen ein reguläres Tor aberkannt hat. Kurz darauf verlassen sie aus Protest das Spielfeld. Nachdem Kapitän Sadio Mané (ehemals Liverpool) seine Jungs einigermassen beruhigt hat (sie hätten eine zweijährige Sperre riskiert) kehren  sie nach 10 Minuten aufs Feld zurück. Der Marokkaner Brahim Díaz,  (Real Madrid) läuft zum Elfmeter an und will den Ball à la Pirlo ins Tor lupfen. Der Torhüter bleibt stehen und nimmt die Rückgabe dankend auf. (Banquette 👶🏿 hätte ihn besser geschossen) \
+Afrika-Cup-Finale Marokko-Senegal! Letzte Minute der regulären Spielzeit. Der Schiri, ein Kongolese, pfeift nach VAR Intervention einen umstrittenen Penalty für Marokko, nachdem er ein paar Minuten vorher den Senegalesen ein reguläres Tor aberkannt hat. Kurz darauf verlassen sie aus Protest das Spielfeld. Nachdem Kapitän Sadio Mané (ehemals Liverpool) seine Jungs einigermassen beruhigt hat, (sie hätten eine zweijährige Sperre riskiert) kehren  sie nach 10 Minuten aufs Feld zurück. Der Marokkaner Brahim Díaz (Real Madrid) schnappt sich die Kugel, läuft zum Elfmeter an und will den Ball à la Pirlo ins Tor lupfen. Der Torhüter bleibt stehen und nimmt die Rückgabe dankend auf. (Lilly 👶🏿 hätte ihn besser geschossen) \
 \
 Verlängerung\
 \
