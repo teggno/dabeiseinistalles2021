@@ -10,4 +10,4 @@ Afrika-Cup-Finale Marokko-Senegal! Letzte Minute der regulären Spielzeit. Der S
 \
 Verlängerung\
 \
-Nach 7 Minuten schmettert der Senegalese Bob Gueye mit einem Wahnsinns-Schuss aus 16 Metern den Ball ins Lattenkreuz und der Senegal gewinnt vor 80‘000 konsternierten Marokkanern den Afrika -Cup. Bei der Pokalübergabe feiern alle Sadio Mané, der mit seiner weisen Entscheidung ganz Schwarzafrika gerettet hat. Senegal wäre sonst auch für die WM gesperrt worden. Ich freue mich zwar für den Senegal, sehe aber auch wie bitter es für Marokko ist. Für Diaz bricht eine Welt zusammen.
+Nach 7 Minuten schmettert der Senegalese Bob Gueye mit einem Wahnsinns-Schuss aus 16 Metern den Ball ins Lattenkreuz und der Senegal gewinnt vor 80‘000 konsternierten Marokkanern den Afrika -Cup. Bei der Pokalübergabe feiern sie ihren Sadio Mané, der mit seiner weisen Entscheidung ganz Schwarzafrika gerettet hat. Senegal wäre sonst auch für die WM gesperrt worden. Für Diaz  bricht eine Welt zusammen. Nicht jeder hat das Glück von Panenka.
