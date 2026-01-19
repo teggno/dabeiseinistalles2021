@@ -2,6 +2,7 @@
 title: Ancelotti do Brazil❓
 draft: true
 date: 2026-01-19T15:31:42.059Z
+image: img/img_0008.jpeg
 ---
 Aufzählungen allein werden ihm nicht gerecht. Da war der Spieler mit der  Rückennummer 8, der sowohl defensiv wie offensiv das Mittelmass überschritt. An der Seite von Rykard und Gullit ein Pfeiler im Mittelfeld, der auch in der Lage war den öffnenden Pass auf die 9 zu spielen. Wenn du dann Van Basten heisst, ist der Rest ein Kinderspiel. Dann ist da der Trainer, der alles gewonnen hat, was es zu gewinnen gibt. Dauernörgler sind der Meinung, dass er seine grossen Erfolge nur Dank seiner Stars bewerkstelligen konnte. Das mag bis zu einem gewissen Punkt stimmen, doch wäre da nicht noch der Mensch, der mit seiner Ausgeglichenheit und Menschenkenntnis die unterschiedlichsten Mimöschen bei Laune hält, wäre sein Palmares nicht derart bedeutend ausgefallen.
 
