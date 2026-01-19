@@ -2,7 +2,7 @@
 title: "Hand in Hand "
 draft: true
 date: 2026-01-19T13:54:52.153Z
-image: img/img_0007.jpeg
+image: ""
 ---
 In einer Welt voller Horrorgeschichten sucht der Mensch nach der Normalität. Wenn auch manchmal von Krieg auf dem Rasen die Rede ist,  bleibt der Fussball trotz seiner finanziellen Drahtseilakte ein Hort der Unbeschwertheit. Erinnerungen an die Jugendzeit werden wach, als wir all unsere Emotionen auf dem Platz austobten. Politik interessierte uns höchstens am Rande. Nur das weibliche Geschlecht vermochte uns vor übermässigem Konsum zu bewahren. Die Reihenfolge blieb allerdings unangetastet. F wie Fussball klassierte sich stets vor G wie Girls.
 
