@@ -1,7 +1,7 @@
 ---
 title: That‘s Football
 draft: false
-date: 2026-01-18T23:23:02.489Z
+date: 2026-01-19T00:12:55.227Z
 image: img/img_0006.jpeg
 ---
 Wer es nicht gesehen hat - hat etwas verpasst!
