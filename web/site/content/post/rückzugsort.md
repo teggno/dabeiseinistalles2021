@@ -1,5 +1,5 @@
 ---
-title: "Hand in 👫 Hand "
+title: "Hand in Hand "
 draft: true
 date: 2026-01-19T13:54:52.153Z
 ---
