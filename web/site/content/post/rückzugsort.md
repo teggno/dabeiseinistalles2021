@@ -4,7 +4,7 @@ draft: true
 date: 2026-01-19T13:54:52.153Z
 image: ""
 ---
-In einer Welt voller Horrorgeschichten sucht der Mensch nach der Normalität. Wenn auch manchmal von Krieg auf dem Rasen die Rede ist,  bleibt der Fussball trotz seiner finanziellen Drahtseilakte ein Hort der Unbeschwertheit. Erinnerungen an die Jugendzeit werden wach, als wir all unsere Emotionen auf dem Platz austobten. Politik interessierte uns höchstens am Rande. Nur das weibliche Geschlecht vermochte uns vor übermässigem Konsum zu bewahren. Die Reihenfolge blieb allerdings unangetastet. F wie Fussball klassierte sich stets vor G wie Girls.
+In einer Welt voller Horrorgeschichten sucht der Mensch nach Normalität. Wenn auch manchmal von Krieg auf dem Rasen die Rede ist,  bleibt der Fussball trotz seiner finanziellen Drahtseilakte ein Hort der Unbeschwertheit. Erinnerungen an die Jugendzeit werden wach, als wir all unsere Emotionen auf dem Platz austobten. Politik interessierte uns höchstens am Rande. Nur das weibliche Geschlecht vermochte uns vor übermässigem Konsum zu bewahren. Die Reihenfolge blieb allerdings unangetastet. F wie Fussball klassierte sich stets vor G wie Girls.
 
 Nach und nach begannen sich die Fronten zu verschieben. Nur während Welt- und Europameisterschaften blühte das Kind im Manne regelmässig auf auf. Zum Glück haben die Damen die Zeichen der Zeit erkannt und zeigen sich einem „Seitensprung“ in männliche Domänen nicht mehr abgeneigt. Mittlerweile geniessen sie wie an der letzten Frauen-EM erlebt, grosse Anerkennung.
 
