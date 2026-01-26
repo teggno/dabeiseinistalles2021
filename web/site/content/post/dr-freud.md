@@ -1,6 +1,6 @@
 ---
 title: Bravo Dottore!
-draft: true
+draft: false
 date: 2026-01-26T10:44:22.075Z
 image: img/img_0009.jpeg
 ---
