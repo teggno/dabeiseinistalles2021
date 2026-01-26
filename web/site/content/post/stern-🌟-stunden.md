@@ -9,9 +9,9 @@ image: img/img_0722.jpeg
 
 1930 bekommt der Fussball endlich das was ihm gebührt! Ein Turnier der weltbesten National-Teams! In Montevideo geben sich 13 Mannschaften ein Stelldichein. Die meisten reisen mit dem Schiff an. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules-Rimet-Wanderpokal, der von nun an alle vier Jahre einen neuen Eintrag bekommen sollte.
 
-1934 ist Italien an der Reihe! Angeführt von  den Ausnahmestürmern PIola und Meazza setzen sich die Azzurri im Finale mit 4:2
+1934 ist Italien an der Reihe! Angeführt von Ausnahmestürmer Meazza setzen sich die Azzurri im Finale mit 2:1 gegen die Tschechoslowakei durch.
 
-1938  folgt das Double! Wieder ist es Trainer Pozzo, der seinen Jungs die richtige Taktik verordnet. Im Finale haben die Ungarn das Nachsehen.
+1938 gelingt den Italienern das Double! Trainer Pozzo vertraut im grossen und ganzen der Elf von 34! Im Finale haben die Ungarn das Nachsehen. 
 
 1942+1946 fällt die WM  wegen des 2. Weltkrieges aus.  
 
