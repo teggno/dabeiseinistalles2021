@@ -4,7 +4,7 @@ draft: false
 date: 2026-01-26T10:44:22.075Z
 image: img/img_0009.jpeg
 ---
-Eigentlich hatten wir „Barbüz“ als den legitimen Nachfolger von Sigmund Freud auserkoren. Doch unser RP scheint wie vom Erdboden verschwunden zu sein. Also muss ein Ersatz her! Die Wahl fiel einstimmig auf Luciano Spalletti! Keiner gibt Pressekonferenzen wie er! Auf seiner Chaiselounge erfährst du alles! Fussball wird zur tiefgründigen Philosophie.
+Eigentlich hatten wir „Barbüz“ als den legitimen Nachfolger von Sigmund Freud auserkoren. Doch unser RP scheint wie vom Erdboden verschwunden zu sein. Also muss ein Ersatz her! Die Wahl ist einstimmig auf Luciano Spalletti gefallen! Keiner gibt Pressekonferenzen wie er! Auf seiner Chaiselounge erfährst du alles! Fussball wird zur tiefgründigen Philosophie.
 
 Nach seinem Husarenstück gegen Neapel erschien er in Bestform zum Nachtgebet. Seit Menschengedenken hatte man die “Alte Dame“ nicht mehr so erlebt. Aus einer 0815-Truppe ist in wenigen Wochen ein Ensemble entstanden,  das Fussball zelebriert. Mea culpa Luciano, dass ich es dir nach dem Nati-Debakel nicht zugetraut habe.
 
