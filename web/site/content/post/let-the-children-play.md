@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-03T10:56:00.848Z
 image: img/img_0728.jpeg
 ---
-Ausgeteilte Stimmzettel 66! Eingegangen 66! Davon 16 auf den letzten Drücker! Ungültig 0! Äusserst interessant 4! Der Norm entsprechend 56! Chancenlos 6! 66 Gambler unterwegs auf der legendären Route 66! Quer durch Kanada und die USA bis hinunter nach Mexico. Im Gepäck die grössten Hits aus der guten alten Zeit.
+Ausgeteilte Stimmzettel 66! Eingegangen 66! Davon 16 auf den letzten Drücker! Ungültig 0! Äusserst interessant 4! Der Norm entsprechend 56! Chancenlos 6! 66 Gambler unterwegs auf der legendären Route 66! Quer durch Kanada und die USA bis hinunter nach Mexico. Mit im Gepäck die grössten Hits aus der guten alten Zeit. 
 
 Es freut mich ausserordentlich, dass von A wie Affentranger bis Z wie …..alles dabei ist was dieses Klassentreffen so besonders macht. Fast jeder kennt jeden. So wird die Spritzfahrt noch lustiger. Von wegen die Damenwelt steht Kopf! Besann man sich in vergangenen Jahren ausschliesslich auf Fachwissen und Intuition, haben dieses Mal Algorithmen, spirituelle Rituale und KI in die Entscheidungsfindung mitreingespielt. Ein weiteres Indiz, dass man nicht nur dabeisein will. Es ist doch soooooo schön, wenn man seinen Namen in der Rangliste weit oben entdeckt.
 
