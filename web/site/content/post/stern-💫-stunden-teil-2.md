@@ -27,6 +27,6 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 2018 gerät fast in Vergessenheit. Ist es Putins Macht, die Bauchweh bereitet? Aussenseiter Kroatien stösst bis ins Finale vor und muss sich erst dort den Franzosen geschlagen geben. Luca Modric wird zum besten Spieler des Turniers gewählt und Didier Deschamps sagt merci Mbappé!
 
-2022 stösst in neue Dimensionen vor. Der Wüstensand beherbergt die Fussballwelt. Und all das im Winter. Infantino stellt den Kalender auf den Kopf und alle nicken. Kolo Muani hat Sekunden vor Schluss die Entscheidung auf dem „Schlappen“. Argentiniens Keeper Martínez sagt „no senor“ und Messi erfüllt sich seinen grösstender Kindestraum.
+2022 beherbergt der Wüstensand die Fussballwelt. Infantino stellt den Kalender auf den Kopf und  gibt der Vorweihnachtszeit eine neue Dimension. Kolo Muani hat Sekunden vor Sendeschluss die Entscheidung auf dem „Schlappen“. Doch Argentiniens Keeper Martínez holt zum Spagat seines Lebens aus. Lionel Messi ist am Ziel seiner Träume!
 
 Und 2026? 48 Teams, soviel wie noch nie, nehmen die Kugel in Beschlag. Spanien gilt als Favorit, doch Achtung auf die Schweiz! Am 19. Juli  knapp vor Mitternacht wissen wir mehr!
