@@ -9,7 +9,7 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 1982 holt Italien seinen dritten WM-Titel und schliesst zu Brasilien auf. Solch freudestrahlenden Gesichter wie an jenem denkwürdigen 11. Juli sieht man an der Hauptstraße in Kreuzlingen höchstens am Jahrmarkt. Zoffs Paraden, Tardellis Urschrei, Rossi‘s Wiedergeburt und Bearzots Einfühlungsvermögen! Alles passt wunderbar zusammen! Die Squadra Azzurra räumt nach zähem Beginn alles weg, was sich ihr in den Weg stellt. Argentinien, Brasilien und Deutschland verstehen die Welt nicht mehr.  Danke Jungs, es war der schönste Fussballmoment meines Lebens. 
 
-1986 verneigt sich die Fussballwelt vor Diego Armando Maradona! Obwohl sie weiss, dass er irgendwie geschummelt hat. Wer weiss was passiert wäre, wenn sich die „Hand Gottes“ nicht eingemischt hätte!? Englands Klatschpresse war ausser sich. Dem „pipe d‘oro“ war’s egal. Er hatte fast im Alleingang sein Argentinien zum zweiten WM-Triumph geführt.
+1986 verneigt sich die Fussballwelt vor Diego Armando Maradona! Obwohl sie weiss, dass er irgendwie geschummelt hat. Wer weiss was passiert wäre, wenn sich die „Hand Gottes“ nicht eingemischt hätte!? Englands Klatschpresse ist ausser sich. Dem „pipe d‘oro“ war’s egal. Er hatte fast im Alleingang sein Argentinien zum zweiten WM-Triumph geführt.
 
 1990 hat Andy Brehme die Ruhe weg, als er im Finale das direkte Duell gegen Penaltykiller Goycochea mit einem Schuss ins linke untere Eck für sich entscheidet. Franz Beckenbauer geniesst den Augenblick auf seine Art. Maradona weint bei der Pokalübergabe bittere Tränen und vergisst, dass das Leben manchmal gibt und manchmal wieder nimmt.
 
