@@ -14,4 +14,4 @@ Soweit aus dem Fenster lehnen, wollte sich das Orakel von Tägerwilen dann doch 
 
 Natürlich muss die Dividendenausschüttung auch Thema der Veranstaltung sein. Gilt es doch insgesamt 660 Franken unter das Volk zu bringen! Im Zuge der Schnapszahlen  werden 4️⃣4️⃣4️⃣ Franken in bar an die zukünftige Nummer 1️⃣ überreicht. Ein Brunch-Gutschein über 111 Franken aus dem Hause „Porto Sophie“ in Gottlieben geht an die Nummer 2️⃣ und ein Apéro-Gutschein über 66 Franken von derselben Adresse an die Nummer 3️⃣ Bleiben 22 Franken übrig, die in Form eines edlen Jahrhundert🍷Tropfens der Roten Laterne gutgeschrieben werden.
 
-Ich freue mich auf 6 spannende Wochen. Neben Klatsch, Tratsch und Tabelle wird euch meine Jukebox wie gewohnt mit Titeln aus der guten alten Zeit durch die langen Sommernächte begleiten. Plattenwünsche aus dem Publikum sind dabei herzlich willkommen! Auf gehts
+Ich freue mich auf 6 spannende Wochen. Neben Klatsch, Tratsch und Tabelle wird euch meine Jukebox wie gewohnt mit Titeln aus der guten alten Zeit durch die langen Sommernächte begleiten. Plattenwünsche aus dem Publikum sind dabei herzlich willkommen!
