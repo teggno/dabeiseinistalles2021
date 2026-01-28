@@ -7,7 +7,7 @@ image: img/img_0733.jpeg
 \
 WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
-1982 steigt Enzo Bearzot mit seinen Jungs endgültig in den Olymp auf. Zoffs Paraden, Tardellis Urschrei, Rossi‘s Wiedergeburt!  Die Squadra Azzurra räumt nach zähem Beginn alles weg, was sich ihr in den Weg stellt. Argentinien, Brasilien und Deutschland verstehen die Welt nicht mehr.  Danke Jungs, es war der schönste Fussballmoment meines Lebens. 
+1982 liegt ganz Italien ihrem Enzo Bearzot und seinen Jungs zu Füssen. Zoffs Paraden, Tardellis Urschrei, Rossi‘s Wiedergeburt!  Die Squadra Azzurra räumt nach zähem Beginn alles weg, was sich ihr in den Weg stellt. Argentinien, Brasilien und Deutschland verstehen die Welt nicht mehr.  Danke Jungs, es war der schönste Fussballmoment meines Lebens. 
 
 1986 verneigt sich die Fussballwelt vor Diego Armando Maradona! Obwohl sie weiss, dass er irgendwie “bschissä hät“. Manchen lässt man mehr durch als anderen. Wer weiss was passiert wäre, wenn die „Hand Gottes“ nicht im Spiel gewesen wäre! Hätte sein Slalomlauf genügt? Englands Klatschpresse war ausser sich. Den Argentiniern war’s egal!
 
