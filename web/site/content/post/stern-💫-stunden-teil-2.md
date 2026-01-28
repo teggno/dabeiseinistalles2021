@@ -11,7 +11,7 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 1986 verneigt sich die Fussballwelt vor Diego Armando Maradona! Obwohl sie weiss, dass er irgendwie geschummelt hat. Wer weiss was passiert wäre, wenn sich die „Hand Gottes“ nicht eingemischt hätte!? Englands Klatschpresse war ausser sich. Dem „pipe d‘oro“ war’s egal. Er hatte fast im Alleingang sein Argentinien zum zweiten WM-Triumph geführt.
 
-1990 hat Andy Brehme die Ruhe weg, als er im Finale das direkte Duell gegen Penaltykiller Goycochea mit einem Schuss ins linke untere Eck für sich entscheidet. Franz Beckenbauer geniesst den Augenblick auf seine Art. Maradona weint bei der Pokalübergabe bittere Tränen und vergisst, dass das Leben manchmal gibt und manchmal nimmt. Während sich Matthäus, Völler & Co. feiern lassen, dreht Franz Beckenbauer gedankenverloren seine Runden. Einen zweiten Kaiser wird es nie mehr geben.
+1990 hat Andy Brehme die Ruhe weg, als er im Finale das direkte Duell gegen Penaltykiller Goycochea mit einem Schuss ins linke untere Eck für sich entscheidet. Franz Beckenbauer geniesst den Augenblick auf seine Art. Maradona weint bei der Pokalübergabe bittere Tränen und vergisst, dass das Leben manchmal gibt und manchmal wieder nimmt.
 
 1994 schiesst Roberto Baggio seinen Elfer in den Nachthimmel von Pasadena. Er der mit dem Leder stets auf „du“ war! Brasilien sagte Dankeschön und brIngt eine der unspektakulärsten Weltmeisterschaften nach Hause. Romario wird bestimmt anderer Ansicht sein.
 
