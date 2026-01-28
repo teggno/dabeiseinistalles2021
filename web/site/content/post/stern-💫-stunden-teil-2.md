@@ -13,7 +13,7 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 1990 hat Andy Brehme die Ruhe weg, als er im Finale das direkte Duell gegen Penaltykiller Goycochea mit einem Schuss ins linke untere Eck für sich entscheidet. Franz Beckenbauer geniesst den Augenblick auf seine Art. Maradona weint bei der Pokalübergabe bittere Tränen und vergisst, dass das Leben manchmal gibt und manchmal wieder nimmt.
 
-1994 schiesst Roberto Baggio seinen Elfer in den Nachthimmel von Pasadena. Er der mit dem Leder stets auf „du“ war! Brasilien sagte Dankeschön und brIngt eine der unspektakulärsten Weltmeisterschaften nach Hause. Romario wird bestimmt anderer Ansicht sein.
+1994 schiesst Roberto Baggio seinen Elfer in den Nachthimmel von Pasadena. Er der mit dem Leder stets auf „du“ war! Dieses Missgeschick sollte ihn ein lebenlang begleiten. Es war einer  der unspektakulärsten Endspiele in der Geschichte des Fussballs. Romario und sein Brasilien haben das ganz bestimmt anders gesehen. 
 
 Was wäre 1998 ohne Zizou? La Grande Nation liegt ihrem „Algerier“ zu Füssen. Der in sich gekehrte Tausendsassa übernimmt endlich die nötige Verantwortung. Zidane zeigt Ronaldo den Meister wird es am Tag darauf in den Gazetten heissen. 
 
