@@ -25,7 +25,7 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 2014 versinkt die Copacabana nach 1950 zum zweiten Mal im Tränenmeer. Das 1:7 gegen den späteren Weltmeister nagt heute noch an den Sambatänzern. Im Finale stehen sich Argentinien und Deutschland gegenüber. In der Verlöngerung packt Mario Götze überraschenderweise seinen „One-Hit-Wonder“ aus! Auf Buenos Aires Plätzen tanzen sie „mi noche triste“. Ein Tango voller Seelenschmerz!
 
-2018 gerät fast in Vergessenheit. Ist es der Austragungsort der einem Bauchweh bereitet. Aussenseiter Kroatien stösst bis ins Finale vor und muss sich erst dort den Franzosen geschlagen geben. Didier Deschamps „entdeckt“ seinen Sprössling Mbappé, Modric wird als bester Spieler gewählt und Putin dankt der FIFA.
+2018 gerät fast in Vergessenheit. Ist es Putins Macht, die Bauchweh bereitet? Aussenseiter Kroatien stösst bis ins Finale vor und muss sich erst dort den Franzosen geschlagen geben. Luca Modric wird zum besten Spieler des Turniers gewählt und Didier Deschamps sagt merci Mbappé!
 
 2022 stösst in neue Dimensionen vor. Der Wüstensand beherbergt die Fussballwelt. Und all das im Winter. Infantino stellt den Kalender auf den Kopf und alle nicken. Kolo Muani hat Sekunden vor Schluss die Entscheidung auf dem „Schlappen“. Argentiniens Keeper Martínez sagt „no senor“ und Messi erfüllt sich seinen grösstender Kindestraum.
 
