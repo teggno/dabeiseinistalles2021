@@ -21,7 +21,7 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) durchgeschütitelt, reist die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und verlässt sich auf seinen Instinkt. Linksverteidiger Fabio Grosso stösst mit seinem entscheidenden Penalty das Tor zum Paradies auf. Doch was wäre passiert, wenn der sonst abgeklärte Zinedine Zidane nicht auf Materazzi‘s Provokation hereingefallen wäre?
 
-2010 geht es nach Südafrika! Vuvuzelas dominieren die Szene. Eine Plage für das Gehör. Ob Sieg oder Niederlage, sie kommen immer gleich daher. Im Finale hat Arjen Robben die Entscheidung auf dem Fuss!  Über den Holländern muss ein WM-Fluch liegen. Nach 1974 und 1978 schon wieder gescheitert. Am Ende jubeln die Spanier, die dank Xavi und Iniesta das Tiki-Taka salonfähig machten.
+2010 geht es nach Südafrika! Vuvuzelas dominieren die Szene. Eine Plage für das Gehör. Ob Sieg oder Niederlage, sie kommen immer gleich daher. Im Finale hat Arjen Robben die Entscheidung auf dem Fuss!  Über den Holländern muss ein WM-Fluch liegen. Nach 1974 und 1978 schon wieder Platz 2. Am Ende jubeln die Spanier, die dank Xavi und Iniesta den Tiki-Taka für salonfähig erklärten.
 
 2014 versinkt die Copacabana nach 1950 zum zweiten Mal im Tränenmeer. Das 1:7 gegen den späteren Weltmeister nagt heute noch an den Sambatänzern. Im Finale stehen sich Argentinien und Deutschland gegenüber. In der Verlöngerung packt Mario Götze überraschenderweise seinen „One-Hit-Wonder“ aus! Auf Buenos Aires Plätzen tanzen sie „mi noche triste“. Ein Tango voller Seelenschmerz!
 
