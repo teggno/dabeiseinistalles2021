@@ -29,4 +29,4 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 2022 beherbergt der Wüstensand die Fussballwelt. Infantino stellt den Kalender auf den Kopf und  gibt der Vorweihnachtszeit eine neue Dimension. Kolo Muani hat Sekunden vor Sendeschluss die Entscheidung auf dem „Schlappen“. Doch Argentiniens Keeper Martínez holt zum Spagat seines Lebens aus. Lionel Messi ist am Ziel seiner Träume!
 
-Und 2026? 48 Teams, soviel wie noch nie, nehmen die Kugel in Beschlag. Spanien gilt als Favorit, doch Achtung auf die Schweiz! Am 19. Juli  knapp vor Mitternacht wissen wir mehr!
+Und nun steht 2026 vor der Tür! In den Wettbüros herrscht Hochbetrieb! Welcher Tanz kommt beim Publikum am besten an? Der Flamenco 💃🏽, der Tango, der Samba
