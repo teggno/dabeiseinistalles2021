@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-03T10:56:00.848Z
 image: img/img_0728.jpeg
 ---
-Ausgeteilte Stimmzettel 66! Eingegangen 66! Davon 16 auf den letzten Drücker! Ungültig 0! Äusserst interessant 4! Der Norm entsprechend 56! Chancenlos 6! Somit werden während den nächsten sechs Wochen insgesamt 66 Gambler/innen auf der legendären Route 66 unterwegs sein. Quer durch Kanada und die USA bis hinunter nach Mexico. 
+Ausgeteilte Stimmzettel 66! Eingegangen 66! Davon 16 auf den letzten Drücker! Ungültig 0! Äusserst interessant 4! Der Norm entsprechend 56! Chancenlos 6! Somit werden in den nächsten Wochen 66 Troubadoure auf der legendären Route 66 unterwegs sein. Quer durch Kanada und die USA bis hinunter nach Mexico. 
 
 Es freut mich ausserordentlich, dass von A wie Affentranger bis Z wie …..alles dabei ist was dieses Klassentreffen so einzigartig macht. Von wegen die Damenwelt steht Kopf! Wenn ich mir die Namen so anschaue, ist die Frauenquote noch weiter in die Höhe geschnellt. Nichts wird mehr dem Zufall (Mann) überlassen. Hand in Hand will man möglichst erfolgreich am Ziel in New York ankommen. Dazu wurde das gesamte Fachwissen inklusive Algorithmen eingepackt. Ohne auf KI und die vielgepriesene weibliche Intuition zu verzichten. 
 
