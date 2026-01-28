@@ -27,6 +27,4 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 2018 gerät fast in Vergessenheit. Ist es Putins Macht, die Bauchweh bereitet? Aussenseiter Kroatien stösst bis ins Finale vor und muss sich erst dort den Franzosen geschlagen geben. Luca Modric wird zum besten Spieler des Turniers gewählt und Didier Deschamps sagt merci Mbappé!
 
-2022 beherbergt der Wüstensand die Fussballwelt. Infantino stellt den Kalender auf den Kopf und  gibt der Vorweihnachtszeit eine neue Dimension. Kolo Muani hat Sekunden vor Sendeschluss die Entscheidung auf dem „Schlappen“. Doch Argentiniens Keeper Martínez holt zum Spagat seines Lebens aus. Lionel Messi ist am Ziel seiner Träume!
-
-Und nun steht die WM 2026 vor der Tür! In den Wettbüros herrscht Hochbetrieb! Welcher Tanz kommt beim Publikum am besten an? Flamenco 💃🏽, Tango, Samba, Walzer, Rock’n’Roll oder tanzt die Prominenz am Ende zu einem „Hudigäggeler“ auf….
+2022 beherbergt der Wüstensand die Fussballwelt. Infantino stellt den Kalender auf den Kopf und  gibt der Vorweihnachtszeit eine neue Dimension. Kolo Muani hat Sekunden vor Sendeschluss die Entscheidung auf dem „Schlappen“, doch Argentiniens Keeper Martínez holt zum Spagat seines Lebens aus. Lionel Messi ist am Ziel seiner Träume!
