@@ -23,7 +23,7 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 2010 geht es nach Südafrika! Vuvuzelas dominieren die Szene. Eine Plage für das Gehör. Ob Sieg oder Niederlage, sie kommen immer gleich daher. Im Finale hat Arjen Robben die Entscheidung auf dem Fuss!  Über den Holländern muss ein WM-Fluch liegen. Nach 1974 und 1978 schon wieder gescheitert. Am Ende jubeln die Spanier, die dank Xavi und Iniesta das Tiki-Taka salonfähig machten.
 
-2014 versinkt die Copacabana nach 1950 zum zweiten Mal im Tränenmeer. Das 1:7 gegen den späteren Weltmeister nagt heute noch an den Sambatänzern. Im Finale stehen sich Argentinien und Deutschland gegenüber. In der Verlöngerung packt Mario Götze überraschenderweise seinen „One-Hit-Wonder“ aus! Auf Buenos Aires Plätzen wird der Tango zum traurigen Abgesang.
+2014 versinkt die Copacabana nach 1950 zum zweiten Mal im Tränenmeer. Das 1:7 gegen den späteren Weltmeister nagt heute noch an den Sambatänzern. Im Finale stehen sich Argentinien und Deutschland gegenüber. In der Verlöngerung packt Mario Götze überraschenderweise seinen „One-Hit-Wonder“ aus! Auf Buenos Aires Plätzen tanzen sie „mi noche triste“. Ein Tango der traurigen Art. 
 
 2018 gerät fast in Vergessenheit. Ist es der Austragungsort der einem Bauchweh bereitet. Aussenseiter Kroatien stösst bis ins Finale vor und muss sich erst dort den Franzosen geschlagen geben. Didier Deschamps „entdeckt“ seinen Sprössling Mbappé, Modric wird als bester Spieler gewählt und Putin dankt der FIFA.
 
