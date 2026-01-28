@@ -7,7 +7,7 @@ image: img/img_0733.jpeg
 \
 WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
-1982 liegt ganz Italien ihren „Heiligen“ zu Füssen. Bearzots Einfühlungsvermögen, Zoffs Paraden, Tardellis Urschrei, Rossi‘s Wiedergeburt!  Die Squadra Azzurra räumt nach zähem Beginn alles weg, was sich ihr in den Weg stellt. Argentinien, Brasilien und Deutschland verstehen die Welt nicht mehr.  Danke Jungs, es war der schönste Fussballmoment meines Lebens. 
+1982 holt Italien seinen dritten WM-Titel und schliesst zu Brasilien auf. Sooch freudestrahlende Gesichter vwie an jenem denkwürdigen 11. Juli sieht man die Hauotstrasse in Kreuzlingen nur am Jahrmarkt. Bearzots Einfühlungsvermögen, Zoffs Paraden, Tardellis Urschrei, Rossi‘s Wiedergeburt!  Die Squadra Azzurra räumt nach zähem Beginn alles weg, was sich ihr in den Weg stellt. Argentinien, Brasilien und Deutschland verstehen die Welt nicht mehr.  Danke Jungs, es war der schönste Fussballmoment meines Lebens. 
 
 1986 verneigt sich die Fussballwelt vor Diego Armando Maradona! Obwohl sie weiss, dass er irgendwie “bschissä hät“. Manchen lässt man mehr durch als anderen. Wer weiss was passiert wäre, wenn die „Hand Gottes“ nicht im Spiel gewesen wäre! Hätte sein Slalomlauf genügt? Englands Klatschpresse war ausser sich. Den Argentiniern war’s egal!
 
