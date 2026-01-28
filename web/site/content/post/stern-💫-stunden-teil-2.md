@@ -15,7 +15,7 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 1994 schiesst Roberto Baggio seinen Elfer in den Nachthimmel von Pasadena. Er der mit dem Leder stets auf „du“ war! Dieses Missgeschick sollte ihn ein lebenlang begleiten. Es war einer  der unspektakulärsten Endspiele in der Geschichte des Fussballs. Romario und sein Brasilien haben das ganz bestimmt anders gesehen. 
 
-Was wäre 1998 ohne Zizou? La Grande Nation liegt ihrem „Algerier“ zu Füssen. Der in sich gekehrte Tausendsassa übernimmt endlich die nötige Verantwortung. Zidane zeigt Ronaldo den Meister wird es am Tag darauf in den Gazetten heissen. 
+1998 ritzt man La Grande Nation zum ersten Mal  auf dem Wanderpokal ein. Zizou hatte es möglich gemacht. Der in sich gekehrte Tausendsassa übernahm endlich die Verantwortung. Brasiliens Superstar Ronaldo hatte sein Talent in der Kabine vergessen. 
 
 2002 hält Oliver Kahn alles was auf ihn zukommt. Bis auf jenen Bodenroller, der abgegeben von Ronaldos Innenkante, unter seinem Bauch hindurchrutscht. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Bei Oli hielt sich der Schaden in Grenzen. Die Verdeoros jubeln zum fünften Mal und bleiben bis heute Rekordhalter.
 
