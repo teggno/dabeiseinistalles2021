@@ -17,9 +17,9 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 1998 ritzt man zum ersten Mal „La Grande Nation“ auf dem Wanderpokal ein. Zizou hatte es möglich gemacht. Der in sich gekehrte Tausendsassa übernahm endlich die Verantwortung. Brasiliens Superstar Ronaldo hatte sein Talent in der Kabine vergessen. 
 
-2002 hält Oliver Kahn alles was auf ihn zukommt. Bis auf jenen Bodenroller, der abgegeben von Ronaldos Innenkante, unter seinem Bauch hindurchrutscht. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Bei Oli hielt sich der Schaden in Grenzen. Die Verdeoros jubeln zum fünften Mal und bleiben bis heute Rekordhalter.
+2002 hält Oliver Kahn alles was auf ihn zukommt. Bis auf jenen berüchtigten Bodenroller, der dummerweise unter seinem Bauch hindurchrutscht. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Fussball kann brutal sein. Brasilien sagt Dankeschön und darf sich als einzige Nation fünffacher Weltmeister nennen.
 
-2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) durchgeschütitelt, reist die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und schaltet den Vorwärtsgang ein. Nobody Grosso wiederfährt die Ehre, mit seinem entscheidenden Elfer das Tor zum Paradies aufzustossen. Doch was wäre passiert, wenn Zidane nicht auf Materazzi‘s Provokationen hereingefallen wäre?
+2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) durchgeschütitelt, reist die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und verlässt sich auf seinen Instinkt. Linksverteidiger Fabio Grosso stösst mit seinem entscheidenden Elfer das Tor zum Paradies auf. Doch was wäre passiert, wenn der sonst abgeklärte Zidane nicht auf Materazzi‘s Provokationen hereingefallen wäre?
 
 2010 und die Vuvuzelas! Eine Plage für jeden Fan. Ob Sieg oder Niederlage, sie kommen immer im gleichen Ton daher. Im Finale hat Arjen Robben die Entscheidung auf dem Fuss!  Über den Niederländern muss ein WM-Fluch liegen. Am Ende jubeln die Spanier. Xavi und Iniesta lassen ihr Tiki-Taka patentieren.
 
