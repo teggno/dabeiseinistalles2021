@@ -19,7 +19,7 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 2002 hält Oliver Kahn alles was auf ihn zukommt. Bis auf jenen berüchtigten Bodenroller, der dummerweise unter seinem Bauch hindurchrutscht. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Fussball kann brutal sein. Brasilien sagt Dankeschön und darf sich als einzige Nation fünffacher Weltmeister nennen.
 
-2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) durchgeschütitelt, reist die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und verlässt sich auf seinen Instinkt. Linksverteidiger Fabio Grosso stösst mit seinem entscheidenden Penalty das Tor zum Paradies auf. Doch was wäre passiert, wenn der sonst abgeklärte Zidane nicht auf Materazzi‘s Provokation hereingefallen wäre?
+2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) durchgeschütitelt, reist die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und verlässt sich auf seinen Instinkt. Linksverteidiger Fabio Grosso stösst mit seinem entscheidenden Penalty das Tor zum Paradies auf. Doch was wäre passiert, wenn der sonst abgeklärte Zinedine Zidane nicht auf Materazzi‘s Provokation hereingefallen wäre?
 
 2010 geht es nach Südafrika! Vuvuzelas dominieren die Szene. Eine Plage für das Gehör. Ob Sieg oder Niederlage, sie kommen immer gleich daher. Im Finale hat Arjen Robben die Entscheidung auf dem Fuss!  Über den Holländern muss ein WM-Fluch liegen. Nach 1974 und 1978 schon wieder gescheitert. Am Ende jubeln die Spanier, die dank Xavi und Iniesta das Tiki-Taka salonfähig machten.
 
