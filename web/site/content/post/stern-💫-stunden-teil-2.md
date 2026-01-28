@@ -29,4 +29,4 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 2022 beherbergt der Wüstensand die Fussballwelt. Infantino stellt den Kalender auf den Kopf und  gibt der Vorweihnachtszeit eine neue Dimension. Kolo Muani hat Sekunden vor Sendeschluss die Entscheidung auf dem „Schlappen“. Doch Argentiniens Keeper Martínez holt zum Spagat seines Lebens aus. Lionel Messi ist am Ziel seiner Träume!
 
-Und nun steht 2026 vor der Tür! In den Wettbüros herrscht Hochbetrieb! Welcher Tanz kommt beim Publikum am besten an? Der Flamenco 💃🏽, der Tango, der Samba
+Und nun steht die WM 2026 vor der Tür! In den Wettbüros herrscht Hochbetrieb! Welcher Tanz kommt beim Publikum am besten an? Flamenco 💃🏽, Tango, Samba, Walzer, Rock’n’Roll oder tanzt die Prominenz am Ende zu einem „Hudigäggeler“ auf….
