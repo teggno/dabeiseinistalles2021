@@ -17,7 +17,7 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 1️⃣9️⃣9️⃣8️⃣  ritzt der fingerfertige Graveur nach einem einseitigen Finale zum ersten Mal „Frankreich“ auf dem Wanderpokal ein. „Zizou“ alias Zinedine Zidane hatte die Last einer ganzen Nation auf seine Schultern genommen. Eine Aufgabe die eigentlich seinem Widersacher Ronaldo zugefallen wäre. Doch Montezumas Rache zwang Brasiliens Superstar kurz vor Anpfiff auf das stille Örtchen ☺️
 
-2️⃣0️⃣0️⃣2️⃣ hölt Oliver Kahn alles was auf ihn zukommt. Bis auf jenen berüchtigten Bodenroller, der unglücklicherweise unter seinem Bauch hindurch den Weg ins Tor findet. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Ronaldo bedankte sich und Brasilien war zum fünften Male Weltmeister!
+2️⃣0️⃣0️⃣2️⃣ hält Oliver Kahn alles was auf ihn zukommt. Bis auf jenen berüchtigten Bodenroller, der unglücklicherweise unter seinem Bauch hindurch den Weg ins Tor findet. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Ronaldo bedankte sich und Brasilien war zum fünften Male Weltmeister!
 
 2️⃣0️⃣0️⃣6️⃣ geschah so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) gebeutelt, reiste die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Umsomehr war man auf Lippis Händchen angewiesen. Dass ausgerechnet Linksverteidiger Fabio Grosso mit seinem entscheidenden Penalty das Tor zum Paradies aufstiess, ist auch Marcellos Verdienst. In Momenten der Stille stelle ich mir heute noch die Frage, was  wohl passiert wäre, wenn der sonst abgezockte „Zizou“ nicht auf Materazzi‘s Provokation hereingefallen wäre.…
 
