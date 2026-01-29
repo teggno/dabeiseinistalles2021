@@ -11,7 +11,7 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 1️⃣9️⃣8️⃣6️⃣ verneigt sich die Fussballwelt vor Diego Armando Maradona! Obwohl sie weiss, dass er irgendwie geschummelt hat. Wer weiss was passiert wäre, wenn sich die „Hand Gottes“ nicht eingemischt hätte!? Englands Klatschpresse war ausser sich. Dem „pipe d‘oro“ konnte es egal sein. Er hatte fast im Alleingang sein Argentinien zum zweiten WM-Triumph geführt.
 
-1️⃣9️⃣9️⃣0️⃣ hat Andy Brehme die Ruhe weg, als er im Finale das direkte Duell gegen Penaltykiller Goycochea mit einem Schuss ins linke untere Eck für sich entscheidet. Franz Beckenbauer geniesst den Augenblick auf seine Art. Maradona weint bei der Pokalübergabe bittere Tränen und vergisst, dass das Leben manchmal gibt und manchmal wieder nimmt.
+1️⃣9️⃣9️⃣0️⃣ hat Andy Brehme die Ruhe weg, als er im Finale das direkte Duell gegen Penaltykiller Goycochea mit einem Schuss ins linke untere Eck für sich entscheidet. Franz Beckenbauer geniesst den Augenblick auf seine Weise. Maradona weint bei der Pokalübergabe bittere Tränen und vergisst, dass das Leben manchmal gibt und manchmal wieder nimmt.
 
 1️⃣9️⃣9️⃣4️⃣ schiesst Roberto Baggio seinen Elfer in den Nachthimmel von Pasadena. Er der mit dem Leder stets auf „du“ war! Dieses Missgeschick sollte ihn ein lebenlang begleiten. Es war eines der unspektakulärsten Endspiele in der Geschichte des Fussballs. Romario und Bebeto tüteten für die Verdeoros den vierten WM-Titel ein.
 
@@ -27,4 +27,4 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 Über 2️⃣0️⃣1️⃣8️⃣ legen wir am besten den Mantel des Schweigens. Vladimir Putin lädt unverblümt zur Propaganda und lullt gekonnt seine „Freunde“ ein! Der Fussball gerät fast in Vergessenheit. Aussenseiter Kroatien wächst dank Luca Modric weit über sich hinaus und muss sich erst im Endspiel den Franzosen geschlagen geben. Didier Deschamps sagt merci Kylian Mbappé!
 
-2️⃣0️⃣2️⃣2️⃣ beherbergt der Geldadel Arabiens die Welt des runden Leders. FIFA-Boss Infantino stellt als Zeichen seiner Wertschätzung den gesamten Kalender auf den Kopf und  gibt der Vorweihnachtszeit eine spezielle Note. Kolo Muani hat Sekunden vor Sendeschluss die Entscheidung auf dem Fuss, doch Argentiniens Keeper Martínez holt zum Spagat seines Lebens aus. Lionel Messi ist am Ziel seiner Träume!
+2️⃣0️⃣2️⃣2️⃣ beherbergt der Geldadel Arabiens die Welt des runden Leders. FIFA-Boss Infantino stellt als Zeichen seiner Wertschätzung den gesamten Kalender auf den Kopf und  gibt der Vorweihnachtszeit eine spezielle Note. Kolo Muani hat Sekunden vor Sendeschluss die Entscheidung auf dem Fuss, doch Argentiniens Keeper Dibu Martínez holt zum Spagat seines Lebens aus. Lionel Messi ist am Ziel seiner Träume!
