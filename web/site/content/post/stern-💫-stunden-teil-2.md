@@ -15,7 +15,7 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 1️⃣9️⃣9️⃣4️⃣ schiesst Roberto Baggio seinen Elfer in den Nachthimmel von Pasadena. Er der mit dem Leder stets auf „du“ war! Dieses Missgeschick sollte ihn ein lebenlang begleiten. Es war eines der unspektakulärsten Endspiele in der Geschichte des Fussballs. Romario und Bebeto tüteten für die Verdeoros den vierten WM-Titel ein.
 
-1998 ritzt man zum ersten Mal „La Grande Nation“ auf dem Wanderpokal ein. Zizou hatte es möglich gemacht. Der in sich gekehrte Tausendsassa übernimmt endlich Verantwortung. Montezumas Rache zwingt Brasiliens Superstar kurz vor Anpfiff in die Knie.
+1️⃣9️⃣9️⃣8️⃣  ritzt der fingerfertige Graveur nach dem einseitigen Finale man zum ersten Mal „La Grande Nation“ auf dem Wanderpokal ein. Zizou hatte es möglich gemacht. Der in sich gekehrte Tausendsassa übernimmt endlich Verantwortung. Montezumas Rache zwingt Brasiliens Superstar kurz vor Anpfiff in die Knie.
 
 2002 hält Oliver Kahn alles was auf ihn zukommt. Bis auf jenen berüchtigten Bodenroller, der dummerweise unter seinem Bauch hindurchrutscht. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Fussball kann brutal sein. Brasilien sagt Dankeschön und darf sich als einzige Nation fünffacher Weltmeister nennen.
 
