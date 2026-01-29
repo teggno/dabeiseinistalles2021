@@ -7,7 +7,7 @@ image: img/img_0733.jpeg
 \
 WELTMEISTERSCHAFTEN 1982-2022
 
-1️⃣9️⃣8️⃣2️⃣ holt Italien seinen dritten WM-Titel und schliesst zum Mass aller Dinge Brasilien auf. Solch freudestrahlenden Gesichtern wie an jenem denkwürdigen 11. Juli bin ich an der Hauptstraße in Kreuzlingen höchstens am Jahrmarkt begegnet. Zoff’s Paraden, Tardellis Urschrei, Rossi‘s Wiedergeburt und Bearzots Einfühlungsvermögen bleiben italienisches Kulturgut für die Ewigkeit Die Squadra Azzurra räumte nach zähem Beginn alles weg, was sich ihr in den Weg stellte. Argentinien, Brasilien und Deutschland verstanden die Welt nicht mehr. Danke Jungs, es war der schönste Fussballmoment meines Lebens. 
+1️⃣9️⃣8️⃣2️⃣ holt Italien seinen dritten WM-Titel und schliesst zum Mass aller Dinge Brasilien auf. Solch überglücklichen Gesichtern wie an jenem denkwürdigen 11. Juli bin ich an der Hauptstraße in Kreuzlingen höchstens am Jahrmarkt begegnet. Zoff’s Paraden, Tardellis Urschrei, Rossi‘s Wiedergeburt und Bearzots Einfühlungsvermögen bleiben italienisches Kulturgut für die Ewigkeit Die Squadra Azzurra räumte nach zähem Beginn alles weg, was sich ihr in den Weg stellte. Argentinien, Brasilien und Deutschland verstanden die Welt nicht mehr. Danke Jungs, es war der schönste Fussballmoment meines Lebens. 
 
 1️⃣9️⃣8️⃣6️⃣ verneigt sich die Fussballwelt vor Diego Armando Maradona! Obwohl sie weiss, dass er irgendwie geschummelt hat. Wer weiss was passiert wäre, wenn sich die „Hand Gottes“ nicht eingemischt hätte!? Englands Klatschpresse war ausser sich. Dem „pipe d‘oro“ konnte es egal sein. Er hatte fast im Alleingang sein Argentinien zum zweiten WM-Triumph geführt.
 
