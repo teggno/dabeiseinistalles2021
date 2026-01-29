@@ -13,7 +13,7 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣3️⃣8️⃣ gelingt den Italienern das Double! Trainer Pozzo, der schon vier Jahre zuvor für die Taktik verantwortlich war, schickt noch einmal  sein eingespieltes Ensemble aufs Feld und behält recht. Im Endspiel haben die Ungarn das Nachsehen!
 
-1942+1946 fällt die WM  wegen des 2. Weltkrieges aus.  
+1942+1946 fällt die WM wegen des 2. Weltkrieges aus.  
 
 1️⃣9️⃣5️⃣0️⃣ wird in brasilianischen Geschichtsbüchern als das Jahr der Demütigung zelebriert. Vor der Rekordkulisse von 170‘000 Zuschauern zerstört Uru-Legende Schiaffino den Traum einer ganzen Nation. Vor lauter Tränen soll der Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordniveau gestiegen sein. Uruguay ist zum zweiten Mal Weltmeister.
 
