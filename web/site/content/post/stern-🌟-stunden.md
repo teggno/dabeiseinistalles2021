@@ -9,7 +9,7 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣3️⃣0️⃣ bekommt der Fussball endlich das was ihm gebührt! Die Buchstaben W+M stehen von nun an für das grösste Sportereignis des Universums. Als amtierender Olympiasieger erhält Uruguay den Zuschlag und fängt erstmal klein an! Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules-Rimet-Wanderpokal, der von nun an alle vier Jahre einen neuen Eintrag bekommen sollte.
 
-1934 ist Italien an der Reihe! Angeführt von Ausnahmestürmer Meazza setzen sich die Azzurri im Finale mit 2:1 gegen die Tschechoslowakei durch.
+1️⃣9️⃣3️⃣4️⃣ ist Italien an der Reihe! Angeführt von Meazza setzen sich die Azzurri im Finale mit 2:1 gegen die Tschechoslowakei durch.
 
 1938 gelingt den Italienern das Double! Trainer Pozzo vertraut im grossen und ganzen der Elf von 34! Im Finale haben die Ungarn das Nachsehen. 
 
