@@ -29,4 +29,4 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣7️⃣4️⃣ treffen die damals grössten Fussballästheten aufeinander. Beckenbauer‘s  50 Meterpässe aus dem Fussgelenk sind eine Augenweide! Crujff’s Interpretation einer modernen Nummer 10 ist reine Poesie! Die Rolle des WM- Helden fällt  jedoch einem anderen zu! „Kleines, dickes Müller“ verewigt sich mit seinem Abstauber aus halber Drehung, der in keinem Lehrbuch zu finden ist, in den Annalen. Gerd, du bist und bleibst die grösste 9️⃣ aller Zeiten.
 
-1️⃣9️⃣7️⃣8️⃣ hat Rob Rensenbrink den Matchball auf seiner linken Klebe. Manchmal sind es Zentimeter die über Sein- und Nichtsein entscheiden. Wie 4 Jahre zuvor, haben die „armen“ Holländer wieder das Nachsehen. Stattdessen ist es Mario Kempes der in Buenos Aires zum Tango einlädt. Argentinien ist zum ersten Mal Weltmeister.
+1️⃣9️⃣7️⃣8️⃣ hat Rob Rensenbrink den Matchball auf seiner linken Klebe. Manchmal sind es Zentimeter die über Sein- und Nichtsein entscheiden. Wieder haben die Niederländer das Nachsehen. Stattdessen ist es Mario Kempes der den Tangotänzern den ersten WM-Titel beschert.
