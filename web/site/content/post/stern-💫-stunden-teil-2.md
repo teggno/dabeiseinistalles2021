@@ -23,7 +23,7 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 2️⃣0️⃣1️⃣0️⃣ findet die WM erstmals in Afrika statt. Südafrika wird zum Inbegriff der Vuvuzelas! Was für eine Plage fürs Gehör. Ob Sieg oder Niederlage, Variationen sind nicht zu erkennen. Im Finale legt sich zum wiederholten Male jener geheimnisvolle Fluch über das Land der Dünen. Arjen Robben hat die Entscheidung auf dem Fuss und scheitert am reaktionsschnellen Iker Casillas! Am Ende jubeln die Spanier, die dank Xavi und Iniesta den Tiki-Taka salonfähig gemacht haben.
 
-2014 versinkt die Copacabana nach 1950 zum zweiten Mal im Tränenmeer. Das 1:7 gegen den späteren Weltmeister nagt heute noch an den Sambatänzern. Im Finale stehen sich Argentinien und Deutschland gegenüber. In der Verlöngerung packt Mario Götze überraschenderweise seinen „One-Hit-Wonder“ aus! Auf Buenos Aires Plätzen tanzen sie „mi noche triste“. Ein Tango voller Seelenschmerz!
+2️⃣0️⃣1️⃣4️⃣ versinkt die Copacabana nach 1950 zum zweiten Mal im Tränenmeer. Das 1:7 gegen den späteren Weltmeister nagt heute noch an der Substanz so mancher Sambatänzer. Mehr Mühe haben die Deutschen Im Finae gegen Argentinien. Erst in der Verlöngerung packt Mario Götze in einem Anflug von Genialität seinen „One-Hit-Wonder“ aus! Auf Buenos Aires Plätzen tanzen sie „mi noche triste“. Ein Tango voller Seelenschmerz, der Löws Truppe allerdings kalt lässt. Bundeskanzlerin Merkel läuft zu Bestform auf.
 
 2018 gerät fast in Vergessenheit. Ist es Putins Macht, die Bauchweh bereitet? Aussenseiter Kroatien stösst bis ins Finale vor und muss sich erst dort den Franzosen geschlagen geben. Luca Modric wird zum besten Spieler des Turniers gewählt und Didier Deschamps sagt merci Mbappé!
 
