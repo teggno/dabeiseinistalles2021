@@ -5,7 +5,7 @@ date: 2025-11-27T09:32:39.307Z
 image: img/img_0733.jpeg
 ---
 \
-WELT 🏟️ MEISTERSCHAFTEN 1982-2022
+WELTMEISTERSCHAFTEN 1982-2022
 
 1️⃣9️⃣8️⃣2️⃣ holt Italien seinen dritten WM-Titel und schliesst momentan zu Brasilien auf. Solch freudestrahlenden Gesichtern wie an jenem denkwürdigen 11. Juli bin ich an der Hauptstraße in Kreuzlingen höchstens am Jahrmarkt begegnet. Zoffs Paraden, Tardellis Urschrei, Rossi‘s Wiedergeburt und Bearzots Einfühlungsvermögen bleiben italienisches Kulturgut für die Ewigkeit Die Squadra Azzurra räumte nach zähem Beginn alles weg, was sich ihr in den Weg stellte. Argentinien, Brasilien und Deutschland verstanden die Welt nicht mehr. Danke Jungs, es war der schönste Fussballmoment meines Lebens. 
 
