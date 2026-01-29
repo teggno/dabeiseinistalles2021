@@ -7,7 +7,7 @@ image: img/img_0722.jpeg
 \
  WELTMEISTERSCHAFTEN 1930-1978
 
-1930 bekommt der Fussball endlich das was ihm gebührt! Ein Turnier der weltbesten National-Teams! In Montevideo geben sich 13 Mannschaften ein Stelldichein. Die meisten reisen mit dem Schiff an. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules-Rimet-Wanderpokal, der von nun an alle vier Jahre einen neuen Eintrag bekommen sollte.
+1930 bekommt der Fussball endlich das was ihm gebührt! Die Buchstaben W+M stehen von nun an für das grösste Spektakel des Universums, das alle 4  Jahre stattfinden soll. Montevideo geben sich lediglich 13 Mannschaften ein Stelldichein. Die meisten reisen mit dem Schiff an. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules-Rimet-Wanderpokal, der von nun an alle vier Jahre einen neuen Eintrag bekommen sollte.
 
 1934 ist Italien an der Reihe! Angeführt von Ausnahmestürmer Meazza setzen sich die Azzurri im Finale mit 2:1 gegen die Tschechoslowakei durch.
 
