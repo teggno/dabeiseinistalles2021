@@ -11,7 +11,7 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣3️⃣4️⃣ ist Italien an der Reihe! Und wiederum macht der Gastgeber das Rennen! Dieses Mal sind bereits 16 Teams im Tableau eingeschrieben!  Eine Zahl die bis und mit 1974 Bestand haben sollte. Angeführt von Giuseppe Meazza, dem 1980 das ehrwürdige San Siro Stadion gewidmet wird, setzen sich die Azzurri im Finale mit 2:1 gegen die Tschechoslowakei durch.
 
-1️⃣9️⃣3️⃣8️⃣ gelingt den Italienern das Double! Trainer Pozzo, der schon vier Jahre zuvor für die Taktik verantwortlich war, schickt noch einmal  sein eingespieltes Ensemble aufs Feld und behält recht. Im Endspiel haben die Ungarn das Nachsehen!
+1️⃣9️⃣3️⃣8️⃣ gelingt den Italienern das Double! Trainer Pozzo, der schon vier Jahre zuvor für die Taktik verantwortlich war, schickt noch einmal  sein eingespieltes Ensemble aufs Feld und behält die Oberhand. Im Endspiel haben die Ungarn das Nachsehen!
 
 1942+1946 fällt die WM wegen des 2. Weltkrieges aus.  
 
