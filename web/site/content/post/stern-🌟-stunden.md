@@ -9,13 +9,13 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣3️⃣0️⃣ bekommt der Fussball endlich das was ihm gebührt! Die Buchstaben W+M stehen von nun an für das grösste Sportereignis des Universums. Als amtierender Olympiasieger erhält Uruguay den Zuschlag und fängt erstmal klein an! Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules-Rimet-Wanderpokal, der von nun an alle vier Jahre einen neuen Eintrag bekommen sollte.
 
-1️⃣9️⃣3️⃣4️⃣ ist Italien an der Reihe! Und wiederum macht der Gastgeber das Rennen! Dieses Mal sind bereits 16 Teams dabei, eine Zahl die bis und mit 1974 Bestand haben sollte, Angeführt von Giuseppe Meazza, dem 1980 das ehrwürdige San Siro Stadion gewidmet wurde, setzten sich die Azzurri im Finale mit 2:1 gegen die Tschechoslowakei durch.
+1️⃣9️⃣3️⃣4️⃣ ist Italien an der Reihe! Und wiederum macht der Gastgeber das Rennen! Dieses Mal sind bereits 16 Teams eingeschrieben, eine Zahl die bis und mit 1974 Bestand haben sollte. Angeführt von Giuseppe Meazza, dem 1980 das ehrwürdige San Siro Stadion gewidmet wurde, setzten sich die Azzurri im Finale mit 2:1 gegen die Tschechoslowakei durch.
 
-1938 gelingt den Italienern das Double! Trainer Pozzo vertraut im grossen und ganzen der Elf von 34! Im Finale haben die Ungarn das Nachsehen. 
+1️⃣9️⃣3️⃣8️⃣ gelingt den Italienern das Double! Trainer Pozzo, der schon vier Jahre zuvor für die Taktik verantwortlich war, schickt noch einmal  sein eingespieltes Ensemble aufs Feld und behält recht. Im Endspiel haben die Ungarn das Nachsehen!
 
 1942+1946 fällt die WM  wegen des 2. Weltkrieges aus.  
 
-1950 wird in brasilianischen Geschichtsbüchern als das Jahr der Demütigung zelebriert. Vor der Rekordkulisse von 170‘000 Zuschauern zerstört Uru-Legende Schiaffino den Traum einer ganzen Nation. Vor lauter Tränen soll der Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordniveau gestiegen sein. Uruguay ist zum zweiten Mal Weltmeister.
+1️⃣9️⃣5️⃣0️⃣ wird in brasilianischen Geschichtsbüchern als das Jahr der Demütigung zelebriert. Vor der Rekordkulisse von 170‘000 Zuschauern zerstört Uru-Legende Schiaffino den Traum einer ganzen Nation. Vor lauter Tränen soll der Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordniveau gestiegen sein. Uruguay ist zum zweiten Mal Weltmeister.
 
 1954 redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der Deutschen gewesen sein muss, belegt die Tatsache, dass Trainer Szebes auf dem Sterbebett immer noch nicht glauben wollte, dass seine unschlagbaren Ungarn nach einer 2:0 Führung das Heft noch  aus der Hand gegeben hatten. Fritz Walter und Uwe Rahn hatten Ferenc Puskas und Sandor Koscics den Schneid abgekauft. 
 
