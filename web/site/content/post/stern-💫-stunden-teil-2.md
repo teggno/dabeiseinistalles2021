@@ -17,7 +17,7 @@ WELT 🏟️ MEISTERSCHAFTEN 1982-2022
 
 1️⃣9️⃣9️⃣8️⃣  ritzt der fingerfertige Graveur nach einem einseitigen Finale zum ersten Mal „Frankreich“ auf dem Wanderpokal ein. „Zizou“ alias Zinedine Zidane hatte die Last einer ganzen Nation auf seine Schultern genommen. Eine Aufgabe die eigentlich seinem Widersacher Ronaldo zugefallen wäre. Doch Montezumas Rache zwang Brasiliens Superstar kurz vor Anpfiff auf das stille Örtchen ☺️
 
-2002 hält Oliver Kahn alles was auf ihn zukommt. Bis auf jenen berüchtigten Bodenroller, der dummerweise unter seinem Bauch hindurchrutscht. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Fussball kann brutal sein. Brasilien sagt Dankeschön und darf sich als einzige Nation fünffacher Weltmeister nennen.
+2️⃣0️⃣0️⃣2️⃣ hält Oliver Kahn alles was auf ihn zukommt. Bis auf jenen berüchtigten Bodenroller, der dummerweise unter seinem Bauch hindurchrutscht. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Fussball kann brutal sein. Brasilien sagt Dankeschön und darf sich als einzige Nation fünffacher Weltmeister nennen.
 
 2006 geschieht so etwas wie das siebte Weltwunder. Von einem internen Skandal (Calciopoli) durchgeschütitelt, reist die Squadra Azzurra als krasser Aussenseiter ans Sommermärchen nach Deutschland. Marcello Lippi ergreift die Flucht nach vorne und verlässt sich auf seinen Instinkt. Linksverteidiger Fabio Grosso stösst mit seinem entscheidenden Penalty das Tor zum Paradies auf. Doch was wäre passiert, wenn der sonst abgeklärte Zinedine Zidane nicht auf Materazzi‘s Provokation hereingefallen wäre?
 
