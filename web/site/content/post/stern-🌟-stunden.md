@@ -19,7 +19,7 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣5️⃣4️⃣ redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der Deutschen gewesen sein muss, belegt die Tatsache, dass Ungarn-Trainer Szebes auf dem Sterbebett immer noch nicht glauben wollte, dass seine bis dahin ungeschlagene Elf nach einer 2:0 Führung das Heft noch  aus der Hand gegeben hatten. Fritz Walter und Uwe Rahn hatten Ferenc Puskas und Sandor Koscics den Schneid abgekauft. 
 
-1958 sind die Tränen der Sambatänzer endlich getrocknet! Torhüter Gilmar, die Brüder Nilton und Djalma Santos, Mittelfeldstratege Didi und der Wundersturm Garrincha-Vava-Pelé-Zagallo lassen den Zuckerhut zum Schmelzen bringen. Offensivfussball von einem anderen Stern. Das revolutionäre 4-2-4 war geboren!
+1️⃣9️⃣5️⃣8️⃣ sind die Tränen der Sambatänzer endlich getrocknet! Torhüter Gilmar, die Brüder Nilton und Djalma Santos, Mittelfeldstratege Didi und der Wundersturm Garrincha-Vava-Pelé-Zagallo lassen den Zuckerhut zum Schmelzen bringen. Offensivfussball von einem anderen Stern. Das revolutionäre 4-2-4 war geboren!
 
 1962 geht als die WM der bösen Buben in die Geschichte ein. Grätschen gehören zum guten Ton! Wilde Schlägereien sorgen für Abwechslung. Chile-Italien ist der absolute „Höhepunkt“. Den Brasilianern gelingt es, ihren Titel souverän zu verteidigen. Auch ohne ihren verletzten Stürmerstar Pelé. Mann des Turniers ist Rechtsaussen Garrincha, der mit seinen Dribblings die gegnerischen Abwehrreihen schwindlig spielt.
 
