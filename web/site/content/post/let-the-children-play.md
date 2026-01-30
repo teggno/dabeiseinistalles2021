@@ -4,7 +4,7 @@ draft: true
 date: 2025-12-03T10:56:00.848Z
 image: img/img_0728.jpeg
 ---
-Ausgeteilte Stimmzettel 60!  Eingegangen 66! Davon 16 auf den letzten Drücker! Ungültig 0! Äusserst interessant 7! Konservativ 5! Der Norm entsprechend 23! Unkonventionell 4! Altbacken 9! Frech 3! Halsbrecherisch  8! Chancenlos 6! Siegessicher 1! Somit werden in den nächsten Wochen 66 Weltenbummler auf der legendären Route 66 unterwegs sein. 
+Ausgeteilte Stimmzettel 60!  Eingegangen 66! Davon 16 auf den letzten Drücker! Ungültig 0! Äusserst interessant 7! Konservativ 5! Der Norm entsprechend 23! Unkonventionell 4! Altbacken 9! Frech 3! Halsbrecherisch  8! Chancenlos 6! Siegessicher 1! Somit werden in den nächsten Wochen 66 Weltenbummler auf der legendären Route 66 unterwegs sein. Von Chicago bis hinunter nach Santa Monica. Vorbei am Grand Canyon, quer durch die Mojawe-Wüste. Dort wartet ein Privatjet auf uns, der uns direkt zur Endstation New York bringt.
 
 Es freut mich ausserordentlich, dass von A wie Affentranger bis Z wie Zaccaria alles dabei ist was dieses Klassentreffen so einzigartig macht. Von wegen die Damenwelt steht Kopf! Wenn ich mir die Namen so anschaue, ist die Frauenquote noch weiter in die Höhe geschnellt. Nichts soll in diesen turbulenten Zeiten dem Zufall „Mann“ überlassen werden. Hand in Hand will man möglichst erfolgreich am Ziel in New York ankommen. Dazu wurde das gesamte Fachwissen inklusive Algorithmen und KI im Necessaire eingepackt. Ohne auf die vielgepriesene weibliche Intuition zu verzichten. 
 
