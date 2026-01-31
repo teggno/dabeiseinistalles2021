@@ -1,5 +1,5 @@
 ---
-title: Sixtysix!
+title: Sixtysix! (11. Juni)
 draft: true
 date: 2025-12-03T10:56:00.848Z
 image: img/img_0728.jpeg
