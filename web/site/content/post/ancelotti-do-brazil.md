@@ -10,7 +10,7 @@ Fragen sie Nesta, Kaka oder Ronaldo! Die Anwort wird stets dieselbe sein. Un gal
 
 Aufzählungen allein werden ihm nicht gerecht. Da war der Spieler mit der  Rückennummer 8️⃣ der sowohl defensiv wie offensiv Akzente setzte. An der Seite von Ruud Gullit und Frank Rijkaard war er Milans Mittelfeldmotor, der auch in der Lage war, den öffnenden Pass auf die 9️⃣  zu spielen.Mit Marco van Basten hatte er den genialen Abnehmer in seinen Reihen. 
 
-Diese Kombination aus Fachwissen und Menschenkenntnis muss den Ausschlag gegeben haben, dass sich der brasilianische Verband dazu durchringen konnte, einen Auswärtigen für die anstehende Expedition  zu gewinnen. Nun stellt sich nur noch die Frage ob Carlo das Zeug dazu hat, in die Schuhe eines Nati-Trainers zu schlüpfen. Denn von Recife bis nach Manaus zählt nur eines! WM-Titel Nummer 6!
+Diese Kombination aus Fachwissen und Menschenkenntnis muss den Ausschlag gegeben haben, dass sich der brasilianische Verband dazu durchringen konnte, einen Auswärtigen für die anstehende Mammutsaufgabe „WM-Titel Nr. 6“ zu gewinnen. Von Recife bis Manaus steht seither die Frage im Raum. Ist Carlo Ancelotti der richtige Mann?
 
 Der letzte Triumph liegt weit zurück. Man schrieb das Jahr 2002 als Brasiliens Selecao von vielen Persönlichkeiten geprägt war. Namen wie Ronaldinho+Ronaldo,sind heute Mangelware. Vielleicht Allison im Tor und Vinicius auf links.  Daneben findet man “viel ewiges Talent„ das immer noch auf den grossen Durchbruch wartet. Die Qualifikationsrunde spricht Bände. Noch nie hat Brasilien soviel Mühe bekundet.
 
