@@ -6,7 +6,7 @@ image: img/img_0008.jpeg
 ---
 Neija….! Mit Betonung auf das Negative! 
 
-Er gilt als ausgeglichener Zampano der es besonders gut mit den Superstars kann. Fragen sie Kroos, Kaka oder Ronaldo! Die Antwort ist stets dieselbe! Carlo ist einzigartig! Nur wenn seine linke Augenbraue viel höher steht als die rechte ist mit ihm nicht gut Kirschen essen.
+Er gilt als ausgeglichener Vermittler, der es besonders gut mit den Superstars kann. Fragen sie Kroos, Kaka oder Ronaldo! Die Antwort ist stets dieselbe! Carlo ist einzigartig! Nur wenn seine linke Augenbraue viel höher steht als die rechte ist mit ihm nicht gut Kirschen essen.
 
 Aufzählungen allein werden ihm nicht gerecht. Da war der Spieler mit der  Rückennummer 8️⃣ der sowohl defensiv wie offensiv Akzente setzte. An der Seite von Ruud Gullit und Frank Rijkaard war er Milans Mittelfeldmotor, der auch in der Lage war, den öffnenden Pass auf die 9️⃣  zu spielen. Van Basten’s Killerinstinkt besorgte danach den Rest. Als Trainer hat Ancelotti alles gewonnen was es zu gewinnen gibt. Nur bei Juve und Napoli ist er gescheitert.
 
