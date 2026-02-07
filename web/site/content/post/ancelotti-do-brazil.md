@@ -4,7 +4,7 @@ draft: true
 date: 2026-01-19T15:31:42.059Z
 image: img/img_0008.jpeg
 ---
-Neija! Mit Betonung auf das Negative! 
+Neija….! Mit Betonung auf das Negative! 
 
 Er gilt als ausgeglichener Zampano der es besonders gut mit den Superstars kann. Fragen sie Kroos, Kaka oder Ronaldo! Die Antwort ist stets dieselbe! Carlo ist einzigartig! Nur wenn seine linke Augenbraue viel höher steht als die rechte ist mit ihm nicht gut Kirschen essen.
 
