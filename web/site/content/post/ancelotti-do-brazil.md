@@ -4,7 +4,11 @@ draft: true
 date: 2026-01-19T15:31:42.059Z
 image: img/img_0008.jpeg
 ---
-Aufzählungen allein werden ihm nicht gerecht. Da war der Spieler mit der  Rückennummer 8️⃣ der sowohl defensiv wie offensiv Akzente setzte. An der Seite von Ruud Gullit und Frank Rijkaard war er Milans Mittelfeldstratege, der auch in der Lage war, den öffnenden Pass auf die 9️⃣  zu spielen. Van Basten’s Killerinstinkt besorgte danach den Rest. Als Trainer hat Ancelotti alles gewonnen was es zu gewinnen gibt. Dauernörgler sind der Meinung, dass er seine grossen Erfolge nur dank seiner Super-Stars bewerkstelligen konnte. Das mag bis zu einem gewissen Punkt stimmen, doch seine menschlichen Qualitäten machten jeweils den Unterschied Aus. Mimöschen bei Laune zu halten ist ein schwieriges Unterfangen.
+Neija! Mit Betonung auf das Negative! 
+
+Er gilt als ausgeglichener Zampano der es besonders gut mit den Superstars kann. Fragen sie Kroos, Kaka oder Ronaldo! Die Antwort ist stets dieselbe! Carlo ist einzigartig! Nur wenn seine linke Augenbraue viel höher steht als die rechte ist mit ihm nicht gut Kirschen essen.
+
+Aufzählungen allein werden ihm nicht gerecht. Da war der Spieler mit der  Rückennummer 8️⃣ der sowohl defensiv wie offensiv Akzente setzte. An der Seite von Ruud Gullit und Frank Rijkaard war er Milans Mittelfeldmotor, der auch in der Lage war, den öffnenden Pass auf die 9️⃣  zu spielen. Van Basten’s Killerinstinkt besorgte danach den Rest. Als Trainer hat Ancelotti alles gewonnen was es zu gewinnen gibt. Nur bei Juve und Napoli ist er gescheitert.
 
 Diese einzigartige Kombination aus Trainer und Mensch muss den Ausschlag gegeben haben, dass sich der brasilianische Verband dazu durchringen konnte, einen Auswärtigen für die anstehende Expedition  zu gewinnen. Nun stellt sich nur noch die Frage ob Carlo das Zeug dazu hat, in die Schuhe eines Nati-Trainers zu schlüpfen. Denn von Recife bis nach Manaus zählt nur eines! WM-Titel Nummer 6!
 
