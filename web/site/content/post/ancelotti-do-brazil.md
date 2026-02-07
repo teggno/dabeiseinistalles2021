@@ -8,7 +8,7 @@ Neija….! Mit leichter Tendenz ins Negative!
 
 Fragen sie Nesta, Kaka oder Ronaldo! Die Anwort wird stets dieselbe sein. Un galantuomo! Zuerst der Mensch und dann der Trainer! Besonnen, vermittelnd, ausgeglichen. Boss und Kumpel zugleich. Nur wenn seine linke Augenbraue viel höher steht als die rechte, ist mit ihm nicht gut Kirschen essen.
 
-Aufzählungen allein werden ihm nicht gerecht. Da war der Spieler mit der  Rückennummer 8️⃣ der sowohl defensiv wie offensiv Akzente setzte. An der Seite von Ruud Gullit und Frank Rijkaard war er Milans Mittelfeldmotor, der auch in der Lage war, den öffnenden Pass auf die 9️⃣  zu spielen.Mit Marco van Basten hatte er den genialen Abnehmer in seinen Reihen. 
+Aufzählungen allein werden ihm nicht gerecht. Da war der Spieler mit der  Rückennummer 8 der sowohl defensiv wie offensiv Akzente setzte. An der Seite von Frank Rijkaard und Ruud Gullit war er Milans Mittelfeldmotor, der auch in der Lage war, den öffnenden Pass auf die 9 zu spielen. Mit Marco van Basten hatte er den genialen Abnehmer in seinen Reihen. 
 
 Diese Kombination aus Fachwissen und Menschenkenntnis muss den Ausschlag gegeben haben, dass sich der brasilianische Verband dazu durchringen konnte, einen Auswärtigen für die anstehende Mammutsaufgabe „WM-Titel Nr. 6“ zu gewinnen. Von Recife bis Manaus steht seither die Frage im Raum. Ist Carlo Ancelotti der richtige Mann?
 
