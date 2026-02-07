@@ -8,7 +8,7 @@ Fragen sie Nesta, Zidane oder Ronaldo! Die Antwort wird stets dieselbe sein. Un 
 
 Aufzählungen allein werden ihm nicht gerecht. Da war der Spieler Ancelotti mit der  Rückennummer 8, der sowohl defensiv wie offensiv Akzente setzte. An der Seite von Frank Rijkaard und Ruud Gullit war er Milans Mittelfeldmotor, der auch in der Lage war, den öffnenden Pass auf die 9 zu spielen. Mit Marco van Basten hatte er den genialen Abnehmer in seinen Reihen. Und da ist der Trainer Ancelotti, der so ziemlich alles gewonnen hat, was es zu gewinnen gibt.
 
-Fachkompetenz und Menschenkenntnis dürften den Ausschlag gegeben haben, dass sich der brasilianische Verband dazu durchringen konnte, einen Auswärtigen für die anstehende Mammutaufgabe „WM-Titel Nr. 6“ zu gewinnen. Von Recife bis Manaus steht seither die Frage im Raum. Ist Carlo Ancelotti der Richtige?
+Menschenkenntnis und Fachkompetenz dürften den Ausschlag gegeben haben, dass sich der brasilianische Verband dazu durchringen konnte, einen Auswärtigen für die anstehende Mammutaufgabe „WM-Titel Nr. 6“ zu gewinnen. Von Recife bis Manaus steht seither die Frage im Raum. Ist Carlo Ancelotti der Richtige?
 
 Brasiliens letzter Höhenflug liegt weit zurück. Namen wie Ronaldinho, Cafu und „Ronaldo das Original“ prägten 2002 die Selecao! Von diesen brillanten Pensionären spricht man heute noch. Weit weniger Aha-Effekte erzeugen die jetzigen Vetreter! Mit Ausnahme von Allison und Vinicius ist viel “ewiges Talent“ dabei. Einzig Schwalbenkönig Neymar könnte die Lethargie durchbrechen. Doch die vielen Wehwehchen stehen ihm im Weg.
 
