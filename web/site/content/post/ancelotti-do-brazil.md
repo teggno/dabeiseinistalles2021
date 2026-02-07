@@ -4,8 +4,6 @@ draft: true
 date: 2026-01-19T15:31:42.059Z
 image: img/img_0008.jpeg
 ---
-Neija….! Mit leichter Tendenz ins Negative!
-
 Fragen sie Nesta, Kaka oder Ronaldo! Die Anwort wird stets dieselbe sein. Un galantuomo! Zuerst der Mensch und dann der Trainer! Besonnen, vermittelnd, ausgeglichen. Boss und Kumpel zugleich. Nur wenn seine linke Augenbraue viel höher steht als die rechte, ist mit ihm nicht gut Kirschen essen.
 
 Aufzählungen allein werden ihm nicht gerecht. Da war der Spieler mit der  Rückennummer 8, der sowohl defensiv wie offensiv Akzente setzte. An der Seite von Frank Rijkaard und Ruud Gullit war er Milans Mittelfeldmotor, der auch in der Lage war, den öffnenden Pass auf die 9 zu spielen. Mit Marco van Basten hatte er den genialen Abnehmer in seinen Reihen. 
