@@ -4,9 +4,9 @@ draft: true
 date: 2026-01-19T15:31:42.059Z
 image: img/img_0008.jpeg
 ---
-Neija….! Mit Betonung auf das Negative! 
+Neija….! Mit leichter Tendenz ins Negative!
 
-Er gilt als ruhender Pol, der es besonders gut mit den Superstars kann. Fragen sie Kroos, Kaka oder Ronaldo! Die Antwort ist stets dieselbe! Carlo ist einzigartig! Als Trainer und Mensch. Nur wenn seine linke Augenbraue viel höher steht als die rechte ist mit ihm nicht gut Kirschen essen.
+Fragen sie Nesta, Kaka oder Ronaldo! Die Anwort wird stets dieselbe sein. Un galantuomo! Zuerst der Mensch und dann der Trainer! Besonnen, vermittelnd, ausgeglichen. Boss und Kumpel zugleih. Ancelotti wirdEr gilt als ruhender Pol, der es besonders gut mit den Superstars kann. Fragen sie Kroos, Kaka oder Ronaldo! Die Antwort ist stets dieselbe! Carlo ist einzigartig! Als Trainer und Mensch. Nur wenn seine linke Augenbraue viel höher steht als die rechte ist mit ihm nicht gut Kirschen essen.
 
 Aufzählungen allein werden ihm nicht gerecht. Da war der Spieler mit der  Rückennummer 8️⃣ der sowohl defensiv wie offensiv Akzente setzte. An der Seite von Ruud Gullit und Frank Rijkaard war er Milans Mittelfeldmotor, der auch in der Lage war, den öffnenden Pass auf die 9️⃣  zu spielen.Mit Marco van Basten hatte er den genialen Abnehmer in seinen Reihen. 
 
