@@ -8,7 +8,7 @@ Neija….! Mit Betonung auf das Negative!
 
 Er gilt als ruhender Pol, der es besonders gut mit den Superstars kann. Fragen sie Kroos, Kaka oder Ronaldo! Die Antwort ist stets dieselbe! Carlo ist einzigartig! Als Trainer und Mensch. Nur wenn seine linke Augenbraue viel höher steht als die rechte ist mit ihm nicht gut Kirschen essen.
 
-Aufzählungen allein werden ihm nicht gerecht. Da war der Spieler mit der  Rückennummer 8️⃣ der sowohl defensiv wie offensiv Akzente setzte. An der Seite von Ruud Gullit und Frank Rijkaard war er Milans Mittelfeldmotor, der auch in der Lage war, den öffnenden Pass auf die 9️⃣  zu spielen.Mit Marco van Basten hatte er den genialen Abnehmer in seinen Reihen. Als Trainer hat Ancelotti alles gewonnen was es zu gewinnen gibt. Nur bei Juve und Napoli ist er gescheitert.
+Aufzählungen allein werden ihm nicht gerecht. Da war der Spieler mit der  Rückennummer 8️⃣ der sowohl defensiv wie offensiv Akzente setzte. An der Seite von Ruud Gullit und Frank Rijkaard war er Milans Mittelfeldmotor, der auch in der Lage war, den öffnenden Pass auf die 9️⃣  zu spielen.Mit Marco van Basten hatte er den genialen Abnehmer in seinen Reihen. 
 
 Diese Kombination aus Fachwissen und Menschenkenntnis muss den Ausschlag gegeben haben, dass sich der brasilianische Verband dazu durchringen konnte, einen Auswärtigen für die anstehende Expedition  zu gewinnen. Nun stellt sich nur noch die Frage ob Carlo das Zeug dazu hat, in die Schuhe eines Nati-Trainers zu schlüpfen. Denn von Recife bis nach Manaus zählt nur eines! WM-Titel Nummer 6!
 
