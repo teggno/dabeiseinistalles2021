@@ -26,7 +26,7 @@ BVU: Und Mister Spalletti?
 
 OVT: Lucianos Spielkultur ist nicht zu übersehen. Fast noch filigraner sind seine Statements. Die Pressekonferenzen zerpflücken jedes Detail. Nur schade dass sein immenser Aufwand zu solch mickrigen Erträgen führt.
 
-BVU: Zum Schluss ein Blick in die Zukunft! Wie sähe ihr Wunschteam aus, wenn ihnen John Elkann ein paar Dollar locker machen würde?
+BVU: Zum Schluss ein Blick in die Glaskugel! Wie sähe ihr Wunschteam aus, wenn ihnen John Elkann ein paar Dollar locker machen würde?
 
 OVT: Da hab ich schon die Qual der Wahl! Barbüz oder Zac? Einigen wir uns auf je eine Halbzeit. Die restlichen 3 sind gesetzt! Bobetto hinten rechts! Chiavescelle kriegt die 10 und Türbett „rackert“ am Flügel. Die glorreichen 7 die dieses eingespielte Quartett ergänzen dürfen, stehen schon erwartungsvoll an der Linie. Geben wir ihnen ein Gesicht und schicken die Elf aufs Feld:  Barbüz/Zac; Bobetto, Gleison Bremer, Virgil Van Dyk, Nuno Mendes, Barella, Chiavescelle, Thuram; Türbett, Haaland, Mbappé.
 
