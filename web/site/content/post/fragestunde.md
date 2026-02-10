@@ -6,7 +6,7 @@ image: img/img_0012.jpeg
 ---
 Zweifel kommen auf! Ausgerechnet jetzt, da Juve’s sportliche Zukunft auf dem Spiel steht. Aus diesem Grund wollte sich der Bote vom Untersee die Chance nicht entgehen lassen und bat das ortsansässige Orakel zu einem ausführlichen Interview.
 
-BVU: Juve hat in den letzten Wochen den Scudetto in drei Akten liegenlassen. Lecce, Cagliari und Lazio brachten lediglich 2 Punkte ein. Haben Sie eine Erklärung?
+BVU: Juve hat in den letzten Wochen den Scudetto in drei Akten verspielt. Lecce, Cagliari und Lazio brachten lediglich zwei Punkte ein. Haben Sie eine Erklärung?
 
 OVT: Nebst all den Problemen, die sich in letzter Zeit aufgetürmt haben, zwickt es uns vor allem im Abschlussbereich. Wir haben Stürmer die diesen Namen in den Dreck ziehen. Vlahovic, David und Openda sind ihr Geld nicht wert. Wer sie geholt hat, wird früher oder später Rechenschaft ablegen müssen.
 
