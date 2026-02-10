@@ -1,5 +1,5 @@
 ---
-title: "Fragestunde "
+title: Z
 draft: true
 date: 2026-02-10T05:16:05.812Z
 ---
@@ -15,8 +15,8 @@ OVT: Mit Koopmeiners, Thuram und speziell Locatelli, haben wir drei Mittelfeldsp
 
 Sie malen ein düsteres Bild, wo sehen sie die Bianconeri zum Schluss?
 
-OVT: Nachdem Algorithmus-Papst Comolli mit seiner Einkaufspolitik kläglich gescheitert ist, sehe ich schwarz! Inter, Milan, Neapel, Rom und Como werden am Ende vor uns sein. Und auch in der CL ist nach den Playoffs Lichterlöschen.
+OVT: Nachdem Algorithmus-Papst Comolli mit seiner Einkaufspolitik kläglich gescheitert ist, sehe ich schwarz! Inter, Milan, Neapel, Rom und Como werden am Ende vor uns sein. Und auch in der CL bleibt nach den Playoffs nur das Lichterlöschen.
 
 Und Mister Spalletti?
 
-Luciano, das muss man ihm lassen, hat eine neue Spielkultur entwickelt. Doch für seine Ideen fehlt ihm das Material. Mit einem mittelmässigen Torhüter, einem stotternden Mittelfelmotor
+Luciano, das muss man ihm lassen, hat eine neue Spielkultur entwickelt. Viel Aufwand und null Ertrag! Für seine Ideen fehlt ihm schlicht und einfach das Material. Mit einem mittelmässigen Torhüter, einem stotternden Mittelfelmotor und drei Chan
