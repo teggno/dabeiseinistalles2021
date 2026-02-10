@@ -12,7 +12,7 @@ OVT: Nebst all den Problemen, die sich in letzter Zeit aufgetürmt haben, zwickt
 
 BVU: Liegt es nur am Angriff oder spielen andere Faktoren mit rein?
 
-OVT: Mit Koopmeiners, Thuram und speziell Locatelli stehen uns drei Mittelfeldspieler zur Verfügung die mit Schüssen aus der zweiten Reihe meistens das Tribünendach anvisieren. Man fragt sich was die Jungs im Training üben. Auch unsere Aussen stehen mit dem Einnetzen auf Kriegsfuss! Von Conceicao und Zhegrova kommt rein gar nichts, Cambiaso fa piangere. Zum Glück sind Yldiz und McKennie noch da 
+OVT: Mit Koopmeiners, Thuram und speziell Locatelli stehen uns drei Mittelfeldspieler zur Verfügung die beim Einlochen null Feeling entwickeln. Ersparen sie mir an dieser Stelle einen passenden Vergleich ☺️ mit Schüssen aus der zweiten Reihe meistens das Tribünendach anvisieren. Man fragt sich was die Jungs im Training üben. Auch unsere Aussen stehen mit dem Einnetzen auf Kriegsfuss! Von Conceicao und Zhegrova kommt rein gar nichts, Cambiaso fa piangere. Zum Glück sind Yldiz und McKennie noch da 
 
 Sie malen ein düsteres Bild, wo sehen sie die Bianconeri zum Schluss?
 
