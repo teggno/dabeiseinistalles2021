@@ -8,7 +8,7 @@ Manchmal wenn ich nachts nicht schlafen kann, überkommt mich das Verlangen „E
 
 Gordon Banks; George Cohen, Bobby Moore, Jack Charlton, Ray Wilson; Alan Ball, Nobby Stiles, Bobby Charlton, Martin Peters; Geoff Hurst und Roger Hunt.
 
-Das Schicksal wollte es so, dass 60 Jahre danach nur noch einer der einst Geadelten am Leben ist: Sir Geoff Hurst! Ihm war es vergönnt, im Finale dreimal das Leder in den Maschen zu versenken. Dank seines unvergessenen „Wembley-Tores“ war er lebenslänglich mit der Frage konfrontiert, ob der Ball nun vor oder hinter der Linie aufgesprungen war. „Yes, I‘am sure, die Kugel war drin“, hat er stets zu Protokoll gegeben. Sie war es nicht, wie sich Jahre später dank modernster Technik herausstellen sollte.
+Das Schicksal wollte es so, dass 60 Jahre danach nur noch einer der einst Geadelten am Leben ist: Sir Geoff Hurst! Ihm war es vergönnt, im Finale das Leder dreimal in den Maschen zu versenken. Dank seines unvergessenen „Wembley-Tores“ war er lebenslänglich mit der Frage konfrontiert, ob der Ball nun vor oder hinter der Linie aufgesprungen war. „Yes, I‘am sure, die Kugel war drin“, hat er stets zu Protokoll gegeben. Sie war es nicht, wie sich Jahre später dank modernster Technik herausstellen sollte.
 
 An dieser fussballhistorisch bedeutsamen Stelle muss es selbstverständlich Pflicht sein, auf den Bruch deutsch/schweizer Beziehungen hinzuweisen. Schuld an den Zwistigkeiten war der helvetische Schiedsrichter Gottfried Dienst, der sich vom sowjetische Linesman Tofik Bahramov zur Anerkennung des Tores überreden liess. Deutschlands Torhüter Hans Tilkowski verstand die Welt nicht mehr. England führte 3:2! Am Ende hiess es 4:2! England war Weltmeister.
 
