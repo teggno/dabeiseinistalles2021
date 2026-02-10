@@ -26,6 +26,8 @@ BVU: Und Mister Spalletti?
 
 OVT: Lucianos Spielkultur ist nicht zu übersehen. Das muss man ihm lassen Für seine Ideen fehlt ihm allerdings das nötige Material. Mit 0815 gewinnt selbst Guardiola keinen Blumentopf.
 
-BVU: Zum Schluss ein Blick in die Zukunft! Wie sähe ihr Wunschteam aus, wenn ihnen John Elkann ein paar Dollars zur Verfügung stellen würde?
+BVU: Zum Schluss ein Blick in die Zukunft! Wie sähe ihr Wunschteam aus, wenn ihnen John Elkann ein paar Dollar locker machen würde?
 
-OVT: Da stellt sich schon das erste Problem! Die Qual der Wahl! Barbüz oder Zac? Einigen wir uns auf je eine Halbzeit. Die restlichen 3 sind gesetzt! Bobetto hinten rechts! Chiavescelle kriegt die 10 und Türbett „rackert“ am Flügel. Die glorreichen 7 die die Truppe ergänzen dürfen, spielen in dieser Konstellation eine untergeordnete Rolle. Trotz allem geben wir ihnen ein Gesicht. Nuno Mendes, Gleison Bremer
+OVT: Da hab ich schon die Qual der Wahl! Barbüz oder Zac? Einigen wir uns auf je eine Halbzeit. Die restlichen 3 sind gesetzt! Bobetto hinten rechts! Chiavescelle kriegt die 10 und Türbett „rackert“ am Flügel. Die glorreichen 7 die dieses eingespielte Quartett ergänzen dürfen, stehen schon erwartungsvoll an der Linie. Geben wir ihnen ein Gesicht und schicken die Elf aufs Feld:  Barbüz/Zac; Bobetto, Gleison Bremer, Virgil Van Dyk, Nuno Mendes, Barella, Chiavescelle, Thuram; Türbett, Haaland, Mbappé.
+
+Danke für das Gespräch
