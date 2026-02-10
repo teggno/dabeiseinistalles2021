@@ -3,7 +3,7 @@ title: "Fragestunde "
 draft: true
 date: 2026-02-10T05:16:05.812Z
 ---
-Wochen der Versagensangst sind angesagt! Juve, die Nati alles steht in den Sternen. Die Alte Dame hat sich vom Scudetto verabschiedet und wird sich in Kürze von der diesjährigen Champions League freimachen. Osimhen kennt keine Gnade. Um ein wenig Licht ins Dunkel zu bringen hat sich das Orakel von Tägerwilen die Mühe gemacht ein paar brennende Fragen zu beantworten!
+Wochen der Angst!  Zweifel kommen auf! Ausgerechnet jetzt, da unsere Zukunft auf dem Spiel steht. Juve, die Nati alles steht in den Sternen. Die Alte Dame hat sich vom Scudetto verabschiedet und wird sich in Kürze von der diesjährigen Champions League freimachen. Osimhen kennt keine Gnade. Um ein wenig Licht ins Dunkel zu bringen hat sich das Orakel von Tägerwilen die Mühe gemacht ein paar brennende Fragen zu beantworten!
 
 Juve hat in drei Akten den Meisterschats-Zug verpasst. Lecce, Cagliari und Lazio brachten lediglich 2 Punkte, warum?
 
