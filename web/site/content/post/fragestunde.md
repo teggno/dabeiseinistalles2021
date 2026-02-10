@@ -1,0 +1,22 @@
+---
+title: "Fragestunde "
+draft: true
+date: 2026-02-10T05:16:05.812Z
+---
+Wochen der Versagensangst sind angesagt! Juve, die Nati alles steht in den Sternen. Die Alte Dame hat sich vom Scudetto verabschiedet und wird sich in Kürze von der diesjährigen Champions League freimachen. Osimhen kennt keine Gnade. Um ein wenig Licht ins Dunkel zu bringen hat sich das Orakel von Tägerwilen die Mühe gemacht ein paar brennende Fragen zu beantworten!
+
+Juve hat in drei Akten den Meisterschats-Zug verpasst. Lecce, Cagliari und Lazio brachten lediglich 2 Punkte, warum?
+
+OVT: Wir haben Stürmer die diesen Namen in den Dreck ziehen. Vlahovic, David und Openda sind ihr Geld nicht wert. Wer sie geholt hat, wird früher oder später Rechenschaft ablegen müssen.
+
+Liegt es nur am Angriff oder spielen andere Faktoren mit rein?
+
+OVT: Mit Koopmeiners, Thuram und speziell Locatelli, haben wir drei Mittelfeldspieler die mit Weitschüssen meistens das Tribünendach anvisieren. Man fragt sich was die Jungs im Training üben. Auch unsere Aussen stehen mit dem Einnetzen auf Kriegsfuss! Von Conceicao und Zhegrova kommt gar nichts, Cambiaso fa piangere. Zum Glück sind Yldiz und McKennie noch da 
+
+Sie malen ein düsteres Bild, wo sehen sie die Bianconeri zum Schluss?
+
+OVT: Nachdem Algorithmus-Papst Comolli mit seiner Einkaufspolitik kläglich gescheitert ist, sehe ich schwarz! Inter, Milan, Neapel, Rom und Como werden am Ende vor uns sein. Und auch in der CL ist nach den Playoffs Lichterlöschen.
+
+Und Mister Spalletti?
+
+Luciano, das muss man ihm lassen, hat eine neue Spielkultur entwickelt. Doch für seine Ideen fehlt ihm das Material. Mit einem mittelmässigen Torhüter, einem stotternden Mittelfelmotor
