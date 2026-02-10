@@ -18,7 +18,7 @@ BVU: Sie malen ein düsteres Bild! Wo sehen sie die Bianconeri am Ende der Saiso
 
 OVT: Nachdem Algorithmus-Papst Damien Comolli mit seiner Einkaufspolitik kläglich gescheitert ist, sehe ich schwarz! Inter, Milan, Neapel, Rom und Como werden Ende Mai vor uns klassiert sein.
 
-BVU: Bleibt noch die Champions League?
+BVU: Bleibt noch die Champions League!?
 
 OVT: Im Normalfall müsste man gegen Galatasaray optimistisch sein. Mit Osimhen anstelle der drei Chancenversieber wäre Juve fürs Achtelfinale gesetzt. Doch Viktor spielt leider beim Gegner!
 
