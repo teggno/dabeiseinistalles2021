@@ -4,7 +4,7 @@ draft: false
 date: 2026-02-10T05:16:05.812Z
 image: img/img_0012.jpeg
 ---
-Zweifel kommen auf! Ausgerechnet jetzt, da Juve’s sportliche Zukunft auf dem Spiel steht. Aus diesem Grund wollte sich der „Bote vom Untersee“ die Chance nicht entgehen lassen und bat das Orakel von Tägerwilen zu einem ausführlichen Interview.
+Zweifel kommen auf! Ausgerechnet jetzt, da Juve’s sportliche Zukunft auf dem Spiel steht. Aus diesem Grund wollte sich der „Bote vom Untersee“ die Chance nicht entgehen lassen und bat das Orakel von Tägerwilen zu einem ausführlichen Gespräch.
 
 BVU: Juve hat in den letzten Wochen den Scudetto in drei Akten vergeigt. Lecce, Cagliari und Lazio brachten lediglich zwei Punkte ein. Haben Sie eine Erklärung?
 
