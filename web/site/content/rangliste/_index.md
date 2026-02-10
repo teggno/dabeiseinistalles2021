@@ -12,7 +12,7 @@ placeholder: "
   \ "
 song:
   title: "RAFFI‘S JUKEBOX  🎸    "
-  url: ""
+  url: https://www.youtube.com/watch?v=KQetemT1sWc&list=RDKQetemT1sWc&start_radio=1&pp=ygUaeW91dHViZSBoZXJlIGNvbWVzIHRoZSBzdW6gBwE%3D
   image: img/img_0637.jpeg
   description: >+
     Wer hätte die WM 2026 besser eröffnen können als die unsterblichen FAB FOUR.
@@ -35,7 +35,6 @@ song:
 
 
 
-    WERBUNG
 
 
 
