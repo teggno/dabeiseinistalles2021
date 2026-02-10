@@ -8,7 +8,7 @@ Zweifel kommen auf! Ausgerechnet jetzt, da Juve’s sportliche Zukunft auf dem S
 
 BVU: Juve hat in den letzten Wochen den Scudetto in drei Akten verspielt. Lecce, Cagliari und Lazio brachten lediglich zwei Punkte ein. Haben Sie eine Erklärung?
 
-OVT: Nebst all den Problemen, die sich in letzter Zeit aufgetürmt haben, zwickt es die Alte Dame vor allem im Abschlussbereich. Da gurken Stürmer herum die diesen Namen in den Dreck ziehen. David, Openda und Vlahovic sind ihr Geld nicht wert. Wer sie geholt hat, wird früher oder später Rechenschaft ablegen müssen.
+OVT: Nebst all den Problemen, die sich in letzter Zeit aufgetürmt haben, zwickt es die Alte Dame vor allem im Abschlussbereich. Da gurken Stürmer herum, die diesen Namen in den Dreck ziehen. David, Openda und Vlahovic sind ihr Geld nicht wert. Wer sie geholt hat, wird früher oder später Rechenschaft ablegen müssen.
 
 BVU: Liegt es nur am Angriff oder spielen andere Faktoren mit rein?
 
