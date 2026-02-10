@@ -30,7 +30,7 @@ BVU: Zum Schluss noch ein Blick in die Glaskugel! Wie sähe ihr Wunschteam für 
 
 OVT: Da hab ich gleich die Qual der Wahl! Barbüz oder Zac? Einigen wir uns auf je eine Halbzeit. Die restlichen 3 sind gesetzt! Bobetto als Beckenbauer 🥲! Chiavescelle kriegt die 10 und Türbett „rackert“ am Flügel. Die glücklichen 7 die dieses memorable Quartett ergänzen dürfen, stehen schon erwartungsvoll an der Linie. Geben wir ihnen ein Gesicht und schicken die Elf aufs Feld:  Barbüz/Zac; Hakimi, Bobetto, Bremer, Nuno Mendes; Barella, Chiavescelle, Pedri; Türbett, Haaland, Mbappé.
 
-BVU: Das sind ja 10 Neue!?
+BVU: Das sind ja 10 Neue 🙈🙈🙈
 
 OVT: Proprio cosi! Fa male all‘ cuore ❤️ Aber leider ist es die Realität!
 
