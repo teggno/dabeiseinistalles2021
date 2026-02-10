@@ -8,7 +8,7 @@ Zweifel kommen auf! Ausgerechnet jetzt, da Juve’s sportliche Zukunft auf dem S
 
 BVU: Juve hat in den letzten Wochen den Scudetto in drei Akten verspielt. Lecce, Cagliari und Lazio brachten lediglich zwei Punkte ein. Haben Sie eine Erklärung?
 
-OVT: Nebst all den Problemen, die sich in letzter Zeit aufgetürmt haben, zwickt es die Alte Dame vor allem im Abschlussbereich. Da tummeln sich Stürmer die diesen Namen in den Dreck ziehen. David, Openda und Vlahovic sind ihr Geld nicht wert. Wer sie geholt hat, wird früher oder später Rechenschaft ablegen müssen.
+OVT: Nebst all den Problemen, die sich in letzter Zeit aufgetürmt haben, zwickt es die Alte Dame vor allem im Abschlussbereich. Da gurken Stürmer herum die diesen Namen in den Dreck ziehen. David, Openda und Vlahovic sind ihr Geld nicht wert. Wer sie geholt hat, wird früher oder später Rechenschaft ablegen müssen.
 
 BVU: Liegt es nur am Angriff oder spielen andere Faktoren mit rein?
 
@@ -24,4 +24,8 @@ OVT: Im Normalfall müsste man optimistisch sein. Mit Osimhen anstelle der drei 
 
 BVU: Und Mister Spalletti?
 
-OVT: Luciano, das muss man ihm lassen, hat eine neue Spielkultur entwickelt. Viel Aufwand und null Ertrag! Für seine Ideen fehlt ihm schlicht und einfach das Material. Mit einem mittelmässigen Torhüter, einem stotternden Mittelfelmotor und drei Chan
+OVT: Lucianos Spielkultur ist nicht zu übersehen. Das muss man ihm lassen Für seine Ideen fehlt ihm allerdings das nötige Material. Mit 0815 gewinnt selbst Guardiola keinen Blumentopf.
+
+BVU: Zum Schluss ein Blick in die Zukunft! Wie sähe ihr Wunschteam aus, wenn ihnen John Elkann ein paar Dollars zur Verfügung stellen würde?
+
+OVT: Da stellt sich schon das erste Problem! Die Qual der Wahl! Barbüz oder Zac? Einigen wir uns auf je eine Halbzeit. Die restlichen 3 sind gesetzt! Bobetto hinten rechts! Chiavescelle kriegt die 10 und Türbett „rackert“ am Flügel. Die glorreichen 7 die die Truppe ergänzen dürfen, spielen in dieser Konstellation eine untergeordnete Rolle. Trotz allem geben wir ihnen ein Gesicht.
