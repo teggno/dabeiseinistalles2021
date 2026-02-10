@@ -10,7 +10,7 @@ BVU: Juve hat in drei Akten den Scudetto liegenlassen. Lecce, Cagliari und Lazio
 
 OVT: Nebst all den Problemen, die sich in letzter Zeit aufgetürmt haben, zwickt es uns vor allem im Abschlussbereich. Wir haben Stürmer die diesen Namen in den Dreck ziehen. Vlahovic, David und Openda sind ihr Geld nicht wert. Wer sie geholt hat, wird früher oder später Rechenschaft ablegen müssen.
 
-Liegt es nur am Angriff oder spielen andere Faktoren mit rein?
+BVU: Liegt es nur am Angriff oder spielen andere Faktoren mit rein?
 
 OVT: Mit Koopmeiners, Thuram und speziell Locatelli, haben wir drei Mittelfeldspieler die mit Weitschüssen meistens das Tribünendach anvisieren. Man fragt sich was die Jungs im Training üben. Auch unsere Aussen stehen mit dem Einnetzen auf Kriegsfuss! Von Conceicao und Zhegrova kommt gar nichts, Cambiaso fa piangere. Zum Glück sind Yldiz und McKennie noch da 
 
