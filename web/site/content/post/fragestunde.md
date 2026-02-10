@@ -14,7 +14,7 @@ BVU: Liegt es nur am Angriff oder spielen andere Faktoren mit rein?
 
 OVT: Mit Koopmeiners, Thuram und speziell Locatelli stehen uns drei Mittelfeldspieler zur Verfügung die beim Einlochen null Feeling entwickeln. Ersparen sie mir an dieser Stelle einen ähnlichen Vergleich ☺️ Mit Schüssen aus der zweiten Reihe gelingt es ihnen regelmässig das Tribünendach anzuviseren, doch in die Spalte treffen sie nie. Auch unsere Aussen stehen mit dem Einnetzen auf Kriegsfuss! Von Conceicao und Zhegrova kommt rein gar nichts, Cambiaso fa piangere. Zum Glück sind  im Notfall Yldiz und McKennie noch da.
 
-BVU: Sie malen ein düsteres Bild! wo sehen sie die Bianconeri am Schluss der Saison?
+BVU: Sie malen ein düsteres Bild! Wo sehen sie die Bianconeri am Schluss der Saison?
 
 OVT: Nachdem Algorithmus-Papst Damien Comolli mit seiner Einkaufspolitik kläglich gescheitert ist, sehe ich schwarz! Inter, Milan, Neapel, Rom und Como werden Ende Mai vor uns klassiert sein.
 
