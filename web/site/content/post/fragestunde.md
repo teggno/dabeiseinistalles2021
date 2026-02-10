@@ -1,6 +1,6 @@
 ---
 title: Versagensängste
-draft: true
+draft: false
 date: 2026-02-10T05:16:05.812Z
 image: img/img_0012.jpeg
 ---
