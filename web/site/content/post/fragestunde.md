@@ -26,14 +26,12 @@ BVU: Und Mister Spalletti?
 
 OVT: Lucianos Spielkultur ist nicht zu übersehen. Fast noch filigraner sind seine Statements. Die Pressekonferenzen zerpflücken jedes Detail. Nur schade dass sein immenser Aufwand zu solch mickrigen Erträgen führt.
 
-BVU: Zum Schluss ein Blick in die Glaskugel! Wie sähe ihr Wunschteam aus, wenn John Elkann ein paar weitere Dollars locker machen würde?
+BVU: Zum Schluss noch ein Blick in die Glaskugel! Wie sähe ihr Wunschteam für die Zukunft aus, wenn John Elkann ein paar weitere Dollars locker machen würde?
 
 OVT: Da hab ich gleich die Qual der Wahl! Barbüz oder Zac? Einigen wir uns auf je eine Halbzeit. Die restlichen 3 sind gesetzt! Bobetto als Beckenbauer 🥲! Chiavescelle kriegt die 10 und Türbett „rackert“ am Flügel. Die glücklichen 7 die dieses memorable Quartett ergänzen dürfen, stehen schon erwartungsvoll an der Linie. Geben wir ihnen ein Gesicht und schicken die Elf aufs Feld:  Barbüz/Zac; Hakimi, Bobetto, Bremer, Nuno Mendes; Barella, Chiavescelle, Pedri; Türbett, Haaland, Mbappé.
 
 BVU: Das sind ja 10 Neue!?
 
 OVT: Proprio cosi! Fa male all‘ cuore ❤️ Aber leider ist es die Realität!
-
-
 
 Danke für das Gespräch 🥳
