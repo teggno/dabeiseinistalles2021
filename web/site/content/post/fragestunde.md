@@ -32,7 +32,7 @@ OVT: Da hab ich gleich die Qual der Wahl! Barbüz oder Zac? Einigen wir uns auf 
 
 BVU: Das sind ja 10 Neue!?
 
-OVT: Proprio cosi! Fa male all‘ cuore ❤️ Aber leider ist es die Realitä!
+OVT: Proprio cosi! Fa male all‘ cuore ❤️ Aber leider ist es die Realität!
 
 
 
