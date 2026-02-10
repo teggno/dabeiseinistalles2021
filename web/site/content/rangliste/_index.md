@@ -22,7 +22,7 @@ song:
     habe.
 
 
-    Hier kommt er geflogen, der, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Kleiner Liebling, es war ein langer, kalter und einsamer Winter. Kleiner Liebling, es scheint, es wäre Jahre her, seitdem du dich zum letzten Mal blicken liesst. Hier kommt der Fussball, hier kommt er und alles ist in bester Ordnung. Mein kleiner Schatz, das Lächeln kehrt zurück auf unsere Gesichter. Kleiner Liebling, wo hast du dich nur so lange rumgetrieben. Hier kommt der Fussball und mit ihm die Sonne und alles ist in bester Ordnung.
+    Hier kommt er geflogen, der, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Kleiner Liebling, es war ein langer, kalter und einsamer Winter. Mein kleiner Schatz, es scheint, es wäre Jahre her, seitdem du dich zum letzten Mal blicken liesst. Hier kommt der Fussball, hier kommt er und alles ist in bester Ordnung. Mein kleiner Schatz, das Lächeln kehrt zurück auf unsere Gesichter. Kleiner Liebling, wo hast du dich nur rumgetrieben. Hier kommt der Fussball und mit ihm die Sonne und alles ist in bester Ordnung.
 
 
     Fussball, Sonne, Fussball, hier kommen sie.
