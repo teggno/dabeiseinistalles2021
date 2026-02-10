@@ -10,7 +10,7 @@ BVU: Juve hat in den letzten Wochen den Scudetto in drei Akten vergeigt. Lecce, 
 
 OVT: Nebst all den Problemen, die sich in letzter Zeit aufgetürmt haben, zwickt es die Alte Dame vor allem im Abschlussbereich. Da gurken Stürmer herum, die diesen Namen in den Dreck ziehen. David, Openda und Vlahovic sind ihr Geld nicht wert. Wer sie geholt hat, wird früher oder später Rechenschaft ablegen müssen.
 
-BVU: Liegt es nur am Angriff oder spielen andere Faktoren mit rein?
+BVU: Liegt es nur am Angriff oder spielen andere Faktoren mit hinein?
 
 OVT: Mit Koopmeiners, Thuram und Locatelli stehen uns drei Mittelfeldspieler zur Verfügung die beim Einlochen null Feeling entwickeln. Ersparen sie mir an dieser Stelle einen ähnlichen Vergleich ☺️ Mit Schüssen aus der zweiten Reihe gelingt es ihnen regelmässig das Tribünendach anzuviseren, doch in die Spalte treffen sie nie. Auch unsere Aussen stehen mit dem Einnetzen auf Kriegsfuss! Von Zhegrova und Conceicao kommt gar nichts, Cambiaso fa piangere! Zum Glück sind  im Notfall Yldiz und McKennie noch da.
 
