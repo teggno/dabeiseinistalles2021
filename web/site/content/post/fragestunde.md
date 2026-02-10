@@ -24,7 +24,7 @@ OVT: Im Normalfall müsste man optimistisch sein. Mit Osimhen anstelle der drei 
 
 BVU: Und Mister Spalletti?
 
-OVT: Lucianos Spielkultur ist nicht zu übersehen. Das muss man ihm lassen Für seine Ideen fehlt ihm allerdings das nötige Material. Mit 0815 gewinnt selbst Guardiola keinen Blumentopf.
+OVT: Lucianos Spielkultur ist nicht zu übersehen. Fast noch filigraner sind seine Statements. Die Pressekonferenzen zerpflücken jedes Detail. Nur schade dass sein immenser Aufwand zu solch mickrigen Erträgen führt.
 
 BVU: Zum Schluss ein Blick in die Zukunft! Wie sähe ihr Wunschteam aus, wenn ihnen John Elkann ein paar Dollar locker machen würde?
 
