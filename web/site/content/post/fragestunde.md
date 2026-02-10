@@ -6,7 +6,7 @@ image: img/img_0012.jpeg
 ---
 Zweifel kommen auf! Ausgerechnet jetzt, da Juve’s sportliche Zukunft auf dem Spiel steht. Aus diesem Grund wollte sich der Bote vom Untersee die Chance nicht entgehen lassen und bat das Orakel von Tägerwilen zu einem Interview.
 
-Bote vom Untersee: Juve hat in drei Akten den Scudetto liegenlassen. Lecce, Cagliari und Lazio brachten lediglich 2 Punkte ein. Warum?
+BVU: Juve hat in drei Akten den Scudetto liegenlassen. Lecce, Cagliari und Lazio brachten lediglich 2 Punkte ein. Warum?
 
 OVT: Wir haben Stürmer die diesen Namen in den Dreck ziehen. Vlahovic, David und Openda sind ihr Geld nicht wert. Wer sie geholt hat, wird früher oder später Rechenschaft ablegen müssen.
 
