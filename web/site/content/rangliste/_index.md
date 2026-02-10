@@ -16,7 +16,7 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Wer hätte die WM 2026 besser eröffnen können als die unsterblichen FAB FOUR.
-    Mit einem Song den sie bereits im Jahre 1968 in ihrer Schublade parat
+    Mit einem Song den sie bereits im Jahre 1969 in ihrer Schublade parat
     hatten. Damals wollte sich niemand auf den Fussball einlassen. Die Sonne
     ging vor. Was für ein Glück, dass ich das Original rechtzeitig ausgegraben
     habe.
