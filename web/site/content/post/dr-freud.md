@@ -1,6 +1,6 @@
 ---
 title: Chi l‘ha visto….
-draft: false
+draft: true
 date: 2026-01-26T10:44:22.075Z
 image: img/img_0009.jpeg
 ---
