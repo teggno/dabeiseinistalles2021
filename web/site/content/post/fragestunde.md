@@ -1,5 +1,5 @@
 ---
-title: Z
+title: Versagensängste
 draft: true
 date: 2026-02-10T05:16:05.812Z
 ---
