@@ -18,7 +18,7 @@ song:
     Wer hätte die WM 2026 besser eröffnen können als die unsterblichen FAB FOUR.
     Mit einem Song den sie bereits im Jahre 1968 in ihrer Schublade parat
     hatten. Damals wollte sich niemand auf den Fussball einlassen. Die Sonne
-    ging vor. Hier ist das Original 🙈🙈🙈
+    ging vor. Hier ist endlich das Original 🙈🙈🙈
 
 
     Hier kommt er geflogen, der der uns alle glücklich stimmt, wie damals als wir noch jung waren und alles ist in bester Ordnung. Kleiner Liebling, es war ein langer, kalter und einsamer Winter. Kleiner Liebling, es scheint, es wäre Jahre her, dass du dich zum letzten Mal blicken liest
