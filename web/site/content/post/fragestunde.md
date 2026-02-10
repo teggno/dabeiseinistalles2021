@@ -20,12 +20,8 @@ OVT: Nachdem Algorithmus-Papst Comolli mit seiner Einkaufspolitik kläglich gesc
 
 BVU: Bleibt noch die Champions League?
 
-OVT: Im Normalfall müsste man optimistisch sein. Mit Osimhen anstelle der drei Spitzkicker wären wir im Achtelfinale. Doch Viktor spielt leider beim Gegner!
+OVT: Im Normalfall müsste man optimistisch sein. Mit Osimhen anstelle der drei Spitzkicker wäre Juve im Achtelfinale. Doch Viktor spielt leider beim Gegner!
 
+BVU: Und Mister Spalletti?
 
-
-
-
-Und Mister Spalletti?
-
-Luciano, das muss man ihm lassen, hat eine neue Spielkultur entwickelt. Viel Aufwand und null Ertrag! Für seine Ideen fehlt ihm schlicht und einfach das Material. Mit einem mittelmässigen Torhüter, einem stotternden Mittelfelmotor und drei Chan
+OVT: Luciano, das muss man ihm lassen, hat eine neue Spielkultur entwickelt. Viel Aufwand und null Ertrag! Für seine Ideen fehlt ihm schlicht und einfach das Material. Mit einem mittelmässigen Torhüter, einem stotternden Mittelfelmotor und drei Chan
