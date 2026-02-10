@@ -20,7 +20,7 @@ OVT: Nachdem Algorithmus-Papst Damien Comolli mit seiner Einkaufspolitik klägli
 
 BVU: Bleibt noch die Champions League?
 
-OVT: Im Normalfall müsste man optimistisch sein. Mit Osimhen anstelle der drei Chancenversieber wäre Juve fürs Achtelfinale gesetzt. Doch Viktor spielt leider beim Gegner!
+OVT: Im Normalfall müsste man gegen Galatasaray optimistisch sein. Mit Osimhen anstelle der drei Chancenversieber wäre Juve fürs Achtelfinale gesetzt. Doch Viktor spielt leider beim Gegner!
 
 BVU: Und Mister Spalletti?
 
