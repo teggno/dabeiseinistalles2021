@@ -2,8 +2,9 @@
 title: Versagensängste
 draft: true
 date: 2026-02-10T05:16:05.812Z
+image: img/img_0012.jpeg
 ---
-Zweifel kommen auf! Ausgerechnet jetzt, da unsere sportliche Zukunft auf dem Spiel steht. Sternendeuter OVT versucht im folgenden Interview Licht ins Dunkel zu bringen und lässt sich wie gewohnt auf die Äste hinaus.
+Zweifel kommen auf! Ausgerechnet jetzt, da Juve’s sportliche Zukunft auf dem Spiel steht. Aus diesem Grund wollte sich der Bote vom Untersee die Chance nicht entgehen lassen und bat das Orakel von Tägerwilen zu einem Interview.
 
 Bote vom Untersee: Juve hat in drei Akten den Scudetto liegenlassen. Lecce, Cagliari und Lazio brachten lediglich 2 Punkte ein. Warum?
 
