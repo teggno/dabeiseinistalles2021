@@ -28,4 +28,4 @@ OVT: Lucianos Spielkultur ist nicht zu übersehen. Das muss man ihm lassen Für 
 
 BVU: Zum Schluss ein Blick in die Zukunft! Wie sähe ihr Wunschteam aus, wenn ihnen John Elkann ein paar Dollars zur Verfügung stellen würde?
 
-OVT: Da stellt sich schon das erste Problem! Die Qual der Wahl! Barbüz oder Zac? Einigen wir uns auf je eine Halbzeit. Die restlichen 3 sind gesetzt! Bobetto hinten rechts! Chiavescelle kriegt die 10 und Türbett „rackert“ am Flügel. Die glorreichen 7 die die Truppe ergänzen dürfen, spielen in dieser Konstellation eine untergeordnete Rolle. Trotz allem geben wir ihnen ein Gesicht.
+OVT: Da stellt sich schon das erste Problem! Die Qual der Wahl! Barbüz oder Zac? Einigen wir uns auf je eine Halbzeit. Die restlichen 3 sind gesetzt! Bobetto hinten rechts! Chiavescelle kriegt die 10 und Türbett „rackert“ am Flügel. Die glorreichen 7 die die Truppe ergänzen dürfen, spielen in dieser Konstellation eine untergeordnete Rolle. Trotz allem geben wir ihnen ein Gesicht. Nuno Mendes, Gleison Bremer
