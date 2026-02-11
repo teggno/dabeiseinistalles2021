@@ -16,10 +16,9 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Wer hätte die WM 2026 besser eröffnen können als die unsterblichen FAB FOUR.
-    Mit einem Song den sie bereits im Jahre 1969 in ihrer Schublade parat
-    hatten. Damals wollte sich niemand auf den Fussball einlassen. Die Sonne
-    ging vor. Was für ein Glück, dass ich das Original rechtzeitig ausgegraben
-    habe.
+    Mit einem Song den sie bereits im Jahre 1969 auf ihrer legendären Abbey-Road
+    lancierten. Mit ein paar wenigen Text-Korrekturen ist es Fussball-Fan George
+    Harrison gelungen, unser liebstes Spielzeug in den Mittelpunkt zu rücken.
 
 
     Hier kommt er geflogen, der, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Kleiner Liebling, es war ein langer, kalter und einsamer Winter. Mein kleiner Schatz, es scheint, es wäre Jahre her, seitdem du dich zum letzten Mal blicken liesst. Hier kommt der Fussball, hier kommt er und alles ist in bester Ordnung. Mein kleiner Schatz, das Lächeln kehrt zurück auf unsere Gesichter. Kleiner Liebling, wo hast du dich nur rumgetrieben. Hier kommt der Fussball und mit ihm die Sonne und alles ist in bester Ordnung.
