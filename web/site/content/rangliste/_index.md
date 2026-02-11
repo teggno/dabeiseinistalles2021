@@ -29,9 +29,7 @@ song:
     Fussball, Sonne, Fussball, hier kommen sie.
 
 
-    Kleiner Liebling, ich fühle, dass das Eis langsam schmilzt,
-
-    mein kleiner Schatz, ich fühle es wird alles gut. Hier kommt er unser Fussball und mit ihm die Sonne und ich sage…..baby….it‘s allright…..
+    Mein kleiner Liebling, ich fühle, dass das Eis langsam schmilzt, mein kleiner Schatz, ich fühle es wird alles gut. Hier kommt er unser Freund aus alten Kindertagen und mit ihm die Sonne und ich sage…..baby….it‘s allright…..
 
 
 
