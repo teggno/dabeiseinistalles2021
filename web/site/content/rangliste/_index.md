@@ -25,12 +25,12 @@ song:
     Hier kommt er dahergeflogen ⚽️ der, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Mein kleiner Liebling, es war ein einsamer und kalter Winter. Vier lange Jahre sind es her, seitdem du dich zum letzten Mal hast blicken lassen. Das Lächeln kehrt zurück auf unsere Gesichter. Wo hast du dich nur rumgetrieben?
 
 
-    Fussball, Sonne, Fussball, hier kommen sie.
+    Fussball, Sonne, Fussball, hier kommen sie gemeinsam 
 
-    Fussball, Sonne, Fussball, hier kommen sie.
+    Fussball, Sonne, Fussball, hier kommen sie gemeinsam
 
 
-    Mein kleiner Liebling, ich fühle, dass das Eis langsam schmilzt, mein kleiner Schatz, ich fühle es wird alles gut. Hier kommt er unser Freund aus alten Kindertagen und mit ihm die Sonne und ich sage…..baby….it‘s allright…..
+    Mein kleiner Liebling, ich fühle, dass das Eis langsam schmilzt, mein kleiner Schatz, ich spüre, es wird alles wieder gut. Hier kommt er unser Freund aus alten Kindertagen und mit ihm die Sonne und ich sage, Baby 🥰 it‘s allright. 
 
 
 
