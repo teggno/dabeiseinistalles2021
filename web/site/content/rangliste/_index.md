@@ -21,7 +21,7 @@ song:
     genügten, um die Sonne und unser allerliebstes Spielzeug zu verbinden.
 
 
-    Hier kommt er geflogen, der, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Mein kleiner Liebling, es war ein langer und einsamer Winter. Mein kleiner Schatz, es scheint, es wäre Jahre her, seitdem du dich zum letzten Mal blicken liesst. Hier kommt er, hier kommt er und alles ist in bester Ordnung. Mein kleiner Schatz, das Lächeln kehrt zurück auf unsere Gesichter. Mein kleiner Liebling, wo hast du dich nur rumgetrieben. Hier kommt er und mit ihm die Sonne und alles ist in bester Ordnung.
+    Hier kommt er geflogen ⚽️ der, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Mein kleiner Liebling, es war ein langer und einsamer Winter. Mein kleiner Schatz, es scheint, es wäre Jahre her, seitdem du dich zum letzten Mal blicken liesst. Hier kommt er, hier kommt er und alles ist in bester Ordnung. Mein kleiner Schatz, das Lächeln kehrt zurück auf unsere Gesichter. Mein kleiner Liebling, wo hast du dich nur rumgetrieben. Hier kommt er und mit ihm die Sonne und alles ist in bester Ordnung.
 
 
     Fussball, Sonne, Fussball, hier kommen sie.
