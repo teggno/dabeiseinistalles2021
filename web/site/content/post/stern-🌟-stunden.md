@@ -7,7 +7,7 @@ image: img/img_0722.jpeg
 \
  WELTMEISTERSCHAFTEN 1930-1978
 
-1️⃣9️⃣3️⃣0️⃣ bekommt der Fussball endlich das was ihm gebührt! Die Buchstaben W+M stehen von nun an für das grösste Sportereignis des Universums. Als amtierender Olympiasieger erhält Uruguay den Zuschlag und fängt erstmal klein an! Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules-Rimet-Wanderpokal, der von nun an alle vier Jahre einen neuen Eintrag bekommen soll.
+1️⃣9️⃣3️⃣0️⃣ bekommt der Fussball endlich das was ihm gebührt! Die Buchstaben W+M stehen von nun an für das grösste Sportereignis des Universums. Als amtierender Olympiasieger erhält Uruguay den Zuschlag und fängt erstmal klein an! Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules-Rimet-Wanderpokal!
 
 1️⃣9️⃣3️⃣4️⃣ ist Italien an der Reihe! Und wiederum ist es der Gastgeber der das Rennen macht! Dieses Mal sind bereits 16 Teams auf dem Tableau eingeschrieben! Eine Zahl die bis und mit 1974 Bestand haben sollte. Angeführt von Giuseppe Meazza, dem 1980 das ehrwürdige San Siro Stadion gewidmet wurde, setzen sich die Azzurri im Finale mit 2:1 gegen die Tschechoslowakei durch.
 
