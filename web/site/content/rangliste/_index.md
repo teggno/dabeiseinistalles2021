@@ -18,7 +18,8 @@ song:
     Wer hätte auf meiner Jukebox die WM 2026 besser eröffnen können als die
     unsterblichen FAB FOUR. Mit einem Song den sie im Jahre 1969 auf ihrer
     legendären LP „Abbey-Road“ lancierten. Ein paar wenige Text-Korrekturen
-    genügten, um die Sonne und unser allerliebstes Spielzeug zu verbinden.
+    genügten, um die Sonne und unser allerliebstes Spielzeug miteinander zu
+    verbinden.
 
 
     Hier kommt er dahergeflogen ⚽️ der, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Mein kleiner Liebling, es war ein einsamer und langer Winter. Mein kleiner Schatz, es scheint, es wäre Jahre her, seitdem du dich zum letzten Mal hast blicken lassen. Hier kommt er, hier kommt er und alles ist in bester Ordnung. Das Lächeln kehrt zurück auf unsere Gesichter. Wo hast du dich nur rumgetrieben. 
