@@ -15,7 +15,7 @@ WELTMEISTERSCHAFTEN 1982-2022
 
 1️⃣9️⃣9️⃣4️⃣ schiesst Roberto Baggio seinen Elfer in den Nachthimmel von Pasadena. Er der mit dem Leder stets auf „du“ war! Dieses Missgeschick sollte ihn ein lebenlang begleiten. Es war eines der unspektakulärsten Endspiele in der Geschichte des Fussballs. Trotz Romario und Bebeto die für ihre Verdeoros den vierten WM-Titel ins Trockene brachten.
 
-1️⃣9️⃣9️⃣8️⃣  ritzt der fingerfertige Graveur nach einem einseitigen Finale zum ersten Mal den Namen  Frankreichs auf den Wanderpokal ein. „Zizou“ alias Zinedine Zidane hatte die Last einer ganzen Nation auf seine Schultern genommen. Eine Aufgabe die eigentlich seinem Widersacher Ronaldo zugefallen wäre. Doch Montezumas Rache zwang Brasiliens Superstar kurz vor Anpfiff auf das stille Örtchen ☺️
+1️⃣9️⃣9️⃣8️⃣  ritzt der fingerfertige Graveur nach einem einseitigen Finale zum ersten Mal den Namen  Frankreichs auf den Wanderpokal ein. Zinedine Zidane hatte die Last einer ganzen Nation auf seine Schultern genommen. Eine Aufgabe die eigentlich seinem Widersacher Ronaldo zugefallen wäre. Doch Montezumas Rache zwang Brasiliens Superstar kurz vor Anpfiff auf das stille Örtchen ☺️
 
 2️⃣0️⃣0️⃣2️⃣ hält Oliver Kahn alles was auf ihn zukommt. Bis auf jenen berüchtigten Bodenroller, der unglücklicherweise unter seinem Bauch hindurch den Weg ins Tor findet. Manchmal genügt ein Augenblick um einen Nimbus zu zerstören. Ronaldo bedankte sich und Brasilien war zum fünften Male Weltmeister!
 
