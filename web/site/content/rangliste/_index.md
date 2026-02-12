@@ -22,7 +22,7 @@ song:
     verbinden.
 
 
-    Hier kommt er dahergeflogen ⚽️ der, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Mein kleiner Liebling, es war ein einsamer und langer Winter. Mein kleiner Schatz, es scheint, es wäre Jahre her, seitdem du dich zum letzten Mal hast blicken lassen. Hier kommt er, hier kommt er und alles ist in bester Ordnung. Das Lächeln kehrt zurück auf unsere Gesichter. Wo hast du dich nur rumgetrieben. 
+    Hier kommt er dahergeflogen ⚽️ der, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Mein kleiner Liebling, es war ein einsamer und kalter Winter. Vier lange Jahre sind es her, seitdem du dich zum letzten Mal hast blicken lassen. Das Lächeln kehrt zurück auf unsere Gesichter. Wo hast du dich nur rumgetrieben?
 
 
     Fussball, Sonne, Fussball, hier kommen sie.
