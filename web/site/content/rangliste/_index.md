@@ -19,7 +19,7 @@ song:
     unsterblichen FAB FOUR. Mit einem Song den sie im Jahre 1969 auf ihrer
     legendären LP „Abbey-Road“ lancierten. Ein paar wenige Text-Korrekturen
     genügten, um die Sonne und unser allerliebstes Spielzeug miteinander zu
-    verbinden ☀️⚽️  Hier kommt er dahergeflogen der, der uns alle so glücklich
+    verbinden ☀️⚽️ 🥳 Hier kommt er dahergeflogen der, der uns alle so glücklich
     stimmt. Und auf einmal ist alles in bester Ordnung. Mein kleiner Liebling,
     es war ein langer und einsamer Winter. Vier Jahre ist es her, seitdem du
     dich zum letzten Mal hast blicken lassen. Das Lächeln kehrt zurück auf
