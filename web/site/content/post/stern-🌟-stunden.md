@@ -17,7 +17,7 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣5️⃣0️⃣ wird in brasilianischen Überlieferungen als das Jahr der Demütigung zelebriert. Vor der Rekordkulisse von 170‘000 Zuschauern zerstört Uru-Legende Juan Alberto Schiaffino den Traum einer ganzen Nation. Vor lauter Tränen soll der Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordniveau gestiegen sein. Uruguay ist zum zweiten Mal Weltmeister.
 
-1️⃣9️⃣5️⃣4️⃣ redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der Deutschen gewesen sein muss, belegt die Tatsache, dass Ungarn-Trainer Szebes auf dem Sterbebett immer noch nicht glauben wollte, dass seine bis dahin ungeschlagene Elf nach einer 2:0 Führung das Heft noch  aus der Hand gegeben hatte. Fritz Walter und Uwe Rahn stehlen den verdutzten Ferenc Puskas und Sandor Koscics die Show.
+1️⃣9️⃣5️⃣4️⃣ redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der Deutschen gewesen sein muss, belegt die Tatsache, dass Ungarn-Trainer Szebes auf dem Sterbebett immer noch nicht glauben wollte, dass seine bis dahin ungeschlagene Elf nach einer 2:0 Führung das Heft noch  aus der Hand gegeben hatte. Fritz Walter und Uwe Rahn stehlen Ferenc Puskas und Sandor Koscics die Show.
 
 1️⃣9️⃣5️⃣8️⃣ sind die Tränen der Sambatänzer endlich getrocknet! Torhüter Gilmar, die Brüder Nilton und Djalma Santos, Mittelfeldstratege Didi und der Wundersturm Garrincha-Vava-Pelé-Zagallo lassen den Zuckerhut zum Schmelzen bringen. Offensivfussball von einem anderen Stern. Das revolutionäre 4-2-4 war geboren! Und mit ihm der wohl beste Spieler aller Zeiten. Edson Arantes do Nascimento! Kurz Pelé!
 
