@@ -16,7 +16,7 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Wer hätte auf meiner Jukebox die WM 2026 besser eröffnen können als die
-    unsterblichen FAB FOUR. Mit einem Song den sie im Jahre 1969 auf ihrer
+    unsterblichen FAB FOUR!? Mit einem Song den sie im Jahre 1969 auf ihrer
     legendären LP „Abbey-Road“ lancierten. Ein paar wenige Text-Korrekturen
     genügten, um die Sonne und unser allerliebstes Spielzeug miteinander zu
     verbinden ☀️⚽️ 🥳 Hier kommt er dahergeflogen der, der uns alle so glücklich
