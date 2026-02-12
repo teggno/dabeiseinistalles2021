@@ -26,9 +26,9 @@ song:
     unsere Gesichter. Wo hast du dich nur rumgetrieben?
 
 
-    Fussball, Sonne, Fussball, hier kommen sie gemeinsam 
+    Sonne, Fussball, Sonne, hier kommen sie gemeinsam 
 
-    Fussball, Sonne, Fussball, hier kommen sie gemeinsam
+    Sonne, Fussball, Sonne, hier kommen sie gemeinsam
 
 
     Mein kleiner Liebling, ich fühle, dass das Eis langsam schmilzt, mein kleiner Schatz, ich spüre, es wird alles wieder gut. Hier kommt er unser Freund aus alten Kindertagen und mit ihm die Sonne und ich sage, Baby 🥰 it‘s allright. 
