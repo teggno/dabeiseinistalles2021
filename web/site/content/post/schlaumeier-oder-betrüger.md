@@ -1,5 +1,5 @@
 ---
-title: Schlaumeier oder Betrüger?
+title: Falschspieler
 draft: false
 date: 2026-02-14T23:47:26.227Z
 image: img/img_0014.jpeg
