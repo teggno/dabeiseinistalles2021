@@ -4,7 +4,7 @@ draft: true
 date: 2026-01-19T15:31:42.059Z
 image: img/img_0008.jpeg
 ---
-Fragen sie Maldini, Neuer oder Ronaldo! Die Antwort wird stets dieselbe sein. Ancelotti e un galantuomo! Umgänglich, ausgeglichen, kompetent. Boss und Kumpel zugleich. Für viele seiner Jungspunde auch Vaterfigur. Nur wenn er seine linke Augenbraue höher zieht als die rechte, ist mit ihm nicht gut Kirschen essen.
+Fragen sie Paolo Maldini, Manuel Neuer oder Cristiano Ronaldo! Die Antwort wird stets dieselbe sein. Ancelotti e un galantuomo! Umgänglich, ausgeglichen, kompetent. Boss und Kumpel zugleich. Für viele seiner Jungspunde auch Vaterfigur. Nur wenn er seine linke Augenbraue höher zieht als die rechte, ist mit ihm nicht gut Kirschen essen.
 
 Aufzählungen allein werden ihm nicht gerecht. Da war der Spieler mit der  Rückennummer 8, der sowohl defensiv wie offensiv Akzente setzte. An der Seite von Frank Rijkaard und Ruud Gullit war er Milans Motor im zentralen Mittelfeld, der auch in der Lage war, den öffnenden Pass auf die 9 zu spielen. Mit Marco van Basten hatte er den genialen Abnehmer in seinen Reihen. Als Spieler gehobene Mittelklasse, als Trainer Weltklasse. Sein Palmares spricht Bände. Wer mit Milan, Bayern und Real obsiegt, hat sich den Platz in den Top-Ten mehr als verdient.
 
