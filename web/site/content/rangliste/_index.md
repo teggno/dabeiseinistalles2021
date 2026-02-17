@@ -22,7 +22,7 @@ song:
     ☀️ und du ♥️
 
 
-    Hier kommt er dahergeflogen! Er, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Mein kleiner Liebling ⚽️ es war ein langer kalter Winter. Vier  lange Jahre ist es her, seitdem du dich zum letzten Mal hast blicken lassen. Das Lächeln auf unseren Gesichtern kehrt zurück. Wo hast du dich nur rumgetrieben? 🎶🎶🎶 sun, sun sun, here it comes. sun, sun, sun, here it comes. 🎶🎶🎶 Mein kleiner Liebling, ich fühle, dass das Eis langsam schmilzt. Mein kleiner Schatz, ich spüre, es wird alles wieder gut. Hier kommt er unser Freund aus längst vergangenen Kindertagen und mit ihm die Sonne! Was will man da noch mehr Baby, ich sage nur eins: It‘s allright!
+    Hier kommt er dahergeflogen! Er, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Mein kleiner Liebling ⚽️ es war ein langer kalter Winter. Vier lange Jahre ist es her, seitdem du dich zum letzten Mal hast blicken lassen. Das Lächeln auf unseren Gesichtern kehrt zurück. Wo hast du dich nur rumgetrieben? 🎶🎶🎶 sun, sun sun, here it comes. sun, sun, sun, here it comes. 🎶🎶🎶 Mein kleiner Liebling, ich fühle, dass das Eis langsam schmilzt. Mein kleiner Schatz, ich spüre, es wird alles wieder gut. Hier kommt er unser Freund aus längst vergangenen Kindertagen und mit ihm die Sonne! Was will man da noch mehr Baby, ich sage nur eins: It‘s allright!
 
 
 
