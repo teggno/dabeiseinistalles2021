@@ -17,9 +17,9 @@ song:
   description: >+
     Wer hätte auf meiner Jukebox die WM 2026 besser lancieren können als die
     unsterblichen FAB FOUR!? Mit einem Song, der im Jahre 1969 auf ihrer
-    legendären LP „Abbey-Road“ erschienen war. Ein paar wenige Text-Korrekturen
-    genügten, um die Sonne und unser aller geliebtes Spielzeug miteinander zu
-    verbinden ☀️⚽️ 🥳 
+    legendären LP „Abbey-Road“ erschienen ist. Ein paar wenige Text-Korrekturen
+    genügten um die Magie des runden Leders einzufangen. Der Ball ⚽️ die Sonne
+    ☀️ und wir….
 
 
     Hier kommt er dahergeflogen der, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Mein kleiner Liebling, es war ein einsamer und langer Winter. Vier Jahre ist es her, seitdem du dich zum letzten Mal hast blicken lassen. Das Lächeln kehrt zurück auf unsere Gesichter. Wo hast du dich nur rumgetrieben? 🎶🎶🎶 Sonne, Fussball, Sonne, hier kommen sie gemeinsam - Sonne, Fussball, Sonne, hier kommen sie gemeinsam 🎶🎶🎶 Mein kleiner Liebling, ich fühle, dass das Eis langsam schmilzt. Mein kleiner Schatz, ich spüre, es wird alles wieder gut. Hier kommt er unser Freund aus längst vergangenen Kindertagen und mit ihm die Sonne! Mehr geht nicht Baby 🥰 ….. it‘s allright 🎆
