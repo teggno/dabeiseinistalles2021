@@ -1,6 +1,6 @@
 ---
 title: Nonchalance auf italienisch
-draft: true
+draft: false
 date: 2026-02-19T14:26:57.167Z
 image: img/img_0017.jpeg
 ---
