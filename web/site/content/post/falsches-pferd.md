@@ -14,4 +14,4 @@ Weiter unten am Boulevard zwischen Zapfenzieher und Blue stehen ein paar „gr�
 
  5 Jahre danach liegt Inter 18 Punkte 🙈🙈🙈 vor Juve und wird sich verdientermassen die Meisterschaft sichern. Juve dagegen blamiert sich in kurzer Abfolge gegen Como und Galatasaray und muss um Platz 4 zittern. 
 
-Mai 2030!  In der Zwischenzeit hat Inter den Scudetto weitere 5 Male abgeräumt. In der Portokasse liegen dank Pedron und Petrillo Millionen und Abermillionen, während Zaccaria und Carrieri wegen Geldverschwendung hinter schwedischen Gardinen sitzen. Spalletti, der mit Pauken und Trompeten in Turin empfangen wurde, hat verstanden, dass seine Zeit abgelaufen ist und kümmert sich seit Sommer 2026 um seine Reben.
+Mai 2030!  In der Zwischenzeit hat Inter den Scudetto weitere 5 Male abgeräumt. In der Portokasse liegen dank Pedron und Petrillo Millionen und Abermillionen, während Zaccaria und Carrieri wegen Geldverschwendung hinter schwedischen Gardinen sitzen. Spalletti, der mit Pauken und Trompeten in Turin empfangen wurde, hat verstanden, dass seine Zeit abgelaufen ist und hat seit Sommer 2026 zusammen mit unserem Barbüz eine Anlaufstelle
