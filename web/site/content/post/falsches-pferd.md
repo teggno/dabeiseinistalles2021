@@ -12,6 +12,6 @@ P+P zwei ausgebuffte Jungs, gehen zusammen mit ihren siegessicheren Berufsgenoss
 
 Weiter unten am Boulevard zwischen Zapfenzieher und Blue stehen ein paar „grüne Möchtegern“. Di Marco, Barella, Frattesi, Lautaro, Thuram, Esposito. Auf den ersten Blick ist kein Riesenunterschied auszumachen. Ausschlaggebend wird die längerfristige Performance sein. P+P legen die Moneten auf den Tisch und ziehen von dannen.
 
- 5 Jahre danach hat  sich Inter verdientermassen den Pot geholt. Juve dagegen blamiert sich in wenigen Tagen gegen Como und Galatasaray. Mai 2030!  In der Zwischenzeit hat Inter den Scudetto weitere 5 Male abgeräumt. In der Portokasse liegen dank Pedron und Petrillo Millionen und Abermillionen, während Zaccaria und Carrieri wegen Geldverschwendung hinter schwedischen Gardinen sitzen.
+ 5 Jahre danach liegt Inter 18 Punkte 🙈🙈🙈 vor Juve und wird sich verdientermassen die Meisterschaft sichern.. Juve kämpft verbisten um Platz 4 und blamiert sich in kurzer Abfolge gegen Como und Galatasaray. Mai 2030!  In der Zwischenzeit hat Inter den Scudetto weitere 5 Male abgeräumt. In der Portokasse liegen dank Pedron und Petrillo Millionen und Abermillionen, während Zaccaria und Carrieri wegen Geldverschwendung hinter schwedischen Gardinen sitzen.
 
 PS: Spalletti mit demselben Theater wie in der Nati.
