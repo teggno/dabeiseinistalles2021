@@ -8,7 +8,7 @@ Dieses E-Mail habe ich im Jahre 2020 ﻿verfasst und an verschiedene Topadressen
 
 Die beiden Präsidenten Marotta und John Elkann (damals Agnelli) stellen ihren Sportdirektoren Pedron/Petrillo auf der einen und Zaccaria/Carrieri auf der anderen Seite gleichviel „Cash“ zur Verfügung. Der Auftrag lautet: „Kauft mir eine anständige Elf zusammen, die in 4-5 Jahren CL oder Scudetto gewinnt“.\
 \
-P+P, zwei ausgebuffte Jungs, gehen zusammen mit ihren siegessicheren Berufsgenossen Z+C auf den Kreuzlinger Jahrmarkt. Zwischen ehemaliger EPA und Thurgauer Kantonalbank lauern „Schnäppchen“, wohin das Auge reicht. Di Gregorio, Cambiaso, Douglas Luiz, Koopmeiners, David, Openda und Vlahovic. Auf den ersten Blick verlockend, wie die „Nutten“ auf dem Kiez. Doch das abgezockte Duo lässt die „Schönheiten“ links liegen. Wohlwissend, dass das Duo Z+C spendierfreudig zulangen wird.
+P+P, zwei ausgebuffte Jungs, gehen zusammen mit ihren siegessicheren Berufsgenossen Z+C auf den Kreuzlinger Jahrmarkt. Zwischen ehemaliger EPA und Thurgauer Kantonalbank lauern „Schnäppchen“, wohin das Auge reicht. Di Gregorio, Cambiaso, Douglas Luiz, Koopmeiners, David, Openda und Vlahovic. Auf den ersten Blick verlockend wie die „Nutten“ auf dem Kiez. Doch das abgezockte Duo lässt die „Schönheiten“ links liegen. Wohlwissend, dass das Duo Z+C spendierfreudig zulangen wird.
 
 Weiter unten am Boulevard zwischen Zapfenzieher und Blue stehen ein paar „grüne Möchtegern“. Di Marco, Barella, Frattesi, Lautaro, Thuram, Esposito. Auf den ersten Blick ist kein Riesenunterschied auszumachen. Ausschlaggebend wird die längerfristige Performance sein. P+P legen die Moneten auf den Tisch und ziehen von dannen.
 
