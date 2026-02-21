@@ -10,7 +10,7 @@ Die beiden Präsidenten Marotta und John Elkann (damals Agnelli) stellen ihren 
 \
 P+P zwei ausgebuffte Jungs, gehen zusammen mit ihren siegessicheren Berufsgenossen Z+C auf den Jahrmarkt. Zwischen ehemaliger EPA und Thurgauer Kantonalbank lauern „Schnäppchen“, wohin das Auge reicht. Di Gregorio, Cambiaso, Douglas Luiz, Koopmeiners, David, Openda, Vlahovic. Auf den ersten Blick verlockend, wie die „Nutten“ auf dem Kiez. Doch das abgezockte Duo lässt die „Schönheiten“ links liegen. Wohlwissend, dass das Duo Z+C spendierfreudig zulangen wird.
 
-Weiter unten am Boulevard zwischen Zapfenzieher und Blue stehen ein paar „grüne Möchtegern“. Di Marco, Barella, Frattesi, Lautaro, Thuram, Esposito. Auf den ersten Blick ist kein Riesenunterschied auszumachen. Ausschlaggebend wird die längerfristige Entwicklung sein. P+P legen die Moneten auf den Tisch und ziehen von dannen.
+Weiter unten am Boulevard zwischen Zapfenzieher und Blue stehen ein paar „grüne Möchtegern“. Di Marco, Barella, Frattesi, Lautaro, Thuram, Esposito. Auf den ersten Blick ist kein Riesenunterschied auszumachen. Ausschlaggebend wird die längerfristige Performance sein. P+P legen die Moneten auf den Tisch und ziehen von dannen.
 
  5 Jahre danach hat  sich Inter verdientermassen den Pot geholt. Juve dagegen blamiert sich in wenigen Tagen gegen Como und Galatasaray. Mai 2030!  In der Zwischenzeit hat Inter den Scudetto weitere 5 Male abgeräumt. In der Portokasse liegen dank Pedron und Petrillo Millionen und Abermillionen, während Zaccaria und Carrieri wegen Geldverschwendung hinter schwedischen Gardinen sitzen.
 
