@@ -16,4 +16,4 @@ Weiter unten am Boulevard zwischen Zapfenzieher und Blue stehen ein paar „gr�
 
 Mai 2030!  In der Zwischenzeit hat Inter den Scudetto weitere 5 Male abgeräumt. In der Portokasse liegen dank Pedron und Petrillo Millionen und Abermillionen, während Zaccaria und Carrieri wegen Geldverschwendung hinter schwedischen Gardinen sitzen.
 
-PS: Spalletti mit demselben Theater wie in der Nati.
+PS: Spalletti mit demselben Niedergang wie in der Nati.
