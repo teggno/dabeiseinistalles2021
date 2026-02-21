@@ -1,5 +1,5 @@
 ---
-title: "Falsches Pferd "
+title: Falsche Pferdchen
 draft: true
 date: 2026-02-21T16:25:31.482Z
 image: img/img_0020.jpeg
