@@ -6,6 +6,8 @@ image: img/img_0020.jpeg
 ---
 Diese E-Mail fand im Jahre 2020 den Weg an ausgesuchte Topadressen der Region. Daraufhin wurde ich vom diplomierten Sachverstand mit Eiern 🥚und Tomaten 🍅 beworfen. „Dä Chrampfer vu dä Ribischtross“ und „dä Rosabrülläverträter us Schärzingä“ bezichtigten mich öffentlich der Schwarzmalerei. Ein Kumpel aus Kindertagen hat seither den Kontakt zu mir abgebrochen. (Kein Witz) Heute 5 Jahre später habe ich das Ding aus dem Archiv hervorgeholt und lediglich ein paar Namen verändert. Die Tristezza, die das Thema schon damals umgab, ist geblieben.
 
+Tägerwilen, 20. November 2020
+
 Die beiden Präsidenten Marotta und Elkann (damals Agnelli) stellen ihren Sportdirektoren Pedron/Petrillo auf der einen und Zaccaria/Carrieri auf der anderen Seite gleichviel „Cash“  zur Verfügung. Die Mission  lautet: „Kauft mir eine anständige Elf zusammen, die in 4-5 Jahren Scudetto oder CL gewinnt“. P+P, zwei ausgebuffte Jungs, gehen zusammen mit ihren siegessicheren Berufsgenossen Z+C auf den Kreuzlinger Jahrmarkt.
 
 Zwischen ehemaliger EPA und Melo‘s früherem Zuhause lauern „Schnäppchen“, wohin das Auge reicht. Di Gregorio, Cambiaso, Douglas Luiz, Koopmeiners, David, Openda und Vlahovic. Auf den ersten Blick verlockende „Aussichten“ wie die Nutten auf dem Kiez. Doch das abgezockte Duo lässt die „Schönheiten“ links liegen. Wohlwissend, dass das Duo Z+C spendierfreudig zulangen wird.
