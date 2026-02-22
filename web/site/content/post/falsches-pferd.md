@@ -16,4 +16,4 @@ Sommer 2030!  In der Zwischenzeit hat Inter die Schale weitere 5 Male in der Vi
 
 In der Zwischenzeit hat Sigmund Spalletti seine Stelle quittiert. Ihm ist klar geworden, dass die Nati nicht nur ein Ausrutscher war. Mourinhos „Abschiedstour“ ist ihm Beispiel genug!  Mittlerweile hat er unter dem Namen „Freudsche Versprechen“ mit unserem Sigmund Barbüz eine Praxis eröffnet. Der eine redet auf die gutbetuchten Damen 🦹🏻‍♀️ ein und der andere legt sie auf die Otomane.
 
-Juve ist nie mehr aus dem Tal der Tränen herausgekommen. Motta, Tudor, Spalletti und und und. Das Trainerkarussell drehte sich immer weiter und Comolli verstrickte sich immer mehr in seine  Algorithmen. Seine letzte Eingebung war der mittlerweile 42 jährige Robert Lewandowski.
+Juve ist nie mehr aus dem Tal der Tränen herausgekommen. John Elkann fehlt leider das Gen des Avvocato. Motta, Tudor, Spalletti und und und. Das Trainerkarussell drehte sich immer weiter und Comolli verstrickte sich stur wie er nun mal ist, immer mehr in seine  Algorithmen. Seine letzte Eingebung war der mittlerweile 42 jährige Robert Lewandowski.
