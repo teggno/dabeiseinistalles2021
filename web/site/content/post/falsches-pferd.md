@@ -4,7 +4,7 @@ draft: true
 date: 2026-02-21T16:25:31.482Z
 image: img/img_0020.jpeg
 ---
-Dieses E-Mail fand im Jahre 2020 den Weg an ausgesuchte Topadressen in der Region. Daraufhin wurde ich, wie Italien 1966, mit Eiern 🥚und Tomaten 🍅 beworfen. Einige von ihnen darunter dä Chrampfer vu dä Ribischtross und Rosabrülläverträter us Schärzingä bezichtigen mich der Schwarzmalerei. Heute 5 Jahre später habe ich lediglich ein paar Namen verändert. Die Tristezza ist geblieben. 
+Dieses E-Mail fand im Jahre 2020 den Weg an ausgesuchte Topadressen in der Region. Daraufhin wurde ich mit Eiern 🥚und Tomaten 🍅 beworfen. Einige von ihnen, darunter dä Chrampfer vu dä Ribischtross und dä Rosabrülläverträter us Schärzingä bezichtigten mich öffentlich der Schwarzmalerei. Heute 5 Jahre später habe ich lediglich ein paar Namen verändert. Die Tristezza ist geblieben. 
 
 Die beiden Präsidenten Marotta und John Elkann (damals Agnelli) stellen ihren Sportdirektoren Pedron/Petrillo auf der einen und Zaccaria/Carrieri auf der anderen Seite gleichviel „Cash“ zur Verfügung. Der Auftrag lautet: „Kauft mir eine anständige Elf zusammen, die in 4-5 Jahren CL oder Scudetto gewinnt“.\
 \
