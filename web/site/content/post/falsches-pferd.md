@@ -12,7 +12,7 @@ Zwischen ehemaliger EPA und Melo‘s damaligem Zuhause lauern „Schnäppchen“
 
 Auf der gegenüberliegenden Strassenseite, zwischen Zapfenzieher und Blue, stehen ein paar „grüne Jungs“ an der „Theke“, die auf den Durchbruch warten. Di Marco, Barella, Frattesi, Lautaro, Thuram und Esposito. Auf den ersten Blick eine ausgeglichene Sache, nur der Zukunft bleibt vorenthalten welche Pferdchen am Ende die Richtigen sind. P+P, von ihren Näschen total überzeugt, legen die Moneten💰 auf den Tisch und ziehen von dannen.
 
-5 Jahre danach liegen die Nerazzuri 18 Punkte 🙈 vor den Bianconeri und werden sich Ende Mai verdientermassen die Meisterschaft sichern. Juve  dagegen blamiert sich in ganz Europa. Galatasaray und Como decken die Mängel gnadenlos auf. Die Zeit ist am Davonlaufen.
+5 Jahre danach liegen die Nerazzuri  bereits Ende Februar 18 Punkte 🙈 vor den Bianconeri und werden sich Ende Mai verdientermassen die Meisterschaft sichern. Juve  dagegen blamiert sich in ganz Europa. Galatasaray und Como decken die Mängel gnadenlos auf. Die Zeit ist am Davonlaufen.
 
 Sommer 2️⃣0️⃣3️⃣0️⃣❗️Inter hat die Schale weitere vier Male in der Vitrine deponiert . In der Portokasse liegen dank Pedron und Petrillo Millionen und Abermillionen, während Zaccaria und Carrieri wegen Geldverschwendung in Alcatraz hinter schwedischen Gardinen sitzen. Bobetto kann die beiden trotz überwundener Flugangst nicht mal besuchen. Die Strecke zwischen San Francisco und dem HochsicherheitsTrakt ist auch ihm, dem erprobten Rettungs 🏊  Schwimmer zu heiss.
 
