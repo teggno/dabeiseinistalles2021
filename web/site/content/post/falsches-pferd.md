@@ -1,7 +1,7 @@
 ---
 title: Aiiiuuutooo
 draft: false
-date: 2026-02-21T16:25:31.482Z
+date: 2026-02-22T11:45:48.399Z
 image: img/img_0020.jpeg
 ---
 Dieses E-Mail fand im Jahre 2020 den Weg an ausgesuchte Topadressen in der Region. Daraufhin wurde ich mit Eiern 🥚und Tomaten 🍅 beworfen. Einige von ihnen, darunter „dä Chrampfer vu dä Ribischtross“ und „dä Rosabrülläverträter us Schärzingä“ bezichtigten mich öffentlich der Schwarzmalerei. Wieder andere haben seither den Kontakt zu mir abgebrochen. (Kein Witz) Heute 5 Jahre später habe ich das Ding aus dem Archiv hervorgeholt und lediglich ein paar Namen verändert. Die Tristezza, die das Thema schon damals umgab, ist geblieben.
