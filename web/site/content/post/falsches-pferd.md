@@ -10,7 +10,7 @@ Der als altbacken aber erfolgreich geltende Inter-Präsident mit glorreicher Juv
 
 Zwischen ehemaliger EPA und Melo‘s damaligem Zuhause lauern „Schnäppchen“, wohin das Auge reicht. Di Gregorio, Cambiaso, Douglas Luiz, Koopmeiners, David, Openda und Vlahovic. Auf den ersten Blick verlockende „Aussichten“ wie die Nutten auf dem Kiez. Doch das abgezockte Duo lässt die „Schönheiten“ links liegen. Wohlwissend, dass das Duo Z+C voller Spendier-Freude zulangen wird.
 
-Auf der gegenüberliegenden Strassenseite, zwischen Zapfenzieher und Blue, stehen ein paar „grüne Jungs“ an der „Theke“, die auf den Durchbruch warten. Di Marco, Barella, Frattesi, Lautaro, Thuram und Esposito. Auf den ersten Blick eine ausgeglichene Sache, nur der Zukunft bleibt vorenthalten welche Pferdchen am Ende die Richtigen sind. P+P, von ihren Näschen total überzeugt, legen die Moneten💰 auf den Tisch und ziehen von dannen.
+Auf der gegenüberliegenden Strassenseite, zwischen Zapfenzieher und Blue, stehen ein paar „grüne Jungs“ an der „Theke“, die auf den Durchbruch warten. Di Marco, Barella, Frattesi, Lautaro, Thuram und Esposito. Auf den ersten Blick eine ausgeglichene Angelegenheit, nur der Zukunft bleibt vorenthalten, welche Pferdchen am Ende die Richtigen sind. P+P, von ihren Näschen total überzeugt, legen die Moneten💰 auf den Tisch und ziehen von dannen.
 
 5 Jahre danach liegen die Nerazzuri  bereits Ende Februar 18 Punkte 🙈 vor den Bianconeri und werden sich Ende Mai verdientermassen die Meisterschaft sichern. Juve  dagegen blamiert sich in ganz Europa. Galatasaray und Como decken die Mängel gnadenlos auf. Galgenhumor macht sich breit. Die Zeit ist am Davonlaufen.
 
