@@ -10,7 +10,7 @@ Die beiden Präsidenten Marotta und Elkann (damals Agnelli) stellen ihren Sport
 
 Zwischen ehemaliger EPA und Melo‘s damaligem Zuhause lauern „Schnäppchen“, wohin das Auge reicht. Di Gregorio, Cambiaso, Douglas Luiz, Koopmeiners, David, Openda und Vlahovic. Auf den ersten Blick verlockende „Aussichten“ wie die Nutten auf dem Kiez. Doch das abgezockte Duo lässt die „Schönheiten“ links liegen. Wohlwissend, dass das Duo Z+C spendierfreudig zulangen wird.
 
-Auf der gegenüberliegenden Strassenseite, zwischen Zapfenzieher und Blue, stehen ein paar „grüne Jungs“ an der „Theke“, die auf den Durchbruch warten. Di Marco, Barella, Frattesi, Lautaro, Thuram und Esposito. Auf den ersten Blick eine ausgeglichene Sache nur die Zukunft wird zeigen, welche Pferdchen die Richtigen sind. P+P sind von ihrem Näschen überzeugt, legen die Moneten💰 auf den Tisch und ziehen von dannen.
+Auf der gegenüberliegenden Strassenseite, zwischen Zapfenzieher und Blue, stehen ein paar „grüne Jungs“ an der „Theke“, die auf den Durchbruch warten. Di Marco, Barella, Frattesi, Lautaro, Thuram und Esposito. Auf den ersten Blick eine ausgeglichene Sache nur der Zukunkft bleibt vorenthalten welche Pferdchen am Ende die Richtigen sind. P+P sind von ihrem Näschen überzeugt, legen die Moneten💰 auf den Tisch und ziehen von dannen.
 
 5 Jahre danach liegen die Nerazzuri schon wieder 18 Punkte 🙈 vor den Bianconeri und werden sich verdientermassen die Meisterschaft sichern. Juve  dagegen blamiert sich in ganz Europa. Galatasaray und Como decken die Mängel gnadenlos auf. Die Zeit läuft davon.
 
