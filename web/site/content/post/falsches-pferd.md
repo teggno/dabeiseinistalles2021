@@ -20,4 +20,4 @@ In der Zwischenzeit hat Sigmund Spalletti seine Stelle bei der Alten Dame quitti
 
 Juve ist nie mehr aus dem Tal der Tränen herausgekommen. Dem spendablen John Elkann fehlt leider das Gen des unvergesslichen Avvocato!  Motta, Tudor, Spalletti und und und. Das Trainerkarussell drehte sich immer weiter. Vorstandsvorsitzender Comolli, der wegen Unfähigkeit noch immer nicht entlassen wurde, verfing sich stur wie er nun mal ist, mehr und mehr in seinen Algorithmen. Seine letzte Eingebung ist der mittlerweile 42-jährige Robert Lewandowski, den er von Al-Ittihad für ein Butterbrot losgeeist hat.
 
-Quando piove sull bagnato, rimane l’ultima e unica speranza: Ein Telefonat 📞 an die Nummer 071 672 21 78 😎 OVT
+Quando piove sull bagnato, rimane l’ultima e unica speranza: Ein Telefonat 📞 an die Nummer 071 672 21 78 😎 OVT (Orakel von Tägerwilen)
