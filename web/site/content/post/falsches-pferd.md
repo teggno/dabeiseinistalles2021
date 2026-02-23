@@ -12,7 +12,7 @@ Zwischen ehemaliger EPA und Melo‘s damaligem Zuhause lauern „Schnäppchen“
 
 Auf der gegenüberliegenden Strassenseite, zwischen Zapfenzieher und Blue, stehen ein paar „grüne Jungs“ an der „Theke“, die auf den Durchbruch warten. Di Marco, Barella, Frattesi, Lautaro, Thuram und Esposito. Nach kurzer Absprache machen P+P den Deal perfekt und ziehen von dannen. Inter+Juve am Scheideweg. Wer hat die Zukunft auf seiner Seite?
 
-5 Jahre danach sind sämtliche Zweifel aus dem Weg geräumt. Ende Februar liegen die Nerazzurri 18 Punkte 🙈 vor ihren Rivalen aus Turin. Der Scudetto ist nur noch eine Frage der Zeit. Juve hingegen spielt höchstens noch um Platz 4. Die Blamagen gegen Galatasaray und Como zehren am Selbstvertrauen. In den sozialen Medien macht sich Galgenhumor breit. Die Einkaufspolitik ist gescheitert. Der Schaden ist immens.
+5 Jahre danach sind sämtliche Fragen beantwortet. Ende Februar liegen die Nerazzurri 18 Punkte 🙈 vor ihren Rivalen aus Turin. Der Scudetto ist nur noch eine Frage der Zeit. Juve reibt sich indessen im Kampf um Platz 4 auf. Die Blamagen gegen Galatasaray und Como haben am Selbstvertrauen gezehrt. In den sozialen Medien macht sich Galgenhumor breit. Die Einkaufspolitik ist gescheitert. Der Schaden ist immens.
 
 Sommer 2️⃣0️⃣3️⃣0️⃣❗️Inter hat die Schale weitere vier Male in der Vitrine deponiert. In der Portokasse liegen dank Pedron und Petrillo Millionen und Abermillionen, während Zaccaria und Carrieri wegen Geldverschwendung in Alcatraz hinter schwedischen Gardinen sitzen. Bobetto kann die beiden trotz überwundener Flugangst nicht mal besuchen. Die Strecke zwischen San Francisco und dem Hochsicherheits-Trakt ist auch ihm, dem erprobten Rettungs 🏊  Schwimmer zu heiss.
 
