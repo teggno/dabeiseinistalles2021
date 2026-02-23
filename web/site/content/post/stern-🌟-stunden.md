@@ -9,11 +9,9 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣3️⃣0️⃣ bekommt der Fussball endlich das was ihm gebührt! Die Buchstaben W+M stehen von nun an für das grösste Sportereignis des Universums. Als amtierender Olympiasieger erhält Uruguay den Zuschlag und fängt erstmal klein an! Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules-Rimet-Wanderpokal!
 
-1️⃣9️⃣3️⃣4️⃣ ist Italien an der Reihe! Und wiederum ist es der Gastgeber der das Rennen macht! Dieses Mal sind bereits 16 Teams auf dem Tableau eingeschrieben! Eine Zahl die bis und mit 1974 Bestand haben sollte. Angeführt von Giuseppe Meazza, dem 1980 das ehrwürdige „San Siro“ Stadion gewidmet wurde, setzen sich die Azzurri im Finale gegen die Tschechoslowakei durch.
+1️⃣9️⃣3️⃣4️⃣+1️⃣9️⃣3️⃣8️⃣ habe ich mir die Kugeln ⚽️ 🌎 vom Planeten 🪐 Venus aus betrachtet. Das im Überfluss vorhandene Liebeselixier, schwebte die Gemeinschaft um Trainer Pozzo dermassen beflügelt haben, dass sie zweimal hintereinander auf Wolke 7 schwebte. Von Stürmer Meazza ist noch heute die Rede. Das frühere San Siro trägt seit den 80ern seinen Namen.  
 
-1️⃣9️⃣3️⃣8️⃣ gelingt den Italienern das Double! Trainer Pozzo, der schon vier Jahre zuvor für die Taktik verantwortlich war, schickt noch einmal  sein eingespieltes Ensemble aufs Feld. Im Endspiel haben die Ungarn das Nachsehen!
-
-1942+1946 fällt die WM wegen des 2. Weltkrieges aus.  
+1942+1946 fiel die WM wegen des 2. Weltkrieges aus.  
 
 1️⃣9️⃣5️⃣0️⃣ wird in brasilianischen Überlieferungen als das Jahr der Demütigung zelebriert. Vor der Rekordkulisse von 170‘000 Zuschauern zerstört Uru-Legende Juan Alberto Schiaffino den Traum einer ganzen Nation. Vor lauter Tränen soll der Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordniveau gestiegen sein. Uruguay ist zum zweiten Male Weltmeister.
 
