@@ -7,7 +7,7 @@ image: img/img_0722.jpeg
 \
  WELTMEISTERSCHAFTEN 1930-1978
 
-1️⃣9️⃣3️⃣0️⃣ bekommt der Fussball endlich das was ihm gebührt! Die Buchstaben W+M stehen von nun an für das grösste Sportereignis des Universums. Als amtierender Olympiasieger erhält Uruguay den Zuschlag und fängt erstmal klein an! Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules-Rimet-Wanderpokal!
+1️⃣9️⃣3️⃣0️⃣ bekommt der Fussball endlich das was ihm gebührt! Im Vierjahres-Modus soll ein weltumspannendes Turnier die Herzen der Fans höher schlagen lassen. Als amtierender Olympiasieger erhält Uruguay den Zuschlag. Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules-Rimet-Wanderpokal!
 
 1️⃣9️⃣3️⃣4️⃣+1️⃣9️⃣3️⃣8️⃣ habe ich mir die Kugeln ⚽️ 🌎 von  der Venus 🪐 aus betrachtet. Ihr Zaubertrank muss die Gemeinschaft um Trainer Pozzo dermassen inspiriert haben, dass sie zweimal hintereinander zum Höhenflug abhob. Als wir uns auf Wolke 7 zur WM-Party trafen, sprachen alle von Giuseppe Meazza, dem heutigen Schirmherr des San Siro.
 
