@@ -1,6 +1,6 @@
 ---
 title: Aiiiuuutooo 🛟
-draft: false
+draft: true
 date: 2026-02-22T11:45:48.399Z
 image: img/img_0020.jpeg
 ---
