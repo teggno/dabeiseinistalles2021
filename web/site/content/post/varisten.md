@@ -1,5 +1,5 @@
 ---
-title: Varisten
+title: "Tabula rasa "
 draft: true
 date: 2026-02-26T11:39:19.010Z
 ---
