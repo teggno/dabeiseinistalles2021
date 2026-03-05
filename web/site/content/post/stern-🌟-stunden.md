@@ -9,7 +9,7 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣3️⃣0️⃣ bekommt der Fussball endlich das was ihm gebührt! Alle vier Jahre soll von nun an  ein Turnier der Superlative stattfinden Als amtierender Olympiasieger erhält Uruguay den Zuschlag die Premiere zu veranstalten. Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Gastgeber Uruguay macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem neugeschaffenen Jules-Rimet-Wanderpokal!
 
-1️⃣9️⃣3️⃣4️⃣ zum Ersten! Vittorio Pozzo, Unter der Gilde durfte ich als Zaungast dabeiseiVon meinem Lieblings-Planeten aus durfte ich miterleben, wie die Azzurri zweimal hintereinander die Szenerie beherrschten. Lag es an Ven Liebeselixier oder an Trainer Pozzo, dass Giuseppe Meazza und Kollegen zum Höhenflug abhoben?  Die Partys auf Wolke 7 bleiben unverges
+1️⃣9️⃣3️⃣4️⃣  war von Beton anrühren noch nicht viel zu spüren. Im Durchschnitt klingelte es pro Spiel mehr als viermal. Im Finale von Rom bezwang Gastgeber Italien die Tschechoslowakei mit 2:1 nach Verlängerung. gegenüber Pozzo, Unter der Gilde durfte ich als Zaungast dabeiseiVon meinem Lieblings-Planeten aus durfte ich miterleben, wie die Azzurri zweimal hintereinander die Szenerie beherrschten. Lag es an Ven Liebeselixier oder an Trainer Pozzo, dass Giuseppe Meazza und Kollegen zum Höhenflug abhoben?  Die Partys auf Wolke 7 bleiben unverges
 
 1️⃣9️⃣3️⃣8️⃣ zum Zweiten! 
 
