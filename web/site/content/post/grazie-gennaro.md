@@ -1,5 +1,5 @@
 ---
-title: Dankä 🙏 viiilmoool
+title: Graaazieee 🙏 miiillleee
 draft: true
 date: 2026-01-30T12:51:51.979Z
 image: img/img_0739.jpeg
