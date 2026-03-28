@@ -7,6 +7,6 @@ Es ist Samstagmorgen um fünf! Heute habe ich endlich wieder mal frei. Du bist d
 
 Seit drei Wochen lebe ich nun wie in Trance. Vergesse alles um mich herum. Aufstehen-Kaffe-Duschen-I Pad-Kurse studieren-kaufen-verkaufen-„Tore bejubeln“ oder „vergebenen Chancen nachtrauern“-Essen reinwürgen-weitermachen-aus dem Traum erwachen-Abendessen-duschen und ins Bett. Ich hab mich mittlerweile auf Platz 4 vorgearbeitet. Platz 1 wird schwierig. Der Typ ist zu stark. Eine Art Warren-Buffett.
 
-Dazwischen ist Krieg. Italien spielt um die WM-Teilnahme. Lilly kocht wunderbare Gerichte. Alles geht an mir vorbei. So war es schon immer. Dann stellst du auf einmal fest, dass du 70 geworden bist und nicht mehr soviel Zeit bleibt wie auch schon. Du ziehst Bilanz und erschrickst. Was ist geblieben? Ein paar amouröse Abenteuer, eine kaputte Familie, ein paar nette Kumpels. Und Lilly! Zum Glück gibt es sie. 
+Dazwischen ist Krieg. Italien spielt um die WM-Teilnahme. Lilly kocht wundervolle Sachen. Alles geht an mir vorbei. So war es schon immer. Dann stellst du auf einmal fest, dass du 70 geworden bist und nicht mehr soviel Zeit bleibt wie auch schon. Du ziehst Bilanz und erschrickst. Was ist geblieben? Ein paar amouröse Abenteuer, eine kaputte Familie, ein paar nette Kumpels. Und Lilly! Zum Glück gibt es sie. 
 
-Ich hasse das Wochenende. Es ist so kalt und leer. Wann wird es endlich wieder Montag.
+Ich hasse das Wochenende. Es ist so kalt und leer. Wann wird es endlich wieder Montag….
