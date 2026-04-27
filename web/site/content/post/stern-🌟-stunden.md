@@ -13,8 +13,7 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣3️⃣8️⃣ doppelt Italien nach. Es sind die Jahre des Faschismu. Bennito Mussolini beherrscht die Szene. Fussball dient als ….
 
-\
-1942+1946 fiel die WM wegen des 2. Weltkrieges aus.  
+1942 und 1946 fällt die WM wegen des 2. Weltkrieges aus.  
 
 1️⃣9️⃣5️⃣0️⃣ wird in brasilianischen Überlieferungen als das Jahr der Demütigung zelebriert. Vor der Rekordkulisse von 170‘000 Zuschauern zerstört Uru-Legende Juan Alberto Schiaffino den Traum einer ganzen Nation. Vor lauter Tränen soll der Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordniveau gestiegen sein. Uruguay ist zum zweiten Male Weltmeister.
 
