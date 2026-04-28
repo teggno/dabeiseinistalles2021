@@ -4,7 +4,7 @@ draft: true
 date: 2025-04-27T07:51:44.567Z
 image: img/img_0687.jpeg
 ---
-Manchmal wenn ich nachts nicht schlafen kann, fange ich an  Ehemalige aufzuzählen. Brasilien  58+70, Deutschland 74+90, Argentinien 78 und  Italien 82+06 schaffe ich immer noch auswendig. In diesen Tagen liegt mein Fokus auf dem Jahr nineteensixtysix!  Queen Elisabeth fiel damals die Ehre zu, Englands Helden nach dem WM-Triumph zu „Sirs of the British Empire“ zu schlagen. Ihre Namen sind  bis heute ein Begriff:
+Manchmal wenn ich nachts nicht schlafen kann, fange ich an  Ehemalige aufzuzählen. Brasilien  58+70, Deutschland 74+90, Argentinien 78 und  natürlich Italien 82+06 berühren In mir die nostalgische Ader. In diesen Tagen liegt mein Fokus auf dem Jahr nineteensixtysix!  Queen Elisabeth fiel damals die Ehre zu, Englands Helden nach dem WM-Triumph zu „Sirs of the British Empire“ zu schlagen. Ihre Namen sind  bis heute ein Begriff:
 
 Gordon Banks; George Cohen, Bobby Moore, Jack Charlton, Ray Wilson; Alan Ball, Nobby Stiles, Bobby Charlton, Martin Peters; Geoff Hurst und Roger Hunt.
 
