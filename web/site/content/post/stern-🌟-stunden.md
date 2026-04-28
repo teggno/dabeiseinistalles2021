@@ -20,7 +20,7 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣5️⃣4️⃣ redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der deutschen Mannschaft gewesen sein muss, belegt die Tatsache, dass Ungarn-Trainer Szebes auf dem Sterbebett immer noch nicht glauben wollte, dass seine bis dahin ungeschlagene Elf nach einer 2:0 Führung das Heft noch  aus der Hand gegeben hatte. Fritz Walter und Uwe Rahn stehlen Ferenc Puskas und Sandor Koscics die Show.
 
-1️⃣9️⃣5️⃣8️⃣ sind die Tränen der Sambatänzer endlich getrocknet! Torhüter Gilmar, die Brüder Nilton und Djalma Santos, Mittelfeldstratege Didi und der Wundersturm Garrincha-Vava-Pelé-Zagallo lassen den Zuckerhut zum Schmelzen bringen. Offensivfussball von einem anderen Stern. Das revolutionäre 4-2-4 war geboren! Und mit ihm der wohl beste Spieler aller Zeiten. Edson Arantes do Nascimento! Kurz Pelé!
+1️⃣9️⃣5️⃣8️⃣ sind die Tränen der Sambatänzer endlich getrocknet! Torhüter Gilmar, die Brüder Nilton und Djalma Santos, Mittelfeldstratege Didi und der Wundersturm Garrincha-Vava-Pelé-Zagallo lassen den Zuckerhut zum Schmelzen bringen. Offensivfussball von einem anderen Stern. Das revolutionäre 4-2-4 war geboren! Und mit ihm der wohl beste Spieler aller Zeiten. Edson Arantes do Nascimento, alias Pelé.
 
 1️⃣9️⃣6️⃣2️⃣ geht als die WM der bösen Buben in die Geschichte ein. Grätschen gehören zum guten Ton! Wilde Schlägereien sorgen für Abwechslung. Italien gegen Gastgeber Chile ist der absolute „Höhepunkt“, bei dem mehrere Akteure vom Platz fliegen. Den Brasilianern gelingt es, ihren Titel souverän zu verteidigen. Auch ohne ihren Stürmerstar Pelé, der wieder einmal böse zugerichtet wird. Spieler des Turniers ist Rechtsaussen Garrincha, der mit seinen O- und X-Beinen die gegnerischen Abwehrreihen schwindlig spielt.
 
