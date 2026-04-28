@@ -7,14 +7,15 @@ image: img/img_0722.jpeg
 \
  WELTMEISTERSCHAFTEN 1930-1978
 
-1️⃣9️⃣3️⃣0️⃣ bekommt der Fussball endlich das was ihm gebührt! Ein Turnier, das die weltweite Creme de la Creme im Vierjahres-Rhytmus zusammenbringt. Als amtierender Olympiasieger darf sich Uruguay um die Organisation der Erstauflage kümmern.  Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Fehlende Devisen und notorische Flugangst vieler Protagonisten sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Der Gastgeber macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem legendären Jules-Rimet-Wanderpokal!
+1️⃣9️⃣3️⃣0️⃣ bekommt der Fussball endlich das was ihm gebührt! Ein Turnier, das die weltweite Creme de la Creme im Vierjahres-Rhytmus zusammenbringt. Als amtierender Olympiasieger darf sich Uruguay um die Organisation der Erstauflage kümmern.  Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Fehlende Devisen sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Der Gastgeber macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem legendären Jules-Rimet-Wanderpokal!
 
-1️⃣9️⃣3️⃣4️⃣  holt sich Italien den ersten von insgesamt vier WM-Titeln. Im Finale von Rom haben die Tschechoslowakei nach der Verlängerung das Nachsehen. Trainer Pozzo, Legionär Piola und Sturmführer Giuseppe Meazza sind die Protagonisten. Letzterem wird Jahrzehnte später die Ehre zuteil
+1️⃣9️⃣3️⃣4️⃣  holt sich Italien den ersten von insgesamt vier WM-Titeln. Im Finale von Rom haben die Tschechoslowakei nach der Verlängerung das Nachsehen. Trainer Pozzo, Legionär Piola und Sturmführer Giuseppe Meazza, nach dem Jahrzehnte später das altehrwürdige San-Siro Stadion benannt wird, sind die Protagonisten.
 
-1️⃣9️⃣3️⃣8️⃣ doppelt Italien nach. Trainerlegende Pozzo baut erneut auf seinen „Stamm“ und setzt sich im Pariser Prinzenpark mit 2:1 gegen die Magyaren durch.
+1️⃣9️⃣3️⃣8️⃣ doppelt Italien nach. Trainerlegende Vittorio Pozzo baut erneut auf seinen „Stamm“ und setzt sich im Stade de Colombes mit 4:2 gegen die Ungarn durch. Es sind die schlimmen Jahre des Faschismus, wo Bennito Mussolini  den WM-Triumph zu Propagandazwecken missbraucht.
 
 1942 und 1946 fällt die WM wegen des 2. Weltkrieges aus.  
 
+\
 1️⃣9️⃣5️⃣0️⃣ wird in brasilianischen Überlieferungen als das Jahr der Demütigung zelebriert. Vor der Rekordkulisse von 170‘000 Zuschauern zerstört Uru-Legende Juan Alberto Schiaffino den Traum einer ganzen Nation. Vor lauter Tränen soll der Meeresspiegel an der Copacabana innert weniger Minuten auf Rekordniveau gestiegen sein. Uruguay ist zum zweiten Male Weltmeister.
 
 1️⃣9️⃣5️⃣4️⃣ redet man nach dem Finale nur noch vom Wunder von Bern! Wie sensationell der Sieg der Deutschen gewesen sein muss, belegt die Tatsache, dass Ungarn-Trainer Szebes auf dem Sterbebett immer noch nicht glauben wollte, dass seine bis dahin ungeschlagene Elf nach einer 2:0 Führung das Heft noch  aus der Hand gegeben hatte. Fritz Walter und Uwe Rahn stehlen Ferenc Puskas und Sandor Koscics die Show.
