@@ -6,9 +6,9 @@ image: img/img_0724.jpeg
 ---
 Von aussen sah der Laden unscheinbar aus! Doch wenn man eintrat, während man den schweren dunklen Vorhang beiseite schob, erhöhte sich augenblicklich die Pulsfrequenz. Hier verbrachten wir unsere besten Jahre. Gefangen zwischen Herz ❤️ Schufflä ♠️ Eggä ♦️und Chrüz ♣️
 
-„Wänn vor lutär Haggä+Pokärä, Molotov+Rumba, Guggitalär+Coiffeur, Schufflä ♠️ Jass+Scala🃏Quaranta“ andere Vergnügungen in Vergessenheit geraten, ist es Zeit über die Bücher 📚 zu gehen. Suchtopfer sind in solch heiklen Situationen oft auf sich alleine gestellt. Ein Ausweg aus der Sackgasse scheint fast unmöglich. Da ist jede Hilfe willkommen.
+„Wänn vor lutär Haggä+Pokärä, Molotov+Rumba, Guggitalär+Coiffeur, Schufflä ♠️ Jass+Scala🃏Quaranta“ andere Vergnügungen in Vergessenheit geraten, ist es Zeit über die Bücher zu gehen. Suchtopfer sind in solch heiklen Situationen oft auf sich alleine gestellt. Ein Ausweg aus der Sackgasse scheint fast unmöglich. Da ist jede Hilfe willkommen.
 
-„Schtatt änand immär numä d’Chölä 💶 abneh, gömmär zämä go tschuttä“ ⚽️. Die Idee schien perfekt. War sie auch umsetzbar? Schliesslich brauchte es einen Verein, der diese schwer zu integrierenden Querulanten bei sich aufnahm. Als der FC Kreuzlingen sein Einverständnis signalisierte, war der Weg frei. Jetzt musste nur noch ein passender Name gefunden werden.
+„Schtatt änand immär numä d’Chölä 💶 abneh, gömmär zämä go tschuttä. Die Idee schien perfekt. War sie auch umsetzbar? Schliesslich brauchte es einen Verein, der diese schwer zu integrierenden Querulanten bei sich aufnahm. Als der FC Kreuzlingen sein Einverständnis signalisierte, war der Weg frei. Jetzt musste nur noch ein passender Name gefunden werden.
 
 FC Kafi Sunnähof wäre eigentlich auf der Hand gelegen, hatten doch die meisten „Obdachlosen“ im Sonnenhof Nr. 6 ihre Bleibe gefunden. Bis auf die Matratzen war dort alles vorhanden. Als man davon ausgehen musste, dass der OFV diese Bezeichnung ablehnen würde und weil das „Starensemble“ nicht gerade mit Ausnahmetalenten gesegnet war, entschied man sich für den  Begriff „Hobbyteam“, der dem Ganzen einen Anstrich von Andersartigkeit geben sollte.
 
