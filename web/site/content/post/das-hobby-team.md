@@ -16,7 +16,7 @@ Leider hat man es damals versäumt, ein Tagebuch zu führen. Es hätte ein Bests
 
 Mit einem für damalige Verhältnisse revolutionären 4-3-3 ging es zum ersten Freundschaftsspiel „gegä s’Zwei“!  In der Kabine war ein Hauch von Aufbruch zu spüren. Auf der Tafel hatte der Coach im Stile „Trappatoni“ jede Position mit Namen besetzt. Die Startelf durfte sich durchaus sehen lassen:: Baffi; Teacher, Mario Gaccioli, Kurt Iller, Schuhmake; Luciano Schüepp, Heinz Ruppli, Renê Maier, Berni Veit, Brunette und Linksaussen Kurt Meier, der in Anlehnung an brasilianische Ballzauberer den Spitznamen „Banquette“ bekam.
 
-Fast noch hochkarätiger war die Ersatzbank bestückt. Dä Soppi, dä Pölv, dä Willi und dä Bruno Meier, dä Wisi und dä Geni liefen sich vorsichtshalber schon mal warm. Dass die Partie am Ende nur 5:3 für unsere „Intimfeinde“ ausging, liess die Euphorie in den siebten Himmel wachsen. Bereits war von Durchmarsch durch Liga 5 die Rede. Spätestens da hätte ich auf die Bremse treten müssen.
+Fast noch hochkarätiger war die Ersatzbank bestückt. Dä Soppi, dä Pölv, dä Willi und dä Bruno Meier, dä Wisi und dä Geni liefen sich vorsichtshalber schon mal warm. Dass die Partie am Ende nur 5:3 für unsere „Intimfeinde“ ausging, liess die Euphorie in den siebten Himmel wachsen. Bereits war von Durchmarsch die Rede. Spätestens da hätte ich auf die Bremse treten müssen.
 
 Dann kam Wittenbach! Ein trüber Sonntagmorgen im August 1980!  Im Sanktgallischen nieselte es! Kaum ein Supporter war mitgereist. Nur Rolf und Dog harrten der Dinge, die da kommen sollten. Als Neuling in Liga 5  waren wir anfangs noch leicht desorientiert. Nachdem man Vorstopper Iller noch rechtzeitig aus der „Nachtschicht“ geholt hatte, pfiff der Schiri die Partie an.
 
