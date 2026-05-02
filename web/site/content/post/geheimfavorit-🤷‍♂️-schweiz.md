@@ -1,5 +1,5 @@
 ---
-title: Geheimfavorit Schweiz  9.6.
+title: Geheimfavorit Schweiz  7.6.
 draft: true
 date: 2025-12-28T15:15:43.363Z
 image: img/img_0740.jpeg
