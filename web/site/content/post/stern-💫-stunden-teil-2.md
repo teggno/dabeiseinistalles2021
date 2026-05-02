@@ -1,5 +1,5 @@
 ---
-title: Sternstunden Teil 2 (3. Juni)
+title: Sternstunden Teil 2 (6.6.)
 draft: true
 date: 2025-11-27T09:32:39.307Z
 image: img/img_0733.jpeg
