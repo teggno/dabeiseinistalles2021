@@ -1,5 +1,5 @@
 ---
-title: Almosenempfänger
+title: Almosenempfänger 9.6.
 draft: true
 date: 2026-04-04T10:51:44.835Z
 image: img/img_0024.jpeg
