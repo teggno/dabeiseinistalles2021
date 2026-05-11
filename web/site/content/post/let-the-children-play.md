@@ -4,7 +4,7 @@ draft: true
 date: 2026-05-11T19:51:39.884Z
 image: img/img_0728.jpeg
 ---
-Ausgeteilte Stimmzettel 66! Eingegangen 66! Davon 16 auf den letzten Drücker! Ungültig 0! Äusserst interessant 7! Nostalgisch angehaucht 9! Der Norm entsprechend 17! Unkonventionell 6!  Halsbrecherisch 10! Chancenlos 16! Siegessicher 1! Somit kurven in den nächsten paar Wochen 66 Weltenbummler über die legendäre Route 66. Von Chicago bis hinunter nach Santa Monica. Vorbei am Grand Canyon, quer durch das Death Valley. Mit Abstechern nach Kanada und Mexico. Am Ende wartet nehmen wir Kurs auf  New York 
+Ausgeteilte Stimmzettel 66! Eingegangen 66! Davon 16 auf den letzten Drücker! Ungültig 0! Äusserst interessant 7! Nostalgisch angehaucht 9! Der Norm entsprechend 17! Unkonventionell 6!  Halsbrecherisch 10! Chancenlos 16! Siegessicher 1! Somit kurven in den nächsten paar Wochen 66 Weltenbummler über die legendäre Route 66. Von Chicago bis hinunter nach Santa Monica. Vorbei am Grand Canyon, quer durch das Death Valley. Mit Abstechern nach Kanada und Mexico. Am Ende nehmen wir Kurs auf  New York 
 
 Es freut mich ausserordentlich, dass von A wie Affentranger über I wie Italien, bis Z wie Zaccaria alles dabei ist, was dieses Klassentreffen so einzigartig macht. Erstaunlich wie oft mir in den letzten Tagen das Kosewort „Schweiz“ über den Weg gelaufen ist. Waren es bei früheren Gelegenheiten höchstens eine Handvoll, die sich mit Helvetia anfreundeten, sind es heute mehr als zwanzig, die den Eidgenossen ein Vordringen unter die „Best of 6“ zutrauen. Trotz „Taugenichts“ Yakin, der bei vielen Ur🇨🇭einwohnern bis vor kurzem einen schweren Stand hatte!  Was geschieht erst, wenn er als Weltmeistermacher aus Übersee zurückkehren sollte? 
 
