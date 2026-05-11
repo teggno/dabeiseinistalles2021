@@ -1,5 +1,5 @@
 ---
-title: Sixtysix
+title: Sixtysix 🥳
 draft: true
 date: 2026-05-11T19:51:39.884Z
 image: img/img_0728.jpeg
