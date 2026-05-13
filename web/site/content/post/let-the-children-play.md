@@ -1,7 +1,7 @@
 ---
 title: "Sixtysix "
 draft: true
-date: 2026-05-11T19:51:39.884Z
+date: 2026-05-13T09:39:37.643Z
 image: img/img_0728.jpeg
 ---
 Ausgeteilte Stimmzettel 66! Eingegangen 66! Davon 16 auf den letzten Drücker! Ungültig 0! Äusserst interessant 7! Exotisch angehaucht 9! Der Norm entsprechend 17! Unkonventionell 6!  Halsbrecherisch 10! Chancenlos 16! Siegessicher 1! Somit kurven in den nächsten paar Wochen 66 Weltenbummler über die legendäre Route 66. Von Chicago bis hinunter nach Santa Monica, vorbei  am Grand Canyon, quer durch das Death Valley. Mit Abstechern nach Kanada und Mexico. Am Ende nehmen wir Kurs auf New York, wo am  19. Juli im  Met-Life Stadion das grosse Finale über die Bühne geht.
