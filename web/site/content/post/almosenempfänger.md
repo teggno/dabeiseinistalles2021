@@ -8,4 +8,4 @@ image: img/img_0024.jpeg
 
 Auf der Suche nach einem Funken Hoffnung kam Trumps Hofnarr namens Zanotti ins Spiel. Er hätte seinen Kumpel aus dem Oval Office dazu überredet, den Iran aus dem Teilnehmerfeld zu streichen. Stattdessen sollte der viermalige Weltmeister in die Bresche springen. Teenager, die ihr Land noch nie bejubeln durften, begannen zu träumen. Selbst der Schreiberling zeigte sich einem Allmosen gegenüber nicht abgeneigt. Hand aufs Herz!  Was soll eine Gala der Schönsten wenn Aphrodite 🧜🏻‍♀️ nicht da ist? 
 
-Nun ist verkündet worden, dass der Traum geplatzt ist. Giorgias Umgarnung ist bei Donald auf unfruchtbaren Boden gefallen.
+Nun ist verkündet worden, dass der Traum geplatzt ist. Giorgias Umgarnung ist bei Donald auf unfruchtbaren Boden gefallen. Meine Vision hat Schiffbruch erlitten. Der Nostalgiker in mir erinnerte sich an das Jahr 1992, als das damalige Jugoslawien im Krieg war und von der EM ausgeschlossen wurde. Spontan eingesprungen sind damals die Dänen, die kurz davor noch in der Südsee unter den Palmen lagen. Was dann passierte, grenzte an das siebte Weltwunder. Dänemark wurde Europameister…..
