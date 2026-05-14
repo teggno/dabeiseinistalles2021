@@ -1,5 +1,5 @@
 ---
-title: Niente elemosina 😓
+title: Keine Allmosen 😓
 draft: true
 date: 2026-05-14T10:41:40.738Z
 image: img/img_0024.jpeg
