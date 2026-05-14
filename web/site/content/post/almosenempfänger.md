@@ -1,7 +1,7 @@
 ---
-title: A
+title: Niente elemosina 😓
 draft: true
-date: 2026-04-04T10:51:44.835Z
+date: 2026-05-14T10:41:40.738Z
 image: img/img_0024.jpeg
 ---
 “L‘Italia non c‘e piu“ , titelte das neapolitanische Referenzblatt „Il Mattino„ am Tag danach. Italiens  bestbezahlte Müssiggänger hatten gerade das Kunststück fertiggebracht, sich zum dritten Male hintereinander nicht für eine WM zu qualifizieren. Arrogant, überbewertet und ängstlich! Ihre Körpersprache, die schon vor dem Anpfiff Bände sprach. Während Bosnien in den „Krieg“ zog, hielten sich die Azzurri an der glorreichen Vergangenheit fest. Dass ihnen längst kein Respekt mehr entgegengebracht wird und sie als fussballerisches Drittweltland wahrgenommen werden, geriet in Vergessenheit. Nach der Schmach trafen aus der ganzen Welt teils hämische Beileidsbekundungen ein. Nach dem Motto: „Wer den Schaden hat, braucht für den Spott nicht zu  sorgen“.
