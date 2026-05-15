@@ -12,7 +12,7 @@ Ständig als Klassenbester zu gelten und trotz allem im wichtigsten Moment zu ve
 
 Weil ich meine deutschen Kolleginnen und Kollegen nicht vor den Kopf stossen will, liste ich die Nagelsmänner hier auf. Sie scheinen mir zu normal. Musiala wenn fit und Wirz heben sich vom Durchschnitt ab. Ist Goalie Baumann der Aufgabe gewachsen? Woltemades Entwicklung ist bei Newcastle ins Stocken geraten. Sind die Jungen wie Pavlovic und Karl schon so weit?  Bauchweh macht mir dieses mögliche Achtelfinale….
 
-Argentinien hat den Pokal im Gepäck! Nehmen sie ihn auch gleich wieder mit? Messi ist vier Jahre älter geworden. Der Coach vertraut ihm, genauso wie den meisten anderen WM-Helden von 2022!  Marcello Lippi passierte dasselbe Missgeschick im Jahre 2010 als er sich bei seinen Oldies für den Effort von 2006 bedanken wollte. Fehler die man irgendwann bezahlt.
+Messi & Co. haben den Pokal im Gepäck! Nehmen sie ihn auch gleich wieder mit? Lionel ist vier Jahre älter geworden. Der Coach vertraut ihm, genauso wie den meisten anderen WM-Helden von 2022!  Marcello Lippi passierte dasselbe Missgeschick im Jahre 2010 als er sich bei seinen Oldies für den Effort von 2006 bedanken wollte. Fehler die man irgendwann bezahlt.
 
 Allison-Vinicius-Ancelotti. Eine Achse die von aussen zuwenig stabil erscheint. Die einstigen Sambagrössen haben ihren Glanz verloren. Garrincha, Ronaldo, Pelé! Gänsehaut pur! Emotionen die Neymar nie entfachen konnte. Ist seine Berufung der Schlüssel zum Erfolg oder erleben wir den König der Schwalben am Boden? Carlos Image könnte einen Kratzer kriegen.
 
