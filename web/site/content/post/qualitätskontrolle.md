@@ -6,7 +6,7 @@ image: img/img_0033.jpeg
 ---
 DD geht auf „all in“ und nominert anstelle der üblichen Anzahl Mittelfeldspieler (7-9) nur deren 5. Dafür sind 9 Stürmer im Aufgebot. So etwas hab ich in meiner 65 jährigen „Karriere“ noch nie erlebt. Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben. Wenn die Jungs von Luis Enrique nicht ausgelaugt sind, ist Frankreich eine Bank. Mbappé‘s Formkurve wird mitentscheidend sein.
 
-Ständig als Klassenbester zu gelten und nie zu reüssieren. Das ist Englands Kluft zwischen Premier League und Nationalmannschaft. Ich schwöre auf die Jungs, weil sie etwas von mir haben. Neunmal stehe ich im Coop an die falsche Kasse und beim zehnten Mal klappt’s. Ist es ausgerechnet der Schwabe Thomas Tuchel der mit deutschen Tugenden die Chance packt?
+Ständig als Klassenbester zu gelten und nie zu reüssieren. Das ist Englands Kluft zwischen Premier League und Nationalmannschaft. Ich schwöre auf die Jungs, weil sie etwas von mir haben. Neunmal stehe ich im Coop an die falsche Kasse und beim zehnten Mal klappt’s. Ist es ausgerechnet der Schwabe Thomas Tuchel der mit deutschen Tugenden meine Steilvorlage verwertet?
 
 Messi & Co. haben den Pokal im Gepäck! Nehmen sie ihn auch gleich wieder mit? Lionel ist vier Jahre älter geworden. Der Coach vertraut ihm, genauso wie den meisten anderen WM-Helden von 2022!  Marcello Lippi passierte dasselbe Missgeschick im Jahre 2010 als er sich bei seinen Oldies für den Effort von 2006 bedanken wollte. Fehler die man irgendwann bezahlt.
 
