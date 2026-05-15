@@ -8,7 +8,7 @@ DD geht auf „all in“ und nominert anstelle der üblichen Anzahl Mittelfeldsp
 
 Ständig als Klassenbester zu gelten und nie zu reüssieren. Das ist Englands Kluft zwischen Premier League und Nationalmannschaft. Ich schwöre auf die Jungs, weil sie etwas von mir haben. Neunmal stehe ich im Coop an die falsche Kasse und beim zehnten Mal klappt’s. Ist es ausgerechnet der Schwabe Thomas Tuchel der mit deutschen Tugenden meine Steilvorlage verwertet?
 
-Messi & Co. haben den Pokal im Gepäck und wollen ihn gleich wieder mitnehmen. Lionel ist vier Jahre älter geworden. Der Coach vertraut ihm, genauso wie den meisten anderen WM-Helden von 2022!  Marcello Lippi passierte dasselbe Missgeschick im Jahre 2010 als er sich bei seinen Oldies für den Effort von 2006 bedanken wollte. Fehler die man irgendwann bezahlt.
+Messi & Co. haben den Pokal im Gepäck und wollen ihn gleich wieder mitnehmen. Lionel ist vier Jahre älter geworden. Der Coach vertraut ihm dennoch, genauso wie den meisten WM-Helden von 2022!  Marcello Lippi passierte dasselbe Missgeschick im Jahre 2010 als er sich bei seinen Oldies für den Effort von 2006 bedanken wollte. Fehler die man irgendwann bezahlt.
 
 Allison-Vinicius-Ancelotti. Eine Achse die von aussen zuwenig stabil erscheint. Die einstigen Sambagrössen haben ihren Glanz verloren. Garrincha, Ronaldo, Pelé! Gänsehaut pur! Emotionen die Neymar nie entfachen konnte. Ist seine Berufung der Schlüssel zum Erfolg oder erleben wir den König der Schwalben am Boden? Carlettos Image könnte einen Kratzer kriegen.
 
