@@ -4,7 +4,7 @@ draft: true
 date: 2026-05-15T07:12:00.740Z
 image: img/img_0033.jpeg
 ---
-DD geht auf „all in“ und nominert anstelle der üblichen Anzahl Mittelfeldspieler (7-9) nur deren 5. Dafür sind 9 Stürmer im Aufgebot. So etwas hab ich in meiner 65 jährigen „Karriere“ noch nie erlebt. Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben. Wenn die Jungs von Luis Enrique nicht ausgelaugt sind, ist Frankreich unter den Top 4 anzusiedeln. Mbappé‘s Formkurve wird mitentscheidend sein.
+DD geht auf „all in“ und nominert anstelle der üblichen Anzahl Mittelfeldspieler (7-9) nur deren 5. Dafür sind 9 Stürmer im Aufgebot. So etwas hab ich in meiner 65 jährigen „Karriere“ noch nie erlebt. Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben. Wenn die Jungs von Luis Enrique nicht ausgelaugt sind, ist Frankreich eine Bank. Mbappé‘s Formkurve wird mitentscheidend sein.
 
 Ständig als Klassenbester zu gelten und trotz allem im wichtigsten Moment zu versagen! Das ist Englands Kluft zwischen Premier League und Nationalmannschaft. Ich schwöre auf die Jungs, weil sie etwas von mir haben. Neunmal stehe ich im Coop an die falsche Kasse und beim zehnten Mal klappt’s. Ist es ausgerechnet der Schwabe Thomas Tuchel der mit deutschen Tugenden den Fluch besiegt?
 
