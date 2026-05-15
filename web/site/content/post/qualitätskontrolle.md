@@ -14,4 +14,6 @@ Weil ich meine deutschen Kolleginnen und Kollegen nicht vor den Kopf stossen wil
 
 Argentinien hat den Pokal im Gepäck! Nehmen sie ihn auch gleich wieder mit? Messi ist vier Jahre älter geworden. Der Coach vertraut ihm, genauso wie den meisten anderen WM-Helden von 2022!  Marcello Lippi passierte dasselbe Missgeschick im Jahre 2010 als er sich bei seinen Oldies für den Effort von 2006 bedanken wollte. Fehler die man irgendwann bezahlt.
 
-Allison-Vinicius-Ancelotti. Eine Achse die von aussen zuwenig stabil erscheint. Die einstigen Sambagrössen haben ihren Glanz verloren. Garrincha, Ronaldo, Pelé! Gänsehaut pur! Emotionen die Neymar nie entfachen konnte. Ist seine Berufung der Schlüssel zum Erfolg oder erleben wir den König der Schwalben am Boden?
+Allison-Vinicius-Ancelotti. Eine Achse die von aussen zuwenig stabil erscheint. Die einstigen Sambagrössen haben ihren Glanz verloren. Garrincha, Ronaldo, Pelé! Gänsehaut pur! Emotionen die Neymar nie entfachen konnte. Ist seine Berufung der Schlüssel zum Erfolg oder erleben wir den König der Schwalben am Boden? Carlos Image könnte einen Kratzer kriegen.
+
+Wenn ich nur nicht an dieser verflixten Wahrscheinlichkeitsrechnung hinge. Man stelle sich vor, man wechselt das Pferdchen und genau dann läuft es allen davon. Das soll mir nicht passieren und darum ist Spanien nicht mein Weltmeister. Obwohl alles für ihn spricht. Qualität, Erfahrung, Jugendlicher Leichtsinn! Alleine Yamal wäre diese Sünde wert. Einzig auf der 9 ist ein leichtes Manko auszumachen.
