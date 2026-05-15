@@ -1,5 +1,5 @@
 ---
-title: "Offenes Geheimnis "
+title: Einer von denen 🤔
 draft: true
 date: 2026-05-15T07:12:00.740Z
 image: img/img_0033.jpeg
