@@ -6,7 +6,7 @@ image: img/img_0033.jpeg
 ---
 DD geht auf „all in“ und nominert anstelle der üblichen Anzahl Mittelfeldspieler (7-9) nur deren 5. Dafür sind 9 Stürmer im Aufgebot. So etwas hab ich in meiner 65 jährigen „Karriere“ noch nie erlebt. Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben. Wenn die Jungs von Luis Enrique nicht ausgelaugt sind, ist Frankreich unter den Top 4 anzusiedeln. Mbappé‘s Formkurve wird mitentscheidend sein.
 
-Ständig als Klassenbester zu gelten und trotz allem im wichtigsten Moment zu versagen! Das ist Englands Kluft zwischen Premier League und Nationalmannschaft. Ich schwöre auf die Jungs, weil sie etwas von mir haben. Neunmal stehe ich im Coop an die falsche Kasse und beim zehnten Mal klappt’s. Ist es ausgerechnet der Schwabe Thomas Tuchel der den ewigen Fluch besiegt?
+Ständig als Klassenbester zu gelten und trotz allem im wichtigsten Moment zu versagen! Das ist Englands Kluft zwischen Premier League und Nationalmannschaft. Ich schwöre auf die Jungs, weil sie etwas von mir haben. Neunmal stehe ich im Coop an die falsche Kasse und beim zehnten Mal klappt’s. Ist es ausgerechnet der Schwabe Thomas Tuchel der mit deutschen Tugenden den Fluch besiegt?
 
 Weil ich meine deutschen Kolleginnen und Kollegen nicht vor den Kopf stossen will, lasse ich die Nagelsmänner nicht einfach so links liegen. Sie scheinen mir jedoch zu normal. Musiala wenn fit und Wirz heben sich vom Durchschnitt ab. Ist Goalie Baumann der Aufgabe gewachsen? Woltemades Entwicklung ist bei Newcastle ins Stocken geraten. Sind die Jungen wie Pavlovic und Karl schon so weit?  Bauchweh macht mir dieses mögliche Achtelfinale….
 
