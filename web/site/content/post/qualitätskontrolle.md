@@ -10,7 +10,7 @@ Totgesagte leben länger. Dieser Ausserirdische ist sogar in der Wüste klargeko
 
 Ständig als Klassenbester zu gelten und trotz allem im wichtigsten Moment zu versagen! Das ist Englands Kluft zwischen Premier League und Nationalmannschaft. Ich schwöre auf die Jungs, weil sie etwas von mir haben. Neunmal stehe ich im Coop an die falsche Kasse und beim zehnten Mal klappt’s. Ist ausgerechnet der Schwabe Thomas Tuchel jener Fussballgott, der den ewigen Fluch besiegt?
 
-Weil ich meine deutschen Kolleginnen und Kollegen nicht vor den Kopf stossen will, liste ich die Nagelsmänner hier auf. Sie scheinen mir zu normal. Musiala wenn fit und Wirz heben sich vom Durchschnitt ab. Ist Goalie Baumann der Aufgabe gewachsen. Woltemades Entwicklung ist bei Newcastle ins Stocken geraten. Sind die Jungen wie Pavlovic und Karl schon so weit?  Bauchweh macht mir dieses mögliche Achtelfinale!
+Weil ich meine deutschen Kolleginnen und Kollegen nicht vor den Kopf stossen will, liste ich die Nagelsmänner hier auf. Sie scheinen mir zu normal. Musiala wenn fit und Wirz heben sich vom Durchschnitt ab. Ist Goalie Baumann der Aufgabe gewachsen? Woltemades Entwicklung ist bei Newcastle ins Stocken geraten. Sind die Jungen wie Pavlovic und Karl schon so weit?  Bauchweh macht mir dieses mögliche Achtelfinale….
 
 Argentinien hat den Pokal im Gepäck! Nehmen sie ihn auch gleich wieder mit? Messi ist vier Jahre älter geworden. Der Coach vertraut ihm, genauso wie den meisten anderen WM-Helden von 2022!  Marcello Lippi passierte dasselbe Missgeschick im Jahre 2010 als er sich bei seinen Oldies für den Effort von 2006 bedanken wollte. Fehler die man irgendwann bezahlt.
 
