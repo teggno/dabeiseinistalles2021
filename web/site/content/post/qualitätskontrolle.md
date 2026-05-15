@@ -16,7 +16,7 @@ Wenn ich nur nicht in diese verflixte Wahrscheinlichkeitsrechnung vernarrt wäre
 
 Weil ich meine deutschen Kolleginnen und Kollegen nicht vor den Kopf stossen will, lasse ich die Nagelsmänner nicht einfach so links liegen. Sie scheinen mir jedoch zu normal. Musiala wenn fit und Wirz heben sich vom Durchschnitt ab. Ist Goalie Baumann der Aufgabe gewachsen? Woltemades Entwicklung ist bei Newcastle ins Stocken geraten. Sind die Jungen wie Pavlovic und Karl schon so weit?  Bauchweh macht mir dieses mögliche Achtelfinale….
 
-Totgesagte leben länger. Dieser Ausserirdische ist sogar in der Wüste klargekommen. Nie mein Kumpel, doch was recht ist, ist recht. Er hat es allen gezeigt. Kürzlich verstaute er eine weitere Trophäe in seinem Schrank. Al Nasr liegt ihm seither zu Füssen. Wenn ich mir seine Komparsen im portugiesischen Team anschaue, muss ich die Europameister von 2016 als geheime Nummer einstufen. Obwohl sie nicht auf dem Bild figurieren. Ronaldos Biographie wäre komplett.
+Totgesagte leben länger. Dieser Ausserirdische ist sogar in der Wüste klargekommen. Nie mein Freund, doch was recht ist, ist recht. Er hat es allen gezeigt. Kürzlich verstaute er eine weitere Trophäe in seinem Schrank. Al Nasr liegt ihm seither zu Füssen. Wenn ich mir seine Komparsen im portugiesischen Team anschaue, muss ich die Europameister von 2016 als geheime Nummer einstufen. Obwohl sie nicht auf dem Bild figurieren. Ronaldos Biographie wäre komplett.
 
 PS:
 
