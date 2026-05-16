@@ -10,6 +10,6 @@ Nach all den Demütigungen, die ich in letzter Zeit erleben musste, ist es mir e
 
 Auf der Suche nach einem Funken Hoffnung, Italien doch noch in den USA spielen zu sehen, kam Trump‘s Sondergesandter Paolo Zampolli ins Spiel. Laut eigenen Aussagen hatte er seinen Kumpel aus dem Oval Office den Vorschlag unterbreitet, die WM-Teilnahme des Irans einer näheren Prüfung zu unterziehen. Stattdessen sollten die Azzurri in die Bresche springen. Teenager, die ihr Land noch nie an einer WM bejubeln durften, begannen zu träumen. Selbst der Schreiberling zeigte sich in Sachen Almosen nicht abgeneigt. Ohne seine Aphrodite 🧜🏻‍♀️ schien ihm die ganze Veranstaltung fast sinnlos.
 
-Nun ist verkündet worden, dass der Traum einer ganzen Generation geplatzt ist. Giorgias Einschmeichelungen fielen bei Donald auf unfruchtbaren Boden. Keine Almosen und somit keine Neuauflage von 1992 als die unter den Palmen der Südsee weilenden Dänen für die Krieg führenden Jugoslawen einsprangen und einen der grössten Coups der Fussballgeschichte landeten.
+Nun ist verkündet worden, dass der Traum einer ganzen Generation geplatzt ist. Giorgias Einschmeichelungen fielen bei Donald auf unfruchtbaren Boden. Keine Almosen und somit keine Neuauflage von 1992 als die unter den Palmen der Südsee weilenden Dänen für die kriegführenden Jugoslawen einsprangen und einen der grössten Coups der Fussballgeschichte landeten.
 
 Italien das war einmal. Was bleibt, ist die Erinnerung! Scirea…..Bergomi……Scirea……Tardelli……Tooooooor  🎆
