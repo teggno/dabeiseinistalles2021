@@ -1,5 +1,5 @@
 ---
-title: Passt das zusammen❓(8. Juni)
+title: Passt das zusammen❓9.6.
 draft: true
 date: 2026-01-19T15:31:42.059Z
 image: img/img_0008.jpeg
