@@ -1,5 +1,5 @@
 ---
-title: Einer von denen 🤔
+title: Einer von denen 🤔. 5.6.
 draft: true
 date: 2026-05-15T07:12:00.740Z
 image: img/img_0033.jpeg
