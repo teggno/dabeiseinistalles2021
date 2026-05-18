@@ -1,5 +1,5 @@
 ---
-title: X
+title: X 6.6.
 draft: true
 date: 2026-05-18T17:28:31.031Z
 image: img/img_0031.jpeg
