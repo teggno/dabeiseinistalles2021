@@ -9,7 +9,7 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣3️⃣0️⃣ bekommt der Fussball endlich das was ihm gebührt! Ein Turnier, das die weltweite Creme de la Creme im Vierjahres-Rhytmus zusammenbringt. Als amtierender Olympiasieger darf sich Uruguay um die Organisation der Erstauflage kümmern.  Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Fehlende Devisen sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Der Gastgeber macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem legendären Jules-Rimet-Wanderpokal!
 
-1️⃣9️⃣3️⃣4️⃣  holt sich Italien den ersten von insgesamt vier WM-Titeln. Im Finale von Rom haben die Tschechoslowakei nach der Verlängerung das Nachsehen. Trainer Pozzo, Legionär Piola und Sturmführer Giuseppe Meazza, nach dem Jahrzehnte später das altehrwürdige San-Siro Stadion benannt wird, sind die Protagonisten.
+1️⃣9️⃣3️⃣4️⃣  holt sich Italien den ersten von insgesamt vier WM-Titeln. Im Finale von Rom haben die Tschechoslowakei nach der Verlängerung das Nachsehen. Trainer Pozzo, Legionär Piola und Sturmführer Giuseppe Meazza sind die Protagonisten.
 
 1️⃣9️⃣3️⃣8️⃣ doppelt die Squadra Azzurra nach. Trainerlegende Vittorio Pozzo baut erneut auf seinen „Stamm“ und setzt sich im Stade de Colombes (nicht in Paris) mit 4:2 gegen die Ungarn durch. Es sind die schlimmen Jahre des Faschismus, in denen Bennito Mussolini  den WM-Triumph zu Propagandazwecken missbraucht.
 
