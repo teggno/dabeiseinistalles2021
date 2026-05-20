@@ -2,7 +2,7 @@
 title: Keine Almosen
 draft: true
 date: 2026-05-14T10:41:40.738Z
-image: img/img_0024.jpeg
+image: img/img_0034.jpeg
 ---
 In diesen Wochen der Isolation schauen wir zurück und stellen uns vor wie es damals war. Wehmut kommt auf wenn wir uns  an Pablito erinnern, der die Sambaklänge im Alleingang zum Verstummen brachte. Voller Mitleid denken wir an unseren „Divin Codino“ zurück, der seinen Elfer in den Nachthimmel von Pasadena hämmerte.  Und Giuseppe sind wir dankbar, nicht umsonst überschrieben wir ihm das San Siro. Wenn wir an Roberto und seinen Freund Luca denken, kommt uns ihre Umarmung von Wembley in den Sinn, nachdem sie zusammen mit einer 0815-Truppe das Wunder von London erschaffen hatten. Toto werden wir nie vergessen. Er, der mt seinen leuchtenden Augen eine ganze Nation verzauberte. Und Fabio erst, der uns nach seinem verwandelten Elfer auf Wolke 7  schweben liess. Wir waren die Meister im Betonmischen, unsere Konter überall gefürchtet.
 
