@@ -1,5 +1,5 @@
 ---
-title: Keine Almosen
+title: "Kein Almosen "
 draft: true
 date: 2026-05-14T10:41:40.738Z
 image: img/img_0034.jpeg
@@ -10,4 +10,4 @@ In diesen Wochen der Isolation schauen wir zurück und stellen uns vor wie es da
 
 Auf der Suche nach einem Funken Hoffnung, Italien doch noch in den USA spielen zu sehen, kam Trumps Sondergesandter Paolo Zampolli ins Spiel. Laut eigenen Aussagen hatte er seinem Kumpel aus dem Oval Office den Vorschlag unterbreitet, die WM-Teilnahme des Irans nochmals zu prüfen. Stattdessen sollten die Azzurri in die Bresche springen. Teenager, die ihr Land noch nie an einer WM bejubeln durften, begannen zu träumen. Selbst der Schreiberling zeigte sich in Sachen Almosen nicht abgeneigt. Ohne seine Aphrodite 🧜🏻‍♀️ schien ihm die ganze Veranstaltung fast sinnlos.
 
-Nun ist verkündet worden, dass der Traum einer ganzen Generation geplatzt ist. Giorgias Einschmeichelungen fielen bei Donald auf unfruchtbaren Boden. Keine Almosen und somit keine Neuauflage von 1992 als die unter den Palmen der Südsee weilenden Dänen für die kriegführenden Jugoslawen einsprangen und einen der grössten Coups der Fussballgeschichte landeten. Italien das war einmal. Was bleibt ist die Erinnerung! Scirea…..Bergomi……Scirea……Tardelli……Tooooooor  🎆
+Nun ist verkündet worden, dass der Traum einer ganzen Generation geplatzt ist. Giorgia ist bei Donald abgeblitzt. Kein Almosen und somit keine Neuauflage von 1992 als die unter den Palmen der Südsee weilenden Dänen für die kriegführenden Jugoslawen einsprangen und einen der grössten Coups der Fussballgeschichte landeten. Italien das war einmal. Was bleibt ist die Erinnerung! Scirea…..Bergomi……Scirea……Tardelli……Tooooooor  🎆
