@@ -10,4 +10,4 @@ Somm,  Blasi, Simon Nachbar, Carmen, Bärämäx, Ernst, Uhler, Hans Jeggli, Moni
 
 Spanien, England, Norwegen, Portugal Frankreich, Argentinien, (Marokko, Schweiz, Deutschland Brasilien)
 
-Mbappé, Kane, Messi, Haaland, Woltemade, Yamal, Wirz, Musiala,
+Mbappé, Kane, Messi, Haaland, Woltemade, Yamal, Wirz, Musiala, Dembele, Gjökeres, Isak, Alvarez, Lautaro, Vinicius, Gapko, Depay, Salah, Mané, Valverde,
