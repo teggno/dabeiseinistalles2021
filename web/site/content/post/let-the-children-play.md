@@ -10,4 +10,4 @@ Es freut mich ausserordentlich, dass von A wie Affentranger bis Z wie Zaccaria a
 
 Nach dem Schlusspfiff am 19. Juli darf sich unser Klassenbester als Sieger feiern lassen. Ihm übergeben wir  5️⃣0️⃣0️⃣ Franken in bar.  Die Nummer 2 erhält einen Brunch-Gutschein aus dem Porto Sophie in Gottlieben im Wert von Franken  1️⃣0️⃣0️⃣  und die Nummer 3  einen Apéro-Gutschein im Wert von  Franken 5️⃣0️⃣  aus demselben Haus. Nicht vergessen wollen wir die „Rote 🏮 Laterne“, die mit einem edlen Tropfen für ihr bitteres Schicksal belohnt wird.
 
-Ich freue mich zusammen mit euch auf spannende Wochen in Amerika. Wegen Zeitverschiebungen werden meine täglichen Berichte womöglich zu den unterschiedlichsten Zeiten erscheinen. Ohne den „Schlaf des Gerechten“ wird der Schreiberling nicht über die Runden kommen. I wish you Good Vibrations!
+Ich freue mich zusammen mit euch auf spannende Wochen in Amerika. Wegen Zeitverschiebungen werden meine täglichen Berichte womöglich zu den unterschiedlichsten Zeiten erscheinen. Ohne den „Schlaf des Gerechten“ wird der Schreiberling nicht über die Runden kommen. I wish you „Good Vibrations“
