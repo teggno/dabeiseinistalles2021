@@ -4,7 +4,7 @@ draft: true
 date: 2025-04-27T07:51:44.567Z
 image: img/img_0687.jpeg
 ---
-Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Brasilien 1958+1970, Deutschland 1974+1990, Argentinien 1978 und  Italien 1982+2006 haben es mir besonders angetan. Wenn ich die jeweiligen Akteure schliesslich auswendig durchgegangen bin, finde ich endlich meinen wohlverdienten Schlaf. In den letzten Nächten ist angesichts des sechzigsten Geburtstags das Jahr nineteensixtysix an der Reihe. Queen Elisabeth fiel damals die Ehre zu, Englands Helden nach dem WM-Triumph zu „Sirs of the British Empire“ zu schlagen. Ihre Namen sind heute noch Musik in meinen Ohren:
+Manchmal wenn ich nachts nicht schlafen kann, fange ich an „Ehemalige“ aufzuzählen. Brasilien 1958+1970, Deutschland 1974+1990, Argentinien 1978 und  Italien 1982+2006 haben es mir besonders angetan. Wenn ich die jeweiligen Akteure schliesslich auswendig durchgegangen bin, finde ich endlich meinen wohlverdienten Schlaf. In den letzten Nächten ist das Jahr nineteensixtysix an der Reihe. Queen Elisabeth fiel damals die Ehre zu, Englands Helden nach dem WM-Triumph zu „Sirs of the British Empire“ zu schlagen. Ihre Namen sind heute noch Musik in meinen Ohren:
 
 Gordon Banks; George Cohen, Bobby Moore, Jack Charlton, Ray Wilson; Alan Ball, Nobby Stiles, Bobby Charlton, Martin Peters; Geoff Hurst und Roger Hunt.
 
