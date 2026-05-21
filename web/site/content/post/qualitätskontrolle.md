@@ -4,7 +4,7 @@ draft: true
 date: 2026-05-15T07:12:00.740Z
 image: img/img_0033.jpeg
 ---
-DD geht auf „all in“ und nominert anstelle der üblichen Anzahl Mittelfeldspieler (7-9) nur deren 5. Dafür sind 9 Stürmer im Aufgebot. So etwas hab ich in meiner 65 jährigen „Karriere“ noch nie erlebt. Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben. Wenn die Jungs von Luis Enrique nicht ausgelaugt sind, ist Frankreich eine Bank. Mbappé‘s Formkurve wird mitentscheidend sein.
+DIdier Deschamps geht „all in“ und nominert anstelle der üblichen Anzahl Mittelfeldspieler (7-9) nur deren 5. Dafür sind 9 Stürmer im Aufgebot. So etwas hab ich in meiner 65 jährigen „Karriere“ noch nie erlebt. Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben aud die Karte „offensiv„ zu setzen. Wenn die Jungs von Luis Enrique nicht ausgelaugt sind, ist Frankreich einer der Favoriten. . Mbappé‘s Formkurve wird mitentscheidend sein.
 
 Ständig als Klassenbester zu gelten und nie zu reüssieren. Das ist Englands Kluft zwischen Premier League und Nationalmannschaft. Ich schwöre auf die Jungs, weil sie etwas von mir haben. Neunmal stehe ich im Coop an die falsche Kasse und beim zehnten Mal klappt’s. Ist es ausgerechnet der Schwabe Thomas Tuchel der mit deutschen Tugenden meine Steilvorlage verwertet?
 
@@ -14,7 +14,7 @@ Allison-Vinicius-Ancelotti. Zu wenig für weltmeisterliche Ambitionen. Die einst
 
 Wenn ich nur nicht in diese verflixte Wahrscheinlichkeitsrechnung vernarrt wäre. Man stelle sich vor, man wechselt sein Pferdchen im dümmsten Moment. Das soll mir nicht passieren und darum ist Spanien nicht mein Weltmeister. Obwohl alles für den amtierenden Europameister spricht. Qualität, Erfahrung und dieser jugendliche Leichtsinn, den Lamin Yamal bei seinen unwiderstehlichen Dribblings versprüht. Chancenversieber Morata ist in Pension gegangen. Noch ein Problem weniger für Trainer de la Fuente.
 
-Weil ich meine deutschen Kolleginnen und Kollegen nicht vor den Kopf stossen will, lasse ich die Nagelsmänner nicht einfach links liegen. Sie scheinen mir jedoch zu normal. Musiala wenn fit und Wirz heben sich vom Durchschnitt ab. Ist Goalie Baumann der Aufgabe gewachsen? Woltemades Entwicklung ist bei Newcastle ins Stocken geraten. Sind die Jungen wie Pavlovic und Karl schon so weit?  Bauchweh macht mir dieses mögliche Achtelfinale….
+Weil ich meine deutschen Kolleginnen und Kollegen nicht vor den Kopf stossen will, lasse ich die Nagelsmänner nicht einfach links liegen. Neuers Comeback wird sich als Boumerang erweisen. An Baumanns Stelle wäre ich zurückgetreten. Es gibt Spieler, die machen es sich zu einfach. freiwillig passenSie scheinen mir jedoch zu normal. Musiala wenn fit und Wirz heben sich vom Durchschnitt ab. Ist Goalie Baumann der Aufgabe gewachsen? Woltemades Entwicklung ist bei Newcastle ins Stocken geraten. Sind die Jungen wie Pavlovic und Karl schon so weit?  Bauchweh macht mir dieses mögliche Achtelfinale….
 
 Totgesagte leben länger. Dieser Ausserirdische ist sogar in der Wüste klargekommen. Nie mein Freund, doch was recht ist, ist recht. Er hat es allen gezeigt. Kürzlich verstaute er eine weitere Trophäe in seinem Schrank. Al Nasr liegt ihm seither zu Füssen. Wenn ich mir seine Komparsen im portugiesischen Team anschaue, muss ich die Europameister von 2016 als geheime Nummer einstufen. Obwohl sie nicht auf dem Bild figurieren. Ronaldos Biographie wäre komplett.
 
