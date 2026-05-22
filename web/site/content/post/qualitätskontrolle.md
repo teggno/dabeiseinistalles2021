@@ -1,9 +1,11 @@
 ---
-title: Einer von denen 🤔. 7.6.
+title: Wer von denen?
 draft: true
 date: 2026-05-15T07:12:00.740Z
 image: img/img_0033.jpeg
 ---
+Nagelsmann-Baumann-Neuer! Der Zauderer, der Verprügelte und der Rosinenpicker. Dass der gedemütigte Hoffenheim-Keeper nicht gleich zurückgetreten ist, hat mich überrascht. Sein Trainer scheint ihn überzeugt haben, dass er bei einer Verletzung seines Widersachers doch noch auf einen Einsatz hoffen darf darf. Deutschlands Weg ist vorgezeichnet. Warmschiessen in den Gruppenspielen. Koffer packen nach 
+
 DIdier Deschamps geht „all in“ und nominert anstelle der üblichen Anzahl Mittelfeldspieler (7-9) nur deren 5. Dafür sind 9 Stürmer im Aufgebot. So etwas hab ich in meiner 65 jährigen „Karriere“ noch nie erlebt. Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben aud die Karte „offensiv„ zu setzen. Wenn die Jungs von Luis Enrique nicht ausgelaugt sind, ist Frankreich einer der Favoriten. . Mbappé‘s Formkurve wird mitentscheidend sein.
 
 Ständig als Klassenbester zu gelten und nie zu reüssieren. Das ist Englands Kluft zwischen Premier League und Nationalmannschaft. Ich schwöre auf die Jungs, weil sie etwas von mir haben. Neunmal stehe ich im Coop an die falsche Kasse und beim zehnten Mal klappt’s. Ist es ausgerechnet der Schwabe Thomas Tuchel der mit deutschen Tugenden meine Steilvorlage verwertet?
