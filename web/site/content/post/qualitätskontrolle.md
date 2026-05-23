@@ -1,5 +1,5 @@
 ---
-title: X
+title: Up 👍 and down 👎
 draft: true
 date: 2026-05-15T07:12:00.740Z
 image: img/img_0033.jpeg
