@@ -2,9 +2,9 @@
 title: Up 👍 and 👎 down
 draft: true
 date: 2026-05-15T07:12:00.740Z
-image: img/img_0033.jpeg
+image: img/img_0035.jpeg
 ---
-Ter Stegens Verletzungen bringen die deutsche Torhüter-Hierarchie durcheinander. Die Dreiecks-Posse wäre ansonsten nie entstanden. Baumann hätte sich mit der 2 begnügen müssen, Rosinenpicker Neuer wäre nicht aus dem Ruhestand zurückgekehrt und Nagelsmann hätte sich den Gesichtsverlust erspart. Stattdessen fragt sich Frau Baumann warum ihr Göttergatte die Ersatzbank dem Südseeurlaub vorzieht. Wäre der Gedemütigte nicht besser gleich zurückgetreten? Wirtz, Havertz und Musiala plagen ganz andere Sorgen. Sie haben eine Wette laufen, wer gegen Curacao öfter trifft. Deutschland hofft an alte Zeiten anknüpfen zu können, doch das verflixte Los hat andere Pläne parat. Nach dem Achtelfinale dürfte die Party vorzeitig gelaufen sein. 
+Ter Stegens Unabkömmlichkeit bringt die deutsche Torhüter-Hierarchie durcheinander. Die Dreiecks-Posse wäre ansonsten nie entstanden. Baumann hätte sich mit der 2 begnügen müssen, Rosinenpicker Neuer wäre nicht aus dem Ruhestand zurückgekehrt und Nagelsmann hätte sich den Gesichtsverlust erspart. Stattdessen fragt sich Frau Baumann warum ihr Göttergatte die Ersatzbank dem Südseeurlaub vorzieht. Wäre der Gedemütigte nicht besser gleich zurückgetreten? Wirtz, Havertz und Musiala plagen ganz andere Sorgen. Sie haben eine Wette laufen, wer gegen Curacao öfter trifft. Deutschland hofft an alte Zeiten anknüpfen zu können, doch das verflixte Los hat andere Pläne parat. Nach dem Achtelfinale dürfte die Party vorzeitig gelaufen sein. 
 
 Schuld daran ist DIdier Deschamps, der bei seiner Abschiedsgala „all in“ geht. Während meines 65 jährigen Studiums habe ich es noch nie erlebt, dass ein Trainer lediglich 5 Mittelfeldspieler und dafür 9 Stürmer nominiert. Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben voll auf die Karte „offensiv„ zu setzen. Wenn die Jungs von Luis Enrique nicht ausgelaugt sind, ist Frankreich einer der ersten Anwärter auf die Krone. Mbappé‘s Formkurve wird mitentscheidend sein.
 
