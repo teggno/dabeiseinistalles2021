@@ -1,8 +1,8 @@
 ---
-title: " Land 🇮🇹 unter"
+title: " Land unter"
 draft: true
 date: 2026-05-14T10:41:40.738Z
-image: img/img_0034.jpeg
+image: img/img_0036.jpeg
 ---
 In diesen Wochen der Isolation schauen wir Italos zurück und stellen uns vor wie es damals war. Wehmut kommt auf wenn wir uns an Pablito erinnern, der die Sambaklänge im Alleingang zum Verstummen brachte. Voller Mitleid denken wir an unseren „Divin Codino“ zurück, der an jenem vermaledeiten Nachmittag seinen Elfer in den Nachthimmel von Pasadena schoss. Und Giuseppe sind wir ewig dankbar. Nicht umsonst überschrieben wir ihm 1980 den Tempel von San Siro. Dir lieber Karl-Heinz werden wir niemals böse sein, auch wenn du uns in Mexicos Gluthitze bis zur 120sten leiden liesst. Wenn uns Roberto und sein Freund Luca durch den Kopf gehen, kommt uns ihre Umarmung von Wembley in den Sinn, als sie zusammen mit ihrer 0815-Truppe das Wunder von London schufen. Toto werden wir auch nie vergessen. Er, der mt seinen leuchtenden Augen eine ganze Nation verzaubert hat. Und Fabio erst, der uns nach seinem verwandelten Penalty auf Wolke 7 schweben liess. Wir waren die Meister im Beton anmischen, unsere Konter über alle Kontinente hinaus gefürchtet.
 
