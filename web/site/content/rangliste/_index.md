@@ -23,7 +23,7 @@ song:
     Hier kommt er ⚽️ dahergeflogen! Er, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Mein lieber  Freund, es war ein langer kalter Winter. Vier lange Jahre ist es her, seitdem du dich zum letzten Mal hast blicken lassen. Gleich kehrt das Lächeln auf unseren Gesichtern zurück. Wo hast du dich nur rumgetrieben? 🎶🎶🎶 sun, sun sun, here it comes. sun, sun, sun, here it comes. 🎶🎶🎶 Mein lieber Freund, ich fühle, wie das Eis langsam schmilzt und alles wieder gut wird. Hier kommt er unser Schatz aus längst vergangenen Kindertagen und alles ist wieder gut.
 
 
-    Sie schrieben es im Jahr 69! Und siehe da, fast 60 Jahre später dient der Kulthit „Come together“ als Vorstellungsgespräch für Englands 26 Auserwählte. Nicht etwa „Maruja“ oder die „Artic Monkeys“ durften eines ihrer aktuellen GassenhauerLied beisteuern, sondern die guten, alten Beatles! 
+    Sie schrieben es im Jahr 69! Und siehe da, fast 60 Jahre später dient der Kulthit „Come together“ als Vorstellungsgespräch für Englands 26 Auserwählte. Nicht etwa „Maruja“ oder die „Artic Monkeys“ durften einen ihrer aktuellen Gassenhauer beisteuern, sondern die guten, alten Beatles!  John, Paul, George & Ringo. Da kann kommen wer will, ihr bleibt bis ans Ende der Tage die absolute Number One 👏 
 
 
 
