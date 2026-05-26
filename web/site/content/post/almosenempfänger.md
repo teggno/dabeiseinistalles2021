@@ -1,5 +1,5 @@
 ---
-title: " Almosen? Warum nicht!"
+title: " Almosen"
 draft: true
 date: 2026-05-14T10:41:40.738Z
 image: img/img_0034.jpeg
