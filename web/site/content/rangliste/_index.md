@@ -17,8 +17,8 @@ song:
   description: >+
     Wer hätte die WM 2026 besser lancieren können als die unsterblichen FAB
     FOUR!? Auf ihrer legendären LP „Abbey Road“ sind gleich zwei ihrer
-    unzähligen Kulthits zu finden. Come Together auf Seite A und Here comes the
-    sun auf Seite B. Der erste dient gerade als „Vorstellungsgespräch“ für
+    unzähligen Kulthits zu finden. „Come Together“ auf Seite A und „Here comes
+    the sun“ auf Seite B. Der erste dient gerade als „Vorstellungsgespräch“ für
     Englands 26 Auserwählte, der zweite soll unsere siebenwöchige Tour nach
     Amerika eröffnen. Mit ein paar wenigen Textkorrekturen knüpfen John, Paul,
     George und Ringo dort an, wo sie vor 57 Jahren aufgehört hatten 🥳 Hier
