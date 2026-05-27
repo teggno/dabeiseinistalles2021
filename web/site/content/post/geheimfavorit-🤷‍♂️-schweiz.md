@@ -5,7 +5,7 @@ date: 2026-05-27T06:32:16.129Z
 image: img/img_0740.jpeg
 ---
 \
-Man stelle sich vor die Schweiz schafft das Double! Eishockey und Fussball! Ein Sommermärchen ohne Vergleich! Von wegen 10-Millionengrenze, dann hätten andere Überlegungen erste Priorität. Zum Beispiel eine Annexion umliegender Fremdgebiete, damit man die Masse von Einbürgerungswilligen auch unterbringen kann. Da nützen alle Blochers und Köppels nichts mehr. Die Schweiz wird überrollt. Gohts no bisch nümä ganz bachä, dänn verzichtämär freiwillig uf dä Doppelpack!
+Man stelle sich vor die Schweiz schafft das Double! Eishockey und Fussball! Ein Sommermärchen ohne Vergleich! Von wegen 10-Millionengrenze, dann hätten andere Überlegungen erste Priorität. Zum Beispiel eine Annexion umliegender Fremdgebiete, damit man die Masse von Einbürgerungswilligen auch unterbringen könnte. Da nützen alle Blochers und Köppels nichts mehr. Die Schweiz würde überrollt. „Gohts no bisch nümä ganz bachä, dänn verzichtämär freiwillig uf dä Doppelpack.“
 
 Spass beiseite liebe Sportskameraden! In dieser Truppe steckt eine Menge Qualität.
 
