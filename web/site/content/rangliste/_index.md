@@ -27,7 +27,7 @@ song:
     kalter Winter. Vier lange Jahre ist es her, seitdem du dich zum letzten Mal
     hast blicken lassen und gleich kehrt das Lächeln auf unseren Gesichtern
     zurück. Wo hast du dich nur rumgetrieben? 🎶🎶🎶 sun, sun sun, here it
-    comes. sun, sun, sun, here it comes. 🎶🎶🎶 Mein lieber Freund, ich fühle,
+    comes. sun, sun, sun, here it comes. 🎶🎶🎶 Mein lieber Freund, ich fühle
     wie das Eis langsam schmilzt und alles wieder gut wird. Hier kommt er unser
     Freund ⚽️ aus längst vergangenen Kindertagen und alles ist wieder gut.
 
