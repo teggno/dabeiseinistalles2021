@@ -5,7 +5,7 @@ date: 2026-05-27T12:10:08.910Z
 image: img/img_0267.jpeg
 ---
 \
-Ein **Rauschzustand** ist ein vorübergehender, veränderter Bewusstseinszustand, der durch den Konsum von psychotropen Substanzen wie Alkohol, Drogen, Medikamenten oder durch extreme (Sehn)Süchte ausgelöst wird. Er ist durch erhebliche Abweichungen von der normalen psychischen und physischen Verfassung gekennzeichnet und erfordert unbedingt eine Blitz-Therapie! (Teilweise gestohlen bei KI)
+Ein **Rauschzustand** ist ein vorübergehender, veränderter Bewusstseinszustand, der durch den Konsum von psychotropen Substanzen wie Alkohol, Drogen, Medikamenten oder durch sonstige extreme (Sehn)Süchte ausgelöst wird. Er ist durch erhebliche Abweichungen von der normalen psychischen und physischen Verfassung gekennzeichnet und erfordert unbedingt eine Blitz-Therapie! (Teilweise gestohlen bei KI)
 
 Endlich! Nach zweiwöchiger Fronarbeit will ich auf meiner Lieblingsinsel Capri für ein paar Tage mein eigenes Ich 🙈 wiederfinden. Vor lauter Fussball, sind mir die elementarsten Dinge abhandengekommen. Schlaf 💤 und andere Sinnesfreuden 🍔 gerieten in Vergessenheit. Jetzt will ich zwischen Grotta Azzurra und Faraglioni ein paar Tage lang ausspannen. Hoch oben auf dem Monte Solaro, wohin mich eine Sesselbahn bringt, die Gottseidank nur knapp über den Zitronenbäumen schwebt, werde ich das zweiwöchige Vorgeplänkel dieser Pseudo-WM verdrängen und mich auf die kommenden KO-Partien konzentrieren.
 
