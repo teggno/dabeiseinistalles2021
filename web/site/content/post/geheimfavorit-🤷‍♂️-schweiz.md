@@ -1,7 +1,7 @@
 ---
 title: Geheimfavorit 🤷‍♂️
 draft: true
-date: 2025-12-28T15:15:43.363Z
+date: 2026-05-27T06:32:16.129Z
 image: img/img_0740.jpeg
 ---
 Man stelle sich vor, die Eidgenossen vergessen für einmal dass sie ein kleines Land bleiben wollen und katapultieren sich in die Phalanx der Erlauchten. Wie es die Urus damals vormachten, als das 3-Millionen-Land den grossen Nachbarn in tiefe Depressionen stürzte. „Gohts no, bisch nümä ganz bachä!?“ Meine Pappenheimer aus Neuwiesen und Altnau hör ich wohl! Den Jungs lass ich ausrichten, dass eine Menge Qualität in der Mannschaft steckt Schliesslich sind Xhaka & Co. nicht einfach so bei den besten Adressen unter Vertrag!  Wer mit viel Pech ein EM-Halbfinale verpasst, darf sich durchaus Chancen auf ein WM-Halbfinale ausrechnen. Leistet Glücksgöttin Fortuna, wenn’s vom Elfermeterpunkt zur Sache geht entscheidenden Beistand, ist alles möglich.
