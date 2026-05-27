@@ -16,15 +16,21 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Wer hätte die WM 2026 besser lancieren können als die unsterblichen FAB
-    FOUR!? Mit einem Song, der im Jahre 1969 auf ihrer legendären LP
-    „Abbey-Road“  für Furore sorgte. Mit ein paar kleinen Textkorrekturen sind
-    sie nun vereint. Die Musik 🎶 und das runde Leder ⚽️ 
+    FOUR!? Auf ihrer legendären LP „Abbey Road“ sind gleich zwei ihrer
+    unzähligen Kulthits zu finden. Come Together auf Seite A und Here comes the
+    sun auf Seite B. Der erste dient gerade als „Vorstellungsgespräch“ für
+    Englands 26 Auserwählte, der zweite soll unsere siebenwöchige Tour nach
+    Amerika eröffnen. Mit ein paar wenigen Textkorrekturen knüpfen John, Paul,
+    George und Ringo dort an, wo sie vor 57 Jahren aufgehört hatten 🥳 Hier
+    kommt er nun dahergeflogen! Er, der uns alle so glücklich stimmt. Und auf
+    einmal ist alles in bester Ordnung. Mein lieber  Freund, es war ein langer
+    kalter Winter. Vier lange Jahre ist es her, seitdem du dich zum letzten Mal
+    hast blicken lassen. Gleich kehrt das Lächeln auf unseren Gesichtern zurück.
+    Wo hast du dich nur rumgetrieben? 🎶🎶🎶 sun, sun sun, here it comes. sun,
+    sun, sun, here it comes. 🎶🎶🎶 Mein lieber Freund, ich fühle, wie das Eis
+    langsam schmilzt und alles wieder gut wird. Hier kommt er unser Schatz aus
+    längst vergangenen Kindertagen und alles ist wieder gut.
 
-
-    Hier kommt er nun dahergeflogen! Er, der uns alle so glücklich stimmt. Und auf einmal ist alles in bester Ordnung. Mein lieber  Freund, es war ein langer kalter Winter. Vier lange Jahre ist es her, seitdem du dich zum letzten Mal hast blicken lassen. Gleich kehrt das Lächeln auf unseren Gesichtern zurück. Wo hast du dich nur rumgetrieben? 🎶🎶🎶 sun, sun sun, here it comes. sun, sun, sun, here it comes. 🎶🎶🎶 Mein lieber Freund, ich fühle, wie das Eis langsam schmilzt und alles wieder gut wird. Hier kommt er unser Schatz aus längst vergangenen Kindertagen und alles ist wieder gut.
-
-
-    Sie schrieben es im Jahr 69! Und siehe da, fast 60 Jahre später dient der Kulthit „Come together“ als Vorstellungsgespräch für Englands 26 Auserwählte. Nicht etwa „Bring me the Horizon“ oder die „Artic Monkeys“ durften einen ihrer aktuellen Gassenhauer beisteuern, sondern die guten, alten Beatles!  John, Paul, George & Ringo. Da kann kommen wer will, ihr bleibt bis ans Ende der Tage die absolute Number One 👏 
 
 
 
