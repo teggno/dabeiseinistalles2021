@@ -1,5 +1,5 @@
 ---
-title: Z
+title: Jeder Schuss ein Treffer!
 draft: true
 date: 2026-05-27T10:16:35.545Z
 image: img/img_0040.jpeg
