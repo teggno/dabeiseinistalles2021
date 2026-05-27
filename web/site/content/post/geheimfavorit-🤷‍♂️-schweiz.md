@@ -1,5 +1,5 @@
 ---
-title: Geheimfavorit❓
+title: Geheimfavorit 🤷‍♂️
 draft: true
 date: 2025-12-28T15:15:43.363Z
 image: img/img_0740.jpeg
