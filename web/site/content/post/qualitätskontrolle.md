@@ -4,7 +4,7 @@ draft: true
 date: 2026-05-15T07:12:00.740Z
 image: img/img_0035.jpeg
 ---
-Ter Stegens Unabkömmlichkeit hat die deutsche Torhüter-Hierarchie durcheinandergebracht. Die Dreiecks-Posse wäre ansonsten nie entstanden. Baumann hätte sich einvernehmlich mit der 2 abgefunden, Rosinenpicker Neuer wäre nicht aus dem Ruhestand zurückgekehrt und Nagelsmann hätte sich den Gesichtsverlust erspart. Stattdessen fragt sich Frau Baumann warum ihr Göttergatte nicht gleich den Bettel hingeworfen hat und mit ihr in die Südsee gefahren ist.
+Ter Stegens Unabkömmlichkeit hat die deutsche Torhüter-Hierarchie durcheinandergebracht. Die Dreiecks-Posse wäre ansonsten nie entstanden. Baumann hätte sich einvernehmlich mit der 2 zufriedengegeben, Rosinenpicker Neuer wäre nicht aus dem Ruhestand zurückgekehrt und Nagelsmann hätte sich den Gesichtsverlust erspart. Stattdessen fragt sich Frau Baumann warum ihr Göttergatte nicht gleich den Bettel hingeworfen hat und mit ihr in die Südsee gefahren ist.
 
 Ein weiteres Problem könnte im Lauf der WM hinten rechts entstehen. Warum Kimmich dort hoch und runter malochen soll, ist mir ein Rätsel, nachdem er bei Bayern seit Jahren einen tollen Job im zentralen Mittelfeld verrichtet. Trainer haben mitunter komische Einfälle. Havertz, Musiala und Wirtz plagen ganz andere Sorgen. Nachdem sich Woltemade nicht mehr aufdrängt, haben die drei eine Wette laufen, wer gegen Curacao öfters trifft. Das sich anbahnende Schützenfest dürfte unsere Wetten unmittelbar beeinflussen, Deutschland ist voller Hoffnung an alte Zeiten anknüpfen zu können, doch das verflixte Los präsentierte eine knifflige Aufgabe. Frankreich im Achtelfinale scheint mir fast nicht machbar. 
 
