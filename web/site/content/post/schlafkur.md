@@ -1,5 +1,5 @@
 ---
-title: Capri c‘est fini
+title: Capri c‘est (pas) fini
 draft: true
 date: 2026-05-27T12:10:08.910Z
 image: img/img_0267.jpeg
