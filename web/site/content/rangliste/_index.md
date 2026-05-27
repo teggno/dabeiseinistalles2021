@@ -25,11 +25,11 @@ song:
     kommt er nun dahergeflogen! Er, der uns alle so glücklich stimmt. Und auf
     einmal ist alles in bester Ordnung. Mein lieber  Freund, es war ein langer
     kalter Winter. Vier lange Jahre ist es her, seitdem du dich zum letzten Mal
-    hast blicken lassen. Gleich kehrt das Lächeln auf unseren Gesichtern zurück.
-    Wo hast du dich nur rumgetrieben? 🎶🎶🎶 sun, sun sun, here it comes. sun,
-    sun, sun, here it comes. 🎶🎶🎶 Mein lieber Freund, ich fühle, wie das Eis
-    langsam schmilzt und alles wieder gut wird. Hier kommt er unser Schatz aus
-    längst vergangenen Kindertagen und alles ist wieder gut.
+    hast blicken lassen und gleich kehrt das Lächeln auf unseren Gesichtern
+    zurück. Wo hast du dich nur rumgetrieben? 🎶🎶🎶 sun, sun sun, here it
+    comes. sun, sun, sun, here it comes. 🎶🎶🎶 Mein lieber Freund, ich fühle,
+    wie das Eis langsam schmilzt und alles wieder gut wird. Hier kommt er unser
+    Freund ⚽️ aus längst vergangenen Kindertagen und alles ist wieder gut.
 
 
 
