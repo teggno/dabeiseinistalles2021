@@ -1,5 +1,5 @@
 ---
-title: Let’s Go!
+title: Fiesta Mexicana
 draft: true
 date: 2026-05-26T11:51:13.424Z
 image: img/img_0038.jpeg
