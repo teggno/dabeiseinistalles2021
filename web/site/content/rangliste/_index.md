@@ -19,7 +19,7 @@ song:
     FOUR!? Auf ihrer legendären LP „Abbey Road“ sind gleich zwei ihrer
     unzähligen Kulthits zu finden. „Come Together“ auf Seite A und „Here comes
     the sun“ auf Seite B. Der erste dient gerade als „Vorstellungsgespräch“ für
-    Tuchels 26 Auserwählte, der zweite soll unsere siebenwöchige Tour in Amerika
+    Tuchels 26 Auserwählte, der zweite soll unsere siebenwöchige Amerika-Tour
     eröffnen. John, Paul, George & Ringo! 
 
 
