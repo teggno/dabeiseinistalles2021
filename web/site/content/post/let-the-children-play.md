@@ -12,6 +12,6 @@ Nachdem klar war, dass wir loslassen mussten, war die Verzweiflung riesig. So gr
 
 PS: Wenn die Party vorbei ist und der Weltmeister feststeht, werden wir unserem Klassenbesten einen Barscheck in der Höhe von 5️⃣0️⃣0️⃣ Franken überreichen. Die Nummer 2 bekommt einen Brunch-Gutschein im Wert von 1️⃣0️⃣0️⃣ Franken und die Nummer 3  einen Apéro-Gutschein im Wert von  5️⃣0️⃣  Franken. Beide vom Porto Sophie in Gottlieben. Nicht vergessen wollen wir die „Rote🏮Laterne“, die mit für ihr bitteres Los mit einem edlen Tropfen bedacht wird.
 
-Ich freue mich zusammen mit euch auf spannende Wochen in Amerika. Wegen Zeitverschiebungen werden meine täglichen ??? Berichte womöglich zu den unterschiedlichsten Zeiten erscheinen. Ohne den „Schlaf des Gerechten“ wird der Schreiberling nicht über die Runden kommen.
+Ich freue mich zusammen mit euch auf spannende Wochen in Amerika. Wegen Zeitverschiebungen werden meine Wasserstandsmeldungen womöglich zu den unterschiedlichsten Zeiten erscheinen. Ohne den „Schlaf des Gerechten“ wird der Schreiberling nicht über die Runden kommen.
 
 I wish you „Good Vibrations“ 🥳
