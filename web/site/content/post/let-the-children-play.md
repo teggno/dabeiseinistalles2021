@@ -10,7 +10,7 @@ Es freut mich ausserordentlich, dass von A wie Affentranger bis Z wie Zaccaria a
 
 Nachdem klar war, dass wir loslassen mussten, war die Verzweiflung riesig. So gross, dass das sechste Gebot Gottes in Vergessenheit geriet. Auf einmal trafen bei der Jury Dutzende von Anträgen ein. Jeder wollte sie haben. Obwohl auf Anbandeln mit der Nachbarin die Höchststrafe steht. Früher meist als Mauerblümchen links liegengelassen, ist sie mittlerweile eine der Hautattraktionen. In den Händen von Ziehvater Yakin noch viel schöner geworden. Der weitläufigen Skepsis so mancher Ureinwohner zum Trotz!
 
-Nach dem Schlusspfiff am 19. Juli darf sich unser Klassenbester  5️⃣0️⃣0️⃣ Franken in bar gutschreiben lassen.  Die Nummer 2 erhält einen Brunch-Gutschein aus dem Porto Sophie in Gottlieben im Wert von 1️⃣0️⃣0️⃣ Franken und die Nummer 3  einen Apéro-Gutschein im Wert von  5️⃣0️⃣  Franken. Nicht vergessen wollen wir die „Rote 🏮 Laterne“, die mit einem edlen Tropfen für ihr bitteres Schicksal belohnt wird.
+Wenn alles vorbei ist, werden wir unserem Klassenbesten einen  Barcheck5️⃣0️⃣0️⃣ Franken in bar gutschreiben lassen.  Die Nummer 2 erhält einen Brunch-Gutschein aus dem Porto Sophie in Gottlieben im Wert von 1️⃣0️⃣0️⃣ Franken und die Nummer 3  einen Apéro-Gutschein im Wert von  5️⃣0️⃣  Franken. Nicht vergessen wollen wir die „Rote 🏮 Laterne“, die mit einem edlen Tropfen für ihr bitteres Schicksal belohnt wird.
 
 Ich freue mich zusammen mit euch auf spannende Wochen in Amerika. Wegen Zeitverschiebungen werden meine (vielleicht) täglichen Berichte womöglich zu den unterschiedlichsten Zeiten erscheinen. Ohne den „Schlaf des Gerechten“ wird der Schreiberling nicht über die Runden kommen.
 
