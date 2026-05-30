@@ -10,7 +10,7 @@ Es freut mich ausserordentlich, dass von A wie Affentranger bis Z wie Zaccaria a
 
 Nachdem klar war, dass wir loslassen mussten, war die Verzweiflung riesig. So gross, dass das sechste Gebot Gottes in Vergessenheit geriet. Auf einmal trafen bei der Jury Dutzende von Anträgen ein. Fast jeder Secondo wollte sie haben. Obwohl auf Anbandeln mit der Nachbarin die Höchststrafe steht. Früher meist als Mauerblümchen links liegengelassen, ist sie mittlerweile eine der Hauptattraktionen im Feld. Unter den Fittichen von Ziehvater Yakin zu wahrer Schönheit erblüht. Den Unkenrufen vieler Ureinwohner zum Trotz.
 
-Wenn alles vorbei ist, werden wir unserem Klassenbesten einen Barscheck in der Höhe von 5️⃣0️⃣0️⃣ Franken überreichen. Die Nummer 2 erhält einen Brunch-Gutschein aus dem Porto Sophie in im Wert von 1️⃣0️⃣0️⃣ Franken und die Nummer 3  einen Apéro-Gutschein im Wert von  5️⃣0️⃣  Franken. Nicht vergessen wollen wir die „Rote🏮Laterne“, die mit einem edlen Tropfen für ihr bitteres Los bedacht wird.
+Wenn alles vorbei ist und der Weltmeister feststeht, werden wir unserem Klassenbesten einen Barscheck in der Höhe von 5️⃣0️⃣0️⃣ Franken überreichen. Der Nummer 2 bekommt einen Brunch-Gutschein im Wert von 1️⃣0️⃣0️⃣ Franken vom Porto Sophie und die Nummer 3  einen Apéro-Gutschein im Wert von  5️⃣0️⃣  Franken. Nicht vergessen wollen wir die „Rote🏮Laterne“, die mit einem edlen Tropfen für ihr bitteres Los bedacht wird.
 
 Ich freue mich zusammen mit euch auf spannende Wochen in Amerika. Wegen Zeitverschiebungen werden meine (vielleicht) täglichen Berichte womöglich zu den unterschiedlichsten Zeiten erscheinen. Ohne den „Schlaf des Gerechten“ wird der Schreiberling nicht über die Runden kommen.
 
