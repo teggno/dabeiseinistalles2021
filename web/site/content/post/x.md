@@ -1,5 +1,5 @@
 ---
-title: "Gespielte Nonchalance "
+title: No comment
 draft: true
 date: 2026-05-26T12:52:12.303Z
 image: img/img_0039.jpeg
