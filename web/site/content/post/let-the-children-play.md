@@ -16,8 +16,8 @@ PREISE
 
 Platz 1 5️⃣0️⃣0️⃣ SFR in bar
 
-Platz 2 1️⃣0️⃣0️⃣ SFR-Brunch-Gutschein vom Porto Sophie 
+Platz 2 1️⃣0️⃣0️⃣ SFR-Gutschein vom Porto Sophie 
 
-Platz 3       5️⃣0️⃣ SFR-Apéro-Gutschein vom Porto Sophie
+Platz 3       5️⃣0️⃣ SFR Gutschein vom Porto Sophie
 
-Rote🏮Laterne
+Rote🏮Laterne 1 Fl. Rotwein Weinkellerei „Zapfen“
