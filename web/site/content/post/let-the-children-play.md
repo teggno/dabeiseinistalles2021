@@ -20,4 +20,4 @@ Platz 2 1️⃣0️⃣0️⃣ SFR-Gutschein vom Porto Sophie
 
 Platz 3       5️⃣0️⃣ SFR Gutschein vom Porto Sophie
 
-Rote🏮Laterne 1 Fl. Rotwein Weinkellerei „Zapfen“
+Rote🏮Laterne 1 Fl. Hauswein Weinkellerei „Zapfen“
