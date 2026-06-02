@@ -3,9 +3,8 @@ title: Rangliste
 date: 2025-06-28T16:21:39.959Z
 image: ""
 showPlaceholder: true
-placeholder: "
-
-  Bald geht’s los 🤗 Mit „Gossip“ und Songs aus der Mottenkiste 🥳
+placeholder: "In wenigen Stunden geht’s los 🤗 Mit Klatsch und Tratsch und den
+  guten alten Songs aus der Mottenkiste 🥳
 
 
 
