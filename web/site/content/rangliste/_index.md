@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: true
 placeholder: "
 
-  Bald geht’s los 🤗 mit „Gossip“ und Musik 🎶\ 
+  Bald geht’s los 🤗 Mit „Gossip“ und Songs aus der Mottenkiste 🥳
 
 
 
