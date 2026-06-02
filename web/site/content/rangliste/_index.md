@@ -3,13 +3,7 @@ title: Rangliste
 date: 2025-06-28T16:21:39.959Z
 image: ""
 showPlaceholder: true
-placeholder: "
-
-  Dieser Seite 📜 ist die Lust vergangen 😞
-
-
-
-  \ "
+placeholder: "\nBald geht’s los 🤗\n\n\n "
 song:
   title: RAFFI‘S JUKEBOX  🎸 Queen  ▶️  The show must go on
   url: https://www.youtube.com/watch?v=t99KH0TR-J4&list=RDt99KH0TR-J4&start_radio=1&pp=ygUVcXVlZW4gc2hvdyBtdXN0IGdvIG9uoAcB
