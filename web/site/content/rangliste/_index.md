@@ -16,7 +16,7 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Zurück in alter Frische! Mit den unvergesslichen Queen, die die Party 🥳
-    offiziell eröffnen. The show must go on! Let’s go Freddy 🎇
+    offiziell eröffnen. The show must go on! Andiamo Freddy 🎇
 
 
 
