@@ -14,10 +14,10 @@ Ich freue mich zusammen mit euch auf spannende Wochen in Amerika. Wegen Zeitvers
 
 PREISE
 
-Platz 1 5️⃣0️⃣0️⃣ SFR in bar
+Platz 1 5️⃣0️⃣0️⃣ Fr. in bar
 
-Platz 2 1️⃣0️⃣0️⃣ SFR-Gutschein vom Porto Sophie 
+Platz 2 1️⃣0️⃣0️⃣ Fr.-Gutschein vom Porto Sophie 
 
-Platz 3       5️⃣0️⃣ SFR Gutschein vom Porto Sophie
+Platz 3       5️⃣0️⃣ Fr. Gutschein vom Porto Sophie
 
 Rote🏮Laterne 1 Fl. Hauswein Weinkellerei „Zapfen“
