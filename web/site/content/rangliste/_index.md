@@ -1,8 +1,8 @@
 ---
 title: Rangliste
-date: 2025-06-28T16:21:39.959Z
+date: 2026-06-03T07:18:51.434Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: "\n\n\n "
 song:
   title: RAFFI‘S JUKEBOX  🎸 Queen  ▶️  The show must go on
