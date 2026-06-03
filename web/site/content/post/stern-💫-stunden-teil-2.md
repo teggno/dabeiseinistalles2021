@@ -29,4 +29,4 @@ WELTMEISTERSCHAFTEN 1982-2022
 
 2️⃣0️⃣2️⃣2️⃣ darf FIFA-Boss Infantino samt „Anhang“ die Gastfreundschaft Arabiens geniessen. Als Zeichen der Wertschätzung stellt er den gesamten Kalender auf den Kopf und  gibt der Vorweihnachtszeit eine spezielle Note. Kolo Muani hat Sekunden vor Sendeschluss die Entscheidung auf dem Fuss, doch Argentiniens Keeper Dibu Martínez holt zum Spagat seines Lebens aus. Galionsfigur Messi,  ist am Ziel seiner Träume.
 
-2️⃣0️⃣2️⃣6️⃣
+2️⃣0️⃣2️⃣6️⃣ verzichtet Italien zum dritten Male hintereinander freiwillig auf eine Teilnahme und ebnet der Schweiz den Weg. Auf der Piazza Cisternino direkt am Boulevard spielen sich Szenen ab, die man in den 60er Jahren kaum für möglich gehalten hätte. Alle haben sich lieb. Von Annexion des südlichen Nachbarn ist die Rede.
