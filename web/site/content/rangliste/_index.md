@@ -2,7 +2,7 @@
 title: Rangliste
 date: 2026-06-03T07:18:51.434Z
 image: ""
-showPlaceholder: true
+showPlaceholder: false
 placeholder: "\n\n\n "
 song:
   title: RAFFI‘S JUKEBOX  🎸 Mina   ▶️  Ancora Ancora Ancora
