@@ -10,8 +10,9 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Ancora, ancora, ancora! Was 1978 so harmlos daherkam, sollte 2026 zu einem
-    Sturm der Entrüstung führen Italiens „Helden“ hatten Mina beim Wort genommen
-    und gerieten zum dritten Male hintereinander auf die schiefe Bahn 🥹
+    Sturm der Entrüstung führen. Italiens „Helden“ hatten Mina beim Wort
+    genommen und gerieten zum dritten Male hintereinander auf die schiefe Bahn
+    🥹
 
 
 
