@@ -10,8 +10,8 @@ song:
   image: img/img_0637.jpeg
   description: >+
     Ancora, ancora, ancora! Was 1978 so harmlos daherkam, sollte 2026 zu einem
-    Sturm der Entrüstung führen Dreimal hintereinander eine WM ohne Italien 🫢
-    das war des Guten zu viel 
+    Sturm der Entrüstung führen Italiens „Helden“ nahmen Mina beim Wort und
+    gerieten zum dritten Mal hintereinander auf die schiefe Bahn 🥹
 
 
 
