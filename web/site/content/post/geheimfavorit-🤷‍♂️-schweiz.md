@@ -1,5 +1,5 @@
 ---
-title: Geheimfavorit 🇨🇭
+title: Geheimfavorit⁉️
 draft: true
 date: 2026-05-27T06:32:16.129Z
 image: img/img_0740.jpeg
