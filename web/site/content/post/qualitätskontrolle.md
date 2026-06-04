@@ -8,9 +8,11 @@ Es gibt Pechvögel auf dieser Welt. Einer davon heisst André ter Stegen! Jahrel
 
 Als bei Manuel das Telephon klingelte war Julian dran und berichtete ihm vom nächtlichen Malheur. Der Bayern-Goalie, ziemlich rekonvaleszent, war gleich Feuer und Flamme und die Dreiecks-Posse begann. Am Ende wollte Frau Baumann von ihrem Mann wissen, warum er den Bettel nicht gleich hingeworfen hatte. Sie hätte gern mit ihm Urlaub gemacht. Jetzt blüht ihm dasselbe Schicksal wie seinem Vorgänger und der Rückkehrer auf Zeit pickt sich die Rosinen raus.
 
-Gegen Curacao könnten sogar unsere vier ehemaligen „Fliegenfänger“ Rolf, Zeljko, Renato und Giacomo das deutsche Tor hüten und es würde nichts anbrennen. Im Achtelfinale gegen Frankreich sieht es allerdings anders aus. Da braucht es den Neuer von 2014. Jener vom Spiel gegen Real Madrid könnte Fragen aufwerfen, die Nagelsmann lieber niemals beantworten möchte.
+Gegen Curacao könnten sogar unsere vier ehemaligen „Fliegenfänger“ Rolf, Zeljko, Renato und Giacomo das deutsche Tor hüten und es würde nichts anbrennen. Im Achtelfinale gegen Frankreich sieht es allerdings anders aus. Da braucht es den Neuer von 2014. Jener vom Spiel gegen Real Madrid könnte Fragen aufwerfen, die Nagelsmann lieber nicht beantworten möchte
 
-Auf die Frage wer hinten rechts spieltTrainer haben mitunter komische Einfälle. Havertz, Musiala und Wirtz plagen ganz andere Sorgen. Nachdem sich Woltemade nicht mehr aufdrängt, haben die drei eine Wette laufen, wer gegen Curacao öfters trifft. Das sich anbahnende Schützenfest dürfte unsere Wetten unmittelbar beeinflussen. Deutschland ist voller Hoffnung an alte Zeiten anknüpfen zu können, doch das verflixte Los hat fürs Achtelfinale eine knifflige Aufgabe parat. 
+Wenn‘s hinten nicht stimmt.
+
+
 
 Die heisst auf einen knappen Nenner gebracht, wie knacke ich die Franzosen. Didier Deschamps hat für seine Abschiedstour lediglich 5 Mittelfeldspieler und „stolze“ 9 Stürmer nominiert. Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben voll auf die Offensive  zu setzen. Sind die Jungs aus dem Stall „Luis Enrique“ nach dem müden CL-Finalkick ausgelaugt? Falls Kapitän Mbappé schon wieder vergessen sollte, dass ihn die meisten von uns auf dem Zettel haben, könnte Frankreich zur negativen Überraschung dieses Turniers werden. Gegen oder mit dem Strom schwimmen, das ist hier die Frage.
 
