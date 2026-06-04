@@ -4,7 +4,7 @@ draft: true
 date: 2026-06-04T17:53:21.039Z
 image: img/img_0048.jpeg
 ---
-Es gibt Pechvögel auf dieser Welt! Einer davon heisst André ter Stegen! Jahrelang verrichtete er ohne aufzubegehren seinen Job als Nummer 2! Als er schliesslich den Chefposten hätte übernehmen sollen, begann sein Körper zu streiken. Hoffenheim-Keeper Baumann sprang ein und lieferte solide Arbeit. Die Hierarchie schien gegeben. Bis Nagelsmann eines Nachts einen schrecklichen Traum hatte. Was, wenn wir wegen Baumann nicht Weltmeister werden.
+Gibt es nicht Pechvögel auf dieser Welt!? Einer davon heisst André ter Stegen! Jahrelang verrichtete er ohne aufzubegehren seinen Job als Nummer 2! Als er schliesslich den Chefposten hätte übernehmen sollen, begann sein Körper zu streiken. Hoffenheim-Keeper Baumann sprang ein und lieferte solide Arbeit. Die Hierarchie schien gegeben. Bis Nagelsmann eines Nachts einen schrecklichen Traum hatte. Was, wenn wir wegen Baumann nicht Weltmeister werden.
 
 Als am nächsten Morgen bei Manuel das Telephon klingelte war Julian dran und berichtete ihm vom nächtlichen Malheur. Der Bayern-Goalie, ziemlich rekonvaleszent, war gleich Feuer und Flamme. Jetzt stand nur noch die Frage im Raum: Wie kommen die zwei aus dieser miesen Nummer raus. Am Ende wollte Frau Baumann von ihrem Mann wissen, warum er den Bettel nicht gleich hingeschmissen hätte. 
 
