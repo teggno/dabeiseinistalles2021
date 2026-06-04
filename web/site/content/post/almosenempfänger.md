@@ -1,7 +1,7 @@
 ---
 title: " Land unter"
 draft: false
-date: 2026-06-03T17:15:35.060Z
+date: 2026-06-04T05:00:57.655Z
 image: img/img_0036.jpeg
 ---
 In diesen schmerzhaften Tagen der globalen Isolation schauen wir Italos zurück und stellen uns vor wie es damals war. Wehmut kommt auf wenn wir uns an Pablito erinnern, der die Sambaklänge im Alleingang zum Verstummen brachte. Voller Mitleid denken wir an unseren „Divin Codino“ zurück, der an jenem vermaledeiten Sonntagnachmittag seinen Elfer in die Wolken von Pasadena hämmerte. Und Giuseppe sind wir ewig dankbar. Nicht umsonst überschrieben wir ihm 1980 den Tempel von San Siro. Dir lieber Karl-Heinz werden wir niemals böse sein, auch wenn du uns in Mexicos Gluthitze bis zur 120sten leiden liesst. Wenn uns „Judas“ Roberto und sein Freund Gianluca durch den Kopf gehen, kommt uns ihre innige Umarmung von Wembley in den Sinn, als sie zusammen mit ihrer 0815-Truppe das Wunder von London schufen. Toto wird immer einen besonderen Platz in unseren Herzen einnehmen. Er, der mit seinen leuchtenden Augen eine ganze Nation verzauberte. Und Fabio erst, der uns nach seinem verwandelten Penalty wochenlang auf Wolke 7 schweben liess. Wir waren die Meister im Beton mischen, unsere Konter über die Grenzen hinaus gefürchtet.
