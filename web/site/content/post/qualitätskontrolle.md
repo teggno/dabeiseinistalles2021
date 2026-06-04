@@ -2,7 +2,7 @@
 title: X
 draft: true
 date: 2026-05-15T07:12:00.740Z
-image: img/img_0035.jpeg
+image: img/img_0048.jpeg
 ---
 Es gibt Pechvögel auf dieser Welt. Einer davon heisst André ter Stegen! Jahrelang verrichtete er ohne Aufzubegehren seinen Job als Nummer 2! Als er schliesslich den Chefposten hätte übernehmen sollen, begann sein Körper zu streiken. Hoffenheim-Keeper Baumann übernahm und lieferte solide Arbeit. Die Hierarchie schien klar. Bis Nagelsmann eines nachts einen schrecklichen Traum hatte. Was wenn wir wegen Baumann nicht Weltmeister werden.
 
