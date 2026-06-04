@@ -11,8 +11,8 @@ song:
   description: >+
     Ancora, ancora, ancora! Frei übersetzt: Scho widdär, scho widdär, scho
     widdär! Was 1978 so harmlos daherkam, sollte 2026 zu einem Sturm der
-    Entrüstung führen 🫢 Dreimal hintereinander eine WM ohne Italien, das war
-    des Guten zu viel 
+    Entrüstung führen Dreimal hintereinander eine WM ohne Italien 🫢 das war des
+    Guten zu viel 
 
 
 
