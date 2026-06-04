@@ -1,5 +1,5 @@
 ---
-title: "Letzte Manöver "
+title: Dreiecksverhältnisse
 draft: true
 date: 2026-05-15T07:12:00.740Z
 image: img/img_0048.jpeg
