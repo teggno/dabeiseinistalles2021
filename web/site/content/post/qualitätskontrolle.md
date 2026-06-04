@@ -8,7 +8,7 @@ Es gibt Pechvögel auf dieser Welt! Einer davon heisst André ter Stegen! Jahrel
 
 Als bei Manuel das Telephon klingelte war Julian dran und berichtete ihm vom nächtlichen Malheur. Der Bayern-Goalie, ziemlich rekonvaleszent, war gleich Feuer und Flamme. Jetzt stand nur noch die Frage im Raum: Wie kommen die zwei aus dieser miesen Nummer raus. Am Ende wollte Frau Baumann von ihrem Mann wissen, warum er den Bettel nicht gleich hingeschmissen hätte. 
 
-Gegen Curacao könnten sogar unsere vier ehemaligen „Fliegenfänger“ Rolf, Zeljko, Renato und Giacomo das deutsche Tor hüten und es würde nichts anbrennen. Im Achtelfinale gegen Frankreich sieht es allerdings anders aus. Da braucht es den Neuer von 2014. Jener vom Spiel gegen Real Madrid könnte Fragen aufwerfen, die Nagelsmann lieber nicht beantworten möchte. 
+Curacao dürfte für den Rosinenpicker aus München nur ein leichtes Anschwitzen sein. Da würde selbst mit unseren ehemaligen „Fliegenfängern“ Rolf, Zeljko, Renato und Giacomo nichts anbrennen. Bedeutend anspruchsvoller ist die Aufgabe Im Achtelfinale gegen Frankreich. Dort braucht es den Neuer Ausgabe 2014. Jener vom Spiel gegen Real Madrid könnte Fragen aufwerfen, die Nagelsmann lieber nicht beantworten möchte. 
 
 Stimmts hinten nicht, sind Wirtz, Musiala und Habertz da. Woltemade hat Terrain verloren, dafür ist Undav nicht nur in der Gunst seines Trainers gestiegen. Auch hier in der Provinz hat er ein riesiges Fanlager.
 
