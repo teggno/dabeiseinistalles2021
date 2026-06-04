@@ -1,5 +1,5 @@
 ---
-title: Dreiecksverhältnisse
+title: Dreiecksverhältnis
 draft: true
 date: 2026-06-04T17:53:21.039Z
 image: img/img_0048.jpeg
