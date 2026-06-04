@@ -20,4 +20,4 @@ Platz 2 1️⃣0️⃣0️⃣ Fr.-Gutschein vom Porto Sophie
 
 Platz 3       5️⃣0️⃣ Fr. Gutschein vom Porto Sophie
 
-Rote🏮Laterne 1 Fl. Hauswein Weinkellerei „Zapfen“
+Rote🏮Laterne 1 edler „Kochwein“ von Lidl
