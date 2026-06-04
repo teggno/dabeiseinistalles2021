@@ -1,0 +1,14 @@
+---
+title: Up 👍 and  👎 down
+draft: true
+date: 2026-06-04T16:24:59.104Z
+---
+Soviel zu unserem nördlichen Nachbarn. Westlich von uns schwingt dä Didi zum letzten Mal seinen Hammer. Für seine Abschiedstour hat er lediglich 5 Mittelfeldspieler und „stolze“ 9 Stürmer nominiert. Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben voll auf die Offensive  zu setzen. Sind die Jungs aus dem Stall „Luis Enrique“ nach dem müden CL-Finalkick ausgelaugt? Falls Kapitän Mbappé schon wieder vergessen sollte, dass ihn die meisten von uns auf dem Zettel haben, könnte Frankreich zur negativen Überraschung dieses Turniers werden. Gegen oder mit dem Strom schwimmen, das ist hier die Frage.
+
+Auch Messi & Co. gehören zum erweiterten Favoritenkreis. Den Pokal den sie mitführen, wollen sie unbedingt wieder nach Hause nehmen. Lionel ist vier Jahre älter geworden, doch Solari vertraut ihm dennoch. Genauso wie fast allen anderen, die 2022 dabei waren. Marcello Lippi hatte 2010 dieselbe Idee! Wie wir alle wissen, ging sein Festhalten an der Vergangenheit in die Hosen. Argentinien‘s USA-Trip dürfte weniger dramatisch ausfallen. Göttin Fortuna war den Tangotänzern bei der Auslosung  wohl gesinnt. Bis zum Viertelfinale dürfte es ein gemütlicher Spaziergang werden.
+
+Spanien Europameister, Spanien Weltmeister. Die Fachexperten erinnern sich, es geschah in den Jahren 2008 und 2010! Die Chancen stehen sehr gut, dass sich die Geschichte wiederholt. Viel Qualität, noch mehr Erfahrung und dieser jugendliche Leichtsinn sind im Überfluss vorhanden. Weil Chancenversieber Morata in Pension gegangen ist, dürften sich auch  vorne im Zentrum neue Laufwege auftun. Yamal ist einer der Anwärter auf den Oscar. Trainer de la Fuente hat die Fäden fest in der Hand. Kuriosität: Im spanischen Team steht kein einziger „Galactico“. Ein Grund dich zu schämen du stolzes Madrid!
+
+Soeben ist er zum x-ten Male gekürt worden! Dieser Ausserirdische mit dem stets arroganten Touch ist sogar in der Wüste eine Nummer für sich. Mein Busenfreund war er nie, doch das tut nichts zur Sache. Er hat es allen gezeigt. Die Fans von Al Nasr liegen ihm zu Füssen. Nun soll er Portugal den Weg  ins Paradies zeigen. Wenn ich seine Teamkollegen ins Kalkül miteinbeziehe,  muss ich den Europameister von 2016 als Geheimnummer einstufen. Ronaldos Biographie wäre somit (fast) fertiggeschrieben.
+
+All jenen die Alltägliches „verabscheuen“,  lege ich zwei Aussenseiter ans Herz. Die Langlaufnation Norwegen hat neuerdings auch im Fussball einiges drauf und der am grünen Tisch gekürte Afrikameister Marokko zählt beinahe schon zu den Etablierten. Wenn Haaland ebenso funktioniert wie unter Guardiola, dürften die Norweger den Brasilianern im Viertelfinale das Leben schwer machen. Marokko kennt den Weg bereits. 2022 verloren sie erst im Halbfinale gegen Frankreich.
