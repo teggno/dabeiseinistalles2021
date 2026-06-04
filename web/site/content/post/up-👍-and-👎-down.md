@@ -3,7 +3,7 @@ title: Up 👍 and  👎 down
 draft: true
 date: 2026-06-04T16:24:59.104Z
 ---
-Didi auf Abschiedstournee! Wenn einer „all in“ geht dann er. 9 Verteidiger, 5 Mittelfeldspieler und „stolze“ 9 Stürmer! Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben voll auf die Offensive  zu setzen. Sind die Jungs aus dem Gestüt „Luis Enrique“ ausgelaugt? Falls Kapitän Mbappé schon wieder vergessen sollte, dass ihn die meisten von uns auf dem Zettel haben, könnte Frankreich zur negativen Überr
+Didi auf Abschiedstournee! Wenn einer „all in“ geht dann er. 9 Verteidiger, 5 Mittelfeldspieler und „stolze“ 9 Stürmer! Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben voll auf die Offensive  zu setzen. Sind die Jungs aus dem Gestüt „Luis Enrique“ ausgelaugt? Falls Kapitän Mbappé schon wieder vergessen sollte, dass ihn die meisten von uns auf dem Zettel haben, könnte Frankreich zur negativen ÜberrWenn es dumm läuft, könnte Frankreich hinter Norwegen und Senegal sogar nur Gruppendritter werden. Nur damit ich es gesagt habe und nachher keine Reklamationen kommen. Gäll Bruno 🫢
 
 Auch Messi & Co. gehören zum erweiterten Favoritenkreis. Den Pokal den sie mitführen, wollen sie unbedingt wieder nach Hause nehmen. Lionel ist vier Jahre älter geworden, doch Solari vertraut ihm dennoch. Genauso wie fast allen anderen, die 2022 dabei waren. Marcello Lippi hatte 2010 dieselbe Idee! Wie wir alle wissen, ging sein Festhalten an der Vergangenheit in die Hosen. Argentinien‘s USA-Trip dürfte weniger dramatisch ausfallen. Göttin Fortuna war den Tangotänzern bei der Auslosung  wohl gesinnt. Bis zum Viertelfinale dürfte es ein gemütlicher Spaziergang werden.
 
