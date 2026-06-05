@@ -7,7 +7,7 @@ image: img/img_0722.jpeg
 \
  WELTMEISTERSCHAFTEN 1930-1978
 
-1️⃣9️⃣3️⃣0️⃣ bekommt der Fussball endlich das was ihm gebührt! Ein Turnier, das die weltweite Crème de la Crème im Vierjahres-Rhytmus zusammenbringt. Als amtierender Olympiasieger darf sich Uruguay um die Organisation der Erstauflage kümmern.  Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Fehlende Devisen sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Der Gastgeber macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem legendären Jules-Rimet-Wanderpokal!
+1️⃣9️⃣3️⃣0️⃣ ist es soweit. König Fussball bekommt  endlich das was ihm gebührt! Ein Turnier, das die weltweite Crème de la Crème im Vierjahres-Rhytmus zusammenbringt. Als amtierender Olympiasieger darf sich Uruguay um die Organisation der Erstauflage kümmern.  Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Fehlende Devisen sollen der Grund für die kräftezehrende Überfahrt gewesen sein. Der Gastgeber macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem legendären Jules-Rimet-Wanderpokal!
 
 1️⃣9️⃣3️⃣4️⃣  holt sich Italien den ersten von insgesamt vier WM-Titeln. Im Finale von Rom haben die Tschechoslowaken nach der Verlängerung das Nachsehen. Legionär Piola und Sturmführer Meazza sind die Protagonisten.
 
