@@ -30,4 +30,4 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣7️⃣4️⃣ trifft des Kaisers Eleganz auf des Königs Genialität! Beckenbauers 50 Meterpässe aus dem Fussgelenk sind eine Augenweide! Crujff’s Interpretation einer modernen Nummer 10 ist reine Poesie! Die Rolle des WM-Helden fällt  jedoch einem anderen zu! „Kleines, dickes Müller“ verewigt sich mit seinem Abstauber aus halber Drehung, der in keinem Lehrbuch zu finden ist, in den Annalen. Gerd, du bist und bleibst die grösste 9️⃣ aller Zeiten.
 
-1️⃣9️⃣7️⃣8️⃣ hat Rob Rensenbrink wenige Sekunden vor Schluss den Matchball auf seinem starken linken Fuss, doch wiederum haben die Niederländer das Nachsehen. Passarella-Ardiles-Kempes und auf der Trainerbank Cesar Luis Menotti Argentiniens feiert vor heimischer Kulisse seinen ersten WM-Titel.
+1️⃣9️⃣7️⃣8️⃣ hat Rob Rensenbrink wenige Sekunden vor Schluss den Matchball auf seinem starken linken Fuss, doch wiederum haben die Niederländer das Nachsehen. Passarella-Ardiles-Kempes als Achse auf dem Rasen und  Cesar Luis Menotti alias „El Flaco“ auf der Trainerbank. Argentinien feiert vor heimischer Kulisse seinen ersten WM-Titel.
