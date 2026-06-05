@@ -5,7 +5,7 @@ image: ""
 showPlaceholder: false
 placeholder: "\n\n\n "
 song:
-  title: RAFFI‘S JUKEBOX  🎸 Mina   ▶️  Ancora Ancora Ancora
+  title: RAFFI‘S JUKEBOX  🎸 Katja Ebstein  ▶️  🙈🙈🙈
   url: https://www.youtube.com/watch?v=1ItLLu4wppo&list=RD1ItLLu4wppo&start_radio=1&pp=ygUZYW5jb3JhIGFuY29yYSBhbmNvcmEgbWluYaAHAdIHCQkoCwGHKiGM7w%3D%3D
   image: img/img_0637.jpeg
   description: >+
