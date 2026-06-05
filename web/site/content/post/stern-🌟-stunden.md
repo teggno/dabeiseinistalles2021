@@ -9,9 +9,9 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣3️⃣0️⃣ ist es soweit. König Fussball bekommt  endlich das was ihm gebührt! Ein Turnier, das die weltweite Crème de la Crème im Vierjahres-Rhytmus zusammenbringt. Als amtierender Olympiasieger darf sich Uruguay um die Organisation der Erstauflage kümmern.  Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Der Gastgeber macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem legendären Jules-Rimet-Wanderpokal!
 
-1️⃣9️⃣3️⃣4️⃣  holt sich Italien den ersten von insgesamt vier WM-Titeln. Im Finale von Rom haben die Tschechoslowaken nach der Verlängerung das Nachsehen. Legionär Piola und Sturmführer Meazza sind die Protagonisten.
+1️⃣9️⃣3️⃣4️⃣ holt sich Italien den ersten von insgesamt vier WM-Titeln. Im Finale von Rom haben die Tschechoslowaken nach der Verlängerung das Nachsehen. Legionär Piola und Sturmführer Meazza sind die Protagonisten.
 
-1️⃣9️⃣3️⃣8️⃣ doppelt die Squadra Azzurra nach. Trainerlegende Vittorio Pozzo baut erneut auf seinen „Stamm“ und setzt sich im Stade de Colombes mit 4:2 gegen die Ungarn durch. Es sind die schlimmen Jahre des Faschismus, in denen Bennito Mussolini  den WM-Triumph zu Propagandazwecken missbraucht.
+1️⃣9️⃣3️⃣8️⃣ doppelt die Squadra Azzurra nach. Trainerlegende Vittorio Pozzo baut erneut auf seinen Stamm und setzt sich im Finale mit 4:2 gegen die Ungarn durch. Es sind die schlimmen Jahre des Faschismus, in denen Bennito Mussolini  den WM-Triumph zu Propagandazwecken missbraucht.
 
 1942 und 1946 fällt die WM wegen des 2. Weltkrieges aus.  
 
