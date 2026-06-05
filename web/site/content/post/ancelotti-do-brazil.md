@@ -4,7 +4,7 @@ draft: true
 date: 2026-05-19T21:08:40.575Z
 image: img/img_0008.jpeg
 ---
-Fragt man Thomas Müller, Paolo Maldini oder Luca Modric, bekommt man stets dieselbe Antwort: Carlo Ancelotti ist ein Gentleman! Umgänglich, ausgeglichen, kompetent. Boss und Kumpel zugleich. Für viele seiner Jungspunde auch Vaterfigur. Nur wenn er seine linke Augenbraue höher zieht als die rechte, ist mit ihm nicht gut Kirschen essen. Das bekam sogar Milan-Boss Silvio Berlusconi zu spüren, als er ihm vor den Spielen die Aufstellung suggerieren wollte.
+Fragt man Thomas Müller, Paolo Maldini oder Luca Modric, bekommt man stets dieselbe Antwort: Carlo Ancelotti ist ein Gentleman! Umgänglich, ausgeglichen, kompetent. Boss und Kumpel zugleich. Für viele seiner Jungspunde auch eine  Vaterfigur. Nur wenn er seine linke Augenbraue höher zieht als die rechte, ist mit ihm nicht gut Kirschen essen. Das bekam sogar Milan-Besitzer Silvio Berlusconi zu spüren, als er ihm vor den Spielen die Aufstellung suggerieren wollte.
 
 Aufzählungen allein werden ihm nicht gerecht.Da war der Spieler mit der  Rückennummer 8, der sowohl defensiv wie offensiv Akzente setzte. An der Seite von Frank Rijkaard und Ruud Gullit war er Milans Motor im zentralen Mittelfeld, der auch in der Lage war, den öffnenden Pass auf die 9 zu spielen. Mit Marco van Basten hatte er den genialen Abnehmer in seinen Reihen. Als Spieler Mittelklasse als Trainer Weltklasse! Sein Palmares spricht Bände. Wer mit Milan, Bayern, Paris und Real unzählige Trophäen einsammelt, hat sich den Platz in den Top-Ten redlich verdient.
 
