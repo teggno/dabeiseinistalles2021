@@ -1,7 +1,7 @@
 ---
 title: "Sternstunden Teil 1   "
 draft: false
-date: 2026-06-05T19:15:36.930Z
+date: 2026-06-05T22:07:26.902Z
 image: img/img_0722.jpeg
 ---
 \
