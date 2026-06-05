@@ -1,6 +1,6 @@
 ---
 title: Dreiecksverhältnis
-draft: true
+draft: false
 date: 2026-06-04T17:53:21.039Z
 image: img/img_0050.jpeg
 ---
