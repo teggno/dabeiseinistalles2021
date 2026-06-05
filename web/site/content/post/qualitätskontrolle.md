@@ -1,7 +1,7 @@
 ---
 title: Dreiecksverhältnis
 draft: false
-date: 2026-06-04T17:53:21.039Z
+date: 2026-06-05T04:34:31.673Z
 image: img/img_0050.jpeg
 ---
 Pechvögel gibt es viele auf dieser Welt! Marc-André ter Stegen ist einer von ihnen. Jahrelang verrichtete er ohne aufzubegehren seinen Job als zuverlässige Nummer 2! Als er schliesslich den Chefposten hätte übernehmen sollen, begann sein Körper zu streiken. Hoffenheim-Keeper Baumann sprang ein und lieferte solide Arbeit. Die Hierarchie schien gegeben. Bis Nagelsmann eines Nachts einen schrecklichen Traum hatte. Was, wenn wir wegen Baumann nicht Weltmeister werden.
