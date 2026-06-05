@@ -1,5 +1,5 @@
 ---
-title: Dreiecksverhältnis
+title: Dreiecksgeschichten
 draft: false
 date: 2026-06-05T04:34:31.673Z
 image: img/img_0050.jpeg
