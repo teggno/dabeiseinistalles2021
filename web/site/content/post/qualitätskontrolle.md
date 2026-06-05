@@ -6,7 +6,7 @@ image: img/img_0050.jpeg
 ---
 Pechvögel gibt es viele auf dieser Welt! Marc-André ter Stegen ist einer davon! Jahrelang verrichtete er ohne aufzubegehren seinen Job als zuverlässige Nummer 2! Als er schliesslich den Chefposten hätte übernehmen sollen, begann sein Körper zu streiken. Hoffenheim-Keeper Baumann sprang ein und lieferte solide Arbeit. Die Hierarchie schien gegeben. Bis Nagelsmann eines Nachts einen schrecklichen Traum hatte. Was, wenn wir wegen Baumann nicht Weltmeister werden.
 
-Als am nächsten Morgen bei Manuel das Telephon klingelte und Julian ihm vom nächtlichen Vorfall berichtete, war der Bayern-Goalie Feuer und Flamme. Jetzt galt es nur noch aus dieser miesen Nummer rauszukommen. Als  Frau Baumann abends am Nachttisch von der „Beförderung“ ihres Mannes erfuhr, wollte sie nur eines wissen: „Oliver, warum hast du nicht gleich hingeschmissen“.
+Als am nächsten Morgen bei Manuel das Telephon klingelte und Julian ihm vom nächtlichen Vorfall berichtete, war der Bayern-Goalie Feuer und Flamme. Endlich hatte er seinen Nebenjob wieder, den er nach der EM auf Lebzeiten gekündigt hatte. Jetzt galt es nur noch aus dieser miesen Nummer rauszukommen. Als  Frau Baumann abends am Nachttisch von der „Beförderung“ ihres Mannes erfuhr, wollte sie nur eines wissen: „Oliver, warum hast du nicht gleich hingeschmissen“.
 
 Curaçao dürfte für den Rosinenpicker aus München nur ein leichtes Anschwitzen sein. Da würde selbst mit unseren ehemaligen „Fliegenfängern“ Renato, Zeljko, Giacomo und Rolf nichts anbrennen. Bedeutend anspruchsvoller wird die Aufgabe im Achtelfinale gegen Frankreich. Dort braucht es den Neuer Ausgabe 2014. Bei jenem vom Spiel gegen Real Madrid könnten Fragen auftauchen, die Nagelsmann lieber nicht beantworten möchte. 
 
