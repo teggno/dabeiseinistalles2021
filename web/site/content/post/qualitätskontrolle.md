@@ -8,7 +8,7 @@ Pechvögel gibt es viele auf dieser Welt! Marc-André ter Stegen ist einer von i
 
 Als am nächsten Morgen bei Manuel das Telephon klingelte und Julian ihm vom nächtlichen Vorfall berichtete, war der Bayern-Goalie Feuer und Flamme. Endlich hatte er seinen Nebenjob wieder, den er nach der EM auf Lebzeiten gekündigt hatte. Jetzt galt es nur noch aus der miesen Nummer rauszukommen. Als  Frau Baumann abends am Nachttisch von der „Beförderung“ ihres Mannes erfuhr, wollte sie nur eines von ihm wissen: „Oliver, warum hast du nicht gleich hingeschmissen“.
 
-Curaçao dürfte den Rosinenpicker aus München GeDa würde selbst mit unseren ehemaligen „Fliegenfängern“ Renato, Zeljko, Giacomo und Rolf nichts anbrennen. Bedeutend anspruchsvoller wird die Aufgabe im Achtelfinale gegen Frankreich. Dort braucht es den Neuer Ausgabe 2014. 
+Curaçao dürfte dem Rosinenpicker aus München keine schlaflosen Nächte bereiten. Gegen die designierten Prügelknaben würde selbst mit unseren ehemaligen „Fliegenfängern“ Giacomo, Rolf, Zeljko und Renato nichts. anbrennen. Bedeutend anspruchsvoller wird die Aufgabe im Achtelfinale gegen Frankreich. Dort braucht es den Neuer Ausgabe 2014. Aussetzer wie gegen Madrid könnten seinen Mentor in die Bredouille bringe.
 
 Eine weitere Baustelle tut sich hinten rechts auf. Ein Problem, das eigentlich keines ist. Es wird doch im Achzigmillionenland Deutschland einen geben, der an der Linie hoch und runterlaufen kann 😎 Muss es denn wirklich einer der besten Mittelfeldspieler sein, der diesen Part übernimmt? Kimmich ist prädestiniert bei diesem Turnier hin und her geschoben zu werden. Weniger Handlungsbedarf besteht in der Offensive. Wirtz, Musiala und Havertz sind gesetzt. Undav und Woltemade bleiben vorerst draussen.
 
