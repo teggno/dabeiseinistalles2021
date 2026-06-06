@@ -9,7 +9,7 @@ image: img/img_0722.jpeg
 
 1️⃣9️⃣3️⃣0️⃣ ist es soweit. König Fussball bekommt  endlich das was ihm gebührt! Ein Turnier, das die Crème de la Crème im Vierjahres-Rhytmus zusammenbringt. Als amtierender Olympiasieger darf sich Uruguay um die Organisation der Première kümmern. Lediglich 13 Mannschaften, von denen die meisten mit dem Schiff anreisen, geben sich in Montevideo ein Stelldichein. Der Gastgeber macht sich den Heimvorteil zunutze und verewigt sich als erste Nation auf dem legendären Wanderpokal „Jules Rimet“!
 
-1️⃣9️⃣3️⃣4️⃣ holt sich Italien den ersten von insgesamt vier WM-Titeln. Im Finale von Rom haben die Tschechoslowaken nach der Verlängerung das Nachsehen. Legionär Piola und Sturmführer Meazza sind die Protagonisten.
+1️⃣9️⃣3️⃣4️⃣ holt sich Italien den ersten von insgesamt vier WM-Titeln. Im Finale von Rom haben die Tschechoslowaken nach der Verlängerung das Nachsehen. Legionär Piola und die Legende Giuseppe Meazza sind die Protagonisten.
 
 1️⃣9️⃣3️⃣8️⃣ doppelt die Squadra Azzurra nach. Trainerlegende Vittorio Pozzo baut erneut auf seinen Stamm und setzt sich im Finale mit 4:2 gegen die Ungarn durch. Es sind die schrecklichen Jahre des Nationalsozialismus, in denen Italiens Diktator Bennito Mussolini  den WM-Triumph zu Propagandazwecken missbraucht.
 
