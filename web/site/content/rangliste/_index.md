@@ -6,7 +6,7 @@ showPlaceholder: false
 placeholder: "\n\n\n "
 song:
   title: RAFFI‘S JUKEBOX  🎸 The Beatles  ▶️  Here comes the sun
-  url: https://www.youtube.com/watch?v=tGbRZ73NvlY&list=RDtGbRZ73NvlY&start_radio=1&pp=ygUXYnVlbmEgdmlzdGEgc29jaWFsIGNsdWKgBwE%3D
+  url: https://www.youtube.com/watch?v=KQetemT1sWc&list=RDKQetemT1sWc&start_radio=1&pp=ygUSaGVyZSBjb21lcyB0aGUgc3VuoAcB
   image: img/img_0637.jpeg
   description: "\n\n\n\n\n\n\n\n\n\n\n\n\n"
 type: rangliste
