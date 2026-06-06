@@ -22,4 +22,4 @@ Platz 2 1️⃣0️⃣0️⃣ Fr.-Gutschein vom Porto Sophie
 
 Platz 3       5️⃣0️⃣ Fr. Gutschein vom Porto Sophie
 
-Rote🏮 un Primitivo🍷“Senza Parole“
+Rote🏮 Ein Primitivo🍷 der Marke “Senza Parole“
