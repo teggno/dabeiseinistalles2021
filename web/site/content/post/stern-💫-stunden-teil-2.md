@@ -1,7 +1,7 @@
 ---
 title: "Sternstunden Teil 2  "
 draft: true
-date: 2025-11-27T09:32:39.307Z
+date: 2026-06-06T22:04:02.631Z
 image: img/img_0733.jpeg
 ---
 \
@@ -28,5 +28,3 @@ WELTMEISTERSCHAFTEN 1982-2022
 Über 2️⃣0️⃣1️⃣8️⃣ legen wir den Mantel des Schweigens. Unverblümt lässt Vladimir Putin seiner Propagandamaschine freien Lauf und lullt seine Freunde aus Ost und West gekonnt ein. Der Fussball gerät fast in Vergessenheit. Aussenseiter Kroatien wächst dank Luca Modric weit über sich hinaus und muss sich erst im Endspiel den Franzosen geschlagen geben. Didier Deschamps bedankt sich bei seinem neuen Wunderkind Kilian Mbappé. 
 
 2️⃣0️⃣2️⃣2️⃣ darf die Fussballwelt dank FIFA-Präsident Infantino  einen Monat lang in der Wüste logieren. Als Zeichen der Wertschätzung stellt er den gesamten Kalender auf den Kopf und  gibt der Vorweihnachtszeit eine spezielle Note. Kolo Muani hat Sekunden vor Sendeschluss die Entscheidung auf dem Fuss, doch Argentiniens Keeper Dibu Martínez holt zum Spagat seines Lebens aus. Galionsfigur Messi,  ist am Ziel seiner Träume.
-
-2️⃣0️⃣2️⃣6️⃣ verzichtet Italien zum dritten Male hintereinander freiwillig auf eine WM-Teilnahme und ebnet der Schweiz den Weg. Auf der Piazza Cisternino direkt am Boulevard spielen sich herzergreifende Szenen ab. Alle haben sich lieb. Ein Secondo der 20 Jahre lang im „Koma“ lag, irrt freudestrahlend durch die Gegend und gratuliert seinen „connazionali“ zum Sieg. Bis er feststellen muss, dass nicht Italien sondern die Schweiz Weltmeister geworden ist. Der Mann versteht die Welt nicht mehr. Impossibile, impossibile murmelt er vor sich hin und fällt vor lauter Glück gleich wieder in Ohnmacht.
