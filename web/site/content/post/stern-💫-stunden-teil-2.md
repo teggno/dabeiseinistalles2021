@@ -13,7 +13,7 @@ WELTMEISTERSCHAFTEN 1982-2022
 
 1️⃣9️⃣9️⃣0️⃣ hat Andy Brehme die Ruhe weg, als er im Finale das direkte Duell gegen Penaltykiller Goycochea mit einem Schuss ins linke untere Eck für sich entscheidet. Franz Beckenbauer geniesst den Augenblick auf seine Weise. Maradona weint bei der Übergabe der Silbermedaillen bittere Tränen und vergisst, dass das Leben manchmal gibt und manchmal wieder nimmt.
 
-1️⃣9️⃣9️⃣4️⃣ schiesst Roberto Baggio seinen Elfer ins zehnte Stockwerk. Er der mit dem Leder stets auf „du“ war! Dieses Missgeschick sollte ihn ein Leben lang verfolgen.Es war eines der unspektakulärsten Endspiele in der Geschichte des Fussballs. Trotz Romario und Bebeto für Brasilien das vierte WM-Gold ins Trockene bringen. Zum ersten Mal seit „Menschengedenken“ wieder dabei ist die Schweiz, die sich sehr gut verkauft
+1️⃣9️⃣9️⃣4️⃣ schiesst Roberto Baggio seinen Elfer ins zehnte Stockwerk. Er der mit dem Leder stets auf „du“ war! Dieses Missgeschick sollte ihn ein Leben lang verfolgen.Es war eines der unspektakulärsten Endspiele in der Geschichte des Fussballs. Trotz Romario und Bebeto, diefür Brasilien das vierte WM-Gold ins Trockene bringen. Zum ersten Mal seit „Menschengedenken“ wieder dabei ist die Schweiz, die sich sehr gut verkauft
 
 1️⃣9️⃣9️⃣8️⃣  ritzt der fingerfertige Graveur nach einem einseitigen Finale zum ersten Mal den Namen „ Frankreich“ auf dem Wanderpokal ein. Zinedine Zidane hatte die Last einer ganzen Nation auf seine Schultern genommen. Eine Aufgabe die eigentlich seinem Widersacher Ronaldo auf den Leib geschrieben war. Wäre da nicht Montezumas Rache dazwischen gekommen. 
 
