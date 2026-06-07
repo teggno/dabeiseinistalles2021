@@ -1,7 +1,7 @@
 ---
 title: "Sternstunden Teil 2  "
 draft: false
-date: 2026-06-06T22:04:31.043Z
+date: 2026-06-07T05:36:47.437Z
 image: img/img_0733.jpeg
 ---
 \
