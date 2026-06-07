@@ -10,7 +10,7 @@ song:
   image: img/img_0637.jpeg
   description: >+
     
-    An einem Tag die Beatles und am nächsten die Stones. Mir würde es eigentlich reichen. Material wäre genug da. Doch weil Geschmäcker verschieden sind, werde ich ab und zu auch die Nationalliga B berücksichtigen 🫢
+    An einem Tag die Beatles und am nächsten die Stones. Mir würde es eigentlich reichen. Material wäre genug vorhanden. Doch weil Geschmäcker verschieden sind, werde ich ab und zu auch die Nationalliga B berücksichtigen 🫢
 
 
 
