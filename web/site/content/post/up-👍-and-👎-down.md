@@ -4,7 +4,7 @@ draft: false
 date: 2026-06-08T07:03:58.755Z
 image: img/img_0033.jpeg
 ---
-Didi auf Abschiedstournee! Wenn ich seine Nominationen anschaue, gibt’s nur ein Fazit. Der Mann geht „all in“. Ich mag mich nicht erinnern, dass ein Trainer für ein so wichtiges Turnier 9 Stürmer aufgeboten hat. Entweder lässt er ein 4-2-4 mit ständigen Rotationen spielen oder seine Angreifer sind dermassen flexibel, dass sie ausser im Tor überall eingesetzt werden können. Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben voll auf die Offensive  zu setzen.
+Didi auf Abschiedstournee! Wenn ich seine Nominierungen betrachte, gibt’s nur ein Fazit. Der Mann geht „all in“. Ich mag mich nicht erinnern, dass ein Trainer für ein so wichtiges Turnier 9 Stürmer aufgeboten hat. Entweder lässt er ein 4-2-4 mit ständigen Rotationen spielen oder seine Angreifer sind dermassen flexibel, dass sie ausser im Tor überall eingesetzt werden können. Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben voll auf die Offensive  zu setzen.
 
 Das macht durchaus Sinn, wenn die Jungs aus dem Gestüt „Luis Enrique“ voll im Saft sind. Ein Wort noch zu Mbappé: Es ist schon häufiger vorgekommen, dass Kilian vergessen hat, dass ihn die meisten von uns auf dem Zettel haben. Die Enttäuschung war jeweils riesengross, dass die 99:1 Wette nicht aufging. Wenn es dumm läuft, könnte Frankreich in dieser ausgeglichenen Gruppe hinter Norwegen und Senegal nur Dritter werden. Ich wollte es einfach erwähnt haben. Im Nachhinein sind wir ja alle schlauer. Les Bleus als negative Überraschung dieses Turniers? Eine heisse Wette, ich weiss.
 
