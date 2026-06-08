@@ -17,6 +17,10 @@
   from = "/"
   to = "https://dabeiseinistalles.wegsam.ch"
 
+[[redirects]]
+  from = "https://dabeiseinistalles.netlify.app"
+  to = "https://dabeiseinistalles.wegsam.ch"
+  
   ## (optional) Settings for Netlify Dev
   ## https://github.com/netlify/cli/blob/main/docs/netlify-dev.md#project-detection
   #[dev]
