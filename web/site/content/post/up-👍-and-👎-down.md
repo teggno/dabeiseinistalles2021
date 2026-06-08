@@ -1,7 +1,7 @@
 ---
 title: Up 👍 and  👎 down
 draft: false
-date: 2026-06-04T16:24:59.104Z
+date: 2026-06-08T07:03:58.755Z
 image: img/img_0033.jpeg
 ---
 Didi auf Abschiedstournee! Wenn ich seine Nominationen anschaue, gibt’s nur ein Fazit. Der Mann geht „all in“. Ich mag mich nicht erinnern, dass ein Trainer für ein so wichtiges Turnier 9 Stürmer aufgeboten hat. Entweder lässt er ein 4-2-4 mit ständigen Rotationen spielen oder seine Angreifer sind dermassen flexibel, dass sie ausser im Tor überall eingesetzt werden können. Das 5:4 zwischen Paris und Bayern muss ihn zusätzlich ermutigt haben voll auf die Offensive  zu setzen.
