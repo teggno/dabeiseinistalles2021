@@ -1,6 +1,6 @@
 ---
 title: Up 👍 and  👎 down
-draft: false
+draft: true
 date: 2026-06-08T07:03:58.755Z
 image: img/img_0033.jpeg
 ---
