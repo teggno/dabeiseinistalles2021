@@ -12,14 +12,17 @@
   #  status = 200
   from = "/*"
   to = "https://dabeiseinistalles.wegsam.ch"
+  status = 301
 
 [[redirects]]
   from = "/"
   to = "https://dabeiseinistalles.wegsam.ch"
+  status = 301
 
 [[redirects]]
   from = "https://dabeiseinistalles.netlify.app"
   to = "https://dabeiseinistalles.wegsam.ch"
+  status = 301
   
   ## (optional) Settings for Netlify Dev
   ## https://github.com/netlify/cli/blob/main/docs/netlify-dev.md#project-detection
